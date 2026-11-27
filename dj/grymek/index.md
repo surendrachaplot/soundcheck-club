@@ -1,6 +1,6 @@
 # Grymek
 
-Grymek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location Cracow Old Town, Krakow on Fri, 4 Dec 2026.
+Grymek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location Cracow Old Town, Krakow on Fri, 4 Dec 2026.
 
 Grymek is a techno and psytrance artist, with 15 gigs on soundcheck across Krakow. Often billed alongside A.C., 2LAV and Firefly. Next up: TBA - Secret Location Cracow Old Town, Krakow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Grymek is a techno and psytrance artist, with 15 gigs on soundcheck across Krako
 
 A.C., 2LAV, Firefly
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grymek/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grymek/)*

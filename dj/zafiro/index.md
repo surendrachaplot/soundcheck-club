@@ -1,8 +1,8 @@
 # Zafiro
 
-Zafiro is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 28 Nov 2026.
+Zafiro is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 28 Nov 2026.
 
-Zafiro is a house and electronica artist based in Colombia, with 18 gigs on soundcheck across Bogotá and Melbourne. Often billed alongside Zjoso, Benny Salvador and Charlie Bucket. Next up: Second Story Studios, Melbourne on Sat 28 Nov.
+Zafiro is a house and electronica artist based in Colombia, with 19 gigs on soundcheck across Bogotá and Melbourne. Often billed alongside Zjoso, Benny Salvador and Charlie Bucket. Next up: Second Story Studios, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zafiro is a house and electronica artist based in Colombia, with 18 gigs on soun
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Second Story Studios | Melbourne |
 | Sat, 28 Nov 2026 | El Espacio | Bogotá |
+| Wed, 2 Dec 2026 | Revolver Upstairs | Melbourne |
 | Fri, 18 Dec 2026 | The Quadraphonic Club | Melbourne |
 
 ## Recently played
@@ -27,4 +28,4 @@ Zafiro is a house and electronica artist based in Colombia, with 18 gigs on soun
 
 Zjoso, Benny Salvador, Charlie Bucket
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*

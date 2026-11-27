@@ -1,8 +1,8 @@
-# Halo Varga
+# HALO
 
-Halo Varga is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Union Française de Montréal, Montreal on Fri, 27 Nov 2026.
+HALO is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Union Française de Montréal, Montreal on Fri, 27 Nov 2026.
 
-Halo Varga is a house and minimal artist based in United States of America, with 48 gigs on soundcheck across Chicago, Croatia, Detroit and London and 10 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: Union Française de Montréal, Montreal on Fri 27 Nov.
+HALO is a house and minimal artist based in United States of America, with 48 gigs on soundcheck across Chicago, Croatia, Detroit and London and 10 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: Union Française de Montréal, Montreal on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Halo Varga is a house and minimal artist based in United States of America, with
 
 Krane, Adam Rose, Enzo Muro
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*

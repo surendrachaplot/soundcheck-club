@@ -1,6 +1,6 @@
 # Panther Dubai
 
-Panther Dubai is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sundown Stories - The First Light" on Sun, 6 Dec 2026.
+Panther Dubai is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sundown Stories - The First Light" on Sun, 6 Dec 2026.
 
 Panther Dubai is a music venue in Dubai listed on soundcheck. 1 upcoming gig, with line-ups including Border Control. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Panther Dubai is a music venue in Dubai listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Sundown Stories - The First Light | Border Control |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/panther-dubai/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/panther-dubai/)*

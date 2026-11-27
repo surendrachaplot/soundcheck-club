@@ -1,8 +1,8 @@
-# SheIsAlive
+# Soju Gang
 
-SheIsAlive is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
+Soju Gang is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
 
-SheIsAlive is a house and techno artist, with 136 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 32 more. Often billed alongside Jyoty, Haus of Ralph and AANO. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
+Soju Gang is a house and techno artist, with 136 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 32 more. Often billed alongside Jyoty, Haus of Ralph and AANO. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ SheIsAlive is a house and techno artist, with 136 gigs on soundcheck across Adel
 
 Jyoty, Haus of Ralph, AANO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*

@@ -1,6 +1,6 @@
 # Donija
 
-Donija is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gehør, Oslo on Fri, 27 Nov 2026.
+Donija is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gehør, Oslo on Fri, 27 Nov 2026.
 
 Donija is a techno and bass artist based in Poland, with 25 gigs on soundcheck across Krakow, Oslo, Poznan and Seoul and 2 more. Often billed alongside Glassz, F141 and Bulka. Next up: Gehør, Oslo on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Donija is a techno and bass artist based in Poland, with 25 gigs on soundcheck a
 
 Glassz, F141, Bulka
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donija/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donija/)*

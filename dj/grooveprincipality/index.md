@@ -1,6 +1,6 @@
 # Groove Principality
 
-Groove Principality is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Paramour, Brussels on Thu, 3 Dec 2026.
+Groove Principality is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paramour, Brussels on Thu, 3 Dec 2026.
 
 Groove Principality is a house and techno artist based in France, with 6 gigs on soundcheck across Brussels. Often billed alongside Mombo, AMARE and Souldust. Next up: Paramour, Brussels on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ Groove Principality is a house and techno artist based in France, with 6 gigs on
 
 Mombo, AMARE, Souldust
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveprincipality/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveprincipality/)*

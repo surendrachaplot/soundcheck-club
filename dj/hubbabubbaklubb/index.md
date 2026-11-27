@@ -1,14 +1,15 @@
 # Hubbabubbaklubb
 
-Hubbabubbaklubb is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jaeger, Oslo on Fri, 4 Dec 2026.
+Hubbabubbaklubb is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jaeger, Oslo on Fri, 4 Dec 2026.
 
-Hubbabubbaklubb is a house and italo disco artist based in Norway, with 15 gigs on soundcheck across Oslo. Often billed alongside G-HA, Olanskii and Axel Boman. Next up: Jaeger, Oslo on Fri 4 Dec.
+Hubbabubbaklubb is a house and italo disco artist based in Norway, with 16 gigs on soundcheck across Oslo. Often billed alongside G-HA, Olanskii and Axel Boman. Next up: Jaeger, Oslo on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Jaeger | Oslo |
+| Fri, 22 Jan 2027 | The Villa | Oslo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hubbabubbaklubb is a house and italo disco artist based in Norway, with 15 gigs 
 
 G-HA, Olanskii, Axel Boman
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubbabubbaklubb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hubbabubbaklubb/)*

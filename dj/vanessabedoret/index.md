@@ -1,6 +1,6 @@
 # Vanessa Bedoret
 
-Vanessa Bedoret is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vespers Club, London on Wed, 2 Dec 2026.
+Vanessa Bedoret is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vespers Club, London on Wed, 2 Dec 2026.
 
 Vanessa Bedoret is an experimental and ambient artist based in France, with 23 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 5 more. Often billed alongside Ekaterina Bazhenova-Yamasaki, Alex Zhang Hungtai and Autumns. Next up: Vespers Club, London on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Vanessa Bedoret is an experimental and ambient artist based in France, with 23 g
 
 Ekaterina Bazhenova-Yamasaki, Alex Zhang Hungtai, Autumns
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessabedoret/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessabedoret/)*

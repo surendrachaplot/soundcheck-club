@@ -1,6 +1,6 @@
 # Twaankalu
 
-Twaankalu is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 8 Dec 2026.
+Twaankalu is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 8 Dec 2026.
 
 Twaankalu is a club and house artist based in United States of America, with 18 gigs on soundcheck across Baltimore and New York City. Often billed alongside Petal, Daniro and Devin Hudson. Next up: Bossa Nova Civic Club, New York City on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ Twaankalu is a club and house artist based in United States of America, with 18 
 
 Petal, Daniro, Devin Hudson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*

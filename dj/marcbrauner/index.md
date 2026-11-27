@@ -1,13 +1,14 @@
 # Marc Brauner
 
-Marc Brauner is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hoppetosse, Berlin on Thu, 24 Dec 2026.
+Marc Brauner is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Shelter Antwerp, Antwerp on Fri, 18 Dec 2026.
 
-Marc Brauner is a house and disco artist based in Germany, with 67 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Luca Olivotto, DJ Houseum and David Silver. Next up: Hoppetosse, Berlin on Thu 24 Dec.
+Marc Brauner is a house and disco artist based in Germany, with 68 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Luca Olivotto, DJ Houseum and David Silver. Next up: Shelter Antwerp, Antwerp on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Shelter Antwerp | Antwerp |
 | Thu, 24 Dec 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Marc Brauner is a house and disco artist based in Germany, with 67 gigs on sound
 
 Luca Olivotto, DJ Houseum, David Silver
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*

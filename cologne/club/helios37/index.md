@@ -1,6 +1,6 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln" on Fri, 27 Nov 2026.
+Helios37 is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln" on Fri, 27 Nov 2026.
 
 Helios37 is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including Belasto, Bensonius, DJ Discostoff and DJ Mat and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
@@ -22,4 +22,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

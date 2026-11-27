@@ -1,6 +1,6 @@
 # Katiusha
 
-Katiusha is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
+Katiusha is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
 
 Katiusha is a techno and electronica artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 10 more. Often billed alongside Dubrunner, Chris Farrell and DJ Carlita. Next up: Urban Spree, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Katiusha is a techno and electronica artist based in United Kingdom, with 52 gig
 
 Dubrunner, Chris Farrell, DJ Carlita
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*

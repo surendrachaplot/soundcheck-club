@@ -1,6 +1,6 @@
 # Shibuya Oiran
 
-Shibuya Oiran is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "KOIKOI -House party- 霜月編" on Fri, 27 Nov 2026.
+Shibuya Oiran is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "KOIKOI -House party- 霜月編" on Fri, 27 Nov 2026.
 
 Shibuya Oiran is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including 北極 / Ali NM, Apparel Wax, DADO and GAKUTO(TOKYO) and 1 more. See dates, start times and who's playing. 2-22-6 Dogenzaka, Shibuya-ku,Tokyo, 150-0043 Japan.
 
@@ -16,4 +16,4 @@ Shibuya Oiran is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, w
 
 2-22-6 Dogenzaka, Shibuya-ku,Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oiran/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oiran/)*

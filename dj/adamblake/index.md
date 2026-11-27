@@ -1,6 +1,6 @@
 # Adam Blake
 
-Adam Blake is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
+Adam Blake is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
 
 Adam Blake is a house and deep house artist based in Latvia, with 14 gigs on soundcheck across Riga. Often billed alongside Kapusta, Kelvin and Rexton. Next up: TBA - Monkey Club, Riga on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Adam Blake is a house and deep house artist based in Latvia, with 14 gigs on sou
 
 Kapusta, Kelvin, Rexton
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamblake/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamblake/)*

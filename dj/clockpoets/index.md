@@ -1,6 +1,6 @@
 # Clock Poets
 
-Clock Poets is a Minimal Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Fri, 4 Dec 2026.
+Clock Poets is a Minimal Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Fri, 4 Dec 2026.
 
 Clock Poets is a minimal techno and broken beat artist based in Spain, with 10 gigs on soundcheck across Barcelona, Berlin, Brussels and Mallorca and 1 more. Often billed alongside Andrea Ferlin, Rg and Cem G. Next up: Macarena Club, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Clock Poets is a minimal techno and broken beat artist based in Spain, with 10 g
 
 Andrea Ferlin, Rg, Cem G
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clockpoets/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clockpoets/)*

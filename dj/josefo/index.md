@@ -1,6 +1,6 @@
 # Josefo
 
-Josefo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Loo Loo, Mexico City on Thu, 7 Jan 2027.
+Josefo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Loo Loo, Mexico City on Thu, 7 Jan 2027.
 
 Josefo is a house and techno artist based in Mexico, with 19 gigs on soundcheck across Mexico City and Tokyo. Often billed alongside Josefono L Telefono and 19:26. Next up: Loo Loo, Mexico City on Thu 7 Jan.
 
@@ -25,4 +25,4 @@ Josefo is a house and techno artist based in Mexico, with 19 gigs on soundcheck 
 
 Josefono L Telefono, , 19:26
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefo/)*

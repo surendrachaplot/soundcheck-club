@@ -1,13 +1,14 @@
 # Volkan Akin
 
-Volkan Akin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ZENNER, Berlin on Fri, 1 Jan 2027.
+Volkan Akin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 19 Dec 2026.
 
-Volkan Akin is a house and techno artist, with 32 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Rome. Often billed alongside Stipé, Arno aka Einzelkind and Foehn & Jerome. Next up: ZENNER, Berlin on Fri 1 Jan.
+Volkan Akin is a house and techno artist, with 33 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Rome. Often billed alongside Stipé, Alexander Skancke and Arno aka Einzelkind. Next up: Circolo degli Illuminati, Rome on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Circolo degli Illuminati | Rome |
 | Fri, 1 Jan 2027 | ZENNER | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Volkan Akin is a house and techno artist, with 32 gigs on soundcheck across Amst
 
 ## Shares bills with
 
-Stipé, Arno aka Einzelkind, Foehn & Jerome
+Stipé, Alexander Skancke, Arno aka Einzelkind
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkanakin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkanakin/)*

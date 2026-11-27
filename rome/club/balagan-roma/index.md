@@ -1,13 +1,13 @@
 # Balagan Roma
 
-Balagan Roma is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "ELECTRONIC WAVE pres. Matisa" on Fri, 20 Nov 2026.
+Balagan Roma is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Funky Express with Dennis Ferrer at Balagan" on Sat, 19 Dec 2026.
 
-Balagan Roma is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including DIANA, Marzano and Matisa. See dates, start times and who's playing.
+Balagan Roma is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Ces Garçons, Dennis Ferrer and Jason K (IT). See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | ELECTRONIC WAVE pres. Matisa | DIANA, Marzano, Matisa |
+| Sat, 19 Dec 2026 | Funky Express with Dennis Ferrer at Balagan | Ces Garçons, Dennis Ferrer, Jason K (IT) |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/balagan-roma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/balagan-roma/)*

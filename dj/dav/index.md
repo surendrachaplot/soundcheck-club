@@ -1,6 +1,6 @@
 # Dav
 
-Dav is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Dav is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Dav is a tech house and electro artist based in Croatia, with 7 gigs on soundcheck across Croatia, Liverpool, London and Tel Aviv and 1 more. Often billed alongside IGZ (HR), ADRIATIC COASTING and Amz. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -23,4 +23,4 @@ Dav is a tech house and electro artist based in Croatia, with 7 gigs on soundche
 
 IGZ (HR), ADRIATIC COASTING, Amz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dav/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dav/)*

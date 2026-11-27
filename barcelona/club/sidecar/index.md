@@ -1,6 +1,6 @@
 # Sidecar
 
-Sidecar is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Electrostad: FREE PARTY with INOFF, Victor Hugo & friends" on Sun, 29 Nov 2026.
+Sidecar is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Electrostad: FREE PARTY with INOFF, Victor Hugo & friends" on Sun, 29 Nov 2026.
 
 Sidecar is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including INOFF and Victor Hugo. See dates, start times and who's playing. Plaça Reial, 7; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Sidecar is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, wi
 
 Plaça Reial, 7; 08002 Barcelona; Spain, Barcelona
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*

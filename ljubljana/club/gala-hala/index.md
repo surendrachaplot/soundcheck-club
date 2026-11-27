@@ -1,6 +1,6 @@
 # Gala Hala
 
-Gala Hala is a music venue in Ljubljana with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ghetto babes" on Sat, 5 Dec 2026.
+Gala Hala is a music venue in Ljubljana with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ghetto babes" on Sat, 5 Dec 2026.
 
 Gala Hala is a music venue in Ljubljana listed on soundcheck. 1 upcoming gig, with line-ups including 4materasu. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gala Hala is a music venue in Ljubljana listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Ghetto babes | 4materasu |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/gala-hala/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/gala-hala/)*

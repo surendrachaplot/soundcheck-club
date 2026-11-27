@@ -1,6 +1,6 @@
 # Andy Williams
 
-Andy Williams is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Quadrado da Urca, Rio de Janeiro on Sat, 2 Jan 2027.
+Andy Williams is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Quadrado da Urca, Rio de Janeiro on Sat, 2 Jan 2027.
 
 Andy Williams is a dub and bass artist, with 15 gigs on soundcheck across Montreal, Rio de Janeiro and Sao Paulo. Often billed alongside Icky Magdala, Ellxandra and Alina (MTL). Next up: TBA - Quadrado da Urca, Rio de Janeiro on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Andy Williams is a dub and bass artist, with 15 gigs on soundcheck across Montre
 
 Icky Magdala, Ellxandra, Alina (MTL)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andywilliams/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andywilliams/)*

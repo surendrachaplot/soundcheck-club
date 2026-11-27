@@ -1,6 +1,6 @@
 # Tomma
 
-Tomma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 18 Dec 2026.
+Tomma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 18 Dec 2026.
 
 Tomma is a house and techno artist based in Georgia, with 73 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Bekuchi and SUMO. Next up: Ritter Butzke, Berlin on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Tomma is a house and techno artist based in Georgia, with 73 gigs on soundcheck 
 
 Gio Shengelia, Bekuchi, SUMO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*

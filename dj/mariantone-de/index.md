@@ -1,6 +1,6 @@
 # Marian Tone
 
-Marian Tone is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Frappant, Hamburg on Sat, 12 Dec 2026.
+Marian Tone is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Frappant, Hamburg on Sat, 12 Dec 2026.
 
 Marian Tone is a house and disco artist based in Germany, with 33 gigs on soundcheck across Berlin, Hamburg and London. Often billed alongside Paulita, Shahrokh and Tom Kutsche. Next up: Frappant, Hamburg on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Marian Tone is a house and disco artist based in Germany, with 33 gigs on soundc
 
 Paulita, Shahrokh, Tom Kutsche
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*

@@ -1,6 +1,6 @@
 # Macky Gee
 
-Macky Gee is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mint Warehouse, Leeds on Fri, 27 Nov 2026.
+Macky Gee is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mint Warehouse, Leeds on Fri, 27 Nov 2026.
 
 Macky Gee is a drum & bass and jungle artist based in United Kingdom, with 28 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 14 more. Often billed alongside Basstripper, Logan D and b-line. Next up: Mint Warehouse, Leeds on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Macky Gee is a drum & bass and jungle artist based in United Kingdom, with 28 gi
 
 Basstripper, Logan D, b-line
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*

@@ -1,6 +1,6 @@
 # ron3lyscript
 
-ron3lyscript is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sabaco Music & Cafe, Tokyo on Wed, 23 Dec 2026.
+ron3lyscript is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sabaco Music & Cafe, Tokyo on Wed, 23 Dec 2026.
 
 ron3lyscript is a drum & bass and jungle artist based in Japan, with 35 gigs on soundcheck across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Jackit. Next up: Sabaco Music & Cafe, Tokyo on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ ron3lyscript is a drum & bass and jungle artist based in Japan, with 35 gigs on 
 
 SN_Yeah, ReFuCafé, Jackit
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ron3lyscript/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ron3lyscript/)*

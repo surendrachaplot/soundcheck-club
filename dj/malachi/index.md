@@ -1,6 +1,6 @@
 # Malachi
 
-Malachi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Madrone Art Bar, San Francisco/Oakland on Thu, 31 Dec 2026.
+Malachi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Madrone Art Bar, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Malachi is a house and disco artist based in United States of America, with 45 gigs on soundcheck across London, New York City, Prague and San Diego and 1 more. Often billed alongside Motel Club, Malachi and beewack. Next up: Madrone Art Bar, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Malachi is a house and disco artist based in United States of America, with 45 g
 
 Motel Club, Malachi (2), beewack
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi/)*

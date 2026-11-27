@@ -1,6 +1,6 @@
 # Kele
 
-Kele is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Atno, Budapest on Sat, 12 Dec 2026.
+Kele is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atno, Budapest on Sat, 12 Dec 2026.
 
 Kele is a house and techno artist based in Hungary, with 15 gigs on soundcheck across Barcelona and Budapest. Often billed alongside Adx, Erro and Jaffa Surfa. Next up: Atno, Budapest on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kele is a house and techno artist based in Hungary, with 15 gigs on soundcheck a
 
 Adx, Erro, Jaffa Surfa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kele/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kele/)*

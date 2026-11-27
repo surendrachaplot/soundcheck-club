@@ -1,6 +1,6 @@
 # bambinodj
 
-bambinodj is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bal Chavaux, Paris on Sat, 12 Dec 2026.
+bambinodj is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bal Chavaux, Paris on Sat, 12 Dec 2026.
 
 bambinodj is a club and electronica artist based in Germany, with 13 gigs on soundcheck across Barcelona, Berlin, London and New York City and 3 more. Often billed alongside DJ KILLING, DJ Python and Hekt. Next up: Bal Chavaux, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ bambinodj is a club and electronica artist based in Germany, with 13 gigs on sou
 
 DJ KILLING, DJ Python, Hekt
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*

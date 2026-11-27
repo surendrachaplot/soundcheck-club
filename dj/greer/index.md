@@ -1,6 +1,6 @@
 # Greer
 
-Greer is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Sydney on Fri, 8 Jan 2027.
+Greer is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Fri, 8 Jan 2027.
 
 Greer is a techno and experimental artist based in Greece, with 23 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside 1tbsp, Disgrays and Jungist. Next up: TBA, Sydney on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Greer is a techno and experimental artist based in Greece, with 23 gigs on sound
 
 1tbsp, Disgrays, Jungist
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*

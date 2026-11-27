@@ -1,6 +1,6 @@
 # kowaku
 
-kowaku is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at WPU Hotel Shinjuku, Tokyo on Tue, 8 Dec 2026.
+kowaku is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at WPU Hotel Shinjuku, Tokyo on Tue, 8 Dec 2026.
 
 kowaku is a techno and house artist based in Japan, with 23 gigs on soundcheck across Tokyo. Often billed alongside JUN INAGAWA, E.O.U and HAYATE. Next up: WPU Hotel Shinjuku, Tokyo on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ kowaku is a techno and house artist based in Japan, with 23 gigs on soundcheck a
 
 JUN INAGAWA, E.O.U, HAYATE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kowaku/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kowaku/)*

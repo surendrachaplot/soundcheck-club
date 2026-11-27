@@ -1,6 +1,6 @@
 # Weetamix
 
-Weetamix is a music venue in Geneva with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "EQUINOX × HALL W — HOUSE TO TECHNO" on Fri, 4 Dec 2026.
+Weetamix is a music venue in Geneva with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "EQUINOX × HALL W — HOUSE TO TECHNO" on Fri, 4 Dec 2026.
 
 Weetamix is a music venue in Geneva listed on soundcheck. 3 upcoming gigs, with line-ups including Adolpho & Franky, Brady, Charlotte (FR) and DimSum and 2 more. See dates, start times and who's playing. Chemin Jacques Philibert de Sauvage 37; 1219, Châtelaine; Geneva; Switzerland.
 
@@ -16,4 +16,4 @@ Weetamix is a music venue in Geneva listed on soundcheck. 3 upcoming gigs, with 
 
 Chemin Jacques Philibert de Sauvage 37; 1219, Châtelaine; Geneva; Switzerland, Geneva
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/weetamix/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/weetamix/)*

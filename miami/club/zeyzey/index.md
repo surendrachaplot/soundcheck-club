@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Reggaeton Rave" on Fri, 27 Nov 2026.
+ZeyZey is a music venue in Miami with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Reggaeton Rave" on Fri, 27 Nov 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 15 upcoming gigs, with line-ups including Anastazja, A-Trak, Chromeo and Danny Krivit and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 15 upcoming gigs, with li
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

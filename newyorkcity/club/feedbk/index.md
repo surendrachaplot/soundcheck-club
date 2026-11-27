@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "feedbk with Greta, Kurilo" on Fri, 27 Nov 2026.
+feedbk is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "feedbk with Greta, Kurilo" on Fri, 27 Nov 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including ADREE, AG (NYC), Ancut and Burchan Acar and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -23,4 +23,4 @@ feedbk is a music venue in New York City listed on soundcheck. 12 upcoming gigs,
 
 153 Morgan Avenue, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

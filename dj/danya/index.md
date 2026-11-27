@@ -1,6 +1,6 @@
 # Danya
 
-Danya is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KREUZWERK, Berlin on Sat, 26 Dec 2026.
+Danya is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KREUZWERK, Berlin on Sat, 26 Dec 2026.
 
 Danya is a techno artist, with 7 gigs on soundcheck across Barcelona, Berlin, Dresden and Hamburg. Often billed alongside 2200, Aaron Lanz and Amphia. Next up: KREUZWERK, Berlin on Sat 26 Dec.
 
@@ -23,4 +23,4 @@ Danya is a techno artist, with 7 gigs on soundcheck across Barcelona, Berlin, Dr
 
 2200, Aaron Lanz, Amphia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danya/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danya/)*

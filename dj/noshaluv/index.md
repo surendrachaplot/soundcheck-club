@@ -1,6 +1,6 @@
 # Nosha Luv
 
-Nosha Luv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Pitch and Pour Supper Club, Chicago on Fri, 4 Dec 2026.
+Nosha Luv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Pitch and Pour Supper Club, Chicago on Fri, 4 Dec 2026.
 
 Nosha Luv is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Chicago, Detroit, Miami and New York City. Often billed alongside Disgonuts, Glenn Underground and JKriv. Next up: TBA - Pitch and Pour Supper Club, Chicago on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nosha Luv is a house and disco artist based in United States of America, with 27
 
 Disgonuts, Glenn Underground, JKriv
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noshaluv/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noshaluv/)*

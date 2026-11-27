@@ -1,6 +1,6 @@
 # Hey Bony
 
-Hey Bony is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 28 Jan 2027.
+Hey Bony is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 28 Jan 2027.
 
 Hey Bony is a club and baile funk artist based in France, with 28 gigs on soundcheck across Amsterdam, Berlin, Cologne and Geneva and 5 more. Often billed alongside ARTEM (FR), Naomi (FR) and Sylvere. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 28 Jan.
 
@@ -25,4 +25,4 @@ Hey Bony is a club and baile funk artist based in France, with 28 gigs on soundc
 
 ARTEM (FR), Naomi (FR), Sylvere
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heybony/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heybony/)*

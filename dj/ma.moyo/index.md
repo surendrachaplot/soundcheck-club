@@ -1,6 +1,6 @@
 # MA.MOYO
 
-MA.MOYO is a Afro House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Haggerston, London on Fri, 27 Nov 2026.
+MA.MOYO is a Afro House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Haggerston, London on Fri, 27 Nov 2026.
 
 MA.MOYO is an afro house and electro artist based in United Kingdom, with 15 gigs on soundcheck across London and Vienna. Often billed alongside James Massiah, Big D and Kemarr. Next up: The Haggerston, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MA.MOYO is an afro house and electro artist based in United Kingdom, with 15 gig
 
 James Massiah, Big D, Kemarr
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.moyo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.moyo/)*

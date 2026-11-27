@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+Setaoc Mass is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
 Setaoc Mass is a techno and house artist based in United Kingdom, with 228 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 78 more. Often billed alongside Philippa Pacho, Blasha & Allatt and Altinbas. Next up: FOLD, London on Sat 28 Nov.
 
@@ -35,4 +35,4 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 228 gigs 
 
 Philippa Pacho, Blasha & Allatt, Altinbas
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

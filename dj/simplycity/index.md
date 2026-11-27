@@ -1,6 +1,6 @@
 # Simply City
 
-Simply City is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Simply City is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Simply City is a progressive house and house artist based in Canada, with 32 gigs on soundcheck across Amsterdam, Buenos Aires, Miami and Montreal and 1 more. Often billed alongside Hernan Cattaneo, Dimuth K and Graziano Raffa. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Simply City is a progressive house and house artist based in Canada, with 32 gig
 
 Hernan Cattaneo, Dimuth K, Graziano Raffa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simplycity/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simplycity/)*

@@ -1,6 +1,6 @@
 # ELNA
 
-ELNA is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Main Club, Milan on Fri, 4 Dec 2026.
+ELNA is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Main Club, Milan on Fri, 4 Dec 2026.
 
 ELNA is a techno and psytrance artist, with 18 gigs on soundcheck across Denver, Milan and Paris. Often billed alongside TUROTUNZ, IRVØ and MerkMine. Next up: Main Club, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ELNA is a techno and psytrance artist, with 18 gigs on soundcheck across Denver,
 
 TUROTUNZ, IRVØ, MerkMine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elna/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elna/)*

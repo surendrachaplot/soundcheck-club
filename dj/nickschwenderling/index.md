@@ -1,6 +1,6 @@
 # Nick Schwenderling
 
-Nick Schwenderling is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Wed, 16 Dec 2026.
+Nick Schwenderling is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Wed, 16 Dec 2026.
 
 Nick Schwenderling is a techno and tech house artist based in Germany, with 19 gigs on soundcheck across Baden W Rttemberg, Berlin, Cologne and Dortmund / Essen and 4 more. Often billed alongside Tube & Berger, DJ Jordan and A.N.I.. Next up: KitKatClub, Berlin on Wed 16 Dec.
 
@@ -26,4 +26,4 @@ Nick Schwenderling is a techno and tech house artist based in Germany, with 19 g
 
 Tube & Berger, DJ Jordan, A.N.I.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickschwenderling/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickschwenderling/)*

@@ -1,6 +1,6 @@
-# LOW LIFE 低音生活 Vol.016 - 8th Anniversary - (Tokyo Show) at HVEN
+# LOW LIFE 低音生活 Vol.016 - 8th Anniversary - [Tokyo Show] at HVEN
 
-LOW LIFE 低音生活 Vol.016 - 8th Anniversary - (Tokyo Show) at HVEN on Fri 11 Dec, Tokyo. 1 artist: Yess. Bass. See the line-up on soundcheck.
+LOW LIFE 低音生活 Vol.016 - 8th Anniversary - [Tokyo Show] at HVEN on Fri 11 Dec, Tokyo. 1 artist: Yess. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

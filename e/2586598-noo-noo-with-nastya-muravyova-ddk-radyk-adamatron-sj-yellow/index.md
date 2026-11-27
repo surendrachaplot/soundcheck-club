@@ -14,6 +14,6 @@
 - DDK (1)
 - Nastya Muravyova
 - RADYK
-- SJ Yellow
+- SJ yellow
 
 *Source: [soundcheck](https://soundcheck.club/e/2586598-noo-noo-with-nastya-muravyova-ddk-radyk-adamatron-sj-yellow/)*

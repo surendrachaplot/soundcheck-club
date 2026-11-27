@@ -1,6 +1,6 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+Dr Dubplate is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
 
 Dr Dubplate is a garage and bass artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Bakey, Soul Mass Transit System and Yemz. Next up: The Prospect Building, Bristol on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 156 gigs o
 
 Bakey, Soul Mass Transit System, Yemz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

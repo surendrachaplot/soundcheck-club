@@ -1,6 +1,6 @@
 # Domenic Cappello
 
-Domenic Cappello is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sub Club, Glasgow on Sat, 28 Nov 2026.
+Domenic Cappello is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sub Club, Glasgow on Sat, 28 Nov 2026.
 
 Domenic Cappello is a house and techno artist based in United Kingdom, with 91 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London and 1 more. Often billed alongside Alien Communications, DJ Harri and Stevie Cox. Next up: Sub Club, Glasgow on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Domenic Cappello is a house and techno artist based in United Kingdom, with 91 g
 
 Alien Communications, DJ Harri, Stevie Cox
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*

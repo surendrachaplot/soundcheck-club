@@ -1,6 +1,6 @@
 # Joon Kwak
 
-Joon Kwak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
+Joon Kwak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Graphic Hangang, Seoul on Sat, 28 Nov 2026.
 
 Joon Kwak is a techno and house artist based in South Korea, with 113 gigs on soundcheck across Bangkok, Seoul, Taipei and Tokyo. Often billed alongside Suman, DAMIE (KR) and Marcus L. Next up: Graphic Hangang, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Joon Kwak is a techno and house artist based in South Korea, with 113 gigs on so
 
 Suman, DAMIE (KR), Marcus L
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joonkwak/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joonkwak/)*

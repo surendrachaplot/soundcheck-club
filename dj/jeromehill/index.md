@@ -1,6 +1,6 @@
 # Jerome Hill
 
-Jerome Hill is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
+Jerome Hill is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
 
 Jerome Hill is a techno and acid artist based in United Kingdom, with 136 gigs on soundcheck across Bangkok, Barcelona, Belfast and Belgrade and 31 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: Pawn Shop, Dublin on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Jerome Hill is a techno and acid artist based in United Kingdom, with 136 gigs o
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*

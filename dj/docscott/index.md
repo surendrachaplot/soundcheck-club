@@ -1,6 +1,6 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
 
 Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Goldie, Grooverider and Loxy. Next up: The Wardrobe, Leeds on Sun 29 Nov.
 
@@ -31,4 +31,4 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 121 g
 
 Goldie, Grooverider, Loxy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

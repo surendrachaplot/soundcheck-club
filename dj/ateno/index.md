@@ -1,6 +1,6 @@
 # Aténo
 
-Aténo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Funkraum, Austria on Sat, 28 Nov 2026.
+Aténo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Funkraum, Austria on Sat, 28 Nov 2026.
 
 Aténo is a house and disco artist based in Austria, with 7 gigs on soundcheck across Austria, Berlin, Frankfurt and Ho Chi Minh City and 3 more. Often billed alongside Artemuse, August Kind and BECKSHAM. Next up: Funkraum, Austria on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Aténo is a house and disco artist based in Austria, with 7 gigs on soundcheck a
 
 Artemuse, August Kind, BECKSHAM
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ateno/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ateno/)*

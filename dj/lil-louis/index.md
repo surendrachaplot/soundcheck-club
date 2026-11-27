@@ -1,6 +1,6 @@
 # Lil' Louis
 
-Lil' Louis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
+Lil' Louis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
 
 Lil' Louis is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 33 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: Mint Warehouse, Leeds on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Lil' Louis is a house and techno artist based in United States of America, with 
 
 Aiko Inoue, Adiel, Boys Noize
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*

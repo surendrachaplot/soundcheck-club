@@ -1,6 +1,6 @@
 # Scan X
 
-Scan X is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 12 Dec 2026.
+Scan X is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 12 Dec 2026.
 
 Scan X is a techno and tech house artist, with 11 gigs on soundcheck across Berlin, Helsinki, Lausanne and Lyon and 3 more. Often billed alongside Chris Gavin, ANBU and Alexkid. Next up: Le Chapiteau - Marseille, Marseille on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Scan X is a techno and tech house artist, with 11 gigs on soundcheck across Berl
 
 Chris Gavin, ANBU, Alexkid
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scanx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scanx/)*

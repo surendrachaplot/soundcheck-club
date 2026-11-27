@@ -1,6 +1,6 @@
 # Gabber Eleganza
 
-Gabber Eleganza is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
+Gabber Eleganza is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
 
 Gabber Eleganza is a techno and hardcore artist based in Italy, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 41 more. Often billed alongside Anetha, DJ Gigola and Paul Seul. Next up: Le Grand Sud, Lille on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Gabber Eleganza is a techno and hardcore artist based in Italy, with 111 gigs on
 
 Anetha, DJ Gigola, Paul Seul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*

@@ -1,6 +1,6 @@
 # DJ Subaru
 
-DJ Subaru is a Italo Disco and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+DJ Subaru is a Italo Disco and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 DJ Subaru is an italo disco and house artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 15 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: fabric, London on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ DJ Subaru is an italo disco and house artist based in United Kingdom, with 83 gi
 
 babyschön, Sound Metaphors Djs, Michael Upson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*

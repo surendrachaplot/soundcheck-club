@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Outside In" on Fri, 27 Nov 2026.
+Grub Records is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Outside In" on Fri, 27 Nov 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with line-ups including Jodie-Tyler, Paniolo and Robyn Jade. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -20,4 +20,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

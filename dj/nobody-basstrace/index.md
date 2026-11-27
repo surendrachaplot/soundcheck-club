@@ -1,6 +1,6 @@
 # Nobody-Basstrace
 
-Nobody-Basstrace is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at FLUCC, Vienna on Fri, 4 Dec 2026.
+Nobody-Basstrace is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at FLUCC, Vienna on Fri, 4 Dec 2026.
 
 Nobody-Basstrace is a dubstep and bass artist, with 9 gigs on soundcheck across Vienna. Often billed alongside Nadin, SGT Pokes and J:Kenzo. Next up: FLUCC, Vienna on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nobody-Basstrace is a dubstep and bass artist, with 9 gigs on soundcheck across 
 
 Nadin, SGT Pokes, J:Kenzo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nobody-basstrace/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nobody-basstrace/)*

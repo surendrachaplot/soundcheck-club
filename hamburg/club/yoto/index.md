@@ -1,6 +1,6 @@
 # YOTO
 
-YOTO is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "YOTO x AFRO SLOT SPECIAL" on Fri, 27 Nov 2026.
+YOTO is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "YOTO x AFRO SLOT SPECIAL" on Fri, 27 Nov 2026.
 
 YOTO is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Boas. See dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ YOTO is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with lin
 
 Basement, Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*

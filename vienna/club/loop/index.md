@@ -1,6 +1,6 @@
 # Loop
 
-Loop is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "KRAMPUS BEATS" on Sat, 5 Dec 2026.
+Loop is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "KRAMPUS BEATS" on Sat, 5 Dec 2026.
 
 Loop is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including IDENMIND, Rudolfode and Sequent. See dates, start times and who's playing. Stadtbahnbogen 26/27, 1080 Wien, Austria.
 
@@ -15,4 +15,4 @@ Loop is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line
 
 Stadtbahnbogen 26/27, 1080 Wien, Austria, Vienna
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/loop/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/loop/)*

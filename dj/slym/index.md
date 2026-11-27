@@ -1,6 +1,6 @@
 # SLYM
 
-SLYM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
+SLYM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
 
 SLYM is a techno and trance artist based in Hungary, with 97 gigs on soundcheck across Berlin, Budapest, Oslo and Prague. Often billed alongside szoliver, Akác and Switch Nollie. Next up: Kassa Boat, Budapest on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ SLYM is a techno and trance artist based in Hungary, with 97 gigs on soundcheck 
 
 szoliver, Akác, Switch Nollie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slym/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slym/)*

@@ -1,6 +1,6 @@
 # Ferhat Albayrak
 
-Ferhat Albayrak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
+Ferhat Albayrak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
 
 Ferhat Albayrak is a techno and house artist based in Turkey, with 33 gigs on soundcheck across Berlin and Istanbul. Often billed alongside FEVZEE, KUVOKA and Avangart Tabldot. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Ferhat Albayrak is a techno and house artist based in Turkey, with 33 gigs on so
 
 FEVZEE, KUVOKA, Avangart Tabldot
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferhatalbayrak/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferhatalbayrak/)*

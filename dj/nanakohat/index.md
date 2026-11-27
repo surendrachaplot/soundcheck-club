@@ -1,14 +1,15 @@
 # Nana Kohat
 
-Nana Kohat is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret location in Saúde 👻, Rio de Janeiro on Sat, 28 Nov 2026.
+Nana Kohat is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret location in Saúde 👻, Rio de Janeiro on Sat, 28 Nov 2026.
 
-Nana Kohat is a house and disco artist based in Brazil, with 45 gigs on soundcheck across Berlin, Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Eli Iwasa, Exequiel and From House to Disco. Next up: TBA - Secret location in Saúde 👻, Rio de Janeiro on Sat 28 Nov.
+Nana Kohat is a house and disco artist based in Brazil, with 46 gigs on soundcheck across Berlin, Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Eli Iwasa, Exequiel and From House to Disco. Next up: TBA - Secret location in Saúde 👻, Rio de Janeiro on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Secret location in Saúde 👻 | Rio de Janeiro |
+| Fri, 18 Dec 2026 | Ephigenia | Sao Paulo |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 | Thu, 31 Dec 2026 | Iccarus | Sao Paulo |
 
@@ -27,4 +28,4 @@ Nana Kohat is a house and disco artist based in Brazil, with 45 gigs on soundche
 
 Eli Iwasa, Exequiel, From House to Disco
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakohat/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakohat/)*

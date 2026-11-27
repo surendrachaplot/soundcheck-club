@@ -1,6 +1,6 @@
 # Blood of Aza
 
-Blood of Aza is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Fri, 27 Nov 2026.
+Blood of Aza is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Fri, 27 Nov 2026.
 
 Blood of Aza is an experimental and club artist based in United Kingdom, with 92 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 25 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: El Pumarejo Barcelona, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Blood of Aza is an experimental and club artist based in United Kingdom, with 92
 
 Mvcoko, KAVARI, SISSY MISFIT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*

@@ -1,6 +1,6 @@
 # Justin Rabin
 
-Justin Rabin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
+Justin Rabin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
 
 Justin Rabin is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Miami and New York City. Often billed alongside Atomyard, Grove Shaman and Soto Music. Next up: Refuge, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Justin Rabin is a house and tech house artist based in United States of America,
 
 Atomyard, Grove Shaman, Soto Music
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrabin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrabin/)*

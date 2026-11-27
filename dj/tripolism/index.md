@@ -1,6 +1,6 @@
 # Tripolism
 
-Tripolism is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Beat, London on Sat, 28 Nov 2026.
+Tripolism is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Beat, London on Sat, 28 Nov 2026.
 
 Tripolism is a house and afro house artist based in Denmark, with 86 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside WhoMadeWho, Bedouin and meera (NO). Next up: Beat, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Tripolism is a house and afro house artist based in Denmark, with 86 gigs on sou
 
 WhoMadeWho, Bedouin, meera (NO)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

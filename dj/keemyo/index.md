@@ -1,6 +1,6 @@
 # Keemyo
 
-Keemyo is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Evening, Seoul on Fri, 27 Nov 2026.
+Keemyo is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Evening, Seoul on Fri, 27 Nov 2026.
 
 Keemyo is a house artist based in South Korea, with 17 gigs on soundcheck across Seoul. Often billed alongside .2ndfloor, DWIGHT and Dakim. Next up: Evening, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Keemyo is a house artist based in South Korea, with 17 gigs on soundcheck across
 
 .2ndfloor, DWIGHT, Dakim
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keemyo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keemyo/)*

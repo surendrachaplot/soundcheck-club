@@ -1,6 +1,6 @@
 # ISO YSO
 
-ISO YSO is a Hip-Hop and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 19 Dec 2026.
+ISO YSO is a Hip-Hop and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 19 Dec 2026.
 
 ISO YSO is a hip-hop and afrobeat artist based in United Kingdom, with 18 gigs on soundcheck across Glasgow. Often billed alongside ISO YSO, Hiba and Rahul.mp3. Next up: The Marlborough Red Room, Glasgow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ ISO YSO is a hip-hop and afrobeat artist based in United Kingdom, with 18 gigs o
 
 ISO YSO, Hiba, Rahul.mp3
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isoyso/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isoyso/)*

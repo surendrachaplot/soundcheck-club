@@ -1,6 +1,6 @@
 # Memphis LK
 
-Memphis LK is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Memphis LK is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Memphis LK is a house and pop artist based in Australia, with 30 gigs on soundcheck across Adelaide, Auckland, Brisbane and Brussels and 11 more. Often billed alongside Barry Can't Swim, Harry Hayes and Hasvat Informant. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Memphis LK is a house and pop artist based in Australia, with 30 gigs on soundch
 
 Barry Can't Swim, Harry Hayes, Hasvat Informant
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memphislk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memphislk/)*

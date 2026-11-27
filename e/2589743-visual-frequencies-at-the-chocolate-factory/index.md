@@ -1,6 +1,6 @@
 # VISUAL FREQUENCIES at The Chocolate Factory
 
-VISUAL FREQUENCIES at The Chocolate Factory on Wed 9 Dec, New York City. 3 artists: DJ SOUNDSCAPE, Donny Burlin and RAAUL. House and Experimental. See the line-up on soundcheck.
+VISUAL FREQUENCIES at The Chocolate Factory on Wed 9 Dec, New York City. 2 artists: Donny Burlin and RAAUL. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ VISUAL FREQUENCIES at The Chocolate Factory on Wed 9 Dec, New York City. 3 artis
 
 ## Line-up
 
-- DJ SOUNDSCAPE
 - Donny Burlin
 - RAAUL
 

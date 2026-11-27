@@ -1,6 +1,6 @@
 # Mousai
 
-Mousai is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
+Mousai is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
 
 Mousai is a jungle and garage artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Bristol, London and Manchester and 2 more. Often billed alongside Janaway, The Bass Injector and Betsy Mae. Next up: The Loco Klub, Bristol on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Mousai is a jungle and garage artist based in United Kingdom, with 60 gigs on so
 
 Janaway, The Bass Injector, Betsy Mae
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousai/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousai/)*

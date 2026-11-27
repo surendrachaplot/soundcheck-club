@@ -1,8 +1,8 @@
 # Mija
 
-Mija is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
+Mija is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
 
-Mija is a techno and trance artist based in United States of America, with 159 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 60 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
+Mija is a techno and trance artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 61 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Mija is a techno and trance artist based in United States of America, with 159 g
 | Sun, 6 Dec 2026 | Floyd | Miami |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 | Sat, 16 Jan 2027 | BASIS | Utrecht |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Mija is a techno and trance artist based in United States of America, with 159 g
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

@@ -1,6 +1,6 @@
 # SSTROM
 
-SSTROM is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at vurt., Seoul on Sun, 6 Dec 2026.
+SSTROM is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at vurt., Seoul on Sun, 6 Dec 2026.
 
 SSTROM is a techno and experimental artist based in Sweden, with 8 gigs on soundcheck across Berlin, Hong Kong, Malmo and Seoul and 2 more. Often billed alongside Abdullah Miniawy, Aho Ssan and Andrew Birds. Next up: vurt., Seoul on Sun 6 Dec.
 
@@ -24,4 +24,4 @@ SSTROM is a techno and experimental artist based in Sweden, with 8 gigs on sound
 
 Abdullah Miniawy, Aho Ssan, Andrew Birds
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sstrom/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sstrom/)*

@@ -1,6 +1,6 @@
 # Kiddy Smile
 
-Kiddy Smile is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+Kiddy Smile is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
 
 Kiddy Smile is a house and techno artist based in France, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 17 more. Often billed alongside Melvo Baptiste, Bora Uzer and Curses. Next up: OST, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Kiddy Smile is a house and techno artist based in France, with 83 gigs on soundc
 
 Melvo Baptiste, Bora Uzer, Curses
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*

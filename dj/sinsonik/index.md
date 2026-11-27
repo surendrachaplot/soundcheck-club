@@ -1,6 +1,6 @@
 # Sin Sonik
 
-Sin Sonik is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rote Flora, Hamburg on Sat, 5 Dec 2026.
+Sin Sonik is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Flora, Hamburg on Sat, 5 Dec 2026.
 
 Sin Sonik is a techno and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Blck-Swan, Johnny Allwess and Varanasi. Next up: Rote Flora, Hamburg on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Sin Sonik is a techno and tech house artist based in Germany, with 5 gigs on sou
 
 Blck-Swan, Johnny Allwess, Varanasi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinsonik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinsonik/)*

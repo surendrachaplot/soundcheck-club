@@ -1,6 +1,6 @@
 # KEYBAR
 
-KEYBAR is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "téQ: BF Mike Trotter // David Ohana Aviance" on Fri, 27 Nov 2026.
+KEYBAR is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "téQ: BF Mike Trotter // David Ohana Aviance" on Fri, 27 Nov 2026.
 
 KEYBAR is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including David Ohana Aviance, DJ Paul C and Michael Trotter. See dates, start times and who's playing. 143 Troutman Street, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ KEYBAR is a music venue in New York City listed on soundcheck. 14 upcoming gigs,
 
 143 Troutman Street, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*

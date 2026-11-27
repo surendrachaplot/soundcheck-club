@@ -1,6 +1,6 @@
 # Manuel Darquart
 
-Manuel Darquart is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Empire, London on Fri, 27 Nov 2026.
+Manuel Darquart is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Empire, London on Fri, 27 Nov 2026.
 
 Manuel Darquart is a house and italo disco artist based in New Zealand, with 51 gigs on soundcheck across Adelaide, Auckland, Berlin and Bucharest and 10 more. Often billed alongside Hollick, Ariane V and Secretsundaze. Next up: Club Empire, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Manuel Darquart is a house and italo disco artist based in New Zealand, with 51 
 
 Hollick, Ariane V, Secretsundaze
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldarquart/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldarquart/)*

@@ -1,6 +1,6 @@
 # Hybrid: The 70th at renae
 
-Hybrid: The 70th at renae on Fri 27 Nov, Manchester. 13 artists: CEEKAY, Connor (UK), DJ FABRICATION and Dorbachov and 9 more. Techno and House. See the line-up on soundcheck.
+Hybrid: The 70th at renae on Fri 27 Nov, Manchester. 12 artists: CEEKAY, Connor (UK), DJ FABRICATION and Dorbachov and 8 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,6 @@ Hybrid: The 70th at renae on Fri 27 Nov, Manchester. 13 artists: CEEKAY, Connor 
 - Dorbachov
 - Kabel
 - Means&3rd
-- Medlock
 - Pangölin
 - Pattie Mac
 - Rosie (UK)

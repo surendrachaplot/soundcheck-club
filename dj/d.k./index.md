@@ -1,6 +1,6 @@
 # D.K.
 
-D.K. is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M-BIA, Berlin on Sat, 26 Dec 2026.
+D.K. is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M-BIA, Berlin on Sat, 26 Dec 2026.
 
 D.K. is a bass and club artist based in France, with 21 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 9 more. Often billed alongside December, Mogwaa and Zaltan. Next up: M-BIA, Berlin on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ D.K. is a bass and club artist based in France, with 21 gigs on soundcheck acros
 
 December, Mogwaa, Zaltan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.k./)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.k./)*

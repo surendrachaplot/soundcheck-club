@@ -1,6 +1,6 @@
 # Killamanjaro
 
-Killamanjaro is a Jungle and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Eastern Bloc Records, Manchester on Thu, 10 Dec 2026.
+Killamanjaro is a Jungle and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Eastern Bloc Records, Manchester on Thu, 10 Dec 2026.
 
 Killamanjaro is a jungle and dub artist based in United Kingdom, with 38 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside DAIZ, Breakfake and Chimpo. Next up: Eastern Bloc Records, Manchester on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Killamanjaro is a jungle and dub artist based in United Kingdom, with 38 gigs on
 
 DAIZ, Breakfake, Chimpo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*

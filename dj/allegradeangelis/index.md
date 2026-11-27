@@ -1,14 +1,15 @@
 # Allegra De Angelis
 
-Allegra De Angelis is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 28 Nov 2026.
+Allegra De Angelis is a Minimal Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 28 Nov 2026.
 
-Allegra De Angelis is a minimal techno and minimal artist based in Italy, with 20 gigs on soundcheck across Berlin and Rome. Often billed alongside Germano Ventura, Mela Q and Cristina Crosato. Next up: Circolo degli Illuminati, Rome on Sat 28 Nov.
+Allegra De Angelis is a minimal techno and minimal artist based in Italy, with 21 gigs on soundcheck across Berlin and Rome. Often billed alongside Germano Ventura, Mela Q and Volkan Akin. Next up: Circolo degli Illuminati, Rome on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Circolo degli Illuminati | Rome |
+| Sat, 19 Dec 2026 | Circolo degli Illuminati | Rome |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Allegra De Angelis is a minimal techno and minimal artist based in Italy, with 2
 
 ## Shares bills with
 
-Germano Ventura, Mela Q, Cristina Crosato
+Germano Ventura, Mela Q, Volkan Akin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allegradeangelis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allegradeangelis/)*

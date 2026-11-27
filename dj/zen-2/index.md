@@ -1,6 +1,6 @@
 # Zen (2)
 
-Zen (2) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Beaver Works, Leeds on Sat, 28 Nov 2026.
+Zen (2) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Beaver Works, Leeds on Sat, 28 Nov 2026.
 
 Zen is a techno and tech house artist based in Italy, with 12 gigs on soundcheck across Berlin, Bristol, Leeds and Milan and 3 more. Often billed alongside BEPPU, YU-S-KE and AllA. Next up: Beaver Works, Leeds on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Zen is a techno and tech house artist based in Italy, with 12 gigs on soundcheck
 
 BEPPU, YU-S-KE, AllA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*

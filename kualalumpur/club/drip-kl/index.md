@@ -1,6 +1,6 @@
 # Drip KL
 
-Drip KL is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Drip KL x Sunset By NEON pres. KREAM" on Fri, 27 Nov 2026.
+Drip KL is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Drip KL x Sunset By NEON pres. KREAM" on Fri, 27 Nov 2026.
 
 Drip KL is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including KREAM and Massano. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Drip KL is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, 
 | Fri, 27 Nov 2026 | Drip KL x Sunset By NEON pres. KREAM | KREAM |
 | Thu, 10 Dec 2026 | Drip KL pres. Massano | Massano |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/drip-kl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/drip-kl/)*

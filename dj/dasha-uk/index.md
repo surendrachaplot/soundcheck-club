@@ -1,6 +1,6 @@
 # DASHA (UK)
 
-DASHA (UK) is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lab.Club, London on Fri, 11 Dec 2026.
+DASHA (UK) is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lab.Club, London on Fri, 11 Dec 2026.
 
 DASHA (UK) is a progressive house and deep house artist based in United Kingdom, with 22 gigs on soundcheck across Copenhagen, London and Melbourne. Often billed alongside AVANTIME, Addiy and Bibiminor. Next up: Lab.Club, London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ DASHA (UK) is a progressive house and deep house artist based in United Kingdom,
 
 AVANTIME, Addiy, Bibiminor
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*

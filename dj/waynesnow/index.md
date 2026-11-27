@@ -1,6 +1,6 @@
 # Wayne Snow
 
-Wayne Snow is a Jazz and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Note Jazz Club London, London on Fri, 27 Nov 2026.
+Wayne Snow is a Jazz and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Blue Note Jazz Club London, London on Fri, 27 Nov 2026.
 
 Wayne Snow is a jazz and electronica artist based in Nigeria, with 21 gigs on soundcheck across Berlin, London, Milan and Munich and 4 more. Often billed alongside Jazzanova, Alex Rita and Aline Umber. Next up: Blue Note Jazz Club London, London on Fri 27 Nov.
 
@@ -15,6 +15,7 @@ Wayne Snow is a jazz and electronica artist based in Nigeria, with 21 gigs on so
 
 ## Recently played
 
+- Blue Note Jazz Club London, London · Thu, 26 Nov 2026
 - Gasometer Schöneberg, Berlin · Fri, 20 Nov 2026
 - Gretchen, Berlin · Sat, 3 Oct 2026
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
@@ -22,10 +23,9 @@ Wayne Snow is a jazz and electronica artist based in Nigeria, with 21 gigs on so
 - Gretchen, Berlin · Sat, 17 Jan 2026
 - The Jazz Cafe, London · Wed, 26 Nov 2025
 - Gretchen, Berlin · Wed, 7 May 2025
-- Peti Kupe, Zagreb · Thu, 10 Apr 2025
 
 ## Shares bills with
 
 Jazzanova, Alex Rita, Aline Umber
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waynesnow/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waynesnow/)*

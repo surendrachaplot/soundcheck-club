@@ -1,6 +1,6 @@
 # DJ Marky
 
-DJ Marky is a Drum & Bass and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 27 Nov 2026.
+DJ Marky is a Drum & Bass and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 24 Kitchen Street, Liverpool on Fri, 27 Nov 2026.
 
 DJ Marky is a drum & bass and house artist based in Brazil, with 115 gigs on soundcheck across Antwerp, Barcelona, Belfast and Berlin and 24 more. Often billed alongside MC GQ, Makoto and SP:MC. Next up: 24 Kitchen Street, Liverpool on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ DJ Marky is a drum & bass and house artist based in Brazil, with 115 gigs on sou
 
 MC GQ, Makoto, SP:MC
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarky/)*

@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ritter Butzke in Oslo" on Fri, 27 Nov 2026.
+Jaeger is a music venue in Oslo with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ritter Butzke in Oslo" on Fri, 27 Nov 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 12 upcoming gigs, with line-ups including A:G, Alex Jangle, Ant TC1 and Chinese Daughter and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 15 upcoming gigs, with line-ups including A:G, Alex Jangle, Ant TC1 and blichfeldt and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Jaeger is a music venue in Oslo listed on soundcheck. 12 upcoming gigs, with lin
 | Fri, 11 Dec 2026 | Frædag: Dam Swindle DJ Kicks tour | Dam Swindle, G-HA, Olanskii, Øyvind Morken |
 | Sat, 12 Dec 2026 | Sunkissed: Erol Alkan | Erol Alkan, G-HA, Olanskii, Vinny Villbass |
 | Fri, 18 Dec 2026 | Frædag: FJAAK | FJAAK, G-HA, Olanskii, Øyvind Morken |
+| Fri, 25 Dec 2026 | Romjulsfestivalen 1e juledag: Øyvind Morken + Olefonken | Olefonken, Øyvind Morken |
 | Sat, 26 Dec 2026 | Romjulsfestivalen x JuleURO: Don Quan + Fabian Berg + Fredda  |  |
-| Mon, 28 Dec 2026 | Romjulsfestivalen: Funk For Forest (Live) + Storken + Aksel FU + Erald + Neontastic | Erald, Storken |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

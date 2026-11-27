@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mega 90er Rave - DJ QUICKSILVER" on Fri, 27 Nov 2026.
+M-BIA is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mega 90er Rave - DJ QUICKSILVER" on Fri, 27 Nov 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Basstronauten, BrettHit, Curl Ease and D.K. and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -21,4 +21,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with lin
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

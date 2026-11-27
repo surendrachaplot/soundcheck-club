@@ -1,14 +1,15 @@
 # Mianda
 
-Mianda is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 5 Dec 2026.
+Mianda is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 5 Dec 2026.
 
-Mianda is an electro and techno artist based in Romania, with 35 gigs on soundcheck across Barcelona, Bucharest, London and Paris. Often billed alongside Teodor Ghita, Paul Popa and Obre. Next up: Platforma Wolff, Bucharest on Sat 5 Dec.
+Mianda is a techno and electro artist based in Romania, with 36 gigs on soundcheck across Barcelona, Bucharest, London and Paris. Often billed alongside Teodor Ghita, Paul Popa and Obre. Next up: Platforma Wolff, Bucharest on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Platforma Wolff | Bucharest |
+| Fri, 1 Jan 2027 | Platforma Wolff | Bucharest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mianda is an electro and techno artist based in Romania, with 35 gigs on soundch
 
 Teodor Ghita, Paul Popa, Obre
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mianda/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mianda/)*

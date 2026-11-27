@@ -1,6 +1,6 @@
 # Sunday Lapolees
 
-Sunday Lapolees is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
+Sunday Lapolees is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Station Live Club, Milan on Fri, 18 Dec 2026.
 
 Sunday Lapolees is a house and electronica artist based in Italy, with 17 gigs on soundcheck across Copenhagen and Milan. Often billed alongside Sdrumbi, Memo (CO) and Esther Urioste. Next up: Station Live Club, Milan on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sunday Lapolees is a house and electronica artist based in Italy, with 17 gigs o
 
 Sdrumbi, Memo (CO), Esther Urioste
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaylapolees/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaylapolees/)*

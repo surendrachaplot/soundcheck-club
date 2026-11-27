@@ -1,6 +1,6 @@
 # Soldal
 
-Soldal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blå, Oslo on Sat, 28 Nov 2026.
+Soldal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blå, Oslo on Sat, 28 Nov 2026.
 
 Soldal is a house and techno artist based in Norway, with 10 gigs on soundcheck across Oslo. Often billed alongside 360Mads, G-HA and Kevin Saunderson. Next up: Blå, Oslo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Soldal is a house and techno artist based in Norway, with 10 gigs on soundcheck 
 
 360Mads, G-HA, Kevin Saunderson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soldal/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soldal/)*

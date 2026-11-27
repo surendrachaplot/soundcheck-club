@@ -1,6 +1,6 @@
 # Wooj
 
-Wooj is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Portland Room, Toronto on Thu, 31 Dec 2026.
+Wooj is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Portland Room, Toronto on Thu, 31 Dec 2026.
 
 Wooj is a house and tech house artist based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside TESFAY, Forbss and Manzzy. Next up: Portland Room, Toronto on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Wooj is a house and tech house artist based in Canada, with 8 gigs on soundcheck
 
 TESFAY, Forbss, Manzzy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wooj/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wooj/)*

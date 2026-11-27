@@ -1,6 +1,6 @@
 # Doop
 
-Doop is a music venue in Shanghai with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SODAJAM 5th Anniversary" on Fri, 27 Nov 2026.
+Doop is a music venue in Shanghai with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SODAJAM 5th Anniversary" on Fri, 27 Nov 2026.
 
 Doop is a music venue in Shanghai listed on soundcheck. 3 upcoming gigs, with line-ups including 10000 (CN), GUZ, Illsee and Kiernan Laveaux and 1 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Doop is a music venue in Shanghai listed on soundcheck. 3 upcoming gigs, with li
 | Sat, 28 Nov 2026 | PREME & FRIENDS | GUZ (1), Warlock |
 | Sat, 5 Dec 2026 | Shy People 7th Anniversary with Kiernan Laveaux China Debut | 10000 (CN), Illsee, Kiernan Laveaux |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/doop/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/doop/)*

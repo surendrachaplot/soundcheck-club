@@ -1,6 +1,6 @@
 # Baby Kallax
 
-Baby Kallax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Fri, 11 Dec 2026.
+Baby Kallax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Fri, 11 Dec 2026.
 
 Baby Kallax is a house and techno artist based in Sweden, with 18 gigs on soundcheck across Amsterdam, Berlin and Vienna. Often billed alongside Carl Bergé, BERF and Kallax. Next up: Kater, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Baby Kallax is a house and techno artist based in Sweden, with 18 gigs on soundc
 
 Carl Bergé, BERF, Kallax
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babykallax/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babykallax/)*

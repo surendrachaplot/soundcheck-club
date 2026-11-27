@@ -1,6 +1,6 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 28 Nov 2026.
+Girls Don't Sync is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 28 Nov 2026.
 
 Girls Don't Sync is a garage and house artist based in United Kingdom, with 126 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 28 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: The Loft Amsterdam, Amsterdam on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Girls Don't Sync is a garage and house artist based in United Kingdom, with 126 
 
 Interplanetary Criminal, Sophia Violet, Eats Everything
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

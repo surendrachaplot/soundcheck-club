@@ -1,6 +1,6 @@
 # Timur Basha
 
-Timur Basha is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mastak, Warsaw on Fri, 4 Dec 2026.
+Timur Basha is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mastak, Warsaw on Fri, 4 Dec 2026.
 
 Timur Basha is a minimal and techno artist based in Ukraine, with 50 gigs on soundcheck across Bangkok, Barcelona, Berlin and Hamburg and 10 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: Mastak, Warsaw on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Timur Basha is a minimal and techno artist based in Ukraine, with 50 gigs on sou
 
 Shakolin, Karine, Yone-Ko
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*

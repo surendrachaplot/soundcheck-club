@@ -1,6 +1,6 @@
 # Rhyzine
 
-Rhyzine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kyodai, Dublin on Fri, 27 Nov 2026.
+Rhyzine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kyodai, Dublin on Fri, 27 Nov 2026.
 
 Rhyzine is a house and techno artist based in Ireland, with 85 gigs on soundcheck across Belfast, Dublin, Galway and Glasgow and 2 more. Often billed alongside Lúnasa, DJ Baby Tee and E The Artist. Next up: Kyodai, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Rhyzine is a house and techno artist based in Ireland, with 85 gigs on soundchec
 
 Lúnasa, DJ Baby Tee, E The Artist
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyzine/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyzine/)*

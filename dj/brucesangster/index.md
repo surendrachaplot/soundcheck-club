@@ -1,6 +1,6 @@
 # Bruce Sangster
 
-Bruce Sangster is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 16 Dec 2026.
+Bruce Sangster is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 16 Dec 2026.
 
 Bruce Sangster is a house and dub techno artist based in United Kingdom, with 10 gigs on soundcheck across Glasgow. Often billed alongside AKA DISPLAY, ALWAYS 8:15 and Babyccino. Next up: The Berkeley Suite, Glasgow on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ Bruce Sangster is a house and dub techno artist based in United Kingdom, with 10
 
 AKA DISPLAY, ALWAYS 8:15, Babyccino
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brucesangster/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brucesangster/)*

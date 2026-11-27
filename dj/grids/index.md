@@ -1,6 +1,6 @@
 # Grids
 
-Grids is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
+Grids is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
 
 Grids is a techno and tech house artist, with 10 gigs on soundcheck across Copenhagen and Melbourne. Often billed alongside Cutting Room, DJ Possum and Kavil. Next up: Baggen, Copenhagen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Grids is a techno and tech house artist, with 10 gigs on soundcheck across Copen
 
 Cutting Room, DJ Possum, Kavil
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grids/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grids/)*

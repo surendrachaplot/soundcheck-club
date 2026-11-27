@@ -1,6 +1,6 @@
 # Jake Fill
 
-Jake Fill is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
+Jake Fill is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
 
 Jake Fill is a techno and industrial artist based in Poland, with 15 gigs on soundcheck across Bucharest, Krakow, Poland and Poznan and 2 more. Often billed alongside Józef Keuner, SCHELLT and ERNST (UA). Next up: EXPO XXI, Warsaw on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jake Fill is a techno and industrial artist based in Poland, with 15 gigs on sou
 
 Józef Keuner, SCHELLT, ERNST (UA)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefill/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefill/)*

@@ -1,6 +1,6 @@
 # dj awesomechillguy25
 
-dj awesomechillguy25 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+dj awesomechillguy25 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 dj awesomechillguy25 is a techno and house artist based in New Zealand, with 8 gigs on soundcheck across Auckland and Melbourne. Often billed alongside 19 in Poland, ANABE and AROHA. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -24,4 +24,4 @@ dj awesomechillguy25 is a techno and house artist based in New Zealand, with 8 g
 
 19 in Poland, ANABE, AROHA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djawesomechillguy25/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djawesomechillguy25/)*

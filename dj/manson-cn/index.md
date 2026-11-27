@@ -1,6 +1,6 @@
 # Manson
 
-Manson is a Club and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OIL Club, Shenzhen on Sun, 6 Dec 2026.
+Manson is a Club and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Sun, 6 Dec 2026.
 
 Manson is a club and trance artist based in China, with 33 gigs on soundcheck across Shanghai and Shenzhen. Often billed alongside Beibeilon, DJ 86 and zzm. Next up: OIL Club, Shenzhen on Sun 6 Dec.
 
@@ -28,4 +28,4 @@ Manson is a club and trance artist based in China, with 33 gigs on soundcheck ac
 
 Beibeilon, DJ 86, zzm (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manson-cn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manson-cn/)*

@@ -1,6 +1,6 @@
 # IBM Doily
 
-IBM Doily is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+IBM Doily is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 IBM Doily is a house and disco artist based in United States of America, with 22 gigs on soundcheck across Mexico City, Naples, New York City and Rome. Often billed alongside Danny Ramos, Frantz and Dante Scaglione. Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ IBM Doily is a house and disco artist based in United States of America, with 22
 
 Danny Ramos, Frantz, Dante Scaglione
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ibmdoily/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ibmdoily/)*

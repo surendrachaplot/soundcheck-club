@@ -1,6 +1,6 @@
 # Sugiurumn
 
-Sugiurumn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Joule, Osaka on Tue, 29 Dec 2026.
+Sugiurumn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Joule, Osaka on Tue, 29 Dec 2026.
 
 Sugiurumn is a techno and house artist based in Japan, with 53 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Ko Kimura, Nao Nomura and Ken Ishii. Next up: Joule, Osaka on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Sugiurumn is a techno and house artist based in Japan, with 53 gigs on soundchec
 
 Ko Kimura, Nao Nomura, Ken Ishii
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugiurumn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugiurumn/)*

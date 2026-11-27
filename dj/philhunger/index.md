@@ -1,6 +1,6 @@
 # PHIL HUNGER
 
-PHIL HUNGER is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Folklor, Lausanne on Thu, 3 Dec 2026.
+PHIL HUNGER is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Folklor, Lausanne on Thu, 3 Dec 2026.
 
 PHIL HUNGER is an electronic artist based in Switzerland, with 7 gigs on soundcheck across Lausanne. Often billed alongside Quitim, LEGRAM VG and Lucas Aliu. Next up: Folklor, Lausanne on Thu 3 Dec.
 
@@ -23,4 +23,4 @@ PHIL HUNGER is an electronic artist based in Switzerland, with 7 gigs on soundch
 
 Quitim, LEGRAM VG, Lucas Aliu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philhunger/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philhunger/)*

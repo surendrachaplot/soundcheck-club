@@ -1,8 +1,8 @@
 # DJ Spence
 
-DJ Spence is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+DJ Spence is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
-DJ Spence is a techno and house artist based in Canada, with 46 gigs on soundcheck across Amsterdam, Berlin, Brussels and Krakow and 13 more. Often billed alongside DJ Frog, PLO Man and Excalibur. Next up: Stereo, Montreal on Sat 5 Dec.
+DJ Spence is a techno and house artist based in Canada, with 47 gigs on soundcheck across Amsterdam, Berlin, Brussels and Krakow and 13 more. Often billed alongside DJ Frog, PLO Man and Excalibur. Next up: Stereo, Montreal on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Spence is a techno and house artist based in Canada, with 46 gigs on soundche
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
+| Fri, 1 Jan 2027 | TBA | Vancouver |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Spence is a techno and house artist based in Canada, with 46 gigs on soundche
 
 DJ Frog, PLO Man, Excalibur
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspence/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspence/)*

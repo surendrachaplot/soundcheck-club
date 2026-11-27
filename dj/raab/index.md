@@ -1,6 +1,6 @@
 # Raab
 
-Raab is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Four Quarters, London on Sat, 19 Dec 2026.
+Raab is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Four Quarters, London on Sat, 19 Dec 2026.
 
 Raab is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Dublin, London and Nürnberg. Often billed alongside KOSIE, Malwen and Martita. Next up: Four Quarters, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Raab is a techno and house artist based in United Kingdom, with 13 gigs on sound
 
 KOSIE, Malwen, Martita
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raab/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raab/)*

@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 12 Dec 2026.
+Alec Falconer is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 12 Dec 2026.
 
 Alec Falconer is a house and garage artist based in United Kingdom, with 118 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Berlin and 30 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Gaswrx Birmingham, Birmingham on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Alec Falconer is a house and garage artist based in United Kingdom, with 118 gig
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

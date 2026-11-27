@@ -1,6 +1,6 @@
 # INSECT CRUSHA
 
-INSECT CRUSHA is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hootananny Brixton, London on Thu, 10 Dec 2026.
+INSECT CRUSHA is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hootananny Brixton, London on Thu, 10 Dec 2026.
 
 INSECT CRUSHA is a jungle and garage artist based in United Kingdom, with 27 gigs on soundcheck across London and Manchester. Often billed alongside OS:MAN, CITIZEN and A.N.T. Next up: Hootananny Brixton, London on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ INSECT CRUSHA is a jungle and garage artist based in United Kingdom, with 27 gig
 
 OS:MAN, CITIZEN, A.N.T
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insectcrusha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insectcrusha/)*

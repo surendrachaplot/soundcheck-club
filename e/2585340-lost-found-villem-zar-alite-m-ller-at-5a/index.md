@@ -1,6 +1,6 @@
 # Lost&Found: Villem, Zar, Alite & Müller at 5A
 
-Lost&Found: Villem, Zar, Alite & Müller at 5A on Thu 3 Dec, Lisbon. 3 artists: MÜLLER, Villem and Zar.. Drum & Bass. See the line-up on soundcheck.
+Lost&Found: Villem, Zar, Alite & Müller at 5A on Thu 3 Dec, Lisbon. 4 artists: djAlite, MÜLLER, Villem and Zar.. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Lost&Found: Villem, Zar, Alite & Müller at 5A on Thu 3 Dec, Lisbon. 3 artists: 
 
 ## Line-up
 
+- djAlite
 - MÜLLER
 - Villem
 - Zar.

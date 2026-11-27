@@ -1,6 +1,6 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SALA BIKINI x HOT CREATIONS w/ Manda Moor + Richy Ahmed + Rossko" on Fri, 27 Nov 2026.
+Bikini Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SALA BIKINI x HOT CREATIONS w/ Manda Moor + Richy Ahmed + Rossko" on Fri, 27 Nov 2026.
 
 Bikini Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including Agatha Pher, BizZa, Manda Moor and Max Haas and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
@@ -20,4 +20,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs,
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

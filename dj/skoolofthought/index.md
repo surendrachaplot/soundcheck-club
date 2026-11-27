@@ -1,6 +1,6 @@
 # Skool Of Thought
 
-Skool Of Thought is a Breakbeat and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Superordinary, Brisbane on Sat, 3 Apr 2027.
+Skool Of Thought is a Breakbeat and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Superordinary, Brisbane on Sat, 3 Apr 2027.
 
 Skool Of Thought is a breakbeat and dubstep artist based in United Kingdom, with 6 gigs on soundcheck across Brisbane, London, Melbourne and Perth. Often billed alongside Stanton Warriors, Freestylers and Kid Kenobi. Next up: Superordinary, Brisbane on Sat 3 Apr.
 
@@ -22,4 +22,4 @@ Skool Of Thought is a breakbeat and dubstep artist based in United Kingdom, with
 
 Stanton Warriors, Freestylers, Kid Kenobi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skoolofthought/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skoolofthought/)*

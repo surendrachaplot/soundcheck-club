@@ -1,6 +1,6 @@
 # Ays (NL)
 
-Ays (NL) is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Cult=us, Rotterdam on Fri, 27 Nov 2026.
+Ays (NL) is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cult=us, Rotterdam on Fri, 27 Nov 2026.
 
 Ays (NL) is a disco and house artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Helsinki and 8 more. Often billed alongside Kuriosa, Antal and Charmaine. Next up: Cult=us, Rotterdam on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Ays (NL) is a disco and house artist based in Netherlands, with 69 gigs on sound
 
 Kuriosa, Antal, Charmaine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ays-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ays-1/)*

@@ -1,6 +1,6 @@
 # Baggymilziade
 
-Baggymilziade is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Spakoina, Athens on Fri, 4 Dec 2026.
+Baggymilziade is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Spakoina, Athens on Fri, 4 Dec 2026.
 
 Baggymilziade is a techno and house artist based in Greece, with 27 gigs on soundcheck across Athens. Often billed alongside Hybokh, 555ivas and Chico Naral. Next up: Spakoina, Athens on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Baggymilziade is a techno and house artist based in Greece, with 27 gigs on soun
 
 Hybokh, 555ivas, Chico Naral
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baggymilziade/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baggymilziade/)*

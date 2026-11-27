@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SOB's presents: midwxst: Solitude in Silence Tour" on Fri, 27 Nov 2026.
+SOBs is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SOB's presents: midwxst: Solitude in Silence Tour" on Fri, 27 Nov 2026.
 
 SOBs is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including DJ TONY TOUCH and Pasha. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -23,4 +23,4 @@ SOBs is a music venue in New York City listed on soundcheck. 18 upcoming gigs, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

@@ -1,6 +1,6 @@
 # Perfect Lovers
 
-Perfect Lovers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Versalles 64, Mexico City on Sat, 28 Nov 2026.
+Perfect Lovers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Versalles 64, Mexico City on Sat, 28 Nov 2026.
 
 Perfect Lovers is a house and disco artist, with 73 gigs on soundcheck across Berlin, Bristol, Leipzig and London and 6 more. Often billed alongside Victor Rodriguez, Bears In Space and Stacy Christine. Next up: Versalles 64, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Perfect Lovers is a house and disco artist, with 73 gigs on soundcheck across Be
 
 Victor Rodriguez, Bears In Space, Stacy Christine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectlovers/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectlovers/)*

@@ -1,6 +1,6 @@
 # JEWELSSEA
 
-JEWELSSEA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Dolphin, Philadelphia on Fri, 27 Nov 2026.
+JEWELSSEA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Dolphin, Philadelphia on Fri, 27 Nov 2026.
 
 JEWELSSEA is a club and techno artist based in United States of America, with 127 gigs on soundcheck across Baltimore, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside low iron, SHUGAZI and Phreakwency. Next up: The Dolphin, Philadelphia on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ JEWELSSEA is a club and techno artist based in United States of America, with 12
 
 low iron, SHUGAZI, Phreakwency
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*

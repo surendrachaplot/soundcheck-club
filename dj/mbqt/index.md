@@ -1,6 +1,6 @@
 # MBQT
 
-MBQT is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Treehouse NDSM, Amsterdam on Sun, 20 Dec 2026.
+MBQT is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Treehouse NDSM, Amsterdam on Sun, 20 Dec 2026.
 
 MBQT is a techno and breakbeat artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside sausy, Candy Coup and GISZA. Next up: Treehouse NDSM, Amsterdam on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ MBQT is a techno and breakbeat artist based in Netherlands, with 15 gigs on soun
 
 sausy, Candy Coup, GISZA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mbqt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mbqt/)*

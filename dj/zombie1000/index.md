@@ -1,6 +1,6 @@
 # ZOMBIE1000
 
-ZOMBIE1000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
+ZOMBIE1000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fusion Club, Münster on Thu, 31 Dec 2026.
 
 ZOMBIE1000 is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Ghent and 1 more. Often billed alongside Demontime, Dennis Siemion and KACHU2K. Next up: Fusion Club, Münster on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ ZOMBIE1000 is a techno and trance artist based in Germany, with 11 gigs on sound
 
 Demontime, Dennis Siemion, KACHU2K
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombie1000/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombie1000/)*

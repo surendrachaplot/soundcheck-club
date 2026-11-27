@@ -1,6 +1,6 @@
 # DELASFLORES
 
-DELASFLORES is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 12 Dec 2026.
+DELASFLORES is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 12 Dec 2026.
 
 DELASFLORES is a house and techno artist based in Spain, with 47 gigs on soundcheck across Barcelona, Berlin, Brighton and Dublin and 10 more. Often billed alongside B.Love, Fantastic Man and Felon5. Next up: 303 Audiophile Bar, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DELASFLORES is a house and techno artist based in Spain, with 47 gigs on soundch
 
 B.Love, Fantastic Man, Felon5
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delasflores/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delasflores/)*

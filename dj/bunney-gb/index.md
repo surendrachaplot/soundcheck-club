@@ -1,6 +1,6 @@
 # Bunney
 
-Bunney is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Last Arch, London on Fri, 18 Dec 2026.
+Bunney is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Last Arch, London on Fri, 18 Dec 2026.
 
 Bunney is a house and techno artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Bogotá, Brussels and Ghent and 4 more. Often billed alongside Dockett Eddy, Gabriel Finch and Kuba'97. Next up: Last Arch, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Bunney is a house and techno artist based in United Kingdom, with 71 gigs on sou
 
 Dockett Eddy, Gabriel Finch, Kuba'97
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*

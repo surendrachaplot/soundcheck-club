@@ -1,13 +1,14 @@
 # Joe Vanditti
 
-Joe Vanditti is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Portland Room, Toronto on Thu, 31 Dec 2026.
+Joe Vanditti is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tunnel, Milan on Fri, 11 Dec 2026.
 
-Joe Vanditti is a tech house and house artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bucharest and 18 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Portland Room, Toronto on Thu 31 Dec.
+Joe Vanditti is a tech house and house artist based in Italy, with 58 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bucharest and 18 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Tunnel, Milan on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Tunnel | Milan |
 | Thu, 31 Dec 2026 | Portland Room | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Joe Vanditti is a tech house and house artist based in Italy, with 57 gigs on so
 
 Stefano Noferini, Alev Tav, Alex Bohemien
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*

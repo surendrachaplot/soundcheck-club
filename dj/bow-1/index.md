@@ -1,13 +1,14 @@
 # BOW (1)
 
-BOW (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Botanique, Brussels on Sat, 12 Dec 2026.
+BOW (1) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Red Bar, Tokyo on Sat, 28 Nov 2026.
 
-BOW is a techno and house artist based in Japan, with 22 gigs on soundcheck across Brussels and Tokyo. Often billed alongside Dr. Nishimura, Sakuma and Shinsuke Goto. Next up: Botanique, Brussels on Sat 12 Dec.
+BOW is a techno and house artist based in Japan, with 23 gigs on soundcheck across Brussels and Tokyo. Often billed alongside Dr. Nishimura, Sakuma and Shinsuke Goto. Next up: Red Bar, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Red Bar | Tokyo |
 | Sat, 12 Dec 2026 | Botanique | Brussels |
 | Sat, 26 Dec 2026 | WOMB | Tokyo |
 
@@ -26,4 +27,4 @@ BOW is a techno and house artist based in Japan, with 22 gigs on soundcheck acro
 
 Dr. Nishimura, Sakuma, Shinsuke Goto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bow-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bow-1/)*

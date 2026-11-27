@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Galop Galop" on Fri, 27 Nov 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Galop Galop" on Fri, 27 Nov 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including 25EMEHEURE, Anthea, Azamat B. and DC Salas and 2 more. See dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -20,4 +20,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 7 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

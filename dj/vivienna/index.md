@@ -1,6 +1,6 @@
 # Vivienna
 
-Vivienna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 11 Dec 2026.
+Vivienna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 11 Dec 2026.
 
 Vivienna is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Munich and 2 more. Often billed alongside ELOISA, Armin Hermann and Bitschu Batschu. Next up: Tanzhaus West, Frankfurt on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Vivienna is a techno and trance artist based in Germany, with 30 gigs on soundch
 
 ELOISA, Armin Hermann, Bitschu Batschu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*

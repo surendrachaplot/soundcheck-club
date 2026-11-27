@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Ryan Elliott is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, with 277 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Ryan Elliott is a house and techno artist based in United States of America, with 278 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 | Sat, 12 Dec 2026 | Sub Club | Glasgow |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 1 Jan 2027 | Shelter Amsterdam | Amsterdam |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
@@ -34,4 +35,4 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

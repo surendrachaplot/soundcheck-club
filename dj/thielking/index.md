@@ -1,6 +1,6 @@
 # Thielking
 
-Thielking is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
+Thielking is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
 
 Thielking is a trance and techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Munich. Often billed alongside Ravejezuz, ClubSubbe and JUWLZ. Next up: TBA - secret Location via Telegram , Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Thielking is a trance and techno artist based in Germany, with 15 gigs on soundc
 
 Ravejezuz, ClubSubbe, JUWLZ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thielking/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thielking/)*

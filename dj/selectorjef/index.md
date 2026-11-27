@@ -1,6 +1,6 @@
 # Selector Jef
 
-Selector Jef is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Espacio KB, Bogotá on Fri, 27 Nov 2026.
+Selector Jef is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Espacio KB, Bogotá on Fri, 27 Nov 2026.
 
 Selector Jef is a house and electro artist based in United States of America, with 16 gigs on soundcheck across Barcelona, Bogotá and Tampa Bay. Often billed alongside Tarqvino, Owldisco and Sveta Shtrom. Next up: Espacio KB, Bogotá on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Selector Jef is a house and electro artist based in United States of America, wi
 
 Tarqvino, Owldisco, Sveta Shtrom
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectorjef/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectorjef/)*

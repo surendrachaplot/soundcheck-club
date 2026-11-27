@@ -1,6 +1,6 @@
 # Semih Akay
 
-Semih Akay is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Minimüzikhol, Istanbul on Sat, 28 Nov 2026.
+Semih Akay is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Minimüzikhol, Istanbul on Sat, 28 Nov 2026.
 
 Semih Akay is a house and tech house artist based in Turkey, with 43 gigs on soundcheck across Istanbul. Often billed alongside Alexandr Grecov, DJ Queto and Fault. Next up: Minimüzikhol, Istanbul on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Semih Akay is a house and tech house artist based in Turkey, with 43 gigs on sou
 
 Alexandr Grecov, DJ Queto, Fault
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semihakay/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semihakay/)*

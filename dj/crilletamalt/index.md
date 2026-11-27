@@ -1,6 +1,6 @@
 # Crille & Tamalt
 
-Crille & Tamalt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
+Crille & Tamalt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
 
 Crille & Tamalt are a house and techno duo based in Germany, with 41 gigs on soundcheck across Berlin, Dresden, Hamburg and Hannover and 1 more. Often billed alongside Punani, Jaamann and Triqi. Next up: TBA - SECRET LOCATION, Hannover on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Crille & Tamalt are a house and techno duo based in Germany, with 41 gigs on sou
 
 Punani, Jaamann, Triqi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crilletamalt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crilletamalt/)*

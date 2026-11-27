@@ -1,14 +1,15 @@
 # Charlie Tee
 
-Charlie Tee is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Document, Bristol on Fri, 27 Nov 2026.
+Charlie Tee is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Document, Bristol on Fri, 27 Nov 2026.
 
-Charlie Tee is a drum & bass and bass artist based in United Kingdom, with 55 gigs on soundcheck across Auckland, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside K Motionz, BassLayerz and Hedex. Next up: Document, Bristol on Fri 27 Nov.
+Charlie Tee is a drum & bass and bass artist based in United Kingdom, with 56 gigs on soundcheck across Auckland, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside K Motionz, BassLayerz and Hedex. Next up: Document, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Document | Bristol |
+| Fri, 4 Dec 2026 | Cupra City Garage Manchester | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Charlie Tee is a drum & bass and bass artist based in United Kingdom, with 55 gi
 
 K Motionz, BassLayerz, Hedex
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*

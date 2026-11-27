@@ -1,6 +1,6 @@
 # Michelle Manetti
 
-Michelle Manetti is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Carpet Shop, London on Fri, 27 Nov 2026.
+Michelle Manetti is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Carpet Shop, London on Fri, 27 Nov 2026.
 
 Michelle Manetti is a house and techno artist based in United Kingdom, with 151 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside FAFF, THEMPRESS and Marie Malarie. Next up: The Carpet Shop, London on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Michelle Manetti is a house and techno artist based in United Kingdom, with 151 
 
 FAFF, THEMPRESS, Marie Malarie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*

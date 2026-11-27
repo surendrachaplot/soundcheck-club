@@ -1,6 +1,6 @@
 # Captain Knuckles
 
-Captain Knuckles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vektor - The Klub, Budapest on Sat, 5 Dec 2026.
+Captain Knuckles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vektor - The Klub, Budapest on Sat, 5 Dec 2026.
 
 Captain Knuckles is a house and tech house artist based in Hungary, with 82 gigs on soundcheck across Budapest. Often billed alongside Sobek, Sabani and Adx. Next up: Vektor - The Klub, Budapest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Captain Knuckles is a house and tech house artist based in Hungary, with 82 gigs
 
 Sobek, Sabani, Adx
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*

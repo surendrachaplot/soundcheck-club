@@ -1,6 +1,6 @@
 # Bushwacka!
 
-Bushwacka! is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Jacobs Basement, Cardiff on Sat, 28 Nov 2026.
+Bushwacka! is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jacobs Basement, Cardiff on Sat, 28 Nov 2026.
 
 Bushwacka! is a house and disco artist based in United Kingdom, with 49 gigs on soundcheck across Berlin, Bucharest, Cardiff and Ibiza and 12 more. Often billed alongside Defex, Daniel Dutts and Camilo Miranda. Next up: Jacobs Basement, Cardiff on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Bushwacka! is a house and disco artist based in United Kingdom, with 49 gigs on 
 
 Defex, Daniel Dutts, Camilo Miranda
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushwacka/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushwacka/)*

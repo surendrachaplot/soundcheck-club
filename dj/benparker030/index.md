@@ -1,6 +1,6 @@
 # Ben Parker 030
 
-Ben Parker 030 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hafenklang, Hamburg on Fri, 11 Dec 2026.
+Ben Parker 030 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hafenklang, Hamburg on Fri, 11 Dec 2026.
 
 Ben Parker 030 is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Hamburg and Vienna. Often billed alongside carlo kalu, Crystal O and Frank Rayo. Next up: Hafenklang, Hamburg on Fri 11 Dec.
 
@@ -15,4 +15,4 @@ Ben Parker 030 is a techno and trance artist based in Germany, with 2 gigs on so
 
 carlo kalu, Crystal O, Frank Rayo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benparker030/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benparker030/)*

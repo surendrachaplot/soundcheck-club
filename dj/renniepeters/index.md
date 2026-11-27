@@ -1,6 +1,6 @@
 # Rennie Peters
 
-Rennie Peters is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at UNLOCKED, London on Sat, 12 Dec 2026.
+Rennie Peters is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at UNLOCKED, London on Sat, 12 Dec 2026.
 
 Rennie Peters is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Ibiza and 4 more. Often billed alongside Sammy Porter, George Mensah and Tilli Murphy. Next up: UNLOCKED, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Rennie Peters is a house and tech house artist based in United Kingdom, with 59 
 
 Sammy Porter, George Mensah, Tilli Murphy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*

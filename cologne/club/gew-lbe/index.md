@@ -1,8 +1,8 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Klubnacht with LALENA, Moonbootica" on Fri, 27 Nov 2026.
+Gewölbe is a music venue in Cologne with 18 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Klubnacht with LALENA, Moonbootica" on Fri, 27 Nov 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including AMSL, Anatoli [DE], Anna Konda and ATEQ and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 18 upcoming gigs, with line-ups including AMSL, Anatoli [DE], Anna Konda and ATEQ and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, wit
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Klubnacht with LALENA, Moonbootica | LALENA, Moonbootica |
 | Sat, 28 Nov 2026 | Im Fokus with Di² & Elisen, Locrian, Marco Hilbert & rilé | Elisen, Marco Hilbert (2), rilé |
-| Fri, 4 Dec 2026 | HOOVE with Chiara Kley, Julian, Onur Özer | Julian Feierabend, Onur Özer |
+| Fri, 4 Dec 2026 | HOOVE with Onur Özer | Julian Feierabend, Onur Özer |
 | Sat, 5 Dec 2026 | Schleuse Eins with ATEQ & Skee Mask - all night long - | ATEQ, Skee Mask |
 | Fri, 11 Dec 2026 | CLR with Chris Liebing, Plumitaa | Chris Liebing, Plumitaa |
 | Sat, 12 Dec 2026 | Jack This with evolpeeD & Raphael Hansen, lyzanne, Tasha | Tasha, evolpeeD, lyzanne |
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

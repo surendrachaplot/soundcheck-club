@@ -1,18 +1,18 @@
 # Equus Belli
 
-Equus Belli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
+Equus Belli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cité Fertile, Paris on Sun, 29 Nov 2026.
 
-Equus Belli is a techno and house artist based in France, with 27 gigs on soundcheck across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: Mia Mao, Paris on Thu 26 Nov.
+Equus Belli is a techno and house artist based in France, with 27 gigs on soundcheck across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: La Cité Fertile, Paris on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Mia Mao | Paris |
 | Sun, 29 Nov 2026 | La Cité Fertile | Paris |
 
 ## Recently played
 
+- Mia Mao, Paris · Thu, 26 Nov 2026
 - Glazart, Paris · Sun, 22 Nov 2026
 - Virage, Paris · Sat, 7 Nov 2026
 - essaim, Paris · Sun, 25 Oct 2026
@@ -20,10 +20,9 @@ Equus Belli is a techno and house artist based in France, with 27 gigs on soundc
 - La Station - Gare des Mines, Paris · Sun, 11 Oct 2026
 - La Station - Gare des Mines, Paris · Fri, 21 Aug 2026
 - Le 211, Paris · Fri, 24 Jul 2026
-- ÆDEN, Berlin · Thu, 23 Jul 2026
 
 ## Shares bills with
 
 A.Litique, Litoshka, Maris Shilton
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*

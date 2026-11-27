@@ -1,6 +1,6 @@
 # Carla Roca
 
-Carla Roca is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
+Carla Roca is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
 
 Carla Roca is a techno and electro artist based in Poland, with 32 gigs on soundcheck across Dortmund / Essen, Frankfurt, Krakow and London and 3 more. Often billed alongside Aetha, The Advent and WRK (PL). Next up: EXPO XXI, Warsaw on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Carla Roca is a techno and electro artist based in Poland, with 32 gigs on sound
 
 Aetha, The Advent, WRK (PL)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaroca/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaroca/)*

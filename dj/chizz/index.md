@@ -1,6 +1,6 @@
 # chizz
 
-chizz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
+chizz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
 
 chizz is a techno and house artist based in China, with 21 gigs on soundcheck across Beijing. Often billed alongside TiAo, Berlin Bunny and Eyesdice. Next up: Groundless Factory, Beijing on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ chizz is a techno and house artist based in China, with 21 gigs on soundcheck ac
 
 TiAo, Berlin Bunny, Eyesdice
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chizz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chizz/)*

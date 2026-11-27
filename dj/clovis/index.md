@@ -1,6 +1,6 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Green Room NYC, New York City on Fri, 27 Nov 2026.
+Clovis is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Green Room NYC, New York City on Fri, 27 Nov 2026.
 
 Clovis is a house and minimal artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 18 more. Often billed alongside Topper, Cesar Merveille and Inner. Next up: Green Room NYC, New York City on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Clovis is a house and minimal artist based in Germany, with 103 gigs on soundche
 
 Topper, Cesar Merveille, Inner
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*

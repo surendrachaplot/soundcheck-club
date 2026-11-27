@@ -1,6 +1,6 @@
 # Frank Broughton
 
-Frank Broughton is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M.O.T, London on Sat, 13 Feb 2027.
+Frank Broughton is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M.O.T, London on Sat, 13 Feb 2027.
 
 Frank Broughton is a disco and balearic artist based in United Kingdom, with 16 gigs on soundcheck across London, Manchester and Newcastle. Often billed alongside Bill Brewster, Sarahtonin and Ray Mang. Next up: M.O.T, London on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Frank Broughton is a disco and balearic artist based in United Kingdom, with 16 
 
 Bill Brewster, Sarahtonin, Ray Mang
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbroughton/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbroughton/)*

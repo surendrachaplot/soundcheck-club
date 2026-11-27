@@ -1,17 +1,18 @@
 # Okin
 
-Okin is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 12 Nov 2026. Next at Salon Daomé, Montreal on Thu, 12 Nov 2026.
+Okin is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Thu, 10 Dec 2026.
 
-Okin is a tech house and techno artist based in Canada, with 13 gigs on soundcheck across Montreal. Often billed alongside Audio Sin, Kostello and Rafa Pineda. Next up: Salon Daomé, Montreal on Thu 12 Nov.
+Okin is a tech house and techno artist based in Canada, with 14 gigs on soundcheck across Montreal. Often billed alongside Audio Sin, Kostello and Rafa Pineda. Next up: Salon Daomé, Montreal on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Salon Daomé | Montreal |
+| Thu, 10 Dec 2026 | Salon Daomé | Montreal |
 
 ## Recently played
 
+- Salon Daomé, Montreal · Thu, 12 Nov 2026
 - Salon Daomé, Montreal · Thu, 8 Oct 2026
 - Salon Daomé, Montreal · Fri, 29 May 2026
 - Foufounes Electronique, Montreal · Fri, 20 Feb 2026
@@ -19,10 +20,9 @@ Okin is a tech house and techno artist based in Canada, with 13 gigs on soundche
 - Foufounes Electronique, Montreal · Fri, 11 Jul 2025
 - Salon Daomé, Montreal · Sat, 10 May 2025
 - Salon Daomé, Montreal · Fri, 24 May 2024
-- TBA - Montreal, Montreal · Fri, 26 Jan 2024
 
 ## Shares bills with
 
 Audio Sin, Kostello, Rafa Pineda
 
-*Updated Thu, 12 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okin/)*

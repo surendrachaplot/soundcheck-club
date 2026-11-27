@@ -1,13 +1,13 @@
 # Apteka
 
-Apteka is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Lonely No More: Dave Zak + Brian Siewiorek" on Sun, 29 Nov 2026.
+Apteka is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Lonely No More: Dave Zak + Brian Siewiorek" on Sun, 29 Nov 2026.
 
-Apteka is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Apteka is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig, with line-ups including Brian Siewiorek and Dave Zak. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 29 Nov 2026 | Lonely No More: Dave Zak + Brian Siewiorek |  |
+| Sun, 29 Nov 2026 | Lonely No More: Dave Zak + Brian Siewiorek | Brian Siewiorek, Dave Zak |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/apteka/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/apteka/)*

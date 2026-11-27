@@ -1,6 +1,6 @@
 # PAS (UK)
 
-PAS (UK) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 4 Dec 2026.
+PAS (UK) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Eastern Bloc Records, Manchester on Fri, 4 Dec 2026.
 
 PAS (UK) is a tech house and house artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Leeds, Manchester and Shanghai. Often billed alongside Rob Pearson, TriForm and dj ripple. Next up: Eastern Bloc Records, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ PAS (UK) is a tech house and house artist based in United Kingdom, with 13 gigs 
 
 Rob Pearson, TriForm, dj ripple
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*

@@ -1,6 +1,6 @@
 # Midland
 
-Midland is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
+Midland is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Hotel, Manchester on Fri, 27 Nov 2026.
 
 Midland is a house and techno artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside NIKS, Peach and Shanti Celeste. Next up: The White Hotel, Manchester on Fri 27 Nov.
 
@@ -34,4 +34,4 @@ Midland is a house and techno artist based in United Kingdom, with 128 gigs on s
 
 NIKS, Peach, Shanti Celeste
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

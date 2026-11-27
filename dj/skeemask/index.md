@@ -1,6 +1,6 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Blå, Oslo on Fri, 27 Nov 2026.
+Skee Mask is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Blå, Oslo on Fri, 27 Nov 2026.
 
 Skee Mask is a techno and bass artist based in Germany, with 177 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 51 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Blå, Oslo on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Skee Mask is a techno and bass artist based in Germany, with 177 gigs on soundch
 
 Zenker Brothers, DjRUM, Mia Koden
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*

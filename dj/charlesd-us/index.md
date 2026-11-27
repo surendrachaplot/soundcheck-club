@@ -1,6 +1,6 @@
 # Charles D (US)
 
-Charles D (US) is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 99 Scott Ave, New York City on Sat, 28 Nov 2026.
+Charles D (US) is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 99 Scott Ave, New York City on Sat, 28 Nov 2026.
 
 Charles D (US) is a techno and tech house artist based in Italy, with 44 gigs on soundcheck across Boston, Chicago, Denver and Detroit and 15 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: 99 Scott Ave, New York City on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Charles D (US) is a techno and tech house artist based in Italy, with 44 gigs on
 
 Adam Beyer, Eli Brown, Victor Ruiz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesd-us/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesd-us/)*

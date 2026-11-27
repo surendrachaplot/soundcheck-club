@@ -1,6 +1,6 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Octava, Bogotá on Fri, 27 Nov 2026.
+Frank Storm is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Octava, Bogotá on Fri, 27 Nov 2026.
 
 Frank Storm is a tech house and techno artist based in Italy, with 54 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 15 more. Often billed alongside Marco Carola, Ale De Tuglie and Ilario Alicante. Next up: Octava, Bogotá on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Frank Storm is a tech house and techno artist based in Italy, with 54 gigs on so
 
 Marco Carola, Ale De Tuglie, Ilario Alicante
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

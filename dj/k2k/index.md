@@ -1,6 +1,6 @@
 # k2k
 
-k2k is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Attic Collingwood, Melbourne on Sat, 19 Dec 2026.
+k2k is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Attic Collingwood, Melbourne on Sat, 19 Dec 2026.
 
 k2k is a house and tech house artist based in New Zealand, with 13 gigs on soundcheck across Auckland, Glasgow, Kyoto and London and 2 more. Often billed alongside Arcadia, JUN INAGAWA and A-Trak. Next up: The Attic Collingwood, Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ k2k is a house and tech house artist based in New Zealand, with 13 gigs on sound
 
 Arcadia, JUN INAGAWA, A-Trak
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k2k/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k2k/)*

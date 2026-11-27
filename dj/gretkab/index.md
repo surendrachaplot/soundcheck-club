@@ -1,6 +1,6 @@
 # Gretka B
 
-Gretka B is a Afro House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 19 Dec 2026.
+Gretka B is a Afro House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 19 Dec 2026.
 
 Gretka B is an afro house and downtempo artist, with 95 gigs on soundcheck across Bratislava, London, Malta and Medellin and 2 more. Often billed alongside DADO, Konik and PAPCO. Next up: Radost Music Club, Bratislava on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Gretka B is an afro house and downtempo artist, with 95 gigs on soundcheck acros
 
 DADO, Konik, PAPCO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretkab/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretkab/)*

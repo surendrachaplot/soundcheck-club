@@ -1,6 +1,6 @@
 # Mez (2)
 
-Mez (2) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
+Mez (2) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
 
 Mez is a deep house and techno artist based in United Kingdom, with 7 gigs on soundcheck across London and Paris. Often billed alongside MEZ, Parra Vie and 2Doters. Next up: Rhum Tavern, London on Sat 13 Feb.
 
@@ -23,4 +23,4 @@ Mez is a deep house and techno artist based in United Kingdom, with 7 gigs on so
 
 MEZ (2), Parra Vie, 2Doters
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mez-2-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mez-2-uk/)*

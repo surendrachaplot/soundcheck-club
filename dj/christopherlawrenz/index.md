@@ -1,6 +1,6 @@
 # Christopher Lawrenz
 
-Christopher Lawrenz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
+Christopher Lawrenz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
 
 Christopher Lawrenz is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Greece, Hamburg and Vienna. Often billed alongside Hagel, LAWRENZ and Masa Saji. Next up: Studio1111, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Christopher Lawrenz is a techno and house artist based in Germany, with 25 gigs 
 
 Hagel, LAWRENZ, Masa Saji
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherlawrenz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherlawrenz/)*

@@ -1,8 +1,8 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Dependance" on Fri, 27 Nov 2026.
+Mitsuki is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Dependance" on Fri, 27 Nov 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including comm, Connor, David Fogarty and discopants and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including comm, Connor, David Fogarty and discopants and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with li
 | Fri, 4 Dec 2026 | SpeLL | Sina (AU), Vlada, levolant |
 | Sat, 5 Dec 2026 | Tommy Pickles/Yuta Suzuki/Connor | Connor, Tommy Pickles, Yuta Suzuki |
 | Fri, 11 Dec 2026 | Rey Colino/Wada Yosuke/levolant | Rey Colino, Wada Yosuke, levolant |
+| Sun, 13 Dec 2026 | Luisa/levolant/teppei/Shinsuke Goto | Luisa, Shinsuke Goto, levolant, teppei |
 | Sat, 19 Dec 2026 | AFTERLIFE | DJ Yazi, Shinsuke Goto, comm |
 
 ## Address
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

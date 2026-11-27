@@ -1,6 +1,6 @@
 # cfds
 
-cfds is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Chinois, Paris on Mon, 15 Feb 2027.
+cfds is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Chinois, Paris on Mon, 15 Feb 2027.
 
 cfds is an ebm and electro artist based in France, with 26 gigs on soundcheck across Brussels and Paris. Often billed alongside Studerkel, Kalyug Citizen and NairLess. Next up: Le Chinois, Paris on Mon 15 Feb.
 
@@ -25,4 +25,4 @@ cfds is an ebm and electro artist based in France, with 26 gigs on soundcheck ac
 
 Studerkel, Kalyug Citizen, NairLess
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfds/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfds/)*

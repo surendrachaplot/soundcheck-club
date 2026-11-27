@@ -1,6 +1,6 @@
 # Kat_Es
 
-Kat_Es is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 12 Dec 2026.
+Kat_Es is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 12 Dec 2026.
 
 Kat_Es is a house and techno artist based in Poland, with 48 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Eva Crystaltips, La Terrasse and Luca Olivotto. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Kat_Es is a house and techno artist based in Poland, with 48 gigs on soundcheck 
 
 Eva Crystaltips, La Terrasse, Luca Olivotto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*

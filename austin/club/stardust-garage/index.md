@@ -1,6 +1,6 @@
 # Stardust Garage
 
-Stardust Garage is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "REVIVE" on Fri, 27 Nov 2026.
+Stardust Garage is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "REVIVE" on Fri, 27 Nov 2026.
 
 Stardust Garage is a music venue in Austin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Stardust Garage is a music venue in Austin listed on soundcheck. 2 upcoming gigs
 | Fri, 27 Nov 2026 | REVIVE |  |
 | Sat, 28 Nov 2026 | DO NOT DISTURB EP. 3 |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/stardust-garage/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/stardust-garage/)*

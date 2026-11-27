@@ -1,6 +1,6 @@
 # JC (1)
 
-JC (1) is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Crown, Bristol on Sat, 28 Nov 2026.
+JC (1) is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Crown, Bristol on Sat, 28 Nov 2026.
 
 JC is a garage and breakbeat artist, with 7 gigs on soundcheck across Bristol, Ibiza, Madrid and Munich and 2 more. Often billed alongside CAETANO, CARAVEL and Cristoph. Next up: The Crown, Bristol on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ JC is a garage and breakbeat artist, with 7 gigs on soundcheck across Bristol, I
 
 CAETANO, CARAVEL, Cristoph
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jc-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jc-1/)*

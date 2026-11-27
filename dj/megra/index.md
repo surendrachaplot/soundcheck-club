@@ -1,6 +1,6 @@
 # Megra
 
-Megra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Centre Point, Dublin on Fri, 27 Nov 2026.
+Megra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Centre Point, Dublin on Fri, 27 Nov 2026.
 
 Megra is a techno and house artist based in Sweden, with 32 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Brighton and 13 more. Often billed alongside Sam Alfred, Faster Horses and Clouds. Next up: Centre Point, Dublin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Megra is a techno and house artist based in Sweden, with 32 gigs on soundcheck a
 
 Sam Alfred, Faster Horses, Clouds
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megra/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megra/)*

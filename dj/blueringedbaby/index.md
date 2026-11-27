@@ -1,6 +1,6 @@
 # Blue Ringed Baby
 
-Blue Ringed Baby is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Village Underground, London on Thu, 3 Dec 2026.
+Blue Ringed Baby is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Village Underground, London on Thu, 3 Dec 2026.
 
 Blue Ringed Baby is a jungle and bass artist based in United Kingdom, with 27 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside Jake de Glanville, SIMMS and ŌKAMI. Next up: Village Underground, London on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Blue Ringed Baby is a jungle and bass artist based in United Kingdom, with 27 gi
 
 Jake de Glanville, SIMMS, ŌKAMI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blueringedbaby/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blueringedbaby/)*

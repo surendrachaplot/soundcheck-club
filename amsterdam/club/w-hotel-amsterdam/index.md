@@ -1,6 +1,6 @@
 # W Hotel Amsterdam
 
-W Hotel Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Rooftop Tapes Winter Edition" on Sat, 12 Dec 2026.
+W Hotel Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Rooftop Tapes Winter Edition" on Sat, 12 Dec 2026.
 
 W Hotel Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including FR3ADY. See dates, start times and who's playing. Spuistraat 175, 1012 VN Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ W Hotel Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming
 
 Spuistraat 175, 1012 VN Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/w-hotel-amsterdam/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/w-hotel-amsterdam/)*

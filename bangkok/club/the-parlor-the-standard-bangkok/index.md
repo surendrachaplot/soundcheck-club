@@ -1,6 +1,6 @@
 # The Parlor - The Standard, Bangkok
 
-The Parlor - The Standard, Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Strandard Sounds presents: Tour-Maubourg" on Sat, 12 Dec 2026.
+The Parlor - The Standard, Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Standard Sounds presents: Tour-Maubourg" on Sat, 12 Dec 2026.
 
 The Parlor - The Standard, Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including Tour-Maubourg. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ The Parlor - The Standard, Bangkok is a music venue in Bangkok listed on soundch
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 12 Dec 2026 | Strandard Sounds presents: Tour-Maubourg | Tour-Maubourg |
+| Sat, 12 Dec 2026 | Standard Sounds presents: Tour-Maubourg | Tour-Maubourg |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/the-parlor-the-standard-bangkok/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/the-parlor-the-standard-bangkok/)*

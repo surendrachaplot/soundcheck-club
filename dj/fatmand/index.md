@@ -1,6 +1,6 @@
 # Fatman D
 
-Fatman D is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lakota, Bristol on Sat, 12 Dec 2026.
+Fatman D is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lakota, Bristol on Sat, 12 Dec 2026.
 
 Fatman D is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Bangkok, Birmingham, Bristol and Hamburg and 7 more. Often billed alongside Nicky Blackmarket, Carasel and Inja. Next up: Lakota, Bristol on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Fatman D is a drum & bass and jungle artist based in United Kingdom, with 27 gig
 
 Nicky Blackmarket, Carasel, Inja
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmand/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmand/)*

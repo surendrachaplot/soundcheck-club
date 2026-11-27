@@ -1,6 +1,6 @@
 # meera
 
-meera is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+meera is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 meera is an afro house and house artist based in Norway, with 26 gigs on soundcheck across Amsterdam, Athens, Berlin and Cape Town and 12 more. Often billed alongside Damian Lazarus, Black Coffee and Fka Mash. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ meera is an afro house and house artist based in Norway, with 26 gigs on soundch
 
 Damian Lazarus, Black Coffee, Fka Mash
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*

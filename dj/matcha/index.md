@@ -1,6 +1,6 @@
 # Matcha
 
-Matcha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 11 Dec 2026.
+Matcha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Ulster Sports Club, Belfast on Fri, 11 Dec 2026.
 
 Matcha is a house and techno artist, with 31 gigs on soundcheck across Belfast, Dublin, Perth and Tokyo. Often billed alongside twentyfourevan, CIAN__ and Holly Lester. Next up: The Ulster Sports Club, Belfast on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Matcha is a house and techno artist, with 31 gigs on soundcheck across Belfast, 
 
 twentyfourevan, CIAN__, Holly Lester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matcha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matcha/)*

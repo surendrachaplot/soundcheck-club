@@ -1,6 +1,6 @@
 # Plastik (1)
 
-Plastik (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mastak, Warsaw on Fri, 18 Dec 2026.
+Plastik (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mastak, Warsaw on Fri, 18 Dec 2026.
 
 Plastik is a minimal and house artist based in Belarus, with 51 gigs on soundcheck across Hamburg, Krakow, Prague and Tbilisi and 1 more. Often billed alongside Shjva, Samogulov and WhoTestDJ. Next up: Mastak, Warsaw on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Plastik is a minimal and house artist based in Belarus, with 51 gigs on soundche
 
 Shjva, Samogulov, WhoTestDJ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plastik-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plastik-1/)*

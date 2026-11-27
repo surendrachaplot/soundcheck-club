@@ -1,6 +1,6 @@
 # EDDY
 
-EDDY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at DJ Bar Bridge, Tokyo on Tue, 19 Jan 2027.
+EDDY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at DJ Bar Bridge, Tokyo on Tue, 19 Jan 2027.
 
 EDDY is a techno and trance artist based in Mongolia, with 6 gigs on soundcheck across Frankfurt, Mexico City, Seoul and Tokyo. Often billed alongside PAU, Polytoxic and A.T.E.K. Next up: DJ Bar Bridge, Tokyo on Tue 19 Jan.
 
@@ -22,4 +22,4 @@ EDDY is a techno and trance artist based in Mongolia, with 6 gigs on soundcheck 
 
 PAU (6), Polytoxic, A.T.E.K
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddy/)*

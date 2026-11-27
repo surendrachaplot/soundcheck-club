@@ -1,6 +1,6 @@
 # NABER
 
-NABER is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
+NABER is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
 
 NABER is an electronic artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Viénce, Laurent Lorenzo and Kevin Lo. Next up: ANTIA, Netherlands on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ NABER is an electronic artist based in Netherlands, with 6 gigs on soundcheck ac
 
 Viénce, Laurent Lorenzo, Kevin Lo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naber/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naber/)*

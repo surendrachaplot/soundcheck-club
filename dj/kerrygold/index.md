@@ -1,6 +1,6 @@
 # Kerry Gold
 
-Kerry Gold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
+Kerry Gold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
 
 Kerry Gold is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin and Munich. Often billed alongside Gizmo, Louisianaha and Moritz Butschek. Next up: Lieberscholli, Munich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kerry Gold is a techno and house artist based in Germany, with 12 gigs on soundc
 
 Gizmo, Louisianaha, Moritz Butschek
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrygold/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrygold/)*

@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Freddy K is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 Freddy K is a techno and house artist based in Germany, with 328 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 83 more. Often billed alongside Alarico, Blasha & Allatt and Ogazón. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist based in Germany, with 328 gigs on soundch
 
 Alarico, Blasha & Allatt, Ogazón
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

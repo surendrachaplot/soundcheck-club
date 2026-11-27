@@ -1,6 +1,6 @@
 # Kelvin Belton
 
-Kelvin Belton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Wabi Sabi, Stuttgart on Fri, 27 Nov 2026.
+Kelvin Belton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Wabi Sabi, Stuttgart on Fri, 27 Nov 2026.
 
 Kelvin Belton is a techno and house artist based in United Kingdom, with 6 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Kelvin, Artificial DNA and FIASKA. Next up: Wabi Sabi, Stuttgart on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Kelvin Belton is a techno and house artist based in United Kingdom, with 6 gigs 
 
 Kelvin, Artificial DNA, FIASKA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvinbelton/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvinbelton/)*

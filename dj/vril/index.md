@@ -1,6 +1,6 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
+.VRIL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 28 Dec 2026.
 
 .VRIL is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 48 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Tresor / Globus, Berlin on Mon 28 Dec.
 
@@ -28,4 +28,4 @@
 
 DJ Dustin, Konstantin, Edward
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

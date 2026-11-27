@@ -1,6 +1,6 @@
 # Will Deluxe
 
-Will Deluxe is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
+Will Deluxe is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
 
 Will Deluxe is a house and ebm artist based in Spain, with 14 gigs on soundcheck across Barcelona. Often billed alongside Triad (Es), Akainu and Ale Hope. Next up: M7 Club, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Will Deluxe is a house and ebm artist based in Spain, with 14 gigs on soundcheck
 
 Triad (Es), Akainu, Ale Hope
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willdeluxe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willdeluxe/)*

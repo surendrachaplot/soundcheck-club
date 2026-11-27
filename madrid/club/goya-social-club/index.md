@@ -1,19 +1,19 @@
 # Goya Social Club
 
-Goya Social Club is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "PANDORA" on Thu, 26 Nov 2026.
+Goya Social Club is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "LEMONADE x PPM - Goya Social Club" on Fri, 27 Nov 2026.
 
-Goya Social Club is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Charlotte (FR), Dellavega, Diego and Diego Teran and 2 more. See dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
+Goya Social Club is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Adrien Calvet, Charlotte (FR), Dellavega and Diego and 2 more. See dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | PANDORA | DLOU |
 | Fri, 27 Nov 2026 | LEMONADE x PPM - Goya Social Club | Manolaco, Taranco |
 | Fri, 4 Dec 2026 | Flat Response with Charlotte | Charlotte (FR), Diego (8), Le Nomad |
 | Sat, 5 Dec 2026 | Nasty x Goya | Paco Nunez, Toledo |
-| Sun, 6 Dec 2026 | Bossa | Héctor Pericet, Julio Machicado |
+| Sun, 6 Dec 2026 | BOSSA with The Beatboy's | Héctor Pericet, Julio Machicado |
 | Mon, 7 Dec 2026 | DISCONNECT presents NO RELIGION LAB | Dellavega, Giannattasio, Ssero |
+| Fri, 11 Dec 2026 | Promised Wax invites Adrien Calvet | Adrien Calvet, Frolix, Melcuisto, Palimpseste |
 | Fri, 18 Dec 2026 | Baila Ritmo W/ Tom Nolan & Diego Terán | Diego Teran, Toledo |
 | Sat, 19 Dec 2026 | La Farra x Kambalache | Guidomik, Le Nomad, Marf |
 
@@ -21,4 +21,4 @@ Goya Social Club is a music venue in Madrid listed on soundcheck. 8 upcoming gig
 
 Calle de Goya, 43, 28001 Madrid, Spain, Madrid
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*

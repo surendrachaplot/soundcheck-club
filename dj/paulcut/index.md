@@ -1,13 +1,14 @@
 # Paul Cut
 
-Paul Cut is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Thu, 31 Dec 2026.
+Paul Cut is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paramour, Brussels on Fri, 27 Nov 2026.
 
-Paul Cut is a house and deep house artist based in France, with 43 gigs on soundcheck across Brussels, Lisbon, Madrid and Marseille and 2 more. Often billed alongside Flabaire, Sara Wual and DVDE. Next up: Rex Club, Paris on Thu 31 Dec.
+Paul Cut is a house and deep house artist based in France, with 44 gigs on soundcheck across Brussels, Lisbon, Madrid and Marseille and 2 more. Often billed alongside Flabaire, Sara Wual and DVDE. Next up: Paramour, Brussels on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Paramour | Brussels |
 | Thu, 31 Dec 2026 | Rex Club | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Paul Cut is a house and deep house artist based in France, with 43 gigs on sound
 
 Flabaire, Sara Wual, DVDE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*

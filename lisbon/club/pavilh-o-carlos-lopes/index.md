@@ -1,6 +1,6 @@
 # Pavilhão Carlos Lopes
 
-Pavilhão Carlos Lopes is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "YUNYK presents Artbat - Celebrate Together" on Mon, 30 Nov 2026.
+Pavilhão Carlos Lopes is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "YUNYK presents Artbat - Celebrate Together" on Mon, 30 Nov 2026.
 
 Pavilhão Carlos Lopes is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Artbat, Azyr, BLNK and BØĘRY and 2 more. See dates, start times and who's playing. Pavilhão Carlos Lopes, 1070-051 Lisboa, Portugal.
 
@@ -15,4 +15,4 @@ Pavilhão Carlos Lopes is a music venue in Lisbon listed on soundcheck. 2 upcomi
 
 Pavilhão Carlos Lopes, 1070-051 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pavilh-o-carlos-lopes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pavilh-o-carlos-lopes/)*

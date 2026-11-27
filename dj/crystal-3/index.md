@@ -1,6 +1,6 @@
 # Crystal (3)
 
-Crystal (3) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+Crystal (3) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
 Crystal is a house and club artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, London and Prague. Often billed alongside Femur, Agua con gas and Aiden Francis. Next up: Renate, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Crystal is a house and club artist based in United Kingdom, with 10 gigs on soun
 
 Femur, Agua con gas, Aiden Francis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crystal-3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crystal-3/)*

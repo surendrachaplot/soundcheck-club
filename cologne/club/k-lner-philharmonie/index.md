@@ -1,6 +1,6 @@
 # Kölner Philharmonie
 
-Kölner Philharmonie is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "#round3 – SANFTE ARBEIT" on Thu, 18 Feb 2027.
+Kölner Philharmonie is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "#round3 – SANFTE ARBEIT" on Thu, 18 Feb 2027.
 
 Kölner Philharmonie is a music venue in Cologne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Bischofsgartenstraße 1, 50667 Cologne.
 
@@ -14,4 +14,4 @@ Kölner Philharmonie is a music venue in Cologne listed on soundcheck. 1 upcomin
 
 Bischofsgartenstraße 1, 50667 Cologne, Cologne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/k-lner-philharmonie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/k-lner-philharmonie/)*

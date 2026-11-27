@@ -1,6 +1,6 @@
 # Leika
 
-Leika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 12 Dec 2026.
+Leika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bahnwärter Thiel, Munich on Sat, 12 Dec 2026.
 
 Leika is a techno and house artist based in Germany, with 17 gigs on soundcheck across Basel, Freiburg, Hamburg and Marseille and 2 more. Often billed alongside Konrad Dycke, Käptn Hässler and AKA AKA. Next up: Bahnwärter Thiel, Munich on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Leika is a techno and house artist based in Germany, with 17 gigs on soundcheck 
 
 Konrad Dycke, Käptn Hässler, AKA AKA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leika/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leika/)*

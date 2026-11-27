@@ -1,6 +1,6 @@
 # Hannah Wants
 
-Hannah Wants is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 54 Liverpool, Liverpool on Sat, 28 Nov 2026.
+Hannah Wants is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 54 Liverpool, Liverpool on Sat, 28 Nov 2026.
 
 Hannah Wants is a house and tech house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Arielle Free, Claptone and Sam Divine. Next up: 54 Liverpool, Liverpool on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Hannah Wants is a house and tech house artist based in United Kingdom, with 112 
 
 Arielle Free, Claptone, Sam Divine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*

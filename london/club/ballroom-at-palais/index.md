@@ -1,14 +1,13 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ballroom at Palais: Open Decks" on Thu, 26 Nov 2026.
+Ballroom at Palais is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ballroom at Palais: Yasmine & Small Crab" on Fri, 27 Nov 2026.
 
-Ballroom at Palais is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alicia (UK), ANNX, bbecks and DREY (UK) and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alicia (UK), ANNX, bbecks and DREY (UK) and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Ballroom at Palais: Open Decks |  |
 | Fri, 27 Nov 2026 | Ballroom at Palais: Yasmine & Small Crab | Small Crab, Yasmine (UK) |
 | Sat, 28 Nov 2026 | Ballroom at Palais: Suncut |  |
 | Fri, 4 Dec 2026 | Ballroom at Palais: Kessie, bbecks | Kessie, bbecks |
@@ -23,4 +22,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 10 upcoming 
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

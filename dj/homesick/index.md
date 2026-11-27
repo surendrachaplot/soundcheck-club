@@ -1,6 +1,6 @@
 # HomeSick
 
-HomeSick is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Red Room, Montreal on Sat, 5 Dec 2026.
+HomeSick is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Red Room, Montreal on Sat, 5 Dec 2026.
 
 HomeSick is a techno and hardcore artist based in Canada, with 37 gigs on soundcheck across Barcelona, Berlin, Bristol and Calgary and 4 more. Often billed alongside D.Blavatsky, Katamina and mayalabae. Next up: Le Red Room, Montreal on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ HomeSick is a techno and hardcore artist based in Canada, with 37 gigs on soundc
 
 D.Blavatsky, Katamina, mayalabae
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homesick/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homesick/)*

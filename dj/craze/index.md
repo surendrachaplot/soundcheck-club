@@ -1,6 +1,6 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vivo Beach Club, Puerto-rico on Fri, 19 Mar 2027.
+Craze is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Vivo Beach Club, Puerto-rico on Fri, 19 Mar 2027.
 
 Craze is a drum & bass and jungle artist based in United States of America, with 72 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 24 more. Often billed alongside shinobi (US), Dillinja and Dieselboy. Next up: Vivo Beach Club, Puerto Rico on Fri 19 Mar.
 
@@ -26,4 +26,4 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 
 shinobi (US), Dillinja, Dieselboy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

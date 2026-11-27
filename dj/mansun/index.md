@@ -1,6 +1,6 @@
 # Mansun
 
-Mansun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dirty House, Shanghai on Sat, 5 Dec 2026.
+Mansun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dirty House, Shanghai on Sat, 5 Dec 2026.
 
 Mansun is a techno and house artist based in China, with 29 gigs on soundcheck across Shanghai. Often billed alongside NAKIN, Sol 39 and DJ Doggy. Next up: Dirty House, Shanghai on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mansun is a techno and house artist based in China, with 29 gigs on soundcheck a
 
 NAKIN, Sol 39, DJ Doggy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansun/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansun/)*

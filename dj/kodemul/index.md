@@ -1,6 +1,6 @@
 # Kodemul
 
-Kodemul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Versalles 64, Mexico City on Sat, 28 Nov 2026.
+Kodemul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Versalles 64, Mexico City on Sat, 28 Nov 2026.
 
 Kodemul is a techno and house artist based in Mexico, with 143 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bristol and 12 more. Often billed alongside Eliel Capa, PAURRO and Perfect Lovers. Next up: Versalles 64, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kodemul is a techno and house artist based in Mexico, with 143 gigs on soundchec
 
 Eliel Capa, PAURRO, Perfect Lovers
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*

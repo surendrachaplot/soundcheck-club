@@ -1,14 +1,15 @@
 # George Apergis
 
-George Apergis is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 8sixa, Amsterdam on Sat, 28 Nov 2026.
+George Apergis is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 8sixa, Amsterdam on Sat, 28 Nov 2026.
 
-George Apergis is a techno and ebm artist based in Greece, with 144 gigs on soundcheck across Amsterdam, Athens, Berlin and London. Often billed alongside Emex, TolisQ and Talantösis. Next up: 8sixa, Amsterdam on Sat 28 Nov.
+George Apergis is a techno and ebm artist based in Greece, with 145 gigs on soundcheck across Amsterdam, Athens, Berlin and London. Often billed alongside Emex, TolisQ and Talantösis. Next up: 8sixa, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | 8sixa | Amsterdam |
+| Wed, 2 Dec 2026 | Burger Disco Club | Athens |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ George Apergis is a techno and ebm artist based in Greece, with 144 gigs on soun
 
 Emex, TolisQ, Talantösis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeapergis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeapergis/)*

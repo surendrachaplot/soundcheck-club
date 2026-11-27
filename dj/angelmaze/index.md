@@ -1,6 +1,6 @@
 # Angel Maze
 
-Angel Maze is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
+Angel Maze is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
 
 Angel Maze is a club and pop artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Cardiff and London. Often billed alongside Macy See, Dan Beaumont and Michelle Manetti. Next up: The Cause, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Angel Maze is a club and pop artist based in United Kingdom, with 15 gigs on sou
 
 Macy See, Dan Beaumont, Michelle Manetti
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmaze/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmaze/)*

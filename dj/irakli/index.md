@@ -1,6 +1,6 @@
 # Irakli
 
-Irakli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
+Irakli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
 
 Irakli is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 25 more. Often billed alongside Hang Aoki, fr. JPLA and Barbara Hofmann. Next up: ://about blank, Berlin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Irakli is a techno and house artist based in Germany, with 79 gigs on soundcheck
 
 Hang Aoki, fr. JPLA, Barbara Hofmann
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*

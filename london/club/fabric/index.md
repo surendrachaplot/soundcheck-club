@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 35 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hot Creations: Joss Dean B2B Tommy Phillips, Lee Foss, Miguel Campbell, Ozzie Guven + more" on Fri, 27 Nov 2026.
+fabric is a music venue in London with 35 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hot Creations: Joss Dean B2B Tommy Phillips, Lee Foss, Miguel Campbell, Ozzie Guven + more" on Fri, 27 Nov 2026.
 
 fabric is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Ady Toledano and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 35 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

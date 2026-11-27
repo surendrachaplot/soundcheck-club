@@ -1,6 +1,6 @@
 # Trash Bandit
 
-Trash Bandit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
+Trash Bandit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
 
 Trash Bandit is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Ravejezuz, Thielking and JUWLZ. Next up: TBA - secret Location via Telegram , Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Trash Bandit is a techno and trance artist based in Germany, with 18 gigs on sou
 
 Ravejezuz, Thielking, JUWLZ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trashbandit/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trashbandit/)*

@@ -1,6 +1,6 @@
 # Freight Island Newcastle
 
-Freight Island Newcastle is a music venue in Newcastle with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RHYTHM TONIC" on Fri, 27 Nov 2026.
+Freight Island Newcastle is a music venue in Newcastle with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "RHYTHM TONIC" on Fri, 27 Nov 2026.
 
 Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 16 upcoming gigs. See dates, start times and who's playing. 54 Newgate St, Newcastle upon Tyne NE1 5RQ.
 
@@ -23,4 +23,4 @@ Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 16 
 
 54 Newgate St, Newcastle upon Tyne NE1 5RQ, Newcastle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*

@@ -1,6 +1,6 @@
 # Marvu
 
-Marvu is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Textil Collective, Barcelona on Fri, 27 Nov 2026.
+Marvu is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Textil Collective, Barcelona on Fri, 27 Nov 2026.
 
 Marvu is a house and disco artist, with 13 gigs on soundcheck across Barcelona and Malta. Often billed alongside Deckard, Zonzo and Arildo. Next up: La Textil Collective, Barcelona on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Marvu is a house and disco artist, with 13 gigs on soundcheck across Barcelona a
 
 Deckard, Zonzo, Arildo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marvu/)*

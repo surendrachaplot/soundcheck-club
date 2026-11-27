@@ -1,6 +1,6 @@
 # Bella Hex
 
-Bella Hex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at SILO, New-york-city on Fri, 8 Jan 2027.
+Bella Hex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SILO, New-york-city on Fri, 8 Jan 2027.
 
 Bella Hex is a techno and house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside STARLOTTE, JOHNNY O and AJACENT. Next up: SILO, New York City on Fri 8 Jan.
 
@@ -22,4 +22,4 @@ Bella Hex is a techno and house artist based in United States of America, with 6
 
 STARLOTTE, JOHNNY O, AJACENT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahex/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahex/)*

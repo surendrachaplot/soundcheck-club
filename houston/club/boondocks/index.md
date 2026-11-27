@@ -1,6 +1,6 @@
 # Boondocks
 
-Boondocks is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "SOUTHERN HOSPITALITY: Celebrating Southern Club" on Fri, 27 Nov 2026.
+Boondocks is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "SOUTHERN HOSPITALITY: Celebrating Southern Club" on Fri, 27 Nov 2026.
 
 Boondocks is a music venue in Houston listed on soundcheck. 1 upcoming gig, with line-ups including Amarji King, Big Ace, DJ Young Brown and GENO and 2 more. See dates, start times and who's playing. 1417 Westheimer Rd, Houston, TX 77006-2616.
 
@@ -14,4 +14,4 @@ Boondocks is a music venue in Houston listed on soundcheck. 1 upcoming gig, with
 
 1417 Westheimer Rd, Houston, TX 77006-2616, Houston
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/boondocks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/boondocks/)*

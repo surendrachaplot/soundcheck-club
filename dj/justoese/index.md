@@ -1,6 +1,6 @@
 # justoese
 
-justoese is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+justoese is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 justoese is a reggaeton and techno artist, with 9 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside Adrian Bluper, Ann García and Azok. Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ justoese is a reggaeton and techno artist, with 9 gigs on soundcheck across Mexi
 
 Adrian Bluper, Ann García, Azok
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justoese/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justoese/)*

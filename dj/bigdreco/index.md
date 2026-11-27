@@ -1,6 +1,6 @@
 # BIG DRECO
 
-BIG DRECO is a Drum & Bass and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+BIG DRECO is a Drum & Bass and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 BIG DRECO is a drum & bass and jazz artist based in United Kingdom, with 10 gigs on soundcheck across London and Manchester. Often billed alongside Chedda Bred, limi and AUKA. Next up: fabric, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ BIG DRECO is a drum & bass and jazz artist based in United Kingdom, with 10 gigs
 
 Chedda Bred, limi, AUKA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdreco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdreco/)*

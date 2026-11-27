@@ -1,6 +1,6 @@
 # Ian Asher
 
-Ian Asher is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at New City Gas, Montreal on Fri, 27 Nov 2026.
+Ian Asher is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at New City Gas, Montreal on Fri, 27 Nov 2026.
 
 Ian Asher is a house and tech house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 24 more. Often billed alongside KREAM, Adventure Club and Alok. Next up: New City Gas, Montreal on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Ian Asher is a house and tech house artist based in United States of America, wi
 
 KREAM, Adventure Club, Alok
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

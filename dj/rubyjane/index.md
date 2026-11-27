@@ -1,6 +1,6 @@
 # Ruby Jane
 
-Ruby Jane is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Système, Montreal on Sun, 6 Dec 2026.
+Ruby Jane is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Sun, 6 Dec 2026.
 
 Ruby Jane is a disco and house artist based in Canada, with 11 gigs on soundcheck across Montreal. Often billed alongside GrandHuit, Kris Guilty and Walla P. Next up: Système, Montreal on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Ruby Jane is a disco and house artist based in Canada, with 11 gigs on soundchec
 
 GrandHuit, Kris Guilty, Walla P
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyjane/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyjane/)*

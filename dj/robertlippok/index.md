@@ -1,6 +1,6 @@
 # Robert Lippok
 
-Robert Lippok is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Chiesa di San Fedele, Milan on Mon, 30 Nov 2026.
+Robert Lippok is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Chiesa di San Fedele, Milan on Mon, 30 Nov 2026.
 
 Robert Lippok is an experimental and electronica artist based in Germany, with 11 gigs on soundcheck across Berlin, Buenos Aires, Dortmund / Essen and Düsseldorf and 5 more. Often billed alongside Daito Manabe, Ali M. Demirel and Alva Noto. Next up: Chiesa di San Fedele, Milan on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Robert Lippok is an experimental and electronica artist based in Germany, with 1
 
 Daito Manabe, Ali M. Demirel, Alva Noto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertlippok/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertlippok/)*

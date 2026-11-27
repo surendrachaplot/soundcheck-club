@@ -1,6 +1,6 @@
 # Bonso
 
-Bonso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Astron Club, Athens on Fri, 11 Dec 2026.
+Bonso is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Astron Club, Athens on Fri, 11 Dec 2026.
 
 Bonso is a house and techno artist based in Greece, with 80 gigs on soundcheck across Athens. Often billed alongside Mr. Roussos, Useless Co. and Louie Dimá. Next up: Astron Club, Athens on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Bonso is a house and techno artist based in Greece, with 80 gigs on soundcheck a
 
 Mr. Roussos, Useless Co., Louie Dimá
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonso/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonso/)*

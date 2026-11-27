@@ -1,6 +1,6 @@
 # Fabio Florido
 
-Fabio Florido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location in Poble Espanyol, Barcelona on Sat, 5 Dec 2026.
+Fabio Florido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location in Poble Espanyol, Barcelona on Sat, 5 Dec 2026.
 
 Fabio Florido is a techno and house artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 4 more. Often billed alongside Adiel, Edgar de Ramon and Jorge Ciccioli. Next up: TBA - Secret Location in Poble Espanyol, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fabio Florido is a techno and house artist based in Italy, with 18 gigs on sound
 
 Adiel, Edgar de Ramon, Jorge Ciccioli
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioflorido/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioflorido/)*

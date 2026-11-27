@@ -1,6 +1,6 @@
 # Physical Therapy
 
-Physical Therapy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BIKO, Milan on Fri, 4 Dec 2026.
+Physical Therapy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at BIKO, Milan on Fri, 4 Dec 2026.
 
 Physical Therapy is a techno and house artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Beijing, Berlin and Boston and 31 more. Often billed alongside Michael Magnan, Fatherhood and Lauren Flax. Next up: BIKO, Milan on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Physical Therapy is a techno and house artist based in United States of America,
 
 Michael Magnan, Fatherhood, Lauren Flax
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/physicaltherapy/)*

@@ -1,6 +1,6 @@
 # Nadin
 
-Nadin is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at FLUCC, Vienna on Fri, 4 Dec 2026.
+Nadin is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at FLUCC, Vienna on Fri, 4 Dec 2026.
 
 Nadin is a dubstep and bass artist based in Austria, with 13 gigs on soundcheck across Vienna. Often billed alongside Nobody-Basstrace, SGT Pokes and Sequent. Next up: FLUCC, Vienna on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nadin is a dubstep and bass artist based in Austria, with 13 gigs on soundcheck 
 
 Nobody-Basstrace, SGT Pokes, Sequent
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadin/)*

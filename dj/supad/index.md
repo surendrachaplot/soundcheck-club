@@ -1,6 +1,6 @@
 # Supa D
 
-Supa D is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio 338, London on Sat, 5 Dec 2026.
+Supa D is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio 338, London on Sat, 5 Dec 2026.
 
 Supa D is an afro house and house artist based in United Kingdom, with 189 gigs on soundcheck across Algarve, Berlin, Birmingham and Bristol and 4 more. Often billed alongside Shenin Amara, Pioneer and Beezo. Next up: Studio 338, London on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ Supa D is an afro house and house artist based in United Kingdom, with 189 gigs 
 
 Shenin Amara, Pioneer, Beezo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*

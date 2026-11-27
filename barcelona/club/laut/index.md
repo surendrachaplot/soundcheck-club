@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mental D + Marti Cros [Hiru]" on Fri, 27 Nov 2026.
+LAUT is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mental D + Marti Cros [Hiru]" on Fri, 27 Nov 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including 21b, Abdulla A., ABSIS and Alex Lauks and 2 more. See dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with 
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

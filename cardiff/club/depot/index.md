@@ -1,6 +1,6 @@
 # Depot
 
-Depot is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Shy FX | Cardiff" on Fri, 4 Dec 2026.
+Depot is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Shy FX | Cardiff" on Fri, 4 Dec 2026.
 
 Depot is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs, with line-ups including BBY GOOSE, Champion, Kill the Void and KLOFAMA and 2 more. See dates, start times and who's playing. DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales.
 
@@ -18,4 +18,4 @@ Depot is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs, with li
 
 DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales, Cardiff
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*

@@ -1,6 +1,6 @@
 # annna (2)
 
-annna (2) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
+annna (2) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Dec 2026.
 
 annna is a house and progressive house artist based in Bulgaria, with 38 gigs on soundcheck across Barcelona, Berlin, Frankfurt and London and 2 more. Often billed alongside cccvvv, Spray and sselkie. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ annna is a house and progressive house artist based in Bulgaria, with 38 gigs on
 
 cccvvv, Spray, sselkie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annna-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annna-2/)*

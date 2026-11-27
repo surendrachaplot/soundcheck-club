@@ -1,6 +1,6 @@
 # SLUTZ
 
-SLUTZ is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Danger Danger, New-york-city on Sat, 5 Dec 2026.
+SLUTZ is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Danger Danger, New-york-city on Sat, 5 Dec 2026.
 
 SLUTZ is an electro and pop artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Sophia Riv, DJ ATTENTION and y2aura. Next up: Danger Danger, New York City on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ SLUTZ is an electro and pop artist based in United States of America, with 6 gig
 
 Sophia Riv, DJ ATTENTION, y2aura
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slutz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slutz/)*

@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "HOUSE SESSION WITH RED RUBY (HOUSE / TECH HOUSE)" on Fri, 27 Nov 2026.
+Z Maruyama is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "HOUSE SESSION WITH RED RUBY (HOUSE / TECH HOUSE)" on Fri, 27 Nov 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including AHREUM, ASSIGN, Casas and Chihoshi and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

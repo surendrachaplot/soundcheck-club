@@ -1,6 +1,6 @@
 # Rumina
 
-Rumina is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Şahika, Istanbul on Thu, 3 Dec 2026.
+Rumina is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Şahika, Istanbul on Thu, 3 Dec 2026.
 
 Rumina is a bass and techno artist based in Sweden, with 20 gigs on soundcheck across Berlin, Copenhagen, Istanbul and Malmo and 2 more. Often billed alongside jtamul, 4-i and Afra. Next up: Şahika, Istanbul on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Rumina is a bass and techno artist based in Sweden, with 20 gigs on soundcheck a
 
 jtamul, 4-i, Afra
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumina/)*

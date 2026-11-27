@@ -1,6 +1,6 @@
 # PRYMARA
 
-PRYMARA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at OIL Club, Shenzhen on Fri, 29 Jan 2027.
+PRYMARA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Fri, 29 Jan 2027.
 
 PRYMARA is a techno and hardcore artist, with 98 gigs on soundcheck across Bali, Beijing, Berlin and Kuala Lumpur and 2 more. Often billed alongside DISCIPLINE, DJ GOGA and DJ EBP. Next up: OIL Club, Shenzhen on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ PRYMARA is a techno and hardcore artist, with 98 gigs on soundcheck across Bali,
 
 DISCIPLINE, DJ GOGA, DJ EBP
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prymara/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prymara/)*

@@ -1,6 +1,6 @@
 # NOWHERE AFTER PARTY at DIRTY RABBIT at Dirty Rabbit Hidden Bar
 
-NOWHERE AFTER PARTY at DIRTY RABBIT at Dirty Rabbit Hidden Bar on Thu 3 Dec, Bangkok. 2 artists: Chamcham and MASANORI MORITA. Progressive House and House. See the line-up on soundcheck.
+NOWHERE AFTER PARTY at DIRTY RABBIT at Dirty Rabbit Hidden Bar on Thu 3 Dec, Bangkok. 2 artists: Chamcham and Studio Apartment. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ NOWHERE AFTER PARTY at DIRTY RABBIT at Dirty Rabbit Hidden Bar on Thu 3 Dec, Ban
 ## Line-up
 
 - Chamcham
-- MASANORI MORITA
+- Studio Apartment
 
 *Source: [soundcheck](https://soundcheck.club/e/2592756-nowhere-after-party-at-dirty-rabbit-at-dirty-rabbit-hidden-b/)*

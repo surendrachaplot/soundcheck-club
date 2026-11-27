@@ -1,6 +1,6 @@
 # Willsy
 
-Willsy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ramona, Manchester on Sat, 12 Dec 2026.
+Willsy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ramona, Manchester on Sat, 12 Dec 2026.
 
 Willsy is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, London, Manchester and Nottingham. Often billed alongside Coyle, Golden Syrup and Dan Cowan. Next up: Ramona, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Willsy is a house and garage artist based in United Kingdom, with 16 gigs on sou
 
 Coyle, Golden Syrup, Dan Cowan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willsy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willsy/)*

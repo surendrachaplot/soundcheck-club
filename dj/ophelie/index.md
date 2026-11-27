@@ -1,6 +1,6 @@
 # ophélie
 
-ophélie is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+ophélie is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 ophélie is a techno and bass artist based in France, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 19 more. Often billed alongside Marylou, Azu Tiwaline and CCL. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ophélie is a techno and bass artist based in France, with 98 gigs on soundcheck
 
 Marylou, Azu Tiwaline, CCL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*

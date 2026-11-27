@@ -1,8 +1,8 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Move, West-wales on Fri, 27 Nov 2026.
+Samantha Togni is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Move, West-wales on Fri, 27 Nov 2026.
 
-Samantha Togni is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 51 more. Often billed alongside Mar/us, Nanzhen Yang and Lewis G. Burton. Next up: Move, West Wales on Fri 27 Nov.
+Samantha Togni is a techno and house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 51 more. Often billed alongside Mar/us, Nanzhen Yang and Lewis G. Burton. Next up: Move, West Wales on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Samantha Togni is a techno and house artist based in United Kingdom, with 178 gi
 | Fri, 27 Nov 2026 | Move | West-wales |
 | Fri, 4 Dec 2026 | Lost Horizon | Bristol |
 | Sat, 19 Dec 2026 | Artheater | Cologne |
+| Fri, 25 Dec 2026 | Eventhuset | Stockholm |
 | Thu, 31 Dec 2026 | FVTVR | Paris |
 | Fri, 22 Jan 2027 | KitKatClub | Berlin |
 
@@ -29,4 +30,4 @@ Samantha Togni is a techno and house artist based in United Kingdom, with 178 gi
 
 Mar/us, Nanzhen Yang, Lewis G. Burton
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

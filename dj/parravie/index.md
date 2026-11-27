@@ -1,6 +1,6 @@
 # Parra Vie
 
-Parra Vie is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
+Parra Vie is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
 
 Parra Vie is a progressive house and deep house artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside 2Doters, Ebz and Altayef. Next up: Rhum Tavern, London on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Parra Vie is a progressive house and deep house artist based in United Kingdom, 
 
 2Doters, Ebz, Altayef
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parravie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parravie/)*

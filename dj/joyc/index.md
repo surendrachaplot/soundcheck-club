@@ -1,6 +1,6 @@
 # Joyc
 
-Joyc is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Meteor Studio, Tbilisi on Fri, 27 Nov 2026.
+Joyc is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Meteor Studio, Tbilisi on Fri, 27 Nov 2026.
 
 Joyc is a techno and house artist based in Georgia, with 27 gigs on soundcheck across Liverpool and Tbilisi. Often billed alongside Memotech, Seqta and Elene. Next up: Meteor Studio, Tbilisi on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Joyc is a techno and house artist based in Georgia, with 27 gigs on soundcheck a
 
 Memotech, Seqta, Elene
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyc/)*

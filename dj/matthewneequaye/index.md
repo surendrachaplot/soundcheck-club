@@ -1,6 +1,6 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
+Matthew Neequaye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Carreglwyd Estate, West-wales on Thu, 10 Jun 2027.
 
 Matthew Neequaye is a house and techno artist, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Shanti Celeste, XDB and DJ Masda. Next up: Carreglwyd Estate, West Wales on Thu 10 Jun.
 
@@ -27,4 +27,4 @@ Matthew Neequaye is a house and techno artist, with 58 gigs on soundcheck across
 
 Shanti Celeste, XDB, DJ Masda
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*

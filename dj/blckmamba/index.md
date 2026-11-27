@@ -1,6 +1,6 @@
 # Blck Mamba
 
-Blck Mamba is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 22 Jan 2027.
+Blck Mamba is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 22 Jan 2027.
 
 Blck Mamba is an amapiano and house artist based in Belgium, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Bona Léa, Chinnamasta and DJ Polo. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Blck Mamba is an amapiano and house artist based in Belgium, with 59 gigs on sou
 
 Bona Léa, Chinnamasta, DJ Polo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blckmamba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blckmamba/)*

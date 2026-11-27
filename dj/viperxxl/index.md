@@ -1,6 +1,6 @@
 # ViperXXL
 
-ViperXXL is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
+ViperXXL is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paradigm, Netherlands on Sat, 30 Jan 2027.
 
 ViperXXL is a techno and acid artist based in Germany, with 20 gigs on soundcheck across Berlin, Budapest, Cologne and Düsseldorf and 8 more. Often billed alongside Golpe, Ropemaker and Obscure Shape. Next up: Paradigm, Netherlands on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ ViperXXL is a techno and acid artist based in Germany, with 20 gigs on soundchec
 
 Golpe, Ropemaker, Obscure Shape
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*

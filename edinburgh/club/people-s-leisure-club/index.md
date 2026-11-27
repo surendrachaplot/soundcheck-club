@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 24 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Samedia presents Jamz Supernova - Dance Around The World Tour" on Fri, 27 Nov 2026.
+People's Leisure Club is a music venue in Edinburgh with 24 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Samedia presents Jamz Supernova (20 tickets on the doors at 11pm only)" on Fri, 27 Nov 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 24 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BORLEY and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -8,7 +8,7 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 24 upc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Samedia presents Jamz Supernova - Dance Around The World Tour | Chris Astrojazz, Jamz Supernova, Samedia Shebeen |
+| Fri, 27 Nov 2026 | Samedia presents Jamz Supernova (20 tickets on the doors at 11pm only) | Chris Astrojazz, Jamz Supernova, Samedia Shebeen |
 | Sat, 28 Nov 2026 | Day & Night Party - 8 Years of DRIFT | BPK (1), Bolam, Caligari_, Cornetta, FLIPSIDE., Jedda, Kami-O, Kitsta, Louspresso, Mod Sens, Nikki Guild, SSID, Vinyl Voyages |
 | Sun, 29 Nov 2026 | Cold Ones | DJ Cheers, Lietzsche, Yas Mine, daiz.y |
 | Thu, 3 Dec 2026 | ELEMENTS: Neon | BORLEY, PASO |
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 24 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

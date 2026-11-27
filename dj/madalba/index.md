@@ -1,6 +1,6 @@
 # Madalba
 
-Madalba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+Madalba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 Madalba is a techno and house artist based in Italy, with 100 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 20 more. Often billed alongside Handmade, Amperia and DJ TOOL. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Madalba is a techno and house artist based in Italy, with 100 gigs on soundcheck
 
 Handmade, Amperia, DJ TOOL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madalba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madalba/)*

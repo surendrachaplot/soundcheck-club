@@ -1,6 +1,6 @@
 # Ruff Stuff
 
-Ruff Stuff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
+Ruff Stuff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
 
 Ruff Stuff is a house and disco artist based in Italy, with 20 gigs on soundcheck across Berlin, Brussels, London and Milan. Often billed alongside Black Loops, Ana Molina and Carlo. Next up: Zur Klappe, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ruff Stuff is a house and disco artist based in Italy, with 20 gigs on soundchec
 
 Black Loops, Ana Molina, Carlo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffstuff/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffstuff/)*

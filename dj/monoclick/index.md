@@ -1,6 +1,6 @@
 # Monoclick
 
-Monoclick is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Very Small Club, Budapest on Fri, 18 Dec 2026.
+Monoclick is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Very Small Club, Budapest on Fri, 18 Dec 2026.
 
 Monoclick is a house and deep house artist based in Hungary, with 91 gigs on soundcheck across Budapest, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Electric Boutique, Krane and James Houdini. Next up: Very Small Club, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Monoclick is a house and deep house artist based in Hungary, with 91 gigs on sou
 
 Electric Boutique, Krane, James Houdini
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*

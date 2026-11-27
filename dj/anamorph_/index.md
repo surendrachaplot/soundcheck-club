@@ -1,6 +1,6 @@
 # ANAMORPH_
 
-ANAMORPH_ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at AMT, Berlin on Tue, 8 Dec 2026.
+ANAMORPH_ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at AMT, Berlin on Tue, 8 Dec 2026.
 
 ANAMORPH_ is a techno and house artist based in Germany, with 11 gigs on soundcheck across Athens, Berlin, Crete and Düsseldorf and 1 more. Often billed alongside SCHRANKE, goldie and ADAM MUNNINGS. Next up: AMT, Berlin on Tue 8 Dec.
 
@@ -26,4 +26,4 @@ ANAMORPH_ is a techno and house artist based in Germany, with 11 gigs on soundch
 
 SCHRANKE, goldie (2), ADAM MUNNINGS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph_/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph_/)*

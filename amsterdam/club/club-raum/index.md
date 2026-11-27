@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hamam Nights" on Fri, 27 Nov 2026.
+CLUB RAUM is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hamam Nights" on Fri, 27 Nov 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including 36framez, Abstract Division, adobeprincess and Afra and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -22,4 +22,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, w
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

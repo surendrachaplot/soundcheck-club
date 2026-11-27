@@ -1,6 +1,6 @@
 # Mømentum
 
-Mømentum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hoppetosse, Berlin on Thu, 24 Dec 2026.
+Mømentum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Thu, 24 Dec 2026.
 
 Mømentum is a techno and house artist based in Germany, with 25 gigs on soundcheck across Athens and Berlin. Often billed alongside Gunnar Stiller, Acid Foxy and Multifuse. Next up: Hoppetosse, Berlin on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Mømentum is a techno and house artist based in Germany, with 25 gigs on soundch
 
 Gunnar Stiller, Acid Foxy, Multifuse
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momentum-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momentum-de/)*

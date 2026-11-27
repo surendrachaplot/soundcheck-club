@@ -1,16 +1,15 @@
 # Northcote Theatre
 
-Northcote Theatre is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Novel presents Kerri Chandler" on Fri, 27 Nov 2026.
+Northcote Theatre is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Defected Melbourne 2026" on Fri, 11 Dec 2026.
 
-Northcote Theatre is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Aquenta, David Penn, Deepa and SheIsAlive and 2 more. See dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
+Northcote Theatre is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Aquenta, David Penn, Deepa and Soju Gang and 2 more. See dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Novel presents Kerri Chandler | Kerri Chandler |
 | Fri, 11 Dec 2026 | Defected Melbourne 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
-| Thu, 31 Dec 2026 | High Times - NYE | Aquenta, Deepa, Jun Wan, Marcellus Pittman, Mazzacles, Miki (3), Nay Nay, PITCHKA, Palazzo (2), SheIsAlive, Simon TK, Soichi Terada, System Olympia, Umut, Zalina, Zjoso |
+| Thu, 31 Dec 2026 | High Times - NYE | Aquenta, Deepa, Jun Wan, Marcellus Pittman, Mazzacles, Miki (3), Nay Nay, PITCHKA, Palazzo (2), Simon TK, Soichi Terada, Soju Gang, System Olympia, Umut, Zalina, Zjoso |
 | Wed, 6 Jan 2027 | Nia Archives | Nia Archives |
 | Sun, 7 Mar 2027 | Novel presents Kenny Dope | Kenny Dope |
 
@@ -18,4 +17,4 @@ Northcote Theatre is a music venue in Melbourne listed on soundcheck. 5 upcoming
 
 216 High St, Northcote VIC 3070, Australia, Melbourne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*

@@ -1,6 +1,6 @@
 # Sayuri (GER)
 
-Sayuri (GER) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kowalski, Stuttgart on Thu, 31 Dec 2026.
+Sayuri (GER) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kowalski, Stuttgart on Thu, 31 Dec 2026.
 
 Sayuri (GER) is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Chamelio 3000, Adi Dassler and Alex Narrow. Next up: Kowalski, Stuttgart on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Sayuri (GER) is a house and techno artist based in Germany, with 10 gigs on soun
 
 Chamelio 3000, Adi Dassler, Alex Narrow
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-ger/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-ger/)*

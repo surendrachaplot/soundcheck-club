@@ -1,6 +1,6 @@
 # Jaw Jones
 
-Jaw Jones is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at St Anne's Parish Hall, Toronto on Sat, 5 Dec 2026.
+Jaw Jones is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at St Anne's Parish Hall, Toronto on Sat, 5 Dec 2026.
 
 Jaw Jones is a techno and house artist based in Canada, with 51 gigs on soundcheck across Montreal and Toronto. Often billed alongside Marnigurl, Zellers and Kajaka. Next up: St Anne's Parish Hall, Toronto on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jaw Jones is a techno and house artist based in Canada, with 51 gigs on soundche
 
 Marnigurl, Zellers, Kajaka
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*

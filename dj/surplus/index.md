@@ -1,6 +1,6 @@
 # Surplus
 
-Surplus is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Cheetah Club, Glasgow on Wed, 30 Dec 2026.
+Surplus is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cheetah Club, Glasgow on Wed, 30 Dec 2026.
 
 Surplus is a house and deep house artist based in United Kingdom, with 22 gigs on soundcheck across Glasgow and Toronto. Often billed alongside SMK, Ali Watts and Brody James. Next up: La Cheetah Club, Glasgow on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ Surplus is a house and deep house artist based in United Kingdom, with 22 gigs o
 
 SMK (1), Ali Watts, Brody James
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surplus/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surplus/)*

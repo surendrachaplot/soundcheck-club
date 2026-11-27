@@ -1,6 +1,6 @@
 # Matmos
 
-Matmos is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
+Matmos is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
 
 Matmos is an experimental and electronica artist based in United States of America, with 18 gigs on soundcheck across Athens, Berlin, Bratislava and Cork and 11 more. Often billed alongside Aho Ssan, Eiko Ishibashi and Jay Glass Dubs. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Matmos is an experimental and electronica artist based in United States of Ameri
 
 Aho Ssan, Eiko Ishibashi, Jay Glass Dubs
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matmos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matmos/)*

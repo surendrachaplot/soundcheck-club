@@ -1,6 +1,6 @@
 # Raär
 
-Raär is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jasna 1, Warsaw on Fri, 8 Jan 2027.
+Raär is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jasna 1, Warsaw on Fri, 8 Jan 2027.
 
 Raär is a techno and electronica artist based in Belgium, with 48 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 16 more. Often billed alongside Under Black Helmet, Woody92 and Chlär. Next up: Jasna 1, Warsaw on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Raär is a techno and electronica artist based in Belgium, with 48 gigs on sound
 
 Under Black Helmet, Woody92, Chlär
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raar/)*

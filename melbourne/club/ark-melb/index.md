@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL]" on Sat, 28 Nov 2026.
+ark (Melb) is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL]" on Sat, 28 Nov 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Auramatic, Bethany, Cybernet and Dan Newman and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -9,7 +9,7 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] | Auramatic, Bethany (1), Dan Newman, Merel Helderman |
-| Sat, 5 Dec 2026 | ark // Smokey Bubblin' B [UK] - Special Guest - DJ Optimism | DJ Optimism, Smokey Bubblin' B |
+| Sat, 5 Dec 2026 | [CANCELLED] ark // Smokey Bubblin' B [UK] - Special Guest - DJ Optimism | DJ Optimism, Smokey Bubblin' B |
 | Sat, 12 Dec 2026 | ark // RTK Tarantino [UK] - ????? [??] | RTK Tarantino |
 | Sat, 19 Dec 2026 | ark // Cybernet - Ed Kent - Mabel - Nak | Cybernet, Ed Kent, Mabel, Nak (AU) |
 | Sat, 26 Dec 2026 | ark // Hannah D - Lex | Hannah D, Lex |
@@ -21,4 +21,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, 
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

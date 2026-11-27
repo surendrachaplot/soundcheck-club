@@ -1,6 +1,6 @@
 # Alex Osifo
 
-Alex Osifo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Cellar, London on Fri, 4 Dec 2026.
+Alex Osifo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cellar, London on Fri, 4 Dec 2026.
 
 Alex Osifo is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Leeds, London, Manchester and North and 1 more. Often billed alongside Binyamhn, 3 Minds and 6jjacob. Next up: Cellar, London on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Alex Osifo is a house and tech house artist based in United Kingdom, with 15 gig
 
 Binyamhn, 3 Minds, 6jjacob
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexosifo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexosifo/)*

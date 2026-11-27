@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Dennis Cruz is a Tech House and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Dennis Cruz is a tech house and house artist based in Spain, with 214 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside PAWSA, Marco Carola and Joseph Capriati. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ Dennis Cruz is a tech house and house artist based in Spain, with 214 gigs on so
 
 PAWSA, Marco Carola, Joseph Capriati
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

@@ -1,8 +1,8 @@
 # Neffa-T
 
-Neffa-T is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hidden, Manchester on Fri, 4 Dec 2026.
+Neffa-T is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hidden, Manchester on Fri, 4 Dec 2026.
 
-Neffa-T is a bass and techno artist based in United Kingdom, with 184 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 47 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: Hidden, Manchester on Fri 4 Dec.
+Neffa-T is a bass and techno artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 47 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: Hidden, Manchester on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Neffa-T is a bass and techno artist based in United Kingdom, with 184 gigs on so
 | Fri, 4 Dec 2026 | Hidden | Manchester |
 | Fri, 4 Dec 2026 | renae | Manchester |
 | Sun, 6 Dec 2026 | Fanshaw Projects | London |
+| Sun, 28 Mar 2027 | The Racket Space | Dublin |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ Neffa-T is a bass and techno artist based in United Kingdom, with 184 gigs on so
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

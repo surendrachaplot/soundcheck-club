@@ -1,6 +1,6 @@
 # Passwardy
 
-Passwardy is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lauschangriff, Berlin on Thu, 3 Dec 2026.
+Passwardy is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lauschangriff, Berlin on Thu, 3 Dec 2026.
 
 Passwardy is an experimental and techno artist, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside DDAARR, DJ Gostoso and Eklekt1k. Next up: Lauschangriff, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Passwardy is an experimental and techno artist, with 22 gigs on soundcheck acros
 
 DDAARR, DJ Gostoso, Eklekt1k
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*

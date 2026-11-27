@@ -1,6 +1,6 @@
 # ZERO ZERO X ŚLINA at Uczulenie
 
-ZERO ZERO X ŚLINA at Uczulenie on Fri 18 Dec, Wroclaw. 5 artists: DJ SHOUT, Donija, Mariola and Siberialist and 1 more. Bass and Experimental. See the line-up on soundcheck.
+ZERO ZERO X ŚLINA at Uczulenie on Fri 18 Dec, Wroclaw. 6 artists: DJ SHOUT, Donija, Mariola and Siberialist and 2 more. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ ZERO ZERO X ŚLINA at Uczulenie on Fri 18 Dec, Wroclaw. 5 artists: DJ SHOUT, Don
 - Mariola
 - Siberialist
 - TBH
+- verminscrat
 
 *Source: [soundcheck](https://soundcheck.club/e/2593906-zero-zero-x-lina-at-uczulenie/)*

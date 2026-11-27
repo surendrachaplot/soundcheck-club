@@ -1,6 +1,6 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 4 Dec 2026.
+The Hacker is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 4 Dec 2026.
 
 The Hacker is a techno and electro artist based in France, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: The Berkeley Suite, Glasgow on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ The Hacker is a techno and electro artist based in France, with 134 gigs on soun
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

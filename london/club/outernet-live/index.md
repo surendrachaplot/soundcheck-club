@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Culture Shock presents Transmissions" on Fri, 27 Nov 2026.
+Outernet Live is a music venue in London with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Culture Shock presents Transmissions" on Fri, 27 Nov 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AALIYAH, AJNA, Bad Behli and Bolis Pupul and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 12 upcoming gigs,
 
 Denmark Street, London WC2H, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

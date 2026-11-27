@@ -1,6 +1,6 @@
 # Iration Steppas
 
-Iration Steppas is a Dub and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Motorista Studio, Toronto on Fri, 27 Nov 2026.
+Iration Steppas is a Dub and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Motorista Studio, Toronto on Fri, 27 Nov 2026.
 
 Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 24 more. Often billed alongside O.B.F, Simon Scott and Breakfake. Next up: Motorista Studio, Toronto on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 93
 
 O.B.F, Simon Scott, Breakfake
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irationsteppas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irationsteppas/)*

@@ -1,6 +1,6 @@
 # HATSUYUKI
 
-HATSUYUKI is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
+HATSUYUKI is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
 
 HATSUYUKI is a techno and house artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside YOSHIMASA, AY and O.Goo. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ HATSUYUKI is a techno and house artist based in Japan, with 20 gigs on soundchec
 
 YOSHIMASA, AY (10), O.Goo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hatsuyuki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hatsuyuki/)*

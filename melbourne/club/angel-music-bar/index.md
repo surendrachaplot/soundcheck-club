@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Lunacy 4th B'day PT2 W/ David Fogarty (Transmigration, Berlin)" on Fri, 27 Nov 2026.
+Angel Music Bar is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Lunacy 4th B'day PT2 W/ David Fogarty (Transmigration, Berlin)" on Fri, 27 Nov 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Ayebatonye, cash, Data Flow and David Fogarty and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -19,4 +19,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

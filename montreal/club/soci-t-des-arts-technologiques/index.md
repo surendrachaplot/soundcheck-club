@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ALL NIGHT x Dure Vie — Jen Cardini • Olympe4000 • Metizo • Evita" on Fri, 27 Nov 2026.
+Société des arts technologiques is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ALL NIGHT x Dure Vie — Jen Cardini • Olympe4000 • Metizo • Evita" on Fri, 27 Nov 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Adrian Sherwood, Alina (MTL), Ben UFO and Cirque Cosmic and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -23,4 +23,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

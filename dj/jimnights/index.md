@@ -1,6 +1,6 @@
 # Jim Nights
 
-Jim Nights is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pamela Club, Paris on Fri, 4 Dec 2026.
+Jim Nights is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pamela Club, Paris on Fri, 4 Dec 2026.
 
 Jim Nights is a disco and house artist based in Italy, with 19 gigs on soundcheck across Milan and Paris. Often billed alongside Jack Scavino, Milangeles and Nightchou. Next up: Pamela Club, Paris on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Jim Nights is a disco and house artist based in Italy, with 19 gigs on soundchec
 
 Jack Scavino, Milangeles, Nightchou
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimnights/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimnights/)*

@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Gerd Janson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Gerd Janson is a house and techno artist based in Germany, with 347 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 91 more. Often billed alongside Marcel Dettmann, Âme and PARAMIDA. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Gerd Janson is a house and techno artist based in Germany, with 349 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 92 more. Often billed alongside Marcel Dettmann, Âme and PARAMIDA. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Gerd Janson is a house and techno artist based in Germany, with 347 gigs on soun
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Fri, 18 Dec 2026 | Funkhaus Wien | Vienna |
 | Sat, 19 Dec 2026 | Robert Johnson | Hesse |
+| Fri, 1 Jan 2027 | Studio Club Malaga | Malaga |
 | Fri, 15 Jan 2027 | Sneaky Pete's | Edinburgh |
 | Sat, 23 Jan 2027 | Kassablanca | Jena |
 | Sat, 13 Feb 2027 | fabric | London |
 | Fri, 19 Feb 2027 | Het Sieraad | Amsterdam |
-| Fri, 18 Jun 2027 | The Woodland Glade, Horseheath Racecourse | South-east |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist based in Germany, with 347 gigs on soun
 
 Marcel Dettmann, Âme, PARAMIDA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

@@ -1,6 +1,6 @@
 # Hotmood
 
-Hotmood is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Casa Ninguno, Medellin on Fri, 11 Dec 2026.
+Hotmood is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Casa Ninguno, Medellin on Fri, 11 Dec 2026.
 
 Hotmood is a disco and house artist based in Mexico, with 27 gigs on soundcheck across Atlanta, Austin, Bogotá and Denver and 8 more. Often billed alongside DJ HOT DONNA, Monsieur Van Pratt and Boys Don't Disco. Next up: Casa Ninguno, Medellin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Hotmood is a disco and house artist based in Mexico, with 27 gigs on soundcheck 
 
 DJ HOT DONNA, Monsieur Van Pratt, Boys Don't Disco
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotmood/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotmood/)*

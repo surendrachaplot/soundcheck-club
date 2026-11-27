@@ -1,6 +1,6 @@
 # X(S)INA
 
-X(S)INA is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SOS, Detroit on Fri, 27 Nov 2026.
+X(S)INA is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at SOS, Detroit on Fri, 27 Nov 2026.
 
 X(S)INA is a techno and ghetto tech artist based in United States of America, with 13 gigs on soundcheck across Detroit. Often billed alongside Garrison XR, we1sman and AIDEL. Next up: SOS, Detroit on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ X(S)INA is a techno and ghetto tech artist based in United States of America, wi
 
 Garrison XR, we1sman, AIDEL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*

@@ -1,6 +1,6 @@
 # TOC Hostel
 
-TOC Hostel is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "ATYPICAL: Afterwork + Open Mixer + Other Side Boiler with Hoko, Gontri & Jonathan Gr" on Fri, 27 Nov 2026.
+TOC Hostel is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ATYPICAL: Afterwork + Open Mixer + Other Side Boiler with Hoko, Gontri & Jonathan Gr" on Fri, 27 Nov 2026.
 
 TOC Hostel is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 580, 08011 Barcelona.
 
@@ -17,4 +17,4 @@ TOC Hostel is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. 
 
 Gran Via de les Corts Catalanes, 580, 08011 Barcelona, Barcelona
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*

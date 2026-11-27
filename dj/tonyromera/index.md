@@ -1,6 +1,6 @@
 # Tony Romera
 
-Tony Romera is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Effenaar, Eindhoven on Sat, 5 Dec 2026.
+Tony Romera is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Effenaar, Eindhoven on Sat, 5 Dec 2026.
 
 Tony Romera is a house and tech house artist based in France, with 40 gigs on soundcheck across Austin, Boston, Calgary and Chicago and 21 more. Often billed alongside Crusy, CASSIMM and LOVRA. Next up: Effenaar, Eindhoven on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ Tony Romera is a house and tech house artist based in France, with 40 gigs on so
 
 Crusy, CASSIMM, LOVRA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*

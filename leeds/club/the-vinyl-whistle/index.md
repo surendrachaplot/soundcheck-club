@@ -1,6 +1,6 @@
 # The Vinyl Whistle
 
-The Vinyl Whistle is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Northern Groove Association: 14th Edition@Vinyl Whistle Leeds - Balrog B2B Kessie (4 Hour Set)" on Fri, 27 Nov 2026.
+The Vinyl Whistle is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Northern Groove Association: 14th Edition@Vinyl Whistle Leeds - Balrog B2B Kessie (4 Hour Set)" on Fri, 27 Nov 2026.
 
 The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with line-ups including Balrog, Kessie, Krotone and Nio-B and 2 more. See dates, start times and who's playing. 12 Otley Road, Headingley, Leeds LS6 2AD.
 
@@ -9,7 +9,7 @@ The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 4 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Northern Groove Association: 14th Edition@Vinyl Whistle Leeds - Balrog B2B Kessie (4 Hour Set) | Balrog, Kessie |
-| Sat, 5 Dec 2026 | Selectors Choice |  |
+| Sat, 5 Dec 2026 | Selectors Choice: Dub, Reggae and Jungle Soundsystem Night |  |
 | Fri, 11 Dec 2026 | meanhood x LSG festive bash | Krotone, Skunkrock |
 | Sun, 13 Dec 2026 | ITP 2ND BDAY | Nio-B, Steeziskey |
 
@@ -17,4 +17,4 @@ The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 4 upcoming gig
 
 12 Otley Road, Headingley, Leeds LS6 2AD, Leeds
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*

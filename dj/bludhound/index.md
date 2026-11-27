@@ -1,6 +1,6 @@
 # BLUDHOUND
 
-BLUDHOUND is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at FLUCC, Vienna on Sat, 12 Dec 2026.
+BLUDHOUND is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at FLUCC, Vienna on Sat, 12 Dec 2026.
 
 BLUDHOUND is a techno and trance artist based in Austria, with 37 gigs on soundcheck across Prague and Vienna. Often billed alongside pinklotion, Dj Wifi and LUZZT. Next up: FLUCC, Vienna on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ BLUDHOUND is a techno and trance artist based in Austria, with 37 gigs on soundc
 
 pinklotion, Dj Wifi (3), LUZZT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bludhound/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bludhound/)*

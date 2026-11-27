@@ -1,6 +1,6 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Partisan 10th Birthday" on Fri, 27 Nov 2026.
+The Yard is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Partisan 10th Birthday" on Fri, 27 Nov 2026.
 
 The Yard is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Freeland, Chris Massey, Clemency and d. clemente and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
@@ -17,4 +17,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, w
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

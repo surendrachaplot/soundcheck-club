@@ -1,6 +1,6 @@
 # Apophis Club
 
-Apophis Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "X Season: Kim April" on Sat, 28 Nov 2026.
+Apophis Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "X Season: Kim April" on Sat, 28 Nov 2026.
 
 Apophis Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Dr. Dwarf, Kim April, Marcolino and Nicola Mazzetti. See dates, start times and who's playing. Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy.
 
@@ -15,4 +15,4 @@ Apophis Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, wi
 
 Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy, Milan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*

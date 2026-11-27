@@ -1,6 +1,6 @@
 # Azrel
 
-Azrel is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 27 Nov 2026.
+Azrel is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 27 Nov 2026.
 
 Azrel is a trance and techno artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Kyoto, Leeds and London and 4 more. Often billed alongside abejisama, Lil Farm and Loveblade. Next up: Heim Shanghai, Shanghai on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Azrel is a trance and techno artist based in United Kingdom, with 20 gigs on sou
 
 abejisama, Lil Farm, Loveblade
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azrel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azrel/)*

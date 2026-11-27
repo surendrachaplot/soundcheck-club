@@ -1,6 +1,6 @@
 # AAMEE
 
-AAMEE is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Eiger Studios, Leeds on Sat, 28 Nov 2026.
+AAMEE is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Eiger Studios, Leeds on Sat, 28 Nov 2026.
 
 AAMEE is a techno and acid artist based in United Kingdom, with 2 gigs on soundcheck across Leeds. Often billed alongside BUTCHABOI, Indigo and Primal. Next up: Eiger Studios, Leeds on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ AAMEE is a techno and acid artist based in United Kingdom, with 2 gigs on soundc
 
 BUTCHABOI, Indigo, Primal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aamee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aamee/)*

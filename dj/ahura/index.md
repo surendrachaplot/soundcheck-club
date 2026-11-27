@@ -1,13 +1,14 @@
 # AHURA
 
-AHURA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 2 Dec 2026.
+AHURA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
-AHURA is a techno and house artist based in Germany, with 58 gigs on soundcheck across Berlin, Düsseldorf, Hamburg and Hannover and 5 more. Often billed alongside Nazz, Jannis Maxim and SYMON. Next up: Tresor / Globus, Berlin on Wed 2 Dec.
+AHURA is a techno and house artist based in Germany, with 59 gigs on soundcheck across Berlin, Düsseldorf, Hamburg and Hannover and 5 more. Often billed alongside Nazz, Jannis Maxim and SYMON. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Lehmann Club | Stuttgart |
 | Wed, 2 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ AHURA is a techno and house artist based in Germany, with 58 gigs on soundcheck 
 
 Nazz, Jannis Maxim, SYMON
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahura/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahura/)*

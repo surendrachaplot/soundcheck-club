@@ -1,6 +1,6 @@
 # Elevate Festival 2027 at Dom im Berg
 
-Elevate Festival 2027 at Dom im Berg on Thu 4 Mar, Austria. 10 artists: ¥ØU$UK€ ¥UK1MAT$U, Dis Fig, DjRUM and Dorian Concept and 6 more. See the line-up on soundcheck.
+Elevate Festival 2027 at Dom im Berg on Thu 4 Mar, Austria. 23 artists: ¥ØU$UK€ ¥UK1MAT$U, Abdullah Miniawy, Ark and Batu and 19 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,14 +11,27 @@ Elevate Festival 2027 at Dom im Berg on Thu 4 Mar, Austria. 10 artists: ¥ØU$UK
 ## Line-up
 
 - ¥ØU$UK€ ¥UK1MAT$U
+- Abdullah Miniawy
+- Ark
+- Batu
 - Dis Fig
+- DJ Ebhardy
+- DJ Zinc
 - DjRUM
 - Dorian Concept
-- James Holden
+- Evian Christ
+- Fatima Al Qadiri
+- Gabrielle Kwarteng
+- Gischt
+- Holden
+- Jessica Ekomane
+- Katia Curie
+- knackered
 - Mad Professor
+- Mantra
 - Mia Koden
 - Nubya Garcia
+- Tim Reaper
 - Violent Magic Orchestra
-- Waclaw Zimpel
 
 *Source: [soundcheck](https://soundcheck.club/e/2576093-elevate-festival-2027-at-dom-im-berg/)*

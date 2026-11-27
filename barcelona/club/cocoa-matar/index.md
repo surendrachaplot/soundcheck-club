@@ -1,6 +1,6 @@
 # Cocoa Mataró
 
-Cocoa Mataró is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Play x Solace pres Wade " on Sat, 19 Dec 2026.
+Cocoa Mataró is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Play x Solace pres Wade " on Sat, 19 Dec 2026.
 
 Cocoa Mataró is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Giuseppe Martini, HANIE and Wade. See dates, start times and who's playing. C/ Francesc Layret, 35, 08302 Mataró, Barcelona.
 
@@ -14,4 +14,4 @@ Cocoa Mataró is a music venue in Barcelona listed on soundcheck. 1 upcoming gig
 
 C/ Francesc Layret, 35, 08302 Mataró, Barcelona, Barcelona
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/cocoa-matar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/cocoa-matar/)*

@@ -1,8 +1,8 @@
 # Mikalah Watego
 
-Mikalah Watego is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Mikalah Watego is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside Moopie, DAWS and Hasvat Informant. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Mikalah Watego is a house and techno artist based in Australia, with 45 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside Moopie, DAWS and Hasvat Informant. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on 
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 | Sat, 23 Jan 2027 | Preston Warehouse | Melbourne |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Sat, 27 Mar 2027 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on 
 
 Moopie, DAWS, Hasvat Informant
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

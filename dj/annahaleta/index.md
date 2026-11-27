@@ -1,6 +1,6 @@
 # Anna Haleta
 
-Anna Haleta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
+Anna Haleta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
 
 Anna Haleta is a techno and house artist based in Israel, with 22 gigs on soundcheck across Amsterdam, Athens, Berlin and Leipzig and 2 more. Often billed alongside Handmade, Madalba and fr. JPLA. Next up: ://about blank, Berlin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Anna Haleta is a techno and house artist based in Israel, with 22 gigs on soundc
 
 Handmade, Madalba, fr. JPLA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annahaleta/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annahaleta/)*

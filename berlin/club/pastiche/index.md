@@ -1,6 +1,6 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Palestinian Sound Archive - Listening Session" on Fri, 27 Nov 2026.
+Pastiche is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Palestinian Sound Archive - Listening Session" on Fri, 27 Nov 2026.
 
 Pastiche is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
@@ -15,4 +15,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See d
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

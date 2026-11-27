@@ -1,6 +1,6 @@
 # Mary Gehnyei
 
-Mary Gehnyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at MOGO, Milan on Fri, 27 Nov 2026.
+Mary Gehnyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at MOGO, Milan on Fri, 27 Nov 2026.
 
 Mary Gehnyei is a house and techno artist based in Italy, with 25 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Florence and 2 more. Often billed alongside Mary G, Ameliée and Lela Xein. Next up: MOGO, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mary Gehnyei is a house and techno artist based in Italy, with 25 gigs on soundc
 
 Mary G, Ameliée, Lela Xein
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*

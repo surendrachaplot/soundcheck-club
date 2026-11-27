@@ -1,6 +1,6 @@
 # Generali Minerali
 
-Generali Minerali is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Meteor Studio, Tbilisi on Fri, 27 Nov 2026.
+Generali Minerali is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Meteor Studio, Tbilisi on Fri, 27 Nov 2026.
 
 Generali Minerali is an electro and techno artist based in Georgia, with 138 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 5 more. Often billed alongside Minerali, Neon Warrior and Seqta. Next up: Meteor Studio, Tbilisi on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Generali Minerali is an electro and techno artist based in Georgia, with 138 gig
 
 Minerali, Neon Warrior, Seqta
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/generaliminerali/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/generaliminerali/)*

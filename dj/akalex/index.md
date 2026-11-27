@@ -1,6 +1,6 @@
 # Akalex
 
-Akalex is a Electro and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
+Akalex is a Electro and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
 
 Akalex is an electro and baile funk artist based in France, with 26 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Lisbon and 6 more. Often billed alongside Maxvll, Yosef (ES) and Diego Armando. Next up: Razzmatazz, Barcelona on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Akalex is an electro and baile funk artist based in France, with 26 gigs on soun
 
 Maxvll, Yosef (ES), Diego Armando
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*

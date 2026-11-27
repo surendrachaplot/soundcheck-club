@@ -1,6 +1,6 @@
 # Bernardo Campos
 
-Bernardo Campos is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fatchia, Rio de Janeiro on Fri, 27 Nov 2026.
+Bernardo Campos is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fatchia, Rio de Janeiro on Fri, 27 Nov 2026.
 
 Bernardo Campos is a house and disco artist based in Brazil, with 42 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Leo Janeiro, Leo J and Marta Supernova. Next up: Fatchia, Rio de Janeiro on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Bernardo Campos is a house and disco artist based in Brazil, with 42 gigs on sou
 
 Leo Janeiro, Leo J, Marta Supernova
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardocampos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardocampos/)*

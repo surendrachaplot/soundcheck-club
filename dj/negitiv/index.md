@@ -1,8 +1,8 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kran Beograd, Belgrade on Fri, 27 Nov 2026.
+NEGITIV is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kran Beograd, Belgrade on Fri, 27 Nov 2026.
 
-NEGITIV is a techno and trance artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 60 more. Often billed alongside Alex Farell, Nicolas Julian and Onlynumbers. Next up: Kran Beograd, Belgrade on Fri 27 Nov.
+NEGITIV is a techno and trance artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 61 more. Often billed alongside Alex Farell, Nicolas Julian and Onlynumbers. Next up: Kran Beograd, Belgrade on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ NEGITIV is a techno and trance artist based in Germany, with 130 gigs on soundch
 
 Alex Farell, Nicolas Julian, Onlynumbers
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

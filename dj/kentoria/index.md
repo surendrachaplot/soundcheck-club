@@ -1,6 +1,6 @@
 # Kent Oria
 
-Kent Oria is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at VENT, Tokyo on Fri, 4 Dec 2026.
+Kent Oria is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at VENT, Tokyo on Fri, 4 Dec 2026.
 
 Kent Oria is a techno and psytrance artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside DANA NADA, Jiho and ACHIRI. Next up: VENT, Tokyo on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Kent Oria is a techno and psytrance artist based in Japan, with 20 gigs on sound
 
 DANA NADA, Jiho, ACHIRI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kentoria/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kentoria/)*

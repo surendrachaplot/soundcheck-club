@@ -1,6 +1,6 @@
 # Gustuff
 
-Gustuff is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 5 Dec 2026.
+Gustuff is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 5 Dec 2026.
 
 Gustuff is a techno and minimal artist based in Austria, with 9 gigs on soundcheck across Vienna. Often billed alongside Paul Panther, Snax and wanek. Next up: the inner circle vienna / wien, Vienna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Gustuff is a techno and minimal artist based in Austria, with 9 gigs on soundche
 
 Paul Panther, Snax, wanek
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustuff/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustuff/)*

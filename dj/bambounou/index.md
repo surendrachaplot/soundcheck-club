@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Toplocentrala, Sofia on Sat, 19 Dec 2026.
+Bambounou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Toplocentrala, Sofia on Sat, 19 Dec 2026.
 
 Bambounou is a techno and house artist based in France, with 183 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 55 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Toplocentrala, Sofia on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Bambounou is a techno and house artist based in France, with 183 gigs on soundch
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

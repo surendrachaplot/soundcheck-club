@@ -1,6 +1,6 @@
 # Cold Hippie
 
-Cold Hippie is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Autumn Three, London on Sat, 13 Feb 2027.
+Cold Hippie is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Autumn Three, London on Sat, 13 Feb 2027.
 
 Cold Hippie is a techno and breakbeat artist based in United Kingdom, with 8 gigs on soundcheck across Kuala Lumpur, London and Rotterdam. Often billed alongside Form Affinity, Squish and AYEGY. Next up: Autumn Three, London on Sat 13 Feb.
 
@@ -24,4 +24,4 @@ Cold Hippie is a techno and breakbeat artist based in United Kingdom, with 8 gig
 
 Form Affinity, Squish, AYEGY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coldhippie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coldhippie/)*

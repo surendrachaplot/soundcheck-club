@@ -1,6 +1,6 @@
 # Biorc
 
-Biorc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Madrid on Fri, 25 Dec 2026.
+Biorc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Madrid on Fri, 25 Dec 2026.
 
 Biorc is a techno and house artist based in Spain, with 15 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Angelo Stasi, ADRI.G and Ali-Az. Next up: TBA, Madrid on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Biorc is a techno and house artist based in Spain, with 15 gigs on soundcheck ac
 
 Angelo Stasi, ADRI.G, Ali-Az
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biorc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biorc/)*

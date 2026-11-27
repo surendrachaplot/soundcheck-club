@@ -1,6 +1,6 @@
 # Zur Klappe
 
-Zur Klappe is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Klappnacht" on Fri, 27 Nov 2026.
+Zur Klappe is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Klappnacht" on Fri, 27 Nov 2026.
 
 Zur Klappe is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Ana Molina, Cotumo, David Elimelech and Effy Michelle and 2 more. See dates, start times and who's playing. Yorckstrasse 0, 10965, Berlin.
 
@@ -19,4 +19,4 @@ Zur Klappe is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, wit
 
 Yorckstrasse 0, 10965, Berlin, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*

@@ -1,6 +1,6 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NEURON" on Fri, 27 Nov 2026.
+WOMB is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NEURON" on Fri, 27 Nov 2026.
 
 WOMB is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including Abura, AHREUM, AIBA and ANDY DEDE and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
@@ -23,4 +23,4 @@ WOMB is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

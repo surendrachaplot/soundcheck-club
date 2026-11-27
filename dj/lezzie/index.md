@@ -1,6 +1,6 @@
 # Lezzie
 
-Lezzie is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Brooklyn Warehouse Location <3, New York City on Sun, 29 Nov 2026.
+Lezzie is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Brooklyn Warehouse Location <3, New York City on Sun, 29 Nov 2026.
 
 Lezzie is a club and house artist based in United States of America, with 7 gigs on soundcheck across Atlanta and New York City. Often billed alongside LYDO, elle xxo and sola system. Next up: TBA - Brooklyn Warehouse Location <3, New York City on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ Lezzie is a club and house artist based in United States of America, with 7 gigs
 
 LYDO, elle xxo, sola system
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzie/)*

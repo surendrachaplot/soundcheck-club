@@ -1,8 +1,8 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Jasna 1, Warsaw on Sat, 5 Dec 2026.
+Evian Christ is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jasna 1, Warsaw on Sat, 5 Dec 2026.
 
-Evian Christ is a trance and techno artist based in United Kingdom, with 97 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bangkok and 34 more. Often billed alongside seretide, Torus and Malibu. Next up: Jasna 1, Warsaw on Sat 5 Dec.
+Evian Christ is a trance and techno artist based in United Kingdom, with 98 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austria and 35 more. Often billed alongside seretide, Torus and Malibu. Next up: Jasna 1, Warsaw on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Evian Christ is a trance and techno artist based in United Kingdom, with 97 gigs
 | Sat, 5 Dec 2026 | Jasna 1 | Warsaw |
 | Fri, 11 Dec 2026 | The Cause | London |
 | Fri, 15 Jan 2027 | Palais | London |
+| Thu, 4 Mar 2027 | Dom im Berg | Austria |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Evian Christ is a trance and techno artist based in United Kingdom, with 97 gigs
 
 seretide, Torus, Malibu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*

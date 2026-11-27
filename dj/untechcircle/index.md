@@ -1,6 +1,6 @@
 # UNTECHCIRCLE
 
-UNTECHCIRCLE is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at OIL Club, Shenzhen on Fri, 27 Nov 2026.
+UNTECHCIRCLE is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Fri, 27 Nov 2026.
 
 UNTECHCIRCLE is a techno and experimental artist based in China, with 8 gigs on soundcheck across Beijing, Lyon, Shanghai and Shenzhen. Often billed alongside R Ξ Π, Shao and 33EMYBW. Next up: OIL Club, Shenzhen on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ UNTECHCIRCLE is a techno and experimental artist based in China, with 8 gigs on 
 
 R Ξ Π, Shao, 33EMYBW
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/untechcircle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/untechcircle/)*

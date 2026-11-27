@@ -1,6 +1,6 @@
 # B+
 
-B+ is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+B+ is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
 B+ is a downtempo and house artist based in United States of America, with 17 gigs on soundcheck across Berlin, Mexico City and Montreal. Often billed alongside Alo, A² and Bass. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ B+ is a downtempo and house artist based in United States of America, with 17 gi
 
 Alo, A², Bass
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bplusus/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bplusus/)*

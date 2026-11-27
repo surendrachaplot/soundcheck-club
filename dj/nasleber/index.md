@@ -1,6 +1,6 @@
 # Nas Leber
 
-Nas Leber is a Reggaeton and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 27 Nov 2026.
+Nas Leber is a Reggaeton and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 27 Nov 2026.
 
 Nas Leber is a reggaeton and house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside BOJAQ, Brutkalt and DJ Ultra Violet. Next up: Bossa Nova Civic Club, New York City on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Nas Leber is a reggaeton and house artist based in United States of America, wit
 
 BOJAQ, Brutkalt, DJ Ultra Violet
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nasleber/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nasleber/)*

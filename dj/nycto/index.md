@@ -1,6 +1,6 @@
 # NYCTO
 
-NYCTO is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 27 Nov 2026.
+NYCTO is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 27 Nov 2026.
 
 NYCTO is a tech house and techno artist based in Germany, with 40 gigs on soundcheck across Berlin, Budapest, Gothenburg and Los Angeles and 3 more. Often billed alongside SAAMO, Petra Yelda and Blck-Swan. Next up: Tempio del Futuro Perduto, Milan on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ NYCTO is a tech house and techno artist based in Germany, with 40 gigs on soundc
 
 SAAMO, Petra Yelda, Blck-Swan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*

@@ -1,6 +1,6 @@
 # Bibi Seck
 
-Bibi Seck is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Bibi Seck is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Bibi Seck is a house and disco artist based in Belgium, with 128 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Bibi Seck is a house and disco artist based in Belgium, with 128 gigs on soundch
 
 John Noseda, BAVR, Faisal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

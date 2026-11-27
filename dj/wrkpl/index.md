@@ -1,6 +1,6 @@
 # WRK (PL)
 
-WRK (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
+WRK (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at EXPO XXI, Warsaw on Thu, 31 Dec 2026.
 
 WRK (PL) is a techno and house artist based in Poland, with 31 gigs on soundcheck across Berlin, Krakow, London and Poznan and 2 more. Often billed alongside Carla Roca, Jake Fill and ANXHELA. Next up: EXPO XXI, Warsaw on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ WRK (PL) is a techno and house artist based in Poland, with 31 gigs on soundchec
 
 Carla Roca, Jake Fill, ANXHELA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*

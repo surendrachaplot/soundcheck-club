@@ -1,8 +1,8 @@
 # William Luck
 
-William Luck is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zoom Club, Frankfurt on Sat, 5 Dec 2026.
+William Luck is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zoom Club, Frankfurt on Sat, 5 Dec 2026.
 
-William Luck is a techno and hardcore artist based in France, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside LESSSS, OMAKS and 25EMEHEURE. Next up: Zoom Club, Frankfurt on Sat 5 Dec.
+William Luck is a techno and hardcore artist based in France, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside LESSSS, OMAKS and 25EMEHEURE. Next up: Zoom Club, Frankfurt on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ William Luck is a techno and hardcore artist based in France, with 79 gigs on so
 | Sat, 5 Dec 2026 | Zoom Club | Frankfurt |
 | Mon, 7 Dec 2026 | Gate Milano | Milan |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Sat, 9 Jan 2027 | La Plateforme | Marseille |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ William Luck is a techno and hardcore artist based in France, with 79 gigs on so
 
 LESSSS, OMAKS, 25EMEHEURE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*

@@ -1,14 +1,13 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona)" on Thu, 26 Nov 2026.
+Noxe Barcelona is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Skylab at Noxe (26th floor W Barcelona)" on Mon, 30 Nov 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 20 upcoming gigs, with line-ups including Alex Silva, GIVIO, Max Kion and Nesi and 2 more. See dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Alex Silva, GIVIO, Max Kion and Nesi and 2 more. See dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | Alex Silva, GIVIO |
 | Mon, 30 Nov 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 1 Dec 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Nich All Us, Sarah Andersson |
 | Wed, 2 Dec 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Nesi, Vikki |
@@ -18,9 +17,10 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 20 upcoming g
 | Wed, 9 Dec 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Nesi, Sarah Andersson |
 | Thu, 10 Dec 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | Alex Silva, GIVIO |
 | Mon, 14 Dec 2026 | Skylab at Noxe (26th floor W Barcelona) |  |
+| Tue, 15 Dec 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | GIVIO, Sarah Andersson |
 
 ## Address
 
 Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Barcelona
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*

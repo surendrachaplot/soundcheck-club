@@ -1,13 +1,14 @@
 # ccil
 
-ccil is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Room, Montreal on Sat, 12 Dec 2026.
+ccil is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Sat, 28 Nov 2026.
 
-ccil is a techno and trance artist, with 23 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Meen Moreen, ENAMOR and FASTNSOFT. Next up: Blue Room, Montreal on Sat 12 Dec.
+ccil is a techno and trance artist, with 24 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Meen Moreen, Inside Blur and No Police. Next up: Salon Daomé, Montreal on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Salon Daomé | Montreal |
 | Sat, 12 Dec 2026 | Blue Room | Montreal |
 
 ## Recently played
@@ -23,6 +24,6 @@ ccil is a techno and trance artist, with 23 gigs on soundcheck across Montreal a
 
 ## Shares bills with
 
-Meen Moreen, ENAMOR, FASTNSOFT
+Meen Moreen, Inside Blur, No Police
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccil/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccil/)*

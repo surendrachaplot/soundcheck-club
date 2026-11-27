@@ -1,6 +1,6 @@
 # TURIAL
 
-TURIAL is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Madrid on Fri, 4 Dec 2026.
+TURIAL is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Madrid on Fri, 4 Dec 2026.
 
 TURIAL is a techno artist, with 8 gigs on soundcheck across Madrid. Often billed alongside Reitze, Fluss and MDTCODE. Next up: TBA, Madrid on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ TURIAL is a techno artist, with 8 gigs on soundcheck across Madrid. Often billed
 
 Reitze, Fluss, MDTCODE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turial/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turial/)*

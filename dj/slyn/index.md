@@ -1,6 +1,6 @@
 # slyn
 
-slyn is a Experimental and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 5 Dec 2026.
+slyn is a Experimental and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 5 Dec 2026.
 
 slyn is an experimental and house artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Berlin, Bologna and Edinburgh and 4 more. Often billed alongside JayJay, Noise Hz and Slowfoam. Next up: People's Leisure Club, Edinburgh on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ slyn is an experimental and house artist based in Netherlands, with 55 gigs on s
 
 JayJay, Noise Hz, Slowfoam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slyn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slyn/)*

@@ -1,6 +1,6 @@
 # Rana Iravani
 
-Rana Iravani is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - 333, New York City on Fri, 27 Nov 2026.
+Rana Iravani is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 333, New York City on Fri, 27 Nov 2026.
 
 Rana Iravani is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Armii1n and Choukroun. Next up: TBA - 333, New York City on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Rana Iravani is a house and techno artist based in United States of America, wit
 
 Auphoria, Armii1n, Choukroun
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

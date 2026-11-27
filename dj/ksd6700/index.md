@@ -1,14 +1,13 @@
 # ksd6700
 
-ksd6700 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at DeTour, Tokyo on Fri, 27 Nov 2026.
+ksd6700 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Thu, 17 Dec 2026.
 
-ksd6700 is a techno and house artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside Homma Honganji, Krankent and BEPPU. Next up: DeTour, Tokyo on Fri 27 Nov.
+ksd6700 is a techno and house artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside Homma Honganji, Krankent and BEPPU. Next up: BRAND SHIBUYA, Tokyo on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | DeTour | Tokyo |
 | Thu, 17 Dec 2026 | BRAND SHIBUYA | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ ksd6700 is a techno and house artist based in Japan, with 26 gigs on soundcheck 
 
 Homma Honganji, Krankent, BEPPU
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksd6700/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksd6700/)*

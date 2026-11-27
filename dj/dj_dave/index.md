@@ -1,6 +1,6 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Elysée Montmartre, Paris on Fri, 27 Nov 2026.
+DJ_Dave is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Elysée Montmartre, Paris on Fri, 27 Nov 2026.
 
 DJ_Dave is a techno and electro artist based in United States of America, with 30 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 10 more. Often billed alongside Alice Longyu Gao, horsegiirL and B0YG1RL. Next up: Elysée Montmartre, Paris on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DJ_Dave is a techno and electro artist based in United States of America, with 3
 
 Alice Longyu Gao, horsegiirL, B0YG1RL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*

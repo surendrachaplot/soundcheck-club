@@ -1,6 +1,6 @@
 # Xia (2)
 
-Xia (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Système, Montreal on Thu, 10 Dec 2026.
+Xia (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Thu, 10 Dec 2026.
 
 Xia is a techno and trance artist based in Canada, with 43 gigs on soundcheck across Berlin, Cologne, Lyon and Mexico City and 5 more. Often billed alongside Corinita, CrisseMarqueur and No Police. Next up: Système, Montreal on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Xia is a techno and trance artist based in Canada, with 43 gigs on soundcheck ac
 
 Corinita, CrisseMarqueur, No Police
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-2/)*

@@ -1,6 +1,6 @@
 # DÅwN
 
-DÅwN is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 27 Nov 2026.
+DÅwN is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 27 Nov 2026.
 
 DÅwN is an electronic artist based in China, with 22 gigs on soundcheck across Milan. Often billed alongside Zenyee, Bubbling and BDG. Next up: Tempio del Futuro Perduto, Milan on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DÅwN is an electronic artist based in China, with 22 gigs on soundcheck across 
 
 Zenyee, Bubbling, BDG (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dawn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dawn/)*

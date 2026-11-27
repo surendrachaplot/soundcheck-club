@@ -1,14 +1,15 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Philippa Pacho is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Philippa Pacho is a techno and house artist based in Sweden, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 84 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Philippa Pacho is a techno and house artist based in Sweden, with 278 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 84 more. Often billed alongside Blue Hour, Fadi Mohem and Rene Wise. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Fri, 27 Nov 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 11 Dec 2026 | Studio Club Malaga | Malaga |
 | Sat, 12 Dec 2026 | The Bassement | Madrid |
 | Sat, 19 Dec 2026 | Soul SKG | Thessaloniki |
@@ -31,6 +32,6 @@ Philippa Pacho is a techno and house artist based in Sweden, with 277 gigs on so
 
 ## Shares bills with
 
-Blue Hour, Fadi Mohem, Freddy K
+Blue Hour, Fadi Mohem, Rene Wise
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

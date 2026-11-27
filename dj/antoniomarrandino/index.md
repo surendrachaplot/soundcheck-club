@@ -1,6 +1,6 @@
 # Antonio Marrandino
 
-Antonio Marrandino is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Mon, 21 Dec 2026.
+Antonio Marrandino is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Mon, 21 Dec 2026.
 
 Antonio Marrandino is a tech house and techno artist based in Italy, with 62 gigs on soundcheck across Barcelona and Naples. Often billed alongside Gianni Firmaio, Jo-Sie and Idriss D. Next up: Macarena Club, Barcelona on Mon 21 Dec.
 
@@ -25,4 +25,4 @@ Antonio Marrandino is a tech house and techno artist based in Italy, with 62 gig
 
 Gianni Firmaio, Jo-Sie, Idriss D
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniomarrandino/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniomarrandino/)*

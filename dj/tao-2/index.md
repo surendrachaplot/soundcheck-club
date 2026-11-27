@@ -1,6 +1,6 @@
 # Tao (2)
 
-Tao (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Malaga Sin City, Milan on Fri, 27 Nov 2026.
+Tao (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Malaga Sin City, Milan on Fri, 27 Nov 2026.
 
 Tao is a house and minimal artist based in Italy, with 15 gigs on soundcheck across Barcelona, Ibiza, Milan and Valencia. Often billed alongside Daniele Umore, Ezart and Wrng Pattern. Next up: Malaga Sin City, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Tao is a house and minimal artist based in Italy, with 15 gigs on soundcheck acr
 
 Daniele Umore, Ezart, Wrng Pattern
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tao-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tao-2/)*

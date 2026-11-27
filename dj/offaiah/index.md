@@ -1,6 +1,6 @@
 # OFFAIAH
 
-OFFAIAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+OFFAIAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 OFFAIAH is a house and tech house artist based in United Kingdom, with 48 gigs on soundcheck across Auckland, Austin, Chicago and Denver and 13 more. Often billed alongside Gene Farris, Claptone and Marc Kinchen. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ OFFAIAH is a house and tech house artist based in United Kingdom, with 48 gigs o
 
 Gene Farris, Claptone, Marc Kinchen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*

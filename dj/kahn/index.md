@@ -1,14 +1,15 @@
 # Kahn
 
-Kahn is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Fri, 4 Dec 2026.
+Kahn is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Fri, 4 Dec 2026.
 
-Kahn is a dubstep and bass artist based in United Kingdom, with 80 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 30 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: fabric, London on Fri 4 Dec.
+Kahn is a dubstep and bass artist based in United Kingdom, with 81 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 30 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: fabric, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | fabric | London |
+| Fri, 29 Jan 2027 | Amber's | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kahn is a dubstep and bass artist based in United Kingdom, with 80 gigs on sound
 
 Neek, SGT Pokes, Sir Spyro
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahn/)*

@@ -1,6 +1,6 @@
 # Norbeev
 
-Norbeev is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bäse Bar Budapest, Budapest on Thu, 3 Dec 2026.
+Norbeev is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bäse Bar Budapest, Budapest on Thu, 3 Dec 2026.
 
 Norbeev is a house and tech house artist based in Hungary, with 18 gigs on soundcheck across Budapest, Cologne and Hannover. Often billed alongside Noven, Antique (HU) and Gabriel Dancer. Next up: Bäse Bar Budapest, Budapest on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Norbeev is a house and tech house artist based in Hungary, with 18 gigs on sound
 
 Noven, Antique (HU), Gabriel Dancer
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norbeev/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norbeev/)*

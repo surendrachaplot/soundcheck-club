@@ -1,6 +1,6 @@
 # vinyldependents
 
-vinyldependents is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery, Leipzig on Sat, 12 Dec 2026.
+vinyldependents is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery, Leipzig on Sat, 12 Dec 2026.
 
 vinyldependents is a techno and house artist based in Germany, with 10 gigs on soundcheck across Leipzig. Often billed alongside Desperate House Guy, Lea Jessen and 50PHIE. Next up: Distillery, Leipzig on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ vinyldependents is a techno and house artist based in Germany, with 10 gigs on s
 
 Desperate House Guy, Lea Jessen, 50PHIE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldependents/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldependents/)*

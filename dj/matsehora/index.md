@@ -1,6 +1,6 @@
 # Matsehora
 
-Matsehora is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Système, Montreal on Fri, 11 Dec 2026.
+Matsehora is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Fri, 11 Dec 2026.
 
 Matsehora is a house and electro artist based in Ukraine, with 10 gigs on soundcheck across Montreal and Tbilisi. Often billed alongside Evita, Ada Dielman and Adam Solomon. Next up: Système, Montreal on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Matsehora is a house and electro artist based in Ukraine, with 10 gigs on soundc
 
 Evita, Ada Dielman, Adam Solomon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matsehora/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matsehora/)*

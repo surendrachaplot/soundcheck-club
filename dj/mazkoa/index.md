@@ -1,6 +1,6 @@
 # Mazko A
 
-Mazko A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location, Washington DC on Sat, 5 Dec 2026.
+Mazko A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Washington DC on Sat, 5 Dec 2026.
 
 Mazko A is a house and techno artist, with 32 gigs on soundcheck across Los Angeles, New York City, Warsaw and Washington DC. Often billed alongside Kurilo, Ramos and Taiga. Next up: TBA - Secret Location, Washington DC on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mazko A is a house and techno artist, with 32 gigs on soundcheck across Los Ange
 
 Kurilo, Ramos (2), Taiga
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*

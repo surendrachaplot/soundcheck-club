@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Outer Heaven presents: Erez b2b shanty mane" on Fri, 27 Nov 2026.
+Outer Heaven is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Outer Heaven presents: Erez b2b shanty mane" on Fri, 27 Nov 2026.
 
 Outer Heaven is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including AGELESS, Amelia Holt, Bruno Limma and Bushwacka! and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 17 upcoming
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

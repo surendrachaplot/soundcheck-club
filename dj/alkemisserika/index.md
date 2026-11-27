@@ -1,6 +1,6 @@
 # Alkemiss Erika
 
-Alkemiss Erika is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 30 Jan 2027.
+Alkemiss Erika is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 30 Jan 2027.
 
 Alkemiss Erika is a deep house and house artist based in United States of America, with 41 gigs on soundcheck across Miami and San Francisco/Oakland. Often billed alongside Reza Tabrizi, Joseph Lee and IZIK. Next up: Public Works, San Francisco/Oakland on Sat 30 Jan.
 
@@ -26,4 +26,4 @@ Alkemiss Erika is a deep house and house artist based in United States of Americ
 
 Reza Tabrizi, Joseph Lee, IZIK
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*

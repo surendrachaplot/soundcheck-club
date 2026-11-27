@@ -1,6 +1,6 @@
 # Makèz
 
-Makèz is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 27 Nov 2026.
+Makèz is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 27 Nov 2026.
 
 Makèz is a house and tech house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Chicago and 20 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Say No More Madrid, Madrid on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Makèz is a house and tech house artist based in Netherlands, with 88 gigs on so
 
 ANOTR, Dan Shake, MiNNA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*

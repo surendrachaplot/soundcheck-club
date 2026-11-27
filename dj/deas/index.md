@@ -1,6 +1,6 @@
 # Deas
 
-Deas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Culture Box, Copenhagen on Fri, 22 Jan 2027.
+Deas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Culture Box, Copenhagen on Fri, 22 Jan 2027.
 
 Deas is a techno and house artist based in Poland, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 25 more. Often billed alongside Hiago Pauli, Pan-Pot and Chris Liebing. Next up: Culture Box, Copenhagen on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Deas is a techno and house artist based in Poland, with 67 gigs on soundcheck ac
 
 Hiago Pauli, Pan-Pot, Chris Liebing
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deas/)*

@@ -1,14 +1,15 @@
 # Obre
 
-Obre is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 5 Dec 2026.
+Obre is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 5 Dec 2026.
 
-Obre is a house and techno artist based in Romania, with 9 gigs on soundcheck across Bucharest. Often billed alongside Mianda, Brasi and Teodor Ghita. Next up: Platforma Wolff, Bucharest on Sat 5 Dec.
+Obre is a techno and house artist based in Romania, with 10 gigs on soundcheck across Bucharest. Often billed alongside Mianda, Teodor Ghita and Brasi. Next up: Platforma Wolff, Bucharest on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Platforma Wolff | Bucharest |
+| Fri, 1 Jan 2027 | Platforma Wolff | Bucharest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Obre is a house and techno artist based in Romania, with 9 gigs on soundcheck ac
 
 ## Shares bills with
 
-Mianda, Brasi, Teodor Ghita
+Mianda, Teodor Ghita, Brasi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obre/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obre/)*

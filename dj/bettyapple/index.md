@@ -1,6 +1,6 @@
 # Betty Apple
 
-Betty Apple is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
+Betty Apple is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
 
 Betty Apple is a techno and club artist based in Taiwan, with 18 gigs on soundcheck across Berlin, Copenhagen, Melbourne and Seoul and 4 more. Often billed alongside LinGia, Kemical SistaS and Hypolong. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Betty Apple is a techno and club artist based in Taiwan, with 18 gigs on soundch
 
 LinGia, Kemical SistaS, Hypolong
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bettyapple/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bettyapple/)*

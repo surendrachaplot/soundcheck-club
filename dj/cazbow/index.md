@@ -1,6 +1,6 @@
 # cazbow
 
-cazbow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BAR Inc, Osaka on Sat, 26 Dec 2026.
+cazbow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BAR Inc, Osaka on Sat, 26 Dec 2026.
 
 cazbow is a techno and house artist based in Japan, with 44 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside nazanael, TAKENOKO and kengotaki. Next up: BAR Inc, Osaka on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ cazbow is a techno and house artist based in Japan, with 44 gigs on soundcheck a
 
 nazanael, TAKENOKO, kengotaki
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cazbow/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cazbow/)*

@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
+Kiernan Laveaux is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
 
 Kiernan Laveaux is a techno and house artist based in United States of America, with 177 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 32 more. Often billed alongside ADAB, Malzof and CCL. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ADAB, Malzof, CCL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

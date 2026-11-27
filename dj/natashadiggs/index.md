@@ -1,6 +1,6 @@
 # Natasha Diggs
 
-Natasha Diggs is a House and Funk / Soul artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Natasha Diggs is a House and Funk / Soul artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Natasha Diggs is a house and funk / soul artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Melvo Baptiste, L3Ni and The Shapeshifters. Next up: fabric, London on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Natasha Diggs is a house and funk / soul artist based in United States of Americ
 
 Melvo Baptiste, L3Ni, The Shapeshifters
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*

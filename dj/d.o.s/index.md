@@ -1,6 +1,6 @@
 # D.O.S
 
-D.O.S is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Flash, Washington DC on Fri, 4 Dec 2026.
+D.O.S is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Flash, Washington DC on Fri, 4 Dec 2026.
 
 D.O.S is a house and tech house artist based in United States of America, with 7 gigs on soundcheck across Boston and Washington DC. Often billed alongside Arroyo, Charles Martin and Dusty Digital. Next up: Flash, Washington DC on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ D.O.S is a house and tech house artist based in United States of America, with 7
 
 Arroyo, Charles Martin, Dusty Digital
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.s/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.s/)*

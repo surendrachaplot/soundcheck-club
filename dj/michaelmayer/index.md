@@ -1,6 +1,6 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
+Michael Mayer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
 
 Michael Mayer is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Sunset Beach Bali, Bali on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Michael Mayer is a techno and house artist based in Germany, with 93 gigs on sou
 
 Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

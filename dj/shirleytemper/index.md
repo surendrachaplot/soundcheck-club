@@ -1,6 +1,6 @@
 # Shirley Temper
 
-Shirley Temper is a Jungle and Footwork artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
+Shirley Temper is a Jungle and Footwork artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
 
 Shirley Temper is a jungle and footwork artist based in United Kingdom, with 79 gigs on soundcheck across Berlin, Brighton, Bristol and Leeds and 5 more. Often billed alongside PEPPA, Sleazebag and Guido YZ. Next up: The Loco Klub, Bristol on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Shirley Temper is a jungle and footwork artist based in United Kingdom, with 79 
 
 PEPPA (2), Sleazebag, Guido YZ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*

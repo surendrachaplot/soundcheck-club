@@ -1,6 +1,6 @@
 # Gabb (PRY)
 
-Gabb (PRY) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pygmalion, Dublin on Fri, 27 Nov 2026.
+Gabb (PRY) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pygmalion, Dublin on Fri, 27 Nov 2026.
 
 Gabb (PRY) is a house and minimal artist based in Paraguay, with 8 gigs on soundcheck across Dublin, Paris and Taipei. Often billed alongside Royce Larøca, G.G (LB) and (navarro). Next up: Pygmalion, Dublin on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Gabb (PRY) is a house and minimal artist based in Paraguay, with 8 gigs on sound
 
 Royce Larøca, G.G (LB), (navarro)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbpry/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbpry/)*

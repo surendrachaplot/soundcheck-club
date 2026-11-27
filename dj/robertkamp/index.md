@@ -1,6 +1,6 @@
 # ROBERT KAMP
 
-ROBERT KAMP is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ipse, Berlin on Sat, 12 Dec 2026.
+ROBERT KAMP is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ipse, Berlin on Sat, 12 Dec 2026.
 
 ROBERT KAMP is a house and tech house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Buzz Boutique, PEACEOFHIT and Sassy Honey. Next up: Ipse, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ROBERT KAMP is a house and tech house artist based in Germany, with 9 gigs on so
 
 Buzz Boutique, PEACEOFHIT, Sassy Honey
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkamp/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkamp/)*

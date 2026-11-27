@@ -1,6 +1,6 @@
 # iLAN
 
-iLAN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Funke, Ghent on Fri, 27 Nov 2026.
+iLAN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Funke, Ghent on Fri, 27 Nov 2026.
 
 iLAN is a techno and industrial artist, with 18 gigs on soundcheck across Ghent, Warsaw and Wroclaw. Often billed alongside NO FACE, Anela and KASSANDRA. Next up: Funke, Ghent on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ iLAN is a techno and industrial artist, with 18 gigs on soundcheck across Ghent,
 
 NO FACE, Anela, KASSANDRA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilan/)*

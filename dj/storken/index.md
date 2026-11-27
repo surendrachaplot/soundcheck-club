@@ -1,6 +1,6 @@
 # Storken
 
-Storken is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jaeger, Oslo on Mon, 28 Dec 2026.
+Storken is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jaeger, Oslo on Mon, 28 Dec 2026.
 
 Storken is a house and disco artist, with 26 gigs on soundcheck across Amsterdam, Bangkok, Brisbane and Copenhagen and 6 more. Often billed alongside Brynjolfur, fatty acid and Anders Hajem. Next up: Jaeger, Oslo on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Storken is a house and disco artist, with 26 gigs on soundcheck across Amsterdam
 
 Brynjolfur, fatty acid, Anders Hajem
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/storken/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/storken/)*

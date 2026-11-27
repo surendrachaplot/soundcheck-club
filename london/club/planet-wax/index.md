@@ -1,14 +1,13 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 20 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "TONE DEF 'MADE IN LEWISHAM EP LAUNCH'" on Thu, 26 Nov 2026.
+Planet Wax is a music venue in London with 19 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "New Horizon: Takeover Planet Wax" on Fri, 27 Nov 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including A.N.T, Abby Daze, Andy Foundations and Artilect and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including A.N.T, Abby Daze, Andy Foundations and Artilect and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | TONE DEF 'MADE IN LEWISHAM EP LAUNCH' | DJ Ron, Dexta, Uncle G |
 | Fri, 27 Nov 2026 | New Horizon: Takeover Planet Wax | Andy Foundations, EN.VEE, Joe Joiner, Nicky B |
 | Sat, 28 Nov 2026 | LOCKED UP MUSIC |  |
 | Sat, 28 Nov 2026 | Pressure Test: Label Takeover | Artilect, CODE (3) |
@@ -18,9 +17,10 @@ Planet Wax is a music venue in London listed on soundcheck. 20 upcoming gigs, wi
 | Fri, 4 Dec 2026 | After Hours presents | A.N.T, CITIZEN, Lily London, Marky V, RUSO |
 | Sat, 5 Dec 2026 | QUICHE GANG: Christmas Party | DubFreq (2), Killa P, Nio-B, SIS:DEM, Skesa (CA) |
 | Sat, 5 Dec 2026 | Loop Sessions LDN x Pearcyde |  |
+| Sun, 6 Dec 2026 | INFRARED.FM: Christmas Party |  |
 
 ## Address
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

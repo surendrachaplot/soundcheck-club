@@ -1,6 +1,6 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "25 Years of Genius CRU: MC Fizzy, Zed Bias Mc Neat" on Sat, 28 Nov 2026.
+Onyx (E1) is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "25 Years of Genius CRU: MC Fizzy, Zed Bias Mc Neat" on Sat, 28 Nov 2026.
 
 Onyx (E1) is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including ANGL, Bensley, Bluck and Bread & Butter and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
@@ -21,4 +21,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 8 upcoming gigs, with
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

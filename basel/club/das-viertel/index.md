@@ -1,6 +1,6 @@
 # Das Viertel
 
-Das Viertel is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "RHYBORN w/snoritz" on Fri, 22 Jan 2027.
+Das Viertel is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "RHYBORN w/snoritz" on Fri, 22 Jan 2027.
 
 Das Viertel is a music venue in Basel listed on soundcheck. 1 upcoming gig, with line-ups including IULIATSKI, snoritz, VXBZ and winneju. See dates, start times and who's playing. Münchensteinerstrasse 81, 4052 Basel, Switzerland.
 
@@ -14,4 +14,4 @@ Das Viertel is a music venue in Basel listed on soundcheck. 1 upcoming gig, with
 
 Münchensteinerstrasse 81, 4052 Basel, Switzerland, Basel
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/das-viertel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/das-viertel/)*

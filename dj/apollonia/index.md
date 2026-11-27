@@ -1,8 +1,8 @@
 # Apollonia
 
-Apollonia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Apollonia is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
-Apollonia is a house and techno artist based in France, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Shonky. Next up: DRUMSHEDS, London on Sat 28 Nov.
+Apollonia is a house and techno artist based in France, with 106 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Shonky. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Apollonia is a house and techno artist based in France, with 105 gigs on soundch
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Index | Dublin |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Apollonia is a house and techno artist based in France, with 105 gigs on soundch
 
 Dyed Soundorom, Dan Ghenacia, Shonky
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*

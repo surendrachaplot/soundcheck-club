@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TESTBED, Leeds on Fri, 27 Nov 2026.
+Interplanetary Criminal is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TESTBED, Leeds on Fri, 27 Nov 2026.
 
 Interplanetary Criminal is a garage and house artist based in United Kingdom, with 280 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 82 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: TESTBED, Leeds on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 
 Main Phase, MALUGI, KI/KI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

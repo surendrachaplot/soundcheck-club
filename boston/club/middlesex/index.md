@@ -1,6 +1,6 @@
 # Middlesex
 
-Middlesex is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "KEEP ON - Waajeed B2B Trip Report (The Final Keep On at Middlesex!)" on Thu, 3 Dec 2026.
+Middlesex is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "KEEP ON - Waajeed B2B Trip Report (The Final Keep On at Middlesex!)" on Thu, 3 Dec 2026.
 
 Middlesex is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Coflo, Susan Esthera, Trip Report and Waajeed. See dates, start times and who's playing. 315 Massachusetts Avenue; Cambridge, MA 02139; United States.
 
@@ -15,4 +15,4 @@ Middlesex is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with
 
 315 Massachusetts Avenue; Cambridge, MA 02139; United States, Boston
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/middlesex/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/middlesex/)*

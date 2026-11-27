@@ -1,6 +1,6 @@
 # Ahni
 
-Ahni is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fitzroy, Berlin on Fri, 4 Dec 2026.
+Ahni is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Fri, 4 Dec 2026.
 
 Ahni is a house and tech house artist based in Australia, with 33 gigs on soundcheck across Berlin. Often billed alongside Manta, Inga Sama and materia hache. Next up: Fitzroy, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ahni is a house and tech house artist based in Australia, with 33 gigs on soundc
 
 Manta, Inga Sama, materia hache
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*

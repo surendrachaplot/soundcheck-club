@@ -1,6 +1,6 @@
 # Stevo Bajski
 
-Stevo Bajski is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
+Stevo Bajski is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
 
 Stevo Bajski is a house and ambient artist based in Germany, with 13 gigs on soundcheck across Berlin and Vienna. Often billed alongside Mystigrix, Cecilia Tosh and Annie Farmer. Next up: KREUZWERK, Berlin on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Stevo Bajski is a house and ambient artist based in Germany, with 13 gigs on sou
 
 Mystigrix, Cecilia Tosh, Annie Farmer
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevobajski/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevobajski/)*

@@ -1,14 +1,15 @@
 # trillosta
 
-trillosta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Villa, Oslo on Fri, 4 Dec 2026.
+trillosta is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Villa, Oslo on Fri, 4 Dec 2026.
 
-trillosta is a techno and trance artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 5 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: The Villa, Oslo on Fri 4 Dec.
+trillosta is a techno and trance artist based in Belgium, with 64 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 5 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: The Villa, Oslo on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | The Villa | Oslo |
+| Sat, 19 Dec 2026 | Club Wintercircus | Ghent |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ trillosta is a techno and trance artist based in Belgium, with 63 gigs on soundc
 
 Wannes Lenaers, Helena Lauwaert, Pegassi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*

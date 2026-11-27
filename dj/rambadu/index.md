@@ -1,6 +1,6 @@
 # Rambadu
 
-Rambadu is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kauz, Zurich on Sat, 26 Dec 2026.
+Rambadu is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kauz, Zurich on Sat, 26 Dec 2026.
 
 Rambadu is a techno and ambient artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Belfast, Berlin and London and 4 more. Often billed alongside Ntogn, Claudio PRC and Cobahn. Next up: Kauz, Zurich on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Rambadu is a techno and ambient artist based in Netherlands, with 14 gigs on sou
 
 Ntogn, Claudio PRC, Cobahn
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rambadu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rambadu/)*

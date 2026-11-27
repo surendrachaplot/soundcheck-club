@@ -1,6 +1,6 @@
 # Thila Ground
 
-Thila Ground is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "snailrecordings curated: Alpha Maid, Vlada & Sina, Digest" on Sun, 29 Nov 2026.
+Thila Ground is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "snailrecordings curated: Alpha Maid, Vlada & Sina, Digest" on Sun, 29 Nov 2026.
 
 Thila Ground is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Andriy K., Easymind, France Jobin and Jana Irmert and 2 more. See dates, start times and who's playing. 2, Tojeong-ro 9-gil, Mapo-gu, Seoul, Republic of Korea.
 
@@ -15,4 +15,4 @@ Thila Ground is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, wi
 
 2, Tojeong-ro 9-gil, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/thila-ground/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/thila-ground/)*

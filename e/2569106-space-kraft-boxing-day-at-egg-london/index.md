@@ -1,6 +1,6 @@
 # Space Kraft: Boxing Day at Egg London
 
-Space Kraft: Boxing Day at Egg London on Sat 26 Dec, London. 3 artists: DREIAN, Raden (UK) and Will Lewis. Trance and Techno. See the line-up on soundcheck.
+Space Kraft: Boxing Day at Egg London on Sat 26 Dec, London. 4 artists: DREIAN, Mosher, Raden (UK) and Will Lewis. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Space Kraft: Boxing Day at Egg London on Sat 26 Dec, London. 3 artists: DREIAN, 
 ## Line-up
 
 - DREIAN
+- Mosher
 - Raden (UK)
 - Will Lewis
 

@@ -1,6 +1,6 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Thirty3hz, South-east on Fri, 27 Nov 2026.
+Pola & Bryson is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Thirty3hz, South-east on Fri, 27 Nov 2026.
 
 Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 90 gigs on soundcheck across Auckland, Baltimore, Barcelona and Berlin and 44 more. Often billed alongside Emily Makis, Hybrid Minds and K Motionz. Next up: Thirty3hz, South East on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 90 gi
 
 Emily Makis, Hybrid Minds, K Motionz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

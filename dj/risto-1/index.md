@@ -1,6 +1,6 @@
 # Risto (1)
 
-Risto (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Low Key Records, Sofia on Fri, 27 Nov 2026.
+Risto (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Low Key Records, Sofia on Fri, 27 Nov 2026.
 
 Risto is a techno and electronica artist based in Bulgaria, with 41 gigs on soundcheck across Münster and Sofia. Often billed alongside Factuaw, Dennis Siemion and Vetomir. Next up: Low Key Records, Sofia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Risto is a techno and electronica artist based in Bulgaria, with 41 gigs on soun
 
 Factuaw, Dennis Siemion, Vetomir
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risto-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/risto-1/)*

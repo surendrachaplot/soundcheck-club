@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
+Charlie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
 
 Charlie is a techno and house artist based in Poland, with 149 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Marsman, Priku and Arapu. Next up: TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Charlie is a techno and house artist based in Poland, with 149 gigs on soundchec
 
 Marsman, Priku, Arapu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie/)*

@@ -1,6 +1,6 @@
 # Steven Weston
 
-Steven Weston is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Lower Third, London on Sun, 31 Jan 2027.
+Steven Weston is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lower Third, London on Sun, 31 Jan 2027.
 
 Steven Weston is a house and electronica artist based in United Kingdom, with 16 gigs on soundcheck across London, Madrid and Nottingham. Often billed alongside Tris (UK), Axel Lewis and Carina Lawrence. Next up: The Lower Third, London on Sun 31 Jan.
 
@@ -25,4 +25,4 @@ Steven Weston is a house and electronica artist based in United Kingdom, with 16
 
 Tris (UK), Axel Lewis, Carina Lawrence
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenweston/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenweston/)*

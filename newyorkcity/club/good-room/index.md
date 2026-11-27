@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Love Games with Dee Diggs, Lauren Murada & Finn Jones, Benny Soto, Frantz" on Fri, 27 Nov 2026.
+Good Room is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Love Games with Dee Diggs, Lauren Murada & Finn Jones, Benny Soto, Frantz" on Fri, 27 Nov 2026.
 
 Good Room is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Adam R, Alinka, Benny Soto and Curses and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 17 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

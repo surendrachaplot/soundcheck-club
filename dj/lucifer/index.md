@@ -1,6 +1,6 @@
 # Lucifer
 
-Lucifer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 19 Dec 2026.
+Lucifer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 19 Dec 2026.
 
 Lucifer is a house and techno artist based in France, with 61 gigs on soundcheck across Cologne, Liverpool, Marseille and Münster and 4 more. Often billed alongside Fenouil2000, Loki Starfish and Kandelissa. Next up: La Station - Gare des Mines, Paris on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Lucifer is a house and techno artist based in France, with 61 gigs on soundcheck
 
 Fenouil2000, Loki Starfish, Kandelissa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*

@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮" on Thu, 26 Nov 2026.
+Underground SF is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "OnSet" on Sat, 28 Nov 2026.
 
-Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including 480P (US), ALICE STRIBLING, Bjørn and BROKE LEG and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including 480P (US), Bjørn, BROKE LEG and day astro and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮 | ALICE STRIBLING |
 | Sat, 28 Nov 2026 | OnSet | Mossmoss, Peter Clarke |
 | Wed, 2 Dec 2026 | Leftfield Holiday Soiree | BROKE LEG, DJ Panderer, PRISKILLA, day astro, jaag (US), nofi, pxlwlkr |
 | Sat, 5 Dec 2026 | Hector Moralez and friends presents 'A Tribe Called Vibe'  |  |
@@ -20,4 +19,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 7
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

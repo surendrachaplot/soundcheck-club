@@ -1,6 +1,6 @@
 # M O N A (US)
 
-M O N A (US) is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mia Mao, Paris on Thu, 10 Dec 2026.
+M O N A (US) is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Thu, 10 Dec 2026.
 
 M O N A (US) is a techno and afro house artist based in United States of America, with 17 gigs on soundcheck across Hamburg, Lisbon, London and Marseille and 3 more. Often billed alongside Alchemist Spider, Future Guy and KimCee. Next up: Mia Mao, Paris on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ M O N A (US) is a techno and afro house artist based in United States of America
 
 Alchemist Spider, Future Guy, KimCee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mona-us/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mona-us/)*

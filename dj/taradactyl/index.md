@@ -1,6 +1,6 @@
 # Taradactyl
 
-Taradactyl is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pisces, Atlanta on Sat, 28 Nov 2026.
+Taradactyl is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pisces, Atlanta on Sat, 28 Nov 2026.
 
 Taradactyl is a house and pop artist based in United States of America, with 12 gigs on soundcheck across Atlanta. Often billed alongside Ree de la Vega and La Vega. Next up: Pisces, Atlanta on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Taradactyl is a house and pop artist based in United States of America, with 12 
 
 Ree de la Vega, La Vega
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taradactyl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taradactyl/)*

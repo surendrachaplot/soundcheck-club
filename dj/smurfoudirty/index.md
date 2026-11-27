@@ -1,6 +1,6 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Good Room, New York City on Fri, 4 Dec 2026.
+SMURFOUDIRTY is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Good Room, New York City on Fri, 4 Dec 2026.
 
 SMURFOUDIRTY is a house and disco artist based in United States of America, with 51 gigs on soundcheck across New York City. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Good Room, New York City on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, with
 
 Regis Noir, Deo'jorge, Anna Collecta
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

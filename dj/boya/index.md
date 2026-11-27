@@ -1,6 +1,6 @@
 # Boyá
 
-Boyá is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Boyá is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Boyá is a house and deep house artist based in Georgia, with 86 gigs on soundcheck across Berlin, Leipzig, Lisbon and Mexico City and 4 more. Often billed alongside skyra, Keto and Dr. Long. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Boyá is a house and deep house artist based in Georgia, with 86 gigs on soundch
 
 skyra, Keto, Dr. Long
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boya/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boya/)*

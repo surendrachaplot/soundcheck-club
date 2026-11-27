@@ -1,6 +1,6 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Revamp 9th Birthday" on Fri, 27 Nov 2026.
+Piccadilly Central is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Revamp 9th Birthday" on Fri, 27 Nov 2026.
 
 Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Milo, April (UK), BAY-BUSH-KA and DJ Scissher and 2 more. See dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
@@ -18,4 +18,4 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcomi
 
 38 London Road, Manchester, M1 2PF, Manchester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*

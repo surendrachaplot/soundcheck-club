@@ -1,6 +1,6 @@
 # Junya
 
-Junya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Royal Lounge, Tokyo on Mon, 7 Dec 2026.
+Junya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Royal Lounge, Tokyo on Mon, 7 Dec 2026.
 
 Junya is a house and techno artist based in Japan, with 84 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and MASSA (JP). Next up: Royal Lounge, Tokyo on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ Junya is a house and techno artist based in Japan, with 84 gigs on soundcheck ac
 
 SIGNAL (JP), MOTOKA, MASSA (JP)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junya/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junya/)*

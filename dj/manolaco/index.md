@@ -1,6 +1,6 @@
 # Manolaco
 
-Manolaco is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Goya Social Club, Madrid on Fri, 27 Nov 2026.
+Manolaco is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Goya Social Club, Madrid on Fri, 27 Nov 2026.
 
 Manolaco is a house and tech house artist, with 86 gigs on soundcheck across Athens, Bucharest, London and Madrid and 3 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Goya Social Club, Madrid on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Manolaco is a house and tech house artist, with 86 gigs on soundcheck across Ath
 
 Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

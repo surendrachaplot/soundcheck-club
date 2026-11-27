@@ -1,6 +1,6 @@
 # Kinso
 
-Kinso is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mint XL, Leeds on Sat, 30 Jan 2027.
+Kinso is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mint XL, Leeds on Sat, 30 Jan 2027.
 
 Kinso is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Leeds, London, Manchester and Newcastle and 2 more. Often billed alongside Luke Reynolds, This & That and Cam Harrop. Next up: Mint XL, Leeds on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Kinso is a house and tech house artist based in United Kingdom, with 37 gigs on 
 
 Luke Reynolds, This & That, Cam Harrop
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinso/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinso/)*

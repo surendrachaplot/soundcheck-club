@@ -1,6 +1,6 @@
 # ALEXANDER M
 
-ALEXANDER M is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at DJ Bar Bridge, Tokyo on Sat, 26 Dec 2026.
+ALEXANDER M is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at DJ Bar Bridge, Tokyo on Sat, 26 Dec 2026.
 
 ALEXANDER M is a house and tech house artist based in Japan, with 141 gigs on soundcheck across Barcelona, Ibiza, London and Manchester and 8 more. Often billed alongside Louis Shannon, EIGHT and GReY. Next up: DJ Bar Bridge, Tokyo on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ ALEXANDER M is a house and tech house artist based in Japan, with 141 gigs on so
 
 Louis Shannon, EIGHT, GReY (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*

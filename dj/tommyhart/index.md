@@ -1,6 +1,6 @@
 # Tommy Hart
 
-Tommy Hart is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Rawhide, New York City on Fri, 27 Nov 2026.
+Tommy Hart is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Rawhide, New York City on Fri, 27 Nov 2026.
 
 Tommy Hart is a house and techno artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 20 more. Often billed alongside Alby Esc, Diz Shocka and Sylvie Forêt. Next up: Club Rawhide, New York City on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Tommy Hart is a house and techno artist based in United States of America, with 
 
 Alby Esc, Diz Shocka, Sylvie Forêt
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*

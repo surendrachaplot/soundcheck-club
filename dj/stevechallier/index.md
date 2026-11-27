@@ -1,6 +1,6 @@
 # Steve Challier
 
-Steve Challier is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Steve Challier is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Steve Challier is a techno and house artist based in Germany, with 41 gigs on soundcheck across Berlin, Hamburg, New York City and Zurich. Often billed alongside Britta Arnold, Mira and Chris Schwarzwälder. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Steve Challier is a techno and house artist based in Germany, with 41 gigs on so
 
 Britta Arnold, Mira, Chris Schwarzwälder
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevechallier/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevechallier/)*

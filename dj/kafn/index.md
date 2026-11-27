@@ -1,6 +1,6 @@
 # Kafn
 
-Kafn is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lab.Club, London on Fri, 27 Nov 2026.
+Kafn is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lab.Club, London on Fri, 27 Nov 2026.
 
 Kafn is an electronica and bass artist based in United Kingdom, with 38 gigs on soundcheck across London. Often billed alongside Benebe, Glittcherz and Adela. Next up: Lab.Club, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kafn is an electronica and bass artist based in United Kingdom, with 38 gigs on 
 
 Benebe, Glittcherz, Adela
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kafn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kafn/)*

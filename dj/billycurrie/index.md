@@ -1,6 +1,6 @@
 # Billy Currie
 
-Billy Currie is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Dec 2026.
+Billy Currie is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Dec 2026.
 
 Billy Currie is a techno and trance artist based in Australia, with 40 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Cologne and 6 more. Often billed alongside Gus McKinna, A.N.I. and Ali James. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Billy Currie is a techno and trance artist based in Australia, with 40 gigs on s
 
 Gus McKinna, A.N.I., Ali James
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billycurrie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billycurrie/)*

@@ -1,6 +1,6 @@
 # Santonio Echols
 
-Santonio Echols is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
+Santonio Echols is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
 
 Santonio Echols is a house and techno artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Detroit and Los Angeles. Often billed alongside Al Ester, DJ Godfather and Kevin Saunderson. Next up: The Bellwether, Los Angeles on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Santonio Echols is a house and techno artist based in United States of America, 
 
 Al Ester, DJ Godfather, Kevin Saunderson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santonioechols-us/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santonioechols-us/)*

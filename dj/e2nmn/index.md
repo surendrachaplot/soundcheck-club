@@ -1,8 +1,8 @@
 # E2NMN
 
-E2NMN is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+E2NMN is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
-E2NMN is a techno and minimal techno artist, with 40 gigs on soundcheck across Berlin, Dresden, Edinburgh and Madrid and 6 more. Often billed alongside Jonas Xenon, APRS and Decoder. Next up: Rote Sonne, Munich on Sat 28 Nov.
+E2NMN is a techno and minimal techno artist, with 41 gigs on soundcheck across Berlin, Dresden, Edinburgh and Madrid and 7 more. Often billed alongside Jonas Xenon, APRS and Decoder. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ E2NMN is a techno and minimal techno artist, with 40 gigs on soundcheck across B
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Rote Sonne | Munich |
 | Thu, 24 Dec 2026 | Lasociaciøn | Madrid |
+| Fri, 19 Mar 2027 | Fundación Cajagranada | South |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ E2NMN is a techno and minimal techno artist, with 40 gigs on soundcheck across B
 
 Jonas Xenon, APRS, Decoder
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e2nmn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e2nmn/)*

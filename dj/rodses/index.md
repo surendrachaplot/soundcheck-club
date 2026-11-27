@@ -1,13 +1,14 @@
 # RODS (ES)
 
-RODS (ES) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
+RODS (ES) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bassement, Madrid on Thu, 10 Dec 2026.
 
-RODS (ES) is a techno and trance artist based in Spain, with 20 gigs on soundcheck across Madrid. Often billed alongside Miguel Rivas, Venus de Milo and CESAR ALMENA. Next up: Fabrik, Madrid on Fri 1 Jan.
+RODS (ES) is a techno and trance artist based in Spain, with 21 gigs on soundcheck across Madrid. Often billed alongside Miguel Rivas, Venus de Milo and CESAR ALMENA. Next up: The Bassement, Madrid on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Dec 2026 | The Bassement | Madrid |
 | Fri, 1 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ RODS (ES) is a techno and trance artist based in Spain, with 20 gigs on soundche
 
 Miguel Rivas, Venus de Milo, CESAR ALMENA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodses/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodses/)*

@@ -14,7 +14,7 @@ HAZE at FS. on Fri 4 Dec, Tokyo. 6 artists: AME (JP), KOSHIRO, nataria and RYUGO
 - KOSHIRO
 - nataria
 - RYUGO
-- Soichiro
+- SOICHIRO(DOWA)
 - XINNOSUKE
 
 *Source: [soundcheck](https://soundcheck.club/e/2589930-haze-at-fs/)*

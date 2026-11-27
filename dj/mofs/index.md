@@ -1,6 +1,6 @@
 # MOFS
 
-MOFS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at KHIDI, Tbilisi on Fri, 27 Nov 2026.
+MOFS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KHIDI, Tbilisi on Fri, 27 Nov 2026.
 
 MOFS is a techno and industrial artist based in Costa Rica, with 16 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Leipzig and 2 more. Often billed alongside Hypnosta, NACHTIGALL and Eve Schwarz. Next up: KHIDI, Tbilisi on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ MOFS is a techno and industrial artist based in Costa Rica, with 16 gigs on soun
 
 Hypnosta, NACHTIGALL, Eve Schwarz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*

@@ -1,6 +1,6 @@
 # xea (1)
 
-xea (1) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Poull, Paris on Fri, 27 Nov 2026.
+xea (1) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Poull, Paris on Fri, 27 Nov 2026.
 
 xea is a bass and techno artist based in France, with 14 gigs on soundcheck across Marseille and Paris. Often billed alongside 42L, Abstraxion and Aloka. Next up: Poull, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ xea is a bass and techno artist based in France, with 14 gigs on soundcheck acro
 
 42L (1), Abstraxion, Aloka
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xea-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xea-1/)*

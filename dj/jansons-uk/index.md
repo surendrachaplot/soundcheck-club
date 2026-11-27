@@ -1,14 +1,15 @@
 # Jansons
 
-Jansons is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Fri, 18 Dec 2026.
+Jansons is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Fri, 18 Dec 2026.
 
-Jansons is a house and tech house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside Prunk, Richy Ahmed and Hot Since 82. Next up: fabric, London on Fri 18 Dec.
+Jansons is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside Prunk, Richy Ahmed and Hot Since 82. Next up: fabric, London on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | fabric | London |
+| Thu, 31 Dec 2026 | Cabaret Voltaire | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jansons is a house and tech house artist based in United Kingdom, with 50 gigs o
 
 Prunk, Richy Ahmed, Hot Since 82
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jansons-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jansons-uk/)*

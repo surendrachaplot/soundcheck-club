@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+HAAi is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-HAAi is a house and techno artist based in Australia, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside salute, DJ BORING and DJ Tennis. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+HAAi is a house and techno artist based in Australia, with 242 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 72 more. Often billed alongside salute, Chloé Caillet and DJ BORING. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ HAAi is a house and techno artist based in Australia, with 241 gigs on soundchec
 
 ## Shares bills with
 
-salute, DJ BORING, DJ Tennis
+salute, Chloé Caillet, DJ BORING
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

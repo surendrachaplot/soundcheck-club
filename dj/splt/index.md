@@ -1,6 +1,6 @@
 # SPLT
 
-SPLT is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Boat - Le Sonic, Lyon on Fri, 4 Dec 2026.
+SPLT is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Boat - Le Sonic, Lyon on Fri, 4 Dec 2026.
 
 SPLT is a techno and bass artist based in France, with 15 gigs on soundcheck across Lyon and Paris. Often billed alongside Rivda, Axonberg and Camu. Next up: Boat - Le Sonic, Lyon on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ SPLT is a techno and bass artist based in France, with 15 gigs on soundcheck acr
 
 Rivda, Axonberg, Camu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/splt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/splt/)*

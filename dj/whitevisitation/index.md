@@ -1,6 +1,6 @@
 # White Visitation
 
-White Visitation is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at nueve cero nueve, Mexico City on Sat, 28 Nov 2026.
+White Visitation is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at nueve cero nueve, Mexico City on Sat, 28 Nov 2026.
 
 White Visitation is a techno and club artist based in Mexico, with 18 gigs on soundcheck across Mexico City. Often billed alongside rodman, AAAA and Lupone. Next up: nueve cero nueve, Mexico City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ White Visitation is a techno and club artist based in Mexico, with 18 gigs on so
 
 rodman, AAAA, Lupone
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whitevisitation/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whitevisitation/)*

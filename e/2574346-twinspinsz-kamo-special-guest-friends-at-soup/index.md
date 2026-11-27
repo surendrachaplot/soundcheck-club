@@ -1,6 +1,6 @@
-# Twinspinsz & kamo 𝜗𝜚⋆₊˚ Special Guest & Friends at Soup
+# Twinspinsz & Kamo 𝜗𝜚⋆₊˚ Special Guest & Friends at Soup
 
-Twinspinsz & kamo 𝜗𝜚⋆₊˚ Special Guest & Friends at Soup on Fri 29 Jan, Manchester. House. See the line-up on soundcheck.
+Twinspinsz & Kamo 𝜗𝜚⋆₊˚ Special Guest & Friends at Soup on Fri 29 Jan, Manchester. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

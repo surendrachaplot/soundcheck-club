@@ -1,14 +1,15 @@
 # Sergio LLamas
 
-Sergio LLamas is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Círculo, Barcelona on Fri, 27 Nov 2026.
+Sergio LLamas is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Círculo, Barcelona on Fri, 27 Nov 2026.
 
-Sergio LLamas is a deep house and techno artist based in Spain, with 55 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside VITALI, Violeta Reynal and Bill Hates. Next up: Círculo, Barcelona on Fri 27 Nov.
+Sergio LLamas is a deep house and house artist based in Spain, with 56 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside VITALI, Violeta Reynal and Althoff. Next up: Círculo, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Círculo | Barcelona |
+| Sat, 12 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sergio LLamas is a deep house and techno artist based in Spain, with 55 gigs on 
 
 ## Shares bills with
 
-VITALI (1), Violeta Reynal, Bill Hates
+VITALI (1), Violeta Reynal, Althoff
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*

@@ -1,8 +1,8 @@
 # Arlo Parks
 
-Arlo Parks is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at VEGA, Copenhagen on Sun, 29 Nov 2026.
+Arlo Parks is a Techno and R&B artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at VEGA, Copenhagen on Sun, 29 Nov 2026.
 
-Arlo Parks is a techno and r&b artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Bristol, Budapest and Copenhagen and 4 more. Often billed alongside Lil Silva, AGY3NA and AndShe. Next up: VEGA, Copenhagen on Sun 29 Nov.
+Arlo Parks is a techno and r&b artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Bristol, Budapest and Copenhagen and 5 more. Often billed alongside BASHKKA, Lil Silva and Oscar Farrell. Next up: VEGA, Copenhagen on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Arlo Parks is a techno and r&b artist based in United Kingdom, with 9 gigs on so
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | VEGA | Copenhagen |
 | Sat, 12 Dec 2026 | Los Globos | Los Angeles |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Arlo Parks is a techno and r&b artist based in United Kingdom, with 9 gigs on so
 
 ## Shares bills with
 
-Lil Silva, AGY3NA, AndShe
+BASHKKA, Lil Silva, Oscar Farrell
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arloparks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arloparks/)*

@@ -1,6 +1,6 @@
 # The Bradley Way
 
-The Bradley Way is a Hip-Hop and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
+The Bradley Way is a Hip-Hop and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
 
 The Bradley Way is a hip-hop and afrobeat artist based in United States of America, with 7 gigs on soundcheck across Mexico City. Often billed alongside Dj Dizam, Black Daria and Jilli P. Next up: Tonal, Mexico City on Wed 25 Nov.
 
@@ -24,4 +24,4 @@ The Bradley Way is a hip-hop and afrobeat artist based in United States of Ameri
 
 Dj Dizam, Black Daria, Jilli P
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebradleyway/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebradleyway/)*

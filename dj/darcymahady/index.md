@@ -1,6 +1,6 @@
 # Darcy Mahady
 
-Darcy Mahady is a Downtempo and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
+Darcy Mahady is a Downtempo and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
 
 Darcy Mahady is a downtempo and dub techno artist based in Australia, with 14 gigs on soundcheck across Berlin, Melbourne and Tbilisi. Often billed alongside New Members, Tom Drew (UK) and Digabuna. Next up: KREUZWERK, Berlin on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Darcy Mahady is a downtempo and dub techno artist based in Australia, with 14 gi
 
 New Members, Tom Drew (UK), Digabuna
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darcymahady/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darcymahady/)*

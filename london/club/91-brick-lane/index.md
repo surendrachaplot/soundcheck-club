@@ -1,8 +1,8 @@
 # 91 Brick Lane
 
-91 Brick Lane is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sounds Like London: Scratchclart (UK Funky Special) + Donsurf" on Sat, 5 Dec 2026.
+91 Brick Lane is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sounds Like London: Scratchclart (UK Funky Special) + Donsurf" on Sat, 5 Dec 2026.
 
-91 Brick Lane is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Lily London, M Hunny, Motu and Scratcha DVA. See dates, start times and who's playing. 91 Brick Lane, London E1 6QL.
+91 Brick Lane is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Lily London, Manara, Pinty and M Hunny and 2 more. See dates, start times and who's playing. 91 Brick Lane, London E1 6QL.
 
 ## What's on
 
@@ -10,9 +10,10 @@
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Sounds Like London: Scratchclart (UK Funky Special) + Donsurf | Lily London, Scratcha DVA |
 | Sat, 12 Dec 2026 | Sounds Like London: DJ Motu + Maja + M Hunny | M Hunny, Motu |
+| Thu, 31 Dec 2026 | NYE Shubz: Manara, Pinty, Eves Drop Collective | Lily London, Manara, Pinty |
 
 ## Address
 
 91 Brick Lane, London E1 6QL, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/91-brick-lane/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/91-brick-lane/)*

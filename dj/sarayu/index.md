@@ -1,6 +1,6 @@
 # Sarayu
 
-Sarayu is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - ambience space, Bangkok on Fri, 27 Nov 2026.
+Sarayu is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - ambience space, Bangkok on Fri, 27 Nov 2026.
 
 Sarayu is a house and techno artist based in Thailand, with 117 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 12 more. Often billed alongside DOTT, Jirus (MELA) and Elaheh. Next up: TBA - ambience space, Bangkok on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Sarayu is a house and techno artist based in Thailand, with 117 gigs on soundche
 
 DOTT, Jirus (MELA), Elaheh
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarayu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarayu/)*

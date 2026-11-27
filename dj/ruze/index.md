@@ -1,6 +1,6 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Fri, 11 Dec 2026.
+RUZE is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Fri, 11 Dec 2026.
 
 RUZE is a house and tech house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: The Cause, London on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ RUZE is a house and tech house artist based in United Kingdom, with 131 gigs on 
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

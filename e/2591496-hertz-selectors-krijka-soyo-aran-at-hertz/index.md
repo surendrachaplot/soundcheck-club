@@ -1,6 +1,6 @@
 # Hertz 헤르츠 Selectors: Krijka Soyo Aran at Hertz
 
-Hertz 헤르츠 Selectors: Krijka Soyo Aran on Fri 27 Nov, Seoul. 2 artists: Krijka and Soyo. Dub and Acid. See the line-up on soundcheck.
+Hertz 헤르츠 Selectors: Krijka Soyo Aran on Fri 27 Nov, Seoul. 2 artists: Krijka and Soyo. Acid and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Solardo
 
-Solardo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 4 Dec 2026.
+Solardo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 4 Dec 2026.
 
 Solardo is a house and tech house artist based in United Kingdom, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 51 more. Often billed alongside Claptone, Andrea Oliva and Vintage Culture. Next up: NX Newcastle, Newcastle on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Solardo is a house and tech house artist based in United Kingdom, with 165 gigs 
 
 Claptone, Andrea Oliva, Vintage Culture
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*

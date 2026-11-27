@@ -1,6 +1,6 @@
 # Cole Terrazas
 
-Cole Terrazas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Prysm Nightclub, Chicago on Thu, 31 Dec 2026.
+Cole Terrazas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Prysm Nightclub, Chicago on Thu, 31 Dec 2026.
 
 Cole Terrazas is a tech house and house artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 7 more. Often billed alongside KinAhau, Beltran and Hank (US). Next up: Prysm Nightclub, Chicago on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Cole Terrazas is a tech house and house artist based in United States of America
 
 KinAhau, Beltran, Hank (US)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleterrazas/)*

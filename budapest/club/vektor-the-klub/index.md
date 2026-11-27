@@ -1,6 +1,6 @@
 # Vektor - The Klub
 
-Vektor - The Klub is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "VEKTOR PHASE - THIRD 2HIFT, Johanna Bozai, Balazs_, Benke" on Fri, 27 Nov 2026.
+Vektor - The Klub is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "VEKTOR PHASE - THIRD 2HIFT, Johanna Bozai, Balazs_, Benke" on Fri, 27 Nov 2026.
 
 Vektor - The Klub is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including 96zen, AGA2L, Balazs_ and BLZS and 2 more. See dates, start times and who's playing. Budapest, 1075, Gozsdu Court hotel, Király u. 13,.
 
@@ -19,4 +19,4 @@ Vektor - The Klub is a music venue in Budapest listed on soundcheck. 6 upcoming 
 
 Budapest, 1075, Gozsdu Court hotel, Király u. 13,, Budapest
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*

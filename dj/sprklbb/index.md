@@ -1,6 +1,6 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Process PDX, Portland on Fri, 4 Dec 2026.
+SPRKLBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Process PDX, Portland on Fri, 4 Dec 2026.
 
 SPRKLBB is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 17 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: Process PDX, Portland on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ SPRKLBB is a house and techno artist based in United States of America, with 80 
 
 Mutualism, Mike Servito, BEIGE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*

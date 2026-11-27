@@ -1,6 +1,6 @@
 # Musumeci
 
-Musumeci is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 27 Nov 2026.
+Musumeci is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 27 Nov 2026.
 
 Musumeci is a house and techno artist based in Italy, with 104 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Noble Savage, Tbilisi on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Musumeci is a house and techno artist based in Italy, with 104 gigs on soundchec
 
 Lehar, Frankey & Sandrino, Phunkadelica
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*

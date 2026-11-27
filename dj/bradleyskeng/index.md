@@ -1,6 +1,6 @@
 # Bradley Skeng
 
-Bradley Skeng is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Culture Box, Copenhagen on Sat, 12 Dec 2026.
+Bradley Skeng is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Culture Box, Copenhagen on Sat, 12 Dec 2026.
 
 Bradley Skeng is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Copenhagen and 2 more. Often billed alongside Joshua James, SYREETA and Viktor Victoria. Next up: Culture Box, Copenhagen on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Bradley Skeng is a house and tech house artist based in United Kingdom, with 40 
 
 Joshua James, SYREETA, Viktor Victoria
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*

@@ -1,14 +1,15 @@
 # Shinshan Salazar
 
-Shinshan Salazar is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Grey Space In The Middle, The Hague on Sat, 5 Dec 2026.
+Shinshan Salazar is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Grey Space In The Middle, The Hague on Sat, 5 Dec 2026.
 
-Shinshan Salazar is a baile funk and house artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Berlin, Bratislava and London and 4 more. Often billed alongside Franky Sticks, T.NO and Galecta. Next up: The Grey Space In The Middle, The Hague on Sat 5 Dec.
+Shinshan Salazar is a baile funk and house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Berlin, Bratislava and London and 4 more. Often billed alongside Franky Sticks, T.NO and Galecta. Next up: The Grey Space In The Middle, The Hague on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The Grey Space In The Middle | The Hague |
+| Thu, 31 Dec 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shinshan Salazar is a baile funk and house artist based in Netherlands, with 33 
 
 Franky Sticks, T.NO, Galecta (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinshansalazar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinshansalazar/)*

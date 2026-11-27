@@ -1,6 +1,6 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Future Yard presents Omega Nebula" on Fri, 27 Nov 2026.
+Future Yard is a music venue in Liverpool with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Future Yard presents Omega Nebula" on Fri, 27 Nov 2026.
 
 Future Yard is a music venue in Liverpool listed on soundcheck. 13 upcoming gigs, with line-ups including Bodega, Congo Natty, Doc Scott and General Levy and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
@@ -23,4 +23,4 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 13 upcoming gigs
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

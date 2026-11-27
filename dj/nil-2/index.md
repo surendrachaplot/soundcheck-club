@@ -1,6 +1,6 @@
 # Nil (2)
 
-Nil (2) is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tbili Orgia, Tbilisi on Sat, 28 Nov 2026.
+Nil (2) is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tbili Orgia, Tbilisi on Sat, 28 Nov 2026.
 
 Nil is a club and drum & bass artist based in Georgia, with 10 gigs on soundcheck across Estado De M Xico, Tbilisi and Tokyo. Often billed alongside Sportsmanship, 2ciu and Audrey Danza. Next up: Tbili Orgia, Tbilisi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nil is a club and drum & bass artist based in Georgia, with 10 gigs on soundchec
 
 Sportsmanship, 2ciu, Audrey Danza
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nil-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nil-2/)*

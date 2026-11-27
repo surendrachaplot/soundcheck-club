@@ -1,6 +1,6 @@
 # Fushiming
 
-Fushiming is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 3 Dec 2026.
+Fushiming is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 3 Dec 2026.
 
 Fushiming is a house and techno artist based in Japan, with 36 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside YO.AN, Haruka Katagata and Mamazu. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Fushiming is a house and techno artist based in Japan, with 36 gigs on soundchec
 
 YO.AN, Haruka Katagata, Mamazu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fushiming/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fushiming/)*

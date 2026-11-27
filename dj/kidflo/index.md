@@ -1,6 +1,6 @@
 # Kidflo
 
-Kidflo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 77, London on Fri, 11 Dec 2026.
+Kidflo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 77, London on Fri, 11 Dec 2026.
 
 Kidflo is an afro house and house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside DUO (UK), Deb FA and Major League Djz. Next up: 77, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kidflo is an afro house and house artist based in United Kingdom, with 18 gigs o
 
 DUO (UK), Deb FA, Major League Djz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidflo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidflo/)*

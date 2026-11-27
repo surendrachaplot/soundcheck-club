@@ -1,6 +1,6 @@
 # Nicodemo
 
-Nicodemo is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MOGO, Milan on Fri, 27 Nov 2026.
+Nicodemo is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MOGO, Milan on Fri, 27 Nov 2026.
 
 Nicodemo is a house and electronica artist based in Italy, with 78 gigs on soundcheck across Berlin, Bologna, Florence and Lausanne and 9 more. Often billed alongside Volantis, Odd Shy Guy and Fabrizio Mammarella. Next up: MOGO, Milan on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Nicodemo is a house and electronica artist based in Italy, with 78 gigs on sound
 
 Volantis, Odd Shy Guy, Fabrizio Mammarella
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*

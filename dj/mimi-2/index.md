@@ -1,6 +1,6 @@
 # M I M I
 
-M I M I is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Triangle, Osaka on Wed, 30 Dec 2026.
+M I M I is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Triangle, Osaka on Wed, 30 Dec 2026.
 
 M I M I is a club and techno artist, with 21 gigs on soundcheck across Antwerp, Berlin, Brussels and Lyon and 1 more. Often billed alongside ojoo, Soumaya Phéline and Bibi Seck. Next up: Triangle, Osaka on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ M I M I is a club and techno artist, with 21 gigs on soundcheck across Antwerp, 
 
 ojoo, Soumaya Phéline, Bibi Seck
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-2/)*

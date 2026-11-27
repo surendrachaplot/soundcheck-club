@@ -1,6 +1,6 @@
 # Tympanic
 
-Tympanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location Barcelona Center, Barcelona on Sat, 28 Nov 2026.
+Tympanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location Barcelona Center, Barcelona on Sat, 28 Nov 2026.
 
 Tympanic is a techno and house artist based in Spain, with 27 gigs on soundcheck across Barcelona. Often billed alongside 9 Lives, ATMEN and Katya La Mar. Next up: TBA - Secret Location Barcelona Center, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tympanic is a techno and house artist based in Spain, with 27 gigs on soundcheck
 
 9 Lives, ATMEN, Katya La Mar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*

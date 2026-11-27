@@ -1,6 +1,6 @@
 # Multivsn
 
-Multivsn is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
+Multivsn is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
 
 Multivsn is a hip-hop and club artist based in South Korea, with 78 gigs on soundcheck across Seoul. Often billed alongside DOBERMAN, SKiiDA and SUJINPAAK. Next up: TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Multivsn is a hip-hop and club artist based in South Korea, with 78 gigs on soun
 
 DOBERMAN, SKiiDA, SUJINPAAK
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multivsn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multivsn/)*

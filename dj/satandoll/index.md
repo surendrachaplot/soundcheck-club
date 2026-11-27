@@ -1,6 +1,6 @@
 # satandoll
 
-satandoll is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
+satandoll is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 satandoll is a footwork and club artist based in United States of America, with 31 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside DJ Fat Frog, dj 5spice and AG. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ satandoll is a footwork and club artist based in United States of America, with 
 
 DJ Fat Frog, dj 5spice, AG (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satandoll/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satandoll/)*

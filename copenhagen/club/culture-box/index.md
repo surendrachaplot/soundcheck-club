@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Kardinal Bertram / steamboi / LMN + SoundConnects 3rd Birthday" on Fri, 27 Nov 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Kardinal Bertram / steamboi / LMN + SoundConnects 3rd Birthday" on Fri, 27 Nov 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming gigs, with line-ups including Aerocell, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Aerocell, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming gig
 | Fri, 11 Dec 2026 | Iboga: Ticon / Emok / Zora / Umloud / Sofa Beats: Tim Andresen / Alexander Descroix | Emok, Tim Andresen |
 | Sat, 12 Dec 2026 | HE.SHE.THEY. x SYREN: SYREETA / Bradley Skeng / YOON / DJ 2LATE / ASTA MARI | ASTA MARI, Bradley Skeng, DJ 2LATE, SYREETA, YOON |
 | Fri, 18 Dec 2026 | Elevate presents Bass Rave | AMITTET, ASTA MARI, Deb Foam, JACOBXFREY, MNSTR |
+| Fri, 18 Dec 2026 | PORTALEN | AMITTET, ASTA MARI, Deb Foam, JACOBXFREY, MNSTR |
 | Sat, 19 Dec 2026 | What Happens Christmas Extravaganza: Tim Andresen / Lean Robotti / Rexie Lex / Larsh / Eusherr | Rexie Lex, Tim Andresen |
 | Sat, 19 Dec 2026 | What Happens Christmas Extravaganza – DINNER |  |
-| Sat, 26 Dec 2026 | Open Call For Artists: a la Monte / Clara Andreis / Diego (CL) / ITB / Guille Gatti |  |
 
 ## Address
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

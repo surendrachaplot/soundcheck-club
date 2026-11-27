@@ -1,6 +1,6 @@
 # Samuelx
 
-Samuelx is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 12 Dec 2026.
+Samuelx is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 12 Dec 2026.
 
 Samuelx is a club and techno artist based in United States of America, with 7 gigs on soundcheck across New York City and Washington DC. Often billed alongside ASTER (DJ), Cure2 and Franxx. Next up: Sinners and Saints, Washington DC on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Samuelx is a club and techno artist based in United States of America, with 7 gi
 
 ASTER (DJ), Cure2, Franxx
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*

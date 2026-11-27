@@ -1,15 +1,17 @@
 # Don Barbarino
 
-Don Barbarino is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Salon Daomé, Montreal on Sun, 29 Nov 2026.
+Don Barbarino is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Sun, 29 Nov 2026.
 
-Don Barbarino is a house and afro house artist based in Canada, with 20 gigs on soundcheck across Montreal and Toronto. Often billed alongside Akpossoul, DJ Michael Terzian and UZI (Soulmeka). Next up: Salon Daomé, Montreal on Sun 29 Nov.
+Don Barbarino is a house and afro house artist based in Canada, with 22 gigs on soundcheck across Montreal and Toronto. Often billed alongside Akpossoul, DJ Michael Terzian and UZI (Soulmeka). Next up: Salon Daomé, Montreal on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Salon Daomé | Montreal |
+| Fri, 11 Dec 2026 | Vino Disco | Montreal |
 | Sat, 26 Dec 2026 | Système | Montreal |
+| Sun, 27 Dec 2026 | Salon Daomé | Montreal |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Don Barbarino is a house and afro house artist based in Canada, with 20 gigs on 
 
 Akpossoul, DJ Michael Terzian, UZI (Soulmeka)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donbarbarino/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donbarbarino/)*

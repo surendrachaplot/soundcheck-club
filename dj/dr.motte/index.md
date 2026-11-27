@@ -1,6 +1,6 @@
 # Dr. Motte
 
-Dr. Motte is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Dr. Motte is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 Dr. Motte is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hannover and 9 more. Often billed alongside Daniel Boon, Basstronauten and DAZA. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Dr. Motte is a techno and house artist based in Germany, with 43 gigs on soundch
 
 Daniel Boon, Basstronauten, DAZA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.motte/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.motte/)*

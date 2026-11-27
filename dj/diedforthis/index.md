@@ -1,14 +1,15 @@
 # diedforthis
 
-diedforthis is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
+diedforthis is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hart Bar, New York City on Fri, 4 Dec 2026.
 
-diedforthis is a house and funk / soul artist based in United States of America, with 34 gigs on soundcheck across Detroit and New York City. Often billed alongside Dj Ellie, Extra Meesh and ATTHEMOMENT. Next up: Hart Bar, New York City on Fri 4 Dec.
+diedforthis is a house and funk / soul artist based in United States of America, with 35 gigs on soundcheck across Detroit and New York City. Often billed alongside Dj Ellie, Extra Meesh and ATTHEMOMENT. Next up: Hart Bar, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Hart Bar | New York City |
+| Thu, 17 Dec 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ diedforthis is a house and funk / soul artist based in United States of America,
 
 Dj Ellie, Extra Meesh, ATTHEMOMENT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diedforthis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diedforthis/)*

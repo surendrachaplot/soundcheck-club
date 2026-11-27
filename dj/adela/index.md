@@ -1,6 +1,6 @@
 # Adela
 
-Adela is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+Adela is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 Adela is a deep house and progressive house artist based in United Kingdom, with 53 gigs on soundcheck across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: Bricks, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Adela is a deep house and progressive house artist based in United Kingdom, with
 
 Benebe, Faded Society, Glittcherz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*

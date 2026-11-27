@@ -1,6 +1,6 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "A week-end with Anetha" on Fri, 27 Nov 2026.
+Le Sucre is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "A week-end with Anetha" on Fri, 27 Nov 2026.
 
 Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with line-ups including Agonis, Akira, Anetha and Cedot and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
@@ -23,4 +23,4 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with l
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

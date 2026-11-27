@@ -1,6 +1,6 @@
 # 333 House presents: Caim at TBA - 333
 
-333 House presents: Caim at TBA - 333 on Sat 28 Nov, New York City. 2 artists: Caim and Lorenzo Slider. Techno and House. See the line-up on soundcheck.
+333 House presents: Caim at TBA - 333 on Sat 28 Nov, New York City. 4 artists: Caim, Dani Moon, Mindskip and Woreq. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@
 ## Line-up
 
 - Caim
-- Lorenzo Slider
+- Dani Moon
+- Mindskip
+- Woreq
 
 *Source: [soundcheck](https://soundcheck.club/e/2591852-333-house-presents-caim-at-tba-333/)*

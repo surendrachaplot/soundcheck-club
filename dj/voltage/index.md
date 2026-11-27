@@ -1,6 +1,6 @@
 # Voltage
 
-Voltage is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at THÊ Depø Venue, West-wales on Fri, 4 Dec 2026.
+Voltage is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at THÊ Depø Venue, West-wales on Fri, 4 Dec 2026.
 
 Voltage is a drum & bass and jungle artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Auckland, Austria and Bali and 18 more. Often billed alongside Turno, Bladerunner and Inja. Next up: THÊ Depø Venue, West Wales on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Voltage is a drum & bass and jungle artist based in United Kingdom, with 70 gigs
 
 Turno, Bladerunner, Inja
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*

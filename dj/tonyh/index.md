@@ -1,6 +1,6 @@
 # Tony H
 
-Tony H is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Tony H is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Tony H is a house and tech house artist based in United States of America, with 53 gigs on soundcheck across Detroit, Los Angeles, Miami and Seattle and 1 more. Often billed alongside Julie Herrera, Christine Michelle and Doc Brown. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Tony H is a house and tech house artist based in United States of America, with 
 
 Julie Herrera, Christine Michelle, Doc Brown
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyh/)*

@@ -1,6 +1,6 @@
 # Chloe Lula
 
-Chloe Lula is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Fri, 4 Dec 2026.
+Chloe Lula is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Fri, 4 Dec 2026.
 
 Chloe Lula is a techno and experimental artist based in Germany, with 16 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bologna and 1 more. Often billed alongside Ireen Amnes, Barbara Preisinger and DAHRAXT. Next up: Renate, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Chloe Lula is a techno and experimental artist based in Germany, with 16 gigs on
 
 Ireen Amnes, Barbara Preisinger, DAHRAXT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*

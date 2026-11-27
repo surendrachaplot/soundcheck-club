@@ -1,14 +1,13 @@
 # Medlock
 
-Medlock is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+Medlock is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yes, Manchester on Sat, 28 Nov 2026.
 
-Medlock is a techno and experimental artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, London, Manchester and Milan and 1 more. Often billed alongside colell, HØLEIGH and KD22LR. Next up: renae, Manchester on Fri 27 Nov.
+Medlock is a techno and experimental artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, London, Manchester and Milan and 1 more. Often billed alongside colell, HØLEIGH and KD22LR. Next up: Yes, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | renae | Manchester |
 | Sat, 28 Nov 2026 | Yes | Manchester |
 
 ## Recently played
@@ -26,4 +25,4 @@ Medlock is a techno and experimental artist based in United Kingdom, with 16 gig
 
 colell, HØLEIGH, KD22LR
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*

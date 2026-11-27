@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MONKEY LOVE pres. BERT x SELIGA" on Fri, 27 Nov 2026.
+MONKEY LOVE is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MONKEY LOVE pres. BERT x SELIGA" on Fri, 27 Nov 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Franczesko, Jellin and jiyun kim. See dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -17,4 +17,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, wi
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

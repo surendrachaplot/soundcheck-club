@@ -1,6 +1,6 @@
 # Jakkob
 
-Jakkob is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Electric Bristol, Bristol on Sat, 28 Nov 2026.
+Jakkob is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Electric Bristol, Bristol on Sat, 28 Nov 2026.
 
 Jakkob is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Auckland, Bali and Birmingham and 14 more. Often billed alongside Hywel Gregory, Fredd Mann and Bo Conquest. Next up: Electric Bristol, Bristol on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jakkob is a house and tech house artist based in United Kingdom, with 51 gigs on
 
 Hywel Gregory, Fredd Mann, Bo Conquest
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkob-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkob-uk/)*

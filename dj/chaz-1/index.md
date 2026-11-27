@@ -1,6 +1,6 @@
 # Chaz Moloney
 
-Chaz Moloney is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
+Chaz Moloney is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
 
 Chaz Moloney is a techno and experimental artist based in Ireland, with 44 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside brawni, Offtrack and Rustal. Next up: Renate, Berlin on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Chaz Moloney is a techno and experimental artist based in Ireland, with 44 gigs 
 
 brawni, Offtrack, Rustal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaz-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaz-1/)*

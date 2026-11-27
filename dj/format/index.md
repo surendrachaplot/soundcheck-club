@@ -1,6 +1,6 @@
 # Format
 
-Format is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 23 Jan 2027.
+Format is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 23 Jan 2027.
 
 Format is a house and techno artist, with 8 gigs on soundcheck across Bristol, Guadalajara, Lisbon and Mexico City and 3 more. Often billed alongside Adam Khan, Audiophile and DJ B2B. Next up: Société des arts technologiques, Montreal on Sat 23 Jan.
 
@@ -24,4 +24,4 @@ Format is a house and techno artist, with 8 gigs on soundcheck across Bristol, G
 
 Adam Khan, Audiophile, DJ B2B
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/format/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/format/)*

@@ -1,6 +1,6 @@
 # Subtrax
 
-Subtrax is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+Subtrax is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 Subtrax is a techno and trance artist based in United Kingdom, with 17 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Headstorm, Faster Horses and Lisek. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Subtrax is a techno and trance artist based in United Kingdom, with 17 gigs on s
 
 Headstorm, Faster Horses, Lisek
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subtrax/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subtrax/)*

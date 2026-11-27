@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Tiga is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 Tiga is a techno and house artist based in Canada, with 134 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 44 more. Often billed alongside DJ Holographic, DJ Tennis and Avalon Emerson. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Tiga is a techno and house artist based in Canada, with 134 gigs on soundcheck a
 
 DJ Holographic, DJ Tennis, Avalon Emerson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

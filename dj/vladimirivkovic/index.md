@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bongo Joe, Geneva on Thu, 3 Dec 2026.
+Vladimir Ivkovic is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bongo Joe, Geneva on Thu, 3 Dec 2026.
 
 Vladimir Ivkovic is a techno and house artist based in Germany, with 248 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 82 more. Often billed alongside Lena Willikens, Ivan Smagghe and Jane Fitz. Next up: Bongo Joe, Geneva on Thu 3 Dec.
 
@@ -36,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 248 gigs on
 
 Lena Willikens, Ivan Smagghe, Jane Fitz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

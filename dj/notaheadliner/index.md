@@ -1,8 +1,8 @@
 # Not A Headliner
 
-Not A Headliner is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Secret Location, London on Sat, 28 Nov 2026.
+Not A Headliner is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Secret Location, London on Sat, 28 Nov 2026.
 
-Not A Headliner is a techno and house artist, with 59 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Héctor Oaks, P.E.A.R.L. and Laia. Next up: Secret Location, London on Sat 28 Nov.
+Not A Headliner is a techno and house artist, with 60 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Héctor Oaks, P.E.A.R.L. and Laia. Next up: Secret Location, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Not A Headliner is a techno and house artist, with 59 gigs on soundcheck across 
 | Sat, 5 Dec 2026 | TBA - Secret Location | Madrid |
 | Sat, 26 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 31 Dec 2026 | Spook Club | Valencia |
+| Fri, 1 Jan 2027 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Not A Headliner is a techno and house artist, with 59 gigs on soundcheck across 
 
 Héctor Oaks, P.E.A.R.L., Laia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notaheadliner/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notaheadliner/)*

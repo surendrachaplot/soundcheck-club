@@ -1,6 +1,6 @@
 # Comethisfar
 
-Comethisfar is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bassiani, Tbilisi on Fri, 18 Dec 2026.
+Comethisfar is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bassiani, Tbilisi on Fri, 18 Dec 2026.
 
 Comethisfar is a techno artist based in Georgia, with 31 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside gwän, Uväll and Mancho. Next up: Bassiani, Tbilisi on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Comethisfar is a techno artist based in Georgia, with 31 gigs on soundcheck acro
 
 gwän, Uväll, Mancho
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comethisfar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comethisfar/)*

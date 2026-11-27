@@ -1,6 +1,6 @@
 # Mia Maya
 
-Mia Maya is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Mia Maya is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Mia Maya is a house and tech house artist, with 16 gigs on soundcheck across Seattle and Vancouver. Often billed alongside David Ardila, Shades of Day and Mai Tai. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Mia Maya is a house and tech house artist, with 16 gigs on soundcheck across Sea
 
 David Ardila, Shades of Day, Mai Tai
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamaya/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamaya/)*

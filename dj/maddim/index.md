@@ -1,6 +1,6 @@
 # Mad Dim
 
-Mad Dim is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ikii, Berlin on Fri, 18 Dec 2026.
+Mad Dim is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ikii, Berlin on Fri, 18 Dec 2026.
 
 Mad Dim is an ambient and electronica artist based in Germany, with 20 gigs on soundcheck across Barcelona, Berlin and Sofia. Often billed alongside Alejandro Mosso, Benjamin Fehr and Cesare vs Disorder. Next up: Ikii, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mad Dim is an ambient and electronica artist based in Germany, with 20 gigs on s
 
 Alejandro Mosso, Benjamin Fehr, Cesare vs Disorder
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddim/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddim/)*

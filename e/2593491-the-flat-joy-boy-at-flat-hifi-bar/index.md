@@ -1,6 +1,6 @@
 # The Flat: Joy Boy at Flat HiFi Bar
 
-The Flat: Joy Boy at Flat HiFi Bar on Sat 12 Dec, Madrid. 1 artist: Joy Boy. See the line-up on soundcheck.
+The Flat: Joy Boy at Flat HiFi Bar on Sat 12 Dec, Madrid. 1 artist: JoyBoy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ The Flat: Joy Boy at Flat HiFi Bar on Sat 12 Dec, Madrid. 1 artist: Joy Boy. See
 
 ## Line-up
 
-- Joy Boy
+- JoyBoy
 
 *Source: [soundcheck](https://soundcheck.club/e/2593491-the-flat-joy-boy-at-flat-hifi-bar/)*

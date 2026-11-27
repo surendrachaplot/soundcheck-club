@@ -1,17 +1,18 @@
 # Chopstick (3)
 
-Chopstick (3) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Blvck Water, Osaka on Wed, 25 Nov 2026.
+Chopstick (3) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blvck Water, Osaka on Sat, 5 Dec 2026.
 
-Chopstick is a techno and psytrance artist based in Japan, with 8 gigs on soundcheck across Osaka. Often billed alongside WOLT, YUKI.T and CHISE. Next up: Blvck Water, Osaka on Wed 25 Nov.
+Chopstick is a techno and psytrance artist based in Japan, with 9 gigs on soundcheck across Osaka. Often billed alongside WOLT, YUKI.T and CHISE. Next up: Blvck Water, Osaka on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Blvck Water | Osaka |
+| Sat, 5 Dec 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
+- Blvck Water, Osaka · Wed, 25 Nov 2026
 - Blvck Water, Osaka · Wed, 11 Nov 2026
 - Blvck Water, Osaka · Wed, 4 Nov 2026
 - Blvck Water, Osaka · Wed, 28 Oct 2026
@@ -24,4 +25,4 @@ Chopstick is a techno and psytrance artist based in Japan, with 8 gigs on soundc
 
 WOLT, YUKI.T, CHISE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chopstick-3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chopstick-3/)*

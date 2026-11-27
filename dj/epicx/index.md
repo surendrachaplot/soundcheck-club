@@ -1,6 +1,6 @@
 # Epicx
 
-Epicx is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Insomnia, Berlin on Sat, 12 Dec 2026.
+Epicx is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Insomnia, Berlin on Sat, 12 Dec 2026.
 
 Epicx is a techno and trance artist based in Syria, with 129 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Anubix, Emma and DJ Jordan. Next up: Insomnia, Berlin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Epicx is a techno and trance artist based in Syria, with 129 gigs on soundcheck 
 
 Anubix, Emma (8), DJ Jordan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*

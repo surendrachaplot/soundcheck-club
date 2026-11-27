@@ -1,6 +1,6 @@
 # System Olympia
 
-System Olympia is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gretchen, Berlin on Sun, 6 Dec 2026.
+System Olympia is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gretchen, Berlin on Sun, 6 Dec 2026.
 
 System Olympia is a house and disco artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 23 more. Often billed alongside Move D, Attila and Bushbby. Next up: Gretchen, Berlin on Sun 6 Dec.
 
@@ -27,4 +27,4 @@ System Olympia is a house and disco artist based in United Kingdom, with 83 gigs
 
 Move D, Attila, Bushbby
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*

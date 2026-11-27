@@ -1,8 +1,8 @@
 # Rafa Barrios
 
-Rafa Barrios is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Coda, Toronto on Fri, 27 Nov 2026.
+Rafa Barrios is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Coda, Toronto on Fri, 27 Nov 2026.
 
-Rafa Barrios is a tech house and house artist based in Spain, with 90 gigs on soundcheck across Austin, Barcelona, Berlin and Bogotá and 23 more. Often billed alongside Paco Osuna, Hector Couto and Chelina Manuhutu. Next up: Coda, Toronto on Fri 27 Nov.
+Rafa Barrios is a tech house and house artist based in Spain, with 91 gigs on soundcheck across Austin, Barcelona, Berlin and Bogotá and 23 more. Often billed alongside Paco Osuna, Chelina Manuhutu and Hector Couto. Next up: Coda, Toronto on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rafa Barrios is a tech house and house artist based in Spain, with 90 gigs on so
 | Fri, 27 Nov 2026 | Coda | Toronto |
 | Sat, 28 Nov 2026 | Spybar | Chicago |
 | Fri, 18 Dec 2026 | Loo Loo | Mexico City |
+| Fri, 1 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Rafa Barrios is a tech house and house artist based in Spain, with 90 gigs on so
 
 ## Shares bills with
 
-Paco Osuna, Hector Couto, Chelina Manuhutu
+Paco Osuna, Chelina Manuhutu, Hector Couto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabarrios/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabarrios/)*

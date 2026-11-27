@@ -1,14 +1,15 @@
 # Amapola Rose
 
-Amapola Rose is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dallas Club, Mexico City on Fri, 27 Nov 2026.
+Amapola Rose is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dallas Club, Mexico City on Fri, 27 Nov 2026.
 
-Amapola Rose is a techno and electronica artist based in Mexico, with 41 gigs on soundcheck across Mexico City and New York City. Often billed alongside Choi, Alexandria (MX) and Santa Bina. Next up: Dallas Club, Mexico City on Fri 27 Nov.
+Amapola Rose is a techno and electronica artist based in Mexico, with 42 gigs on soundcheck across Mexico City and New York City. Often billed alongside Choi, Alexandria (MX) and Santa Bina. Next up: Dallas Club, Mexico City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Dallas Club | Mexico City |
+| Thu, 3 Dec 2026 | un club bonito | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Amapola Rose is a techno and electronica artist based in Mexico, with 41 gigs on
 
 Choi, Alexandria (MX), Santa Bina
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*

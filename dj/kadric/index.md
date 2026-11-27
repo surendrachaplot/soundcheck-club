@@ -1,6 +1,6 @@
 # Kadric
 
-Kadric is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 4 Dec 2026.
+Kadric is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 4 Dec 2026.
 
 Kadric is a techno artist based in Switzerland, with 3 gigs on soundcheck across Bern and Lausanne. Often billed alongside David Kawka, Kevqube and Andy Katz. Next up: TBA - Sous Soul, Bern on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Kadric is a techno artist based in Switzerland, with 3 gigs on soundcheck across
 
 David Kawka, Kevqube, Andy Katz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadric/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadric/)*

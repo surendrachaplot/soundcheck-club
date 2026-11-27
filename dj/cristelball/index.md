@@ -1,6 +1,6 @@
 # Cristel Ball
 
-Cristel Ball is a Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NAR, Utrecht on Sat, 28 Nov 2026.
+Cristel Ball is a Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at NAR, Utrecht on Sat, 28 Nov 2026.
 
 Cristel Ball is a post-punk artist, with 23 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Bonne Reijn, DJ Bone and Eric Fender. Next up: NAR, Utrecht on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cristel Ball is a post-punk artist, with 23 gigs on soundcheck across Amsterdam 
 
 Bonne Reijn, DJ Bone, Eric Fender
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristelball/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristelball/)*

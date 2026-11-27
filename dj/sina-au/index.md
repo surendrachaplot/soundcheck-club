@@ -1,14 +1,13 @@
 # Sina (AU)
 
-Sina (AU) is a Ambient and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mudaeruk, Seoul on Fri, 27 Nov 2026.
+Sina (AU) is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Thila Ground, Seoul on Sun, 29 Nov 2026.
 
-Sina (AU) is an ambient and experimental artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Berlin, Detroit and Lisbon and 10 more. Often billed alongside Vlada, Kavil and Tangerine. Next up: Mudaeruk, Seoul on Fri 27 Nov.
+Sina (AU) is an ambient and experimental artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Berlin, Detroit and Lisbon and 10 more. Often billed alongside Vlada, Kavil and Tangerine. Next up: Thila Ground, Seoul on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Mudaeruk | Seoul |
 | Sun, 29 Nov 2026 | Thila Ground | Seoul |
 | Fri, 4 Dec 2026 | Mitsuki | Tokyo |
 
@@ -27,4 +26,4 @@ Sina (AU) is an ambient and experimental artist based in Australia, with 43 gigs
 
 Vlada, Kavil, Tangerine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*

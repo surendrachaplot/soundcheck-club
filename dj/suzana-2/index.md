@@ -1,6 +1,6 @@
 # Suzana
 
-Suzana is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+Suzana is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 Suzana is a techno artist based in Serbia, with 8 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Stameni, laccotti and Razzor. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Suzana is a techno artist based in Serbia, with 8 gigs on soundcheck across Belg
 
 Stameni, laccotti, Razzor
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzana-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzana-2/)*

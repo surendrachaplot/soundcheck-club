@@ -1,6 +1,6 @@
 # Lanav
 
-Lanav is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at LAUT, Barcelona on Fri, 11 Dec 2026.
+Lanav is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at LAUT, Barcelona on Fri, 11 Dec 2026.
 
 Lanav is a techno and bass artist based in Spain, with 43 gigs on soundcheck across Barcelona, London, Madrid and New York City and 1 more. Often billed alongside Jehia, Just Claudia and DjSport. Next up: LAUT, Barcelona on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Lanav is a techno and bass artist based in Spain, with 43 gigs on soundcheck acr
 
 Jehia, Just Claudia, DjSport
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanav/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanav/)*

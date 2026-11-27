@@ -1,6 +1,6 @@
 # Trancy
 
-Trancy is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bootshaus, Cologne on Fri, 1 Jan 2027.
+Trancy is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Fri, 1 Jan 2027.
 
 Trancy is a trance and techno artist based in Germany, with 3 gigs on soundcheck across Amsterdam, Cologne and London. Often billed alongside Cleopard2000, LSG and Mika Heggemann. Next up: Bootshaus, Cologne on Fri 1 Jan.
 
@@ -16,4 +16,4 @@ Trancy is a trance and techno artist based in Germany, with 3 gigs on soundcheck
 
 Cleopard2000, LSG, Mika Heggemann
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancy/)*

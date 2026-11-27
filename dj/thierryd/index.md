@@ -1,6 +1,6 @@
 # Thierry D
 
-Thierry D is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
+Thierry D is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
 
 Thierry D is a drum & bass and jungle artist based in Australia, with 24 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Kate Savage, Floga and Kevin C. Next up: Factory Theatre, Sydney on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Thierry D is a drum & bass and jungle artist based in Australia, with 24 gigs on
 
 Kate Savage, Floga, Kevin C
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thierryd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thierryd/)*

@@ -1,6 +1,6 @@
 # MATHILDA (2)
 
-MATHILDA (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SASS Music Club, Vienna on Fri, 11 Dec 2026.
+MATHILDA (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at SASS Music Club, Vienna on Fri, 11 Dec 2026.
 
 MATHILDA is a techno and house artist based in Germany, with 71 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 5 more. Often billed alongside Carluschka, DJ SPORTSCHUH and Talia Dorr. Next up: SASS Music Club, Vienna on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ MATHILDA is a techno and house artist based in Germany, with 71 gigs on soundche
 
 Carluschka, DJ SPORTSCHUH, Talia Dorr
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*

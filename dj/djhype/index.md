@@ -1,6 +1,6 @@
 # DJ Hype
 
-DJ Hype is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+DJ Hype is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 DJ Hype is a drum & bass and jungle artist based in United Kingdom, with 92 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 28 more. Often billed alongside IC3, Nicky Blackmarket and Dillinja. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ DJ Hype is a drum & bass and jungle artist based in United Kingdom, with 92 gigs
 
 IC3, Nicky Blackmarket, Dillinja
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*

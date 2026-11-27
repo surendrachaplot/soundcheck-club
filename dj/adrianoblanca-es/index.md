@@ -1,6 +1,6 @@
 # Adrian Oblanca
 
-Adrian Oblanca is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Powered by Void Acoustics, Madrid on Fri, 1 Jan 2027.
+Adrian Oblanca is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Powered by Void Acoustics, Madrid on Fri, 1 Jan 2027.
 
 Adrian Oblanca is a techno and electronica artist based in Spain, with 5 gigs on soundcheck across Barcelona, Madrid and Mallorca. Often billed alongside Crissis, DJ Lukas and Dinamite. Next up: TBA - Powered by Void Acoustics, Madrid on Fri 1 Jan.
 
@@ -21,4 +21,4 @@ Adrian Oblanca is a techno and electronica artist based in Spain, with 5 gigs on
 
 Crissis, DJ Lukas, Dinamite
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoblanca-es/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoblanca-es/)*

@@ -1,6 +1,6 @@
 # Nixss
 
-Nixss is a Guaracha and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Video Club, Bogotá on Fri, 4 Dec 2026.
+Nixss is a Guaracha and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Video Club, Bogotá on Fri, 4 Dec 2026.
 
 Nixss is a guaracha and club artist based in Colombia, with 20 gigs on soundcheck across Berlin, Bogot, Bogotá and Budapest and 5 more. Often billed alongside 2AT, Aleroj and Isablu. Next up: Video Club, Bogotá on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nixss is a guaracha and club artist based in Colombia, with 20 gigs on soundchec
 
 2AT, Aleroj, Isablu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nixss/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nixss/)*

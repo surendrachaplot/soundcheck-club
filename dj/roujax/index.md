@@ -1,6 +1,6 @@
 # roujax
 
-roujax is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Carmo Rooftop, Lisbon on Fri, 4 Dec 2026.
+roujax is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Carmo Rooftop, Lisbon on Fri, 4 Dec 2026.
 
 roujax is a tech house and techno artist, with 6 gigs on soundcheck across Lisbon and Warsaw. Often billed alongside Mayan (PT), 4IN and Bertrand P. Next up: Carmo Rooftop, Lisbon on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ roujax is a tech house and techno artist, with 6 gigs on soundcheck across Lisbo
 
 Mayan (PT), 4IN, Bertrand P
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roujax/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roujax/)*

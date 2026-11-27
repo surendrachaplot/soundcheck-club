@@ -1,6 +1,6 @@
 # Korey Dobson
 
-Korey Dobson is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Brown Alley, Melbourne on Fri, 27 Nov 2026.
+Korey Dobson is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Brown Alley, Melbourne on Fri, 27 Nov 2026.
 
 Korey Dobson is a techno and trance artist based in Australia, with 18 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Etwas, GavWhitehouse and Toska. Next up: Brown Alley, Melbourne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Korey Dobson is a techno and trance artist based in Australia, with 18 gigs on s
 
 Etwas, GavWhitehouse, Toska
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koreydobson/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koreydobson/)*

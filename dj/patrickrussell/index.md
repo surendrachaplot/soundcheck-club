@@ -1,6 +1,6 @@
 # Patrick Russell
 
-Patrick Russell is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Volnost, Seoul on Fri, 27 Nov 2026.
+Patrick Russell is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Volnost, Seoul on Fri, 27 Nov 2026.
 
 Patrick Russell is a techno and acid artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 22 more. Often billed alongside Erika, Mike Servito and BMG. Next up: Volnost, Seoul on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Patrick Russell is a techno and acid artist based in United States of America, w
 
 Erika, Mike Servito, BMG
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrussell/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrussell/)*

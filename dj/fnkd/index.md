@@ -1,6 +1,6 @@
 # FNKD
 
-FNKD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Palais, London on Fri, 18 Dec 2026.
+FNKD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Palais, London on Fri, 18 Dec 2026.
 
 FNKD is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Bristol and London. Often billed alongside Manami, Cam Joon and Ellie Stokes. Next up: Palais, London on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ FNKD is a house and techno artist based in United Kingdom, with 21 gigs on sound
 
 Manami, Cam Joon, Ellie Stokes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fnkd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fnkd/)*

@@ -1,6 +1,6 @@
 # Craggyland
 
-Craggyland is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Strange Field, Glasgow on Thu, 10 Dec 2026.
+Craggyland is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Strange Field, Glasgow on Thu, 10 Dec 2026.
 
 Craggyland is an experimental and club artist based in United Kingdom, with 13 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Acido Cielo, manu_facturer and polyterror. Next up: Strange Field, Glasgow on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Craggyland is an experimental and club artist based in United Kingdom, with 13 g
 
 Acido Cielo, manu_facturer, polyterror
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craggyland/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craggyland/)*

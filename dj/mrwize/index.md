@@ -1,6 +1,6 @@
 # MRWIZE
 
-MRWIZE is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio 1111, Berlin on Thu, 10 Dec 2026.
+MRWIZE is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio 1111, Berlin on Thu, 10 Dec 2026.
 
 MRWIZE is a baile funk and club artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, Glasgow, Helsinki and Ho Chi Minh City and 7 more. Often billed alongside KISEWA, Mvcoko and NET GALA. Next up: Studio 1111, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ MRWIZE is a baile funk and club artist based in United Kingdom, with 17 gigs on 
 
 KISEWA, Mvcoko, NET GALA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwize/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwize/)*

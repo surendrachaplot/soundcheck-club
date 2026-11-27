@@ -1,6 +1,6 @@
 # Neri J
 
-Neri J is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Copenhagen on Sat, 12 Dec 2026.
+Neri J is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Copenhagen on Sat, 12 Dec 2026.
 
 Neri J is a techno and trance artist based in Denmark, with 78 gigs on soundcheck across Barcelona, Beijing, Berlin and Chengdu and 9 more. Often billed alongside Matriark, Elias Gozal and HORNS. Next up: TBA, Copenhagen on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Neri J is a techno and trance artist based in Denmark, with 78 gigs on soundchec
 
 Matriark, Elias Gozal, HORNS (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerij-dk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerij-dk/)*

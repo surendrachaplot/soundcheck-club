@@ -1,6 +1,6 @@
 # ELFENCI presents LEYO (Defected / Cécille) at CDLC Barcelona
 
-ELFENCI presents LEYO (Defected / Cécille) at CDLC Barcelona on Sat 19 Dec, Barcelona. 1 artist: LUXX. House and Deep House. See the line-up on soundcheck.
+ELFENCI presents LEYO (Defected / Cécille) at CDLC Barcelona on Sat 19 Dec, Barcelona. 2 artists: LEYO (NL) and LUXX. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ELFENCI presents LEYO (Defected / Cécille) at CDLC Barcelona on Sat 19 Dec, Bar
 
 ## Line-up
 
+- LEYO (NL)
 - LUXX
 
 *Source: [soundcheck](https://soundcheck.club/e/2594075-elfenci-presents-leyo-defected-c-cille-at-cdlc-barcelona/)*

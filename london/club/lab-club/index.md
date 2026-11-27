@@ -1,6 +1,6 @@
 # Lab.Club
 
-Lab.Club is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hackney Downtempo @ Lab.Club" on Fri, 27 Nov 2026.
+Lab.Club is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hackney Downtempo @ Lab.Club" on Fri, 27 Nov 2026.
 
 Lab.Club is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Adela, AmeliaBC, DASHA (UK) and Drastic Shuffle and 2 more. See dates, start times and who's playing. Ground Floor, 189 Shoreditch High St, London E1 6HU.
 
@@ -18,4 +18,4 @@ Lab.Club is a music venue in London listed on soundcheck. 5 upcoming gigs, with 
 
 Ground Floor, 189 Shoreditch High St, London E1 6HU, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/lab-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/lab-club/)*

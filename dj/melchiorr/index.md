@@ -1,14 +1,15 @@
 # Melchiorr
 
-Melchiorr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+Melchiorr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
-Melchiorr is a techno and house artist based in Germany, with 46 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 7 more. Often billed alongside Nepōmuk, IZZYA and Artifex (DE). Next up: Rote Sonne, Munich on Sat 28 Nov.
+Melchiorr is a techno and house artist based in Germany, with 47 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 7 more. Often billed alongside Nepōmuk, IZZYA and Artifex (DE). Next up: Rote Sonne, Munich on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Rote Sonne | Munich |
+| Fri, 25 Dec 2026 | Lieberscholli | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Melchiorr is a techno and house artist based in Germany, with 46 gigs on soundch
 
 Nepōmuk, IZZYA, Artifex (DE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorr/)*

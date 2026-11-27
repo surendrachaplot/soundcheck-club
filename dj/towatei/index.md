@@ -1,6 +1,6 @@
 # Towa Tei
 
-Towa Tei is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Metro, Kyoto on Sun, 17 Jan 2027.
+Towa Tei is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Metro, Kyoto on Sun, 17 Jan 2027.
 
 Towa Tei is a house and club artist based in Japan, with 12 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside Neibiss, CH.0 and Caroline. Next up: Club Metro, Kyoto on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ Towa Tei is a house and club artist based in Japan, with 12 gigs on soundcheck a
 
 Neibiss, CH.0, Caroline
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/towatei/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/towatei/)*

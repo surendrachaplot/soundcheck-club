@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "S.TELECOM / ROB GOODSPEED BIRTHDAY SPECIAL" on Fri, 27 Nov 2026.
+Pistil is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "S.TELECOM / ROB GOODSPEED BIRTHDAY SPECIAL" on Fri, 27 Nov 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including HAGY and Nuyad. See dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

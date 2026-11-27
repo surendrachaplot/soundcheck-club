@@ -1,6 +1,6 @@
 # F L V X X X
 
-F L V X X X is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Dec 2026.
+F L V X X X is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Dec 2026.
 
 F L V X X X are a bass and techno duo based in Italy, with 19 gigs on soundcheck across Milan and Rome. Often billed alongside biased, Ortensio and Prest. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ F L V X X X are a bass and techno duo based in Italy, with 19 gigs on soundcheck
 
 biased, Ortensio, Prest
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flvxxx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flvxxx/)*

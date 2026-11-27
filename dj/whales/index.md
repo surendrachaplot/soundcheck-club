@@ -1,6 +1,6 @@
 # Whales
 
-Whales is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mesones72, Mexico City on Sat, 12 Dec 2026.
+Whales is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mesones72, Mexico City on Sat, 12 Dec 2026.
 
 Whales is a bass and dubstep artist based in Israel, with 7 gigs on soundcheck across Cologne, Dallas/Fort Worth, Houston and Mexico City and 3 more. Often billed alongside BIANKA, Ivory and MORVIUS. Next up: Mesones72, Mexico City on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Whales is a bass and dubstep artist based in Israel, with 7 gigs on soundcheck a
 
 BIANKA, Ivory, MORVIUS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whales/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whales/)*

@@ -1,6 +1,6 @@
 # SALCHIKILLER
 
-SALCHIKILLER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
+SALCHIKILLER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ÆDEN, Berlin on Fri, 27 Nov 2026.
 
 SALCHIKILLER is a techno and trance artist based in Ecuador, with 32 gigs on soundcheck across Berlin. Often billed alongside mølly (on molly), DJ AYEN and L X S. Next up: ÆDEN, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ SALCHIKILLER is a techno and trance artist based in Ecuador, with 32 gigs on sou
 
 mølly (on molly), DJ AYEN, L X S
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*

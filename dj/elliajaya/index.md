@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Back Room, Bali on Fri, 27 Nov 2026.
+Ellia Jaya is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Back Room, Bali on Fri, 27 Nov 2026.
 
 Ellia Jaya is a house and tech house artist based in United Kingdom, with 98 gigs on soundcheck across Aberdeen, Amsterdam, Austria and Bali and 23 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: The Back Room, Bali on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Ellia Jaya is a house and tech house artist based in United Kingdom, with 98 gig
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

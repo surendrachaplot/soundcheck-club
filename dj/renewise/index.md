@@ -1,14 +1,15 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Rene Wise is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-Rene Wise is a techno and house artist based in United Kingdom, with 289 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Lardner Park, Melbourne on Fri 27 Nov.
+Rene Wise is a techno and house artist based in United Kingdom, with 290 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Fri, 27 Nov 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 4 Dec 2026 | Mdlr | Singapore |
 | Sat, 5 Dec 2026 | Sfactory Sector D, 3rd Floor | Seoul |
 | Sat, 12 Dec 2026 | fabric | London |
@@ -34,4 +35,4 @@ Rene Wise is a techno and house artist based in United Kingdom, with 289 gigs on
 
 MARRØN, Blasha & Allatt, Ogazón
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

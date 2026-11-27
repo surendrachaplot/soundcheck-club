@@ -1,6 +1,6 @@
 # Reenie
 
-Reenie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 27 Nov 2026.
+Reenie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 27 Nov 2026.
 
 Reenie is a house and techno artist based in Australia, with 121 gigs on soundcheck across Brisbane, Edinburgh, London and Melbourne and 1 more. Often billed alongside Kato, Mazzacles and AHJU. Next up: Colombian Hotel, Sydney on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Reenie is a house and techno artist based in Australia, with 121 gigs on soundch
 
 Kato, Mazzacles, AHJU
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*

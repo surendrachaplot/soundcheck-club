@@ -1,6 +1,6 @@
 # Detective Kelly
 
-Detective Kelly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 11 Dec 2026.
+Detective Kelly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 11 Dec 2026.
 
 Detective Kelly is a techno and trance artist based in Hungary, with 39 gigs on soundcheck across Budapest. Often billed alongside Sikztah, KALMIKVCS and Man + Machine. Next up: Vektor - The Klub, Budapest on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Detective Kelly is a techno and trance artist based in Hungary, with 39 gigs on 
 
 Sikztah, KALMIKVCS, Man + Machine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/detectivekelly/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/detectivekelly/)*

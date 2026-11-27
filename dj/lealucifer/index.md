@@ -1,6 +1,6 @@
 # lealucifer
 
-lealucifer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rollberg26, Berlin on Fri, 27 Nov 2026.
+lealucifer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rollberg26, Berlin on Fri, 27 Nov 2026.
 
 lealucifer is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside CUNT REMEMBER, Dirty Daddy Don and Dmitra. Next up: Rollberg26, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ lealucifer is a techno and house artist based in Germany, with 24 gigs on soundc
 
 CUNT REMEMBER, Dirty Daddy Don, Dmitra
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lealucifer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lealucifer/)*

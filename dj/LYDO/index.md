@@ -1,6 +1,6 @@
 # LYDO
 
-LYDO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Horn, Bangkok on Sat, 28 Nov 2026.
+LYDO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Horn, Bangkok on Sat, 28 Nov 2026.
 
 LYDO is a techno and house artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bogotá and 24 more. Often billed alongside Clarisa Kimskii, Matas and BASHKKA. Next up: Horn, Bangkok on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ LYDO is a techno and house artist based in United States of America, with 135 gi
 
 Clarisa Kimskii, Matas, BASHKKA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*

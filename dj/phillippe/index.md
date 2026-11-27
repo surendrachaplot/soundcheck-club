@@ -1,6 +1,6 @@
 # Phillippe
 
-Phillippe is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Jama, Toronto on Fri, 18 Dec 2026.
+Phillippe is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Jama, Toronto on Fri, 18 Dec 2026.
 
 Phillippe is a house and club artist based in Canada, with 77 gigs on soundcheck across Hanoi, Mexico City, Montreal and Toronto and 1 more. Often billed alongside Karim Olen Ash, Jeremy Glenn and Kiki LeFreak. Next up: The Jama, Toronto on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Phillippe is a house and club artist based in Canada, with 77 gigs on soundcheck
 
 Karim Olen Ash, Jeremy Glenn, Kiki LeFreak
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*

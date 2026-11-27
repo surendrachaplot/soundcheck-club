@@ -1,6 +1,6 @@
 # genelle
 
-genelle is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at elipamanoke, Leipzig on Sat, 12 Dec 2026.
+genelle is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at elipamanoke, Leipzig on Sat, 12 Dec 2026.
 
 genelle is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside ILOVDADDYZ, itsadisasta and Laviena. Next up: elipamanoke, Leipzig on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ genelle is a techno and trance artist based in Germany, with 26 gigs on soundche
 
 ILOVDADDYZ, itsadisasta, Laviena
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genelle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genelle/)*

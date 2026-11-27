@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "POSTPONED body wave: Jonny Rock (UK), DJ Lloyd, Tavish DJ b2b Xica Soul" on Sat, 28 Nov 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "POSTPONED body wave: Jonny Rock (UK), DJ Lloyd, Tavish DJ b2b Xica Soul" on Sat, 28 Nov 2026.
 
 TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 12 upcoming gigs, with line-ups including 999999999, Aiden (DE), Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 12 upcom
 | Sat, 2 Jan 2027 | WORK Harder presents: Aiden [4 Hour Set] & Nova | Aiden (DE), NOVA (5) |
 | Fri, 29 Jan 2027 | WORK presents Nicole Moudaber In The Mood: RAW | Nicole Moudaber |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

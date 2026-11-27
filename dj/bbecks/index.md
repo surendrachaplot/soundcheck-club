@@ -1,6 +1,6 @@
 # bbecks
 
-bbecks is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+bbecks is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
 bbecks is a techno and house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Berlin, London and Milan. Often billed alongside Voicedrone, Alba Heidari and Anabel Arroyo. Next up: FOLD, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ bbecks is a techno and house artist based in United Kingdom, with 26 gigs on sou
 
 Voicedrone, Alba Heidari, Anabel Arroyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*

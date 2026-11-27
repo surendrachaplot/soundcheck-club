@@ -1,6 +1,6 @@
 # Maasym
 
-Maasym is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
+Maasym is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
 
 Maasym is a techno and electro artist based in Germany, with 15 gigs on soundcheck across Hamburg, Karlsruhe and Stuttgart. Often billed alongside GRØMM, SVPERCELL and Danya (DE). Next up: Slot, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Maasym is a techno and electro artist based in Germany, with 15 gigs on soundche
 
 GRØMM, SVPERCELL, Danya (DE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maasym/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maasym/)*

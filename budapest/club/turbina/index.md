@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NoFear invites Olmatri ×͜×" on Fri, 27 Nov 2026.
+Turbina is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NoFear invites Olmatri ×͜×" on Fri, 27 Nov 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Andrey Pushkarev, Delta Funktionen, GLASSBASS and Ignez and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -19,4 +19,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

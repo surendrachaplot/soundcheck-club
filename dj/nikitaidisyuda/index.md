@@ -1,6 +1,6 @@
 # NIKITAIDISYUDA
 
-NIKITAIDISYUDA is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rion, Warsaw on Fri, 27 Nov 2026.
+NIKITAIDISYUDA is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rion, Warsaw on Fri, 27 Nov 2026.
 
 NIKITAIDISYUDA is a club and dancehall artist based in Ukraine, with 6 gigs on soundcheck across Berlin, London and Warsaw. Often billed alongside DANIEL OKARO, FLASH (UK) and emi (UA). Next up: Rion, Warsaw on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ NIKITAIDISYUDA is a club and dancehall artist based in Ukraine, with 6 gigs on s
 
 DANIEL OKARO, FLASH (UK), emi (UA)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitaidisyuda/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitaidisyuda/)*

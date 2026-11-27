@@ -1,6 +1,6 @@
 # Taku Hirayama
 
-Taku Hirayama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Unmute, Hanoi on Sat, 5 Dec 2026.
+Taku Hirayama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Unmute, Hanoi on Sat, 5 Dec 2026.
 
 Taku Hirayama is a techno and house artist based in Japan, with 68 gigs on soundcheck across Bangkok, Chengdu, Chongqing and Hanoi and 7 more. Often billed alongside Finsent C, Anh Vy and Dan-neo. Next up: Unmute, Hanoi on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Taku Hirayama is a techno and house artist based in Japan, with 68 gigs on sound
 
 Finsent C, Anh Vy, Dan-neo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*

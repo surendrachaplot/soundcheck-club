@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Move D" on Fri, 4 Dec 2026.
+Fidelity Studio is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Move D" on Fri, 4 Dec 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including Dr Banana, Leon Vynehall and Move D. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -15,4 +15,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 2 upcoming gigs
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

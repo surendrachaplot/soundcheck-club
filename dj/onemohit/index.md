@@ -1,6 +1,6 @@
 # onemohit
 
-onemohit is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
+onemohit is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 onemohit is a house and club artist based in United States of America, with 18 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Eichef, Joe Fro and Solar. Next up: 1015 Folsom, San Francisco/Oakland on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ onemohit is a house and club artist based in United States of America, with 18 g
 
 Eichef, Joe Fro, Solar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onemohit/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onemohit/)*

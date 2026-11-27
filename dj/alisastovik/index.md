@@ -1,6 +1,6 @@
 # Alisa Stovik
 
-Alisa Stovik is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 28 Nov 2026.
+Alisa Stovik is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 28 Nov 2026.
 
 Alisa Stovik is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Berlin, Erfurt, Hannover and Leipzig. Often billed alongside VLUNA, BENITO (DE) and CAVVØ. Next up: Indiego Glocksee, Hannover on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Alisa Stovik is a trance and techno artist based in Germany, with 13 gigs on sou
 
 VLUNA, BENITO (DE), CAVVØ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisastovik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisastovik/)*

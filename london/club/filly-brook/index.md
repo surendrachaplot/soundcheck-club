@@ -1,6 +1,6 @@
 # Filly Brook
 
-Filly Brook is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Leyton Arts Club - Club Night #2" on Fri, 27 Nov 2026.
+Filly Brook is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Leyton Arts Club - Club Night #2" on Fri, 27 Nov 2026.
 
 Filly Brook is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Faze Action and Idjut Boys. See dates, start times and who's playing. 392 Grove Green Road, London, E11 4AP, United Kingdom.
 
@@ -16,4 +16,4 @@ Filly Brook is a music venue in London listed on soundcheck. 3 upcoming gigs, wi
 
 392 Grove Green Road, London, E11 4AP, United Kingdom, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/filly-brook/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/filly-brook/)*

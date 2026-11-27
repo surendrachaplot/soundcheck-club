@@ -1,6 +1,6 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 12 Dec 2026.
+Fritz Kalkbrenner is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 12 Dec 2026.
 
 Fritz Kalkbrenner is a house and techno artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 20 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Druckerei Solothurn, Bern on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Fritz Kalkbrenner is a house and techno artist based in Germany, with 52 gigs on
 
 Agatha Pher, Einmusik, Floyd Lavine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*

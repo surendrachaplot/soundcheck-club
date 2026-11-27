@@ -1,6 +1,6 @@
 # Ynfynyt Scroll
 
-Ynfynyt Scroll is a Guaracha and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pardo Club, Guadalajara on Wed, 25 Nov 2026.
+Ynfynyt Scroll is a Guaracha and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pardo Club, Guadalajara on Wed, 25 Nov 2026.
 
 Ynfynyt Scroll is a guaracha and club artist based in Colombia, with 28 gigs on soundcheck across Atlanta, Austin, Berlin and Bogotá and 10 more. Often billed alongside EL NICK DGO, Diablito and Tomás Nada. Next up: Pardo Club, Guadalajara on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Ynfynyt Scroll is a guaracha and club artist based in Colombia, with 28 gigs on 
 
 EL NICK DGO, Diablito, Tomás Nada
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ynfynytscroll/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ynfynytscroll/)*

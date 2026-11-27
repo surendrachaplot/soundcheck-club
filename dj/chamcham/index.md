@@ -1,8 +1,8 @@
 # Chamcham
 
-Chamcham is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Wed, 2 Dec 2026.
+Chamcham is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Clutch, Warehouse Bangkok, Bangkok on Wed, 2 Dec 2026.
 
-Chamcham is a house and afro house artist based in Japan, with 43 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside Sante Visioni, COCOLY and MASANORI MORITA. Next up: Clutch, Warehouse Bangkok, Bangkok on Wed 2 Dec.
+Chamcham is a house and afro house artist based in Japan, with 44 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside Sante Visioni, COCOLY and VALENCIAGA. Next up: Clutch, Warehouse Bangkok, Bangkok on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Chamcham is a house and afro house artist based in Japan, with 43 gigs on soundc
 
 ## Recently played
 
+- Salon Kiku, Bangkok · Thu, 26 Nov 2026
 - The Tokyo Club, Tokyo · Sat, 12 Sept 2026
 - ZEROTOKYO, Tokyo · Sat, 5 Sept 2026
 - Red Bar, Tokyo · Sat, 13 Jun 2026
@@ -20,10 +21,9 @@ Chamcham is a house and afro house artist based in Japan, with 43 gigs on soundc
 - Traffic, Tokyo · Thu, 23 Apr 2026
 - Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 11 Apr 2026
 - Solfa, Tokyo · Sat, 28 Mar 2026
-- C6O Tokyo, Tokyo · Sat, 14 Mar 2026
 
 ## Shares bills with
 
-Sante Visioni, COCOLY, MASANORI MORITA
+Sante Visioni, COCOLY, VALENCIAGA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chamcham/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chamcham/)*

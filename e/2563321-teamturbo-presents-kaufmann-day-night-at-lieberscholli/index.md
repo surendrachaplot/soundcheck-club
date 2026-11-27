@@ -1,6 +1,6 @@
 # TeamTURBO presents Kaufmann (Day & Night) at Lieberscholli
 
-TeamTURBO presents Kaufmann (Day & Night) at Lieberscholli on Sat 19 Dec, Munich. 5 artists: Kaufmann, Lazykid, Rad.Lez and Shabiki and 1 more. Techno. See the line-up on soundcheck.
+TeamTURBO presents Kaufmann (Day & Night) at Lieberscholli on Sat 19 Dec, Munich. 6 artists: Karlo Kurbel, Kaufmann, Lazykid and Rad.Lez and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TeamTURBO presents Kaufmann (Day & Night) at Lieberscholli on Sat 19 Dec, Munich
 
 ## Line-up
 
+- Karlo Kurbel
 - Kaufmann
 - Lazykid
 - Rad.Lez

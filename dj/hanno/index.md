@@ -1,6 +1,6 @@
 # Hanno
 
-Hanno is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Riviera Records Store, Munich on Sat, 28 Nov 2026.
+Hanno is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Riviera Records Store, Munich on Sat, 28 Nov 2026.
 
 Hanno is a house and tech house artist based in Germany, with 32 gigs on soundcheck across Munich and Vienna. Often billed alongside Benjamin Roeder, Bogus Trumper and Manuel Kim. Next up: Riviera Records Store, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Hanno is a house and tech house artist based in Germany, with 32 gigs on soundch
 
 Benjamin Roeder, Bogus Trumper, Manuel Kim
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanno/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanno/)*

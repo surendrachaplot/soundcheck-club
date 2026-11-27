@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Elf Traps & Shunya" on Fri, 27 Nov 2026.
+Soup is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Elf Traps & Shunya" on Fri, 27 Nov 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Bobby Scallop, CONE, Cowper and Elf Traps and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

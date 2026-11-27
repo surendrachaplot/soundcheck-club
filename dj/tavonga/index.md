@@ -1,17 +1,18 @@
 # TAVONGA
 
-TAVONGA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+TAVONGA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 5 Dec 2026.
 
-TAVONGA is a house and techno artist based in Australia, with 14 gigs on soundcheck across Melbourne. Often billed alongside Haus of Ralph, Gay Roberto and Mon Franco. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
+TAVONGA is a house and techno artist based in Australia, with 15 gigs on soundcheck across Melbourne. Often billed alongside Haus of Ralph, Gay Roberto and Mon Franco. Next up: Sub Club Melbourne, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
+| Sat, 5 Dec 2026 | Sub Club Melbourne | Melbourne |
 
 ## Recently played
 
+- Abbotsford Convent, Melbourne · Sat, 14 Nov 2026
 - New Guernica, Melbourne · Fri, 6 Nov 2026
 - New Guernica, Melbourne · Fri, 1 May 2026
 - Continuum, Melbourne · Sat, 4 Apr 2026
@@ -19,10 +20,9 @@ TAVONGA is a house and techno artist based in Australia, with 14 gigs on soundch
 - Revolver Upstairs, Melbourne · Sat, 28 Feb 2026
 - Revolver Upstairs, Melbourne · Fri, 27 Feb 2026
 - Revolver Upstairs, Melbourne · Fri, 27 Feb 2026
-- Angel Music Bar, Melbourne · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Haus of Ralph, Gay Roberto, Mon Franco
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tavonga/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tavonga/)*

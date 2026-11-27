@@ -1,8 +1,8 @@
 # 11:68PM
 
-11:68PM is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
+11:68PM is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
 
-11:68PM is a house and tech house artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Leipzig and Lyon and 1 more. Often billed alongside Candy Jones, Ateş Sönmez and Saber. Next up: TBA, Leipzig on Sat 28 Nov.
+11:68PM is a house and tech house artist based in Germany, with 27 gigs on soundcheck across Berlin, Cologne, Leipzig and Lyon and 1 more. Often billed alongside Candy Jones, Ateş Sönmez and Saber. Next up: TBA, Leipzig on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA | Leipzig |
 | Sun, 13 Dec 2026 | Paloma | Berlin |
+| Fri, 18 Dec 2026 | JAKI | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Candy Jones, Ateş Sönmez, Saber (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1168pm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1168pm/)*

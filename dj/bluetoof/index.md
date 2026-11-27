@@ -1,6 +1,6 @@
 # Bluetoof
 
-Bluetoof is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tola, London on Sun, 27 Dec 2026.
+Bluetoof is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tola, London on Sun, 27 Dec 2026.
 
 Bluetoof is a bass and techno artist based in United Kingdom, with 91 gigs on soundcheck across Belfast, Berlin, Birmingham and Brighton and 24 more. Often billed alongside Jossy Mitsu, BLUMITSU and Oblig. Next up: Tola, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Bluetoof is a bass and techno artist based in United Kingdom, with 91 gigs on so
 
 Jossy Mitsu, BLUMITSU, Oblig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluetoof/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluetoof/)*

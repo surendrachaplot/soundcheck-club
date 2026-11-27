@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Laila Amira, WheelUP, Yambow" on Fri, 27 Nov 2026.
+Djoon is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Laila Amira, WheelUP, Yambow" on Fri, 27 Nov 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Chris Thomas, CTRLZORA, Groove Boys Project and Kapela and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -19,4 +19,4 @@ Djoon is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

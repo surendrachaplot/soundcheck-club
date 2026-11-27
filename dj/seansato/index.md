@@ -1,6 +1,6 @@
 # Sean Sato
 
-Sean Sato is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jupiter Disco, New York City on Fri, 4 Dec 2026.
+Sean Sato is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jupiter Disco, New York City on Fri, 4 Dec 2026.
 
 Sean Sato is a house and club artist based in Japan, with 21 gigs on soundcheck across New York City and Seoul. Often billed alongside Arianna Danae, Analog Soul and Aurora Halal. Next up: Jupiter Disco, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sean Sato is a house and club artist based in Japan, with 21 gigs on soundcheck 
 
 Arianna Danae, Analog Soul, Aurora Halal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seansato/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seansato/)*

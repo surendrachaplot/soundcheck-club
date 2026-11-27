@@ -1,6 +1,6 @@
 # Hogi
 
-Hogi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Hogi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Hogi is a house and disco artist based in Indonesia, with 33 gigs on soundcheck across Bali, Seoul and Thailand. Often billed alongside Hender, FFAN and Hyerang. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Hogi is a house and disco artist based in Indonesia, with 33 gigs on soundcheck 
 
 Hender, FFAN, Hyerang
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hogi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hogi/)*

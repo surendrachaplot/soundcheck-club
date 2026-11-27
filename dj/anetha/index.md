@@ -1,6 +1,6 @@
 # Anetha
 
-Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Anetha is a techno and house artist based in France, with 247 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -36,4 +36,4 @@ Anetha is a techno and house artist based in France, with 247 gigs on soundcheck
 
 Mac Declos, SPFDJ, DJ Gigola
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

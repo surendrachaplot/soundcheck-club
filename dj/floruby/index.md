@@ -1,6 +1,6 @@
 # Flo Ruby
 
-Flo Ruby is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vespers Club, London on Fri, 5 Feb 2027.
+Flo Ruby is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vespers Club, London on Fri, 5 Feb 2027.
 
 Flo Ruby is a bass and trance artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside szoryn, Isaac Arthur and St. Amp. Next up: Vespers Club, London on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Flo Ruby is a bass and trance artist based in United Kingdom, with 13 gigs on so
 
 szoryn, Isaac Arthur, St. Amp
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floruby/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floruby/)*

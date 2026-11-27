@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "MMAATTCCHH SERIES 07" on Sat, 28 Nov 2026.
+Coco Boule is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "MMAATTCCHH SERIES 07" on Sat, 28 Nov 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including ALADAG, Nandu and Robag Wruhme. See dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

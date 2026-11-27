@@ -1,6 +1,6 @@
 # vish
 
-vish is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 21soho, London on Fri, 27 Nov 2026.
+vish is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 21soho, London on Fri, 27 Nov 2026.
 
 vish is a bass and house artist based in United Kingdom, with 24 gigs on soundcheck across Leeds and London. Often billed alongside MF Ceól, karishma and MUSICKLUNATIC. Next up: 21soho, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ vish is a bass and house artist based in United Kingdom, with 24 gigs on soundch
 
 MF Ceól, karishma, MUSICKLUNATIC
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*

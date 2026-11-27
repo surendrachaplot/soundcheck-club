@@ -1,6 +1,6 @@
 # ANZU
 
-ANZU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 28 Nov 2026.
+ANZU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 28 Nov 2026.
 
 ANZU is a house and techno artist based in Japan, with 75 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SIGNAL (JP). Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ANZU is a house and techno artist based in Japan, with 75 gigs on soundcheck acr
 
 Yamariki, PUNK N MATRIX, SIGNAL (JP)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anzu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anzu/)*

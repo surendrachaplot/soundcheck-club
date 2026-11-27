@@ -1,6 +1,6 @@
 # Toni Dextor
 
-Toni Dextor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 6 Dec 2026.
+Toni Dextor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Para Klub Beograd, Belgrade on Sun, 6 Dec 2026.
 
 Toni Dextor is a techno and house artist based in Germany, with 44 gigs on soundcheck across Basel, Belgrade, Berlin and Dresden and 8 more. Often billed alongside kso12, Thomas Bianco and Any Mello. Next up: Para Klub Beograd, Belgrade on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Toni Dextor is a techno and house artist based in Germany, with 44 gigs on sound
 
 kso12, Thomas Bianco, Any Mello
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonidextor-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonidextor-de/)*

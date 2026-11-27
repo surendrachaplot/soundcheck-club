@@ -1,6 +1,6 @@
 # Krissønik
 
-Krissønik is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 4 Dec 2026.
+Krissønik is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 4 Dec 2026.
 
 Krissønik is an italo disco and house artist based in Slovenia, with 13 gigs on soundcheck across Barcelona, Berlin, Ljubljana and Rotterdam. Often billed alongside DASH (SLO), Alphanova and Jo Kazan. Next up: Channel Zero, Ljubljana on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Krissønik is an italo disco and house artist based in Slovenia, with 13 gigs on
 
 DASH (SLO), Alphanova, Jo Kazan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krissonik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krissonik/)*

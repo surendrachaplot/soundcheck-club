@@ -1,6 +1,6 @@
 # Floss Dogg
 
-Floss Dogg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Whitehart Bar, Melbourne on Sat, 28 Nov 2026.
+Floss Dogg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Whitehart Bar, Melbourne on Sat, 28 Nov 2026.
 
 Floss Dogg is a house and techno artist based in Australia, with 32 gigs on soundcheck across Melbourne. Often billed alongside DE SILVA, Dr. Condiments and Minimale Fatale. Next up: Whitehart Bar, Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Floss Dogg is a house and techno artist based in Australia, with 32 gigs on soun
 
 DE SILVA, Dr. Condiments, Minimale Fatale
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flossdogg/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flossdogg/)*

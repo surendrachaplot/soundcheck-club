@@ -1,6 +1,6 @@
 # David Rodigan
 
-David Rodigan is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Thu, 10 Dec 2026.
+David Rodigan is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Thu, 10 Dec 2026.
 
 David Rodigan is a dub and drum & bass artist, with 39 gigs on soundcheck across Barcelona, Birmingham, Brighton and Bristol and 14 more. Often billed alongside Conducta, Kirollus and Arielle Free. Next up: Depot Mayfield, Manchester on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ David Rodigan is a dub and drum & bass artist, with 39 gigs on soundcheck across
 
 Conducta, Kirollus, Arielle Free
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodigan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodigan/)*

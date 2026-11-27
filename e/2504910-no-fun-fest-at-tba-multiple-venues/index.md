@@ -1,6 +1,6 @@
 # No Fun Fest at TBA - multiple venues
 
-No Fun Fest at TBA - multiple venues on Thu 25 Feb, Valencia. 3 artists: Charmaine Lee, Kassel Jaeger and Stephen O'Malley. See the line-up on soundcheck.
+No Fun Fest at TBA - multiple venues on Thu 25 Feb, Valencia. 3 artists: Charmaine Lee, Kassel Jaeger and Stephen O'Malley. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

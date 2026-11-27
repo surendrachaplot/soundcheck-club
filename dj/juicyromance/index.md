@@ -1,6 +1,6 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Fri, 27 Nov 2026.
+Juicy Romance is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Fri, 27 Nov 2026.
 
 Juicy Romance is a techno and house artist based in Australia, with 164 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 56 more. Often billed alongside Partiboi69, Mischluft and X CLUB.. Next up: The Cause, London on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Juicy Romance is a techno and house artist based in Australia, with 164 gigs on 
 
 Partiboi69, Mischluft, X CLUB.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*

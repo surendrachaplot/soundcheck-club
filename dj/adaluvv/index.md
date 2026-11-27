@@ -1,13 +1,14 @@
 # Ada Luvv
 
-Ada Luvv is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at fi, Cologne on Sat, 26 Dec 2026.
+Ada Luvv is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at JAKI, Cologne on Fri, 18 Dec 2026.
 
-Ada Luvv is a bass and house artist based in Germany, with 24 gigs on soundcheck across Cologne, Munich and Stuttgart. Often billed alongside low Ki, Aino DJ and Sedaction. Next up: fi, Cologne on Sat 26 Dec.
+Ada Luvv is a house and bass artist based in Germany, with 25 gigs on soundcheck across Cologne, Munich and Stuttgart. Often billed alongside low Ki, Sedaction and Aino DJ. Next up: JAKI, Cologne on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | JAKI | Cologne |
 | Sat, 26 Dec 2026 | fi | Cologne |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ada Luvv is a bass and house artist based in Germany, with 24 gigs on soundcheck
 
 ## Shares bills with
 
-low Ki, Aino DJ, Sedaction
+low Ki, Sedaction, Aino DJ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adaluvv/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adaluvv/)*

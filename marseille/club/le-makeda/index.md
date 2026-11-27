@@ -1,6 +1,6 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MOFAK & FRIENDS (DEZZY HOLLOW + DJ CALI)" on Sat, 28 Nov 2026.
+Le Makeda is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MOFAK & FRIENDS (DEZZY HOLLOW + DJ CALI)" on Sat, 28 Nov 2026.
 
 Le Makeda is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, with line-ups including Miss Jay (RO) and TTristana. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
@@ -16,4 +16,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, w
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

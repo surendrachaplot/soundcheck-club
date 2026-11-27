@@ -1,6 +1,6 @@
 # Swoose
 
-Swoose is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 26 Dec 2026.
+Swoose is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 26 Dec 2026.
 
 Swoose is a house and techno artist based in United Kingdom, with 36 gigs on soundcheck across Barcelona, Belfast, Berlin and Dublin and 4 more. Often billed alongside Holly Lester, Body Clinic and Kessler. Next up: The Ulster Sports Club, Belfast on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Swoose is a house and techno artist based in United Kingdom, with 36 gigs on sou
 
 Holly Lester, Body Clinic, Kessler
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swoose/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swoose/)*

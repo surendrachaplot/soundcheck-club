@@ -1,6 +1,6 @@
 # EKEL
 
-EKEL is a Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cadavra, Madrid on Fri, 25 Dec 2026.
+EKEL is a Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cadavra, Madrid on Fri, 25 Dec 2026.
 
 EKEL is an electronica artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside FedeFink, Mar Bravo and Aedis. Next up: Cadavra, Madrid on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ EKEL is an electronica artist based in Spain, with 9 gigs on soundcheck across M
 
 FedeFink, Mar Bravo, Aedis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekel/)*

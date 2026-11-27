@@ -1,6 +1,6 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Classics Only – Rap 2000 & R&B Classics + Karaoké" on Fri, 27 Nov 2026.
+La Bellevilloise is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Classics Only – Rap 2000 & R&B Classics + Karaoké" on Fri, 27 Nov 2026.
 
 La Bellevilloise is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Dimitri From Paris, DJ André, Dj Kakashi and DJ Steaw and 2 more. See dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
@@ -18,4 +18,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 5 upcoming gigs
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

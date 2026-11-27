@@ -1,6 +1,6 @@
 # Ben Lewis
 
-Ben Lewis is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
+Ben Lewis is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
 
 Ben Lewis is an acid and techno artist based in United Kingdom, with 15 gigs on soundcheck across Leeds and Melbourne. Often billed alongside Marie Avril, John Paynter and Roya Brehl. Next up: Holding Patterns, Leeds on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ben Lewis is an acid and techno artist based in United Kingdom, with 15 gigs on 
 
 Marie Avril, John Paynter, Roya Brehl
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benlewis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benlewis/)*

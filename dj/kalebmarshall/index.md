@@ -1,6 +1,6 @@
 # Kaleb Marshall
 
-Kaleb Marshall is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
+Kaleb Marshall is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
 
 Kaleb Marshall is a techno and experimental artist based in United States of America, with 10 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Luke Mele, Max Ellington and agraybé. Next up: The Airliner, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kaleb Marshall is a techno and experimental artist based in United States of Ame
 
 Luke Mele, Max Ellington, agraybé
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalebmarshall/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalebmarshall/)*

@@ -1,6 +1,6 @@
 # Chi Min
 
-Chi Min is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
+Chi Min is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
 
 Chi Min is a techno and garage artist based in Vietnam, with 52 gigs on soundcheck across Bangkok, Beijing, Chengdu and Hanoi and 5 more. Often billed alongside YASMIN, Larria and Phát Paris. Next up: Rever Mixology & Lounge, Ho Chi Minh City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Chi Min is a techno and garage artist based in Vietnam, with 52 gigs on soundche
 
 YASMIN (2), Larria, Phát Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimin/)*

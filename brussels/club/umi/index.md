@@ -1,8 +1,8 @@
 # UMI
 
-UMI is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BLUR WeekEnd 2nd Edition" on Fri, 27 Nov 2026.
+UMI is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "BLUR WeekEnd 2nd Edition" on Fri, 27 Nov 2026.
 
-UMI is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Adi (CO), adobeprincess, Alexia Glensy and Ampe and 2 more. See dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
+UMI is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Adi (CO), adobeprincess, Afonso Peixoto and Alexia Glensy and 2 more. See dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
 ## What's on
 
@@ -13,10 +13,11 @@ UMI is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with lin
 | Sat, 5 Dec 2026 | 05.12 BLUR with Human Space Machine, Garçon, Monile, Bapow | Bapow, Garçon, Human Space Machine, Monile |
 | Sat, 12 Dec 2026 | 12.12 BLUR x Altered Circuits with DMX Krew (live), Innershades, Thwang, and Dorisburg, Noizar | Ava Eva, DMX Krew, Dorisburg, Innershades, Noizar |
 | Sat, 19 Dec 2026 | 19.12 BLUR with Aroh DJ (all night), Nikos (live), Ampe, Brexx | Ampe, Aroh, Nikos |
+| Sun, 20 Dec 2026 | Los Ninos: Daytime | Afonso Peixoto, Kathleen C |
 | Fri, 1 Jan 2027 | 31.12 BLUR NYE · 18 hours non-stop | Alexia Glensy, Anthony Rother, Audrey Danza, Casper (FIN), DJ Rino, Exuvie, Innuendo, Leef, Marvin, Nikita, Poppy (BE), Redo (3), SVS (1), Thojo |
 
 ## Address
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

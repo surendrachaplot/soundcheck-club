@@ -1,6 +1,6 @@
 # Keeks
 
-Keeks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Model, Nottingham on Sat, 28 Nov 2026.
+Keeks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Model, Nottingham on Sat, 28 Nov 2026.
 
 Keeks is a techno and house artist based in United Kingdom, with 11 gigs on soundcheck across London, Nottingham and Portland. Often billed alongside Evil Woman, Mush Love (UK) and soapy. Next up: The Model, Nottingham on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Keeks is a techno and house artist based in United Kingdom, with 11 gigs on soun
 
 Evil Woman, Mush Love (UK), soapy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keeks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keeks/)*

@@ -1,6 +1,6 @@
 # Balance
 
-Balance is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Balance is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Balance is a techno and industrial artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Baltimore and 31 more. Often billed alongside Is (AM), Phone and Cable. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ Balance is a techno and industrial artist based in United Kingdom, with 48 gigs 
 
 Is (AM), Phone, Cable
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balance/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balance/)*

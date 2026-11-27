@@ -1,6 +1,6 @@
 # Koloah
 
-Koloah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Panke, Berlin on Sat, 5 Dec 2026.
+Koloah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Panke, Berlin on Sat, 5 Dec 2026.
 
 Koloah is a techno and house artist based in Ukraine, with 39 gigs on soundcheck across Berlin, Brussels, Copenhagen and Krakow and 4 more. Often billed alongside Karine, Monoconda and Ponura. Next up: Panke, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Koloah is a techno and house artist based in Ukraine, with 39 gigs on soundcheck
 
 Karine, Monoconda, Ponura
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koloah/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koloah/)*

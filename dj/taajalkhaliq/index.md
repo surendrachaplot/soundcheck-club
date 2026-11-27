@@ -1,6 +1,6 @@
 # Taaj Al Khaliq
 
-Taaj Al Khaliq is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 8 Dec 2026.
+Taaj Al Khaliq is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 8 Dec 2026.
 
 Taaj Al Khaliq is a club and ghetto tech artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Montross, Bodegaparty and KOOB. Next up: Bossa Nova Civic Club, New York City on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ Taaj Al Khaliq is a club and ghetto tech artist based in United States of Americ
 
 Montross, Bodegaparty, KOOB
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taajalkhaliq/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taajalkhaliq/)*

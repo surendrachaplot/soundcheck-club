@@ -1,6 +1,6 @@
 # day astro
 
-day astro is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
+day astro is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
 
 day astro is a club and bass artist based in Canada, with 17 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside pxlwlkr, jaag (US) and PRISKILLA. Next up: Underground SF, San Francisco/Oakland on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ day astro is a club and bass artist based in Canada, with 17 gigs on soundcheck 
 
 pxlwlkr, jaag (US), PRISKILLA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayastro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayastro/)*

@@ -1,6 +1,6 @@
 # Stanton Warriors
 
-Stanton Warriors is a Breakbeat and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
+Stanton Warriors is a Breakbeat and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
 
 Stanton Warriors is a breakbeat and bass artist based in United Kingdom, with 49 gigs on soundcheck across Auckland, Berlin, Birmingham and Brighton and 17 more. Often billed alongside Freestylers, Grooverider and Krafty Kuts. Next up: White Bay Power Station, Sydney on Fri 2 Apr.
 
@@ -30,4 +30,4 @@ Stanton Warriors is a breakbeat and bass artist based in United Kingdom, with 49
 
 Freestylers, Grooverider, Krafty Kuts
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*

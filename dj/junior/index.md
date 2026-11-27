@@ -1,6 +1,6 @@
 # Junior
 
-Junior is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Suma Han, Istanbul on Fri, 11 Dec 2026.
+Junior is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Suma Han, Istanbul on Fri, 11 Dec 2026.
 
 Junior is a techno and house artist based in Turkey, with 28 gigs on soundcheck across Bangkok, Berlin, Edinburgh and Hamburg and 7 more. Often billed alongside Koray T, Mehmet Akar and Procombo. Next up: Suma Han, Istanbul on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Junior is a techno and house artist based in Turkey, with 28 gigs on soundcheck 
 
 Koray T, Mehmet Akar, Procombo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junior/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junior/)*

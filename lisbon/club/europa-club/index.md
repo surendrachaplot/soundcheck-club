@@ -1,6 +1,6 @@
 # Europa Club
 
-Europa Club is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "House Mouse x Europa: NYE + NYD" on Thu, 31 Dec 2026.
+Europa Club is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "House Mouse x Europa: NYE + NYD" on Thu, 31 Dec 2026.
 
 Europa Club is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Europa Club is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | House Mouse x Europa: NYE + NYD |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/europa-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/europa-club/)*

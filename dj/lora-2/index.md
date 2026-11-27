@@ -1,6 +1,6 @@
 # Lora (2)
 
-Lora (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
+Lora (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
 
 Lora is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 7 more. Often billed alongside Esoterik, dxrvo and Brandyy. Next up: TBA - SECRET LOCATION, Hannover on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Lora is a techno and trance artist based in Germany, with 37 gigs on soundcheck 
 
 Esoterik, dxrvo, Brandyy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-2/)*

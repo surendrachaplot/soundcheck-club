@@ -1,6 +1,6 @@
 # Eufórico
 
-Eufórico is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mesmeric Sofia, Sofia on Thu, 31 Dec 2026.
+Eufórico is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mesmeric Sofia, Sofia on Thu, 31 Dec 2026.
 
 Eufórico is a house and minimal artist based in Bulgaria, with 19 gigs on soundcheck across Sofia. Often billed alongside Avgustin, Mizzmo and Alex Miladinov. Next up: Mesmeric Sofia, Sofia on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Eufórico is a house and minimal artist based in Bulgaria, with 19 gigs on sound
 
 Avgustin, Mizzmo, Alex Miladinov
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/euforico/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/euforico/)*

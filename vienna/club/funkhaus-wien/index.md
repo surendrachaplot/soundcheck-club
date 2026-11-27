@@ -1,6 +1,6 @@
 # Funkhaus Wien
 
-Funkhaus Wien is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Cafe Disko x Firlefunk" on Fri, 27 Nov 2026.
+Funkhaus Wien is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Cafe Disko x Firlefunk" on Fri, 27 Nov 2026.
 
 Funkhaus Wien is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including André Dancekowski, Diskohengst, Felix Wolfs and Flo Real and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Funkhaus Wien is a music venue in Vienna listed on soundcheck. 10 upcoming gigs,
 | Sat, 16 Jan 2027 | traveling without moving |  |
 | Sat, 13 Feb 2027 | traveling without moving |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*

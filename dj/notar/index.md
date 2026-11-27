@@ -1,6 +1,6 @@
 # Notar
 
-Notar is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 27 Nov 2026.
+Notar is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at nueve cero nueve, Mexico City on Fri, 27 Nov 2026.
 
 Notar is a house and minimal artist based in United States of America, with 15 gigs on soundcheck across Mexico City, New York City and Tampa Bay. Often billed alongside Edu Kortés, Felis Beātus and Brian Busto. Next up: nueve cero nueve, Mexico City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Notar is a house and minimal artist based in United States of America, with 15 g
 
 Edu Kortés, Felis Beātus, Brian Busto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notar/)*

@@ -1,6 +1,6 @@
 # Homero Espinosa
 
-Homero Espinosa is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 19 Dec 2026.
+Homero Espinosa is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 19 Dec 2026.
 
 Homero Espinosa is a house and deep house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Detroit, Mexico City and San Diego and 2 more. Often billed alongside David Harness, John Glass and Mark Farina. Next up: Public Works, San Francisco/Oakland on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Homero Espinosa is a house and deep house artist based in United States of Ameri
 
 David Harness, John Glass, Mark Farina
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homeroespinosa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/homeroespinosa/)*

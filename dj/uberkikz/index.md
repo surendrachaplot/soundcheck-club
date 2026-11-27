@@ -1,6 +1,6 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
+ÜBERKIKZ is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
 
 ÜBERKIKZ is a techno and house artist based in Russia, with 233 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: MUENZE, Berlin on Sat 28 Nov.
 
@@ -36,4 +36,4 @@
 
 future.666, DJ Hyperdrive, Cloudy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

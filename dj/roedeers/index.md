@@ -1,6 +1,6 @@
 # Roe Deers
 
-Roe Deers is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Freedonia, Barcelona on Sat, 28 Nov 2026.
+Roe Deers is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Freedonia, Barcelona on Sat, 28 Nov 2026.
 
 Roe Deers is a house and techno artist based in Lithuania, with 63 gigs on soundcheck across Bali, Barcelona, Bergen and Berlin and 10 more. Often billed alongside Aiste Regina, Clicklounge and Donatas Chipak. Next up: Freedonia, Barcelona on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Roe Deers is a house and techno artist based in Lithuania, with 63 gigs on sound
 
 Aiste Regina, Clicklounge, Donatas Chipak
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roedeers/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roedeers/)*

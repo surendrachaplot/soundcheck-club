@@ -1,6 +1,6 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hoppetosse, Berlin on Thu, 24 Dec 2026.
+Martin Ka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Thu, 24 Dec 2026.
 
 Martin Ka is a techno and house artist based in Germany, with 70 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Hoppetosse, Berlin on Thu 24 Dec.
 
@@ -26,4 +26,4 @@ Martin Ka is a techno and house artist based in Germany, with 70 gigs on soundch
 
 vom Feisten, Daniel Neuland, Sin:port
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*

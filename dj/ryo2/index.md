@@ -1,6 +1,6 @@
 # RYO2
 
-RYO2 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
+RYO2 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
 
 RYO2 is a techno and house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside TRID3NT, HATSUYUKI and HYOUKAI. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ RYO2 is a techno and house artist based in Japan, with 8 gigs on soundcheck acro
 
 TRID3NT, HATSUYUKI, HYOUKAI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryo2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryo2/)*

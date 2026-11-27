@@ -1,6 +1,6 @@
 # James Grouper
 
-James Grouper is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gare Porto, Porto on Fri, 11 Dec 2026.
+James Grouper is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Fri, 11 Dec 2026.
 
 James Grouper is a techno and electronica artist based in Portugal, with 15 gigs on soundcheck across Lisbon, Madrid and Porto. Often billed alongside Backbone, FERRO. and Ferro.C90. Next up: Gare Porto, Porto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ James Grouper is a techno and electronica artist based in Portugal, with 15 gigs
 
 Backbone, FERRO., Ferro.C90
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesgrouper/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesgrouper/)*

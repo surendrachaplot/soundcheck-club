@@ -1,6 +1,6 @@
 # Bar Brooklyn
 
-Bar Brooklyn is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Synthetic Presents" on Fri, 4 Dec 2026.
+Bar Brooklyn is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Synthetic Presents" on Fri, 4 Dec 2026.
 
 Bar Brooklyn is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including COURTEZ and SAPHOS. See dates, start times and who's playing. 1154 Argyle St, Finnieston, Glasgow G3 8TE.
 
@@ -16,4 +16,4 @@ Bar Brooklyn is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, 
 
 1154 Argyle St, Finnieston, Glasgow G3 8TE, Glasgow
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/bar-brooklyn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/bar-brooklyn/)*

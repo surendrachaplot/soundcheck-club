@@ -1,6 +1,6 @@
 # Axel Esphinoza
 
-Axel Esphinoza is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Overture Studios, Toronto on Fri, 11 Dec 2026.
+Axel Esphinoza is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Overture Studios, Toronto on Fri, 11 Dec 2026.
 
 Axel Esphinoza is a techno and new wave artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside A_C_E., KILL 9 1 and MENACE.. Next up: Overture Studios, Toronto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Axel Esphinoza is a techno and new wave artist based in Canada, with 9 gigs on s
 
 A_C_E., KILL 9 1, MENACE.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axelesphinoza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axelesphinoza/)*

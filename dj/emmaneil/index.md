@@ -1,6 +1,6 @@
 # Emma Neil
 
-Emma Neil is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Gare / Le Gore, Paris on Fri, 27 Nov 2026.
+Emma Neil is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Gare / Le Gore, Paris on Fri, 27 Nov 2026.
 
 Emma Neil is a techno artist based in France, with 2 gigs on soundcheck across Paris. Often billed alongside Jolly (FR). Next up: La Gare / Le Gore, Paris on Fri 27 Nov.
 
@@ -15,4 +15,4 @@ Emma Neil is a techno artist based in France, with 2 gigs on soundcheck across P
 
 Jolly (FR)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaneil/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaneil/)*

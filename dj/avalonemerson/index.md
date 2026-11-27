@@ -1,8 +1,8 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
+Avalon Emerson is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Factory Town, Miami on Fri 4 Dec.
+Avalon Emerson is a techno and house artist based in United States of America, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Factory Town, Miami on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 10 Jan 2027 | TBA | New York City |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -27,6 +29,6 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 ## Shares bills with
 
-Sedef Adasï, BASHKKA, Aurora Halal
+Sedef Adasï, BASHKKA, Ben UFO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

@@ -1,18 +1,18 @@
 # Gaston Zani
 
-Gaston Zani is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bassement, Madrid on Thu, 26 Nov 2026.
+Gaston Zani is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at City Hall, Barcelona on Thu, 31 Dec 2026.
 
-Gaston Zani is a techno and industrial artist based in Spain, with 38 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Parsa Jafari, GNRØ and CESAR ALMENA. Next up: The Bassement, Madrid on Thu 26 Nov.
+Gaston Zani is a techno and industrial artist based in Spain, with 38 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Parsa Jafari, GNRØ and CESAR ALMENA. Next up: City Hall, Barcelona on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | The Bassement | Madrid |
 | Thu, 31 Dec 2026 | City Hall | Barcelona |
 
 ## Recently played
 
+- The Bassement, Madrid · Thu, 26 Nov 2026
 - M7 Club, Barcelona · Sun, 1 Nov 2026
 - Fabrik, Madrid · Sat, 17 Oct 2026
 - Pavilhão Carlos Lopes, Lisbon · Fri, 2 Oct 2026
@@ -20,10 +20,9 @@ Gaston Zani is a techno and industrial artist based in Spain, with 38 gigs on so
 - Atlantic Sound, Barcelona · Thu, 18 Jun 2026
 - Fabrik, Madrid · Sat, 30 May 2026
 - Studio Club Malaga, Malaga · Fri, 22 May 2026
-- 8 Marvila, Lisbon · Sat, 16 May 2026
 
 ## Shares bills with
 
 Parsa Jafari, GNRØ, CESAR ALMENA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonzani/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonzani/)*

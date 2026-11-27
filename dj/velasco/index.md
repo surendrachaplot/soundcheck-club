@@ -1,6 +1,6 @@
 # Velasco
 
-Velasco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Starlane São Paulo, Sao Paulo on Sat, 12 Dec 2026.
+Velasco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane São Paulo, Sao Paulo on Sat, 12 Dec 2026.
 
 Velasco is a house and techno artist based in United States of America, with 104 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: Starlane São Paulo, Sao Paulo on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Velasco is a house and techno artist based in United States of America, with 104
 
 DJ Tjizza, Anthea, Samuel Deep
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*

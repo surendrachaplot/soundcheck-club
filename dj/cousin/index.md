@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 28 Nov 2026.
+Cousin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 28 Nov 2026.
 
 Cousin is a techno and house artist based in Australia, with 106 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 28 more. Often billed alongside DJ Fart in the Club, Kia (AU) and D-Grade. Next up: Heim Shanghai, Shanghai on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cousin is a techno and house artist based in Australia, with 106 gigs on soundch
 
 DJ Fart in the Club, Kia (AU), D-Grade
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

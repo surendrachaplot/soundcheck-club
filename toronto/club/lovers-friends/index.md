@@ -1,6 +1,6 @@
 # Lovers & Friends
 
-Lovers & Friends is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hip- Hop vs House" on Sat, 28 Nov 2026.
+Lovers & Friends is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hip- Hop vs House" on Sat, 28 Nov 2026.
 
 Lovers & Friends is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Iced Misto. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Lovers & Friends is a music venue in Toronto listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Hip- Hop vs House | Iced Misto |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lovers-friends/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lovers-friends/)*

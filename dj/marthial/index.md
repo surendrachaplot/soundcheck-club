@@ -1,6 +1,6 @@
 # Marthial
 
-Marthial is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
+Marthial is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
 
 Marthial is a techno and house artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 9 more. Often billed alongside Kora Lyssa, Industrial Romantico and Iacopo Carli. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
 
@@ -28,4 +28,4 @@ Marthial is a techno and house artist based in Italy, with 89 gigs on soundcheck
 
 Kora Lyssa, Industrial Romantico, Iacopo Carli
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marthial/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marthial/)*

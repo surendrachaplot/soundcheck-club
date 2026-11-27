@@ -1,6 +1,6 @@
 # BETH
 
-BETH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 9 Dec 2026.
+BETH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 9 Dec 2026.
 
 BETH is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London. Often billed alongside Lewis Doherty, Mas Que Nada Brothers and Van Damn. Next up: The Berkeley Suite, Glasgow on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ BETH is a house and techno artist based in United Kingdom, with 30 gigs on sound
 
 Lewis Doherty, Mas Que Nada Brothers, Van Damn
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beth/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beth/)*

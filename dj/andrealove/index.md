@@ -1,6 +1,6 @@
 # Andrea Love
 
-Andrea Love is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
+Andrea Love is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
 
 Andrea Love is a house and electronica artist based in Spain, with 73 gigs on soundcheck across Barcelona, Bogotá and Tirana. Often billed alongside Cabana, Alice Youngling and RuxXandra. Next up: Roots Audiophile Café, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Andrea Love is a house and electronica artist based in Spain, with 73 gigs on so
 
 Cabana, Alice Youngling, RuxXandra
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrealove/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrealove/)*

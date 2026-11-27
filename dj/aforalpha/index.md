@@ -1,6 +1,6 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
+A For Alpha is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
 
 A For Alpha is a house and garage artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: NOWHERE, Manchester on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ A For Alpha is a house and garage artist based in United Kingdom, with 135 gigs 
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

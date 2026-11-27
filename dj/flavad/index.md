@@ -1,6 +1,6 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sawmills, Bristol on Sat, 28 Nov 2026.
+Flava D is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sawmills, Bristol on Sat, 28 Nov 2026.
 
 Flava D is a drum & bass and bass artist based in United Kingdom, with 116 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 40 more. Often billed alongside Andy C, P Money and Whiney. Next up: Sawmills, Bristol on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, with 116 gigs 
 
 Andy C, P Money, Whiney
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

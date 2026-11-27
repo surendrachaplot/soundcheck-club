@@ -1,6 +1,6 @@
 # Jodie Mooney
 
-Jodie Mooney is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sneaky Pete's, Edinburgh on Mon, 30 Nov 2026.
+Jodie Mooney is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sneaky Pete's, Edinburgh on Mon, 30 Nov 2026.
 
 Jodie Mooney is a techno and garage artist based in United Kingdom, with 24 gigs on soundcheck across Belfast, Edinburgh, Glasgow and Melbourne. Often billed alongside LinkCity, Mixfits and RUA DJ. Next up: Sneaky Pete's, Edinburgh on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Jodie Mooney is a techno and garage artist based in United Kingdom, with 24 gigs
 
 LinkCity, Mixfits (2), RUA DJ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jodiemooney/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jodiemooney/)*

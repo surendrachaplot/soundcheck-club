@@ -1,6 +1,6 @@
 # Praun
 
-Praun is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 4 Dec 2026.
+Praun is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 4 Dec 2026.
 
 Praun is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Berlin, Hannover, Leipzig and Munich. Often billed alongside NAGINI, Vaneska and 9LALEY. Next up: Bahnwärter Thiel, Munich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Praun is a techno and trance artist based in Germany, with 27 gigs on soundcheck
 
 NAGINI, Vaneska, 9LALEY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praun/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praun/)*

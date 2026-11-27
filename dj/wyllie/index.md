@@ -1,6 +1,6 @@
 # Wyllie
 
-Wyllie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Process PDX, Portland on Fri, 11 Dec 2026.
+Wyllie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Process PDX, Portland on Fri, 11 Dec 2026.
 
 Wyllie is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Los Angeles, Portland and San Francisco/Oakland. Often billed alongside Erik Vehmeyer, Daizz and Anderson Chase. Next up: Process PDX, Portland on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Wyllie is a house and techno artist based in United States of America, with 12 g
 
 Erik Vehmeyer, Daizz, Anderson Chase
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyllie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wyllie/)*

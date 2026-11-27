@@ -1,6 +1,6 @@
 # schraeder
 
-schraeder is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Toldi Klub, Budapest on Fri, 27 Nov 2026.
+schraeder is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Toldi Klub, Budapest on Fri, 27 Nov 2026.
 
 schraeder is a techno and trance artist based in Germany, with 76 gigs on soundcheck across Budapest, Dortmund / Essen and Münster. Often billed alongside CRB, Rovizz and DJ RENT A TENT. Next up: Toldi Klub, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ schraeder is a techno and trance artist based in Germany, with 76 gigs on soundc
 
 CRB, Rovizz, DJ RENT A TENT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*

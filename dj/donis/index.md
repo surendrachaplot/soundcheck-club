@@ -1,6 +1,6 @@
 # Donis
 
-Donis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 26 Dec 2026.
+Donis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 26 Dec 2026.
 
 Donis is a house and techno artist based in United States of America, with 144 gigs on soundcheck across Barcelona, Boston, Chicago and Detroit and 6 more. Often billed alongside Total XTC, JADALAREIGN and k.tea. Next up: Bossa Nova Civic Club, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Donis is a house and techno artist based in United States of America, with 144 g
 
 Total XTC, JADALAREIGN, k.tea
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donis/)*

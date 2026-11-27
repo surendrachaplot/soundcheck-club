@@ -1,6 +1,6 @@
 # nataria
 
-nataria is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at FS., Tokyo on Fri, 4 Dec 2026.
+nataria is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at FS., Tokyo on Fri, 4 Dec 2026.
 
 nataria is a techno and hardcore artist based in Russia, with 7 gigs on soundcheck across Tokyo. Often billed alongside AME (JP), sawanese and KOSHIRO. Next up: FS., Tokyo on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ nataria is a techno and hardcore artist based in Russia, with 7 gigs on soundche
 
 AME (JP), sawanese, KOSHIRO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataria/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataria/)*

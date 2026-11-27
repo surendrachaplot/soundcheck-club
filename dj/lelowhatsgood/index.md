@@ -1,6 +1,6 @@
 # Lelowhatsgood
 
-Lelowhatsgood is a House and Gqom artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
+Lelowhatsgood is a House and Gqom artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Carfax, Johannesburg on Fri, 15 Jan 2027.
 
 Lelowhatsgood is a house and gqom artist based in South Africa, with 12 gigs on soundcheck across Berlin, Cape Town and Johannesburg. Often billed alongside Not A She, Soulchoke and Mamthug. Next up: Carfax, Johannesburg on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Lelowhatsgood is a house and gqom artist based in South Africa, with 12 gigs on 
 
 Not A She, Soulchoke, Mamthug
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lelowhatsgood/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lelowhatsgood/)*

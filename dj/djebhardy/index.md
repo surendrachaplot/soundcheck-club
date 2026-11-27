@@ -1,14 +1,15 @@
 # DJ Ebhardy
 
-DJ Ebhardy is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Coco Bar Vienna, Vienna on Thu, 17 Dec 2026.
+DJ Ebhardy is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Coco Bar Vienna, Vienna on Thu, 17 Dec 2026.
 
-DJ Ebhardy is a dub and experimental artist based in Austria, with 17 gigs on soundcheck across Berlin, Prague and Vienna. Often billed alongside MKCMLLN, ISI and Ora Et Labora. Next up: Coco Bar Vienna, Vienna on Thu 17 Dec.
+DJ Ebhardy is a dub and experimental artist based in Austria, with 18 gigs on soundcheck across Austria, Berlin, Prague and Vienna. Often billed alongside MKCMLLN, ISI and Dorian Concept. Next up: Coco Bar Vienna, Vienna on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Dec 2026 | Coco Bar Vienna | Vienna |
+| Thu, 4 Mar 2027 | Dom im Berg | Austria |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ Ebhardy is a dub and experimental artist based in Austria, with 17 gigs on so
 
 ## Shares bills with
 
-MKCMLLN, ISI (2), Ora Et Labora
+MKCMLLN, ISI (2), Dorian Concept
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djebhardy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djebhardy/)*

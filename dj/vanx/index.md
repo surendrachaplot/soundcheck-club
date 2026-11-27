@@ -1,6 +1,6 @@
 # vanX
 
-vanX is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Thu, 24 Dec 2026.
+vanX is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Thu, 24 Dec 2026.
 
 vanX is a house and electro artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Lena Brumby, scram and Alex.Do. Next up: ://about blank, Berlin on Thu 24 Dec.
 
@@ -23,4 +23,4 @@ vanX is a house and electro artist based in Germany, with 7 gigs on soundcheck a
 
 Lena Brumby, scram, Alex.Do
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanx/)*

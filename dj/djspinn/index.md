@@ -1,6 +1,6 @@
 # DJ Spinn
 
-DJ Spinn is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Pitt Market, Edinburgh on Sat, 30 Jan 2027.
+DJ Spinn is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Pitt Market, Edinburgh on Sat, 30 Jan 2027.
 
 DJ Spinn is a footwork and ghetto tech artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 24 more. Often billed alongside Traxman, RP Boo and Kode9. Next up: The Pitt Market, Edinburgh on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ DJ Spinn is a footwork and ghetto tech artist based in United States of America,
 
 Traxman, RP Boo, Kode9
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinn/)*

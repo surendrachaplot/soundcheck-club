@@ -1,6 +1,6 @@
 # Rote Fabrik
 
-Rote Fabrik is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Avena" on Sat, 5 Dec 2026.
+Rote Fabrik is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Avena @ Rote Fabrik" on Sat, 5 Dec 2026.
 
 Rote Fabrik is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including GCOD, Rill, Suspirio and Viscerale. See dates, start times and who's playing. Seestrasse 395; 8038, Zürich; Switzerland.
 
@@ -8,10 +8,10 @@ Rote Fabrik is a music venue in Zurich listed on soundcheck. 1 upcoming gig, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | Avena | GCOD, Rill, Suspirio, Viscerale |
+| Sat, 5 Dec 2026 | Avena @ Rote Fabrik | GCOD, Rill, Suspirio, Viscerale |
 
 ## Address
 
 Seestrasse 395; 8038, Zürich; Switzerland, Zurich
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rote-fabrik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rote-fabrik/)*

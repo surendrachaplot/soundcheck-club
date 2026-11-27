@@ -1,6 +1,6 @@
 # MARIO CORTES (GER)
 
-MARIO CORTES (GER) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 25 Dec 2026.
+MARIO CORTES (GER) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 25 Dec 2026.
 
 MARIO CORTES (GER) is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt. Often billed alongside BOHO, Mario Cortes and Alice Mary. Next up: Tanzhaus West, Frankfurt on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ MARIO CORTES (GER) is a techno and tech house artist based in Germany, with 9 gi
 
 BOHO, Mario Cortes, Alice Mary
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocortesger/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocortesger/)*

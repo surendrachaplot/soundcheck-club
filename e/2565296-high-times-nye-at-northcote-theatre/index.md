@@ -19,9 +19,9 @@ High Times - NYE at Northcote Theatre on Thu 31 Dec, Melbourne. 16 artists: Aque
 - Nay Nay
 - Palazzo (2)
 - PITCHKA
-- SheIsAlive
 - Simon TK
 - Soichi Terada
+- Soju Gang
 - System Olympia
 - Umut
 - Zalina

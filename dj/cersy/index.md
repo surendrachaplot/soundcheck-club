@@ -1,6 +1,6 @@
 # Cersy
 
-Cersy is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
+Cersy is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
 
 Cersy is a techno and bass artist based in United Kingdom, with 86 gigs on soundcheck across Bristol, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Allius, GFA and Kop-Z. Next up: Bar Shrimp, Manchester on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Cersy is a techno and bass artist based in United Kingdom, with 86 gigs on sound
 
 Allius, GFA, Kop-Z
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*

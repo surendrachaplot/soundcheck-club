@@ -1,8 +1,8 @@
 # Benwal
 
-Benwal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
+Benwal is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
 
-Benwal is a techno and house artist based in Netherlands, with 217 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 58 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Factory Town, Miami on Fri 4 Dec.
+Benwal is a techno and house artist based in Netherlands, with 219 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 59 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Factory Town, Miami on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Benwal is a techno and house artist based in Netherlands, with 217 gigs on sound
 | Sun, 3 Jan 2027 | The Ivy | Sydney |
 | Wed, 27 Jan 2027 | PRST | Vienna |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
+| Fri, 5 Feb 2027 | BORIS CLUB | Barcelona |
 | Sat, 6 Feb 2027 | Opium Club | Vilnius |
-| Thu, 11 Feb 2027 | Renate | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist based in Netherlands, with 217 gigs on sound
 
 Kyle Starkey, MALUGI, Bad Boombox
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

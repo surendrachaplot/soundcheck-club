@@ -1,6 +1,6 @@
 # Syd Minsky
 
-Syd Minsky is a New Wave and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Golden Lion, Manchester on Sat, 5 Dec 2026.
+Syd Minsky is a New Wave and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Golden Lion, Manchester on Sat, 5 Dec 2026.
 
 Syd Minsky is a new wave and electronica artist based in United Kingdom, with 26 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside Matt Hum, Make A Dance and Royal Male. Next up: The Golden Lion, Manchester on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Syd Minsky is a new wave and electronica artist based in United Kingdom, with 26
 
 Matt Hum, Make A Dance, Royal Male
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydminsky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydminsky/)*

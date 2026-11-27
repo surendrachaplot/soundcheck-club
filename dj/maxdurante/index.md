@@ -1,6 +1,6 @@
 # MAX DURANTE
 
-MAX DURANTE is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Blindspot*, Bucharest on Fri, 27 Nov 2026.
+MAX DURANTE is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Blindspot*, Bucharest on Fri, 27 Nov 2026.
 
 MAX DURANTE is a techno and industrial artist based in Italy, with 61 gigs on soundcheck across Amsterdam, Azerbaijan, Bangkok and Beijing and 19 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: Blindspot*, Bucharest on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ MAX DURANTE is a techno and industrial artist based in Italy, with 61 gigs on so
 
 Yu Kawabata, Dave Clarke, Stephanie Sykes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*

@@ -1,8 +1,8 @@
 # Golpe
 
-Golpe is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Das Werk, Vienna on Fri, 27 Nov 2026.
+Golpe is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Das Werk, Vienna on Fri, 27 Nov 2026.
 
-Golpe is a techno and industrial artist based in Czech Republic, with 54 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 21 more. Often billed alongside RiVid, Svetec and TASSERY. Next up: Das Werk, Vienna on Fri 27 Nov.
+Golpe is a techno and industrial artist based in Czech Republic, with 55 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 21 more. Often billed alongside Svetec, RiVid and TASSERY. Next up: Das Werk, Vienna on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Golpe is a techno and industrial artist based in Czech Republic, with 54 gigs on
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Das Werk | Vienna |
 | Fri, 4 Dec 2026 | Gotec | Karlsruhe |
+| Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 
 ## Recently played
@@ -25,6 +26,6 @@ Golpe is a techno and industrial artist based in Czech Republic, with 54 gigs on
 
 ## Shares bills with
 
-RiVid, Svetec, TASSERY
+Svetec, RiVid, TASSERY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*

@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Soupherb vs psYsq" on Fri, 27 Nov 2026.
+Ritter Butzke is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Soupherb vs psYsq" on Fri, 27 Nov 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alex Wann and Alle Farben and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming gigs,
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

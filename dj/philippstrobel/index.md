@@ -1,6 +1,6 @@
 # Philipp Strobel
 
-Philipp Strobel is a EBM and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
+Philipp Strobel is a EBM and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Urban Spree, Berlin on Fri, 27 Nov 2026.
 
 Philipp Strobel is an ebm and techno artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Krakow and 7 more. Often billed alongside Incendie, Caillou (DE) and Ancient Methods. Next up: Urban Spree, Berlin on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Philipp Strobel is an ebm and techno artist based in Germany, with 67 gigs on so
 
 Incendie, Caillou (DE), Ancient Methods
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*

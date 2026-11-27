@@ -1,6 +1,6 @@
 # nutenrieth
 
-nutenrieth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Artheater, Cologne on Sat, 19 Dec 2026.
+nutenrieth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Artheater, Cologne on Sat, 19 Dec 2026.
 
 nutenrieth is a techno and house artist based in Germany, with 10 gigs on soundcheck across Cologne and Hamburg. Often billed alongside Jerome Soir, KIMME and Roses OD. Next up: Artheater, Cologne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ nutenrieth is a techno and house artist based in Germany, with 10 gigs on soundc
 
 Jerome Soir, KIMME, Roses OD
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutenrieth/)*

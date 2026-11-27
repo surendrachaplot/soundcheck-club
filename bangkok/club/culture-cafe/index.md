@@ -1,8 +1,8 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 64 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "𝕊𝕌𝔹ℂ𝕆ℕ𝕊ℂ𝕀𝕆𝕌𝕊: 𝕋𝔼ℂℍ 𝕄𝔸𝕐ℍ𝔼𝕄 by Funkpheno presents; Varela.dj" on Fri, 27 Nov 2026.
+Culture Cafe is a music venue in Bangkok with 65 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "𝕊𝕌𝔹ℂ𝕆ℕ𝕊ℂ𝕀𝕆𝕌𝕊: 𝕋𝔼ℂℍ 𝕄𝔸𝕐ℍ𝔼𝕄 by Funkpheno presents; Varela.dj" on Fri, 27 Nov 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 64 upcoming gigs, with line-ups including Aleksy Hulewicz, Damon Rider, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 65 upcoming gigs, with line-ups including Aleksy Hulewicz, Damon Rider, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 64 upcoming gigs,
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

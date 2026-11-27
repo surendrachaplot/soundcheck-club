@@ -1,6 +1,6 @@
 # Soberbius Showcase 11.12 at X Private Club
 
-Soberbius Showcase 11.12 at X Private Club on Fri 11 Dec, Madrid. 1 artist: Mario Mendoza. Progressive House and Electronica. See the line-up on soundcheck.
+Soberbius Showcase 11.12 at X Private Club on Fri 11 Dec, Madrid. 2 artists: Dj Nessa and Mario Mendoza. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Soberbius Showcase 11.12 at X Private Club on Fri 11 Dec, Madrid. 1 artist: Mari
 
 ## Line-up
 
+- Dj Nessa
 - Mario Mendoza
 
 *Source: [soundcheck](https://soundcheck.club/e/2586611-soberbius-showcase-11-12-at-x-private-club/)*

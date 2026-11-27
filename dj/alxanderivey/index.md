@@ -1,6 +1,6 @@
 # Alxander Ivey
 
-Alxander Ivey is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
+Alxander Ivey is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
 
 Alxander Ivey is a club and house artist based in United States of America, with 44 gigs on soundcheck across Atlanta and Los Angeles. Often billed alongside DeFacto X, CHRYSALIS and Cquestt. Next up: Say Yes, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alxander Ivey is a club and house artist based in United States of America, with
 
 DeFacto X, CHRYSALIS, Cquestt
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alxanderivey/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alxanderivey/)*

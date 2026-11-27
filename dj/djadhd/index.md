@@ -1,18 +1,18 @@
 # DJ ADHD
 
-DJ ADHD is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Carpet Shop, London on Thu, 26 Nov 2026.
+DJ ADHD is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Colour Factory, London on Sat, 5 Dec 2026.
 
-DJ ADHD is a techno and bass artist based in United States of America, with 89 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 35 more. Often billed alongside Chloé Robinson, Nikki Nair and Papa Nugs. Next up: The Carpet Shop, London on Thu 26 Nov.
+DJ ADHD is a techno and bass artist based in United States of America, with 89 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 35 more. Often billed alongside Chloé Robinson, Nikki Nair and Papa Nugs. Next up: Colour Factory, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | The Carpet Shop | London |
 | Sat, 5 Dec 2026 | Colour Factory | London |
 
 ## Recently played
 
+- The Carpet Shop, London · Thu, 26 Nov 2026
 - The Clock Factory, Bristol · Sat, 7 Nov 2026
 - La Cheetah Club, Glasgow · Fri, 9 Oct 2026
 - Phonica Records, London · Thu, 16 Jul 2026
@@ -20,10 +20,9 @@ DJ ADHD is a techno and bass artist based in United States of America, with 89 g
 - Virage, Paris · Sat, 30 May 2026
 - Razzmatazz, Barcelona · Sat, 4 Apr 2026
 - Club Cheek, London · Fri, 3 Apr 2026
-- The Old Blue Last, London · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 Chloé Robinson, Nikki Nair, Papa Nugs
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*

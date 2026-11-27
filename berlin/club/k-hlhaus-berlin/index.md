@@ -1,6 +1,6 @@
 # Kühlhaus Berlin
 
-Kühlhaus Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "CROSSINGS — Four Views on Piano" on Sat, 12 Dec 2026.
+Kühlhaus Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "CROSSINGS — Four Views on Piano" on Sat, 12 Dec 2026.
 
 Kühlhaus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kühlhaus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | CROSSINGS — Four Views on Piano |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/k-hlhaus-berlin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/k-hlhaus-berlin/)*

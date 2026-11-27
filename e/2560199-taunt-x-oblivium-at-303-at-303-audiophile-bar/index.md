@@ -1,6 +1,6 @@
 # Taunt x Oblivium at 303 at 303 Audiophile Bar
 
-Taunt x Oblivium at 303 at 303 Audiophile Bar on Sat 28 Nov, Barcelona. 2 artists: Nathan Godro and Nicola Brusegan. House and Minimal. See the line-up on soundcheck.
+Taunt x Oblivium at 303 at 303 Audiophile Bar on Sat 28 Nov, Barcelona. 3 artists: MO-OB, Nathan Godro and Nicola Brusegan. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Taunt x Oblivium at 303 at 303 Audiophile Bar on Sat 28 Nov, Barcelona. 2 artist
 
 ## Line-up
 
+- MO-OB
 - Nathan Godro
 - Nicola Brusegan
 

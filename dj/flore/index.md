@@ -1,6 +1,6 @@
 # Flore
 
-Flore is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Romantso, Athens on Fri, 27 Nov 2026.
+Flore is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Romantso, Athens on Fri, 27 Nov 2026.
 
 Flore is a techno and bass artist based in France, with 50 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside Ehua, upsammy and ojoo. Next up: Romantso, Athens on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Flore is a techno and bass artist based in France, with 50 gigs on soundcheck ac
 
 Ehua, upsammy, ojoo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*

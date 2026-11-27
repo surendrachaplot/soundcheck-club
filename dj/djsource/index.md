@@ -1,6 +1,6 @@
 # DJ SOURCE
 
-DJ SOURCE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
+DJ SOURCE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
 
 DJ SOURCE is a techno and house artist based in Germany, with 121 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 3 more. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Südpol, Hamburg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ SOURCE is a techno and house artist based in Germany, with 121 gigs on soundc
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*

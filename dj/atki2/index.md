@@ -1,6 +1,6 @@
 # Atki2
 
-Atki2 is a Garage and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Full Moon Pub & Attic Bar, Bristol on Fri, 27 Nov 2026.
+Atki2 is a Garage and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Full Moon Pub & Attic Bar, Bristol on Fri, 27 Nov 2026.
 
 Atki2 is a garage and club artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Edinburgh and London. Often billed alongside Skillis, Jonesy Wales and Dub Boy. Next up: The Full Moon Pub & Attic Bar, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Atki2 is a garage and club artist based in United Kingdom, with 26 gigs on sound
 
 Skillis, Jonesy Wales, Dub Boy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atki2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atki2/)*

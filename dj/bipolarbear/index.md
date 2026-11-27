@@ -1,6 +1,6 @@
 # Bipolar Bear
 
-Bipolar Bear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ambient Bar BKK, Bangkok on Sun, 29 Nov 2026.
+Bipolar Bear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ambient Bar BKK, Bangkok on Sun, 29 Nov 2026.
 
 Bipolar Bear is a house and techno artist based in Romania, with 30 gigs on soundcheck across Bangkok, Barcelona, Ho Chi Minh City and Kuala Lumpur. Often billed alongside DJ Ouch!, Mizuyo and Funk D'Void. Next up: Ambient Bar BKK, Bangkok on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Bipolar Bear is a house and techno artist based in Romania, with 30 gigs on soun
 
 DJ Ouch!, Mizuyo, Funk D'Void
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bipolarbear/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bipolarbear/)*

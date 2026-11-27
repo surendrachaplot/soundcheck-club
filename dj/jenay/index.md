@@ -1,6 +1,6 @@
 # Jenay
 
-Jenay is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
+Jenay is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
 
 Jenay is a techno artist, with 11 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ Blockflöte 2000, PASSA and SAIDEX. Next up: Beat Boutique, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jenay is a techno artist, with 11 gigs on soundcheck across Berlin and Hamburg. 
 
 DJ Blockflöte 2000, PASSA, SAIDEX
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenay/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenay/)*

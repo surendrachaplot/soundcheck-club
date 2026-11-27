@@ -1,6 +1,6 @@
 # Carla Martinez
 
-Carla Martinez is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bonython Park, Adelaide on Sat, 26 Dec 2026.
+Carla Martinez is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bonython Park, Adelaide on Sat, 26 Dec 2026.
 
 Carla Martinez is a house and techno artist, with 15 gigs on soundcheck across Adelaide, Australian Capital Territory, Brisbane and London and 4 more. Often billed alongside Jordan Brando, Bella Claxton and Boys Noize. Next up: Bonython Park, Adelaide on Sat 26 Dec.
 
@@ -30,4 +30,4 @@ Carla Martinez is a house and techno artist, with 15 gigs on soundcheck across A
 
 Jordan Brando, Bella Claxton, Boys Noize
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamartinez/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamartinez/)*

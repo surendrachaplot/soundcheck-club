@@ -1,14 +1,15 @@
 # J.U.N.E
 
-J.U.N.E is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Modeci, Seoul on Sat, 28 Nov 2026.
+J.U.N.E is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Modeci, Seoul on Sat, 28 Nov 2026.
 
-J.U.N.E is a club and house artist based in South Korea, with 33 gigs on soundcheck across Seoul. Often billed alongside Isoz, aso and SEOD. Next up: Modeci, Seoul on Sat 28 Nov.
+J.U.N.E is a club and house artist based in South Korea, with 34 gigs on soundcheck across Seoul. Often billed alongside Isoz, aso and SEOD. Next up: Modeci, Seoul on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Modeci | Seoul |
+| Sat, 5 Dec 2026 | Nyapi | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ J.U.N.E is a club and house artist based in South Korea, with 33 gigs on soundch
 
 Isoz, aso (1), SEOD
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.u.n.e/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.u.n.e/)*

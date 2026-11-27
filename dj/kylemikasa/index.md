@@ -1,13 +1,14 @@
 # KYLE MIKASA
 
-KYLE MIKASA is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at WWW, Tokyo on Fri, 11 Dec 2026.
+KYLE MIKASA is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Spread, Tokyo on Sat, 5 Dec 2026.
 
-KYLE MIKASA is a hardcore and techno artist based in Japan, with 53 gigs on soundcheck across Kyoto, Osaka, Shanghai and Tokyo. Often billed alongside RICKY, KAMIKAZE and egomania. Next up: WWW, Tokyo on Fri 11 Dec.
+KYLE MIKASA is a hardcore and techno artist based in Japan, with 54 gigs on soundcheck across Kyoto, Osaka, Shanghai and Tokyo. Often billed alongside RICKY, KAMIKAZE and egomania. Next up: Spread, Tokyo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Spread | Tokyo |
 | Fri, 11 Dec 2026 | WWW | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ KYLE MIKASA is a hardcore and techno artist based in Japan, with 53 gigs on soun
 
 RICKY, KAMIKAZE, egomania
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*

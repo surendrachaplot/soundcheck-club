@@ -1,6 +1,6 @@
 # Proteus
 
-Proteus is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Proteus is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Proteus is an experimental and techno artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Glasgow, London and Oslo and 1 more. Often billed alongside Glotzer, Becky Stroke and Wax Wings. Next up: The Cause, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Proteus is an experimental and techno artist based in United Kingdom, with 38 gi
 
 Glotzer, Becky Stroke, Wax Wings
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proteus-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proteus-uk/)*

@@ -1,6 +1,6 @@
 # D3
 
-D3 is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Planeet: Kosmosesse Kaasa Albumi Esitlus" on Fri, 11 Dec 2026.
+D3 is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Planeet: Kosmosesse Kaasa Albumi Esitlus" on Fri, 11 Dec 2026.
 
 D3 is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including Mozey. See dates, start times and who's playing. Telliskivi 62/2, Tallinn, Harjumaa, Estonia.
 
@@ -15,4 +15,4 @@ D3 is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-
 
 Telliskivi 62/2, Tallinn, Harjumaa, Estonia, Tallinn
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/d3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/d3/)*

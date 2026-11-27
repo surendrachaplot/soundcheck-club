@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gabriela, New York City on Thu, 26 Nov 2026.
+Eli Escobar is a House and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at public records, New York City on Sun, 29 Nov 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, with 586 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, New York City on Thu 26 Nov.
+Eli Escobar is a house and electro artist based in United States of America, with 586 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: public records, New York City on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Gabriela | New York City |
 | Sun, 29 Nov 2026 | public records | New York City |
 | Fri, 4 Dec 2026 | House of Yes | New York City |
 | Fri, 18 Dec 2026 | Signal | New York City |
@@ -19,6 +18,7 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 
 ## Recently played
 
+- Gabriela, New York City · Thu, 26 Nov 2026
 - Green Room NYC, New York City · Wed, 25 Nov 2026
 - TV Lounge, Detroit · Sat, 21 Nov 2026
 - Gabriela, New York City · Thu, 19 Nov 2026
@@ -26,10 +26,9 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 - SILO, New York City · Sat, 14 Nov 2026
 - TBA, Denver · Fri, 13 Nov 2026
 - Gabriela, New York City · Thu, 12 Nov 2026
-- Bossa Nova Civic Club, New York City · Sun, 8 Nov 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

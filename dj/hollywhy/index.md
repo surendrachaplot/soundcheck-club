@@ -1,6 +1,6 @@
 # Holly Why
 
-Holly Why is a Minimal and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret location, East London, London on Sat, 28 Nov 2026.
+Holly Why is a Minimal and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret location, East London, London on Sat, 28 Nov 2026.
 
 Holly Why is a minimal and house artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Birmingham, Leeds and Liverpool and 3 more. Often billed alongside Damian Nova, Josh Demello and Kearun. Next up: TBA - Secret location, East London, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Holly Why is a minimal and house artist based in United Kingdom, with 37 gigs on
 
 Damian Nova, Josh Demello, Kearun
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywhy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywhy/)*

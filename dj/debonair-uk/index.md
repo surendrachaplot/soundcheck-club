@@ -1,6 +1,6 @@
 # DEBONAIR
 
-DEBONAIR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+DEBONAIR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 DEBONAIR is a techno and house artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, Beijing, Bristol and Chicago and 18 more. Often billed alongside Jubilee, Objekt and BEIGE. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ DEBONAIR is a techno and house artist based in United Kingdom, with 63 gigs on s
 
 Jubilee, Objekt, BEIGE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*

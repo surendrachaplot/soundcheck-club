@@ -1,6 +1,6 @@
 # seaketa
 
-seaketa is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Forestlimit, Tokyo on Fri, 4 Dec 2026.
+seaketa is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Forestlimit, Tokyo on Fri, 4 Dec 2026.
 
 seaketa is an electronica and experimental artist based in Japan, with 30 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside okadada, NordOst and pnnikin. Next up: Forestlimit, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ seaketa is an electronica and experimental artist based in Japan, with 30 gigs o
 
 okadada, NordOst, pnnikin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*

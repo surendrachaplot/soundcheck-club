@@ -1,6 +1,6 @@
 # Thys
 
-Thys is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
+Thys is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
 
 Thys is a techno and drum & bass artist based in Poland, with 26 gigs on soundcheck across Amsterdam, Bali, Berlin and Brighton and 16 more. Often billed alongside Dan Brocksmith, Flowdan and Imanu. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Thys is a techno and drum & bass artist based in Poland, with 26 gigs on soundch
 
 Dan Brocksmith, Flowdan, Imanu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thys/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thys/)*

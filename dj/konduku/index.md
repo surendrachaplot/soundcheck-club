@@ -1,8 +1,8 @@
 # Konduku
 
-Konduku is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 27 Nov 2026.
+Konduku is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 27 Nov 2026.
 
-Konduku is a techno and house artist based in Netherlands, with 203 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Ankali & Planeta Za, Prague on Fri 27 Nov.
+Konduku is a techno and house artist based in Netherlands, with 204 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 53 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Ankali & Planeta Za, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Konduku is a techno and house artist based in Netherlands, with 203 gigs on soun
 | Fri, 1 Jan 2027 | Backsteinboot | Berlin |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia) | Melbourne |
 | Fri, 9 Apr 2027 | 宀 Club | Hong-kong |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -34,4 +35,4 @@ Konduku is a techno and house artist based in Netherlands, with 203 gigs on soun
 
 DJ Nobu, Kia (AU), Woody92
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

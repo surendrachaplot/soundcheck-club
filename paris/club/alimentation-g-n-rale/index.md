@@ -1,6 +1,6 @@
 # Alimentation Générale
 
-Alimentation Générale is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Acidisco! By Novorama & Flagrant Machine" on Sat, 28 Nov 2026.
+Alimentation Générale is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Acidisco! By Novorama & Flagrant Machine" on Sat, 28 Nov 2026.
 
 Alimentation Générale is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Soyé. See dates, start times and who's playing. 64 Rue Jean Pierre Timbaud, 75011 Paris.
 
@@ -14,4 +14,4 @@ Alimentation Générale is a music venue in Paris listed on soundcheck. 1 upcomi
 
 64 Rue Jean Pierre Timbaud, 75011 Paris, Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/alimentation-g-n-rale/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/alimentation-g-n-rale/)*

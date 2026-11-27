@@ -1,6 +1,6 @@
 # Inez Akker
 
-Inez Akker is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OT301, Amsterdam on Fri, 4 Dec 2026.
+Inez Akker is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OT301, Amsterdam on Fri, 4 Dec 2026.
 
 Inez Akker is a techno and house artist based in Spain, with 43 gigs on soundcheck across Amsterdam, Ghent, Malaga and Rotterdam and 2 more. Often billed alongside Dexon, Antonio Fevola and rebrånded. Next up: OT301, Amsterdam on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Inez Akker is a techno and house artist based in Spain, with 43 gigs on soundche
 
 Dexon, Antonio Fevola, rebrånded
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inezakker/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inezakker/)*

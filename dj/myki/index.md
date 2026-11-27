@@ -1,6 +1,6 @@
 # MYKI
 
-MYKI is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Orangerie Neukölln, Berlin on Thu, 3 Dec 2026.
+MYKI is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Orangerie Neukölln, Berlin on Thu, 3 Dec 2026.
 
 MYKI is a progressive house and trance artist, with 9 gigs on soundcheck across Berlin, Hamburg, Lisbon and Munich. Often billed alongside Olsvangèr, Carmen Electro and DJ Hochzeit. Next up: Orangerie Neukölln, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ MYKI is a progressive house and trance artist, with 9 gigs on soundcheck across 
 
 Olsvangèr, Carmen Electro, DJ Hochzeit
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myki/)*

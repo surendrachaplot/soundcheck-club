@@ -1,6 +1,6 @@
 # GOIA AMO
 
-GOIA AMO is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Palace Vinyl, London on Sat, 5 Dec 2026.
+GOIA AMO is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Palace Vinyl, London on Sat, 5 Dec 2026.
 
 GOIA AMO is an electro and techno artist, with 20 gigs on soundcheck across London and Sao Paulo. Often billed alongside Juliana Branco, Simoon Pedro and Leonardo Cruz DJ. Next up: Palace Vinyl, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ GOIA AMO is an electro and techno artist, with 20 gigs on soundcheck across Lond
 
 Juliana Branco, Simoon Pedro, Leonardo Cruz DJ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goiaamo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goiaamo/)*

@@ -1,8 +1,8 @@
 # LYLO (NL)
 
-LYLO (NL) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 28 Nov 2026.
+LYLO (NL) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 28 Nov 2026.
 
-LYLO (NL) is a house and techno artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Berlin, London and Rotterdam and 1 more. Often billed alongside Philou Louzolo, Abstract Division and Bastienne. Next up: CLUB RAUM, Amsterdam on Sat 28 Nov.
+LYLO (NL) is a house and techno artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Berlin, London and Rotterdam and 1 more. Often billed alongside Philou Louzolo, Abstract Division and Bastienne. Next up: CLUB RAUM, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LYLO (NL) is a house and techno artist based in Netherlands, with 27 gigs on sou
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 19 Dec 2026 | NAR | Utrecht |
+| Thu, 31 Dec 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ LYLO (NL) is a house and techno artist based in Netherlands, with 27 gigs on sou
 
 Philou Louzolo, Abstract Division, Bastienne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lylonl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lylonl/)*

@@ -1,6 +1,6 @@
 # scheffka
 
-scheffka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Schlegel Kultur Club, Bochum on Sat, 28 Nov 2026.
+scheffka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Schlegel Kultur Club, Bochum on Sat, 28 Nov 2026.
 
 scheffka is a techno and house artist based in Germany, with 7 gigs on soundcheck across Bochum, Cologne and Düsseldorf. Often billed alongside Max Blumen, Chris Rose and Liho. Next up: Schlegel Kultur Club, Bochum on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ scheffka is a techno and house artist based in Germany, with 7 gigs on soundchec
 
 Max Blumen, Chris Rose, Liho
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scheffka/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scheffka/)*

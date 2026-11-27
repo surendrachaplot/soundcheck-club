@@ -1,6 +1,6 @@
 # Flowing
 
-Flowing is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Fábrica de Hielo, Valencia on Fri, 27 Nov 2026.
+Flowing is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Fábrica de Hielo, Valencia on Fri, 27 Nov 2026.
 
 Flowing is a house and disco artist based in Netherlands, with 14 gigs on soundcheck across Berlin and Valencia. Often billed alongside Flow, Ingy and Robert Estrela. Next up: La Fábrica de Hielo, Valencia on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Flowing is a house and disco artist based in Netherlands, with 14 gigs on soundc
 
 Flow, Ingy, Robert Estrela
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flowing/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flowing/)*

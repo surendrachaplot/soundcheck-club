@@ -1,6 +1,6 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ZeyZey, Miami on Sat, 28 Nov 2026.
+Anastazja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ZeyZey, Miami on Sat, 28 Nov 2026.
 
 Anastazja is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Chicago, Ibiza, Istanbul and Lisbon and 14 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: ZeyZey, Miami on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Anastazja is a house and techno artist based in United States of America, with 3
 
 Ayanna Heaven, CTRLZORA, DJ Holographic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

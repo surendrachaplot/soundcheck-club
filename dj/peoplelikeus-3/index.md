@@ -1,6 +1,6 @@
 # People Like Us (3)
 
-People Like Us (3) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
+People Like Us (3) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
 
 People Like Us is a house and afro house artist based in Turkey, with 25 gigs on soundcheck across Amsterdam, Belgrade, Düsseldorf and Ibiza and 4 more. Often billed alongside Mahmut Orhan, Charmeine and Black Batu. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ People Like Us is a house and afro house artist based in Turkey, with 25 gigs on
 
 Mahmut Orhan, Charmeine, Black Batu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*

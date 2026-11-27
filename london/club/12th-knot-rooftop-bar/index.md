@@ -1,6 +1,6 @@
 # 12th Knot Rooftop Bar
 
-12th Knot Rooftop Bar is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "[ Sold Out ] Release Day Party Winter Edition" on Sun, 29 Nov 2026.
+12th Knot Rooftop Bar is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "[ Sold Out ] Release Day Party Winter Edition" on Sun, 29 Nov 2026.
 
 12th Knot Rooftop Bar is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Teaser DJ and Tippa. See dates, start times and who's playing. 20 Upper Ground, South Bank, London SE1 9PD, United Kingdom.
 
@@ -15,4 +15,4 @@
 
 20 Upper Ground, South Bank, London SE1 9PD, United Kingdom, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/12th-knot-rooftop-bar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/12th-knot-rooftop-bar/)*

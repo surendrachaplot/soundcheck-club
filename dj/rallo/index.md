@@ -1,6 +1,6 @@
 # Rallo
 
-Rallo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 12 Dec 2026.
+Rallo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 12 Dec 2026.
 
 Rallo is a techno and house artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Frankfurt and Munich. Often billed alongside Avocado, Dave Dinger and Leon Licht. Next up: Ritter Butzke, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Rallo is a techno and house artist based in Germany, with 21 gigs on soundcheck 
 
 Avocado, Dave Dinger, Leon Licht
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rallo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rallo/)*

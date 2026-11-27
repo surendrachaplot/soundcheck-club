@@ -1,6 +1,6 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Oll Korrect" on Fri, 27 Nov 2026.
+Heavy Sick Zero is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Oll Korrect" on Fri, 27 Nov 2026.
 
 Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including DJ INDRA, DJ SOUL SLINGER, 反核機動隊 and Hirosson and 2 more. See dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
@@ -15,4 +15,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs,
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

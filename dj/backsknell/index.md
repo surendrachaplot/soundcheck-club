@@ -1,6 +1,6 @@
 # Backsknell
 
-Backsknell is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cafe-Gallery, Tbilisi on Sun, 6 Dec 2026.
+Backsknell is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cafe-Gallery, Tbilisi on Sun, 6 Dec 2026.
 
 Backsknell is a techno and afro tech artist, with 5 gigs on soundcheck across Tbilisi. Often billed alongside Seqta, gwän and NASI (GE). Next up: Cafe-Gallery, Tbilisi on Sun 6 Dec.
 
@@ -21,4 +21,4 @@ Backsknell is a techno and afro tech artist, with 5 gigs on soundcheck across Tb
 
 Seqta, gwän, NASI (GE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/backsknell/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/backsknell/)*

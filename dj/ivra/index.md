@@ -1,6 +1,6 @@
 # IVRA
 
-IVRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at SMUT Athens, Athens on Sat, 28 Nov 2026.
+IVRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SMUT Athens, Athens on Sat, 28 Nov 2026.
 
 IVRA is a techno and house artist based in Algeria, with 16 gigs on soundcheck across Athens, Berlin and Helsinki. Often billed alongside NAAMAA, AMH and EMPERØR. Next up: SMUT Athens, Athens on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ IVRA is a techno and house artist based in Algeria, with 16 gigs on soundcheck a
 
 NAAMAA, AMH (1), EMPERØR
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivra/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivra/)*

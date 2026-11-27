@@ -1,6 +1,6 @@
 # DimSum
 
-DimSum is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Weetamix, Geneva on Sat, 5 Dec 2026.
+DimSum is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Weetamix, Geneva on Sat, 5 Dec 2026.
 
 DimSum is a house and disco artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside VITO (CH), Leo Luscher and Carlos Willengton. Next up: Weetamix, Geneva on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DimSum is a house and disco artist based in Switzerland, with 57 gigs on soundch
 
 VITO (CH), Leo Luscher, Carlos Willengton
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimsum/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimsum/)*

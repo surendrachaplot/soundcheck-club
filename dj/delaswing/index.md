@@ -1,6 +1,6 @@
 # De La Swing
 
-De La Swing is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 18 Dec 2026.
+De La Swing is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 18 Dec 2026.
 
 De La Swing is a tech house and house artist based in Spain, with 91 gigs on soundcheck across Bali, Barcelona, Bucharest and Budapest and 13 more. Often billed alongside Paco Osuna, Melanie Ribbe and CAAL. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ De La Swing is a tech house and house artist based in Spain, with 91 gigs on sou
 
 Paco Osuna, Melanie Ribbe, CAAL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*

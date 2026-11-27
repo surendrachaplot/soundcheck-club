@@ -1,6 +1,6 @@
 # DJ Duchess
 
-DJ Duchess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Flash, Washington DC on Sat, 12 Dec 2026.
+DJ Duchess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Flash, Washington DC on Sat, 12 Dec 2026.
 
 DJ Duchess is a house and techno artist based in United States of America, with 9 gigs on soundcheck across Washington DC. Often billed alongside Benjy Bradshaw, Micfreak and ANNYA. Next up: Flash, Washington DC on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ Duchess is a house and techno artist based in United States of America, with 
 
 Benjy Bradshaw, Micfreak, ANNYA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduchess/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduchess/)*

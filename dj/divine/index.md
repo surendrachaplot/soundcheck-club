@@ -1,6 +1,6 @@
 # Divine
 
-Divine is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hal 4 aan de Maas, Rotterdam on Fri, 4 Dec 2026.
+Divine is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hal 4 aan de Maas, Rotterdam on Fri, 4 Dec 2026.
 
 Divine is a house and acid artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Melbourne, Rotterdam and The Hague and 2 more. Often billed alongside Alexander Koning, ROOG and Funkerman. Next up: Hal 4 aan de Maas, Rotterdam on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ Divine is a house and acid artist based in Netherlands, with 20 gigs on soundche
 
 Alexander Koning, ROOG, Funkerman
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divine/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divine/)*

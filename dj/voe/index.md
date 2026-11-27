@@ -1,6 +1,6 @@
 # VOE
 
-VOE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Haus der Kunst, Munich on Fri, 27 Nov 2026.
+VOE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Haus der Kunst, Munich on Fri, 27 Nov 2026.
 
 VOE is a house and tech house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Leipzig and Munich. Often billed alongside DJoy, SOPHIE PSCHORR and CeeDeeGee. Next up: Haus der Kunst, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ VOE is a house and tech house artist based in Germany, with 29 gigs on soundchec
 
 DJoy, SOPHIE PSCHORR, CeeDeeGee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voe/)*

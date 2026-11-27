@@ -1,6 +1,6 @@
 # LaFHomme
 
-LaFHomme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 2 Dec 2026.
+LaFHomme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 2 Dec 2026.
 
 LaFHomme is a techno and house artist based in Canada, with 30 gigs on soundcheck across Montreal and New York City. Often billed alongside Syana, h1bou and Ekitwanda. Next up: Bossa Nova Civic Club, New York City on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ LaFHomme is a techno and house artist based in Canada, with 30 gigs on soundchec
 
 Syana, h1bou, Ekitwanda
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafhomme/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafhomme/)*

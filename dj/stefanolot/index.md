@@ -1,6 +1,6 @@
 # Stefano Lot
 
-Stefano Lot is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Dept 184, Milan on Sat, 19 Dec 2026.
+Stefano Lot is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Dept 184, Milan on Sat, 19 Dec 2026.
 
 Stefano Lot is a techno and acid artist, with 6 gigs on soundcheck across Bologna and Milan. Often billed alongside ALXV, Alex Brasile and DJ Vietnam. Next up: Club Dept 184, Milan on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Stefano Lot is a techno and acid artist, with 6 gigs on soundcheck across Bologn
 
 ALXV, Alex Brasile, DJ Vietnam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanolot/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanolot/)*

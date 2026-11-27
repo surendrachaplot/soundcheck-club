@@ -1,6 +1,6 @@
 # Maje
 
-Maje is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 9D9, Barcelona on Thu, 17 Dec 2026.
+Maje is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 9D9, Barcelona on Thu, 17 Dec 2026.
 
 Maje is a drum & bass and jungle artist based in Spain, with 16 gigs on soundcheck across Barcelona. Often billed alongside PEAK, Peter K and Ana Dimco. Next up: 9D9, Barcelona on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Maje is a drum & bass and jungle artist based in Spain, with 16 gigs on soundche
 
 PEAK (2), Peter K, Ana Dimco
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maje/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maje/)*

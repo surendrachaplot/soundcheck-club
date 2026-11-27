@@ -1,6 +1,6 @@
 # symmetry
 
-symmetry is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sun, 29 Nov 2026.
+symmetry is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sun, 29 Nov 2026.
 
 symmetry is a techno and electronica artist based in United Kingdom, with 3 gigs on soundcheck across Manchester, Melbourne and West Wales. Often billed alongside Dr Banana, Sinéad and Amaliah. Next up: TBA - Il Mercato Centrale, Melbourne on Sun 29 Nov.
 
@@ -19,4 +19,4 @@ symmetry is a techno and electronica artist based in United Kingdom, with 3 gigs
 
 Dr Banana, Sinéad, Amaliah
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/symmetry/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/symmetry/)*

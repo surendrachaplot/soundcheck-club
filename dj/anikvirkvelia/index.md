@@ -1,6 +1,6 @@
 # Ani Kvirkvelia
 
-Ani Kvirkvelia is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mtkvarze, Tbilisi on Fri, 27 Nov 2026.
+Ani Kvirkvelia is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mtkvarze, Tbilisi on Fri, 27 Nov 2026.
 
 Ani Kvirkvelia is a techno and acid artist based in Georgia, with 67 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Helsinki and 2 more. Often billed alongside Seqta, Sevda and Generali Minerali. Next up: Mtkvarze, Tbilisi on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ani Kvirkvelia is a techno and acid artist based in Georgia, with 67 gigs on sou
 
 Seqta, Sevda, Generali Minerali
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anikvirkvelia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anikvirkvelia/)*

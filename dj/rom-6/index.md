@@ -1,6 +1,6 @@
 # rom (6)
 
-rom (6) is a Club and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cakeshop, Seoul on Fri, 27 Nov 2026.
+rom (6) is a Club and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cakeshop, Seoul on Fri, 27 Nov 2026.
 
 rom is a club and garage artist based in South Korea, with 33 gigs on soundcheck across Bristol, Hong Kong, London and Seoul. Often billed alongside BAAWLA, AEIDA and Coziest. Next up: Cakeshop, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ rom is a club and garage artist based in South Korea, with 33 gigs on soundcheck
 
 BAAWLA, AEIDA, Coziest
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rom-6/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rom-6/)*

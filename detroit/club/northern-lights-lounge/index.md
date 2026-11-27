@@ -1,14 +1,13 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Alternative School presents: Open Enrollment (Open Decks)" on Thu, 26 Nov 2026.
+Northern Lights Lounge is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Rick Wilhite • Mike Agent X Clark • Deeper Waters" on Fri, 27 Nov 2026.
 
-Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including The AM/AMX, AIDEL, AK (US) and cdjane3k and 2 more. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
+Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including The AM/AMX, AIDEL, AK (US) and cdjane3k and 2 more. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Alternative School presents: Open Enrollment (Open Decks) |  |
 | Fri, 27 Nov 2026 | Rick Wilhite • Mike Agent X Clark • Deeper Waters | Deeper Waters, Mike Agent X Clark, Rick Wilhite |
 | Sat, 28 Nov 2026 | Handoff - Dolls Night 3 Year Anniversary | AIDEL, Earlll, Swan Laurent, cdjane3k, joycxi |
 | Sat, 5 Dec 2026 | DONLITE: Donavan Glover, Fullbodydurag & Medha Achar | Donavan Glover, Fullbodydurag, Medha Achar |
@@ -19,4 +18,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

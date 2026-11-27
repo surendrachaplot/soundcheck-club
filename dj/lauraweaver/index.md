@@ -1,6 +1,6 @@
 # Laura Weaver
 
-Laura Weaver is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Baltic Market, Liverpool on Thu, 31 Dec 2026.
+Laura Weaver is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Baltic Market, Liverpool on Thu, 31 Dec 2026.
 
 Laura Weaver is a disco and house artist based in United Kingdom, with 13 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Laura Jackson, Nam Tran and Ché Luca. Next up: Baltic Market, Liverpool on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Laura Weaver is a disco and house artist based in United Kingdom, with 13 gigs o
 
 Laura Jackson, Nam Tran, Ché Luca
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraweaver/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraweaver/)*

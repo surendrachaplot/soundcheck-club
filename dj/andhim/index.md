@@ -1,6 +1,6 @@
 # Andhim
 
-Andhim is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 28 Nov 2026.
+Andhim is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 28 Nov 2026.
 
 Andhim is a house and techno artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Lux Fragil, Lisbon on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Andhim is a house and techno artist based in Germany, with 131 gigs on soundchec
 
 Rafael Da Cruz, Claptone, HOSH
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*

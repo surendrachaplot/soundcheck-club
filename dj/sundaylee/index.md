@@ -1,6 +1,6 @@
 # Sunday Lee
 
-Sunday Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Edge Seoul, Seoul on Fri, 27 Nov 2026.
+Sunday Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Edge Seoul, Seoul on Fri, 27 Nov 2026.
 
 Sunday Lee is a house and techno artist based in South Korea, with 163 gigs on soundcheck across Hanoi and Seoul. Often billed alongside Kugel, Cosmo (KR) and DJ Funny. Next up: The Edge Seoul, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sunday Lee is a house and techno artist based in South Korea, with 163 gigs on s
 
 Kugel, Cosmo (KR), DJ Funny
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaylee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaylee/)*

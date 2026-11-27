@@ -1,13 +1,14 @@
 # Franky Jones
 
-Franky Jones is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gasfabriek, Amsterdam on Sat, 30 Jan 2027.
+Franky Jones is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Charlatan, Ghent on Fri, 4 Dec 2026.
 
-Franky Jones is a techno and acid artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Berlin, Cologne and Ghent. Often billed alongside Alexander Koning, Erick E and Remy Unger. Next up: Gasfabriek, Amsterdam on Sat 30 Jan.
+Franky Jones is a techno and acid artist based in Belgium, with 27 gigs on soundcheck across Amsterdam, Berlin, Cologne and Ghent. Often billed alongside Alexander Koning, Erick E and Remy Unger. Next up: Charlatan, Ghent on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Charlatan | Ghent |
 | Sat, 30 Jan 2027 | Gasfabriek | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Franky Jones is a techno and acid artist based in Belgium, with 26 gigs on sound
 
 Alexander Koning, Erick E, Remy Unger
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*

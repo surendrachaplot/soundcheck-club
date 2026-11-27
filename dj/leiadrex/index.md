@@ -1,6 +1,6 @@
 # Leia Drex
 
-Leia Drex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 5 Dec 2026.
+Leia Drex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 5 Dec 2026.
 
 Leia Drex is a techno and house artist based in Slovakia, with 22 gigs on soundcheck across Bratislava and Prague. Often billed alongside Majsko, Hasky (SK) and Loktibrada. Next up: Radost Music Club, Bratislava on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Leia Drex is a techno and house artist based in Slovakia, with 22 gigs on soundc
 
 Majsko, Hasky (SK), Loktibrada
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leiadrex/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leiadrex/)*

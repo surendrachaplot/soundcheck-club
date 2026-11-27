@@ -1,6 +1,6 @@
 # Lorain
 
-Lorain is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 15 Jan 2027.
+Lorain is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 15 Jan 2027.
 
 Lorain is a house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Bouk Liúw, Espen and Fieldhouse. Next up: Shelter Amsterdam, Amsterdam on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Lorain is a house and techno artist based in Netherlands, with 9 gigs on soundch
 
 Bouk Liúw, Espen, Fieldhouse
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorain/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorain/)*

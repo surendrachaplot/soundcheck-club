@@ -1,6 +1,6 @@
 # 9-System
 
-9-System is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
+9-System is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 9-System is a techno and trance artist based in United States of America, with 38 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside MILANA, Max Gardner and Adra. Next up: 1015 Folsom, San Francisco/Oakland on Fri 27 Nov.
 
@@ -26,4 +26,4 @@
 
 MILANA, Max Gardner, Adra
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9-system/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9-system/)*

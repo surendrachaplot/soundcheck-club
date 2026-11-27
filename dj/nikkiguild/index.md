@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Nikki Guild is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Nikki Guild is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Edinburgh. Often billed alongside ona:v, Iona.Violet and Jedda. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Nikki Guild is a house and disco artist based in United Kingdom, with 22 gigs on
 
 ona:v, Iona.Violet, Jedda
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

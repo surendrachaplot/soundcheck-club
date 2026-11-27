@@ -1,8 +1,8 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Are You Disco?: Toy Tonics Jam, Yasmin" on Fri, 27 Nov 2026.
+Frankhan Selectist is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Are You Disco?: Toy Tonics Jam, Yasmin" on Fri, 27 Nov 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Cabanne, Childplay, DJ Nobu and Gee Lane and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Cabanne, Childplay, DJ Nobu and Gee Lane and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming
 | Sat, 5 Dec 2026 | Saturday: DJ Nobu, Pink Concrete, Krane + more | Childplay, DJ Nobu, Krane, Naska, Pink Concrete |
 | Thu, 10 Dec 2026 | Apollo Brown x Skyzoo: The Easy Luxury Tour |  |
 | Thu, 10 Dec 2026 | Faruk Orakçı - RCR9: İSTANBUL | Gunselx |
+| Fri, 18 Dec 2026 | Sedef Adasï | Sedef Adasï |
 | Wed, 23 Dec 2026 | Ghostface Killah |  |
 | Sun, 10 Jan 2027 | DJ BORING |  |
 
@@ -20,4 +21,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

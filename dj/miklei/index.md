@@ -1,8 +1,8 @@
 # MIKLEI
 
-MIKLEI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
+MIKLEI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
 
-MIKLEI is a techno and trance artist based in Ukraine, with 50 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 2 more. Often billed alongside SPACER (SK), SJ Yellow and TAPCUE. Next up: Subdeck, Bratislava on Sat 5 Dec.
+MIKLEI is a techno and trance artist based in Ukraine, with 50 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 2 more. Often billed alongside SPACER (SK), SJ yellow and TAPCUE. Next up: Subdeck, Bratislava on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ MIKLEI is a techno and trance artist based in Ukraine, with 50 gigs on soundchec
 
 ## Shares bills with
 
-SPACER (SK), SJ Yellow, TAPCUE
+SPACER (SK), SJ yellow, TAPCUE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miklei/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miklei/)*

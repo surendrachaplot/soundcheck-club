@@ -1,6 +1,6 @@
 # Lonho
 
-Lonho is a Deep House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Edge Seoul, Seoul on Sat, 12 Dec 2026.
+Lonho is a Deep House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Edge Seoul, Seoul on Sat, 12 Dec 2026.
 
 Lonho is a deep house and downtempo artist based in South Korea, with 23 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Sinqmin, YOUKU and Eugene Blake. Next up: The Edge Seoul, Seoul on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Lonho is a deep house and downtempo artist based in South Korea, with 23 gigs on
 
 Sinqmin, YOUKU, Eugene Blake
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonho/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonho/)*

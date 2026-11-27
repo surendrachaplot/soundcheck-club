@@ -1,6 +1,6 @@
 # Neel
 
-Neel is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Forte Prenestino, Rome on Fri, 27 Nov 2026.
+Neel is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Forte Prenestino, Rome on Fri, 27 Nov 2026.
 
 Neel is a techno and electronica artist based in Italy, with 120 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Anthony Linell, .VRIL and Donato Dozzy. Next up: Forte Prenestino, Rome on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Neel is a techno and electronica artist based in Italy, with 120 gigs on soundch
 
 Anthony Linell, .VRIL, Donato Dozzy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*

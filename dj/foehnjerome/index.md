@@ -1,14 +1,15 @@
 # Foehn & Jerome
 
-Foehn & Jerome is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kapsule, Liverpool on Fri, 4 Dec 2026.
+Foehn & Jerome is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kapsule, Liverpool on Fri, 4 Dec 2026.
 
-Foehn & Jerome are a house and techno duo based in Austria, with 53 gigs on soundcheck across Berlin, Bucharest, Greece and Leeds and 8 more. Often billed alongside Felix Hk, Barbara Preisinger and Sammy Dee. Next up: Kapsule, Liverpool on Fri 4 Dec.
+Foehn & Jerome are a house and minimal duo based in Austria, with 54 gigs on soundcheck across Berlin, Bucharest, Greece and Leeds and 9 more. Often billed alongside Felix Hk, Barbara Preisinger and Sammy Dee. Next up: Kapsule, Liverpool on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Kapsule | Liverpool |
+| Sat, 12 Dec 2026 | Circolo degli Illuminati | Rome |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Foehn & Jerome are a house and techno duo based in Austria, with 53 gigs on soun
 
 Felix Hk, Barbara Preisinger, Sammy Dee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foehnjerome/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foehnjerome/)*

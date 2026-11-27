@@ -1,6 +1,6 @@
 # Deco (BE)
 
-Deco (BE) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pacha, Munich on Fri, 4 Dec 2026.
+Deco (BE) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pacha, Munich on Fri, 4 Dec 2026.
 
 Deco (BE) is an afro house and house artist based in Belgium, with 20 gigs on soundcheck across Antwerp, Brussels, Budapest and Ghent and 4 more. Often billed alongside Bastin., John Noseda and Kenny Montana. Next up: Pacha, Munich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Deco (BE) is an afro house and house artist based in Belgium, with 20 gigs on so
 
 Bastin., John Noseda, Kenny Montana
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decobe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decobe/)*

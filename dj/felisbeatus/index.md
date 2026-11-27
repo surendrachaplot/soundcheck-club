@@ -1,6 +1,6 @@
 # Felis Beātus
 
-Felis Beātus is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Taco Kat, Orlando on Fri, 11 Dec 2026.
+Felis Beātus is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Taco Kat, Orlando on Fri, 11 Dec 2026.
 
 Felis Beātus is a minimal and house artist based in Brazil, with 26 gigs on soundcheck across Miami, Orlando, Tampa Bay and Washington DC. Often billed alongside Diana NC, Hugh Malo and Mayan Cxllective. Next up: Taco Kat, Orlando on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Felis Beātus is a minimal and house artist based in Brazil, with 26 gigs on sou
 
 Diana NC, Hugh Malo, Mayan Cxllective
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felisbeatus/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felisbeatus/)*

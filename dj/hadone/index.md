@@ -1,6 +1,6 @@
 # Hadone
 
-Hadone is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fuse, Brussels on Fri, 27 Nov 2026.
+Hadone is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuse, Brussels on Fri, 27 Nov 2026.
 
 Hadone is a techno and house artist based in France, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside UFO95, Chlär and DAX J. Next up: Fuse, Brussels on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Hadone is a techno and house artist based in France, with 207 gigs on soundcheck
 
 UFO95, Chlär, DAX J
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

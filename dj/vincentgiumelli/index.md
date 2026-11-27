@@ -1,6 +1,6 @@
 # Vincent Giumelli
 
-Vincent Giumelli is a Minimal Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
+Vincent Giumelli is a Minimal Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
 
 Vincent Giumelli is a minimal techno and tech house artist based in France, with 7 gigs on soundcheck across Madrid. Often billed alongside Giorgio Robles, Human Halo and Olga Korol. Next up: Next Clubbing, Madrid on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Vincent Giumelli is a minimal techno and tech house artist based in France, with
 
 Giorgio Robles, Human Halo, Olga Korol
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentgiumelli/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentgiumelli/)*

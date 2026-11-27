@@ -1,8 +1,8 @@
 # Elle J
 
-Elle J is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Room, Montreal on Fri, 4 Dec 2026.
+Elle J is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blue Room, Montreal on Fri, 4 Dec 2026.
 
-Elle J is a progressive house and house artist, with 6 gigs on soundcheck across Montreal. Often billed alongside Un Zoo Le Jour, Underthebed and ARJ (IR). Next up: Blue Room, Montreal on Fri 4 Dec.
+Elle J is a progressive house and house artist based in Canada, with 6 gigs on soundcheck across Montreal. Often billed alongside Un Zoo Le Jour, Underthebed and ARJ (IR). Next up: Blue Room, Montreal on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Elle J is a progressive house and house artist, with 6 gigs on soundcheck across
 
 Un Zoo Le Jour, Underthebed, ARJ (IR)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellej/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellej/)*

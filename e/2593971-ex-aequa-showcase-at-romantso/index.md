@@ -1,6 +1,6 @@
 # Ex aequa showcase at Romantso
 
-Ex aequa showcase at Romantso on Fri 27 Nov, Athens. 2 artists: Flore and Janet Davis. House and Bass. See the line-up on soundcheck.
+Ex aequa showcase at Romantso on Fri 27 Nov, Athens. 5 artists: babsko, Bipolia, Flore and K.atou and 1 more. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Ex aequa showcase at Romantso on Fri 27 Nov, Athens. 2 artists: Flore and Janet 
 
 ## Line-up
 
+- babsko
+- Bipolia
 - Flore
-- Janet Davis
+- K.atou
+- Miss Trouli
 
 *Source: [soundcheck](https://soundcheck.club/e/2593971-ex-aequa-showcase-at-romantso/)*

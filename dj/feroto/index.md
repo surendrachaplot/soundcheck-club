@@ -1,6 +1,6 @@
 # FEROTO
 
-FEROTO is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 25 Nov 2026.
+FEROTO is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 25 Nov 2026.
 
 FEROTO is a house and downtempo artist based in Mexico, with 39 gigs on soundcheck across Mexico City, Seoul and Tokyo. Often billed alongside Barreto, DJ Milka and Future Feelings. Next up: ROCA HIFI, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ FEROTO is a house and downtempo artist based in Mexico, with 39 gigs on soundche
 
 Barreto, DJ Milka, Future Feelings
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feroto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feroto/)*

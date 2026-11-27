@@ -1,6 +1,6 @@
 # The Fleece
 
-The Fleece is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mista Trick Collective Album 2 Tour (Bristol)" on Wed, 24 Mar 2027.
+The Fleece is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mista Trick Collective Album 2 Tour (Bristol)" on Wed, 24 Mar 2027.
 
 The Fleece is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Mista Trick. See dates, start times and who's playing. The Fleece, 12 St Thomas Street, Bristol, BS1 6JJ, United Kingdom.
 
@@ -14,4 +14,4 @@ The Fleece is a music venue in Bristol listed on soundcheck. 1 upcoming gig, wit
 
 The Fleece, 12 St Thomas Street, Bristol, BS1 6JJ, United Kingdom, Bristol
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-fleece/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-fleece/)*

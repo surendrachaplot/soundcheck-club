@@ -1,6 +1,6 @@
 # The Doghouse bar & Record Store
 
-The Doghouse bar & Record Store is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Seth & Friends VI [VENUE CHANGE]" on Fri, 27 Nov 2026.
+The Doghouse bar & Record Store is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Seth & Friends VI [VENUE CHANGE]" on Fri, 27 Nov 2026.
 
 The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Michael Upson, Mighty Funk Houser, Sam Pratt and Scott Broadhead and 2 more. See dates, start times and who's playing. 90 Kirkgate, Leeds LS2 7DJ, UK.
 
@@ -15,4 +15,4 @@ The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 
 
 90 Kirkgate, Leeds LS2 7DJ, UK, Leeds
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*

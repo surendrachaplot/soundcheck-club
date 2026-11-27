@@ -1,6 +1,6 @@
 # wrubel
 
-wrubel is a Jungle and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Klub SPATiF, Warsaw on Fri, 27 Nov 2026.
+wrubel is a Jungle and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Klub SPATiF, Warsaw on Fri, 27 Nov 2026.
 
 wrubel is a jungle and balearic artist based in Poland, with 20 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Patsi Parisi, Cosaco and Facheroia. Next up: Klub SPATiF, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ wrubel is a jungle and balearic artist based in Poland, with 20 gigs on soundche
 
 Patsi Parisi, Cosaco, Facheroia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrubel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrubel/)*

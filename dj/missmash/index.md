@@ -1,6 +1,6 @@
 # Miss Mash
 
-Miss Mash is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Soup, Manchester on Fri, 11 Dec 2026.
+Miss Mash is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Soup, Manchester on Fri, 11 Dec 2026.
 
 Miss Mash is a disco and house artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Nathan Worm, Roaming Data and Anwar. Next up: Soup, Manchester on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Miss Mash is a disco and house artist based in United Kingdom, with 34 gigs on s
 
 Nathan Worm, Roaming Data, Anwar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*

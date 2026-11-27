@@ -1,6 +1,6 @@
 # DJ Sneak
 
-DJ Sneak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
+DJ Sneak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
 
 DJ Sneak is a house and deep house artist based in Canada, with 78 gigs on soundcheck across Amsterdam, Byron Bay, Chicago and Detroit and 13 more. Often billed alongside Doc Martin, DJ Heather and DJ Dan. Next up: TBA, Puerto Rico on Thu 7 Jan.
 
@@ -25,4 +25,4 @@ DJ Sneak is a house and deep house artist based in Canada, with 78 gigs on sound
 
 Doc Martin, DJ Heather, DJ Dan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*

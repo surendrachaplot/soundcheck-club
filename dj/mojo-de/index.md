@@ -1,14 +1,15 @@
 # mojo
 
-mojo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 28 Nov 2026.
+mojo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at C2 OST, Karlsruhe on Sat, 28 Nov 2026.
 
-mojo is a techno and house artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 14 more. Often billed alongside Waldymoto, Ariel (DE) and Kribs. Next up: C2 OST, Karlsruhe on Sat 28 Nov.
+mojo is a techno and house artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 15 more. Often billed alongside Waldymoto, Ariel (DE) and Kribs. Next up: C2 OST, Karlsruhe on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | C2 OST | Karlsruhe |
+| Thu, 31 Dec 2026 | 93 Feet East | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ mojo is a techno and house artist based in Germany, with 94 gigs on soundcheck a
 
 Waldymoto, Ariel (DE), Kribs
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*

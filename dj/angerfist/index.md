@@ -1,8 +1,8 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - STAGECLUB SAARBRÜCKEN, Saarland on Fri, 27 Nov 2026.
+Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - STAGECLUB SAARBRÜCKEN, Saarland on Fri, 27 Nov 2026.
 
-Angerfist is a techno and hardcore artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 42 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: TBA - STAGECLUB SAARBRÜCKEN, Saarland on Fri 27 Nov.
+Angerfist is a techno and hardcore artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 43 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: TBA - STAGECLUB SAARBRÜCKEN, Saarland on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Angerfist is a techno and hardcore artist based in Germany, with 90 gigs on soun
 | Sat, 9 Jan 2027 | Docks | Hamburg |
 | Fri, 15 Jan 2027 | Tama | Poznan |
 | Sat, 30 Jan 2027 | Kaapelitehdas / The Cable Factory | Helsinki |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Angerfist is a techno and hardcore artist based in Germany, with 90 gigs on soun
 
 Trym, Alignment, Mad Dog
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

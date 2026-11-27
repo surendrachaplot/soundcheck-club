@@ -1,6 +1,6 @@
 # Giuseppe Amodeo
 
-Giuseppe Amodeo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kaņepes Kultūras Centrs, Riga on Sat, 23 Jan 2027.
+Giuseppe Amodeo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kaņepes Kultūras Centrs, Riga on Sat, 23 Jan 2027.
 
 Giuseppe Amodeo is a techno and house artist based in Italy, with 27 gigs on soundcheck across Riga. Often billed alongside Ikss, Freiya March and Ksenia Kamikaza. Next up: Kaņepes Kultūras Centrs, Riga on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Giuseppe Amodeo is a techno and house artist based in Italy, with 27 gigs on sou
 
 Ikss, Freiya March, Ksenia Kamikaza
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeamodeo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeamodeo/)*

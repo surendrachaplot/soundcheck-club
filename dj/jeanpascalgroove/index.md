@@ -1,6 +1,6 @@
 # Jean Pascal Groove
 
-Jean Pascal Groove is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sans Soleil, Montreal on Thu, 10 Dec 2026.
+Jean Pascal Groove is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sans Soleil, Montreal on Thu, 10 Dec 2026.
 
 Jean Pascal Groove is a house and disco artist based in Canada, with 61 gigs on soundcheck across Montreal and Toronto. Often billed alongside Groovy Castle, Lia Plutonic and Sherifsound. Next up: Sans Soleil, Montreal on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Jean Pascal Groove is a house and disco artist based in Canada, with 61 gigs on 
 
 Groovy Castle, Lia Plutonic, Sherifsound
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpascalgroove/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpascalgroove/)*

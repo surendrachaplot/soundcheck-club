@@ -1,6 +1,6 @@
 # Viktoria Spielmann
 
-Viktoria Spielmann is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OIL Club, Shenzhen on Sat, 12 Dec 2026.
+Viktoria Spielmann is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Sat, 12 Dec 2026.
 
 Viktoria Spielmann is a techno and electronica artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Hannover and Kassel and 6 more. Often billed alongside future.666, FILTRACK and AEREA. Next up: OIL Club, Shenzhen on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Viktoria Spielmann is a techno and electronica artist based in Germany, with 25 
 
 future.666, FILTRACK, AEREA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*

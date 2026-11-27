@@ -1,6 +1,6 @@
 # Leon (FR)
 
-Leon (FR) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Æther BKK, Bangkok on Wed, 2 Dec 2026.
+Leon (FR) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Æther BKK, Bangkok on Wed, 2 Dec 2026.
 
 Leon (FR) is a house and deep house artist based in France, with 34 gigs on soundcheck across Bali, Bangkok, Dubai and Frankfurt and 7 more. Often billed alongside Milam, Mo-Shi and Nino (FR). Next up: Æther BKK, Bangkok on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Leon (FR) is a house and deep house artist based in France, with 34 gigs on soun
 
 Milam, Mo-Shi, Nino (FR)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leon-fr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leon-fr/)*

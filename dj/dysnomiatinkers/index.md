@@ -1,6 +1,6 @@
 # Dysnomia Tinkers
 
-Dysnomia Tinkers is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ambient Bar BKK, Bangkok on Sun, 29 Nov 2026.
+Dysnomia Tinkers is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ambient Bar BKK, Bangkok on Sun, 29 Nov 2026.
 
 Dysnomia Tinkers is a techno and acid artist based in United Kingdom, with 6 gigs on soundcheck across Bangkok, Hanoi and Ho Chi Minh City. Often billed alongside DukeDumb, AMT and Bipolar Bear. Next up: Ambient Bar BKK, Bangkok on Sun 29 Nov.
 
@@ -22,4 +22,4 @@ Dysnomia Tinkers is a techno and acid artist based in United Kingdom, with 6 gig
 
 DukeDumb, AMT (1), Bipolar Bear
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dysnomiatinkers/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dysnomiatinkers/)*

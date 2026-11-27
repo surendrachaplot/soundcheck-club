@@ -1,6 +1,6 @@
 # Cruzz
 
-Cruzz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Międzymiastowa, Krakow on Sat, 5 Dec 2026.
+Cruzz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Międzymiastowa, Krakow on Sat, 5 Dec 2026.
 
 Cruzz is a techno and afro house artist based in Spain, with 17 gigs on soundcheck across Barcelona, Krakow, Lisbon and Prague. Often billed alongside Madson Carpenter, Ornella and SHIVAS. Next up: Międzymiastowa, Krakow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Cruzz is a techno and afro house artist based in Spain, with 17 gigs on soundche
 
 Madson Carpenter, Ornella, SHIVAS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzz/)*

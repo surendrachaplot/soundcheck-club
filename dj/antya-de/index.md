@@ -1,6 +1,6 @@
 # ANTYA
 
-ANTYA is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Thu, 3 Dec 2026.
+ANTYA is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Thu, 3 Dec 2026.
 
 ANTYA is a deep house and house artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Cyranotaurus Cortex, Don Rogall and Emma Keks. Next up: KitKatClub, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ ANTYA is a deep house and house artist based in Germany, with 15 gigs on soundch
 
 Cyranotaurus Cortex, Don Rogall, Emma Keks
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antya-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antya-de/)*

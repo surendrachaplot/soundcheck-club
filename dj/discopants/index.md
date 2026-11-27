@@ -1,6 +1,6 @@
 # discopants
 
-discopants is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mitsuki, Tokyo on Mon, 30 Nov 2026.
+discopants is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mitsuki, Tokyo on Mon, 30 Nov 2026.
 
 discopants is a house and techno artist based in Japan, with 94 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Celter, AMANE and KOTSU. Next up: Mitsuki, Tokyo on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ discopants is a house and techno artist based in Japan, with 94 gigs on soundche
 
 Celter, AMANE, KOTSU
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discopants/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discopants/)*

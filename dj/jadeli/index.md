@@ -1,6 +1,6 @@
 # Jade Li
 
-Jade Li is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yes, Manchester on Fri, 27 Nov 2026.
+Jade Li is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yes, Manchester on Fri, 27 Nov 2026.
 
 Jade Li is a house and disco artist based in United Kingdom, with 15 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Mai Tai, Mascott and Abigail Ward. Next up: Yes, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jade Li is a house and disco artist based in United Kingdom, with 15 gigs on sou
 
 Mai Tai, Mascott, Abigail Ward
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeli/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeli/)*

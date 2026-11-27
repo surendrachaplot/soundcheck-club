@@ -1,6 +1,6 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Trinity Centre, Bristol on Fri, 27 Nov 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Trinity Centre, Bristol on Fri, 27 Nov 2026.
 
 JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Brighton, Bristol and Glasgow and 9 more. Often billed alongside SKALAH (UK), Sir Spyro and Flava D. Next up: The Trinity Centre, Bristol on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 40 gigs on 
 
 SKALAH (UK), Sir Spyro, Flava D
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*

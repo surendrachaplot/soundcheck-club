@@ -1,6 +1,6 @@
 # Adam Purnell
 
-Adam Purnell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ciao ciao Bar, Berlin on Fri, 27 Nov 2026.
+Adam Purnell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ciao ciao Bar, Berlin on Fri, 27 Nov 2026.
 
 Adam Purnell is a house and disco artist based in Portugal, with 59 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Ibiza and 2 more. Often billed alongside Antilope, Kierastoboy and Tiago Oudman. Next up: ciao ciao Bar, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Adam Purnell is a house and disco artist based in Portugal, with 59 gigs on soun
 
 Antilope, Kierastoboy, Tiago Oudman
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adampurnell/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adampurnell/)*

@@ -1,6 +1,6 @@
 # SOLACE
 
-SOLACE is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Orla 21, Rio de Janeiro on Sat, 26 Dec 2026.
+SOLACE is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Orla 21, Rio de Janeiro on Sat, 26 Dec 2026.
 
 SOLACE is a techno and deep house artist based in Romania, with 9 gigs on soundcheck across Adelaide, Bucharest, Cleveland and Rio de Janeiro. Often billed alongside All Of Me, Doguez and Jorge Watts. Next up: Orla 21, Rio de Janeiro on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ SOLACE is a techno and deep house artist based in Romania, with 9 gigs on soundc
 
 All Of Me, Doguez, Jorge Watts
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solace/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solace/)*

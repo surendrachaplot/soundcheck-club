@@ -1,6 +1,6 @@
 # Arne Schattenberg
 
-Arne Schattenberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
+Arne Schattenberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
 
 Arne Schattenberg is a techno and house artist, with 18 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig. Often billed alongside Annie O, Danilo Kupfernagel and Judith van Waterkant. Next up: KitKatClub, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Arne Schattenberg is a techno and house artist, with 18 gigs on soundcheck acros
 
 Annie O, Danilo Kupfernagel, Judith van Waterkant
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arneschattenberg/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arneschattenberg/)*

@@ -1,6 +1,6 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BOX" on Wed, 2 Dec 2026.
+Triangle is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "BOX" on Wed, 2 Dec 2026.
 
 Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including ALPHA (NL), C!AO, Cylon and Elen Payne and 2 more. See dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -18,4 +18,4 @@ Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with l
 
 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*

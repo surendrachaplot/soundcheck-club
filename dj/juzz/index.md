@@ -1,6 +1,6 @@
 # Juzz
 
-Juzz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Supermarket, Zurich on Sat, 28 Nov 2026.
+Juzz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Supermarket, Zurich on Sat, 28 Nov 2026.
 
 Juzz is a deep house and house artist based in Switzerland, with 23 gigs on soundcheck across Lausanne and Zurich. Often billed alongside Aline (CH), Benosah and Flavio (CH). Next up: Supermarket, Zurich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Juzz is a deep house and house artist based in Switzerland, with 23 gigs on soun
 
 Aline (CH), Benosah, Flavio (CH)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juzz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juzz/)*

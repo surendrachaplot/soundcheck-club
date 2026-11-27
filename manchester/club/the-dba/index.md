@@ -1,8 +1,8 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Distant Future - Flo Massé Enrico Vivaldi Morrin" on Fri, 27 Nov 2026.
+The DBA is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Distant Future - Flo Massé Enrico Vivaldi Morrin" on Fri, 27 Nov 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with line-ups including 4D, 4STR0, Fastlove and aalice and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including 4D, 4STR0, Fastlove and aalice and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, w
 | Fri, 11 Dec 2026 | Freak - Xmas Party | Bonzai Bonner, Fastlove, Jus’T, Marcos (HH/FQR), sebastieN |
 | Sat, 12 Dec 2026 | HØL x Perc Trax: Perc, Gary Beck, LMajor, INLIMEN, David James b2b Jase Jeffery, 4STRO, Zimno | 4STR0, David James MCR, Gary Beck, INLIMEN, Jase Jeffery, LMajor, Perc |
 | Fri, 18 Dec 2026 | FILTH XXXMAS | Connor (UK), Jarvis Bitcoin, Kuriboh, quarter ohm |
-| Tue, 29 Dec 2026 | STUD | Danny Roach, Nick Charles |
+| Sat, 19 Dec 2026 | RATRACE006 - LCN, Izzy Bolt, BBYBONG, T3NEYEZ + RESIDENTS | FOULMOUTH, Izzy Bolt, LCN, petra bomb |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

@@ -1,6 +1,6 @@
 # Farouki
 
-Farouki is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Comfort Zone, Toronto on Thu, 31 Dec 2026.
+Farouki is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Comfort Zone, Toronto on Thu, 31 Dec 2026.
 
 Farouki is a tech house and house artist based in Canada, with 37 gigs on soundcheck across Bali, Miami, Montreal and Toronto. Often billed alongside Theta State, Antonio Fornieles and MC Flipside. Next up: The Comfort Zone, Toronto on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Farouki is a tech house and house artist based in Canada, with 37 gigs on soundc
 
 Theta State, Antonio Fornieles, MC Flipside
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farouki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farouki/)*

@@ -1,6 +1,6 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Coco Boule, Berlin on Sat, 28 Nov 2026.
+Robag Wruhme is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Coco Boule, Berlin on Sat, 28 Nov 2026.
 
 Robag Wruhme is a house and techno artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 43 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Coco Boule, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Robag Wruhme is a house and techno artist based in Germany, with 131 gigs on sou
 
 Michael Mayer, Denis Stockhausen, Jonathan Kaspar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*

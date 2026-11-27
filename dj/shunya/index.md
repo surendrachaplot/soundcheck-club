@@ -1,6 +1,6 @@
 # Shunya
 
-Shunya is a Electronica and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
+Shunya is a Electronica and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
 
 Shunya is an electronica and idm artist based in United Kingdom, with 6 gigs on soundcheck across Edinburgh, Leeds and Manchester. Often billed alongside Elf Traps, Simao (UK) and Slacky [Space Ritual]. Next up: Soup, Manchester on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Shunya is an electronica and idm artist based in United Kingdom, with 6 gigs on 
 
 Elf Traps, Simao (UK), Slacky [Space Ritual]
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shunya/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shunya/)*

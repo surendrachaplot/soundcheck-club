@@ -1,14 +1,13 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Terremoto Mami x collectif Solidarité entre femmes à la rue" on Thu, 26 Nov 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Nuit Amplifiée" on Sat, 28 Nov 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Terremoto Mami x collectif Solidarité entre femmes à la rue |  |
 | Sat, 28 Nov 2026 | Nuit Amplifiée |  |
 | Fri, 4 Dec 2026 | OKTOBEOURFEST#3 - Concert des autres lumières |  |
 | Sat, 12 Dec 2026 | NEW BOX by Sweetvoid Collective |  |
@@ -19,4 +18,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming gig
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

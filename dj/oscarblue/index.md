@@ -1,6 +1,6 @@
 # Oscar Blue
 
-Oscar Blue is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lasociaciøn, Madrid on Mon, 7 Dec 2026.
+Oscar Blue is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lasociaciøn, Madrid on Mon, 7 Dec 2026.
 
 Oscar Blue is a techno and dub techno artist based in Spain, with 19 gigs on soundcheck across Madrid. Often billed alongside Crissis, ADRI.G and Ricardo Morales. Next up: Lasociaciøn, Madrid on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Oscar Blue is a techno and dub techno artist based in Spain, with 19 gigs on sou
 
 Crissis, ADRI.G, Ricardo Morales
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarblue/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarblue/)*

@@ -1,6 +1,6 @@
 # Patrick Rowe
 
-Patrick Rowe is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
+Patrick Rowe is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
 
 Patrick Rowe is a techno and minimal techno artist based in United Kingdom, with 16 gigs on soundcheck across London and North. Often billed alongside Gabriel Rai, Son of Paul and Craig Richards. Next up: 1520, North on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Patrick Rowe is a techno and minimal techno artist based in United Kingdom, with
 
 Gabriel Rai, Son of Paul, Craig Richards
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*

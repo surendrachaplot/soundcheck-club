@@ -1,6 +1,6 @@
 # phlipzee
 
-phlipzee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 19 Dec 2026.
+phlipzee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 19 Dec 2026.
 
 phlipzee is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside EZA (DE), elvito and OLED. Next up: Lokschuppen Berlin, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ phlipzee is a techno and trance artist based in Germany, with 16 gigs on soundch
 
 EZA (DE), elvito, OLED
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phlipzee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phlipzee/)*

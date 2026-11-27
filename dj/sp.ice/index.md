@@ -1,6 +1,6 @@
 # sp.ice
 
-sp.ice is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
+sp.ice is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 19 Dec 2026.
 
 sp.ice is an electronica and techno artist, with 13 gigs on soundcheck across Barcelona. Often billed alongside Stacey Cute, CAPITANA and DJ2D2. Next up: Razzmatazz, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ sp.ice is an electronica and techno artist, with 13 gigs on soundcheck across Ba
 
 Stacey Cute, CAPITANA, DJ2D2
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp.ice/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp.ice/)*

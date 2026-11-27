@@ -1,6 +1,6 @@
 # maxim_jl
 
-maxim_jl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
+maxim_jl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
 
 maxim_jl is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin and Munich. Often billed alongside Marit, Nikklaas and Bákayan. Next up: Zur Klappe, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ maxim_jl is a techno and house artist based in Germany, with 19 gigs on soundche
 
 Marit, Nikklaas, Bákayan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*

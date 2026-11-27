@@ -1,6 +1,6 @@
 # Shinedoe
 
-Shinedoe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 11 Dec 2026.
+Shinedoe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 11 Dec 2026.
 
 Shinedoe is a techno and house artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Bali, Berlin and Bogotá and 17 more. Often billed alongside Answer Code Request, BASHKKA and Barker. Next up: CLUB RAUM, Amsterdam on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Shinedoe is a techno and house artist based in Netherlands, with 67 gigs on soun
 
 Answer Code Request, BASHKKA, Barker
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*

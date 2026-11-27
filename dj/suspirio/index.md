@@ -1,6 +1,6 @@
 # Suspirio
 
-Suspirio is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rote Fabrik, Zurich on Sat, 5 Dec 2026.
+Suspirio is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Fabrik, Zurich on Sat, 5 Dec 2026.
 
 Suspirio is a techno and trance artist, with 9 gigs on soundcheck across Zurich. Often billed alongside Tikitula, 1luu and ACA. Next up: Rote Fabrik, Zurich on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Suspirio is a techno and trance artist, with 9 gigs on soundcheck across Zurich.
 
 Tikitula, 1luu, ACA (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suspirio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suspirio/)*

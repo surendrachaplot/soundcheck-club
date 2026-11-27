@@ -1,6 +1,6 @@
 # La Riviera
 
-La Riviera is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "HOSPITAL 30 Aniversario by TWIST DNB CLUB +IBOGA+HOSPITALITY" on Sat, 5 Dec 2026.
+La Riviera is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "HOSPITAL 30 Aniversario by TWIST DNB CLUB +IBOGA+HOSPITALITY" on Sat, 5 Dec 2026.
 
 La Riviera is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Camo & Krooked, Daxta, Gabriella Bongo and Metrik and 2 more. See dates, start times and who's playing. Paseo de la Virgen del Puerto, Madrid, España.
 
@@ -15,4 +15,4 @@ La Riviera is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, wit
 
 Paseo de la Virgen del Puerto, Madrid, España, Madrid
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*

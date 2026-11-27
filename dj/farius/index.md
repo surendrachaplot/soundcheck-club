@@ -1,6 +1,6 @@
 # Farius
 
-Farius is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Nachtflug & Starz, Cologne on Sun, 29 Nov 2026.
+Farius is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nachtflug & Starz, Cologne on Sun, 29 Nov 2026.
 
 Farius is a trance and progressive house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Chicago, Cologne and Denver and 13 more. Often billed alongside Estiva, Solarstone and Tritonal. Next up: Nachtflug & Starz, Cologne on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Farius is a trance and progressive house artist based in United Kingdom, with 30
 
 Estiva, Solarstone, Tritonal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*

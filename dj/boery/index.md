@@ -1,8 +1,8 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
+BØĘRY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
 
-BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 13 more. Often billed alongside Raxeller, BLNK and LIEKS. Next up: The Prospect Building, Bristol on Fri 27 Nov.
+BØĘRY is a techno and hardcore artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 14 more. Often billed alongside Raxeller, LIEKS and BLNK. Next up: The Prospect Building, Bristol on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on so
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 | Fri, 5 Mar 2027 | Ziggo Dome | Amsterdam |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on so
 
 ## Shares bills with
 
-Raxeller, BLNK, LIEKS
+Raxeller, LIEKS, BLNK
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

@@ -1,6 +1,6 @@
 # Arbo
 
-Arbo is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 28 Nov 2026.
+Arbo is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 28 Nov 2026.
 
 Arbo is a techno and ambient artist based in France, with 14 gigs on soundcheck across Lyon and Strasbourg. Often billed alongside FTFL, ANNUN and STU (FR). Next up: Karmen Camina, Strasbourg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Arbo is a techno and ambient artist based in France, with 14 gigs on soundcheck 
 
 FTFL, ANNUN, STU (FR)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*

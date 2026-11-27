@@ -1,6 +1,6 @@
 # Moritzbastei
 
-Moritzbastei is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "bratty • with charli xcx & other brat coded artists • leipzig" on Sat, 20 Feb 2027.
+Moritzbastei is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "bratty • with charli xcx & other brat coded artists • leipzig" on Sat, 20 Feb 2027.
 
 Moritzbastei is a music venue in Leipzig listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Universitätsstrasse 9, 04109 Leipzig, Germany.
 
@@ -14,4 +14,4 @@ Moritzbastei is a music venue in Leipzig listed on soundcheck. 1 upcoming gig. S
 
 Universitätsstrasse 9, 04109 Leipzig, Germany, Leipzig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/moritzbastei/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/moritzbastei/)*

@@ -1,6 +1,6 @@
 # Special Request
 
-Special Request is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Special Request is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 Special Request is a techno and house artist based in United Kingdom, with 182 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 55 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -29,4 +29,4 @@ Special Request is a techno and house artist based in United Kingdom, with 182 g
 
 Ewan McVicar, Goldie, SHERELLE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*

@@ -1,6 +1,6 @@
 # Unreal Vibes
 
-Unreal Vibes is a Electronica and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 27 Nov 2026.
+Unreal Vibes is a Electronica and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 27 Nov 2026.
 
 Unreal Vibes is an electronica and electro artist based in Italy, with 82 gigs on soundcheck across Barcelona, Brighton, Madrid and Malaga and 1 more. Often billed alongside Jorgge Decar, rubbio and Andrés Sancho. Next up: Doggy Klœb, Malaga on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Unreal Vibes is an electronica and electro artist based in Italy, with 82 gigs o
 
 Jorgge Decar, rubbio, Andrés Sancho
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unrealvibes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unrealvibes/)*

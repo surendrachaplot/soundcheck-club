@@ -1,8 +1,8 @@
 # ERRANT
 
-ERRANT is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ku Barcelona, Barcelona on Fri, 27 Nov 2026.
+ERRANT is a Deep House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ku Barcelona, Barcelona on Fri, 27 Nov 2026.
 
-ERRANT is a deep house and afro house artist based in Italy, with 81 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Althoff, NIIXII and Jazz K. Next up: Ku Barcelona, Barcelona on Fri 27 Nov.
+ERRANT is a deep house and afro house artist based in Italy, with 82 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Althoff, NIIXII and Jazz K. Next up: Ku Barcelona, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ERRANT is a deep house and afro house artist based in Italy, with 81 gigs on sou
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Ku Barcelona | Barcelona |
 | Sat, 28 Nov 2026 | Azul Rooftop Barceloneta | Barcelona |
+| Sat, 12 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ERRANT is a deep house and afro house artist based in Italy, with 81 gigs on sou
 
 Althoff, NIIXII, Jazz K
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*

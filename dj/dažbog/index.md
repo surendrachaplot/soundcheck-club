@@ -1,6 +1,6 @@
 # Dažbog
 
-Dažbog is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Drugstore Beograd, Belgrade on Thu, 31 Dec 2026.
+Dažbog is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Drugstore Beograd, Belgrade on Thu, 31 Dec 2026.
 
 Dažbog is a techno and electronica artist based in Serbia, with 17 gigs on soundcheck across Belgrade and Bosnia And Herzegovina. Often billed alongside Balša, Impedance and Čevut. Next up: Drugstore Beograd, Belgrade on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dažbog is a techno and electronica artist based in Serbia, with 17 gigs on soun
 
 Balša, Impedance, Čevut
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dažbog/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dažbog/)*

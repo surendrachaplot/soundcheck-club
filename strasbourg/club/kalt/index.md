@@ -1,6 +1,6 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "AISHA" on Sat, 28 Nov 2026.
+KALT is a music venue in Strasbourg with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "AISHA" on Sat, 28 Nov 2026.
 
 KALT is a music venue in Strasbourg listed on soundcheck. 8 upcoming gigs, with line-ups including Adiel, AISHA, Antigone and Chlär and 2 more. See dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
@@ -21,4 +21,4 @@ KALT is a music venue in Strasbourg listed on soundcheck. 8 upcoming gigs, with 
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

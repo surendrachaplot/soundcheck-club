@@ -1,6 +1,6 @@
 # The Queen Adelaide
 
-The Queen Adelaide is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "NOUGHTIES - A queer throwback party (House, UKG/Bassline, EuroDance)" on Fri, 29 Jan 2027.
+The Queen Adelaide is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "NOUGHTIES - A queer throwback party (House, UKG/Bassline, EuroDance)" on Fri, 29 Jan 2027.
 
 The Queen Adelaide is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 483 Hackney Rd, London E2 9BF.
 
@@ -14,4 +14,4 @@ The Queen Adelaide is a music venue in London listed on soundcheck. 1 upcoming g
 
 483 Hackney Rd, London E2 9BF, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-queen-adelaide/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-queen-adelaide/)*

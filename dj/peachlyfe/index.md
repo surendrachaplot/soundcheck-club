@@ -1,6 +1,6 @@
 # Peachlyfe
 
-Peachlyfe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
+Peachlyfe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
 
 Peachlyfe is a techno and trance artist based in Denmark, with 140 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: TBA - DTLA, Los Angeles on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Peachlyfe is a techno and trance artist based in Denmark, with 140 gigs on sound
 
 Ezy, Schacke, DJ Nah Care
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*

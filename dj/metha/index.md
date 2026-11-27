@@ -1,6 +1,6 @@
 # Metha
 
-Metha is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 19 Dec 2026.
+Metha is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 19 Dec 2026.
 
 Metha is an afro house and deep house artist based in Hungary, with 56 gigs on soundcheck across Budapest. Often billed alongside Lenny Lenoks, Dubecticut and Somazed. Next up: Óbuda Bay, Budapest on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Metha is an afro house and deep house artist based in Hungary, with 56 gigs on s
 
 Lenny Lenoks, Dubecticut, Somazed
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metha/)*

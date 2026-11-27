@@ -1,6 +1,6 @@
 # JF (BR)
 
-JF (BR) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+JF (BR) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 JF (BR) is a house and disco artist based in Brazil, with 24 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Gigios, Capetini and Suze Ijó. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ JF (BR) is a house and disco artist based in Brazil, with 24 gigs on soundcheck 
 
 Gigios, Capetini, Suze Ijó
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfbr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfbr/)*

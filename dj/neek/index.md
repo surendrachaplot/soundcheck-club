@@ -1,8 +1,8 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at fabric, London on Fri, 4 Dec 2026.
+Neek is a Techno and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Fri, 4 Dec 2026.
 
-Neek is a techno and dubstep artist based in United Kingdom, with 77 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Kahn, Medis and KRUELTY. Next up: fabric, London on Fri 4 Dec.
+Neek is a techno and dubstep artist based in United Kingdom, with 78 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Kahn, Medis and KRUELTY. Next up: fabric, London on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Neek is a techno and dubstep artist based in United Kingdom, with 77 gigs on sou
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | fabric | London |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Fri, 29 Jan 2027 | Amber's | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Neek is a techno and dubstep artist based in United Kingdom, with 77 gigs on sou
 
 Kahn, Medis, KRUELTY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

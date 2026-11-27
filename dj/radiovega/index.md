@@ -1,6 +1,6 @@
 # Radio Vega
 
-Radio Vega is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Sat, 19 Dec 2026.
+Radio Vega is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Sat, 19 Dec 2026.
 
 Radio Vega is an electro and electronica artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside Diego Montiel, Jessica Bellomo and VASAP. Next up: Sala Upload Barcelona, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Radio Vega is an electro and electronica artist based in Spain, with 11 gigs on 
 
 Diego Montiel, Jessica Bellomo, VASAP
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radiovega/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radiovega/)*

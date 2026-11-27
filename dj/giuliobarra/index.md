@@ -1,6 +1,6 @@
 # Giulio Barra
 
-Giulio Barra is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Bizarre, Naples on Sat, 5 Dec 2026.
+Giulio Barra is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Bizarre, Naples on Sat, 5 Dec 2026.
 
 Giulio Barra is an electronica and tech house artist, with 12 gigs on soundcheck across Milan, Mykonos, Naples and Paris and 1 more. Often billed alongside Foie Gras, KIKI (IT) and Lolla Fedolfi. Next up: Club Bizarre, Naples on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Giulio Barra is an electronica and tech house artist, with 12 gigs on soundcheck
 
 Foie Gras, KIKI (IT), Lolla Fedolfi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliobarra/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliobarra/)*

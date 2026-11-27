@@ -1,6 +1,6 @@
 # WEERD / Kléo (ALL NIGHT) at NAR
 
-WEERD / Kléo (ALL NIGHT) at NAR on Sun 20 Dec, Utrecht. 1 artist: Kléo. See the line-up on soundcheck.
+WEERD / Kléo (ALL NIGHT) at NAR on Sun 20 Dec, Utrecht. 1 artist: Kleø. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ WEERD / Kléo (ALL NIGHT) at NAR on Sun 20 Dec, Utrecht. 1 artist: Kléo. See th
 
 ## Line-up
 
-- Kléo
+- Kleø
 
 *Source: [soundcheck](https://soundcheck.club/e/2592788-weerd-kl-o-all-night-at-nar/)*

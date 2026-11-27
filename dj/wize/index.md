@@ -1,6 +1,6 @@
 # WIZE
 
-WIZE is a Downtempo and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at After Dark, Bristol on Fri, 27 Nov 2026.
+WIZE is a Downtempo and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at After Dark, Bristol on Fri, 27 Nov 2026.
 
 WIZE is a downtempo and disco artist based in United Kingdom, with 29 gigs on soundcheck across Barcelona, Bristol, London and Madrid. Often billed alongside Kamboya, Alvaro Cabana and Amy Kisnorbo. Next up: After Dark, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ WIZE is a downtempo and disco artist based in United Kingdom, with 29 gigs on so
 
 Kamboya, Alvaro Cabana, Amy Kisnorbo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wize/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wize/)*

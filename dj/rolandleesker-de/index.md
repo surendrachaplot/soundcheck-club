@@ -1,6 +1,6 @@
 # Roland Leesker
 
-Roland Leesker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Fri, 18 Dec 2026.
+Roland Leesker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Fri, 18 Dec 2026.
 
 Roland Leesker is a house and disco artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Beijing, Berlin and Dresden and 2 more. Often billed alongside John Acquaviva, Bobby Du and Leo Janeiro. Next up: ://about blank, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Roland Leesker is a house and disco artist based in Germany, with 14 gigs on sou
 
 John Acquaviva, Bobby Du, Leo Janeiro
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandleesker-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandleesker-de/)*

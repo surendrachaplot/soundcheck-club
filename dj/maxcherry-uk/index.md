@@ -1,14 +1,15 @@
 # Max Cherry
 
-Max Cherry is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Saywell Street Block Party, Sydney on Sat, 9 Jan 2027.
+Max Cherry is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Saywell Street Block Party, Sydney on Sat, 9 Jan 2027.
 
-Max Cherry is a garage and bass artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Jane Decks, Mincy and Lily FM. Next up: Saywell Street Block Party, Sydney on Sat 9 Jan.
+Max Cherry is a bass and garage artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Jane Decks, Mincy and HARLEY GIRL. Next up: Saywell Street Block Party, Sydney on Sat 9 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
+| Sun, 24 Jan 2027 | Tokyo Sing Song | Sydney |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Max Cherry is a garage and bass artist based in Australia, with 10 gigs on sound
 
 ## Shares bills with
 
-Jane Decks, Mincy, Lily FM
+Jane Decks, Mincy, HARLEY GIRL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*

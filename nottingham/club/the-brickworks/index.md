@@ -1,6 +1,6 @@
 # The Brickworks
 
-The Brickworks is a music venue in Nottingham with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "The Brickworks: Fumiya Tanaka" on Fri, 27 Nov 2026.
+The Brickworks is a music venue in Nottingham with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "The Brickworks: Fumiya Tanaka" on Fri, 27 Nov 2026.
 
 The Brickworks is a music venue in Nottingham listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Marky, Frandanski, Fumiya Tanaka and Inland Knights and 2 more. See dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
 
@@ -17,4 +17,4 @@ The Brickworks is a music venue in Nottingham listed on soundcheck. 4 upcoming g
 
 Newark St, Nottingham, NG2 4PP United Kingdom, Nottingham
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*

@@ -1,6 +1,6 @@
 # Klub SPATiF
 
-Klub SPATiF is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "AFreaks: DUMAMA (RPA) | Koncert w ramach AfryKamera 2026" on Fri, 27 Nov 2026.
+Klub SPATiF is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "AFreaks: DUMAMA (RPA) | Koncert w ramach AfryKamera 2026" on Fri, 27 Nov 2026.
 
 Klub SPATiF is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Patsi Parisi and wrubel. See dates, start times and who's playing. Al. Ujazdowskie 45, 00-536 Warszawa.
 
@@ -15,4 +15,4 @@ Klub SPATiF is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, wi
 
 Al. Ujazdowskie 45, 00-536 Warszawa, Warsaw
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*

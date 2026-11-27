@@ -1,6 +1,6 @@
 # Leroy Rey
 
-Leroy Rey is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NAR, Utrecht on Sun, 29 Nov 2026.
+Leroy Rey is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NAR, Utrecht on Sun, 29 Nov 2026.
 
 Leroy Rey is a house and disco artist based in Netherlands, with 84 gigs on soundcheck across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Tonno Disko, Eileen (NL) and Laura Meester. Next up: NAR, Utrecht on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Leroy Rey is a house and disco artist based in Netherlands, with 84 gigs on soun
 
 Tonno Disko, Eileen (NL), Laura Meester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*

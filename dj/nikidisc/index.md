@@ -1,14 +1,15 @@
 # niki disc
 
-niki disc is a Dub Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Red Gate Arts Society, Vancouver on Thu, 10 Dec 2026.
+niki disc is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Red Gate Arts Society, Vancouver on Thu, 10 Dec 2026.
 
-niki disc is a dub techno and techno artist based in Ukraine, with 2 gigs on soundcheck across Vancouver. Often billed alongside AWood, Antonio Elgeta and Heimerikk. Next up: Red Gate Arts Society, Vancouver on Thu 10 Dec.
+niki disc is a techno and dub techno artist based in Ukraine, with 3 gigs on soundcheck across Vancouver. Often billed alongside AWood, Antonio Elgeta and Fizch. Next up: Red Gate Arts Society, Vancouver on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | Red Gate Arts Society | Vancouver |
+| Sat, 12 Dec 2026 | TBA | Vancouver |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ niki disc is a dub techno and techno artist based in Ukraine, with 2 gigs on sou
 
 ## Shares bills with
 
-AWood, Antonio Elgeta, Heimerikk
+AWood, Antonio Elgeta, Fizch
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikidisc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikidisc/)*

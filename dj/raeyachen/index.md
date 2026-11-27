@@ -1,6 +1,6 @@
 # Raeya Chen
 
-Raeya Chen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 27 Nov 2026.
+Raeya Chen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 27 Nov 2026.
 
 Raeya Chen is a techno and house artist based in China, with 25 gigs on soundcheck across Amsterdam, Beijing, Berlin and Geneva and 2 more. Often billed alongside Amour Noir, BDG and DÅwN. Next up: Reactor Shanghai, Shanghai on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Raeya Chen is a techno and house artist based in China, with 25 gigs on soundche
 
 Amour Noir, BDG (1), DÅwN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raeyachen/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raeyachen/)*

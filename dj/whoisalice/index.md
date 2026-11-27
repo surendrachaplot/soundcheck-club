@@ -1,6 +1,6 @@
 # WhoisAlice
 
-WhoisAlice is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
+WhoisAlice is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
 
 WhoisAlice is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Goatchu, vibemeister and 9LALEY. Next up: Beat Boutique, Hamburg on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ WhoisAlice is a techno and trance artist based in Germany, with 8 gigs on soundc
 
 Goatchu, vibemeister, 9LALEY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisalice/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisalice/)*

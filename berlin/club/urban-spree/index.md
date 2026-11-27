@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Fix8:Sed8 + Ner.Ogris + Schneider // Urban Spree, Berlin" on Fri, 27 Nov 2026.
+Urban Spree is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Fix8:Sed8 + Ner.Ogris + Schneider // Urban Spree, Berlin" on Fri, 27 Nov 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Airshpd, Darin Epsilon, Gareden and Katiusha and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, wi
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

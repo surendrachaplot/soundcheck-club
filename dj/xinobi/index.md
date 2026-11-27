@@ -1,6 +1,6 @@
 # Xinobi
 
-Xinobi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 19 Dec 2026.
+Xinobi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 19 Dec 2026.
 
 Xinobi is a house and deep house artist based in Portugal, with 73 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Brussels and 25 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Lux Fragil, Lisbon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Xinobi is a house and deep house artist based in Portugal, with 73 gigs on sound
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

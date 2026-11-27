@@ -1,6 +1,6 @@
 # Remy Unger
 
-Remy Unger is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TRAUM, Antwerp on Sat, 5 Dec 2026.
+Remy Unger is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TRAUM, Antwerp on Sat, 5 Dec 2026.
 
 Remy Unger is a techno and house artist based in Netherlands, with 60 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Ghent and 4 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: TRAUM, Antwerp on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Remy Unger is a techno and house artist based in Netherlands, with 60 gigs on so
 
 Alexander Koning, Lucien Foort, Erick E
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remyunger/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remyunger/)*

@@ -1,6 +1,6 @@
 # Kassian
 
-Kassian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Kassian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Kassian is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 16 more. Often billed alongside Joe Milli, Jay Carder and Breaka. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kassian is a house and techno artist based in United Kingdom, with 54 gigs on so
 
 Joe Milli, Jay Carder, Breaka
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassian/)*

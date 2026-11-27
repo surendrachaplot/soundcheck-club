@@ -1,6 +1,6 @@
 # IDKRYAN
 
-IDKRYAN is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
+IDKRYAN is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
 
 IDKRYAN is a club and techno artist based in United States of America, with 25 gigs on soundcheck across Atlanta, Austin, Houston and New York City and 2 more. Often billed alongside HYPERFEMME, Amarji King and yunginternet. Next up: Boondocks, Houston on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ IDKRYAN is a club and techno artist based in United States of America, with 25 g
 
 HYPERFEMME, Amarji King, yunginternet
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idkryan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idkryan/)*

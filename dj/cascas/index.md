@@ -1,6 +1,6 @@
 # Cascas
 
-Cascas is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tranzit, Hamburg on Sat, 12 Dec 2026.
+Cascas is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tranzit, Hamburg on Sat, 12 Dec 2026.
 
 Cascas is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Chris Mantanz, Pierre Kraft and TZO. Next up: Tranzit, Hamburg on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Cascas is a techno and trance artist based in Germany, with 8 gigs on soundcheck
 
 Chris Mantanz, Pierre Kraft, TZO (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cascas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cascas/)*

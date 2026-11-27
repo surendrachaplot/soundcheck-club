@@ -1,6 +1,6 @@
 # Miyuki Omura
 
-Miyuki Omura is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mia Mao, Paris on Fri, 15 Jan 2027.
+Miyuki Omura is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Fri, 15 Jan 2027.
 
 Miyuki Omura is a hardcore and techno artist based in Japan, with 50 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 13 more. Often billed alongside Reverse16, KAMIKAZE and M-Project. Next up: Mia Mao, Paris on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Miyuki Omura is a hardcore and techno artist based in Japan, with 50 gigs on sou
 
 Reverse16, KAMIKAZE, M-Project
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyukiomura/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miyukiomura/)*

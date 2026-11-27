@@ -1,6 +1,6 @@
 # Juvenil Angústia
 
-Juvenil Angústia is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gare Porto, Porto on Sat, 26 Dec 2026.
+Juvenil Angústia is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Sat, 26 Dec 2026.
 
 Juvenil Angústia is a drum & bass and electronica artist based in Portugal, with 6 gigs on soundcheck across Lisbon and Porto. Often billed alongside CASH FROM HASH, NOIA and XICO. Next up: Gare Porto, Porto on Sat 26 Dec.
 
@@ -22,4 +22,4 @@ Juvenil Angústia is a drum & bass and electronica artist based in Portugal, wit
 
 CASH FROM HASH, NOIA, XICO (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juvenilangústia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juvenilangústia/)*

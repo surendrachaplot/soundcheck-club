@@ -1,6 +1,6 @@
 # Benjamin Freeney
 
-Benjamin Freeney is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ikii, Berlin on Wed, 16 Dec 2026.
+Benjamin Freeney is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ikii, Berlin on Wed, 16 Dec 2026.
 
 Benjamin Freeney is a techno and deep house artist based in Germany, with 7 gigs on soundcheck across Berlin and London. Often billed alongside 0dysseus, DJ Treibsand and Lawrence. Next up: Ikii, Berlin on Wed 16 Dec.
 
@@ -23,4 +23,4 @@ Benjamin Freeney is a techno and deep house artist based in Germany, with 7 gigs
 
 0dysseus, DJ Treibsand, Lawrence
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfreeney/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfreeney/)*

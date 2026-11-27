@@ -1,6 +1,6 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lunchbox, Atlanta on Fri, 5 Feb 2027.
+Marsh is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lunchbox, Atlanta on Fri, 5 Feb 2027.
 
 Marsh is a progressive house and house artist based in United Kingdom, with 134 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 43 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Lunchbox, Atlanta on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Marsh is a progressive house and house artist based in United Kingdom, with 134 
 
 Jody Wisternoff, Durante, Hana
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*

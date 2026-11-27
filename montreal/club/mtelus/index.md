@@ -1,6 +1,6 @@
 # MTELUS
 
-MTELUS is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Bonobo - Distance In Static (Live)" on Fri, 27 Nov 2026.
+MTELUS is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Bonobo - Distance In Static (Live)" on Fri, 27 Nov 2026.
 
 MTELUS is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Bonobo and French 79. See dates, start times and who's playing. 59 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada.
 
@@ -18,4 +18,4 @@ MTELUS is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with 
 
 59 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada, Montreal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mtelus/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mtelus/)*

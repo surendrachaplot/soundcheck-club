@@ -1,6 +1,6 @@
 # Corren Cavini
 
-Corren Cavini is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Het Sieraad, Amsterdam on Fri, 12 Feb 2027.
+Corren Cavini is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Het Sieraad, Amsterdam on Fri, 12 Feb 2027.
 
 Corren Cavini is a progressive house and deep house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Berlin, London and Montreal and 5 more. Often billed alongside Nora En Pure, Eelke Kleijn and Huminal. Next up: Het Sieraad, Amsterdam on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ Corren Cavini is a progressive house and deep house artist based in Netherlands,
 
 Nora En Pure, Eelke Kleijn, Huminal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*

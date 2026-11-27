@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Slimelight 39TH BIRTHDAY" on Fri, 27 Nov 2026.
+Electrowerkz is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Slimelight 39TH BIRTHDAY" on Fri, 27 Nov 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Arrosa, Brother of Set, Chris de Buerre and Claudia Kane and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -21,4 +21,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming gigs, w
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

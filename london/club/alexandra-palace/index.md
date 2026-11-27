@@ -1,6 +1,6 @@
 # Alexandra Palace
 
-Alexandra Palace is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Gorgon City - Live [SOLD OUT]" on Sat, 28 Nov 2026.
+Alexandra Palace is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Gorgon City - Live [SOLD OUT]" on Sat, 28 Nov 2026.
 
 Alexandra Palace is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Gorgon City and Interplanetary Criminal. See dates, start times and who's playing. Alexandra Palace Way; Alexandra Palace; London N22 7AY; United Kingdom.
 
@@ -15,4 +15,4 @@ Alexandra Palace is a music venue in London listed on soundcheck. 2 upcoming gig
 
 Alexandra Palace Way; Alexandra Palace; London N22 7AY; United Kingdom, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/alexandra-palace/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/alexandra-palace/)*

@@ -1,6 +1,6 @@
 # Rhepuls
 
-Rhepuls is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sognage, Johannesburg on Sat, 5 Dec 2026.
+Rhepuls is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sognage, Johannesburg on Sat, 5 Dec 2026.
 
 Rhepuls is an electronic artist based in South Africa, with 2 gigs on soundcheck across Johannesburg and South Africa. Often billed alongside Das Kapital, Delta Heavy and Pythius. Next up: Sognage, Johannesburg on Sat 5 Dec.
 
@@ -15,4 +15,4 @@ Rhepuls is an electronic artist based in South Africa, with 2 gigs on soundcheck
 
 Das Kapital, Delta Heavy, Pythius
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhepuls/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhepuls/)*

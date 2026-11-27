@@ -1,6 +1,6 @@
 # Nicolas Barnes
 
-Nicolas Barnes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
+Nicolas Barnes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
 
 Nicolas Barnes is a house and techno artist, with 27 gigs on soundcheck across Riga. Often billed alongside Kapusta, Kelvin and Mike Discoid. Next up: TBA - Monkey Club, Riga on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Nicolas Barnes is a house and techno artist, with 27 gigs on soundcheck across R
 
 Kapusta, Kelvin, Mike Discoid
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbarnes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasbarnes/)*

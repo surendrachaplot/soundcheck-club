@@ -1,6 +1,6 @@
 # Eegor
 
-Eegor is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+Eegor is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 Eegor is a techno and psytrance artist based in Australia, with 6 gigs on soundcheck across Belgrade and Sydney. Often billed alongside Andy Garvey, Butane and Cousin. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Eegor is a techno and psytrance artist based in Australia, with 6 gigs on soundc
 
 Andy Garvey, Butane, Cousin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eegor/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eegor/)*

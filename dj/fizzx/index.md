@@ -1,6 +1,6 @@
 # FizzX
 
-FizzX is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Wych, Toronto on Sat, 28 Nov 2026.
+FizzX is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Wych, Toronto on Sat, 28 Nov 2026.
 
 FizzX is a drum & bass and house artist based in Canada, with 18 gigs on soundcheck across Toronto. Often billed alongside Peter Truverez, Marrs Barrs and Creme Carmel. Next up: The Wych, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ FizzX is a drum & bass and house artist based in Canada, with 18 gigs on soundch
 
 Peter Truverez, Marrs Barrs, Creme Carmel
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fizzx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fizzx/)*

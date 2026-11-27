@@ -1,6 +1,6 @@
 # Sleep D
 
-Sleep D is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
+Sleep D is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
 
 Sleep D is a techno and house artist based in Australia, with 98 gigs on soundcheck across Adelaide, Bali, Bangkok and Berlin and 26 more. Often billed alongside Moopie, DJ PGZ and Kia (AU). Next up: Club 77, Sydney on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ Sleep D is a techno and house artist based in Australia, with 98 gigs on soundch
 
 Moopie, DJ PGZ, Kia (AU)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*

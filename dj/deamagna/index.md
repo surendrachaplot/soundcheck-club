@@ -1,6 +1,6 @@
 # DEA MAGNA
 
-DEA MAGNA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
+DEA MAGNA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
 
 DEA MAGNA is a techno and hardcore artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Barcelona, Dallas/Fort Worth and Los Angeles and 5 more. Often billed alongside Fatima Hajji, A.Knives and ARCHON. Next up: Pier 80 Warehouse, San Francisco/Oakland on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ DEA MAGNA is a techno and hardcore artist based in United States of America, wit
 
 Fatima Hajji, A.Knives, ARCHON
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*

@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gare Porto, Porto on Fri, 4 Dec 2026.
+SOTA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Fri, 4 Dec 2026.
 
 SOTA is a house and techno artist based in Japan, with 135 gigs on soundcheck across Antwerp, Auckland, Birmingham and Brisbane and 17 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Gare Porto, Porto on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ SOTA is a house and techno artist based in Japan, with 135 gigs on soundcheck ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

@@ -1,6 +1,6 @@
 # Aahan
 
-Aahan is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Toronto on Fri, 11 Dec 2026.
+Aahan is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Toronto on Fri, 11 Dec 2026.
 
 Aahan is a techno and industrial artist, with 10 gigs on soundcheck across Toronto. Often billed alongside Outerkult, jiimi and kaamzs. Next up: TBA, Toronto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Aahan is a techno and industrial artist, with 10 gigs on soundcheck across Toron
 
 Outerkult, jiimi, kaamzs
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aahan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aahan/)*

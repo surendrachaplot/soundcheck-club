@@ -1,6 +1,6 @@
 # Mat Eclair
 
-Mat Eclair is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pumpehuset, Copenhagen on Fri, 27 Nov 2026.
+Mat Eclair is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pumpehuset, Copenhagen on Fri, 27 Nov 2026.
 
 Mat Eclair is a house and garage artist based in Denmark, with 7 gigs on soundcheck across Amsterdam, Copenhagen, Glasgow and Münster and 1 more. Often billed alongside Caleb Laurenson, Emma B and Gaskin. Next up: Pumpehuset, Copenhagen on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Mat Eclair is a house and garage artist based in Denmark, with 7 gigs on soundch
 
 Caleb Laurenson, Emma B, Gaskin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateclair/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mateclair/)*

@@ -1,6 +1,6 @@
 # ELS (UK)
 
-ELS (UK) is a Hardcore and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
+ELS (UK) is a Hardcore and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Loco Klub, Bristol on Fri, 27 Nov 2026.
 
 ELS (UK) is a hardcore and breakbeat artist, with 6 gigs on soundcheck across Bristol, Leeds, London and Sheffield. Often billed alongside Aerbreak, Ebz and Betsy Mae. Next up: The Loco Klub, Bristol on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ ELS (UK) is a hardcore and breakbeat artist, with 6 gigs on soundcheck across Br
 
 Aerbreak, Ebz, Betsy Mae
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/els-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/els-uk/)*

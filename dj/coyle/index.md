@@ -1,6 +1,6 @@
 # Coyle
 
-Coyle is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ramona, Manchester on Sat, 12 Dec 2026.
+Coyle is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ramona, Manchester on Sat, 12 Dec 2026.
 
 Coyle is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Leeds and Manchester. Often billed alongside Willsy, Golden Syrup and JCB (UK). Next up: Ramona, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Coyle is a house and garage artist based in United Kingdom, with 18 gigs on soun
 
 Willsy, Golden Syrup, JCB (UK)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coyle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coyle/)*

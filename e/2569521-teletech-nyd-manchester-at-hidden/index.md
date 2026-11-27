@@ -22,7 +22,7 @@ Teletech: NYD MANCHESTER at Hidden on Fri 1 Jan, Manchester. 14 artists: 2FEL, A
 - Leaha
 - Shanixx
 - SIKOTI
-- SJ Yellow
+- SJ yellow
 - TiTi
 
 *Source: [soundcheck](https://soundcheck.club/e/2569521-teletech-nyd-manchester-at-hidden/)*

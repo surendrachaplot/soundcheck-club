@@ -1,8 +1,8 @@
 # Felipe Valenzuela
 
-Felipe Valenzuela is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - East Williamsburg, New York City on Sat, 5 Dec 2026.
+Felipe Valenzuela is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - East Williamsburg, New York City on Sat, 5 Dec 2026.
 
-Felipe Valenzuela is a house and tech house artist based in Chile, with 72 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside Dani Casarano, Abscal and Pau Pérez. Next up: TBA - East Williamsburg, New York City on Sat 5 Dec.
+Felipe Valenzuela is a house and tech house artist based in Chile, with 73 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside Dani Casarano, Abscal and Pau Pérez. Next up: TBA - East Williamsburg, New York City on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Felipe Valenzuela is a house and tech house artist based in Chile, with 72 gigs 
 | Sat, 5 Dec 2026 | TBA - East Williamsburg | New York City |
 | Fri, 18 Dec 2026 | Hoppetosse | Berlin |
 | Thu, 31 Dec 2026 | Spook Club | Valencia |
+| Fri, 1 Jan 2027 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Felipe Valenzuela is a house and tech house artist based in Chile, with 72 gigs 
 
 Dani Casarano, Abscal, Pau Pérez
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*

@@ -1,6 +1,6 @@
 # Nicolas Duvoisin
 
-Nicolas Duvoisin is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
+Nicolas Duvoisin is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
 
 Nicolas Duvoisin is a house and minimal artist based in Switzerland, with 77 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 7 more. Often billed alongside Luca Mascolo, Evan Preston and Kayode. Next up: Golden Gate, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Nicolas Duvoisin is a house and minimal artist based in Switzerland, with 77 gig
 
 Luca Mascolo, Evan Preston, Kayode
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduvoisin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduvoisin/)*

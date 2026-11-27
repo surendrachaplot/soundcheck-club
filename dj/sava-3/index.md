@@ -1,6 +1,6 @@
 # Sava (3)
 
-Sava (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Sava (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
 
 Sava is a techno and trance artist, with 23 gigs on soundcheck across Berlin, Ghent, Krakow and Medellin and 3 more. Often billed alongside nuarrrrr, DANZA_RI and Dasha Atom. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Sava is a techno and trance artist, with 23 gigs on soundcheck across Berlin, Gh
 
 nuarrrrr, DANZA_RI, Dasha Atom
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sava-3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sava-3/)*

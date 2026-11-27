@@ -1,6 +1,6 @@
 # NT's Loft
 
-NT's Loft is a music venue in London with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NT's Loft: FS Green" on Fri, 27 Nov 2026.
+NT's Loft is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NT's Loft: FS Green" on Fri, 27 Nov 2026.
 
 NT's Loft is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including babyschön, DJ Assault, Douvelle19 and FS Green and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ NT's Loft is a music venue in London listed on soundcheck. 23 upcoming gigs, wit
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*

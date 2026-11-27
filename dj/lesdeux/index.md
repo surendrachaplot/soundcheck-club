@@ -1,6 +1,6 @@
 # Les Deux
 
-Les Deux is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Supermarket, Zurich on Sat, 19 Dec 2026.
+Les Deux is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Supermarket, Zurich on Sat, 19 Dec 2026.
 
 Les Deux is a house and tech house artist based in France, with 14 gigs on soundcheck across Basel and Zurich. Often billed alongside Dejan, Ronny Grauer and PAULI. Next up: Supermarket, Zurich on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Les Deux is a house and tech house artist based in France, with 14 gigs on sound
 
 Dejan, Ronny Grauer, PAULI (3)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lesdeux/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lesdeux/)*

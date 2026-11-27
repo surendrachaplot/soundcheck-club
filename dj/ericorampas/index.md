@@ -1,6 +1,6 @@
 # Erico Rampas
 
-Erico Rampas is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
+Erico Rampas is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
 
 Erico Rampas is a house and electro artist based in Spain, with 14 gigs on soundcheck across Barcelona. Often billed alongside DD.MATTS, Pau Rosés and Swann. Next up: Seaseaclub Barcelona, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Erico Rampas is a house and electro artist based in Spain, with 14 gigs on sound
 
 DD.MATTS, Pau Rosés, Swann
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericorampas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericorampas/)*

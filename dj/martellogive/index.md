@@ -1,6 +1,6 @@
 # Martello Give
 
-Martello Give is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hen's Teeth, Dublin on Tue, 29 Dec 2026.
+Martello Give is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hen's Teeth, Dublin on Tue, 29 Dec 2026.
 
 Martello Give is a techno and electro artist based in Ireland, with 9 gigs on soundcheck across Dublin and Vancouver. Often billed alongside Beiti, Bronsön and Xiumei. Next up: Hen's Teeth, Dublin on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Martello Give is a techno and electro artist based in Ireland, with 9 gigs on so
 
 Beiti, Bronsön, Xiumei
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martellogive/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martellogive/)*

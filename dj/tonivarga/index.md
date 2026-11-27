@@ -1,6 +1,6 @@
 # Toni Varga
 
-Toni Varga is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Radius, Chicago on Fri, 11 Dec 2026.
+Toni Varga is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Radius, Chicago on Fri, 11 Dec 2026.
 
 Toni Varga is a tech house and house artist based in Spain, with 50 gigs on soundcheck across Barcelona, Beijing, Buenos Aires and Cape Town and 16 more. Often billed alongside Bastian Bux, Eats Everything and Dombresky. Next up: Radius, Chicago on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Toni Varga is a tech house and house artist based in Spain, with 50 gigs on soun
 
 Bastian Bux, Eats Everything, Dombresky
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonivarga/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonivarga/)*

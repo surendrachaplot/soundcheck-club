@@ -1,6 +1,6 @@
 # stranger (NL)
 
-stranger (NL) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 11 Dec 2026.
+stranger (NL) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 11 Dec 2026.
 
 stranger (NL) is a techno and house artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Chlär, DAX J and Beste Hira. Next up: CLUB RAUM, Amsterdam on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ stranger (NL) is a techno and house artist based in Netherlands, with 101 gigs o
 
 Chlär, DAX J, Beste Hira
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*

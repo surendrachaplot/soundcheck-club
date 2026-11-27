@@ -1,15 +1,13 @@
 # M.O.T
 
-M.O.T is a music venue in London with 31 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "GSHC M.O.T Takeover" on Thu, 26 Nov 2026.
+M.O.T is a music venue in London with 29 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Oneman b2b Plastician [All Night Long]" on Fri, 27 Nov 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including A.N.T, alterum, Benko and Bill Brewster and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including A.N.T, alterum, Benko and Bill Brewster and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | GSHC M.O.T Takeover |  |
-| Thu, 26 Nov 2026 | No.006 [UK debut] w/ Tailtiu, 10212&bod [包家巷], Funny Games, jolae   | Tailtiu, bod [包家巷], jolae |
 | Fri, 27 Nov 2026 | Oneman b2b Plastician [All Night Long] | Oneman, Plastician |
 | Fri, 27 Nov 2026 | Spin Am + Friends 2 | Poundshop, midnightswami, Ìyáàlù |
 | Fri, 27 Nov 2026 | After Hours x Dockside x Off The Grid: ESKITECH w/ Just Jane & MJK  | A.N.T, Just Jane, MJK, Marky V, Nio-B, SI*BL, Skye (2) |
@@ -18,9 +16,11 @@ M.O.T is a music venue in London listed on soundcheck. 31 upcoming gigs, with li
 | Sun, 29 Nov 2026 | Príncipe Day Party: DJ Lycox, DJ Marfox, Nídia | DJ Lycox, DJ Marfox, Nídia |
 | Wed, 2 Dec 2026 | UNKNOWN GOOD FEST: Eistir / Josephine Illingworth / Ropeburn + more |  |
 | Thu, 3 Dec 2026 | Techno In LONDON - OPEN DECKS & SOCIAL | Sophia Nicole |
+| Fri, 4 Dec 2026 | Bait presents the dubstep - jungle connection |  |
+| Fri, 4 Dec 2026 | Warmer People: Franzizca all night long | Franzizca. |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

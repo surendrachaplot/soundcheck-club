@@ -1,6 +1,6 @@
 # Checa
 
-Checa is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 25 Dec 2026.
+Checa is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 25 Dec 2026.
 
 Checa is a techno and electro artist based in Spain, with 4 gigs on soundcheck across Malaga. Often billed alongside Jorgge Decar, Unreal Vibes and Ylia. Next up: Doggy Klœb, Malaga on Fri 25 Dec.
 
@@ -20,4 +20,4 @@ Checa is a techno and electro artist based in Spain, with 4 gigs on soundcheck a
 
 Jorgge Decar, Unreal Vibes, Ylia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/checa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/checa/)*

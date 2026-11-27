@@ -1,6 +1,6 @@
 # Suspence
 
-Suspence is a Breakbeat and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Suspence is a Breakbeat and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Suspence is a breakbeat and tech house artist based in United States of America, with 6 gigs on soundcheck across Orlando, Portland, Sydney and Tampa Bay. Often billed alongside Crudawg, Essential Freaks and Gene Farris. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Suspence is a breakbeat and tech house artist based in United States of America,
 
 Crudawg, Essential Freaks, Gene Farris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suspence/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suspence/)*

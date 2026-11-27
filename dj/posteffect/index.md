@@ -1,6 +1,6 @@
 # Post Effect
 
-Post Effect is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Benelux BAR, Amsterdam on Sat, 12 Dec 2026.
+Post Effect is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Benelux BAR, Amsterdam on Sat, 12 Dec 2026.
 
 Post Effect is a house and techno artist based in Ukraine, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Karina., 5AM (AU) and Andrés Soria. Next up: Benelux BAR, Amsterdam on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Post Effect is a house and techno artist based in Ukraine, with 6 gigs on soundc
 
 Karina., 5AM (AU), Andrés Soria
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/posteffect/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/posteffect/)*

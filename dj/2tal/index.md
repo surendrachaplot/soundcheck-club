@@ -1,6 +1,6 @@
 # 2TAL
 
-2TAL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Suma Han, Istanbul on Sat, 30 Jan 2027.
+2TAL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Suma Han, Istanbul on Sat, 30 Jan 2027.
 
 2TAL is a techno and industrial artist based in Turkey, with 14 gigs on soundcheck across Istanbul. Often billed alongside Epifanix, Inf3ris and ADZE. Next up: Suma Han, Istanbul on Sat 30 Jan.
 
@@ -25,4 +25,4 @@
 
 Epifanix, Inf3ris, ADZE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2tal/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2tal/)*

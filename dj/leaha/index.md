@@ -1,6 +1,6 @@
 # Leaha
 
-Leaha is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 19 Dec 2026.
+Leaha is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 24 Kitchen Street, Liverpool on Sat, 19 Dec 2026.
 
 Leaha is a techno and trance artist based in United Kingdom, with 56 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 7 more. Often billed alongside Faster Horses, Alex Farell and Princess Elf Bar. Next up: 24 Kitchen Street, Liverpool on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Leaha is a techno and trance artist based in United Kingdom, with 56 gigs on sou
 
 Faster Horses, Alex Farell, Princess Elf Bar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leaha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leaha/)*

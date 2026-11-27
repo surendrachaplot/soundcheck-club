@@ -1,6 +1,6 @@
 # The Vanguard
 
-The Vanguard is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sakr" on Thu, 17 Dec 2026.
+The Vanguard is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sakr" on Thu, 17 Dec 2026.
 
 The Vanguard is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Sakr (AU). See dates, start times and who's playing. 42 King St; Newtown, NSW 2042; Australia.
 
@@ -15,4 +15,4 @@ The Vanguard is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, w
 
 42 King St; Newtown, NSW 2042; Australia, Sydney
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*

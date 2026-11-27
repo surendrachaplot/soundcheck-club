@@ -1,6 +1,6 @@
 # UBUNTO
 
-UBUNTO is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+UBUNTO is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 UBUNTO is a house and balearic artist based in Brazil, with 32 gigs on soundcheck across Brazil, Lisbon, London and Porto and 2 more. Often billed alongside AmadoPeace, Diogo Strausz and Discos Baratos. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ UBUNTO is a house and balearic artist based in Brazil, with 32 gigs on soundchec
 
 AmadoPeace, Diogo Strausz, Discos Baratos
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ubunto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ubunto/)*

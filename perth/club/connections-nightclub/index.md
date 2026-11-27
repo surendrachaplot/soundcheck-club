@@ -1,6 +1,6 @@
 # Connections Nightclub
 
-Connections Nightclub is a music venue in Perth with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "NEST FM" on Fri, 15 Jan 2027.
+Connections Nightclub is a music venue in Perth with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "NEST FM" on Fri, 15 Jan 2027.
 
 Connections Nightclub is a music venue in Perth listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Connections Nightclub is a music venue in Perth listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Fri, 15 Jan 2027 | NEST FM |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/connections-nightclub/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/connections-nightclub/)*

@@ -1,6 +1,6 @@
 # source:link
 
-source:link is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fitzroy, Berlin on Sat, 12 Dec 2026.
+source:link is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Sat, 12 Dec 2026.
 
 source:link is a house and techno artist based in France, with 27 gigs on soundcheck across Barcelona, Berlin, Helsinki and Leipzig and 5 more. Often billed alongside ābnamā, ADAM MUNNINGS and Hanaby. Next up: Fitzroy, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ source:link is a house and techno artist based in France, with 27 gigs on soundc
 
 ābnamā, ADAM MUNNINGS, Hanaby
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcelink/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcelink/)*

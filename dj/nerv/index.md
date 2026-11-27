@@ -1,6 +1,6 @@
 # Nerv
 
-Nerv is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Void Club, Berlin on Fri, 18 Dec 2026.
+Nerv is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Void Club, Berlin on Fri, 18 Dec 2026.
 
 Nerv is a drum & bass and techno artist based in Ireland, with 11 gigs on soundcheck across Berlin. Often billed alongside Upzet, Shaded Lines and H.U.K. Next up: Void Club, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Nerv is a drum & bass and techno artist based in Ireland, with 11 gigs on soundc
 
 Upzet, Shaded Lines, H.U.K
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerv/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nerv/)*

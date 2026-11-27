@@ -1,14 +1,15 @@
 # Ajuma
 
-Ajuma is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NAR, Utrecht on Fri, 27 Nov 2026.
+Ajuma is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NAR, Utrecht on Fri, 27 Nov 2026.
 
-Ajuma is a disco and house artist based in Netherlands, with 87 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside CHEWCHEW, Another Taste and Kennedy. Next up: NAR, Utrecht on Fri 27 Nov.
+Ajuma is a disco and house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside CHEWCHEW, Another Taste and Kennedy. Next up: NAR, Utrecht on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | NAR | Utrecht |
+| Sat, 20 Feb 2027 | BASIS | Utrecht |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ajuma is a disco and house artist based in Netherlands, with 87 gigs on soundche
 
 CHEWCHEW, Another Taste, Kennedy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajuma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajuma/)*

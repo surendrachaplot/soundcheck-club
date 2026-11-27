@@ -1,8 +1,8 @@
 # Raphael Kosmos
 
-Raphael Kosmos is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Twist Bar, Prague on Fri, 27 Nov 2026.
+Raphael Kosmos is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Twist Bar, Prague on Fri, 27 Nov 2026.
 
-Raphael Kosmos is a techno and electro artist based in Czech Republic, with 102 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 2 more. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: Twist Bar, Prague on Fri 27 Nov.
+Raphael Kosmos is a techno and electro artist based in Czech Republic, with 103 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 2 more. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: Twist Bar, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Raphael Kosmos is a techno and electro artist based in Czech Republic, with 102 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Twist Bar | Prague |
 | Fri, 11 Dec 2026 | Ankali & Planeta Za | Prague |
+| Thu, 31 Dec 2026 | Fuchs2 | Prague |
 | Sat, 16 Jan 2027 | Bar v Krymský | Prague |
 
 ## Recently played
@@ -27,4 +28,4 @@ Raphael Kosmos is a techno and electro artist based in Czech Republic, with 102 
 
 Olinstvi, Manntracs, Midirama
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*

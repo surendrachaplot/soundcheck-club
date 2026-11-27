@@ -1,6 +1,6 @@
 # AL.P0, Gamma Vibes, E3 at Atdge Seoul
 
-AL.P0, Gamma Vibes, E3 at Atdge Seoul on Sat 5 Dec, Seoul. 3 artists: AL.P0, E3 and Gamma Vibes. See the line-up on soundcheck.
+AL.P0, Gamma Vibes, E3 at Atdge Seoul on Sat 5 Dec, Seoul. 3 artists: AL.P0, E3 and Gamma Vibes. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

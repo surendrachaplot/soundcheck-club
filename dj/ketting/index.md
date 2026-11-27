@@ -1,14 +1,15 @@
 # KETTING
 
-KETTING is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at export, Rotterdam on Sat, 19 Dec 2026.
+KETTING is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at export, Rotterdam on Sat, 19 Dec 2026.
 
-KETTING is a techno and industrial artist based in Netherlands, with 63 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside KARAH, Cynthia Spiering and Alignment. Next up: export, Rotterdam on Sat 19 Dec.
+KETTING is a techno and industrial artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside KARAH, Cynthia Spiering and Alignment. Next up: export, Rotterdam on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | export | Rotterdam |
+| Fri, 29 Jan 2027 | BASIS | Utrecht |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KETTING is a techno and industrial artist based in Netherlands, with 63 gigs on 
 
 KARAH, Cynthia Spiering, Alignment
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketting/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketting/)*

@@ -1,6 +1,6 @@
 # ORYMA
 
-ORYMA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Exil, Vienna on Tue, 8 Dec 2026.
+ORYMA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Exil, Vienna on Tue, 8 Dec 2026.
 
 ORYMA is a techno and trance artist based in Austria, with 15 gigs on soundcheck across Cologne, Geneva, Helsinki and Milan and 2 more. Often billed alongside Sutter Cane, DANBERG and Isa Tchesnokova. Next up: Club Exil, Vienna on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ ORYMA is a techno and trance artist based in Austria, with 15 gigs on soundcheck
 
 Sutter Cane, DANBERG, Isa Tchesnokova
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oryma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oryma/)*

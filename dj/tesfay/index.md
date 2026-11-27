@@ -1,6 +1,6 @@
 # TESFAY
 
-TESFAY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bambi's, Toronto on Sat, 19 Dec 2026.
+TESFAY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bambi's, Toronto on Sat, 19 Dec 2026.
 
 TESFAY is a house and tech house artist based in Canada, with 20 gigs on soundcheck across London and Toronto. Often billed alongside AKWA, Blooma and Hep (CA). Next up: Bambi's, Toronto on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ TESFAY is a house and tech house artist based in Canada, with 20 gigs on soundch
 
 AKWA, Blooma, Hep (CA)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tesfay/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tesfay/)*

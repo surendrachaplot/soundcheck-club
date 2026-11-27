@@ -1,14 +1,15 @@
 # POPU
 
-POPU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Vancouver on Thu, 24 Dec 2026.
+POPU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Thu, 24 Dec 2026.
 
-POPU is a techno and house artist based in Spain, with 82 gigs on soundcheck across Bangkok, Seoul, Tokyo and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: TBA, Vancouver on Thu 24 Dec.
+POPU is a techno and house artist based in Spain, with 83 gigs on soundcheck across Bangkok, Seoul, Tokyo and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: TBA, Vancouver on Thu 24 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Dec 2026 | TBA | Vancouver |
+| Sat, 26 Dec 2026 | TBA | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ POPU is a techno and house artist based in Spain, with 82 gigs on soundcheck acr
 
 DK PAU, Behrad Tehrani, Fizch
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popu/)*

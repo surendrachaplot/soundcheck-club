@@ -1,6 +1,6 @@
 # Dijipoune
 
-Dijipoune is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+Dijipoune is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
 Dijipoune is a house and techno artist based in Canada, with 27 gigs on soundcheck across Montreal, Pittsburgh and Toronto. Often billed alongside Field Note, h1bou and zi!. Next up: Stereo, Montreal on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Dijipoune is a house and techno artist based in Canada, with 27 gigs on soundche
 
 Field Note, h1bou, zi!
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dijipoune/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dijipoune/)*

@@ -1,6 +1,6 @@
 # Identified Patient
 
-Identified Patient is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
+Identified Patient is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
 
 Identified Patient is a techno and electro artist based in Netherlands, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 53 more. Often billed alongside Patient (MT), mad miran and DjRUM. Next up: export, Rotterdam on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Identified Patient is a techno and electro artist based in Netherlands, with 176
 
 Patient (MT), mad miran, DjRUM
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/identifiedpatient/)*

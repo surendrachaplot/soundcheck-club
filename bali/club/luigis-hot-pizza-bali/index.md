@@ -1,17 +1,17 @@
 # Luigis Hot Pizza Bali
 
-Luigis Hot Pizza Bali is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. The next is "METTO MONDAY FT. Jesse Maas" on Mon, 23 Nov 2026.
+Luigis Hot Pizza Bali is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "CIRCA XMAS" on Fri, 25 Dec 2026.
 
-Luigis Hot Pizza Bali is a music venue in Bali listed on soundcheck. 1 upcoming gig, with line-ups including Jesse Maas and PNNY. See dates, start times and who's playing. Jalan Batu Mejan, Canggu, Kuta Utara, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia.
+Luigis Hot Pizza Bali is a music venue in Bali listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Jalan Batu Mejan, Canggu, Kuta Utara, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 23 Nov 2026 | METTO MONDAY FT. Jesse Maas | Jesse Maas, PNNY |
+| Fri, 25 Dec 2026 | CIRCA XMAS |  |
 
 ## Address
 
 Jalan Batu Mejan, Canggu, Kuta Utara, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia, Bali
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/luigis-hot-pizza-bali/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/luigis-hot-pizza-bali/)*

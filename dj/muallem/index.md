@@ -1,6 +1,6 @@
 # Muallem
 
-Muallem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Funkhaus Wien, Vienna on Sat, 19 Dec 2026.
+Muallem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Funkhaus Wien, Vienna on Sat, 19 Dec 2026.
 
 Muallem is a house and techno artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 7 more. Often billed alongside BASHKKA, vince and Jorkes. Next up: Funkhaus Wien, Vienna on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Muallem is a house and techno artist based in Germany, with 79 gigs on soundchec
 
 BASHKKA, vince, Jorkes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*

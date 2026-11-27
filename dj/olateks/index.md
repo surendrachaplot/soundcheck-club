@@ -1,6 +1,6 @@
 # Ola Teks
 
-Ola Teks is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kaskada, Warsaw on Fri, 4 Dec 2026.
+Ola Teks is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kaskada, Warsaw on Fri, 4 Dec 2026.
 
 Ola Teks is a techno and acid artist based in Poland, with 98 gigs on soundcheck across Berlin, Dresden, Ibiza and Krakow and 4 more. Often billed alongside Cyryl, daisy cutter and Kovvalsky. Next up: Kaskada, Warsaw on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ola Teks is a techno and acid artist based in Poland, with 98 gigs on soundcheck
 
 Cyryl, daisy cutter, Kovvalsky
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olateks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olateks/)*

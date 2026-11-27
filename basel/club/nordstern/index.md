@@ -1,8 +1,8 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sebastian Konrad Invites" on Fri, 27 Nov 2026.
+Nordstern is a music venue in Basel with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sebastian Konrad Invites" on Fri, 27 Nov 2026.
 
-Nordstern is a music venue in Basel listed on soundcheck. 11 upcoming gigs, with line-ups including Alci, Alignment, Aline (CH) and Andrea Oliva and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
+Nordstern is a music venue in Basel listed on soundcheck. 12 upcoming gigs, with line-ups including Alci, Alignment, Aline (CH) and Andrea Oliva and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 11 upcoming gigs, with
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

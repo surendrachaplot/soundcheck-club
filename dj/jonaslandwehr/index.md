@@ -1,14 +1,15 @@
 # Jonas Landwehr
 
-Jonas Landwehr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 5 Dec 2026.
+Jonas Landwehr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 5 Dec 2026.
 
-Jonas Landwehr is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Kyoto and 1 more. Often billed alongside Felix Fleer, Ada Luvv and Ahmet Sisman. Next up: Tresor.West, Dortmund / Essen on Sat 5 Dec.
+Jonas Landwehr is a techno and house artist based in Germany, with 18 gigs on soundcheck across Berlin, Bielefeld, Cologne and Dortmund / Essen and 2 more. Often billed alongside Felix Fleer, Ada Luvv and Ahmet Sisman. Next up: Tresor.West, Dortmund / Essen on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Tresor.West | Dortmund / Essen |
+| Fri, 25 Dec 2026 | Nummer zu Platz | Bielefeld |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jonas Landwehr is a techno and house artist based in Germany, with 17 gigs on so
 
 Felix Fleer, Ada Luvv, Ahmet Sisman
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonaslandwehr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonaslandwehr/)*

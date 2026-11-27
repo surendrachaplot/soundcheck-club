@@ -1,6 +1,6 @@
 # Takenbymarshall
 
-Takenbymarshall is a Hardcore and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
+Takenbymarshall is a Hardcore and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
 
 Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, with 48 gigs on soundcheck across Bangkok, Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: Distillery N17, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, with
 
 Compulsive Leia, alterum, it_dont_Matt.er
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*

@@ -1,6 +1,6 @@
 # Keporkak
 
-Keporkak is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 5 Dec 2026.
+Keporkak is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 5 Dec 2026.
 
 Keporkak is a techno and trance artist based in Slovakia, with 11 gigs on soundcheck across Bratislava and Prague. Often billed alongside MURKEZZI, Fantomass and Barbellay. Next up: Radost Music Club, Bratislava on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Keporkak is a techno and trance artist based in Slovakia, with 11 gigs on soundc
 
 MURKEZZI, Fantomass, Barbellay
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keporkak/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keporkak/)*

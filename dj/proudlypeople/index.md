@@ -1,6 +1,6 @@
 # Proudly People
 
-Proudly People is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tunnel, Milan on Fri, 27 Nov 2026.
+Proudly People is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tunnel, Milan on Fri, 27 Nov 2026.
 
 Proudly People is a tech house and house artist based in Italy, with 31 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Ibiza and 7 more. Often billed alongside Joe Vanditti, Blackchild and Chicks Luv Us. Next up: Tunnel, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Proudly People is a tech house and house artist based in Italy, with 31 gigs on 
 
 Joe Vanditti, Blackchild, Chicks Luv Us
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proudlypeople/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/proudlypeople/)*

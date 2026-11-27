@@ -1,6 +1,6 @@
 # Ora
 
-Ora is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Thankful For The Baddies Rave" on Fri, 27 Nov 2026.
+Ora is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Thankful For The Baddies Rave" on Fri, 27 Nov 2026.
 
 Ora is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with line-ups including Black V Neck. See dates, start times and who's playing. 2330 1st Avenue, Seattle, WA 98121, USA.
 
@@ -17,4 +17,4 @@ Ora is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with line
 
 2330 1st Avenue, Seattle, WA 98121, USA, Seattle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*

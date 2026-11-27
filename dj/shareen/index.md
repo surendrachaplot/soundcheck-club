@@ -1,6 +1,6 @@
 # Shareen
 
-Shareen is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri, 11 Dec 2026.
+Shareen is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri, 11 Dec 2026.
 
 Shareen is a bass and house artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Hot Take, Azzecca and Baroque Hoe. Next up: TBA - Attic - 20A Meadow St Brooklyn 2nd Fl, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Shareen is a bass and house artist based in United States of America, with 10 gi
 
 Hot Take, Azzecca, Baroque Hoe
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shareen/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shareen/)*

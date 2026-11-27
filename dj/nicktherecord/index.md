@@ -1,6 +1,6 @@
 # Nick The Record
 
-Nick The Record is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Woodland Glade, Horseheath Racecourse, South-east on Fri, 18 Jun 2027.
+Nick The Record is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Woodland Glade, Horseheath Racecourse, South-east on Fri, 18 Jun 2027.
 
 Nick The Record is a house and disco artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside John Gómez, Crazy P and Timothy Really Lab.. Next up: The Woodland Glade, Horseheath Racecourse, South East on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ Nick The Record is a house and disco artist based in United Kingdom, with 41 gig
 
 John Gómez, Crazy P, Timothy Really Lab.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktherecord/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktherecord/)*

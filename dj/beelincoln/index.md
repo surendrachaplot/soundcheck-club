@@ -1,6 +1,6 @@
 # Bee Lincoln
 
-Bee Lincoln is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
+Bee Lincoln is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
 
 Bee Lincoln is a techno and tech house artist based in Germany, with 95 gigs on soundcheck across Berlin, Hamburg, Kuala Lumpur and Nürnberg and 1 more. Often billed alongside Coco, Empro and Flo Pirke. Next up: Sensorium, Berlin on Wed 16 Dec.
 
@@ -27,4 +27,4 @@ Bee Lincoln is a techno and tech house artist based in Germany, with 95 gigs on 
 
 Coco, Empro, Flo Pirke
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beelincoln/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beelincoln/)*

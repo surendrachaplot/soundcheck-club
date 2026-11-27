@@ -1,6 +1,6 @@
 # Funk Cartel
 
-Funk Cartel is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at XOYO, London on Thu, 31 Dec 2026.
+Funk Cartel is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at XOYO, London on Thu, 31 Dec 2026.
 
 Funk Cartel is a tech house and house artist based in United Kingdom, with 36 gigs on soundcheck across Brighton, Edinburgh, Ibiza and Leeds and 7 more. Often billed alongside Darius Syrossian, HARRIE SUMMERS and James Cooper (UK). Next up: XOYO, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Funk Cartel is a tech house and house artist based in United Kingdom, with 36 gi
 
 Darius Syrossian, HARRIE SUMMERS, James Cooper (UK)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkcartel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkcartel/)*

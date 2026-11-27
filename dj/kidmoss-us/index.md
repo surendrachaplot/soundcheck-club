@@ -1,6 +1,6 @@
 # Kid Moss
 
-Kid Moss is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 5 Dec 2026.
+Kid Moss is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 5 Dec 2026.
 
 Kid Moss is a house and minimal artist based in Venezuela, with 94 gigs on soundcheck across Barcelona, Berlin, Geneva and London and 1 more. Often billed alongside Guedes (ES), Guedes and IVAN POSEIDON. Next up: BORIS CLUB, Barcelona on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Kid Moss is a house and minimal artist based in Venezuela, with 94 gigs on sound
 
 Guedes (ES), Guedes, IVAN POSEIDON
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*

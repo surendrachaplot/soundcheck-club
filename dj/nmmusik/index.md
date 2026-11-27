@@ -1,6 +1,6 @@
 # NM Musik
 
-NM Musik is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pygmalion, Dublin on Fri, 27 Nov 2026.
+NM Musik is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pygmalion, Dublin on Fri, 27 Nov 2026.
 
 NM Musik is a house and minimal artist based in Italy, with 13 gigs on soundcheck across Dublin. Often billed alongside Royce Larøca, G.G (LB) and Slim (IE). Next up: Pygmalion, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ NM Musik is a house and minimal artist based in Italy, with 13 gigs on soundchec
 
 Royce Larøca, G.G (LB), Slim (IE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nmmusik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nmmusik/)*

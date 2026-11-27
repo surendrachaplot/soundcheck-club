@@ -1,19 +1,19 @@
 # Milch (1)
 
-Milch (1) is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Embassy Bar, Toronto on Thu, 26 Nov 2026.
+Milch (1) is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bambi's, Toronto on Sat, 28 Nov 2026.
 
-Milch is a house and balearic artist, with 144 gigs on soundcheck across Belgrade, Berlin, London and Montreal and 2 more. Often billed alongside Invisible City, Tony Price and Ciel. Next up: The Embassy Bar, Toronto on Thu 26 Nov.
+Milch is a house and balearic artist, with 144 gigs on soundcheck across Belgrade, Berlin, London and Montreal and 2 more. Often billed alongside Invisible City, Tony Price and Ciel. Next up: Bambi's, Toronto on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | The Embassy Bar | Toronto |
 | Sat, 28 Nov 2026 | Bambi's | Toronto |
 | Thu, 10 Dec 2026 | Bambi's | Toronto |
 
 ## Recently played
 
+- The Embassy Bar, Toronto · Thu, 26 Nov 2026
 - Cafeteria, Toronto · Fri, 13 Nov 2026
 - Cafeteria, Toronto · Fri, 6 Nov 2026
 - Cafeteria, Toronto · Sat, 31 Oct 2026
@@ -21,10 +21,9 @@ Milch is a house and balearic artist, with 144 gigs on soundcheck across Belgrad
 - Juice, Toronto · Sat, 17 Oct 2026
 - Bambi's, Toronto · Thu, 17 Sept 2026
 - Bambi's, Toronto · Sat, 12 Sept 2026
-- Mooi Space, Toronto · Mon, 7 Sept 2026
 
 ## Shares bills with
 
 Invisible City, Tony Price, Ciel
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milch-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milch-1/)*

@@ -1,6 +1,6 @@
 # YNOT
 
-YNOT is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
+YNOT is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri, 27 Nov 2026.
 
 YNOT is a techno and minimal artist based in Germany, with 6 gigs on soundcheck across Karlsruhe, Los Angeles, Seoul and Sydney. Often billed alongside Pønti, RÆNT and becks. Next up: TBA - Grand Hyatt Hotel JJ Mahoney's, Seoul on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ YNOT is a techno and minimal artist based in Germany, with 6 gigs on soundcheck 
 
 Pønti, RÆNT, becks (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ynot/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ynot/)*

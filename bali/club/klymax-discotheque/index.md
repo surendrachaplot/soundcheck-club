@@ -1,6 +1,6 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Cloud of Kouros, Slip D, Unknown Pete" on Fri, 27 Nov 2026.
+Klymax Discotheque is a music venue in Bali with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Cloud of Kouros, Slip D, Unknown Pete" on Fri, 27 Nov 2026.
 
 Klymax Discotheque is a music venue in Bali listed on soundcheck. 7 upcoming gigs, with line-ups including Archie Dennis, Bagvs, Camilo Miranda and CC:DISCO! and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ Klymax Discotheque is a music venue in Bali listed on soundcheck. 7 upcoming gig
 | Sat, 26 Dec 2026 | CC:DISCO!, Seabass | CC:DISCO! |
 | Thu, 31 Dec 2026 | Gero - All Night Long |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

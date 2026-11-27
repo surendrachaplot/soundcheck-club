@@ -1,8 +1,8 @@
 # LIEKS
 
-LIEKS is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
+LIEKS is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
 
-LIEKS is a techno and trance artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 13 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: Lokschuppen Berlin, Berlin on Fri 27 Nov.
+LIEKS is a techno and trance artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 14 more. Often billed alongside BLNK, BØĘRY and TiTi. Next up: Lokschuppen Berlin, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LIEKS is a techno and trance artist based in Netherlands, with 37 gigs on soundc
 | Fri, 27 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 28 Nov 2026 | Hangar 18 | Netherlands |
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ LIEKS is a techno and trance artist based in Netherlands, with 37 gigs on soundc
 
 ## Shares bills with
 
-BLNK, TiTi, BØĘRY
+BLNK, BØĘRY, TiTi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*

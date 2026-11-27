@@ -1,6 +1,6 @@
 # Jazz K
 
-Jazz K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Tue, 1 Dec 2026.
+Jazz K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dr. Dou Social Club, Barcelona on Tue, 1 Dec 2026.
 
 Jazz K is a techno and house artist based in France, with 130 gigs on soundcheck across Barcelona. Often billed alongside LUXX, NIIXII and ERRANT. Next up: Dr. Dou Social Club, Barcelona on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Jazz K is a techno and house artist based in France, with 130 gigs on soundcheck
 
 LUXX, NIIXII, ERRANT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*

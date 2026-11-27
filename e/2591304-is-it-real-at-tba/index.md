@@ -1,6 +1,6 @@
 # IS IT REAL at TBA
 
-IS IT REAL at TBA on Fri 27 Nov, Amsterdam. 5 artists: AEZARYA, Kléo, Mørris and ZENA (KR) and 1 more. Techno. See the line-up on soundcheck.
+IS IT REAL at TBA on Fri 27 Nov, Amsterdam. 5 artists: AEZARYA, Kleø, Mørris and ZENA (KR) and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ IS IT REAL at TBA on Fri 27 Nov, Amsterdam. 5 artists: AEZARYA, Kléo, Mørris a
 ## Line-up
 
 - AEZARYA
-- Kléo
+- Kleø
 - Mørris
 - ZENA (KR)
 - Zerra

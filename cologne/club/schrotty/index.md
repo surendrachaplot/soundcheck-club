@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m." on Fri, 27 Nov 2026.
+Schrotty is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m." on Fri, 27 Nov 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including Bouncy Bitch, BOVSKI, Danilo Filipe and DJ Discostoff and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -19,4 +19,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

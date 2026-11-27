@@ -1,6 +1,6 @@
 # Hugo Prime
 
-Hugo Prime is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Moon Club, Lisbon on Sat, 5 Dec 2026.
+Hugo Prime is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Moon Club, Lisbon on Sat, 5 Dec 2026.
 
 Hugo Prime is a techno and electro artist based in France, with 23 gigs on soundcheck across Cologne, Lisbon, Lyon and Paris. Often billed alongside Ben Manson, Mr Cozzo and High Low. Next up: TBA - Moon Club, Lisbon on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Hugo Prime is a techno and electro artist based in France, with 23 gigs on sound
 
 Ben Manson, Mr Cozzo, High Low
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoprime/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoprime/)*

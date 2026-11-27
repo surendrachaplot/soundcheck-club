@@ -1,6 +1,6 @@
 # Astrover
 
-Astrover is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Slakthuset, Stockholm on Fri, 27 Nov 2026.
+Astrover is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Slakthuset, Stockholm on Fri, 27 Nov 2026.
 
 Astrover is a techno artist based in United Kingdom, with 3 gigs on soundcheck across Basel, Berlin and Stockholm. Often billed alongside Enzio Etchaberri, Morten B. and Schwarzmalerei. Next up: Slakthuset, Stockholm on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Astrover is a techno artist based in United Kingdom, with 3 gigs on soundcheck a
 
 Enzio Etchaberri, Morten B., Schwarzmalerei
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astrover/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astrover/)*

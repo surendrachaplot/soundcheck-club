@@ -1,19 +1,19 @@
 # Ana Alves
 
-Ana Alves is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 26 Nov 2026.
+Ana Alves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
 
-Ana Alves is a techno and house artist based in Spain, with 78 gigs on soundcheck across Barcelona, Berlin, Bucharest and London and 1 more. Often billed alongside Hayden F, Lola Kay and MRIYA. Next up: Les Enfants Brillants, Barcelona on Thu 26 Nov.
+Ana Alves is a techno and house artist based in Spain, with 78 gigs on soundcheck across Barcelona, Berlin, Bucharest and London and 1 more. Often billed alongside Hayden F, Lola Kay and MRIYA. Next up: Razzmatazz, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 5 Dec 2026 | Razzmatazz | Barcelona |
 | Fri, 11 Dec 2026 | The Bassement | Madrid |
 
 ## Recently played
 
+- Les Enfants Brillants, Barcelona · Thu, 26 Nov 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Fri, 30 Oct 2026
 - Village Underground Barcelona, London · Sat, 24 Oct 2026
 - TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona · Sat, 10 Oct 2026
@@ -21,10 +21,9 @@ Ana Alves is a techno and house artist based in Spain, with 78 gigs on soundchec
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 4 Sept 2026
 - Sunseabar Beach Club, Barcelona · Thu, 20 Aug 2026
 - Lokschuppen Berlin, Berlin · Sat, 8 Aug 2026
-- Sala Siroco, Madrid · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Hayden F, Lola Kay, MRIYA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*

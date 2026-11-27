@@ -1,6 +1,6 @@
 # not|or|ius Club
 
-not|or|ius Club is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "GENAU: Nastia (TECHNO Rec / UA)" on Sat, 12 Dec 2026.
+not|or|ius Club is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "GENAU: Nastia (TECHNO Rec / UA)" on Sat, 12 Dec 2026.
 
 not|or|ius Club is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with line-ups including Boris, Gandalf and Nastia. See dates, start times and who's playing. via stradella 10/d, Torino, Italy.
 
@@ -16,4 +16,4 @@ not|or|ius Club is a music venue in Turin listed on soundcheck. 3 upcoming gigs,
 
 via stradella 10/d, Torino, Italy, Turin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/not-or-ius-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/not-or-ius-club/)*

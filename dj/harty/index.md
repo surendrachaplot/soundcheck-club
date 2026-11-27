@@ -1,14 +1,15 @@
 # HARTY
 
-HARTY is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
+HARTY is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 93 Feet East, London on Sat, 12 Dec 2026.
 
-HARTY is a tech house and house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Jerome Six, Brian Smith and JAYDAA. Next up: 93 Feet East, London on Sat 12 Dec.
+HARTY is a tech house and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Jerome Six, Brian Smith and JAYDAA. Next up: 93 Feet East, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | 93 Feet East | London |
+| Thu, 31 Dec 2026 | 93 Feet East | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HARTY is a tech house and house artist based in United Kingdom, with 51 gigs on 
 
 Jerome Six, Brian Smith, JAYDAA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*

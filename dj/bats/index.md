@@ -1,6 +1,6 @@
 # Bats
 
-Bats is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Sydney on Fri, 8 Jan 2027.
+Bats is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Fri, 8 Jan 2027.
 
 Bats is a techno and bass artist based in Australia, with 19 gigs on soundcheck across Bangkok, Melbourne and Sydney. Often billed alongside ANAHITA, Ekul and Andrew Wowk. Next up: TBA, Sydney on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Bats is a techno and bass artist based in Australia, with 19 gigs on soundcheck 
 
 ANAHITA, Ekul, Andrew Wowk
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bats/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bats/)*

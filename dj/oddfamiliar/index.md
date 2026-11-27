@@ -1,6 +1,6 @@
 # Odd Familiar
 
-Odd Familiar is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bambi's, Toronto on Sat, 19 Dec 2026.
+Odd Familiar is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bambi's, Toronto on Sat, 19 Dec 2026.
 
 Odd Familiar is a house and experimental artist, with 8 gigs on soundcheck across London, Tokyo and Toronto. Often billed alongside Madelic, AKWA and Armând. Next up: Bambi's, Toronto on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Odd Familiar is a house and experimental artist, with 8 gigs on soundcheck acros
 
 Madelic, AKWA, Armând
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oddfamiliar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oddfamiliar/)*

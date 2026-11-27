@@ -1,6 +1,6 @@
 # Dornika
 
-Dornika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Fri, 4 Dec 2026.
+Dornika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elsewhere, New York City on Fri, 4 Dec 2026.
 
 Dornika is a techno and house artist based in Iran, with 45 gigs on soundcheck across Berlin, Hamburg, Leipzig and Marseille and 4 more. Often billed alongside ADAM MUNNINGS, Elninodiablo and Rafush. Next up: Elsewhere, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dornika is a techno and house artist based in Iran, with 45 gigs on soundcheck a
 
 ADAM MUNNINGS, Elninodiablo, Rafush
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dornika/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dornika/)*

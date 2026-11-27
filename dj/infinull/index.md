@@ -1,6 +1,6 @@
 # INFINULL
 
-INFINULL is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Athens on Fri, 27 Nov 2026.
+INFINULL is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Athens on Fri, 27 Nov 2026.
 
 INFINULL is a bass and drum & bass artist based in Greece, with 16 gigs on soundcheck across Athens. Often billed alongside Bllyz, Jetfu3l and Vrodex. Next up: TBA, Athens on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ INFINULL is a bass and drum & bass artist based in Greece, with 16 gigs on sound
 
 Bllyz, Jetfu3l, Vrodex
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infinull/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infinull/)*

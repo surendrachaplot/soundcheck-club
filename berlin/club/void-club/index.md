@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007" on Fri, 27 Nov 2026.
+Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007" on Fri, 27 Nov 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Abriss Andrej, Alex Pastore, Andriiic and Anna Hoeber and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

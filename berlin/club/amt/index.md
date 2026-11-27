@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Night Bloom" on Fri, 27 Nov 2026.
+AMT is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Night Bloom" on Fri, 27 Nov 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Achilles, ALAN JOE, ALIS. and ANAMORPH_ and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line
 | Tue, 15 Dec 2026 | Rx 008 |  |
 | Sat, 19 Dec 2026 | LIMAX - Naked Electronic Dance |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

@@ -1,6 +1,6 @@
 # FILTRACK
 
-FILTRACK is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Blindspot*, Bucharest on Fri, 27 Nov 2026.
+FILTRACK is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Blindspot*, Bucharest on Fri, 27 Nov 2026.
 
 FILTRACK is a techno and hardcore artist based in Romania, with 46 gigs on soundcheck across Amsterdam, Bergen, Berlin and Bucharest and 6 more. Often billed alongside NTHR, BASSTIEN and FACDEZORDINESIPLEC. Next up: Blindspot*, Bucharest on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ FILTRACK is a techno and hardcore artist based in Romania, with 46 gigs on sound
 
 NTHR, BASSTIEN, FACDEZORDINESIPLEC
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filtrack/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filtrack/)*

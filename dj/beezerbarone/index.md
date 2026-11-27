@@ -1,6 +1,6 @@
 # Beezer Barone
 
-Beezer Barone is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Story DC, Washington DC on Sat, 28 Nov 2026.
+Beezer Barone is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Story DC, Washington DC on Sat, 28 Nov 2026.
 
 Beezer Barone is a tech house and techno artist based in United States of America, with 2 gigs on soundcheck across Washington DC. Often billed alongside Skippper and Surge.DJ. Next up: Story DC, Washington DC on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ Beezer Barone is a tech house and techno artist based in United States of Americ
 
 Skippper, Surge.DJ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beezerbarone/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beezerbarone/)*

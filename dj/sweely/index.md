@@ -1,8 +1,8 @@
 # Sweely
 
-Sweely is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Sweely is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Sweely is a house and techno artist based in France, with 191 gigs on soundcheck across Amsterdam, Athens, Bali and Bangalore and 55 more. Often billed alongside Enzo Siragusa, Traumer and The Ghost. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Sweely is a house and techno artist based in France, with 192 gigs on soundcheck across Amsterdam, Athens, Bali and Bangalore and 56 more. Often billed alongside Enzo Siragusa, Traumer and The Ghost. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sweely is a house and techno artist based in France, with 191 gigs on soundcheck
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Sat, 5 Dec 2026 | TBA - Foothills of Nandi, Karahalli | Bangalore |
 | Sat, 19 Dec 2026 | Sunset Beach Bali | Bali |
+| Tue, 5 Jan 2027 | TBA - TULUM, DEEP IN THE JUNGLE | Tulum |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
@@ -31,4 +32,4 @@ Sweely is a house and techno artist based in France, with 191 gigs on soundcheck
 
 Enzo Siragusa, Traumer, The Ghost
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

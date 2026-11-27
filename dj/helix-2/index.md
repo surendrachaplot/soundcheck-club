@@ -1,6 +1,6 @@
 # HELIX (NYC)
 
-HELIX (NYC) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Newtown Radio, New York City on Fri, 4 Dec 2026.
+HELIX (NYC) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Newtown Radio, New York City on Fri, 4 Dec 2026.
 
 HELIX (NYC) is a techno and minimal artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Aleska, Tim Dauz and Anthorp. Next up: Newtown Radio, New York City on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ HELIX (NYC) is a techno and minimal artist based in United States of America, wi
 
 Aleska, Tim Dauz, Anthorp
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helix-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helix-2/)*

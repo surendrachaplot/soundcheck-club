@@ -1,13 +1,14 @@
 # cute boys
 
-cute boys is a Pop and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Metropolitan Bar, New York City on Fri, 4 Dec 2026.
+cute boys is a Pop and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Danger Danger, New York City on Fri, 27 Nov 2026.
 
-cute boys is a pop and trance artist based in United States of America, with 16 gigs on soundcheck across New York City and Washington DC. Often billed alongside ASTER (DJ), Tasheff and Lilflower. Next up: Metropolitan Bar, New York City on Fri 4 Dec.
+cute boys is a pop and house artist based in United States of America, with 17 gigs on soundcheck across New York City and Washington DC. Often billed alongside ASTER (DJ), Tasheff and Lilflower. Next up: Danger Danger, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Danger Danger | New York City |
 | Fri, 4 Dec 2026 | Metropolitan Bar | New York City |
 | Sat, 12 Dec 2026 | Sinners and Saints | Washington DC |
 
@@ -26,4 +27,4 @@ cute boys is a pop and trance artist based in United States of America, with 16 
 
 ASTER (DJ), Tasheff, Lilflower
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*

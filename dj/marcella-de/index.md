@@ -1,6 +1,6 @@
 # Marcella
 
-Marcella is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Halle6, Munich on Sat, 28 Nov 2026.
+Marcella is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Halle6, Munich on Sat, 28 Nov 2026.
 
 Marcella is a house and techno artist based in Germany, with 8 gigs on soundcheck across Munich and Vancouver. Often billed alongside Beiti, EKIN and Lalo Campo. Next up: Halle6, Munich on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Marcella is a house and techno artist based in Germany, with 8 gigs on soundchec
 
 Beiti, EKIN, Lalo Campo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcella-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcella-de/)*

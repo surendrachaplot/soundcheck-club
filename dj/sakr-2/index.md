@@ -1,6 +1,6 @@
 # Sakr (AU)
 
-Sakr (AU) is a electronic artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Lower Third, London on Wed, 17 Mar 2027.
+Sakr (AU) is a electronic artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lower Third, London on Wed, 17 Mar 2027.
 
 Sakr (AU) is an electronic artist based in Australia, with 3 gigs on soundcheck across Berlin, London and South East. Often billed alongside AM sin, Aesylr and Aleromaze. Next up: The Lower Third, London on Wed 17 Mar.
 
@@ -16,4 +16,4 @@ Sakr (AU) is an electronic artist based in Australia, with 3 gigs on soundcheck 
 
 AM sin, Aesylr, Aleromaze
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakr-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakr-2/)*

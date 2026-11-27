@@ -1,8 +1,8 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
 
-Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 51 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: M.O.T, London on Sat 28 Nov.
+Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 265 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austria and 52 more. Often billed alongside Dwarde, Sully and Mantra. Next up: M.O.T, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,8 @@ Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 263 
 | Sat, 30 Jan 2027 | The Pitt Market | Edinburgh |
 | Sat, 6 Feb 2027 | The Warehouse | Leeds |
 | Sat, 20 Feb 2027 | M.O.T | London |
+| Thu, 4 Mar 2027 | Dom im Berg | Austria |
+| Sun, 28 Mar 2027 | The Racket Space | Dublin |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
@@ -32,6 +34,6 @@ Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 263 
 
 ## Shares bills with
 
-Dwarde, Sully, Coco Bryce
+Dwarde, Sully, Mantra
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*

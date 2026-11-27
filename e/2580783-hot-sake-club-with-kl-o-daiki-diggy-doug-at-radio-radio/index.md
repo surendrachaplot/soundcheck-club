@@ -1,6 +1,6 @@
 # (HOT)SAKE CLUB with Kléo, Daiki & Diggy Doug at Radio Radio
 
-(HOT)SAKE CLUB with Kléo, Daiki & Diggy Doug at Radio Radio on Thu 10 Dec, Amsterdam. 3 artists: Daiki Fukami, Diggy Doug and Kléo. See the line-up on soundcheck.
+(HOT)SAKE CLUB with Kléo, Daiki & Diggy Doug at Radio Radio on Thu 10 Dec, Amsterdam. 3 artists: Daiki Fukami, Diggy Doug and Kleø. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@
 
 - Daiki Fukami
 - Diggy Doug
-- Kléo
+- Kleø
 
 *Source: [soundcheck](https://soundcheck.club/e/2580783-hot-sake-club-with-kl-o-daiki-diggy-doug-at-radio-radio/)*

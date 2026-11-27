@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Kowalski Saturdays w/Luca Schuster, Josha" on Sat, 28 Nov 2026.
+Kowalski is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Kowalski Saturdays w/Luca Schuster, Josha" on Sat, 28 Nov 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Dilby, DJ Soulstar, Einmusik and Jochen Pash and 2 more. See dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -21,4 +21,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, wi
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

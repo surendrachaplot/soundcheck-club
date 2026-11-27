@@ -1,6 +1,6 @@
 # Turk Turkelton
 
-Turk Turkelton is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mono, Rotterdam on Fri, 27 Nov 2026.
+Turk Turkelton is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mono, Rotterdam on Fri, 27 Nov 2026.
 
 Turk Turkelton is an electro and house artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 4 more. Often billed alongside DJ MELL G, ALICE XLS and Abr.. Next up: Mono, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Turk Turkelton is an electro and house artist based in Germany, with 13 gigs on 
 
 DJ MELL G, ALICE XLS, Abr.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turkturkelton/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turkturkelton/)*

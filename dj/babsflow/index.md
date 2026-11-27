@@ -1,6 +1,6 @@
 # Babs Flow
 
-Babs Flow is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Thu, 31 Dec 2026.
+Babs Flow is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Thu, 31 Dec 2026.
 
 Babs Flow is a house and disco artist, with 12 gigs on soundcheck across Edinburgh. Often billed alongside Aston Evans, Craig Smith and Peacey. Next up: Port of Leith Distillery, Edinburgh on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Babs Flow is a house and disco artist, with 12 gigs on soundcheck across Edinbur
 
 Aston Evans, Craig Smith, Peacey
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babsflow/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babsflow/)*

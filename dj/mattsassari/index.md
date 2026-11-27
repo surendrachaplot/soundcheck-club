@@ -1,6 +1,6 @@
 # Matt Sassari
 
-Matt Sassari is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
+Matt Sassari is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
 
 Matt Sassari is a tech house and techno artist based in France, with 84 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 41 more. Often billed alongside Kygo, Will Clarke and David Guetta. Next up: TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Matt Sassari is a tech house and techno artist based in France, with 84 gigs on 
 
 Kygo, Will Clarke, David Guetta
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

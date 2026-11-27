@@ -1,6 +1,6 @@
 # M3tamyth
 
-M3tamyth is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 4 Dec 2026.
+M3tamyth is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 4 Dec 2026.
 
 M3tamyth is a techno and trance artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Vulker, Gueparda and Reitze. Next up: Hangar48 Club, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ M3tamyth is a techno and trance artist based in Spain, with 14 gigs on soundchec
 
 Vulker, Gueparda, Reitze
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m3tamyth/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m3tamyth/)*

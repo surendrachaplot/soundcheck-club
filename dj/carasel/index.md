@@ -1,6 +1,6 @@
 # Carasel
 
-Carasel is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Carasel is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 Carasel is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 8 more. Often billed alongside IC3, Jakes and Inja. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Carasel is a drum & bass and jungle artist based in United Kingdom, with 75 gigs
 
 IC3, Jakes, Inja
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*

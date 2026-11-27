@@ -1,6 +1,6 @@
 # Experimental
 
-Experimental is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 5 Dec 2026.
+Experimental is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 5 Dec 2026.
 
 Experimental is an experimental and techno artist based in Hungary, with 11 gigs on soundcheck across Berlin, Brussels, Canberra and Denver and 3 more. Often billed alongside Drone (UK), Above The Shoulders and Bass. Next up: the inner circle vienna / wien, Vienna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Experimental is an experimental and techno artist based in Hungary, with 11 gigs
 
 Drone (UK), Above The Shoulders, Bass
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/experimental-hu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/experimental-hu/)*

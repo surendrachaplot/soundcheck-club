@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "R&B CORPORATION x SOLEIL INVITES Fold [UK]" on Fri, 27 Nov 2026.
+Cakeshop is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "R&B CORPORATION x SOLEIL INVITES Fold [UK]" on Fri, 27 Nov 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line-ups including August, BAAWLA, bojvck and Closet Yi and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -20,4 +20,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with l
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

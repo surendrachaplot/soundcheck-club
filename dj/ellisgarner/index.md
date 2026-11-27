@@ -1,6 +1,6 @@
 # Ellis Garner
 
-Ellis Garner is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 440, Midlands on Fri, 18 Dec 2026.
+Ellis Garner is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 440, Midlands on Fri, 18 Dec 2026.
 
 Ellis Garner is a tech house and deep house artist based in United Kingdom, with 5 gigs on soundcheck across London, Midlands and South East. Often billed alongside A.L.F, Benji King and Blackromeo. Next up: 440, Midlands on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Ellis Garner is a tech house and deep house artist based in United Kingdom, with
 
 A.L.F, Benji King, Blackromeo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisgarner/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellisgarner/)*

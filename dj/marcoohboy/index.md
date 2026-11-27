@@ -1,6 +1,6 @@
 # Marco Ohboy
 
-Marco Ohboy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Marco Ohboy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Marco Ohboy is a house and disco artist based in Italy, with 42 gigs on soundcheck across Barcelona, Berlin, Bogotá and Milan. Often billed alongside Ansonica, Luca Carluccio and Izzy Demzky. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Marco Ohboy is a house and disco artist based in Italy, with 42 gigs on soundche
 
 Ansonica, Luca Carluccio, Izzy Demzky
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*

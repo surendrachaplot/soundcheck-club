@@ -1,14 +1,15 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Coco Maria is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
-Coco Maria is a house and disco artist based in Mexico, with 137 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
+Coco Maria is a house and disco artist based in Mexico, with 138 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Coco Maria is a house and disco artist based in Mexico, with 137 gigs on soundch
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

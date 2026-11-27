@@ -1,6 +1,6 @@
 # Neon Warrior
 
-Neon Warrior is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Neon Warrior is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Neon Warrior is a techno and electro artist based in Georgia, with 84 gigs on soundcheck across Berlin, Copenhagen, Krakow and Liverpool and 3 more. Often billed alongside Ottonian, Generali Minerali and Minerali. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Neon Warrior is a techno and electro artist based in Georgia, with 84 gigs on so
 
 Ottonian, Generali Minerali, Minerali
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwarrior/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwarrior/)*

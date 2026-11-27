@@ -1,6 +1,6 @@
 # Meduza
 
-Meduza is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sektor 6D, Warsaw on Fri, 27 Nov 2026.
+Meduza is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sektor 6D, Warsaw on Fri, 27 Nov 2026.
 
 Meduza is a house and techno artist based in Italy, with 184 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 40 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Sektor 6D, Warsaw on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Meduza is a house and techno artist based in Italy, with 184 gigs on soundcheck 
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

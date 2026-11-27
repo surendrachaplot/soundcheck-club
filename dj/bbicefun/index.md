@@ -1,6 +1,6 @@
 # BB ICE FUN
 
-BB ICE FUN is a Footwork and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Taipei on Sat, 19 Dec 2026.
+BB ICE FUN is a Footwork and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Taipei on Sat, 19 Dec 2026.
 
 BB ICE FUN is a footwork and bass artist based in Taiwan, with 2 gigs on soundcheck across Berlin and Taipei. Often billed alongside B E N N, Betty Apple and Cinna Peyghamy. Next up: TBA, Taipei on Sat 19 Dec.
 
@@ -15,4 +15,4 @@ BB ICE FUN is a footwork and bass artist based in Taiwan, with 2 gigs on soundch
 
 B E N N, Betty Apple, Cinna Peyghamy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbicefun/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbicefun/)*

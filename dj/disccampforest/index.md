@@ -1,6 +1,6 @@
 # DiscCampForest
 
-DiscCampForest is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 5 Dec 2026.
+DiscCampForest is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 5 Dec 2026.
 
 DiscCampForest is a house and disco artist based in Japan, with 31 gigs on soundcheck across Tokyo. Often billed alongside Monkey Timers, JUN INAGAWA and Sunga. Next up: Enter Shibuya, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DiscCampForest is a house and disco artist based in Japan, with 31 gigs on sound
 
 Monkey Timers, JUN INAGAWA, Sunga
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disccampforest/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disccampforest/)*

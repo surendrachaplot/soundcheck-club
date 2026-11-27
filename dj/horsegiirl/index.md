@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Elysée Montmartre, Paris on Fri, 27 Nov 2026.
+horsegiirL is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Elysée Montmartre, Paris on Fri, 27 Nov 2026.
 
 horsegiirL is a techno and house artist based in Germany, with 139 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 54 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: Elysée Montmartre, Paris on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ horsegiirL is a techno and house artist based in Germany, with 139 gigs on sound
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

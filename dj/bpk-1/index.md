@@ -1,14 +1,15 @@
 # BPK (1)
 
-BPK (1) is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+BPK (1) is a Pop and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
-BPK is an electronica and pop artist based in United Kingdom, with 5 gigs on soundcheck across Edinburgh and London. Often billed alongside Nikki Guild, Bolam and Caligari_. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
+BPK is a pop and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Edinburgh and London. Often billed alongside Nikki Guild, Bolam and Caligari_. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | People's Leisure Club | Edinburgh |
+| Fri, 11 Dec 2026 | West Port Oracle | Edinburgh |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ BPK is an electronica and pop artist based in United Kingdom, with 5 gigs on sou
 
 Nikki Guild, Bolam, Caligari_
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bpk-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bpk-1/)*

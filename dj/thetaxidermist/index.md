@@ -1,6 +1,6 @@
 # The Taxidermist
 
-The Taxidermist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 18 Dec 2026.
+The Taxidermist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 18 Dec 2026.
 
 The Taxidermist is a house and techno artist based in United Kingdom, with 18 gigs on soundcheck across Manchester. Often billed alongside Judas Du, Wild Forts and Julie Wills. Next up: Piccadilly Central, Manchester on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ The Taxidermist is a house and techno artist based in United Kingdom, with 18 gi
 
 Judas Du, Wild Forts, Julie Wills
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaxidermist/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaxidermist/)*

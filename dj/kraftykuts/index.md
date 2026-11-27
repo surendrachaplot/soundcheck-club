@@ -1,6 +1,6 @@
 # Krafty Kuts
 
-Krafty Kuts is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 13 Feb 2027.
+Krafty Kuts is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sidney & Matilda, Sheffield on Sat, 13 Feb 2027.
 
 Krafty Kuts is a breakbeat and house artist based in United Kingdom, with 33 gigs on soundcheck across Auckland, Brighton, Brisbane and Budapest and 11 more. Often billed alongside Plump DJs, Freestylers and Stanton Warriors. Next up: Sidney & Matilda, Sheffield on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Krafty Kuts is a breakbeat and house artist based in United Kingdom, with 33 gig
 
 Plump DJs, Freestylers, Stanton Warriors
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftykuts/)*

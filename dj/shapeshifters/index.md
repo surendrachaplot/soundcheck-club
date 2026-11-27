@@ -1,6 +1,6 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Home The Venue, Sydney on Fri, 5 Mar 2027.
+The Shapeshifters is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Home The Venue, Sydney on Fri, 5 Mar 2027.
 
 The Shapeshifters is a house and disco artist based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 34 more. Often billed alongside Melvo Baptiste, Aline Rocha and Horse Meat Disco. Next up: Home The Venue, Sydney on Fri 5 Mar.
 
@@ -29,4 +29,4 @@ The Shapeshifters is a house and disco artist based in United Kingdom, with 131 
 
 Melvo Baptiste, Aline Rocha, Horse Meat Disco
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

@@ -1,6 +1,6 @@
 # S K Y
 
-S K Y is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 10 Dec 2026.
+S K Y is a Afrobeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 10 Dec 2026.
 
 S K Y is an afrobeat and afro house artist based in United States of America, with 6 gigs on soundcheck across Montreal, Munich, Paris and Rio de Janeiro and 2 more. Often billed alongside A K, Adroit Joe and BASSKRAP. Next up: Bahnwärter Thiel, Munich on Thu 10 Dec.
 
@@ -22,4 +22,4 @@ S K Y is an afrobeat and afro house artist based in United States of America, wi
 
 A K, Adroit Joe, BASSKRAP
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sky-us/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sky-us/)*

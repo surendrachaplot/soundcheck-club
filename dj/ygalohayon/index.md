@@ -1,6 +1,6 @@
 # Yaël Ohayon
 
-Yaël Ohayon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at essaim, Paris on Sat, 16 Jan 2027.
+Yaël Ohayon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at essaim, Paris on Sat, 16 Jan 2027.
 
 Yaël Ohayon is a house and disco artist based in France, with 32 gigs on soundcheck across Nantes and Paris. Often billed alongside JPYE, Aubry and Cristofeu. Next up: essaim, Paris on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Yaël Ohayon is a house and disco artist based in France, with 32 gigs on soundc
 
 JPYE, Aubry, Cristofeu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ygalohayon/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ygalohayon/)*

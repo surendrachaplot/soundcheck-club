@@ -1,6 +1,6 @@
 # Nigel Nagel
 
-Nigel Nagel is a Downtempo and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 4 Dec 2026.
+Nigel Nagel is a Downtempo and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 4 Dec 2026.
 
 Nigel Nagel is a downtempo and disco artist based in Germany, with 41 gigs on soundcheck across Berlin and Münster. Often billed alongside Lotte Ahoi, Neobeo and BurnTale. Next up: Crack Bellmer, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nigel Nagel is a downtempo and disco artist based in Germany, with 41 gigs on so
 
 Lotte Ahoi, Neobeo, BurnTale
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelnagel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelnagel/)*

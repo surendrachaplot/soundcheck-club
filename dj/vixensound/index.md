@@ -1,6 +1,6 @@
 # Vixen Sound
 
-Vixen Sound is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ashton Court Estate, Bristol on Sat, 29 May 2027.
+Vixen Sound is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ashton Court Estate, Bristol on Sat, 29 May 2027.
 
 Vixen Sound is a dub and dancehall artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Brussels, Edinburgh and Geneva and 9 more. Often billed alongside Iration Steppas, A For Alpha and ALISHA. Next up: Ashton Court Estate, Bristol on Sat 29 May.
 
@@ -25,4 +25,4 @@ Vixen Sound is a dub and dancehall artist based in United Kingdom, with 20 gigs 
 
 Iration Steppas, A For Alpha, ALISHA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vixensound/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vixensound/)*

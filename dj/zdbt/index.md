@@ -1,6 +1,6 @@
 # ZDBT
 
-ZDBT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sameheads, Berlin on Fri, 27 Nov 2026.
+ZDBT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sameheads, Berlin on Fri, 27 Nov 2026.
 
 ZDBT is a techno and house artist based in Canada, with 61 gigs on soundcheck across Berlin, Calgary, Detroit and Helsinki and 6 more. Often billed alongside Syd Woz, Dairy Free and Frankie Teardrop. Next up: Sameheads, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ ZDBT is a techno and house artist based in Canada, with 61 gigs on soundcheck ac
 
 Syd Woz, Dairy Free, Frankie Teardrop
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*

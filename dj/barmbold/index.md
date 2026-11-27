@@ -1,6 +1,6 @@
 # Barmbold
 
-Barmbold is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lilli Escher, Hamburg on Fri, 27 Nov 2026.
+Barmbold is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lilli Escher, Hamburg on Fri, 27 Nov 2026.
 
 Barmbold is a house and techno artist based in Germany, with 3 gigs on soundcheck across Hamburg. Often billed alongside DJ Babyblade, ATAVEM and Anton Jonathan. Next up: Lilli Escher, Hamburg on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Barmbold is a house and techno artist based in Germany, with 3 gigs on soundchec
 
 DJ Babyblade, ATAVEM, Anton Jonathan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barmbold/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barmbold/)*

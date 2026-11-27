@@ -1,6 +1,6 @@
 # The Lord Gladstone
 
-The Lord Gladstone is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Good Club with Clifford" on Sat, 5 Dec 2026.
+The Lord Gladstone is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Good Club with Clifford" on Sat, 5 Dec 2026.
 
 The Lord Gladstone is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including ADDAX (AU), Casual P, Clifford and SILLYBITCHESDIE. See dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
 
@@ -15,4 +15,4 @@ The Lord Gladstone is a music venue in Sydney listed on soundcheck. 2 upcoming g
 
 115 Regent St, Chippendale NSW 2008, Australia, Sydney
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*

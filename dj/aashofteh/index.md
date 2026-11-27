@@ -1,6 +1,6 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Aashofteh is a Tech House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on soundcheck across Canberra and Melbourne. Often billed alongside Miscmeg, D-Grade and Sofay. Next up: TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Aashofteh is a tech house and bass artist based in Australia, with 12 gigs on so
 
 Miscmeg, D-Grade, Sofay
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*

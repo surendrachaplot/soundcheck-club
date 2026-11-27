@@ -1,6 +1,6 @@
 # Selassie TBC
 
-Selassie TBC is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
+Selassie TBC is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
 
 Selassie TBC is a house and club artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Bristol, London and Malaga. Often billed alongside Mr. Redley, blissy e and dOnüt. Next up: NUMBER 90 LONDON, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Selassie TBC is a house and club artist based in United Kingdom, with 35 gigs on
 
 Mr. Redley, blissy e, dOnüt
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*

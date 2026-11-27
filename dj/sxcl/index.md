@@ -1,6 +1,6 @@
 # SXCL
 
-SXCL is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 27 Nov 2026.
+SXCL is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Station - Gare des Mines, Paris on Fri, 27 Nov 2026.
 
 SXCL is a house and techno artist based in France, with 62 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid and 2 more. Often billed alongside Dirty Daddy Don, Posture and Souci. Next up: La Station - Gare des Mines, Paris on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ SXCL is a house and techno artist based in France, with 62 gigs on soundcheck ac
 
 Dirty Daddy Don, Posture, Souci
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sxcl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sxcl/)*

@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Oriente, Mexico-city on Fri, 27 Nov 2026.
+Radio Slave is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Oriente, Mexico-city on Fri, 27 Nov 2026.
 
 Radio Slave is a house and techno artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 56 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Bar Oriente, Mexico City on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Radio Slave is a house and techno artist based in United Kingdom, with 141 gigs 
 
 Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

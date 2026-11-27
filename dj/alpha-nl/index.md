@@ -1,6 +1,6 @@
 # ALPHA (NL)
 
-ALPHA (NL) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 19 Dec 2026.
+ALPHA (NL) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 19 Dec 2026.
 
 ALPHA (NL) is a techno and bass artist based in Netherlands, with 13 gigs on soundcheck across Bangkok, Berlin, Chengdu and Copenhagen and 4 more. Often billed alongside 3ASiC, Archypness and Diva Li. Next up: Bangkok Island, Bangkok on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ ALPHA (NL) is a techno and bass artist based in Netherlands, with 13 gigs on sou
 
 3ASiC, Archypness, Diva Li
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alpha-nl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alpha-nl/)*

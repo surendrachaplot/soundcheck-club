@@ -1,6 +1,6 @@
 # Beardyman
 
-Beardyman is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gretchen, Berlin on Fri, 29 Jan 2027.
+Beardyman is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gretchen, Berlin on Fri, 29 Jan 2027.
 
 Beardyman is a bass and hip-hop artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, Budapest, Glasgow and London and 1 more. Often billed alongside Craig Charles, Folamour and Aroop Roy. Next up: Gretchen, Berlin on Fri 29 Jan.
 
@@ -23,4 +23,4 @@ Beardyman is a bass and hip-hop artist based in United Kingdom, with 7 gigs on s
 
 Craig Charles, Folamour, Aroop Roy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beardyman/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beardyman/)*

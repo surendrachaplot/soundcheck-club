@@ -1,6 +1,6 @@
 # Poly Chain
 
-Poly Chain is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
+Poly Chain is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
 
 Poly Chain is a techno and electro artist based in Ukraine, with 52 gigs on soundcheck across Amsterdam, Bergen, Berlin and Brussels and 12 more. Often billed alongside DJ MELL G, MSJY and Anastasia Kristensen. Next up: Baggen, Copenhagen on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Poly Chain is a techno and electro artist based in Ukraine, with 52 gigs on soun
 
 DJ MELL G, MSJY, Anastasia Kristensen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*

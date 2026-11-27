@@ -1,6 +1,6 @@
 # Amal Nemer
 
-Amal Nemer is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Edge Miami, Miami on Thu, 3 Dec 2026.
+Amal Nemer is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Edge Miami, Miami on Thu, 3 Dec 2026.
 
 Amal Nemer is a tech house and house artist based in United States of America, with 51 gigs on soundcheck across Austin, Barcelona, Bogotá and Boston and 14 more. Often billed alongside Malone, Lazaro Casanova and Oscar G. Next up: Edge Miami, Miami on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Amal Nemer is a tech house and house artist based in United States of America, w
 
 Malone, Lazaro Casanova, Oscar G
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amalnemer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amalnemer/)*

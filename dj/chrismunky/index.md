@@ -1,6 +1,6 @@
 # Chris Munky
 
-Chris Munky is a Drum & Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
+Chris Munky is a Drum & Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
 
 Chris Munky is a drum & bass and hip-hop artist based in Australia, with 6 gigs on soundcheck across Adelaide and Sydney. Often billed alongside Adarah, Alex Dowsing and Ari Kiko. Next up: Portugal Madeira Club, Sydney on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Chris Munky is a drum & bass and hip-hop artist based in Australia, with 6 gigs 
 
 Adarah, Alex Dowsing, Ari Kiko
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismunky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismunky/)*

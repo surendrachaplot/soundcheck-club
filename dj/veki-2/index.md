@@ -1,6 +1,6 @@
 # Veki (2)
 
-Veki (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at B side Athens, Athens on Fri, 27 Nov 2026.
+Veki (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at B side Athens, Athens on Fri, 27 Nov 2026.
 
 Veki is a house and techno artist based in Greece, with 8 gigs on soundcheck across Athens. Often billed alongside SUNEATER., Gaia and Mr.M. Next up: B side Athens, Athens on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Veki is a house and techno artist based in Greece, with 8 gigs on soundcheck acr
 
 SUNEATER., Gaia (2), Mr.M
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veki-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veki-2/)*

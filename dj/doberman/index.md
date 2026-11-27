@@ -1,6 +1,6 @@
 # DOBERMAN
 
-DOBERMAN is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cakeshop, Seoul on Fri, 27 Nov 2026.
+DOBERMAN is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cakeshop, Seoul on Fri, 27 Nov 2026.
 
 DOBERMAN is a club and hip-hop artist based in South Korea, with 153 gigs on soundcheck across Kyoto, London and Seoul. Often billed alongside SKiiDA, ANDOW and Multivsn. Next up: Cakeshop, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DOBERMAN is a club and hip-hop artist based in South Korea, with 153 gigs on sou
 
 SKiiDA, ANDOW, Multivsn
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*

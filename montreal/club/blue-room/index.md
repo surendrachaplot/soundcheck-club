@@ -1,6 +1,6 @@
 # Blue Room
 
-Blue Room is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Berkaï / CINQ MARS b2b JULIAN VASQUEZ" on Fri, 27 Nov 2026.
+Blue Room is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Berkaï / CINQ MARS b2b JULIAN VASQUEZ" on Fri, 27 Nov 2026.
 
 Blue Room is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including ADJ, ARJ (IR), Berkaï and ccil and 2 more. See dates, start times and who's playing. 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor.
 
@@ -18,4 +18,4 @@ Blue Room is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, wi
 
 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor, Montreal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*

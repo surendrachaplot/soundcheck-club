@@ -1,6 +1,6 @@
 # Dave Seaman
 
-Dave Seaman is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Salon Amador, Medellin on Fri, 4 Dec 2026.
+Dave Seaman is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Amador, Medellin on Fri, 4 Dec 2026.
 
 Dave Seaman is a progressive house and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 36 more. Often billed alongside Anthony Pappa, Steve Parry and Danny Howells. Next up: Salon Amador, Medellin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dave Seaman is a progressive house and house artist based in United Kingdom, wit
 
 Anthony Pappa, Steve Parry, Danny Howells
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveseaman/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveseaman/)*

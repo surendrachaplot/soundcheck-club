@@ -1,6 +1,6 @@
 # Beat Generation Records
 
-Beat Generation Records is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Disco Tapas DJs" on Sat, 28 Nov 2026.
+Beat Generation Records is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Disco Tapas DJs" on Sat, 28 Nov 2026.
 
 Beat Generation Records is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 5 Lochrin Pl, Edinburgh EH3 9QJ.
 
@@ -14,4 +14,4 @@ Beat Generation Records is a music venue in Edinburgh listed on soundcheck. 1 up
 
 5 Lochrin Pl, Edinburgh EH3 9QJ, Edinburgh
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/beat-generation-records/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/beat-generation-records/)*

@@ -1,6 +1,6 @@
 # TBA - Location Distributed Day Of
 
-TBA - Location Distributed Day Of is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "HIDDEN NYE" on Thu, 31 Dec 2026.
+TBA - Location Distributed Day Of is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "HIDDEN NYE" on Thu, 31 Dec 2026.
 
 TBA - Location Distributed Day Of is a music venue in Chicago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Location Distributed Day Of is a music venue in Chicago listed on soundche
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | HIDDEN NYE |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-location-distributed-day-of/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-location-distributed-day-of/)*

@@ -1,6 +1,6 @@
 # HausKlown
 
-HausKlown is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sidney & Matilda, Sheffield on Fri, 18 Dec 2026.
+HausKlown is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sidney & Matilda, Sheffield on Fri, 18 Dec 2026.
 
 HausKlown is a tech house and acid artist based in United Kingdom, with 7 gigs on soundcheck across Sheffield. Often billed alongside Paniolo, ik0nixx and Sportsdyke. Next up: Sidney & Matilda, Sheffield on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ HausKlown is a tech house and acid artist based in United Kingdom, with 7 gigs o
 
 Paniolo, ik0nixx, Sportsdyke
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hausklown/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hausklown/)*

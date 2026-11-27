@@ -1,6 +1,6 @@
 # lizaliza
 
-lizaliza is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
+lizaliza is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
 
 lizaliza is a trance and house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside Bad Boombox, Pijus and Shaolin Cowboy. Next up: MUENZE, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ lizaliza is a trance and house artist based in Germany, with 29 gigs on soundche
 
 Bad Boombox, Pijus, Shaolin Cowboy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaliza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaliza/)*

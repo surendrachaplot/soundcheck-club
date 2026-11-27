@@ -1,6 +1,6 @@
 # Earth2Sam
 
-Earth2Sam is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
+Earth2Sam is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Secret Location, London on Fri, 11 Dec 2026.
 
 Earth2Sam is a house and electro artist based in United Kingdom, with 11 gigs on soundcheck across London and Manchester. Often billed alongside Finn Nelson, Ryan Wells and Alexandra. Next up: Secret Location, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Earth2Sam is a house and electro artist based in United Kingdom, with 11 gigs on
 
 Finn Nelson, Ryan Wells, Alexandra
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earth2sam/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earth2sam/)*

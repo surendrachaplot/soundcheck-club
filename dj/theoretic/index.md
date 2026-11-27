@@ -1,6 +1,6 @@
 # theoretic
 
-theoretic is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Animal, New York City on Sun, 29 Nov 2026.
+theoretic is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Animal, New York City on Sun, 29 Nov 2026.
 
 theoretic is a house and deep house artist based in United States of America, with 71 gigs on soundcheck across Copenhagen, Hamburg, London and New York City and 2 more. Often billed alongside Niyah West, PlayPlay and VARSHA. Next up: Animal, New York City on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ theoretic is a house and deep house artist based in United States of America, wi
 
 Niyah West, PlayPlay, VARSHA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*

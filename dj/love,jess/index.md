@@ -1,6 +1,6 @@
 # Love, Jess
 
-Love, Jess is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Love, Jess is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Love, Jess are a techno and house duo based in Australia, with 45 gigs on soundcheck across Adelaide, Hobart, Melbourne and Sydney and 1 more. Often billed alongside Black Dave, House Mum and Josh Heywood. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Love, Jess are a techno and house duo based in Australia, with 45 gigs on soundc
 
 Black Dave, House Mum, Josh Heywood
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/love,jess/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/love,jess/)*

@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Linska" on Fri, 27 Nov 2026.
+Klein Phönix is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Linska" on Fri, 27 Nov 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including Chris Avantgarde, Linska, MoBlack and NTO. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -17,4 +17,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

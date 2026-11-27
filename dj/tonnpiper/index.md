@@ -1,13 +1,14 @@
 # Tonn Piper
 
-Tonn Piper is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+Tonn Piper is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 4 Dec 2026.
 
-Tonn Piper is a drum & bass and jungle artist based in United Kingdom, with 55 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 28 more. Often billed alongside Andy C, IC3 and Mozey. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
+Tonn Piper is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 28 more. Often billed alongside Andy C, IC3 and Mozey. Next up: Cupra City Garage Manchester, Manchester on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Cupra City Garage Manchester | Manchester |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 | Fri, 26 Mar 2027 | Kultuurikatel | Tallinn |
 
@@ -26,4 +27,4 @@ Tonn Piper is a drum & bass and jungle artist based in United Kingdom, with 55 g
 
 Andy C, IC3, Mozey
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*

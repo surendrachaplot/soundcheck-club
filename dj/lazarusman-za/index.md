@@ -1,6 +1,6 @@
 # Lazarusman
 
-Lazarusman is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Castle of Good Hope, Cape-town on Sat, 16 Jan 2027.
+Lazarusman is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Castle of Good Hope, Cape-town on Sat, 16 Jan 2027.
 
 Lazarusman is an afro house and afro tech artist based in South Africa, with 11 gigs on soundcheck across Amsterdam, Cape Town and London. Often billed alongside LevyM, !Sooks and &LEZ. Next up: The Castle of Good Hope, Cape Town on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Lazarusman is an afro house and afro tech artist based in South Africa, with 11 
 
 LevyM, !Sooks, &LEZ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarusman-za/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarusman-za/)*

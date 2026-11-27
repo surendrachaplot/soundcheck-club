@@ -1,6 +1,6 @@
 # Aivilo
 
-Aivilo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Aivilo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Aivilo is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across San Francisco/Oakland and Seattle. Often billed alongside Kadeejah Streets, Tony H and Black Velveteen. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Aivilo is a house and deep house artist based in United States of America, with 
 
 Kadeejah Streets, Tony H, Black Velveteen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aivilo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aivilo/)*

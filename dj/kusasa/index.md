@@ -1,6 +1,6 @@
 # Kusasa
 
-Kusasa is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
+Kusasa is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
 
 Kusasa is a house and bass artist based in United Kingdom, with 63 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside Moova, Oriki and Obeka. Next up: The Yard, Manchester on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Kusasa is a house and bass artist based in United Kingdom, with 63 gigs on sound
 
 Moova, Oriki, Obeka
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*

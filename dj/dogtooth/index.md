@@ -1,6 +1,6 @@
 # dogtooth
 
-dogtooth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
+dogtooth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 dogtooth is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Austin, Los Angeles, San Francisco/Oakland and Turin. Often billed alongside FAUNA, Brick (US) and Carmine. Next up: 1015 Folsom, San Francisco/Oakland on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ dogtooth is a techno and house artist based in United States of America, with 26
 
 FAUNA (2), Brick (US), Carmine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogtooth/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dogtooth/)*

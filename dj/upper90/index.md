@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mojo, Hamburg on Thu, 31 Dec 2026.
+Upper90 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mojo, Hamburg on Thu, 31 Dec 2026.
 
 Upper90 is a techno and trance artist based in Australia, with 143 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 40 more. Often billed alongside Janis Zielinski, Bad Boombox and Butschi. Next up: Mojo, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Upper90 is a techno and trance artist based in Australia, with 143 gigs on sound
 
 Janis Zielinski, Bad Boombox, Butschi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

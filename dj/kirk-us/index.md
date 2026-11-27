@@ -1,6 +1,6 @@
 # Kirk (US)
 
-Kirk (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Concord Music Hall, Chicago on Thu, 31 Dec 2026.
+Kirk (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Concord Music Hall, Chicago on Thu, 31 Dec 2026.
 
 Kirk (US) is a techno and club artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Chicago, Cologne and Frankfurt and 9 more. Often billed alongside HOTPRETTY, Ariel Zetina and BLACKCLUB. Next up: Concord Music Hall, Chicago on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kirk (US) is a techno and club artist based in United States of America, with 73
 
 HOTPRETTY, Ariel Zetina, BLACKCLUB
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*

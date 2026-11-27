@@ -1,6 +1,6 @@
 # AIEAIEAIE
 
-AIEAIEAIE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Gravière, Geneva on Fri, 27 Nov 2026.
+AIEAIEAIE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Gravière, Geneva on Fri, 27 Nov 2026.
 
 AIEAIEAIE is a techno and trance artist based in Switzerland, with 7 gigs on soundcheck across Geneva and Lausanne. Often billed alongside Rebelo, Ecar and picchu. Next up: La Gravière, Geneva on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ AIEAIEAIE is a techno and trance artist based in Switzerland, with 7 gigs on sou
 
 Rebelo, Ecar, picchu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*

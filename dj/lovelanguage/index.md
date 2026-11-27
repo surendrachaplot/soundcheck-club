@@ -1,6 +1,6 @@
 # Love Language
 
-Love Language is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+Love Language is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 Love Language is a house and ballroom artist based in New Zealand, with 28 gigs on soundcheck across Auckland, Boston, Mexico City and Montreal and 2 more. Often billed alongside Pablo Miya, Ritmonzón and DECO (MX). Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Love Language is a house and ballroom artist based in New Zealand, with 28 gigs 
 
 Pablo Miya, Ritmonzón, DECO (MX)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*

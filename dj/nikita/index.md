@@ -1,6 +1,6 @@
 # Nikita
 
-Nikita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
+Nikita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
 
 Nikita is a house and techno artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 16 more. Often billed alongside Ray Zuniga, SVS and Vivian Wang. Next up: UMI, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Nikita is a house and techno artist based in United States of America, with 85 g
 
 Ray Zuniga, SVS (1), Vivian Wang
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*

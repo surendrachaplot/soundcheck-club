@@ -1,6 +1,6 @@
 # Aaron Paar
 
-Aaron Paar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Apotheke, Los Angeles on Sun, 29 Nov 2026.
+Aaron Paar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Apotheke, Los Angeles on Sun, 29 Nov 2026.
 
 Aaron Paar is a house and deep house artist based in United States of America, with 39 gigs on soundcheck across Los Angeles, New York City, San Diego and Washington DC. Often billed alongside SEEPS, Chloëdees and Juliet Mendoza. Next up: Apotheke, Los Angeles on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Aaron Paar is a house and deep house artist based in United States of America, w
 
 SEEPS, Chloëdees, Juliet Mendoza
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronpaar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronpaar/)*

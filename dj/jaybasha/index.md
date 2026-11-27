@@ -1,6 +1,6 @@
 # Jay Basha
 
-Jay Basha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tirana Olympic Park, Tirana on Thu, 24 Dec 2026.
+Jay Basha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tirana Olympic Park, Tirana on Thu, 24 Dec 2026.
 
 Jay Basha is a techno and house artist based in Albania, with 11 gigs on soundcheck across Tirana. Often billed alongside Equinoxx, Loren Plipki and Bunny The Bug. Next up: Tirana Olympic Park, Tirana on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Jay Basha is a techno and house artist based in Albania, with 11 gigs on soundch
 
 Equinoxx, Loren Plipki, Bunny The Bug
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaybasha/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaybasha/)*

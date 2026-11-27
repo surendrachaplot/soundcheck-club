@@ -1,6 +1,6 @@
 # Lord Byron
 
-Lord Byron is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Gallimaufry, Bristol on Sat, 28 Nov 2026.
+Lord Byron is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Gallimaufry, Bristol on Sat, 28 Nov 2026.
 
 Lord Byron is a garage and deep house artist, with 8 gigs on soundcheck across Birmingham, Bristol, Liverpool and London. Often billed alongside Jeremy Sylvester, Matica and Boy Sonic. Next up: The Gallimaufry, Bristol on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Lord Byron is a garage and deep house artist, with 8 gigs on soundcheck across B
 
 Jeremy Sylvester, Matica, Boy Sonic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordbyron/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordbyron/)*

@@ -1,6 +1,6 @@
 # Nick Charles
 
-Nick Charles is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The DBA, Manchester on Tue, 29 Dec 2026.
+Nick Charles is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The DBA, Manchester on Tue, 29 Dec 2026.
 
 Nick Charles is a house and disco artist based in United Kingdom, with 32 gigs on soundcheck across Manchester. Often billed alongside Macy Lancaster, krioso and Emma Ellis. Next up: The DBA, Manchester on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Nick Charles is a house and disco artist based in United Kingdom, with 32 gigs o
 
 Macy Lancaster, krioso, Emma Ellis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcharles/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcharles/)*

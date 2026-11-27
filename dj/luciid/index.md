@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SILO, New York City on Fri, 27 Nov 2026.
+Luciid is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at SILO, New York City on Fri, 27 Nov 2026.
 
 Luciid is a techno and industrial artist based in Ireland, with 127 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 46 more. Often billed alongside Vendex, Dexphase and Raxeller. Next up: SILO, New York City on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Luciid is a techno and industrial artist based in Ireland, with 127 gigs on soun
 
 Vendex, Dexphase, Raxeller
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

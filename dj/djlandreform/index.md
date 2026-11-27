@@ -1,6 +1,6 @@
 # DJ Land Reform
 
-DJ Land Reform is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sinners and Saints, Washington DC on Fri, 27 Nov 2026.
+DJ Land Reform is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sinners and Saints, Washington DC on Fri, 27 Nov 2026.
 
 DJ Land Reform is a techno and hardcore artist based in United States of America, with 46 gigs on soundcheck across Baltimore, Philadelphia and Washington DC. Often billed alongside Gabberbitch69, Franxx and GET FACE. Next up: Sinners and Saints, Washington DC on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Land Reform is a techno and hardcore artist based in United States of America
 
 Gabberbitch69, Franxx, GET FACE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlandreform/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlandreform/)*

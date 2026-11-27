@@ -1,6 +1,6 @@
 # 2Doters
 
-2Doters is a Progressive House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
+2Doters is a Progressive House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
 
 2Doters is a progressive house and afrobeat artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Parra Vie, HUGØ and ANYA. Next up: Rhum Tavern, London on Sat 13 Feb.
 
@@ -21,4 +21,4 @@
 
 Parra Vie, HUGØ, ANYA (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2doters/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2doters/)*

@@ -1,6 +1,6 @@
 # Kneave
 
-Kneave is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Cheetah Club, Glasgow on Thu, 17 Dec 2026.
+Kneave is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cheetah Club, Glasgow on Thu, 17 Dec 2026.
 
 Kneave is an electro and house artist based in United Kingdom, with 7 gigs on soundcheck across Dundee, Glasgow and London. Often billed alongside BLEEN, Inertia (uk) and Babyccino. Next up: La Cheetah Club, Glasgow on Thu 17 Dec.
 
@@ -23,4 +23,4 @@ Kneave is an electro and house artist based in United Kingdom, with 7 gigs on so
 
 BLEEN, Inertia (uk), Babyccino
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kneave/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kneave/)*

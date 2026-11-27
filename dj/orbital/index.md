@@ -1,6 +1,6 @@
 # Orbital
 
-Orbital is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
+Orbital is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
 
 Orbital is an electronica and house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Paranoid London, Carl Craig and DJ Paulette. Next up: The Prospect Building, Bristol on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ Orbital is an electronica and house artist based in United Kingdom, with 31 gigs
 
 Paranoid London, Carl Craig, DJ Paulette
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbital/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbital/)*

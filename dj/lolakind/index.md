@@ -1,6 +1,6 @@
 # LOLA KiND
 
-LOLA KiND is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 5 Dec 2026.
+LOLA KiND is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 5 Dec 2026.
 
 LOLA KiND is a techno and house artist based in Spain, with 17 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside Avocado, LALENA and AGNY. Next up: Hangar48 Club, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LOLA KiND is a techno and house artist based in Spain, with 17 gigs on soundchec
 
 Avocado, LALENA, AGNY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakind/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakind/)*

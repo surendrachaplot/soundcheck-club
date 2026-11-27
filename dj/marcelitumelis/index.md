@@ -1,6 +1,6 @@
 # marcelitumelis
 
-marcelitumelis is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at AfterDark, Warsaw on Sat, 28 Nov 2026.
+marcelitumelis is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at AfterDark, Warsaw on Sat, 28 Nov 2026.
 
 marcelitumelis is a techno and trance artist based in Poland, with 46 gigs on soundcheck across Bucharest, Gdansk, Hamburg and Krakow and 4 more. Often billed alongside xcessive, Józef Keuner and SCHELLT. Next up: AfterDark, Warsaw on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ marcelitumelis is a techno and trance artist based in Poland, with 46 gigs on so
 
 xcessive, Józef Keuner, SCHELLT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*

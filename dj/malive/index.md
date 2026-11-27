@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
+Malive is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
 
 Malive is a house and tech house artist based in Brazil, with 46 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Adam Ten, Claptone and Antdot. Next up: Historic Virginia Key Beach Park, Miami on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Malive is a house and tech house artist based in Brazil, with 46 gigs on soundch
 
 Adam Ten, Claptone, Antdot
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

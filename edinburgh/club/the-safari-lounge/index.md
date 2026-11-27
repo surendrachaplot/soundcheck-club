@@ -1,6 +1,6 @@
 # The Safari Lounge
 
-The Safari Lounge is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Stepback with Rebecca Goldberg" on Fri, 27 Nov 2026.
+The Safari Lounge is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Stepback with Rebecca Goldberg" on Fri, 27 Nov 2026.
 
 The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including Chris Astrojazz, G-REG, Keyte and leikha and 2 more. See dates, start times and who's playing. 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom.
 
@@ -18,4 +18,4 @@ The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 5 upcoming
 
 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom, Edinburgh
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-safari-lounge/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-safari-lounge/)*

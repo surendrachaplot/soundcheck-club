@@ -1,6 +1,6 @@
 # XD Erica
 
-XD Erica is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Studio 1111, Berlin on Sat, 28 Nov 2026.
+XD Erica is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio 1111, Berlin on Sat, 28 Nov 2026.
 
 XD Erica is a baile funk and techno artist based in Brazil, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside _hiø, Alada and Gadutra. Next up: Studio 1111, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ XD Erica is a baile funk and techno artist based in Brazil, with 81 gigs on soun
 
 _hiø, Alada, Gadutra
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xderica/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xderica/)*

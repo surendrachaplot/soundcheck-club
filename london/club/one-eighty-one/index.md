@@ -1,6 +1,6 @@
 # One Eighty One
 
-One Eighty One is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Jehst 'This Wasn't The Plan!' Vinyl Release Pop-Up @ One Eighty One, London" on Tue, 1 Dec 2026.
+One Eighty One is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Jehst 'This Wasn't The Plan!' Vinyl Release Pop-Up @ One Eighty One, London" on Tue, 1 Dec 2026.
 
 One Eighty One is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 181 Holloway Road, London N7 8LX.
 
@@ -15,4 +15,4 @@ One Eighty One is a music venue in London listed on soundcheck. 2 upcoming gigs.
 
 181 Holloway Road, London N7 8LX, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/one-eighty-one/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/one-eighty-one/)*

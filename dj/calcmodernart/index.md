@@ -1,6 +1,6 @@
 # Cal C (Modern Art)
 
-Cal C (Modern Art) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bambi's, Toronto on Thu, 10 Dec 2026.
+Cal C (Modern Art) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bambi's, Toronto on Thu, 10 Dec 2026.
 
 Cal C (Modern Art) is a house and balearic artist based in Canada, with 40 gigs on soundcheck across Mexico City, Monterrey, Montreal and San Francisco/Oakland and 2 more. Often billed alongside Ensoul, Milch and Moon King. Next up: Bambi's, Toronto on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Cal C (Modern Art) is a house and balearic artist based in Canada, with 40 gigs 
 
 Ensoul, Milch (1), Moon King
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calcmodernart/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calcmodernart/)*

@@ -1,6 +1,6 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
+Amaliah is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
 
 Amaliah is a house and techno artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside Danielle (UK), NIKS and Call Super. Next up: NUMBER 90 LONDON, London on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Amaliah is a house and techno artist based in United Kingdom, with 189 gigs on s
 
 Danielle (UK), NIKS, Call Super
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*

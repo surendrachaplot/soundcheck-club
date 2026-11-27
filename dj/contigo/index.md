@@ -1,6 +1,6 @@
 # Contigo
 
-Contigo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 27 Nov 2026.
+Contigo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 27 Nov 2026.
 
 Contigo is a house and electro artist, with 6 gigs on soundcheck across Madrid and Miami. Often billed alongside CHAOS!, DJ SMELLY and Diggz. Next up: Hangar48 Club, Madrid on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Contigo is a house and electro artist, with 6 gigs on soundcheck across Madrid a
 
 CHAOS!, DJ SMELLY, Diggz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contigo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/contigo/)*

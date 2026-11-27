@@ -1,6 +1,6 @@
 # Craig Ouar
 
-Craig Ouar is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Villa Alexandrino, Rio de Janeiro on Sat, 19 Dec 2026.
+Craig Ouar is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Villa Alexandrino, Rio de Janeiro on Sat, 19 Dec 2026.
 
 Craig Ouar is a house and balearic artist based in France, with 65 gigs on soundcheck across Amsterdam, Paris, Rio De Janeiro and Rio de Janeiro and 2 more. Often billed alongside Giu Nunez, Carrot Green and Valesuchi. Next up: Villa Alexandrino, Rio de Janeiro on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Craig Ouar is a house and balearic artist based in France, with 65 gigs on sound
 
 Giu Nunez, Carrot Green, Valesuchi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigouar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigouar/)*

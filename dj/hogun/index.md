@@ -1,6 +1,6 @@
 # Hogun
 
-Hogun is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Volnost, Seoul on Fri, 27 Nov 2026.
+Hogun is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Volnost, Seoul on Fri, 27 Nov 2026.
 
 Hogun is a techno and minimal artist, with 184 gigs on soundcheck across Bangkok, Hong Kong, Seoul and Tokyo. Often billed alongside ccb, Haemi Park and Deekay. Next up: Volnost, Seoul on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Hogun is a techno and minimal artist, with 184 gigs on soundcheck across Bangkok
 
 ccb, Haemi Park, Deekay
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hogun/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hogun/)*

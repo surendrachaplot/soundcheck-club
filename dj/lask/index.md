@@ -1,8 +1,8 @@
 # Lask
 
-Lask is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ancient World, Adelaide on Sat, 28 Nov 2026.
+Lask is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ancient World, Adelaide on Sat, 28 Nov 2026.
 
-Lask is a techno and house artist based in Australia, with 43 gigs on soundcheck across Adelaide, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Balthazar Martinez, DJ GOANNA and Ebony Willis. Next up: Ancient World, Adelaide on Sat 28 Nov.
+Lask is a techno and house artist based in Australia, with 44 gigs on soundcheck across Adelaide, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Balthazar Martinez, DJ GOANNA and Ebony Willis. Next up: Ancient World, Adelaide on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lask is a techno and house artist based in Australia, with 43 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Ancient World | Adelaide |
 | Sat, 12 Dec 2026 | Howler | Melbourne |
+| Sat, 12 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 | Wed, 30 Dec 2026 | TBA | Sydney |
 
 ## Recently played
@@ -27,4 +28,4 @@ Lask is a techno and house artist based in Australia, with 43 gigs on soundcheck
 
 Balthazar Martinez, DJ GOANNA, Ebony Willis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*

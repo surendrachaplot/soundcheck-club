@@ -1,6 +1,6 @@
 # madame3swords
 
-madame3swords is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vittoria Wharf Studio, London on Thu, 10 Dec 2026.
+madame3swords is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vittoria Wharf Studio, London on Thu, 10 Dec 2026.
 
 madame3swords is a club and experimental artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside six-winged hilda, dogheadsurigeri and novasdemise. Next up: Vittoria Wharf Studio, London on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ madame3swords is a club and experimental artist based in United Kingdom, with 12
 
 six-winged hilda, dogheadsurigeri, novasdemise
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madame3swords/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madame3swords/)*

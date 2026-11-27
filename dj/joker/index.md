@@ -1,13 +1,14 @@
 # Joker
 
-Joker is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Phonox, London on Sat, 16 Jan 2027.
+Joker is a Dubstep and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 27 Nov 2026.
 
-Joker is a dubstep and bass artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: Phonox, London on Sat 16 Jan.
+Joker is a dubstep and bass artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: Music Club Pulse 22, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Music Club Pulse 22 | Prague |
 | Sat, 16 Jan 2027 | Phonox | London |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
@@ -27,4 +28,4 @@ Joker is a dubstep and bass artist based in United Kingdom, with 59 gigs on soun
 
 Sir Spyro, Coki, SGT Pokes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*

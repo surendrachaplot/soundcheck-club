@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Mash House, Edinburgh on Fri, 11 Dec 2026.
+Toobris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Mash House, Edinburgh on Fri, 11 Dec 2026.
 
 Toobris is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Freddy K, Alarico and BENZA. Next up: The Mash House, Edinburgh on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Toobris is a techno and house artist based in Germany, with 69 gigs on soundchec
 
 Freddy K, Alarico, BENZA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

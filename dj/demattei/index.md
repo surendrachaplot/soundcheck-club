@@ -1,6 +1,6 @@
 # Demattei
 
-Demattei is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at berlinClub, Madrid on Sun, 6 Dec 2026.
+Demattei is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at berlinClub, Madrid on Sun, 6 Dec 2026.
 
 Demattei is a progressive house and house artist based in Argentina, with 52 gigs on soundcheck across Amsterdam, Barcelona, Chongqing and Copenhagen and 3 more. Often billed alongside GINO GENTILI, Javi Garza and Savanna. Next up: berlinClub, Madrid on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Demattei is a progressive house and house artist based in Argentina, with 52 gig
 
 GINO GENTILI, Javi Garza, Savanna
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*

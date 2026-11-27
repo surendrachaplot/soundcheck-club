@@ -1,6 +1,6 @@
 # Nuyad
 
-Nuyad is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pistil, Seoul on Sat, 19 Dec 2026.
+Nuyad is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pistil, Seoul on Sat, 19 Dec 2026.
 
 Nuyad is a house and disco artist, with 21 gigs on soundcheck across Seoul. Often billed alongside Gyusco, Runxia and Youngseok. Next up: Pistil, Seoul on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Nuyad is a house and disco artist, with 21 gigs on soundcheck across Seoul. Ofte
 
 Gyusco, Runxia, Youngseok
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuyad/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuyad/)*

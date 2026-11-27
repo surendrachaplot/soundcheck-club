@@ -1,6 +1,6 @@
 # Ōdiobā
 
-Ōdiobā is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ōdiobā: Disk Break Radio & Shi Karim" on Fri, 27 Nov 2026.
+Ōdiobā is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ōdiobā: Disk Break Radio & Shi Karim" on Fri, 27 Nov 2026.
 
 Ōdiobā is a music venue in Manchester listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 26 Lower Hillgate, Stockport SK1 1JE.
 
@@ -15,4 +15,4 @@
 
 26 Lower Hillgate, Stockport SK1 1JE, Manchester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/diob/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/diob/)*

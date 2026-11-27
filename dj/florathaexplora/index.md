@@ -1,6 +1,6 @@
 # FLORA THA EXPLORA
 
-FLORA THA EXPLORA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Upper East, London on Fri, 27 Nov 2026.
+FLORA THA EXPLORA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Upper East, London on Fri, 27 Nov 2026.
 
 FLORA THA EXPLORA is a house and tech house artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Rhiavas, DRIA and Jerome Six. Next up: Upper East, London on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ FLORA THA EXPLORA is a house and tech house artist based in United Kingdom, with
 
 Rhiavas, DRIA, Jerome Six
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florathaexplora/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florathaexplora/)*

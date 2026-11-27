@@ -1,6 +1,6 @@
 # Rati
 
-Rati is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 28 Nov 2026.
+Rati is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 28 Nov 2026.
 
 Rati is a house and trance artist based in Georgia, with 25 gigs on soundcheck across Berlin, New York City and Tbilisi. Often billed alongside BEQA, SUMO and Tomma. Next up: Mtkvarze, Tbilisi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rati is a house and trance artist based in Georgia, with 25 gigs on soundcheck a
 
 BEQA, SUMO, Tomma
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rati/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rati/)*

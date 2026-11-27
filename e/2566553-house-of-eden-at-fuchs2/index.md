@@ -18,7 +18,7 @@ House Of Eden at Fuchs2 on Fri 4 Dec, Prague. 11 artists: 2NDRA, DJames, Electro
 - Niotech
 - PAY2PLAY
 - RiVid
-- SJ Yellow
+- SJ yellow
 - tmk (CZ)
 - XENEA LUMRA
 

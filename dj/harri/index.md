@@ -1,6 +1,6 @@
 # DJ Harri
 
-DJ Harri is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at CANVAS, Dundee on Sat, 28 Nov 2026.
+DJ Harri is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at CANVAS, Dundee on Sat, 28 Nov 2026.
 
 DJ Harri is a house and techno artist based in United Kingdom, with 63 gigs on soundcheck across Cork, Dundee, Edinburgh and Glasgow. Often billed alongside Domenic Cappello, Telford and Stevie Cox. Next up: CANVAS, Dundee on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ DJ Harri is a house and techno artist based in United Kingdom, with 63 gigs on s
 
 Domenic Cappello, Telford, Stevie Cox
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harri/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harri/)*

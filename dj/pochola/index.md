@@ -1,6 +1,6 @@
 # Pochola
 
-Pochola is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at N7, London on Fri, 27 Nov 2026.
+Pochola is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at N7, London on Fri, 27 Nov 2026.
 
 Pochola is a club and bass artist based in Mexico, with 18 gigs on soundcheck across Berlin, Croatia, London and San Francisco/Oakland. Often billed alongside DJ Plead, Manuka Honey and Mobilegirl. Next up: N7, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Pochola is a club and bass artist based in Mexico, with 18 gigs on soundcheck ac
 
 DJ Plead, Manuka Honey, Mobilegirl
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*

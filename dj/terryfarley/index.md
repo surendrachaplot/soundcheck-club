@@ -1,6 +1,6 @@
 # Terry Farley
 
-Terry Farley is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fox and Firkin, London on Sat, 12 Dec 2026.
+Terry Farley is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fox and Firkin, London on Sat, 12 Dec 2026.
 
 Terry Farley is a house and disco artist based in United Kingdom, with 78 gigs on soundcheck across Bali, Brighton, Cardiff and Glasgow and 8 more. Often billed alongside Stuart Patterson, JARVIS and Nancy Noise. Next up: The Fox and Firkin, London on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Terry Farley is a house and disco artist based in United Kingdom, with 78 gigs o
 
 Stuart Patterson, JARVIS, Nancy Noise
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*

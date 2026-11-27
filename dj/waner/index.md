@@ -1,6 +1,6 @@
 # WANER
 
-WANER is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 20 Feb 2027.
+WANER is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 20 Feb 2027.
 
 WANER is a house and electro artist based in France, with 10 gigs on soundcheck across Montreal and Paris. Often billed alongside Anatohl, Roll le Barge and Desouz. Next up: Société des arts technologiques, Montreal on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ WANER is a house and electro artist based in France, with 10 gigs on soundcheck 
 
 Anatohl, Roll le Barge, Desouz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waner/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waner/)*

@@ -1,6 +1,6 @@
 # Rian Treanor
 
-Rian Treanor is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
+Rian Treanor is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
 
 Rian Treanor is an experimental and techno artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Bergen, Bratislava and Bristol and 10 more. Often billed alongside Mark Fell, Charla Green and KMRU. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Rian Treanor is an experimental and techno artist based in United Kingdom, with 
 
 Mark Fell, Charla Green, KMRU
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riantreanor/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riantreanor/)*

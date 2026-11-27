@@ -1,6 +1,6 @@
 # slyerpaprika
 
-slyerpaprika is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mtkvarze, Tbilisi on Fri, 27 Nov 2026.
+slyerpaprika is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mtkvarze, Tbilisi on Fri, 27 Nov 2026.
 
 slyerpaprika is an electronic artist based in Georgia, with 12 gigs on soundcheck across Tbilisi. Often billed alongside Storm Mentor, 2ciu and Bero. Next up: Mtkvarze, Tbilisi on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ slyerpaprika is an electronic artist based in Georgia, with 12 gigs on soundchec
 
 Storm Mentor, 2ciu, Bero
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slyerpaprika/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slyerpaprika/)*

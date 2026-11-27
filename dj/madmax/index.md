@@ -1,6 +1,6 @@
 # Mad Max
 
-Mad Max is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sky Club, Leipzig on Sat, 20 Feb 2027.
+Mad Max is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sky Club, Leipzig on Sat, 20 Feb 2027.
 
 Mad Max is a techno and idm artist, with 13 gigs on soundcheck across Barcelona, Berlin, Leipzig and London and 2 more. Often billed alongside Jambo, Joe Cabana and Tomislav. Next up: Sky Club, Leipzig on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Mad Max is a techno and idm artist, with 13 gigs on soundcheck across Barcelona,
 
 Jambo, Joe Cabana, Tomislav
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmax/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmax/)*

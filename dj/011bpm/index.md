@@ -1,6 +1,6 @@
 # 011bpm
 
-011bpm is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kran Beograd, Belgrade on Fri, 4 Dec 2026.
+011bpm is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kran Beograd, Belgrade on Fri, 4 Dec 2026.
 
 011bpm is a house and tech house artist based in Serbia, with 11 gigs on soundcheck across Belgrade. Often billed alongside Aleksandar Pavlovic, Azrim and BreLen. Next up: Kran Beograd, Belgrade on Fri 4 Dec.
 
@@ -25,4 +25,4 @@
 
 Aleksandar Pavlovic, Azrim, BreLen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/011bpm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/011bpm/)*

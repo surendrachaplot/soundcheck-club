@@ -1,6 +1,6 @@
 # Amy Os
 
-Amy Os is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
+Amy Os is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
 
 Amy Os is a house and tech house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Dennis Quin, Kepler and ODF. Next up: Ministry Of Sound, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Amy Os is a house and tech house artist based in United Kingdom, with 29 gigs on
 
 Dennis Quin, Kepler, ODF (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*

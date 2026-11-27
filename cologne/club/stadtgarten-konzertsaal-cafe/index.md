@@ -1,6 +1,6 @@
 # Stadtgarten Konzertsaal / Cafe
 
-Stadtgarten Konzertsaal / Cafe is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Beat Down Babylon celebrates 30 Years of KingStone Sound" on Sat, 12 Dec 2026.
+Stadtgarten Konzertsaal / Cafe is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Beat Down Babylon celebrates 30 Years of KingStone Sound" on Sat, 12 Dec 2026.
 
 Stadtgarten Konzertsaal / Cafe is a music venue in Cologne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Venloer Str. 40; 50672 Cologne; Germany.
 
@@ -14,4 +14,4 @@ Stadtgarten Konzertsaal / Cafe is a music venue in Cologne listed on soundcheck.
 
 Venloer Str. 40; 50672 Cologne; Germany, Cologne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/stadtgarten-konzertsaal-cafe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/stadtgarten-konzertsaal-cafe/)*

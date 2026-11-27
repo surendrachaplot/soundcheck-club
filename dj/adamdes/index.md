@@ -1,6 +1,6 @@
 # Adam Des
 
-Adam Des is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Universe Athens, Athens on Thu, 31 Dec 2026.
+Adam Des is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Universe Athens, Athens on Thu, 31 Dec 2026.
 
 Adam Des is a techno artist based in Greece, with 23 gigs on soundcheck across Athens. Often billed alongside Indelekt, Cirkle and VSSLS. Next up: Universe Athens, Athens on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Adam Des is a techno artist based in Greece, with 23 gigs on soundcheck across A
 
 Indelekt, Cirkle, VSSLS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdes/)*

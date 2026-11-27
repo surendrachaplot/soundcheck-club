@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "WADDLE presents LE KACANG" on Fri, 27 Nov 2026.
+Mood Ring is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "WADDLE presents LE KACANG" on Fri, 27 Nov 2026.
 
 Mood Ring is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including BlackDanielWhite, BLCKLST, Body Copy and Crush Club and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in New York City listed on soundcheck. 12 upcoming gi
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

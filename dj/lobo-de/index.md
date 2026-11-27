@@ -1,6 +1,6 @@
 # Lobo (DE)
 
-Lobo (DE) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Beate Uwe, Berlin on Sat, 28 Nov 2026.
+Lobo (DE) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Beate Uwe, Berlin on Sat, 28 Nov 2026.
 
 Lobo (DE) is a house and disco artist based in Germany, with 32 gigs on soundcheck across Berlin and Madrid. Often billed alongside Domhof, Monsai and anna G. Next up: Beate Uwe, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Lobo (DE) is a house and disco artist based in Germany, with 32 gigs on soundche
 
 Domhof, Monsai, anna G
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobo-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobo-de/)*

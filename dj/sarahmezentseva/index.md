@@ -1,13 +1,14 @@
 # Sarah Mezentseva
 
-Sarah Mezentseva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Westhafen, Leipzig on Fri, 18 Dec 2026.
+Sarah Mezentseva is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
 
-Sarah Mezentseva is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside eves120, hardi and Silberhauch. Next up: Westhafen, Leipzig on Fri 18 Dec.
+Sarah Mezentseva is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside eves120, hardi and Silberhauch. Next up: objekt klein a, Dresden on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | objekt klein a | Dresden |
 | Fri, 18 Dec 2026 | Westhafen | Leipzig |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sarah Mezentseva is a techno and house artist based in Germany, with 25 gigs on 
 
 eves120, hardi, Silberhauch
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahmezentseva/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahmezentseva/)*

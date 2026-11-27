@@ -1,6 +1,6 @@
 # Alex From Tokyo
 
-Alex From Tokyo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pamela Club, Paris on Sat, 12 Dec 2026.
+Alex From Tokyo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pamela Club, Paris on Sat, 12 Dec 2026.
 
 Alex From Tokyo is a house and techno artist based in France, with 61 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 14 more. Often billed alongside Man Called Dylan, JPYE and Budino. Next up: Pamela Club, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Alex From Tokyo is a house and techno artist based in France, with 61 gigs on so
 
 Man Called Dylan, JPYE, Budino
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*

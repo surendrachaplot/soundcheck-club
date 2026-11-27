@@ -1,6 +1,6 @@
 # Peverelist
 
-Peverelist is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gut Level, Sheffield on Fri, 26 Feb 2027.
+Peverelist is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gut Level, Sheffield on Fri, 26 Feb 2027.
 
 Peverelist is a techno and bass artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Hodge, Livity Sound and re:ni. Next up: Gut Level, Sheffield on Fri 26 Feb.
 
@@ -26,4 +26,4 @@ Peverelist is a techno and bass artist based in United Kingdom, with 62 gigs on 
 
 Hodge, Livity Sound, re:ni
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*

@@ -1,6 +1,6 @@
 # Daniel Bell
 
-Daniel Bell is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Jama, Toronto on Fri, 27 Nov 2026.
+Daniel Bell is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Jama, Toronto on Fri, 27 Nov 2026.
 
 Daniel Bell is a techno and house artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 33 more. Often billed alongside Erika, BMG and Mike Servito. Next up: The Jama, Toronto on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Daniel Bell is a techno and house artist based in United States of America, with
 
 Erika, BMG, Mike Servito
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*

@@ -1,6 +1,6 @@
 # Oscar Zillini
 
-Oscar Zillini is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Schall und Rauch, Basel on Fri, 27 Nov 2026.
+Oscar Zillini is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Schall und Rauch, Basel on Fri, 27 Nov 2026.
 
 Oscar Zillini is a minimal techno and minimal artist, with 16 gigs on soundcheck across Barcelona, Basel, Madrid and Zurich. Often billed alongside 95 Fahrenheit, Sergio LLamas and Aamir. Next up: Schall und Rauch, Basel on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Oscar Zillini is a minimal techno and minimal artist, with 16 gigs on soundcheck
 
 95 Fahrenheit, Sergio LLamas, Aamir
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarzillini/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarzillini/)*

@@ -1,6 +1,6 @@
 # Alcazar Live
 
-Alcazar Live is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "LUMI live & lights show" on Tue, 1 Dec 2026.
+Alcazar Live is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "LUMI live & lights show" on Tue, 1 Dec 2026.
 
 Alcazar Live is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Lela Xein and Magnolia_. See dates, start times and who's playing. Via Cardinale Merry Del Val , 14, 00153 Roma.
 
@@ -15,4 +15,4 @@ Alcazar Live is a music venue in Rome listed on soundcheck. 2 upcoming gigs, wit
 
 Via Cardinale Merry Del Val , 14, 00153 Roma, Rome
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alcazar-live/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alcazar-live/)*

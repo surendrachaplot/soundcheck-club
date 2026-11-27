@@ -1,6 +1,6 @@
 # Kihira Naoki
 
-Kihira Naoki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club (o)Utopos, Chubu on Fri, 4 Dec 2026.
+Kihira Naoki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club (o)Utopos, Chubu on Fri, 4 Dec 2026.
 
 Kihira Naoki is a techno and house artist based in Japan, with 17 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside DJ SAKI, DJ Compufunk and Deepbass. Next up: Club (o)Utopos, Chubu on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kihira Naoki is a techno and house artist based in Japan, with 17 gigs on soundc
 
 DJ SAKI, DJ Compufunk, Deepbass
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kihiranaoki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kihiranaoki/)*

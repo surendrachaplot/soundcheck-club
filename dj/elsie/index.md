@@ -1,14 +1,13 @@
 # Elsie
 
-Elsie is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Capers Thornbury, Melbourne on Fri, 27 Nov 2026.
+Elsie is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at High Note, Melbourne on Sat, 28 Nov 2026.
 
-Elsie is a house and electronica artist based in Australia, with 41 gigs on soundcheck across Canberra, Melbourne and Victoria. Often billed alongside Babycino, Bridget Small and Zjoso. Next up: Capers Thornbury, Melbourne on Fri 27 Nov.
+Elsie is a house and electronica artist based in Australia, with 41 gigs on soundcheck across Canberra, Melbourne and Victoria. Often billed alongside Babycino, Bridget Small and Zjoso. Next up: High Note, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Capers Thornbury | Melbourne |
 | Sat, 28 Nov 2026 | High Note | Melbourne |
 | Sat, 5 Dec 2026 | The Night Cat | Melbourne |
 
@@ -27,4 +26,4 @@ Elsie is a house and electronica artist based in Australia, with 41 gigs on soun
 
 Babycino, Bridget Small (2), Zjoso
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*

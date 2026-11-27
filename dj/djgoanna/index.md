@@ -1,6 +1,6 @@
 # DJ GOANNA
 
-DJ GOANNA is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Solace, Melbourne on Fri, 18 Dec 2026.
+DJ GOANNA is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Solace, Melbourne on Fri, 18 Dec 2026.
 
 DJ GOANNA is a techno and bass artist based in Australia, with 18 gigs on soundcheck across Canberra, Melbourne and Sydney. Often billed alongside Kate Miller, Eastern Distributor and Ebony Willis. Next up: Solace, Melbourne on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ DJ GOANNA is a techno and bass artist based in Australia, with 18 gigs on soundc
 
 Kate Miller, Eastern Distributor, Ebony Willis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoanna/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoanna/)*

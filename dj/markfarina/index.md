@@ -1,6 +1,6 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at shyboy hifi, Dallas/Fort Worth on Fri, 27 Nov 2026.
+Mark Farina is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at shyboy hifi, Dallas/Fort Worth on Fri, 27 Nov 2026.
 
 Mark Farina is a house and deep house artist based in United States of America, with 152 gigs on soundcheck across Antwerp, Atlanta, Auckland and Baltimore and 31 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: shyboy hifi, Dallas/Fort Worth on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Mark Farina is a house and deep house artist based in United States of America, 
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

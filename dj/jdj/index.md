@@ -1,6 +1,6 @@
 # Jd J
 
-Jd J is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at control, Bucharest on Fri, 27 Nov 2026.
+Jd J is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at control, Bucharest on Fri, 27 Nov 2026.
 
 Jd J is a techno and acid artist based in Georgia, with 26 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Hamburg and 6 more. Often billed alongside Vakho, Zurkin and Bero. Next up: control, Bucharest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jd J is a techno and acid artist based in Georgia, with 26 gigs on soundcheck ac
 
 Vakho, Zurkin, Bero
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj/)*

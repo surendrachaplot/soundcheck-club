@@ -1,6 +1,6 @@
 # Leiloca Pantoja
 
-Leiloca Pantoja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Iccarus, Sao Paulo on Thu, 31 Dec 2026.
+Leiloca Pantoja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Iccarus, Sao Paulo on Thu, 31 Dec 2026.
 
 Leiloca Pantoja is a house and techno artist based in Brazil, with 12 gigs on soundcheck across Sao Paulo. Often billed alongside Alexandre Bispo, Exequiel and Angelica Moller. Next up: Iccarus, Sao Paulo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Leiloca Pantoja is a house and techno artist based in Brazil, with 12 gigs on so
 
 Alexandre Bispo, Exequiel, Angelica Moller
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leilocapantoja/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leilocapantoja/)*

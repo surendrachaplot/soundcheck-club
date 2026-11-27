@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FVTVR, Paris on Fri, 27 Nov 2026.
+Traumer is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at FVTVR, Paris on Fri, 27 Nov 2026.
 
 Traumer is a house and techno artist based in France, with 351 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 86 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: FVTVR, Paris on Fri 27 Nov.
 
@@ -16,7 +16,7 @@ Traumer is a house and techno artist based in France, with 351 gigs on soundchec
 | Sat, 5 Dec 2026 | TBA - East Williamsburg | New York City |
 | Sat, 12 Dec 2026 | Club Guesthouse | Bucharest |
 | Fri, 18 Dec 2026 | TivoliVredenburg | Utrecht |
-| Tue, 5 Jan 2027 | TBA - Cenote Experience | Tulum |
+| Tue, 5 Jan 2027 | TBA - TULUM, DEEP IN THE JUNGLE | Tulum |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 | Sat, 23 Jan 2027 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 30 Jan 2027 | fabric | London |
@@ -36,4 +36,4 @@ Traumer is a house and techno artist based in France, with 351 gigs on soundchec
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

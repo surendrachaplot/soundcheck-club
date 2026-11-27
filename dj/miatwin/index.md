@@ -1,6 +1,6 @@
 # Mia Twin
 
-Mia Twin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sektor 6D, Warsaw on Fri, 27 Nov 2026.
+Mia Twin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sektor 6D, Warsaw on Fri, 27 Nov 2026.
 
 Mia Twin is a techno and tech house artist based in Poland, with 16 gigs on soundcheck across Warsaw. Often billed alongside GiGi (PL), Mazi (PL) and Sincz. Next up: Sektor 6D, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mia Twin is a techno and tech house artist based in Poland, with 16 gigs on soun
 
 GiGi (PL), Mazi (PL), Sincz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miatwin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miatwin/)*

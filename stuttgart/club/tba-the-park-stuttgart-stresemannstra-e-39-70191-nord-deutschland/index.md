@@ -1,6 +1,6 @@
 # TBA - The Park, Stuttgart  (Stresemannstraße 39, 70191 Nord, Deutschland)
 
-TBA - The Park, Stuttgart  (Stresemannstraße 39, 70191 Nord, Deutschland) is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "LEVI at The Park, Stuttgart" on Sat, 30 Jan 2027.
+TBA - The Park, Stuttgart  (Stresemannstraße 39, 70191 Nord, Deutschland) is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "LEVI at The Park, Stuttgart" on Sat, 30 Jan 2027.
 
 TBA - The Park, Stuttgart  (Stresemannstraße 39, 70191 Nord, Deutschland) is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Park, Stuttgart  (Stresemannstraße 39, 70191 Nord, Deutschland) is a 
 | --- | --- | --- |
 | Sat, 30 Jan 2027 | LEVI at The Park, Stuttgart | Levi (AU) |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/tba-the-park-stuttgart-stresemannstra-e-39-70191-nord-deutschland/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/tba-the-park-stuttgart-stresemannstra-e-39-70191-nord-deutschland/)*

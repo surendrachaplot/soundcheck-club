@@ -1,6 +1,6 @@
 # Finn Johannsen
 
-Finn Johannsen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
+Finn Johannsen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
 
 Finn Johannsen is a house and disco artist based in Germany, with 52 gigs on soundcheck across Berlin, Hamburg, Munich and Oslo and 1 more. Often billed alongside DJ Pete, Filippo Moscatello and Dynamo Dreesen. Next up: Paloma, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Finn Johannsen is a house and disco artist based in Germany, with 52 gigs on sou
 
 DJ Pete, Filippo Moscatello, Dynamo Dreesen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnjohannsen/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnjohannsen/)*

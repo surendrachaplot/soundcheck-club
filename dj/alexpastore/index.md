@@ -1,6 +1,6 @@
 # Alex Pastore
 
-Alex Pastore is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+Alex Pastore is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
 Alex Pastore is an experimental and drum & bass artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Krushak, RMW (DE) and DAHRAXT. Next up: Void Club, Berlin on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Alex Pastore is an experimental and drum & bass artist based in Germany, with 7 
 
 Krushak, RMW (DE), DAHRAXT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastore/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastore/)*

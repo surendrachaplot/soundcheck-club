@@ -1,8 +1,8 @@
 # LOIF
 
-LOIF is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+LOIF is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
-LOIF is a techno and bass artist based in Australia, with 66 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 19 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
+LOIF is a techno and bass artist based in Australia, with 67 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 19 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LOIF is a techno and bass artist based in Australia, with 66 gigs on soundcheck 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
 | Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
+| Sun, 6 Dec 2026 | Miscellania | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ LOIF is a techno and bass artist based in Australia, with 66 gigs on soundcheck 
 
 Tangerine, Kia (AU), D-Grade
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*

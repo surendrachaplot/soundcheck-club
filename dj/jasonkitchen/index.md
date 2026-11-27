@@ -1,6 +1,6 @@
 # Jason Kitchen
 
-Jason Kitchen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
+Jason Kitchen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Castle, Tampa Bay on Sat, 12 Dec 2026.
 
 Jason Kitchen is a house and tech house artist based in United States of America, with 17 gigs on soundcheck across Tampa Bay. Often billed alongside Brian Busto, Essential Freaks and ALEN P. Next up: The Castle, Tampa Bay on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jason Kitchen is a house and tech house artist based in United States of America
 
 Brian Busto, Essential Freaks, ALEN P
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkitchen/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkitchen/)*

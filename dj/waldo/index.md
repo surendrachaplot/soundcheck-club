@@ -1,6 +1,6 @@
 # Waldo
 
-Waldo is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 5 Dec 2026.
+Waldo is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 5 Dec 2026.
 
 Waldo is a techno and electronica artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Auckland, Berlin and Geneva and 4 more. Often billed alongside Industrial Romantico, Dolce Potente and Tania Kim. Next up: Tempio del Futuro Perduto, Milan on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Waldo is a techno and electronica artist based in Italy, with 70 gigs on soundch
 
 Industrial Romantico, Dolce Potente, Tania Kim
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waldo/)*

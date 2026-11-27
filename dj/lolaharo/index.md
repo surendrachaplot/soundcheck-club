@@ -1,8 +1,8 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Cheek, London on Fri, 4 Dec 2026.
+Lola Haro is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Cheek, London on Fri, 4 Dec 2026.
 
-Lola Haro is a house and techno artist based in Belgium, with 182 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 55 more. Often billed alongside Ben Kamal, Ivan Smagghe and r.omy. Next up: Club Cheek, London on Fri 4 Dec.
+Lola Haro is a house and techno artist based in Belgium, with 183 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 55 more. Often billed alongside Ben Kamal, Ivan Smagghe and r.omy. Next up: Club Cheek, London on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Lola Haro is a house and techno artist based in Belgium, with 182 gigs on soundc
 | Fri, 18 Dec 2026 | Azimut Club | Turin |
 | Sat, 19 Dec 2026 | Macadam | Nantes |
 | Fri, 1 Jan 2027 | Backsteinboot | Berlin |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 | Fri, 4 Jun 2027 | Umoya | Naples |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
@@ -32,4 +33,4 @@ Lola Haro is a house and techno artist based in Belgium, with 182 gigs on soundc
 
 Ben Kamal, Ivan Smagghe, r.omy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*

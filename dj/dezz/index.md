@@ -1,6 +1,6 @@
 # Dezz
 
-Dezz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Baren, Medellin on Fri, 27 Nov 2026.
+Dezz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Baren, Medellin on Fri, 27 Nov 2026.
 
 Dezz is a house and deep house artist based in Malaysia, with 33 gigs on soundcheck across Ho Chi Minh City, Kuala Lumpur, London and Medellin. Often billed alongside Steffen Sonnenschein, ling:chi and MAQman. Next up: Baren, Medellin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dezz is a house and deep house artist based in Malaysia, with 33 gigs on soundch
 
 Steffen Sonnenschein, ling:chi, MAQman
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dezz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dezz/)*

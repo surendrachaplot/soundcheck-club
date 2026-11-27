@@ -1,6 +1,6 @@
-# wOrld connection - Dimitri From Paris - at DJ Bar Bridge Shinjuku
+# world connection - Dimitri From Paris - at DJ Bar Bridge Shinjuku
 
-wOrld connection - Dimitri From Paris - at DJ Bar Bridge Shinjuku on Sat 5 Dec, Tokyo. 3 artists: Dimitri From Paris, Muro and Saucy Lady. Disco. See the line-up on soundcheck.
+world connection - Dimitri From Paris - at DJ Bar Bridge Shinjuku on Sat 5 Dec, Tokyo. 3 artists: Dimitri From Paris, Muro and Saucy Lady. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

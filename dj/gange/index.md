@@ -1,6 +1,6 @@
 # Gange
 
-Gange is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar 105, Cardiff on Sat, 5 Dec 2026.
+Gange is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar 105, Cardiff on Sat, 5 Dec 2026.
 
 Gange is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across Bristol and Cardiff. Often billed alongside Sam Kitt, Sister Sesh and AYDN. Next up: Bar 105, Cardiff on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Gange is a techno and house artist based in United Kingdom, with 5 gigs on sound
 
 Sam Kitt, Sister Sesh, AYDN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gange/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gange/)*

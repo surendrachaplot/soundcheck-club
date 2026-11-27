@@ -1,6 +1,6 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Supernova" on Sat, 28 Nov 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Supernova" on Sat, 28 Nov 2026.
 
 Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including Bakean, Bruz, Claudio Ricci and Dj Ino and 2 more. See dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
@@ -23,4 +23,4 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 1
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

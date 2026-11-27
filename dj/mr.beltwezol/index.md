@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Loo Loo, Mexico City on Fri, 27 Nov 2026.
+Mr. Belt & Wezol is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Loo Loo, Mexico City on Fri, 27 Nov 2026.
 
 Mr. Belt & Wezol are a house and tech house duo based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 16 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: Loo Loo, Mexico City on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Mr. Belt & Wezol are a house and tech house duo based in Netherlands, with 56 gi
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

@@ -1,6 +1,6 @@
 # ATAVEM
 
-ATAVEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
+ATAVEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
 
 ATAVEM is a techno and house artist based in Germany, with 34 gigs on soundcheck across Hamburg. Often billed alongside EliaHaze, Danya (DE) and Harre. Next up: Südpol, Hamburg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ATAVEM is a techno and house artist based in Germany, with 34 gigs on soundcheck
 
 EliaHaze, Danya (DE), Harre
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atavem-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atavem-de/)*

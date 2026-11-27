@@ -1,6 +1,6 @@
 # Reverie at the Park
 
-Reverie at the Park is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Departures: São Paulo" on Sat, 28 Nov 2026.
+Reverie at the Park is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Departures: São Paulo" on Sat, 28 Nov 2026.
 
 Reverie at the Park is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Blaise Bracic. See dates, start times and who's playing. 569 College St, Toronto, ON M6G 1B2.
 
@@ -15,4 +15,4 @@ Reverie at the Park is a music venue in Toronto listed on soundcheck. 2 upcoming
 
 569 College St, Toronto, ON M6G 1B2, Toronto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/reverie-at-the-park/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/reverie-at-the-park/)*

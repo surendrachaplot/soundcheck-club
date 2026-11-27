@@ -1,6 +1,6 @@
 # Patraik
 
-Patraik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Goethebunker, Dortmund / Essen on Sat, 28 Nov 2026.
+Patraik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Goethebunker, Dortmund / Essen on Sat, 28 Nov 2026.
 
 Patraik is a house and deep house artist, with 11 gigs on soundcheck across Dortmund / Essen and Düsseldorf. Often billed alongside Herbert Boese, Robin Mario and Slippy G.. Next up: Goethebunker, Dortmund / Essen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Patraik is a house and deep house artist, with 11 gigs on soundcheck across Dort
 
 Herbert Boese, Robin Mario, Slippy G.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patraik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patraik/)*

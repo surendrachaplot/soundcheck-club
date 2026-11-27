@@ -1,6 +1,6 @@
 # akii
 
-akii is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club JB's, Chubu on Fri, 27 Nov 2026.
+akii is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club JB's, Chubu on Fri, 27 Nov 2026.
 
 akii is a bass and dub artist based in Japan, with 62 gigs on soundcheck across Barcelona, Berlin, Chubu and Kyoto and 1 more. Often billed alongside M.I.O, Aliceyuki and MUNÉO. Next up: Club JB's, Chubu on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ akii is a bass and dub artist based in Japan, with 62 gigs on soundcheck across 
 
 M.I.O, Aliceyuki, MUNÉO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*

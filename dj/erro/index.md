@@ -1,6 +1,6 @@
 # Erro
 
-Erro is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Magma Club Budapest, Budapest on Sat, 12 Dec 2026.
+Erro is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Magma Club Budapest, Budapest on Sat, 12 Dec 2026.
 
 Erro is a house and techno artist based in Hungary, with 61 gigs on soundcheck across Budapest and Hungary. Often billed alongside Adx, BACO and Captain Knuckles. Next up: Magma Club Budapest, Budapest on Sat 12 Dec.
 
@@ -28,4 +28,4 @@ Erro is a house and techno artist based in Hungary, with 61 gigs on soundcheck a
 
 Adx, BACO, Captain Knuckles
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erro/)*

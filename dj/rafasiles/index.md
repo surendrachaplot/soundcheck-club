@@ -1,6 +1,6 @@
 # Rafa Siles
 
-Rafa Siles is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Barraca, Valencia on Sat, 5 Dec 2026.
+Rafa Siles is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Barraca, Valencia on Sat, 5 Dec 2026.
 
 Rafa Siles is a techno and industrial artist based in Spain, with 7 gigs on soundcheck across Valencia. Often billed alongside Domen, Lucas Cabello and Sou Allen. Next up: Barraca, Valencia on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Rafa Siles is a techno and industrial artist based in Spain, with 7 gigs on soun
 
 Domen, Lucas Cabello, Sou Allen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasiles/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasiles/)*

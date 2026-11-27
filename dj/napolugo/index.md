@@ -1,14 +1,15 @@
 # Napo Lugo
 
-Napo Lugo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at StereoBar, Montreal on Fri, 27 Nov 2026.
+Napo Lugo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at StereoBar, Montreal on Fri, 27 Nov 2026.
 
-Napo Lugo is a house and tech house artist based in Canada, with 25 gigs on soundcheck across Ibiza and Montreal. Often billed alongside ROUDY, DUZA and Nathan Burns. Next up: StereoBar, Montreal on Fri 27 Nov.
+Napo Lugo is a house and tech house artist based in Canada, with 26 gigs on soundcheck across Ibiza and Montreal. Often billed alongside ROUDY, DUZA and Nathan Burns. Next up: StereoBar, Montreal on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | StereoBar | Montreal |
+| Fri, 11 Dec 2026 | Salon Daomé | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Napo Lugo is a house and tech house artist based in Canada, with 25 gigs on soun
 
 ROUDY, DUZA, Nathan Burns
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/napolugo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/napolugo/)*

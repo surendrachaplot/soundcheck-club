@@ -1,6 +1,6 @@
 # FRANCESCO GUZZO
 
-FRANCESCO GUZZO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Department 184, Milan on Sat, 5 Dec 2026.
+FRANCESCO GUZZO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Department 184, Milan on Sat, 5 Dec 2026.
 
 FRANCESCO GUZZO is a techno and trance artist based in Italy, with 10 gigs on soundcheck across Milan and Tirana. Often billed alongside RIBLX, MISERIA and Münich. Next up: Department 184, Milan on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ FRANCESCO GUZZO is a techno and trance artist based in Italy, with 10 gigs on so
 
 RIBLX, MISERIA, Münich
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescoguzzo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescoguzzo/)*

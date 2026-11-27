@@ -1,6 +1,6 @@
 # Maron
 
-Maron is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Magma Club Budapest, Budapest on Thu, 31 Dec 2026.
+Maron is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Magma Club Budapest, Budapest on Thu, 31 Dec 2026.
 
 Maron is a house and techno artist based in Hungary, with 101 gigs on soundcheck across Berlin and Budapest. Often billed alongside Jaffa Surfa, isu and Kiqo. Next up: Magma Club Budapest, Budapest on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Maron is a house and techno artist based in Hungary, with 101 gigs on soundcheck
 
 Jaffa Surfa, isu, Kiqo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*

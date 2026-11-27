@@ -1,6 +1,6 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "生まれも育ちもちがう音楽vol.８ーgrrrlsー" on Sat, 28 Nov 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "生まれも育ちもちがう音楽vol.８ーgrrrlsー" on Sat, 28 Nov 2026.
 
 Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Dev/Null, GATERROR, goreshit and Goth-Trad and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
@@ -20,4 +20,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 7 upcoming
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

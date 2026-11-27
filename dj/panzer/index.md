@@ -1,6 +1,6 @@
 # Panzer
 
-Panzer is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KHIDI, Tbilisi on Fri, 27 Nov 2026.
+Panzer is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KHIDI, Tbilisi on Fri, 27 Nov 2026.
 
 Panzer is a techno and industrial artist based in Italy, with 27 gigs on soundcheck across Lyon, Nantes, North and Paris and 1 more. Often billed alongside Domenico Crisci, Electric Rescue and Somniac One. Next up: KHIDI, Tbilisi on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Panzer is a techno and industrial artist based in Italy, with 27 gigs on soundch
 
 Domenico Crisci, Electric Rescue, Somniac One
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panzer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panzer/)*

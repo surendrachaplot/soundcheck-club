@@ -1,6 +1,6 @@
 # JAAX
 
-JAAX is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Warehouse, Nantes on Fri, 11 Dec 2026.
+JAAX is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Warehouse, Nantes on Fri, 11 Dec 2026.
 
 JAAX is a techno and ambient artist based in Mexico, with 8 gigs on soundcheck across Mexico City, Nantes, Paris and Warsaw. Often billed alongside 200 SUAVES, Awexa and Amapola Rose. Next up: Warehouse, Nantes on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ JAAX is a techno and ambient artist based in Mexico, with 8 gigs on soundcheck a
 
 200 SUAVES, Awexa, Amapola Rose
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaax/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaax/)*

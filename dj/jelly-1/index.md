@@ -1,6 +1,6 @@
 # JELLY
 
-JELLY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
+JELLY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
 
 JELLY is a techno and house artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Mexico City, Paris and Rotterdam and 3 more. Often billed alongside Jeans (NL), Jetti and Irena Stanisic. Next up: Tonal, Mexico City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ JELLY is a techno and house artist based in Netherlands, with 43 gigs on soundch
 
 Jeans (NL), Jetti, Irena Stanisic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*

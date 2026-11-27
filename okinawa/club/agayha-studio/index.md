@@ -1,13 +1,14 @@
 # Agayha Studio
 
-Agayha Studio is a music venue in Okinawa with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Nihon Toitsu - Okinawa Edition" on Sat, 12 Dec 2026.
+Agayha Studio is a music venue in Okinawa with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "TAKARAJIMA 2026 After Party" on Mon, 30 Nov 2026.
 
-Agayha Studio is a music venue in Okinawa listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Agayha Studio is a music venue in Okinawa listed on soundcheck. 2 upcoming gigs, with line-ups including CALPISS. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Mon, 30 Nov 2026 | TAKARAJIMA 2026 After Party | CALPISS |
 | Sat, 12 Dec 2026 | Nihon Toitsu - Okinawa Edition |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/agayha-studio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/agayha-studio/)*

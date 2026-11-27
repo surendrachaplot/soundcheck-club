@@ -1,6 +1,6 @@
 # vivi
 
-vivi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Débris, Tokyo on Sat, 5 Dec 2026.
+vivi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Débris, Tokyo on Sat, 5 Dec 2026.
 
 vivi is a house and disco artist based in Australia, with 45 gigs on soundcheck across Berlin, Cologne, Hamburg and London and 2 more. Often billed alongside Justice, MikAH and SIGNAL (JP). Next up: Débris, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ vivi is a house and disco artist based in Australia, with 45 gigs on soundcheck 
 
 Justice, MikAH, SIGNAL (JP)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

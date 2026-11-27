@@ -1,6 +1,6 @@
 # Kran Beograd
 
-Kran Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "KRAN welcomes / NEGITIV / 27.11." on Fri, 27 Nov 2026.
+Kran Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "KRAN welcomes / NEGITIV / 27.11." on Fri, 27 Nov 2026.
 
 Kran Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including 011bpm, Darius Syrossian, MICYVID and NEGITIV and 2 more. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Kran Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs,
 | Fri, 27 Nov 2026 | KRAN welcomes / NEGITIV / 27.11. | MICYVID, NEGITIV, Vorick |
 | Fri, 4 Dec 2026 | MEDNESS at KRAN with Darius Syrossian | 011bpm, Darius Syrossian, Platt |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kran-beograd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kran-beograd/)*

@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Yu Su is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Yu Su is a house and techno artist based in China, with 172 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 54 more. Often billed alongside Leon Vynehall, Antal and Job Jobse. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Yu Su is a house and techno artist based in China, with 172 gigs on soundcheck a
 
 Leon Vynehall, Antal, Job Jobse
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

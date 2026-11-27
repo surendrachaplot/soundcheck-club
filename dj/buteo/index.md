@@ -1,6 +1,6 @@
 # Buteo
 
-Buteo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
+Buteo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Leipzig on Sat, 28 Nov 2026.
 
 Buteo is a house and disco artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Leipzig. Often billed alongside MAY/O, Candy Jones and 11:68PM. Next up: TBA, Leipzig on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Buteo is a house and disco artist based in Germany, with 12 gigs on soundcheck a
 
 MAY/O, Candy Jones, 11:68PM
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buteo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buteo/)*

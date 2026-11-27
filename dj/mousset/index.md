@@ -1,6 +1,6 @@
 # Mousse T.
 
-Mousse T. is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Dome, Liverpool on Sat, 12 Dec 2026.
+Mousse T. is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Dome, Liverpool on Sat, 12 Dec 2026.
 
 Mousse T. is a house and disco artist based in Germany, with 107 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 32 more. Often billed alongside Dave Lee, Horse Meat Disco and Melvo Baptiste. Next up: The Dome, Liverpool on Sat 12 Dec.
 
@@ -30,4 +30,4 @@ Mousse T. is a house and disco artist based in Germany, with 107 gigs on soundch
 
 Dave Lee, Horse Meat Disco, Melvo Baptiste
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*

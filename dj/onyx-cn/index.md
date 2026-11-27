@@ -1,6 +1,6 @@
 # Onyx
 
-Onyx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Dirty House, Shanghai on Fri, 27 Nov 2026.
+Onyx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dirty House, Shanghai on Fri, 27 Nov 2026.
 
 Onyx is a techno and house artist based in China, with 71 gigs on soundcheck across Berlin, Shanghai and Shenzhen. Often billed alongside NAKIN, Guso and Lina K. Next up: Dirty House, Shanghai on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Onyx is a techno and house artist based in China, with 71 gigs on soundcheck acr
 
 NAKIN, Guso, Lina K
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onyx-cn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onyx-cn/)*

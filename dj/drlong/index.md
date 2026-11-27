@@ -1,6 +1,6 @@
 # Dr. Long
 
-Dr. Long is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Dr. Long is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Dr. Long is a house and techno artist based in Georgia, with 33 gigs on soundcheck across Bergen, Berlin, Hamburg and Mexico City and 4 more. Often billed alongside Boyá, skyra and ATEQ. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dr. Long is a house and techno artist based in Georgia, with 33 gigs on soundche
 
 Boyá, skyra, ATEQ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*

@@ -1,6 +1,6 @@
 # Deepchild
 
-Deepchild is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club 77, Sydney on Thu, 3 Dec 2026.
+Deepchild is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club 77, Sydney on Thu, 3 Dec 2026.
 
 Deepchild is a techno and house artist based in Australia, with 30 gigs on soundcheck across New York City and Sydney. Often billed alongside Reenie, Andrew Wowk and Estée Louder. Next up: Club 77, Sydney on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Deepchild is a techno and house artist based in Australia, with 30 gigs on sound
 
 Reenie, Andrew Wowk, Estée Louder
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepchild/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepchild/)*

@@ -1,6 +1,6 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 3oz Dive Club, San Diego on Fri, 4 Dec 2026.
+x3butterfly is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 3oz Dive Club, San Diego on Fri, 4 Dec 2026.
 
 x3butterfly is a techno and house artist based in United States of America, with 221 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Beijing and 40 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Meilgaarden. Next up: 3oz Dive Club, San Diego on Fri 4 Dec.
 
@@ -31,4 +31,4 @@ x3butterfly is a techno and house artist based in United States of America, with
 
 Sterling Juan Diaz, Concrete Husband, Meilgaarden
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*

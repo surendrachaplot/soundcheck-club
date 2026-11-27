@@ -1,6 +1,6 @@
 # Annemalie
 
-Annemalie is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Cologne on Sat, 12 Dec 2026.
+Annemalie is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Cologne on Sat, 12 Dec 2026.
 
 Annemalie is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne and Münster. Often billed alongside lollo, HiHat and Ariel (DE). Next up: TBA, Cologne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Annemalie is a techno and trance artist based in Germany, with 33 gigs on soundc
 
 lollo, HiHat, Ariel (DE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annemalie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annemalie/)*

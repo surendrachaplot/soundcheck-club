@@ -1,6 +1,6 @@
 # Viénce
 
-Viénce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
+Viénce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
 
 Viénce is a house and techno artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Netherlands. Often billed alongside Otal, SELESSA T. and CBR (Berlin). Next up: ANTIA, Netherlands on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Viénce is a house and techno artist based in Netherlands, with 22 gigs on sound
 
 Otal, SELESSA T., CBR (Berlin)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vience-de/)*

@@ -1,6 +1,6 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
+Aaron Hibell is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
 
 Aaron Hibell is a techno and trance artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 27 more. Often billed alongside Kotiēr, Adam Beyer and Alesso. Next up: Ritter Butzke, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Aaron Hibell is a techno and trance artist based in United Kingdom, with 50 gigs
 
 Kotiēr, Adam Beyer, Alesso
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*

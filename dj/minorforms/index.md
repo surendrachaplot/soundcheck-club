@@ -1,6 +1,6 @@
 # Minor Forms
 
-Minor Forms is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
+Minor Forms is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
 
 Minor Forms is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Kublai, MC Gusto and Sweetpea. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Minor Forms is a drum & bass and jungle artist based in United Kingdom, with 23 
 
 Kublai, MC Gusto, Sweetpea
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minorforms/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minorforms/)*

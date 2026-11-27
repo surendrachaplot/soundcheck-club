@@ -1,14 +1,13 @@
 # Digital
 
-Digital is a music venue in Newcastle with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "UNIT.90 THURSDAYS" on Thu, 26 Nov 2026.
+Digital is a music venue in Newcastle with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Fish56Octagon" on Fri, 27 Nov 2026.
 
-Digital is a music venue in Newcastle listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Andy Whitby, DJ Cosworth and Fish56Octagon and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
+Digital is a music venue in Newcastle listed on soundcheck. 9 upcoming gigs, with line-ups including Kepler, Andy Whitby, DJ Cosworth and Fish56Octagon and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | UNIT.90 THURSDAYS |  |
 | Fri, 27 Nov 2026 | Fish56Octagon | Fish56Octagon |
 | Fri, 27 Nov 2026 | Latino Fest |  |
 | Sat, 28 Nov 2026 | Andy Whitby's BOUNCE GENERATION 360 | Andy Whitby |
@@ -23,4 +22,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 10 upcoming gigs, wi
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

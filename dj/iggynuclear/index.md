@@ -1,6 +1,6 @@
 # Iggy Nuclear
 
-Iggy Nuclear is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 5 Dec 2026.
+Iggy Nuclear is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Greenpoint, New York City on Sat, 5 Dec 2026.
 
 Iggy Nuclear is a techno and house artist based in United States of America, with 12 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Kettle, Conduit and Rila. Next up: TBA - Greenpoint, New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Iggy Nuclear is a techno and house artist based in United States of America, wit
 
 Kettle, Conduit, Rila
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iggynuclear/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iggynuclear/)*

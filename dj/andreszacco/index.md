@@ -1,6 +1,6 @@
 # Andrés Zacco
 
-Andrés Zacco is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Avant Garten, Buenos Aires on Fri, 27 Nov 2026.
+Andrés Zacco is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Avant Garten, Buenos Aires on Fri, 27 Nov 2026.
 
 Andrés Zacco is a house and electronica artist based in Argentina, with 20 gigs on soundcheck across Buenos Aires and Lisbon. Often billed alongside Manu Oubiña, Gulp and Mariano. Next up: Avant Garten, Buenos Aires on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Andrés Zacco is a house and electronica artist based in Argentina, with 20 gigs
 
 Manu Oubiña, Gulp, Mariano
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreszacco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreszacco/)*

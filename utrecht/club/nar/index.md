@@ -1,14 +1,13 @@
 # NAR
 
-NAR is a music venue in Utrecht with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DE DANSVLOER / DON'T MIND THE GAP: UUUDITIONS" on Thu, 26 Nov 2026.
+NAR is a music venue in Utrecht with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "CLUBNACHT / Ajuma" on Fri, 27 Nov 2026.
 
-NAR is a music venue in Utrecht listed on soundcheck. 16 upcoming gigs, with line-ups including Ajuma, Cormac, Cristel Ball and Doppelgang and 2 more. See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
+NAR is a music venue in Utrecht listed on soundcheck. 15 upcoming gigs, with line-ups including Ajuma, Cormac, Cristel Ball and Doppelgang and 2 more. See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | DE DANSVLOER / DON'T MIND THE GAP: UUUDITIONS | Max Resonance, Palmtrees Papi |
 | Fri, 27 Nov 2026 | CLUBNACHT / Ajuma | Ajuma |
 | Sat, 28 Nov 2026 | HOUSE OF NAR / Prins Thomas, Intergalactic Gary, MALOU & More | Droom, Intergalactic Gary, Malou (NL), Prins Thomas |
 | Sat, 28 Nov 2026 | DE DANSVLOER / The Homesick (Live) + Cristel Ball | Cristel Ball |
@@ -18,9 +17,10 @@ NAR is a music venue in Utrecht listed on soundcheck. 16 upcoming gigs, with lin
 | Sat, 5 Dec 2026 | CLUBNACHT / Kennedy | Kennedy |
 | Fri, 11 Dec 2026 | CLUBNACHT / Miley Serious & MALLAURY | MALLAURY, Miley Serious |
 | Sat, 12 Dec 2026 | SWIEPSWAP |  |
+| Thu, 17 Dec 2026 | DE DANSVLOER / mul/ANNA & Ularjati | mul/ANNA |
 
 ## Address
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

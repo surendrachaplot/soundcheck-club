@@ -1,6 +1,6 @@
 # Sepal
 
-Sepal is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Safari Lounge, Edinburgh on Sat, 12 Dec 2026.
+Sepal is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Safari Lounge, Edinburgh on Sat, 12 Dec 2026.
 
 Sepal is a house and experimental artist based in United Kingdom, with 13 gigs on soundcheck across Edinburgh and London. Often billed alongside Sepal Rye, Scaefa and Dan Jakson. Next up: The Safari Lounge, Edinburgh on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sepal is a house and experimental artist based in United Kingdom, with 13 gigs o
 
 Sepal Rye, Scaefa, Dan Jakson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepal/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepal/)*

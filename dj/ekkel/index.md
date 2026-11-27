@@ -1,6 +1,6 @@
 # Ekkel
 
-Ekkel is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bunker, Turin on Fri, 4 Dec 2026.
+Ekkel is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bunker, Turin on Fri, 4 Dec 2026.
 
 Ekkel is a techno and trance artist based in Norway, with 68 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Marius Bø, Mikkel Rev and Kasper Marott. Next up: Bunker, Turin on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Ekkel is a techno and trance artist based in Norway, with 68 gigs on soundcheck 
 
 Marius Bø, Mikkel Rev, Kasper Marott
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

@@ -1,6 +1,6 @@
 # Mickey Zoggs
 
-Mickey Zoggs is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Conflict Bureau (US) + October & Mackenzie" on Fri, 27 Nov 2026.
+Mickey Zoggs is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Conflict Bureau (US) + October & Mackenzie" on Fri, 27 Nov 2026.
 
 Mickey Zoggs is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including CONFLICT BUREAU, DAR DISKU, Mackenzie (UK) and October. See dates, start times and who's playing. 8-9 Surrey St, St Paul''s, Bristol BS2 8PS.
 
@@ -15,4 +15,4 @@ Mickey Zoggs is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, 
 
 8-9 Surrey St, St Paul''s, Bristol BS2 8PS, Bristol
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/mickey-zoggs/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/mickey-zoggs/)*

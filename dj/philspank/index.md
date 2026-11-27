@@ -1,6 +1,6 @@
 # Phil Spank
 
-Phil Spank is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Phonobar, San Francisco/Oakland on Sat, 28 Nov 2026.
+Phil Spank is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Phonobar, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Phil Spank is a house and deep house artist based in United States of America, with 36 gigs on soundcheck across Los Angeles, Mexico City, New York City and Portland and 2 more. Often billed alongside Clancy Hickinbotham, natebytheway and Klaytron. Next up: Phonobar, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Phil Spank is a house and deep house artist based in United States of America, w
 
 Clancy Hickinbotham, natebytheway, Klaytron
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philspank/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philspank/)*

@@ -1,6 +1,6 @@
 # Kim Kaos
 
-Kim Kaos is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hal 4 aan de Maas, Rotterdam on Fri, 4 Dec 2026.
+Kim Kaos is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hal 4 aan de Maas, Rotterdam on Fri, 4 Dec 2026.
 
 Kim Kaos is a house and acid artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and Utrecht. Often billed alongside Divine, Funkerman and ROOG. Next up: Hal 4 aan de Maas, Rotterdam on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Kim Kaos is a house and acid artist based in Netherlands, with 16 gigs on soundc
 
 Divine, Funkerman, ROOG
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkaos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkaos/)*

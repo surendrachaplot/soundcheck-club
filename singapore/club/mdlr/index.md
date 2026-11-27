@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Thugshop X Never Tooo Loud presents: Rene Wise (Moving Pressure / UK)" on Fri, 4 Dec 2026.
+Mdlr is a music venue in Singapore with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Thugshop X Never Tooo Loud presents: Rene Wise (Moving Pressure / UK)" on Fri, 4 Dec 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 2 upcoming gigs, with line-ups including DEZ (SG), Joshua Dillon, Rene Wise and VAIBS. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -15,4 +15,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 2 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

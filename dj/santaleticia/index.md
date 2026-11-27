@@ -1,6 +1,6 @@
 # Santa Leticia
 
-Santa Leticia is a Disco and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Djoon, Paris on Sat, 5 Dec 2026.
+Santa Leticia is a Disco and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Djoon, Paris on Sat, 5 Dec 2026.
 
 Santa Leticia is a disco and latin bass artist based in Spain, with 46 gigs on soundcheck across Barcelona, Bristol, Edinburgh and Glasgow and 5 more. Often billed alongside Lovellious, Chris Astrojazz and Pierre Antoine. Next up: Djoon, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Santa Leticia is a disco and latin bass artist based in Spain, with 46 gigs on s
 
 Lovellious, Chris Astrojazz, Pierre Antoine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santaleticia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santaleticia/)*

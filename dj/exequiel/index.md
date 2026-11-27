@@ -1,6 +1,6 @@
 # Exequiel
 
-Exequiel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Iccarus, Sao Paulo on Thu, 31 Dec 2026.
+Exequiel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Iccarus, Sao Paulo on Thu, 31 Dec 2026.
 
 Exequiel is a house and techno artist based in Brazil, with 22 gigs on soundcheck across Berlin, New York City, Rio de Janeiro and Sao Paulo and 1 more. Often billed alongside Nana Kohat, Eli Iwasa and Valentina Luz. Next up: Iccarus, Sao Paulo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Exequiel is a house and techno artist based in Brazil, with 22 gigs on soundchec
 
 Nana Kohat, Eli Iwasa, Valentina Luz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exequiel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exequiel/)*

@@ -1,6 +1,6 @@
 # White Nite
 
-White Nite is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
+White Nite is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Koue Bokkeveld, Cape-town on Wed, 30 Dec 2026.
 
 White Nite is a house and disco artist based in South Africa, with 15 gigs on soundcheck across Cape Town and Vienna. Often billed alongside Terrence Pearce, Pierre-Estienne and DJ Fett Burger. Next up: TBA - Koue Bokkeveld, Cape Town on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ White Nite is a house and disco artist based in South Africa, with 15 gigs on so
 
 Terrence Pearce, Pierre-Estienne, DJ Fett Burger
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenite/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenite/)*

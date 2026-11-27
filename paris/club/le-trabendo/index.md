@@ -1,6 +1,6 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Soeurs Malsaines - Trabendo" on Sat, 28 Nov 2026.
+Le Trabendo is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Soeurs Malsaines - Trabendo" on Sat, 28 Nov 2026.
 
 Le Trabendo is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Erna (FR), Greg, HORS-SOL and Jolly (FR) and 2 more. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -20,4 +20,4 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 7 upcoming gigs, wit
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*

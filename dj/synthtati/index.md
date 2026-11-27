@@ -1,6 +1,6 @@
 # Synthtati
 
-Synthtati is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Atemporal, Berlin on Sun, 6 Dec 2026.
+Synthtati is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atemporal, Berlin on Sun, 6 Dec 2026.
 
 Synthtati is a downtempo and house artist based in Germany, with 20 gigs on soundcheck across Berlin, Leipzig and Mexico City. Often billed alongside Arthur Baron, Little Vanya and Sergey Chernyshov. Next up: Atemporal, Berlin on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Synthtati is a downtempo and house artist based in Germany, with 20 gigs on soun
 
 Arthur Baron, Little Vanya, Sergey Chernyshov
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synthtati/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synthtati/)*

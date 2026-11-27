@@ -1,6 +1,6 @@
 # Danse Atmos
 
-Danse Atmos is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 28 Nov 2026.
+Danse Atmos is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 28 Nov 2026.
 
 Danse Atmos is a house and disco artist based in United Kingdom, with 43 gigs on soundcheck across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: Cabaret Voltaire, Edinburgh on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Danse Atmos is a house and disco artist based in United Kingdom, with 43 gigs on
 
 Stevie Cox, Hayley Zalassi, Big Miz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*

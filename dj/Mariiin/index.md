@@ -1,6 +1,6 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - 333, New York City on Fri, 27 Nov 2026.
+Mariiin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 333, New York City on Fri, 27 Nov 2026.
 
 Mariiin is a techno and electro artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Bobby., Jos and Anna Wall. Next up: TBA - 333, New York City on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Mariiin is a techno and electro artist based in United Kingdom, with 99 gigs on 
 
 Bobby., Jos, Anna Wall
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*

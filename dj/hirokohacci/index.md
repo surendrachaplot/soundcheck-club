@@ -1,6 +1,6 @@
 # Hiroko Hacci
 
-Hiroko Hacci is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mercato Comunale Isola, Milan on Sat, 12 Dec 2026.
+Hiroko Hacci is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mercato Comunale Isola, Milan on Sat, 12 Dec 2026.
 
 Hiroko Hacci is a house and electro artist based in Italy, with 58 gigs on soundcheck across Milan, Rome and Tokyo. Often billed alongside Giale, Creamy and Fabio Monesi. Next up: Mercato Comunale Isola, Milan on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Hiroko Hacci is a house and electro artist based in Italy, with 58 gigs on sound
 
 Giale, Creamy, Fabio Monesi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokohacci/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokohacci/)*

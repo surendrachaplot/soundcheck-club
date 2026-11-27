@@ -1,6 +1,6 @@
 # eira haul
 
-eira haul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 27 Nov 2026.
+eira haul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 27 Nov 2026.
 
 eira haul is a house and techno artist based in Germany, with 24 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Kuala Lumpur and 7 more. Often billed alongside Robert Kalb, Christopher Breuer and Concentio. Next up: Bahnwärter Thiel, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ eira haul is a house and techno artist based in Germany, with 24 gigs on soundch
 
 Robert Kalb, Christopher Breuer, Concentio
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*

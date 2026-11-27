@@ -1,6 +1,6 @@
 # Signo
 
-Signo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Deseo BS AS, Buenos Aires on Thu, 24 Dec 2026.
+Signo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Deseo BS AS, Buenos Aires on Thu, 24 Dec 2026.
 
 Signo is a house and electronica artist based in Argentina, with 19 gigs on soundcheck across Buenos Aires. Often billed alongside Pato Mallet, Loïc and Dobao. Next up: Deseo BS AS, Buenos Aires on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Signo is a house and electronica artist based in Argentina, with 19 gigs on soun
 
 Pato Mallet, Loïc, Dobao
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/signo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/signo/)*

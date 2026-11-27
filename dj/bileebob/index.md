@@ -1,6 +1,6 @@
 # Bileebob
 
-Bileebob is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Spkrbox, Detroit on Fri, 27 Nov 2026.
+Bileebob is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Spkrbox, Detroit on Fri, 27 Nov 2026.
 
 Bileebob is an acid and techno artist based in United States of America, with 34 gigs on soundcheck across Detroit and London. Often billed alongside Eric Hinchman, OMO (US) and Charles Trees. Next up: Spkrbox, Detroit on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bileebob is an acid and techno artist based in United States of America, with 34
 
 Eric Hinchman, OMO (US), Charles Trees
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bileebob/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bileebob/)*

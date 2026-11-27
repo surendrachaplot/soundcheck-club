@@ -1,6 +1,6 @@
 # JGR (CH)
 
-JGR (CH) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 28 Nov 2026.
+JGR (CH) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 28 Nov 2026.
 
 JGR (CH) is an electronica and house artist based in Spain, with 22 gigs on soundcheck across Barcelona, Bogotá, Guadalajara and Madrid and 1 more. Often billed alongside Yahaira, Heinech and Javi Redondo. Next up: Say No More Madrid, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ JGR (CH) is an electronica and house artist based in Spain, with 22 gigs on soun
 
 Yahaira, Heinech, Javi Redondo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jgrch/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jgrch/)*

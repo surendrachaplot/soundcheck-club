@@ -1,6 +1,6 @@
 # Vortek's
 
-Vortek's is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Parc des Expositions du Pays de Lorient, West on Sat, 12 Dec 2026.
+Vortek's is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Parc des Expositions du Pays de Lorient, West on Sat, 12 Dec 2026.
 
 Vortek's is a techno and hardcore artist based in France, with 30 gigs on soundcheck across Antwerp, Barcelona, Brussels and Kuala Lumpur and 13 more. Often billed alongside OMAKS, CARV and Holy Priest. Next up: Parc des Expositions du Pays de Lorient, West on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Vortek's is a techno and hardcore artist based in France, with 30 gigs on soundc
 
 OMAKS, CARV, Holy Priest
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks-ca/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks-ca/)*

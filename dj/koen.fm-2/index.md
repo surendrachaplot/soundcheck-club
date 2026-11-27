@@ -1,6 +1,6 @@
 # koen.fm (2)
 
-koen.fm (2) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Het Dorp, Amsterdam on Sat, 28 Nov 2026.
+koen.fm (2) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Het Dorp, Amsterdam on Sat, 28 Nov 2026.
 
 koen.fm is a house and downtempo artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Daan Donk, DJ-MB and Mia Cecille. Next up: Het Dorp, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ koen.fm is a house and downtempo artist based in Netherlands, with 9 gigs on sou
 
 Daan Donk, DJ-MB, Mia Cecille
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koen.fm-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koen.fm-2/)*

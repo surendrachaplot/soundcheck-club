@@ -1,6 +1,6 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at OXI, Berlin on Sat, 6 Feb 2027.
+Jimpster is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OXI, Berlin on Sat, 6 Feb 2027.
 
 Jimpster is a house and deep house artist based in United Kingdom, with 97 gigs on soundcheck across Alicante, Amsterdam, Atlanta and Barcelona and 41 more. Often billed alongside Conrad Lee, Hudson’s Choice and Neil Pierce. Next up: OXI, Berlin on Sat 6 Feb.
 
@@ -27,4 +27,4 @@ Jimpster is a house and deep house artist based in United Kingdom, with 97 gigs 
 
 Conrad Lee, Hudson’s Choice, Neil Pierce
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

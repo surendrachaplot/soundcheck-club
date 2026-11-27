@@ -1,6 +1,6 @@
 # NegoO
 
-NegoO is a Afro House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 22 Jan 2027.
+NegoO is a Afro House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 22 Jan 2027.
 
 NegoO is an afro house and afrobeat artist based in Portugal, with 19 gigs on soundcheck across Barcelona, Berlin, Brussels and Lisbon and 5 more. Often billed alongside San Farafina, Moonshine and Pierre Kwenders. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ NegoO is an afro house and afrobeat artist based in Portugal, with 19 gigs on so
 
 San Farafina, Moonshine, Pierre Kwenders
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negoo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negoo/)*

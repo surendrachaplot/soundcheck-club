@@ -1,6 +1,6 @@
 # RamonPang
 
-RamonPang is a Garage and IDM artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Process PDX, Portland on Thu, 17 Dec 2026.
+RamonPang is a Garage and IDM artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Process PDX, Portland on Thu, 17 Dec 2026.
 
 RamonPang is a garage and idm artist based in Philippines, with 32 gigs on soundcheck across Los Angeles, Melbourne, New York City and Osaka and 4 more. Often billed alongside Daddy Kev, Clearcast and Ninajirachi. Next up: Process PDX, Portland on Thu 17 Dec.
 
@@ -27,4 +27,4 @@ RamonPang is a garage and idm artist based in Philippines, with 32 gigs on sound
 
 Daddy Kev, Clearcast, Ninajirachi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*

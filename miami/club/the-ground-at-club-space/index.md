@@ -1,6 +1,6 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos" on Fri, 27 Nov 2026.
+The Ground at Club Space is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos" on Fri, 27 Nov 2026.
 
 The Ground at Club Space is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including Bakke, Chico Rose, DJC and Duality and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
@@ -18,4 +18,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 5 upcom
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

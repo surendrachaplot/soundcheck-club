@@ -1,6 +1,6 @@
 # JOCHI
 
-JOCHI is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bridge 48, Barcelona on Fri, 27 Nov 2026.
+JOCHI is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bridge 48, Barcelona on Fri, 27 Nov 2026.
 
 JOCHI is a progressive house and house artist based in Argentina, with 11 gigs on soundcheck across Barcelona. Often billed alongside Kuunde, Narima Satori and fajardo. Next up: Bridge 48, Barcelona on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ JOCHI is a progressive house and house artist based in Argentina, with 11 gigs o
 
 Kuunde, Narima Satori, fajardo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochi/)*

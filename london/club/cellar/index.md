@@ -1,6 +1,6 @@
 # Cellar
 
-Cellar is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Swim w/ Mayell + Drifter" on Fri, 27 Nov 2026.
+Cellar is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Swim w/ Mayell + Drifter" on Fri, 27 Nov 2026.
 
 Cellar is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Burr, Alex Osifo, Birrell and Collin Tusk and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ Cellar is a music venue in London listed on soundcheck. 8 upcoming gigs, with li
 | Fri, 18 Dec 2026 | Room13sessions invites : De La Reef, Collin Tusk & Mike Bugg | Collin Tusk, De La Reef, Elysium Waves |
 | Sat, 19 Dec 2026 | Roundabout Christmas Party |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/cellar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/cellar/)*

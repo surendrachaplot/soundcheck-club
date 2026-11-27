@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Frits Wentink presented by Untold Stories x House of Lords" on Sat, 28 Nov 2026.
+Standard Time is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Frits Wentink presented by Untold Stories x House of Lords" on Sat, 28 Nov 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Adrian Sherwood, Afrique Like Me, Ciel and Darwin and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -21,4 +21,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 8 upcoming gigs,
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

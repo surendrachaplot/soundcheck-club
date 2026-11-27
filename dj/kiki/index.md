@@ -1,6 +1,6 @@
 # Kiki
 
-Kiki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Madame Claude, Berlin on Fri, 27 Nov 2026.
+Kiki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Madame Claude, Berlin on Fri, 27 Nov 2026.
 
 Kiki is a house and techno artist based in Finland, with 117 gigs on soundcheck across Aberdeen, Athens, Berlin and Brussels and 16 more. Often billed alongside Gyusco, Riskii and Youngseok. Next up: Madame Claude, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kiki is a house and techno artist based in Finland, with 117 gigs on soundcheck 
 
 Gyusco, Riskii (2), Youngseok
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiki/)*

@@ -1,6 +1,6 @@
 # Feta Felice
 
-Feta Felice is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MÄX, Zurich on Fri, 4 Dec 2026.
+Feta Felice is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MÄX, Zurich on Fri, 4 Dec 2026.
 
 Feta Felice is a trance and techno artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 8 more. Often billed alongside DJ Achim Feuervogel, TMR (DE) and DETOXX. Next up: MÄX, Zurich on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Feta Felice is a trance and techno artist based in Germany, with 51 gigs on soun
 
 DJ Achim Feuervogel, TMR (DE), DETOXX
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fetafelice/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fetafelice/)*

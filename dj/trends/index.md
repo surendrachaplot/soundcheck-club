@@ -1,6 +1,6 @@
 # Trends
 
-Trends is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
+Trends is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
 
 Trends is a grime and dubstep artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, London, Manchester and Porto. Often billed alongside Boylan, P Jam and D.O.K. Next up: Kizuna, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Trends is a grime and dubstep artist based in United Kingdom, with 13 gigs on so
 
 Boylan, P Jam, D.O.K
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trends/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trends/)*

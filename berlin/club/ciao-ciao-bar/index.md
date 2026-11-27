@@ -1,14 +1,13 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Memory Dance" on Thu, 26 Nov 2026.
+ciao ciao Bar is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ciao ciao invites" on Fri, 27 Nov 2026.
 
-ciao ciao Bar is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Purnell, Amed Nheiro, CFF.VALE and Champagner.Jannick and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
+ciao ciao Bar is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Purnell, Amed Nheiro, CFF.VALE and Champagner.Jannick and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Memory Dance | Claudio Chinotto |
 | Fri, 27 Nov 2026 | ciao ciao invites | Adam Purnell, Ian Blevins, Izzy Demzky |
 | Sat, 28 Nov 2026 | Day To Night - House Masterpiece | Amed Nheiro, Yass |
 | Sat, 28 Nov 2026 | Garager Girls | KENZA, Triqi, ZE:NA |
@@ -20,4 +19,4 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, 
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

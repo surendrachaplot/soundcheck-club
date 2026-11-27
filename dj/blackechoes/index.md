@@ -1,6 +1,6 @@
 # Black Echoes
 
-Black Echoes is a Minimal and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Lomas de Santa Anita, Guadalajara on Fri, 4 Dec 2026.
+Black Echoes is a Minimal and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Lomas de Santa Anita, Guadalajara on Fri, 4 Dec 2026.
 
 Black Echoes is a minimal and dub techno artist, with 15 gigs on soundcheck across Guadalajara. Often billed alongside ANGUIANO, Franc Mamba and IBID J. Next up: TBA - Lomas de Santa Anita, Guadalajara on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Black Echoes is a minimal and dub techno artist, with 15 gigs on soundcheck acro
 
 ANGUIANO, Franc Mamba, IBID J
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackechoes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackechoes/)*

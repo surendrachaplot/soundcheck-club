@@ -1,6 +1,6 @@
 # LEGO
 
-LEGO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Under Bron, Stockholm on Fri, 4 Dec 2026.
+LEGO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Under Bron, Stockholm on Fri, 4 Dec 2026.
 
 LEGO is a house and deep house artist, with 22 gigs on soundcheck across Bordeaux, Chicago, Leipzig and Melbourne and 4 more. Often billed alongside Adorio, Gene Hunt and Jevon Jackson. Next up: Under Bron, Stockholm on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ LEGO is a house and deep house artist, with 22 gigs on soundcheck across Bordeau
 
 Adorio, Gene Hunt, Jevon Jackson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lego/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lego/)*

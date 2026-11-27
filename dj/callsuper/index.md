@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FOLD, London on Sat, 5 Dec 2026.
+Call Super is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at FOLD, London on Sat, 5 Dec 2026.
 
 Call Super is a house and techno artist based in United Kingdom, with 245 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 79 more. Often billed alongside Shanti Celeste, Ogazón and Ryan Elliott. Next up: FOLD, London on Sat 5 Dec.
 
@@ -34,4 +34,4 @@ Call Super is a house and techno artist based in United Kingdom, with 245 gigs o
 
 Shanti Celeste, Ogazón, Ryan Elliott
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

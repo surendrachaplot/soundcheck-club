@@ -1,6 +1,6 @@
 # Selmz
 
-Selmz is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at L'estaminet 1030, Brussels on Fri, 27 Nov 2026.
+Selmz is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at L'estaminet 1030, Brussels on Fri, 27 Nov 2026.
 
 Selmz is a bass and dubstep artist based in Belgium, with 20 gigs on soundcheck across Antwerp, Brussels and Paris. Often billed alongside Erykah, EliseThere and Hysope. Next up: L'estaminet 1030, Brussels on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Selmz is a bass and dubstep artist based in Belgium, with 20 gigs on soundcheck 
 
 Erykah, EliseThere, Hysope
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selmz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selmz/)*

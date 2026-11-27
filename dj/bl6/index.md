@@ -1,6 +1,6 @@
 # BL/6
 
-BL/6 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Raven Tower, Houston on Sat, 28 Nov 2026.
+BL/6 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Raven Tower, Houston on Sat, 28 Nov 2026.
 
 BL/6 is a techno and house artist, with 9 gigs on soundcheck across Austin and Houston. Often billed alongside Martone (US), Angelo V. and Black Lotus. Next up: TBA - Raven Tower, Houston on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BL/6 is a techno and house artist, with 9 gigs on soundcheck across Austin and H
 
 Martone (US), Angelo V., Black Lotus
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bl6/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bl6/)*

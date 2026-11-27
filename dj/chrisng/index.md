@@ -1,15 +1,13 @@
 # Chris NG
 
-Chris NG is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Whitehart Bar, Melbourne on Fri, 27 Nov 2026.
+Chris NG is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OneSixOne, Melbourne on Sat, 28 Nov 2026.
 
-Chris NG is a house and deep house artist based in Australia, with 75 gigs on soundcheck across Melbourne. Often billed alongside Zepherin Saint, Colette and Kgomotso. Next up: Whitehart Bar, Melbourne on Fri 27 Nov.
+Chris NG is a house and deep house artist based in Australia, with 75 gigs on soundcheck across Melbourne. Often billed alongside Zepherin Saint, Colette and Kgomotso. Next up: OneSixOne, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Whitehart Bar | Melbourne |
-| Fri, 27 Nov 2026 | Wax Music Lounge | Melbourne |
 | Sat, 28 Nov 2026 | OneSixOne | Melbourne |
 | Sun, 6 Dec 2026 | Dr Morse | Melbourne |
 
@@ -28,4 +26,4 @@ Chris NG is a house and deep house artist based in Australia, with 75 gigs on so
 
 Zepherin Saint, Colette, Kgomotso
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisng/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisng/)*

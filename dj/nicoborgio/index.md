@@ -1,6 +1,6 @@
 # Nico Borgio
 
-Nico Borgio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fünk, Mexico City on Sat, 12 Dec 2026.
+Nico Borgio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fünk, Mexico City on Sat, 12 Dec 2026.
 
 Nico Borgio is a house and techno artist based in Mexico, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Victor (DE), ATEQ and DJ Rino. Next up: Fünk, Mexico City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Nico Borgio is a house and techno artist based in Mexico, with 23 gigs on soundc
 
 Victor (DE), ATEQ, DJ Rino
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoborgio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoborgio/)*

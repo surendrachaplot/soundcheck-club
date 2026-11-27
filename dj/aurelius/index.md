@@ -1,6 +1,6 @@
 # Aurelius
 
-Aurelius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Doka, Amsterdam on Fri, 22 Jan 2027.
+Aurelius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doka, Amsterdam on Fri, 22 Jan 2027.
 
 Aurelius is a house and techno artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Stockholm. Often billed alongside ItsOk, Tsepo and charlie.pxls. Next up: Doka, Amsterdam on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Aurelius is a house and techno artist based in Netherlands, with 29 gigs on soun
 
 ItsOk, Tsepo, charlie.pxls
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelius/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelius/)*

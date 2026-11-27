@@ -1,6 +1,6 @@
 # Sean Being
 
-Sean Being is a Experimental and Krautrock artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Autorimessa (7th Floor), Via Agnello 11, 20121 Milan, Milan on Wed, 2 Dec 2026.
+Sean Being is a Experimental and Krautrock artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Autorimessa (7th Floor), Via Agnello 11, 20121 Milan, Milan on Wed, 2 Dec 2026.
 
 Sean Being is an experimental and krautrock artist based in Portugal, with 9 gigs on soundcheck across Cork, Glasgow, London and Milan and 1 more. Often billed alongside Kenichi Iwasa, BJ Holy and Ben Vince. Next up: Autorimessa (7th Floor), Via Agnello 11, 20121 Milan, Milan on Wed 2 Dec.
 
@@ -12,6 +12,7 @@ Sean Being is an experimental and krautrock artist based in Portugal, with 9 gig
 
 ## Recently played
 
+- Instants Chavirés, Paris · Thu, 26 Nov 2026
 - Cafe OTO, London · Sat, 3 Oct 2026
 - Vespers Club, London · Fri, 27 Feb 2026
 - Vespers Club, London · Sat, 29 Nov 2025
@@ -24,4 +25,4 @@ Sean Being is an experimental and krautrock artist based in Portugal, with 9 gig
 
 Kenichi Iwasa, BJ Holy, Ben Vince
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanbeing/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanbeing/)*

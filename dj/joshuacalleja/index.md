@@ -1,6 +1,6 @@
 # Joshua Calleja
 
-Joshua Calleja is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Liquid Club, Malta on Sat, 28 Nov 2026.
+Joshua Calleja is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Liquid Club, Malta on Sat, 28 Nov 2026.
 
 Joshua Calleja is a techno and minimal techno artist based in Malta, with 29 gigs on soundcheck across Berlin and Malta. Often billed alongside OBLX, iNK MT and FIASKA. Next up: Liquid Club, Malta on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Joshua Calleja is a techno and minimal techno artist based in Malta, with 29 gig
 
 OBLX, iNK MT, FIASKA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacalleja/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacalleja/)*

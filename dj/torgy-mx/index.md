@@ -1,6 +1,6 @@
 # Torgy
 
-Torgy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu, 31 Dec 2026.
+Torgy is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu, 31 Dec 2026.
 
 Torgy is a house and electronica artist based in Mexico, with 23 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Eliel Capa, Amapola Rose and Celice Monnette. Next up: TBA - La dirección de la fiesta será enviada a los correos electronicos asociados a la compra el 31/12 a las 11:00hrs., Mexico City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Torgy is a house and electronica artist based in Mexico, with 23 gigs on soundch
 
 Eliel Capa, Amapola Rose, Celice Monnette
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torgy-mx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torgy-mx/)*

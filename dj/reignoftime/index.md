@@ -1,17 +1,18 @@
 # Reign Of Time
 
-Reign Of Time is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at Skull Bar, Athens on Sun, 22 Nov 2026.
+Reign Of Time is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Crust Basement, Athens on Fri, 27 Nov 2026.
 
-Reign Of Time is a house and techno artist based in Greece, with 74 gigs on soundcheck across Athens, Berlin, Greece and Lisbon and 4 more. Often billed alongside Stratos, MAN WITH THE SPEAKER and RNO. Next up: Skull Bar, Athens on Sun 22 Nov.
+Reign Of Time is a house and techno artist based in Greece, with 75 gigs on soundcheck across Athens, Berlin, Greece and Lisbon and 4 more. Often billed alongside Stratos, MAN WITH THE SPEAKER and RNO. Next up: Crust Basement, Athens on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 22 Nov 2026 | Skull Bar | Athens |
+| Fri, 27 Nov 2026 | Crust Basement | Athens |
 
 ## Recently played
 
+- Skull Bar, Athens · Sun, 22 Nov 2026
 - Skull Bar, Athens · Sat, 14 Nov 2026
 - Crust Basement, Athens · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -19,10 +20,9 @@ Reign Of Time is a house and techno artist based in Greece, with 74 gigs on soun
 - B side Athens, Athens · Sun, 21 Jun 2026
 - Skull Bar, Athens · Sun, 21 Jun 2026
 - Crust Basement, Athens · Sat, 20 Jun 2026
-- Crust Basement, Athens · Sat, 30 May 2026
 
 ## Shares bills with
 
 Stratos (2), MAN WITH THE SPEAKER, RNO (1)
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reignoftime/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reignoftime/)*

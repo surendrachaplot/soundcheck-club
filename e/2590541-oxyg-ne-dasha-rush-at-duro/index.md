@@ -1,6 +1,6 @@
 # OXYGÈNE - Dasha Rush at DURO
 
-OXYGÈNE - Dasha Rush at DURO on Sat 19 Dec, Milan. 1 artist: Dasha Rush. See the line-up on soundcheck.
+OXYGÈNE - Dasha Rush at DURO on Sat 19 Dec, Milan. 2 artists: Dasha Rush and Tapefeed. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ OXYGÈNE - Dasha Rush at DURO on Sat 19 Dec, Milan. 1 artist: Dasha Rush. See th
 ## Line-up
 
 - Dasha Rush
+- Tapefeed
 
 *Source: [soundcheck](https://soundcheck.club/e/2590541-oxyg-ne-dasha-rush-at-duro/)*

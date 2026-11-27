@@ -1,6 +1,6 @@
 # Manzzy
 
-Manzzy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Portland Room, Toronto on Thu, 31 Dec 2026.
+Manzzy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Portland Room, Toronto on Thu, 31 Dec 2026.
 
 Manzzy is a house and tech house artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside RUDEE NIK, Stazia and Jonathan Rosa. Next up: Portland Room, Toronto on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Manzzy is a house and tech house artist based in Canada, with 22 gigs on soundch
 
 RUDEE NIK, Stazia, Jonathan Rosa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*

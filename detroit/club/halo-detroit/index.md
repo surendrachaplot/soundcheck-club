@@ -1,6 +1,6 @@
 # HALO DETROIT
 
-HALO DETROIT is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DTM Friendsgiving" on Sat, 28 Nov 2026.
+HALO DETROIT is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DTM Friendsgiving" on Sat, 28 Nov 2026.
 
 HALO DETROIT is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Augustus Williams, Darkcube, Darryl G and J.Garcia and 2 more. See dates, start times and who's playing. 8070 Greenfield Rd, Detroit, MI 48228, United States.
 
@@ -15,4 +15,4 @@ HALO DETROIT is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, 
 
 8070 Greenfield Rd, Detroit, MI 48228, United States, Detroit
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/halo-detroit/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/halo-detroit/)*

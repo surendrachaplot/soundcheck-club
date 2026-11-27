@@ -1,6 +1,6 @@
 # Killian
 
-Killian is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 29 Nov 2026.
+Killian is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 29 Nov 2026.
 
 Killian is a techno and house artist based in Australia, with 32 gigs on soundcheck across Brisbane, Byron Bay, Dublin and Glasgow and 5 more. Often billed alongside 1tbsp, SOLTERA and D-Grade. Next up: Poor Toms Oltra, Sydney on Sun 29 Nov.
 
@@ -29,4 +29,4 @@ Killian is a techno and house artist based in Australia, with 32 gigs on soundch
 
 1tbsp, SOLTERA, D-Grade
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killian/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killian/)*

@@ -1,14 +1,14 @@
 # JACKSON kaki
 
-JACKSON kaki is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 22 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
+JACKSON kaki is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Unit, Tokyo on Thu, 31 Dec 2026.
 
-JACKSON kaki is an experimental and techno artist based in Japan, with 51 gigs on soundcheck across Denver, Kyoto, Taipei and Tokyo. Often billed alongside arow, MUNÉO and Mars89. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
+JACKSON kaki is an experimental and techno artist based in Japan, with 52 gigs on soundcheck across Denver, Kyoto, Taipei and Tokyo. Often billed alongside arow, MUNÉO and Mars89. Next up: Unit, Tokyo on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
+| Thu, 31 Dec 2026 | Unit | Tokyo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ JACKSON kaki is an experimental and techno artist based in Japan, with 51 gigs o
 
 arow, MUNÉO, Mars89
 
-*Updated Sun, 22 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonkaki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonkaki/)*

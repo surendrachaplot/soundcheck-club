@@ -1,6 +1,6 @@
 # Rolmar
 
-Rolmar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Doka, Amsterdam on Fri, 15 Jan 2027.
+Rolmar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doka, Amsterdam on Fri, 15 Jan 2027.
 
 Rolmar is a house and tech house artist based in Switzerland, with 23 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Malom, SHAY and Karina.. Next up: Doka, Amsterdam on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Rolmar is a house and tech house artist based in Switzerland, with 23 gigs on so
 
 Malom, SHAY, Karina.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolmar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolmar/)*

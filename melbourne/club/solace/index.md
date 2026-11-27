@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Solace Invites Miki Thrill Tangerine Akane Sanity Hasan" on Fri, 27 Nov 2026.
+Solace is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Solace Invites Miki Thrill Tangerine Akane Sanity Hasan" on Fri, 27 Nov 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including ADMINISTRATOR, Ari (AU), Char(k) and Charms and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -22,4 +22,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

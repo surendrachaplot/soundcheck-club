@@ -1,6 +1,6 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Elon" on Fri, 27 Nov 2026.
+Moondog Hifi is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Elon" on Fri, 27 Nov 2026.
 
 Moondog Hifi is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Elon. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
@@ -16,4 +16,4 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 3 upcoming 
 
 119 Ingraham Street, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*

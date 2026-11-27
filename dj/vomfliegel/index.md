@@ -1,6 +1,6 @@
 # VOMFLIEGEL
 
-VOMFLIEGEL is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+VOMFLIEGEL is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
 VOMFLIEGEL is a techno and house artist based in Mexico, with 27 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Maseriche and Deejay Energy. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
@@ -27,4 +27,4 @@ VOMFLIEGEL is a techno and house artist based in Mexico, with 27 gigs on soundch
 
 Bluecommand, Maseriche, Deejay Energy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfliegel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfliegel/)*

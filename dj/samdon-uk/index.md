@@ -1,6 +1,6 @@
 # Sam Don
 
-Sam Don is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
+Sam Don is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KOKO, London on Sat, 5 Dec 2026.
 
 Sam Don is a disco and house artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Bucharest, Copenhagen and Cork and 11 more. Often billed alongside Bevan, Convertible and Diz Jockey. Next up: KOKO, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sam Don is a disco and house artist based in United Kingdom, with 36 gigs on sou
 
 Bevan, Convertible, Diz Jockey
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samdon-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samdon-uk/)*

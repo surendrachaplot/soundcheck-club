@@ -1,6 +1,6 @@
 # Dj Du'ArT
 
-Dj Du'ArT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lenox, Luxembourg on Fri, 27 Nov 2026.
+Dj Du'ArT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lenox, Luxembourg on Fri, 27 Nov 2026.
 
 Dj Du'ArT is a techno and tech house artist based in Portugal, with 20 gigs on soundcheck across Lisbon, Ljubljana, London and Luxembourg and 3 more. Often billed alongside Sandro Martins, Carlos Manaça and Fernanda Martins. Next up: Lenox, Luxembourg on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dj Du'ArT is a techno and tech house artist based in Portugal, with 20 gigs on s
 
 Sandro Martins, Carlos Manaça, Fernanda Martins
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduart/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djduart/)*

@@ -1,6 +1,6 @@
 # Sacha Robotti
 
-Sacha Robotti is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Sacha Robotti is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Sacha Robotti is a house and tech house artist, with 29 gigs on soundcheck across Austin, Chicago, Houston and Los Angeles and 6 more. Often billed alongside Ardalan, Doc Martin and J.Phlip. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Sacha Robotti is a house and tech house artist, with 29 gigs on soundcheck acros
 
 Ardalan, Doc Martin, J.Phlip
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sacharobotti/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sacharobotti/)*

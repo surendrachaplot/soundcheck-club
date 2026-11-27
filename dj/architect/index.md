@@ -1,0 +1,28 @@
+# Architect
+
+Architect is a Techno and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KHIDI, Tbilisi on Sat, 5 Dec 2026.
+
+Architect is a techno and afrobeat artist based in Germany, with 12 gigs on soundcheck across Barcelona, Beijing, Berlin and London and 2 more. Often billed alongside Lil C, Handsome Rob and Lagoon Femshayma. Next up: KHIDI, Tbilisi on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | KHIDI | Tbilisi |
+
+## Recently played
+
+- Urban Spree, Berlin · Sat, 3 Oct 2026
+- Razzmatazz, Barcelona · Sat, 3 Oct 2026
+- Colour Factory, London · Sat, 30 Aug 2025
+- Jumbi, London · Fri, 18 Jul 2025
+- Colour Factory, London · Sat, 5 Oct 2024
+- Left Bank, Tbilisi · Sat, 20 Jul 2024
+- Razzmatazz, Barcelona · Fri, 7 Jun 2024
+- Colour Factory, London · Fri, 26 Apr 2024
+
+## Shares bills with
+
+Lil C, Handsome Rob, Lagoon Femshayma
+
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/architect/)*

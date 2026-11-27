@@ -1,6 +1,6 @@
 # Miss Lil
 
-Miss Lil is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Miss Lil is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Miss Lil is a house and techno artist based in Singapore, with 32 gigs on soundcheck across Hanoi, Kuala Lumpur, Seoul and Singapore and 1 more. Often billed alongside Sivanesh, Loyboy and 3MZY. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Miss Lil is a house and techno artist based in Singapore, with 32 gigs on soundc
 
 Sivanesh, Loyboy, 3MZY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misslil/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misslil/)*

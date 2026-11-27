@@ -1,6 +1,6 @@
 # Triad (Es)
 
-Triad (Es) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
+Triad (Es) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
 
 Triad (Es) is a house and minimal artist based in Spain, with 24 gigs on soundcheck across Barcelona and Milan. Often billed alongside Marcelo Cura, Will Deluxe and Bttologic. Next up: M7 Club, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Triad (Es) is a house and minimal artist based in Spain, with 24 gigs on soundch
 
 Marcelo Cura, Will Deluxe, Bttologic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triad-es/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triad-es/)*

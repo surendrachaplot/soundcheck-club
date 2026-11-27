@@ -1,6 +1,6 @@
 # Gary More
 
-Gary More is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Toldi Klub, Budapest on Thu, 17 Dec 2026.
+Gary More is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Toldi Klub, Budapest on Thu, 17 Dec 2026.
 
 Gary More is a house and tech house artist based in Hungary, with 6 gigs on soundcheck across Budapest. Often billed alongside AIRKEY, Atos and some1. Next up: Toldi Klub, Budapest on Thu 17 Dec.
 
@@ -22,4 +22,4 @@ Gary More is a house and tech house artist based in Hungary, with 6 gigs on soun
 
 AIRKEY, Atos, some1
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garymore/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garymore/)*

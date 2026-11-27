@@ -1,6 +1,6 @@
 # Laura Krieg
 
-Laura Krieg is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Klub 20/44, Belgrade on Sat, 6 Feb 2027.
+Laura Krieg is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Klub 20/44, Belgrade on Sat, 6 Feb 2027.
 
 Laura Krieg is a post-punk and new wave artist based in Canada, with 11 gigs on soundcheck across Athens, Belgrade, Berlin and Bogotá and 5 more. Often billed alongside Anarchotech, CUERPOS and Caillou (DE). Next up: Klub 20/44, Belgrade on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Laura Krieg is a post-punk and new wave artist based in Canada, with 11 gigs on 
 
 Anarchotech, CUERPOS, Caillou (DE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurakrieg/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurakrieg/)*

@@ -1,6 +1,6 @@
 # Enzo Muro
 
-Enzo Muro is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
+Enzo Muro is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
 
 Enzo Muro is a house and minimal artist based in United States of America, with 66 gigs on soundcheck across Berlin, Bucharest, Los Angeles and Prague and 2 more. Often billed alongside Artur (US), Ray Kash and Yair. Next up: TBA, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Enzo Muro is a house and minimal artist based in United States of America, with 
 
 Artur (US), Ray Kash, Yair
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzomuro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzomuro/)*

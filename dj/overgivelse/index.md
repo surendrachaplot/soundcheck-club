@@ -1,6 +1,6 @@
 # Overgivelse
 
-Overgivelse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vinile, Rome on Fri, 27 Nov 2026.
+Overgivelse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vinile, Rome on Fri, 27 Nov 2026.
 
 Overgivelse is a house and techno artist, with 32 gigs on soundcheck across London, Milan and Rome. Often billed alongside Anton Iofus, Meduza and Monkeyman. Next up: Vinile, Rome on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Overgivelse is a house and techno artist, with 32 gigs on soundcheck across Lond
 
 Anton Iofus, Meduza, Monkeyman
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overgivelse/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/overgivelse/)*

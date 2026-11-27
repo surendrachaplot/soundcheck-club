@@ -1,6 +1,6 @@
 # Brown Excellence
 
-Brown Excellence is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Strange Brew, Bristol on Fri, 27 Nov 2026.
+Brown Excellence is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Strange Brew, Bristol on Fri, 27 Nov 2026.
 
 Brown Excellence is a bass and electro artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Brighton, Bristol and Dundee and 9 more. Often billed alongside Arabesque, Buggery Grips and Jay Carder. Next up: Strange Brew, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Brown Excellence is a bass and electro artist based in United Kingdom, with 39 g
 
 Arabesque, Buggery Grips, Jay Carder
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*

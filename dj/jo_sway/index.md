@@ -1,6 +1,6 @@
 # jo_sway
 
-jo_sway is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 26 Dec 2026.
+jo_sway is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 26 Dec 2026.
 
 jo_sway is a club and techno artist based in United States of America, with 48 gigs on soundcheck across Los Angeles, New York City and Washington DC. Often billed alongside purp, Bodegaparty and Nymphostar. Next up: Bossa Nova Civic Club, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ jo_sway is a club and techno artist based in United States of America, with 48 g
 
 purp, Bodegaparty, Nymphostar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jo_sway/)*

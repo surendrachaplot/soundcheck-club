@@ -1,6 +1,6 @@
 # Tomo in der Muhlen
 
-Tomo in der Muhlen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Urban Spree, Berlin on Fri, 11 Dec 2026.
+Tomo in der Muhlen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Urban Spree, Berlin on Fri, 11 Dec 2026.
 
 Tomo in der Muhlen is a techno and house artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Munich and 2 more. Often billed alongside Josef Kunz, Analog Kitchen and HARTBRAND. Next up: Urban Spree, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Tomo in der Muhlen is a techno and house artist based in Germany, with 23 gigs o
 
 Josef Kunz, Analog Kitchen, HARTBRAND
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoindermuhlen/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoindermuhlen/)*

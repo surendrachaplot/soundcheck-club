@@ -1,6 +1,6 @@
 # Stereo Visions
 
-Stereo Visions is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 4 Dec 2026.
+Stereo Visions is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 4 Dec 2026.
 
 Stereo Visions is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Needs, Hjalte and Ardt. Next up: Fridas Pier, Stuttgart on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Stereo Visions is a techno and house artist based in Germany, with 37 gigs on so
 
 Needs (2), Hjalte, Ardt
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stereovisions/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stereovisions/)*

@@ -1,6 +1,6 @@
 # Onométro
 
-Onométro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
+Onométro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
 
 Onométro is a house and techno artist based in Japan, with 59 gigs on soundcheck across Tokyo. Often billed alongside takumar, Terax and 3rill. Next up: Tengu Shokudo, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Onométro is a house and techno artist based in Japan, with 59 gigs on soundchec
 
 takumar, Terax, 3rill
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onometro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onometro/)*

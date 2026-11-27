@@ -1,6 +1,6 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 27 Nov 2026.
+Ferrari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 27 Nov 2026.
 
 Ferrari is a house and disco artist based in Italy, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 4 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: BORIS CLUB, Barcelona on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ferrari is a house and disco artist based in Italy, with 63 gigs on soundcheck a
 
 Dante (H501), Coni (2), Larry Masmero
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*

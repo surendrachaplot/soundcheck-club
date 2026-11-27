@@ -1,6 +1,6 @@
 # Arjun Shah
 
-Arjun Shah is a Disco and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Sat, 26 Dec 2026.
+Arjun Shah is a Disco and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elsewhere, New York City on Sat, 26 Dec 2026.
 
 Arjun Shah is a disco and afrobeat artist based in United States of America, with 40 gigs on soundcheck across Detroit and New York City. Often billed alongside ራሄል (Rachel), vikmatic and funkin donut. Next up: Elsewhere, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Arjun Shah is a disco and afrobeat artist based in United States of America, wit
 
 ራሄል (Rachel), vikmatic, funkin donut
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunshah/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arjunshah/)*

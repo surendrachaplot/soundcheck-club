@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie" on Fri, 27 Nov 2026.
+Nowadays is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie" on Fri, 27 Nov 2026.
 
 Nowadays is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 19 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

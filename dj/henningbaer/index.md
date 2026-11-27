@@ -1,6 +1,6 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fuchs2, Prague on Sat, 28 Nov 2026.
+Henning Baer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuchs2, Prague on Sat, 28 Nov 2026.
 
 Henning Baer is a techno and house artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 43 more. Often billed alongside Alarico, Laure Croft and P.E.A.R.L.. Next up: Fuchs2, Prague on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Henning Baer is a techno and house artist based in Germany, with 102 gigs on sou
 
 Alarico, Laure Croft, P.E.A.R.L.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*

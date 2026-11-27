@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "STAMPED: AYA x Friends - BROOKLYN, NY - BLACK FRIDAY" on Fri, 27 Nov 2026.
+Elsewhere is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "STAMPED: AYA x Friends - BROOKLYN, NY - BLACK FRIDAY" on Fri, 27 Nov 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 23 upcoming gigs, with line-ups including anamē, Angel Money, ARINI and Arjun Shah and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 23 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

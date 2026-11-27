@@ -1,14 +1,15 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
+we1sman is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
 
-we1sman is a techno and club artist based in United States of America, with 159 gigs on soundcheck across Amsterdam, Denver, Detroit and New York City. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Menjo's, Detroit on Sat 28 Nov.
+we1sman is a techno and club artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Denver, Detroit and New York City. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Menjo's, Detroit on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
+| Fri, 18 Dec 2026 | Lincoln Factory | Detroit |
 | Thu, 31 Dec 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ we1sman is a techno and club artist based in United States of America, with 159 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

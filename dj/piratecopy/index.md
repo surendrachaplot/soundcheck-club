@@ -1,6 +1,6 @@
 # Pirate Copy
 
-Pirate Copy is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Warehouse, Leeds on Sat, 12 Dec 2026.
+Pirate Copy is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Warehouse, Leeds on Sat, 12 Dec 2026.
 
 Pirate Copy is a tech house and house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona, Glasgow and Ibiza and 11 more. Often billed alongside Manda Moor, Wheats and wAFF. Next up: The Warehouse, Leeds on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Pirate Copy is a tech house and house artist based in United Kingdom, with 76 gi
 
 Manda Moor, Wheats, wAFF
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*

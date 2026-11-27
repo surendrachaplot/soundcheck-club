@@ -1,6 +1,6 @@
 # Club 45 @ Blackfriars
 
-Club 45 @ Blackfriars is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Solar" on Sat, 12 Dec 2026.
+Club 45 @ Blackfriars is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Solar" on Sat, 12 Dec 2026.
 
 Club 45 @ Blackfriars is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 45 Albion Street; Glasgow, G1 1LG; Scotland.
 
@@ -15,4 +15,4 @@ Club 45 @ Blackfriars is a music venue in Glasgow listed on soundcheck. 2 upcomi
 
 45 Albion Street; Glasgow, G1 1LG; Scotland, Glasgow
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-45-blackfriars/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/club-45-blackfriars/)*

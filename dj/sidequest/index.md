@@ -1,13 +1,14 @@
 # Side Quest
 
-Side Quest is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Side Quest is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bluesquare, Milan on Sat, 12 Dec 2026.
 
-Side Quest is a house and techno artist based in Italy, with 32 gigs on soundcheck across Austin, Boston, Copenhagen and Dallas Fort Worth and 5 more. Often billed alongside Lovin Duo, Lvca and Sunrush. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
+Side Quest is a house and acid artist based in Italy, with 33 gigs on soundcheck across Austin, Boston, Copenhagen and Dallas Fort Worth and 5 more. Often billed alongside Lovin Duo, Lvca and Sunrush. Next up: Bluesquare, Milan on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Bluesquare | Milan |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
@@ -26,4 +27,4 @@ Side Quest is a house and techno artist based in Italy, with 32 gigs on soundche
 
 Lovin Duo, Lvca, Sunrush
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*

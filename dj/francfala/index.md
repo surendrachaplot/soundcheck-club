@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
+Franc Fala is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
 
 Franc Fala is a house and afro house artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 16 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Historic Virginia Key Beach Park, Miami on Thu 3 Dec.
 
@@ -28,4 +28,4 @@ Franc Fala is a house and afro house artist based in Netherlands, with 46 gigs o
 
 Benja, Benja (NL), Cincity
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

@@ -1,8 +1,8 @@
 # Sard
 
-Sard is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+Sard is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
-Sard is a techno and acid artist based in United States of America, with 55 gigs on soundcheck across Baltimore, Chicago, Denver and Detroit and 9 more. Often billed alongside Amino, Dretraxx and Lonefront. Next up: Stereo, Montreal on Sat 5 Dec.
+Sard is a techno and acid artist based in United States of America, with 56 gigs on soundcheck across Baltimore, Chicago, Denver and Detroit and 9 more. Often billed alongside Amino, Dretraxx and Lonefront. Next up: Stereo, Montreal on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sard is a techno and acid artist based in United States of America, with 55 gigs
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
 | Sat, 5 Dec 2026 | Stereo | Montreal |
+| Sat, 19 Dec 2026 | Temple Bar | Detroit |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 
 ## Recently played
@@ -27,4 +28,4 @@ Sard is a techno and acid artist based in United States of America, with 55 gigs
 
 Amino, Dretraxx, Lonefront
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*

@@ -1,8 +1,8 @@
 # JAZZY (2)
 
-JAZZY (2) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 3 Dec 2026.
+JAZZY (2) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 3 Dec 2026.
 
-JAZZY is a techno and house artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Ministerium Club, Lisbon on Thu 3 Dec.
+JAZZY is a techno and house artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Ministerium Club, Lisbon on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ JAZZY is a techno and house artist based in Germany, with 102 gigs on soundcheck
 | Mon, 7 Dec 2026 | Cieloterra | Rome |
 | Sat, 12 Dec 2026 | MÄX | Zurich |
 | Fri, 18 Dec 2026 | Studio Club Malaga | Malaga |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ JAZZY is a techno and house artist based in Germany, with 102 gigs on soundcheck
 
 Holy Priest, Sonny Fodera, Azyr
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*

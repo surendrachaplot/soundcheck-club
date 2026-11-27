@@ -1,6 +1,6 @@
 # K3RZC
 
-K3RZC is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
+K3RZC is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
 
 K3RZC is a bass and electro artist based in Poland, with 18 gigs on soundcheck across Copenhagen, Krakow, Poznan and Warsaw. Often billed alongside Bambi Uzi, Alegria and DJ SHOUT. Next up: SCHRON, Poznan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ K3RZC is a bass and electro artist based in Poland, with 18 gigs on soundcheck a
 
 Bambi Uzi, Alegria, DJ SHOUT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k3rzc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k3rzc/)*

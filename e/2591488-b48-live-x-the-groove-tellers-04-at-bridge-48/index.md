@@ -1,6 +1,6 @@
 # B48 LIVE x THE GROOVE TELLERS #04 at Bridge 48
 
-B48 LIVE x THE GROOVE TELLERS #04 at Bridge 48 on Thu 3 Dec, Barcelona. 4 artists: Alfa Cornae, Cristaless, Freeka and Ross. See the line-up on soundcheck.
+B48 LIVE x THE GROOVE TELLERS #04 at Bridge 48 on Thu 3 Dec, Barcelona. 3 artists: Cristaless, Freeka and ROSS z. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,8 @@ B48 LIVE x THE GROOVE TELLERS #04 at Bridge 48 on Thu 3 Dec, Barcelona. 4 artist
 
 ## Line-up
 
-- Alfa Cornae
 - Cristaless
 - Freeka
-- Ross (1)
+- ROSS z
 
 *Source: [soundcheck](https://soundcheck.club/e/2591488-b48-live-x-the-groove-tellers-04-at-bridge-48/)*

@@ -1,6 +1,6 @@
 # Ventsislav Gendov
 
-Ventsislav Gendov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 4 Dec 2026.
+Ventsislav Gendov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mesmeric Sofia, Sofia on Fri, 4 Dec 2026.
 
 Ventsislav Gendov is a house and techno artist based in Bulgaria, with 36 gigs on soundcheck across Ibiza and Sofia. Often billed alongside velibor, Mario Milev and Raya. Next up: Mesmeric Sofia, Sofia on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ventsislav Gendov is a house and techno artist based in Bulgaria, with 36 gigs o
 
 velibor, Mario Milev, Raya (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ventsislavgendov/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ventsislavgendov/)*

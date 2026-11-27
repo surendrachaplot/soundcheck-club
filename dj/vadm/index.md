@@ -1,6 +1,6 @@
 # VADM
 
-VADM is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Red Ruby, Bali on Fri, 27 Nov 2026.
+VADM is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Red Ruby, Bali on Fri, 27 Nov 2026.
 
 VADM is a techno and progressive house artist based in Russia, with 79 gigs on soundcheck across Bali and Jakarta. Often billed alongside James Taylor (AU), Edger and Fran Tinez. Next up: Red Ruby, Bali on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ VADM is a techno and progressive house artist based in Russia, with 79 gigs on s
 
 James Taylor (AU), Edger, Fran Tinez
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vadm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vadm/)*

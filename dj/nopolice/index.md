@@ -1,6 +1,6 @@
 # No Police
 
-No Police is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Salon Daomé, Montreal on Sat, 28 Nov 2026.
+No Police is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Sat, 28 Nov 2026.
 
 No Police is a techno and trance artist based in Canada, with 61 gigs on soundcheck across Amsterdam, Berlin, Montreal and Paris and 3 more. Often billed alongside Corinita, Meen Moreen and Dopamyne. Next up: Salon Daomé, Montreal on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ No Police is a techno and trance artist based in Canada, with 61 gigs on soundch
 
 Corinita, Meen Moreen, Dopamyne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nopolice/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nopolice/)*

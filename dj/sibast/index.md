@@ -1,6 +1,6 @@
 # SIBAST
 
-SIBAST is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fitzroy, Berlin on Fri, 4 Dec 2026.
+SIBAST is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Fri, 4 Dec 2026.
 
 SIBAST is a techno and house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London and 1 more. Often billed alongside CRYME, BODYSHIFT and ANTHRAZIT. Next up: Fitzroy, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ SIBAST is a techno and house artist based in Germany, with 39 gigs on soundcheck
 
 CRYME, BODYSHIFT, ANTHRAZIT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibast/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibast/)*

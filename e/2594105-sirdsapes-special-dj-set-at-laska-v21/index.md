@@ -1,6 +1,6 @@
 # SIRDSAPES / Special DJ SET at Laska V21
 
-SIRDSAPES / Special DJ SET at Laska V21 on Sat 28 Nov, Riga. 1 artist: SIRDSAPES. Acid and Electro. See the line-up on soundcheck.
+SIRDSAPES / Special DJ SET at Laska V21 on Sat 28 Nov, Riga. 1 artist: SIRDSAPES. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

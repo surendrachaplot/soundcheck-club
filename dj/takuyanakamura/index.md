@@ -1,14 +1,13 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Opera House, Toronto on Thu, 26 Nov 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Subterranean, Chicago on Sat, 28 Nov 2026.
 
-Takuya Nakamura is a jungle and jazz artist based in Japan, with 125 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 43 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: The Opera House, Toronto on Thu 26 Nov.
+Takuya Nakamura is a jungle and jazz artist based in Japan, with 125 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 43 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Subterranean, Chicago on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | The Opera House | Toronto |
 | Sat, 28 Nov 2026 | Subterranean | Chicago |
 | Thu, 3 Dec 2026 | The Foundry | Philadelphia |
 | Sat, 5 Dec 2026 | Flash | Washington DC |
@@ -20,6 +19,7 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 125 gigs on sou
 
 ## Recently played
 
+- The Opera House, Toronto · Thu, 26 Nov 2026
 - Fonda Theatre, Los Angeles · Sat, 21 Nov 2026
 - Music Box, San Diego · Fri, 20 Nov 2026
 - Music Box, San Diego · Fri, 20 Nov 2026
@@ -27,10 +27,9 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 125 gigs on sou
 - Circolo Magnolia, Milan · Fri, 6 Nov 2026
 - The View From The Shard, London · Thu, 5 Nov 2026
 - The Limelight, Belfast · Fri, 30 Oct 2026
-- Sneaky Pete's, Edinburgh · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

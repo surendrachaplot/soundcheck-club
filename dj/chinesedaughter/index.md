@@ -1,6 +1,6 @@
 # Chinese Daughter
 
-Chinese Daughter is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Melkweg, Amsterdam on Fri, 27 Nov 2026.
+Chinese Daughter is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Melkweg, Amsterdam on Fri, 27 Nov 2026.
 
 Chinese Daughter is a jungle and drum & bass artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 16 more. Often billed alongside Benton (UK), Loefah and Darkstepper. Next up: Melkweg, Amsterdam on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Chinese Daughter is a jungle and drum & bass artist based in United Kingdom, wit
 
 Benton (UK), Loefah, Darkstepper
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*

@@ -1,6 +1,6 @@
 # eastern bloc presents: Residents All Night Long at Eastern Bloc Records
 
-eastern bloc presents: Residents All Night Long at Eastern Bloc Records on Fri 18 Dec, Manchester. 4 artists: Jim Bane, Kieran Jandu, KRS George and Means&3rd. Electronica. See the line-up on soundcheck.
+eastern bloc presents: Residents All Night Long at Eastern Bloc Records on Fri 18 Dec, Manchester. 5 artists: Jim Bane, Joseph Tunde, Kieran Jandu and KRS George and 1 more. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ eastern bloc presents: Residents All Night Long at Eastern Bloc Records on Fri 1
 ## Line-up
 
 - Jim Bane
+- Joseph Tunde
 - Kieran Jandu
 - KRS George
 - Means&3rd

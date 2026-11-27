@@ -1,6 +1,6 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
+Alex Neri is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
 
 Alex Neri is a house and techno artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside GNMR, Giammarco Orsini and Marcolino. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Alex Neri is a house and techno artist based in Italy, with 102 gigs on soundche
 
 GNMR, Giammarco Orsini, Marcolino
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*

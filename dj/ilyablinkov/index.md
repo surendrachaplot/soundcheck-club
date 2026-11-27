@@ -1,6 +1,6 @@
 # Ilya Blinkov
 
-Ilya Blinkov is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Dazi Milano, Milan on Sun, 22 Nov 2026.
+Ilya Blinkov is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dazi Milano, Milan on Sun, 22 Nov 2026.
 
 Ilya Blinkov is a house and tech house artist based in Lithuania, with 21 gigs on soundcheck across London and Milan. Often billed alongside Bridger Ryland, Deeetro and Funkelectric. Next up: Dazi Milano, Milan on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Ilya Blinkov is a house and tech house artist based in Lithuania, with 21 gigs o
 
 Bridger Ryland, Deeetro, Funkelectric
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyablinkov/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyablinkov/)*

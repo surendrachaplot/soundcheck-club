@@ -1,14 +1,13 @@
 # LUKAS & FRANK
 
-LUKAS & FRANK is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Liquid Room, Edinburgh on Wed, 25 Nov 2026.
+LUKAS & FRANK is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Clwd, Sofia on Fri, 27 Nov 2026.
 
-LUKAS & FRANK are an afro house and house duo based in Germany, with 15 gigs on soundcheck across Brighton, Düsseldorf, Edinburgh and Hamburg and 8 more. Often billed alongside Noel Holler. Next up: The Liquid Room, Edinburgh on Wed 25 Nov.
+LUKAS & FRANK are an afro house and house duo based in Germany, with 15 gigs on soundcheck across Brighton, Düsseldorf, Edinburgh and Hamburg and 8 more. Often billed alongside Noel Holler. Next up: Clwd, Sofia on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | The Liquid Room | Edinburgh |
 | Fri, 27 Nov 2026 | Clwd | Sofia |
 | Sat, 28 Nov 2026 | Theata | London |
 | Sat, 5 Dec 2026 | Café Schöne Aussichten (CSA) | Hamburg |
@@ -29,4 +28,4 @@ LUKAS & FRANK are an afro house and house duo based in Germany, with 15 gigs on 
 
 Noel Holler
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasfrank/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasfrank/)*

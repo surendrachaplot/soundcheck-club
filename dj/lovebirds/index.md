@@ -1,13 +1,14 @@
 # Lovebirds
 
-Lovebirds is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Metropolis, London on Thu, 31 Dec 2026.
+Lovebirds is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Metropolis, London on Thu, 31 Dec 2026.
 
-Lovebirds is a house and disco artist based in Germany, with 37 gigs on soundcheck across Adelaide, Bali, Berlin and Ibiza and 9 more. Often billed alongside Alexis Raphael, Carl Craig and DJ Holographic. Next up: Metropolis, London on Thu 31 Dec.
+Lovebirds is a house and disco artist based in Germany, with 38 gigs on soundcheck across Adelaide, Bali, Berlin and Ibiza and 9 more. Often billed alongside Alexis Raphael, Carl Craig and DJ Holographic. Next up: Metropolis, London on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Metropolis | London |
 | Thu, 31 Dec 2026 | Metropolis | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lovebirds is a house and disco artist based in Germany, with 37 gigs on soundche
 
 Alexis Raphael, Carl Craig, DJ Holographic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovebirds/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovebirds/)*

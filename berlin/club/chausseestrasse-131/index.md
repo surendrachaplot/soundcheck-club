@@ -1,6 +1,6 @@
 # Chausseestrasse 131
 
-Chausseestrasse 131 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "AVP1 X COORD AFTERPARTY" on Wed, 2 Dec 2026.
+Chausseestrasse 131 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "AVP1 X COORD AFTERPARTY" on Wed, 2 Dec 2026.
 
 Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Afonso Arrepia Ferreira, Arlanoa, Benua and Blck-Swan and 2 more. See dates, start times and who's playing. Chausseestrasse 131, 10115 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 4 upcoming 
 
 Chausseestrasse 131, 10115 Berlin, Germany, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*

@@ -1,6 +1,6 @@
 # DJ Matab
 
-DJ Matab is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
+DJ Matab is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
 
 DJ Matab is a disco and house artist based in Australia, with 15 gigs on soundcheck across Melbourne, Milan, Sydney and Tokyo. Often billed alongside Luqman, SELENA and AceMo. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DJ Matab is a disco and house artist based in Australia, with 15 gigs on soundch
 
 Luqman, SELENA, AceMo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*

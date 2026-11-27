@@ -1,6 +1,6 @@
 # Blackromeo
 
-Blackromeo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Munster Munch, London on Sat, 5 Dec 2026.
+Blackromeo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Munster Munch, London on Sat, 5 Dec 2026.
 
 Blackromeo is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Ben Dursley, Bezi and DJ 2C. Next up: Munster Munch, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Blackromeo is a house and tech house artist based in United Kingdom, with 16 gig
 
 Ben Dursley, Bezi, DJ 2C
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackromeo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackromeo/)*

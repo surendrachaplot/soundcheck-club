@@ -1,6 +1,6 @@
 # Azyr
 
-Azyr is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Azyr is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soun
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

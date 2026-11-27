@@ -1,6 +1,6 @@
 # Maslow Unknown
 
-Maslow Unknown is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Stage and Radio, Manchester on Sat, 20 Feb 2027.
+Maslow Unknown is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Stage and Radio, Manchester on Sat, 20 Feb 2027.
 
 Maslow Unknown is a house and deep house artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Brighton, Ibiza and Leeds and 5 more. Often billed alongside Bedfactory Records, Sway-B and Ashkaan. Next up: Stage and Radio, Manchester on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Maslow Unknown is a house and deep house artist based in United Kingdom, with 24
 
 Bedfactory Records, Sway-B, Ashkaan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maslowunknown/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maslowunknown/)*

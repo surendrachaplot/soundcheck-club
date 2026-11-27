@@ -1,6 +1,6 @@
 # Zurkin
 
-Zurkin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kibe, Batumi on Sat, 28 Nov 2026.
+Zurkin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kibe, Batumi on Sat, 28 Nov 2026.
 
 Zurkin is a house and techno artist based in Georgia, with 120 gigs on soundcheck across Barcelona, Batumi, Bergen and Berlin and 11 more. Often billed alongside Zitto, Gio Shengelia and Vakho. Next up: Kibe, Batumi on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Zurkin is a house and techno artist based in Georgia, with 120 gigs on soundchec
 
 Zitto, Gio Shengelia, Vakho
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*

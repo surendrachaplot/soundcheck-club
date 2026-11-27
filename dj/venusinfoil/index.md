@@ -1,6 +1,6 @@
 # Venus in Foil
 
-Venus in Foil is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Barbossa, Montreal on Fri, 27 Nov 2026.
+Venus in Foil is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Barbossa, Montreal on Fri, 27 Nov 2026.
 
 Venus in Foil is a techno and house artist based in Canada, with 113 gigs on soundcheck across Montreal, Pittsburgh and Toronto. Often billed alongside City Dance Corporation, Milch and MIASALAV. Next up: Barbossa, Montreal on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Venus in Foil is a techno and house artist based in Canada, with 113 gigs on sou
 
 City Dance Corporation, Milch (1), MIASALAV
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinfoil/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinfoil/)*

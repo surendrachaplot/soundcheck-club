@@ -1,6 +1,6 @@
 # Party Smith
 
-Party Smith is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Passevite, Lisbon on Sun, 6 Dec 2026.
+Party Smith is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Passevite, Lisbon on Sun, 6 Dec 2026.
 
 Party Smith is a techno and acid artist based in Portugal, with 16 gigs on soundcheck across Copenhagen and Lisbon. Often billed alongside Cionny, ELA Residents and Guy from 1990. Next up: Passevite, Lisbon on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Party Smith is a techno and acid artist based in Portugal, with 16 gigs on sound
 
 Cionny, ELA Residents, Guy from 1990
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partysmith/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/partysmith/)*

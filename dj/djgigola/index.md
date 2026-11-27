@@ -1,14 +1,15 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
+DJ Gigola is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
-DJ Gigola is a techno and house artist based in Germany, with 285 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 78 more. Often billed alongside MCR-T, Anetha and KI/KI. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
+DJ Gigola is a techno and house artist based in Germany, with 286 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 78 more. Often billed alongside MCR-T, Anetha and KI/KI. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
+| Sat, 5 Dec 2026 | YuYu Cine Club | Mexico City |
 | Fri, 11 Dec 2026 | BASEMENT | New York City |
 | Fri, 18 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -31,4 +32,4 @@ DJ Gigola is a techno and house artist based in Germany, with 285 gigs on soundc
 
 MCR-T, Anetha, KI/KI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

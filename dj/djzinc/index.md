@@ -1,8 +1,8 @@
 # DJ Zinc
 
-DJ Zinc is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+DJ Zinc is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
-DJ Zinc is a house and club artist based in United Kingdom, with 3 gigs on soundcheck across London, North Island and Perth. Often billed alongside 4am Kru, Andy C and Break. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
+DJ Zinc is a house and club artist based in United Kingdom, with 4 gigs on soundcheck across Austria, London, North Island and Perth. Often billed alongside 4am Kru, Andy C and Break. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Zinc is a house and club artist based in United Kingdom, with 3 gigs on sound
 | --- | --- | --- |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 | Fri, 1 Jan 2027 | Langley Park | Perth |
+| Thu, 4 Mar 2027 | Dom im Berg | Austria |
 
 ## Recently played
 
@@ -19,4 +20,4 @@ DJ Zinc is a house and club artist based in United Kingdom, with 3 gigs on sound
 
 4am Kru, Andy C, Break
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzinc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzinc/)*

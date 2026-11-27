@@ -1,6 +1,6 @@
 # Plaza Monumental de Barcelona
 
-Plaza Monumental de Barcelona is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA" on Sat, 28 Nov 2026.
+Plaza Monumental de Barcelona is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA" on Sat, 28 Nov 2026.
 
 Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Aurora Halal, Boys Noize, EYRA and Imox and 2 more. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España.
 
@@ -16,4 +16,4 @@ Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck
 
 Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España, Barcelona
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*

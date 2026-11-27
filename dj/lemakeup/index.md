@@ -1,6 +1,6 @@
 # Le Makeup
 
-Le Makeup is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at West Harlem, Kyoto on Fri, 11 Dec 2026.
+Le Makeup is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at West Harlem, Kyoto on Fri, 11 Dec 2026.
 
 Le Makeup is an electronica and house artist, with 30 gigs on soundcheck across Kyoto, Okinawa, Osaka and Tokyo. Often billed alongside Kazumichi Komatsu, Whatman and Dove (UK). Next up: West Harlem, Kyoto on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Le Makeup is an electronica and house artist, with 30 gigs on soundcheck across 
 
 Kazumichi Komatsu, Whatman, Dove (UK)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemakeup/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemakeup/)*

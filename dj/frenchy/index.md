@@ -1,6 +1,6 @@
 # Frenchy
 
-Frenchy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
+Frenchy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
 
 Frenchy is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Ibiza, Leeds, London and Manchester. Often billed alongside Robert James, Adam Nahalewicz and Dave Beer. Next up: Mint Warehouse, Leeds on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Frenchy is a house and tech house artist based in United Kingdom, with 22 gigs o
 
 Robert James, Adam Nahalewicz, Dave Beer
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchy/)*

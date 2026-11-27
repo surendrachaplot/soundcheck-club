@@ -1,6 +1,6 @@
 # Orson.NYC
 
-Orson.NYC is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elsewhere, New York City on Thu, 3 Dec 2026.
+Orson.NYC is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elsewhere, New York City on Thu, 3 Dec 2026.
 
 Orson.NYC is a house and disco artist based in France, with 54 gigs on soundcheck across New York City. Often billed alongside Anna Poduchi, DJ Erewhon and Alan Braxe. Next up: Elsewhere, New York City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Orson.NYC is a house and disco artist based in France, with 54 gigs on soundchec
 
 Anna Poduchi, DJ Erewhon, Alan Braxe
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orson.nyc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orson.nyc/)*

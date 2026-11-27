@@ -1,6 +1,6 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
+DJ SPORTSCHUH is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
 
 DJ SPORTSCHUH is a techno and house artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 16 more. Often billed alongside BNZN, Flavius (DE) and ATTA (GER). Next up: Gotec, Karlsruhe on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ DJ SPORTSCHUH is a techno and house artist based in Germany, with 142 gigs on so
 
 BNZN, Flavius (DE), ATTA (GER)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*

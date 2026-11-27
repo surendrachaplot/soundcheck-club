@@ -1,6 +1,6 @@
 # Manny (2)
 
-Manny (2) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Thu, 31 Dec 2026.
+Manny (2) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Thu, 31 Dec 2026.
 
 Manny is an electronica and house artist based in France, with 97 gigs on soundcheck across Ho Chi Minh City and Vietnam. Often billed alongside DESNUAGES, DJ Ouch! and MTXIII. Next up: Luu Bar, Ho Chi Minh City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Manny is an electronica and house artist based in France, with 97 gigs on soundc
 
 DESNUAGES, DJ Ouch!, MTXIII
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-2/)*

@@ -1,6 +1,6 @@
 # Saul Bliss
 
-Saul Bliss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Red Ruby, Bali on Fri, 27 Nov 2026.
+Saul Bliss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Red Ruby, Bali on Fri, 27 Nov 2026.
 
 Saul Bliss is a house and tech house artist, with 30 gigs on soundcheck across Bali and Perth. Often billed alongside James Taylor (AU), Fran Tinez and Scotty Cal. Next up: Red Ruby, Bali on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Saul Bliss is a house and tech house artist, with 30 gigs on soundcheck across B
 
 James Taylor (AU), Fran Tinez, Scotty Cal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saulbliss/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saulbliss/)*

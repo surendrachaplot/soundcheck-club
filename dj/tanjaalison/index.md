@@ -1,6 +1,6 @@
 # Tanja Alison
 
-Tanja Alison is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at MÄX, Zurich on Fri, 4 Dec 2026.
+Tanja Alison is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at MÄX, Zurich on Fri, 4 Dec 2026.
 
 Tanja Alison is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Basel, Berlin, Freiburg and Stuttgart and 1 more. Often billed alongside Galopp, KYLIE and Megix. Next up: MÄX, Zurich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tanja Alison is a techno and trance artist based in Germany, with 30 gigs on sou
 
 Galopp, KYLIE, Megix
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjaalison/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjaalison/)*

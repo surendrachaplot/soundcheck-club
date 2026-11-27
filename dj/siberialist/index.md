@@ -1,6 +1,6 @@
 # Siberialist
 
-Siberialist is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at underiolo, Warsaw on Fri, 27 Nov 2026.
+Siberialist is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at underiolo, Warsaw on Fri, 27 Nov 2026.
 
 Siberialist is a bass and techno artist based in Poland, with 10 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside DiV4, Donija and DJ SHOUT. Next up: underiolo, Warsaw on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Siberialist is a bass and techno artist based in Poland, with 10 gigs on soundch
 
 DiV4, Donija, DJ SHOUT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siberialist/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siberialist/)*

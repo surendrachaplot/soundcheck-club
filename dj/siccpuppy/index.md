@@ -1,6 +1,6 @@
 # Sicc Puppy
 
-Sicc Puppy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Escena, Mexico City on Sat, 5 Dec 2026.
+Sicc Puppy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Escena, Mexico City on Sat, 5 Dec 2026.
 
 Sicc Puppy is a techno and club artist, with 10 gigs on soundcheck across Austin, Dallas/Fort Worth, Houston and Mexico City. Often billed alongside Private Service, Abyss X and Akua. Next up: La Escena, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sicc Puppy is a techno and club artist, with 10 gigs on soundcheck across Austin
 
 Private Service, Abyss X, Akua
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siccpuppy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siccpuppy/)*

@@ -1,14 +1,15 @@
 # Tommy- (UK)
 
-Tommy- (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
+Tommy- (UK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at All My Friends, London on Sat, 12 Dec 2026.
 
-Tommy- (UK) is a house and techno artist, with 12 gigs on soundcheck across London. Often billed alongside Lesenburg, Darush and Dylan Pasqua. Next up: All My Friends, London on Sat 12 Dec.
+Tommy- (UK) is a house and techno artist, with 13 gigs on soundcheck across London. Often billed alongside Lesenburg, Darush and Dylan Pasqua. Next up: All My Friends, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | All My Friends | London |
+| Sat, 26 Dec 2026 | All My Friends | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tommy- (UK) is a house and techno artist, with 12 gigs on soundcheck across Lond
 
 Lesenburg, Darush, Dylan Pasqua
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-uk/)*

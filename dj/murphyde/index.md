@@ -1,6 +1,6 @@
 # Murphy (DE)
 
-Murphy (DE) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BAR NONE, Hamburg on Sat, 28 Nov 2026.
+Murphy (DE) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BAR NONE, Hamburg on Sat, 28 Nov 2026.
 
 Murphy (DE) is an electronica and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Estado De M Xico and Hamburg. Often billed alongside Najeh, Dizzy & Lance and ATTA (GER). Next up: BAR NONE, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Murphy (DE) is an electronica and house artist based in Germany, with 16 gigs on
 
 Najeh, Dizzy & Lance, ATTA (GER)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyde/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyde/)*

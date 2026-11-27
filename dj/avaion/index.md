@@ -1,6 +1,6 @@
 # AVAION
 
-AVAION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar v Krymský, Prague on Sat, 28 Nov 2026.
+AVAION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar v Krymský, Prague on Sat, 28 Nov 2026.
 
 AVAION is a techno and electro artist based in Germany, with 19 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 9 more. Often billed alongside Noel Holler, Cloudy and MARC WERNER. Next up: Bar v Krymský, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ AVAION is a techno and electro artist based in Germany, with 19 gigs on soundche
 
 Noel Holler, Cloudy, MARC WERNER
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*

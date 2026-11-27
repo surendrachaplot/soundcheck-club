@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Lobster Lounge brings the FUNK" on Fri, 27 Nov 2026.
+The Model is a music venue in Nottingham with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Lobster Lounge brings the FUNK" on Fri, 27 Nov 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, with line-ups including Anna Wall, CONFLICT BUREAU, dj come and Dylan Whicher and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -20,4 +20,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, 
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

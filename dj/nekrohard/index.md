@@ -1,6 +1,6 @@
 # Nekrohard
 
-Nekrohard is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at City Hall, Barcelona on Tue, 1 Dec 2026.
+Nekrohard is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at City Hall, Barcelona on Tue, 1 Dec 2026.
 
 Nekrohard is a progressive house and techno artist based in Spain, with 2 gigs on soundcheck across Barcelona and Malta. Often billed alongside Marixia, Philip Ackowsky and SLPZ. Next up: City Hall, Barcelona on Tue 1 Dec.
 
@@ -15,4 +15,4 @@ Nekrohard is a progressive house and techno artist based in Spain, with 2 gigs o
 
 Marixia, Philip Ackowsky, SLPZ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nekrohard/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nekrohard/)*

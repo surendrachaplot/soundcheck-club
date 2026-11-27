@@ -1,6 +1,6 @@
 # Pabels
 
-Pabels is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Pabels is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Pabels is a house and disco artist based in Argentina, with 81 gigs on soundcheck across Barcelona, Berlin, Brazil and Budapest and 20 more. Often billed alongside Dobao, JUNA and Pato Mallet. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Pabels is a house and disco artist based in Argentina, with 81 gigs on soundchec
 
 Dobao, JUNA, Pato Mallet
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabels/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pabels/)*

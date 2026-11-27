@@ -1,6 +1,6 @@
 # Jazz (AU)
 
-Jazz (AU) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
+Jazz (AU) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat, 28 Nov 2026.
 
 Jazz (AU) is a house and techno artist based in Australia, with 31 gigs on soundcheck across Bangkok, Berlin, Budapest and Hobart and 9 more. Often billed alongside Accent', ARTISAH and Ali Bilal. Next up: TBA - SPA FLOR DE LUZ, TASQUILLO,HIDALGO., Mexico City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Jazz (AU) is a house and techno artist based in Australia, with 31 gigs on sound
 
 Accent', ARTISAH, Ali Bilal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-au/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-au/)*

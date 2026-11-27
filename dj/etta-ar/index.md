@@ -1,6 +1,6 @@
 # ETTA!
 
-ETTA! is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+ETTA! is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
 ETTA! is a house and tech house artist based in Argentina, with 14 gigs on soundcheck across Buenos Aires and Mexico City. Often billed alongside Pato Mallet, Bermani and Alejandro Paz. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
@@ -27,4 +27,4 @@ ETTA! is a house and tech house artist based in Argentina, with 14 gigs on sound
 
 Pato Mallet, Bermani, Alejandro Paz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etta-ar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etta-ar/)*

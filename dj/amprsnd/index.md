@@ -1,6 +1,6 @@
 # AMPRS&ND
 
-AMPRS&ND is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 2 Dec 2026.
+AMPRS&ND is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 2 Dec 2026.
 
 AMPRS&ND is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across Chicago, Miami and San Francisco/Oakland. Often billed alongside n808, Syd Gris and Doc Brown. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 2 Dec.
 
@@ -27,4 +27,4 @@ AMPRS&ND is a house and tech house artist based in United States of America, wit
 
 n808, Syd Gris, Doc Brown
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amprsnd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amprsnd/)*

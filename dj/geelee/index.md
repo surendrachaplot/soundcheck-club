@@ -1,6 +1,6 @@
 # GEE LEE
 
-GEE LEE is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Thu, 3 Dec 2026.
+GEE LEE is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rex Club, Paris on Thu, 3 Dec 2026.
 
 GEE LEE is a house and garage artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside JACK MARLOW, salameh and Shaolin Cowboy. Next up: Rex Club, Paris on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ GEE LEE is a house and garage artist based in United Kingdom, with 56 gigs on so
 
 JACK MARLOW, salameh, Shaolin Cowboy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*

@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "AFTER O'CLOCK: CLAVD, JASON CASE, ALEX HALL" on Sat, 28 Nov 2026.
+Glazart is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "AFTER O'CLOCK: CLAVD, JASON CASE, ALEX HALL" on Sat, 28 Nov 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Azo, CLAVD, Digé m0m0 and Klaps and 2 more. See dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -17,4 +17,4 @@ Glazart is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with li
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

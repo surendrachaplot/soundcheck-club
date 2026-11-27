@@ -1,6 +1,6 @@
 # jose monsalve
 
-jose monsalve is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Outline, Mexico City on Wed, 25 Nov 2026.
+jose monsalve is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Outline, Mexico City on Wed, 25 Nov 2026.
 
 jose monsalve is a techno and electronica artist based in Colombia, with 25 gigs on soundcheck across Barcelona, Bergen, Berlin and Estado De M Xico and 4 more. Often billed alongside Jose M, Alejandro Franco and Espen Lauritzen. Next up: Outline, Mexico City on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ jose monsalve is a techno and electronica artist based in Colombia, with 25 gigs
 
 Jose M, Alejandro Franco, Espen Lauritzen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*

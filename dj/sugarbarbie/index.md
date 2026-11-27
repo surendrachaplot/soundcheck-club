@@ -1,6 +1,6 @@
 # Sugar Barbie
 
-Sugar Barbie is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Thu, 31 Dec 2026.
+Sugar Barbie is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sensorium, Berlin on Thu, 31 Dec 2026.
 
 Sugar Barbie is a club and r&b artist based in Germany, with 18 gigs on soundcheck across Berlin and Sydney. Often billed alongside Anthracene, Warlord® and Nyennea. Next up: Sensorium, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Sugar Barbie is a club and r&b artist based in Germany, with 18 gigs on soundche
 
 Anthracene, Warlord®, Nyennea
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarbarbie/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarbarbie/)*

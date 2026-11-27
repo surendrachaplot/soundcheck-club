@@ -1,6 +1,6 @@
 # Pye Corner Audio
 
-Pye Corner Audio is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vespers Club, London on Fri, 27 Nov 2026.
+Pye Corner Audio is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Vespers Club, London on Fri, 27 Nov 2026.
 
 Pye Corner Audio is an ambient and electronica artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona, Belfast, Berlin and Bristol and 7 more. Often billed alongside AERAE, ANAHITA and Al Wootton. Next up: Vespers Club, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Pye Corner Audio is an ambient and electronica artist based in United Kingdom, w
 
 AERAE, ANAHITA, Al Wootton
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyecorneraudio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyecorneraudio/)*

@@ -1,6 +1,6 @@
 # DJ HDGDL
 
-DJ HDGDL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mckr, Leipzig on Fri, 11 Dec 2026.
+DJ HDGDL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mckr, Leipzig on Fri, 11 Dec 2026.
 
 DJ HDGDL is a house and techno artist based in Germany, with 20 gigs on soundcheck across Bratislava, Leipzig, Munich and New York City and 2 more. Often billed alongside Anjin, Nikita von Tiraspol and Vincent Neumann. Next up: Mckr, Leipzig on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DJ HDGDL is a house and techno artist based in Germany, with 20 gigs on soundche
 
 Anjin, Nikita von Tiraspol, Vincent Neumann
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhdgdl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhdgdl/)*

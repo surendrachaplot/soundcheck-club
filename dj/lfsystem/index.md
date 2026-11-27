@@ -1,6 +1,6 @@
 # LF SYSTEM
 
-LF SYSTEM is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+LF SYSTEM is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 LF SYSTEM is a house and disco artist based in United Kingdom, with 147 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Austin and 45 more. Often billed alongside Eats Everything, Sonny Fodera and Solardo. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ LF SYSTEM is a house and disco artist based in United Kingdom, with 147 gigs on 
 
 Eats Everything, Sonny Fodera, Solardo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*

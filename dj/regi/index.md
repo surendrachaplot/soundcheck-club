@@ -1,6 +1,6 @@
 # Regi
 
-Regi is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 19 Dec 2026.
+Regi is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 19 Dec 2026.
 
 Regi is a house and electro artist based in Italy, with 5 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Plash, Fabio Santos and Ladrillovitz. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Regi is a house and electro artist based in Italy, with 5 gigs on soundcheck acr
 
 Plash, Fabio Santos, Ladrillovitz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regi/)*

@@ -1,6 +1,6 @@
 # Tjoget
 
-Tjoget is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Paley Recordings V/A Release Party" on Fri, 27 Nov 2026.
+Tjoget is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Paley Recordings V/A Release Party" on Fri, 27 Nov 2026.
 
 Tjoget is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including DJ Rawel and fatty acid. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tjoget is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Paley Recordings V/A Release Party | DJ Rawel, fatty acid |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tjoget/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tjoget/)*

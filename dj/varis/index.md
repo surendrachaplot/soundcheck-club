@@ -1,8 +1,8 @@
 # Varis
 
-Varis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Spook Club, Valencia on Sat, 19 Dec 2026.
+Varis is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Spook Club, Valencia on Sat, 19 Dec 2026.
 
-Varis is a house and tech house artist based in Spain, with 42 gigs on soundcheck across Barcelona, Berlin, Budapest and Helsinki and 2 more. Often billed alongside Pizzicatto, Pau Pérez and Sueezo. Next up: Spook Club, Valencia on Sat 19 Dec.
+Varis is a house and tech house artist based in Spain, with 43 gigs on soundcheck across Barcelona, Berlin, Budapest and Helsinki and 2 more. Often billed alongside Pizzicatto, Pau Pérez and Sueezo. Next up: Spook Club, Valencia on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Varis is a house and tech house artist based in Spain, with 42 gigs on soundchec
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Spook Club | Valencia |
 | Thu, 31 Dec 2026 | Spook Club | Valencia |
+| Fri, 1 Jan 2027 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Varis is a house and tech house artist based in Spain, with 42 gigs on soundchec
 
 Pizzicatto, Pau Pérez, Sueezo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*

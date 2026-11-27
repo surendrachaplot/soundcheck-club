@@ -1,6 +1,6 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Dusky: Signals Tour - Newcastle" on Fri, 27 Nov 2026.
+World Headquarters is a music venue in Newcastle with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Dusky: Signals Tour - Newcastle" on Fri, 27 Nov 2026.
 
 World Headquarters is a music venue in Newcastle listed on soundcheck. 12 upcoming gigs, with line-ups including adamgr, Dillinja, Diverge and Dusky and 2 more. See dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
@@ -23,4 +23,4 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 12 upcomi
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

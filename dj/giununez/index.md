@@ -1,6 +1,6 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Villa Alexandrino, Rio de Janeiro on Sat, 19 Dec 2026.
+Giu Nunez is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Villa Alexandrino, Rio de Janeiro on Sat, 19 Dec 2026.
 
 Giu Nunez is a house and disco artist based in Brazil, with 111 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brazil and 15 more. Often billed alongside Craig Ouar, Millos Kaiser and Carrot Green. Next up: Villa Alexandrino, Rio de Janeiro on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Giu Nunez is a house and disco artist based in Brazil, with 111 gigs on soundche
 
 Craig Ouar, Millos Kaiser, Carrot Green
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

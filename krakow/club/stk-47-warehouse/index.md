@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "2 Years of Citadel w/Brutal Forms" on Fri, 27 Nov 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "2 Years of Citadel w/Brutal Forms" on Fri, 27 Nov 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with line-ups including 3daywknd, Axel Karakasis, Forest (PL) and Kowa and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -20,4 +20,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming gig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

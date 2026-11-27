@@ -1,6 +1,6 @@
 # Eli Verveine
 
-Eli Verveine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hoppetosse, Berlin on Sun, 29 Nov 2026.
+Eli Verveine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Sun, 29 Nov 2026.
 
 Eli Verveine is a house and techno artist based in Switzerland, with 95 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 20 more. Often billed alongside Gwenan, Vera and Mind Against. Next up: Hoppetosse, Berlin on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Eli Verveine is a house and techno artist based in Switzerland, with 95 gigs on 
 
 Gwenan, Vera, Mind Against
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*

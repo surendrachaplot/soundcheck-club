@@ -1,8 +1,8 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
+Sonja Moonear is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
-Sonja Moonear is a house and techno artist based in Switzerland, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 67 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Mia Mao, Paris on Sat 28 Nov.
+Sonja Moonear is a house and techno artist based in Switzerland, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 67 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Mia Mao, Paris on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Sonja Moonear is a house and techno artist based in Switzerland, with 217 gigs o
 | Sun, 13 Dec 2026 | Klakaz | Athens |
 | Sat, 19 Dec 2026 | Postkantine | Basel |
 | Tue, 5 Jan 2027 | TBA - Aguaverde Wine Lodge  | Uruguay |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 | Sat, 29 May 2027 | The Pitt Market | Edinburgh |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 | Fri, 1 Oct 2027 | Chinois Ibiza | Ibiza |
@@ -35,4 +36,4 @@ Sonja Moonear is a house and techno artist based in Switzerland, with 217 gigs o
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

@@ -1,6 +1,6 @@
 # MERRY RAVE by RAYVE & REAL at Trojský Pivovar
 
-MERRY RAVE by RAYVE & REAL at Trojský Pivovar on Sat 12 Dec, Prague. 7 artists: DJames, Katrixia, MARS and SJ Yellow and 3 more. Techno. See the line-up on soundcheck.
+MERRY RAVE by RAYVE & REAL at Trojský Pivovar on Sat 12 Dec, Prague. 7 artists: DJames, Katrixia, MARS and SJ yellow and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ MERRY RAVE by RAYVE & REAL at Trojský Pivovar on Sat 12 Dec, Prague. 7 artists:
 - DJames (2)
 - Katrixia
 - MARS (4)
-- SJ Yellow
+- SJ yellow
 - Technadze
 - V!KK!
 - XENEA LUMRA

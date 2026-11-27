@@ -1,6 +1,6 @@
 # King Britt
 
-King Britt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at shyboy hifi, Dallas/Fort Worth on Fri, 27 Nov 2026.
+King Britt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at shyboy hifi, Dallas/Fort Worth on Fri, 27 Nov 2026.
 
 King Britt is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Charlotte, Dallas/Fort Worth, Detroit and Los Angeles and 6 more. Often billed alongside Carl Craig, DJ Holographic and DJ Noir. Next up: shyboy hifi, Dallas/Fort Worth on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ King Britt is a house and techno artist based in United States of America, with 
 
 Carl Craig, DJ Holographic, DJ Noir
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingbritt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingbritt/)*

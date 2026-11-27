@@ -1,6 +1,6 @@
 # HANICZ
 
-HANICZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Smolna, Warsaw on Sat, 28 Nov 2026.
+HANICZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Smolna, Warsaw on Sat, 28 Nov 2026.
 
 HANICZ is a techno and house artist based in Ukraine, with 63 gigs on soundcheck across Warsaw. Often billed alongside Mabu, KEVS and KoZa. Next up: Smolna, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ HANICZ is a techno and house artist based in Ukraine, with 63 gigs on soundcheck
 
 Mabu, KEVS, KoZa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanicz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanicz/)*

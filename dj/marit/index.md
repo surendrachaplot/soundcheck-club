@@ -1,6 +1,6 @@
 # Marit
 
-Marit is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
+Marit is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
 
 Marit is a house and techno artist based in Germany, with 43 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Habibi Grooves, Jana Falcon and maxim_jl. Next up: Zur Klappe, Berlin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Marit is a house and techno artist based in Germany, with 43 gigs on soundcheck 
 
 Habibi Grooves, Jana Falcon, maxim_jl
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marit/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marit/)*

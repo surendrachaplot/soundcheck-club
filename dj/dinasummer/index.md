@@ -1,6 +1,6 @@
 # Dina Summer
 
-Dina Summer is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hole44, Berlin on Fri, 5 Feb 2027.
+Dina Summer is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hole44, Berlin on Fri, 5 Feb 2027.
 
 Dina Summer is a new wave and ebm artist based in Germany, with 20 gigs on soundcheck across Berlin, Bogotá, Bologna and Frankfurt and 8 more. Often billed alongside Local Suicide, Kalipo and Skelesys. Next up: Hole44, Berlin on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Dina Summer is a new wave and ebm artist based in Germany, with 20 gigs on sound
 
 Local Suicide, Kalipo, Skelesys
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*

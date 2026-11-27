@@ -1,6 +1,6 @@
 # FANNY (SE)
 
-FANNY (SE) is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+FANNY (SE) is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 FANNY (SE) is a house and bass artist based in Sweden, with 33 gigs on soundcheck across Amsterdam, Barcelona, Gothenburg and London and 4 more. Often billed alongside MASSEILOT, Ms. Renegade and Adam Spielman. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ FANNY (SE) is a house and bass artist based in Sweden, with 33 gigs on soundchec
 
 MASSEILOT, Ms. Renegade, Adam Spielman
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fanny-se/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fanny-se/)*

@@ -1,6 +1,6 @@
 # EMN (1)
 
-EMN (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ctrllab Art House and Gallery, Montreal on Fri, 4 Dec 2026.
+EMN (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ctrllab Art House and Gallery, Montreal on Fri, 4 Dec 2026.
 
 EMN is a techno and trance artist based in China, with 6 gigs on soundcheck across Montreal. Often billed alongside P3CO, Boomy and HURIØN. Next up: Ctrllab Art House and Gallery, Montreal on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ EMN is a techno and trance artist based in China, with 6 gigs on soundcheck acro
 
 P3CO, Boomy, HURIØN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emn-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emn-1/)*

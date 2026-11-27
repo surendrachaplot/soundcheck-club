@@ -1,6 +1,6 @@
 # Cereza
 
-Cereza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Spirit, Pittsburgh on Fri, 11 Dec 2026.
+Cereza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Spirit, Pittsburgh on Fri, 11 Dec 2026.
 
 Cereza is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Mexico City and Pittsburgh. Often billed alongside Kiernan Laveaux, 30000AD and Alynment. Next up: Spirit, Pittsburgh on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Cereza is a techno and house artist based in United States of America, with 14 g
 
 Kiernan Laveaux, 30000AD, Alynment
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cereza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cereza/)*

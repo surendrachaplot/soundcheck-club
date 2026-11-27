@@ -1,6 +1,6 @@
 # Saliah
 
-Saliah is a Electro and Pop artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Buddies in Bad Times, Toronto on Fri, 27 Nov 2026.
+Saliah is a Electro and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Buddies in Bad Times, Toronto on Fri, 27 Nov 2026.
 
 Saliah is an electro and pop artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Berlin, Calgary and Dubai and 17 more. Often billed alongside MzRizk, Salam Kitty and Wake Island. Next up: Buddies in Bad Times, Toronto on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Saliah is an electro and pop artist based in United Kingdom, with 47 gigs on sou
 
 MzRizk, Salam Kitty, Wake Island
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saliah/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saliah/)*

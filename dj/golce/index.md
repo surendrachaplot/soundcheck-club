@@ -1,6 +1,6 @@
 # Golce
 
-Golce is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 27 Nov 2026.
+Golce is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 27 Nov 2026.
 
 Golce is a club and experimental artist based in Belgium, with 25 gigs on soundcheck across Brussels, Paris and Zurich. Often billed alongside fetva, DJ Music and Lisa More. Next up: Le Poisson Volant, Paris on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Golce is a club and experimental artist based in Belgium, with 25 gigs on soundc
 
 fetva, DJ Music, Lisa More
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golce/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golce/)*

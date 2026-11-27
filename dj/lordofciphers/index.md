@@ -1,6 +1,6 @@
 # Lord of Ciphers
 
-Lord of Ciphers is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mood Ring, New York City on Sun, 6 Dec 2026.
+Lord of Ciphers is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mood Ring, New York City on Sun, 6 Dec 2026.
 
 Lord of Ciphers is a garage and drum & bass artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Lovelydaze, samisosa and Sasha Rome. Next up: Mood Ring, New York City on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Lord of Ciphers is a garage and drum & bass artist based in United States of Ame
 
 Lovelydaze, samisosa, Sasha Rome
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofciphers/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofciphers/)*

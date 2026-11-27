@@ -1,6 +1,6 @@
 # Femme Jatale
 
-Femme Jatale is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 4 Dec 2026.
+Femme Jatale is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 Femme Jatale is a techno and club artist based in United States of America, with 36 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Profesito, Louie El Ser and Moonpie. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Femme Jatale is a techno and club artist based in United States of America, with
 
 Profesito, Louie El Ser, Moonpie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femmejatale/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femmejatale/)*

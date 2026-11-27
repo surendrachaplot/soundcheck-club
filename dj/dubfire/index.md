@@ -1,8 +1,8 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Universe Athens, Athens on Fri, 11 Dec 2026.
+Dubfire is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Universe Athens, Athens on Fri, 11 Dec 2026.
 
-Dubfire is a techno and house artist based in United States of America, with 182 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 64 more. Often billed alongside Anfisa Letyago, Joseph Capriati and Deep Dish. Next up: Universe Athens, Athens on Fri 11 Dec.
+Dubfire is a techno and house artist based in United States of America, with 183 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 65 more. Often billed alongside Anfisa Letyago, Deep Dish and Joseph Capriati. Next up: Universe Athens, Athens on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Dubfire is a techno and house artist based in United States of America, with 182
 | Fri, 12 Feb 2027 | TBA - Los Angeles | Los Angeles |
 | Sat, 13 Feb 2027 | Flash | Washington DC |
 | Fri, 19 Feb 2027 | Prysm Nightclub | Chicago |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Dubfire is a techno and house artist based in United States of America, with 182
 
 ## Shares bills with
 
-Anfisa Letyago, Joseph Capriati, Deep Dish
+Anfisa Letyago, Deep Dish, Joseph Capriati
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

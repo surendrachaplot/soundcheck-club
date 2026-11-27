@@ -1,6 +1,6 @@
 # Topper
 
-Topper is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hoppetosse, Berlin on Sat, 19 Dec 2026.
+Topper is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Sat, 19 Dec 2026.
 
 Topper is a house and minimal artist, with 94 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Hoppetosse, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Topper is a house and minimal artist, with 94 gigs on soundcheck across Bali, Ba
 
 Daniele Papini, Clovis, Triptease
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*

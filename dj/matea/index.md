@@ -1,6 +1,6 @@
 # MATEA
 
-MATEA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Universe Athens, Athens on Thu, 31 Dec 2026.
+MATEA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Universe Athens, Athens on Thu, 31 Dec 2026.
 
 MATEA is a techno and trance artist based in Greece, with 29 gigs on soundcheck across Athens and London. Often billed alongside Imperium, Deherian and Mariø. Next up: Universe Athens, Athens on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ MATEA is a techno and trance artist based in Greece, with 29 gigs on soundcheck 
 
 Imperium, Deherian, Mariø
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matea/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matea/)*

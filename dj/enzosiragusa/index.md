@@ -1,8 +1,8 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Enzo Siragusa is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Enzo Siragusa is a house and tech house artist based in United Kingdom, with 210 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Enzo Siragusa is a house and tech house artist based in United Kingdom, with 211 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 47 more. Often billed alongside Laidlaw, Traumer and Reeshy. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 210
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 | Sun, 27 Dec 2026 | Circuit | South-east |
 | Thu, 31 Dec 2026 | La Brisa | Bali |
+| Thu, 7 Jan 2027 | Banana Beach Club by Sollis 2.0 | Phuket |
 | Sat, 30 Jan 2027 | Thuishaven | Amsterdam |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
@@ -31,6 +32,6 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 210
 
 ## Shares bills with
 
-Laidlaw, Traumer, Rossi
+Laidlaw, Traumer, Reeshy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

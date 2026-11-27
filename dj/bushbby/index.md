@@ -1,8 +1,8 @@
 # Bushbby
 
-Bushbby is a Reggaeton and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 11 Dec 2026.
+Bushbby is a Reggaeton and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lubber Fiend, Newcastle on Fri, 11 Dec 2026.
 
-Bushbby is a reggaeton and latin bass artist, with 103 gigs on soundcheck across Barcelona, Bogotá, Bristol and Brussels and 11 more. Often billed alongside Papaoul, Arthi and CXLI. Next up: The Lubber Fiend, Newcastle on Fri 11 Dec.
+Bushbby is a reggaeton and latin bass artist, with 104 gigs on soundcheck across Barcelona, Bogotá, Bristol and Brussels and 11 more. Often billed alongside Papaoul, Arthi and CXLI. Next up: The Lubber Fiend, Newcastle on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bushbby is a reggaeton and latin bass artist, with 103 gigs on soundcheck across
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | The Lubber Fiend | Newcastle |
 | Sat, 12 Dec 2026 | Motel Campo | Geneva |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bushbby is a reggaeton and latin bass artist, with 103 gigs on soundcheck across
 
 Papaoul, Arthi, CXLI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*

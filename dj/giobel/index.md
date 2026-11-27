@@ -1,6 +1,6 @@
 # Giöbel
 
-Giöbel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 5 Dec 2026.
+Giöbel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 5 Dec 2026.
 
 Giöbel is a house and electro artist based in Sweden, with 11 gigs on soundcheck across Gothenburg and Sofia. Often billed alongside Baldor, Christian Séance and DINO. Next up: Ivans Pilsnerbar, Gothenburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Giöbel is a house and electro artist based in Sweden, with 11 gigs on soundchec
 
 Baldor, Christian Séance, DINO (3)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giobel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giobel/)*

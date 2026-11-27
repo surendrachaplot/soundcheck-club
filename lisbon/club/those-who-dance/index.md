@@ -1,6 +1,6 @@
 # Those Who Dance
 
-Those Who Dance is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Reverie: Art & Music Day Festival" on Sat, 5 Dec 2026.
+Those Who Dance is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Reverie: Art & Music Day Festival" on Sat, 5 Dec 2026.
 
 Those Who Dance is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Rebellion and Tension. See dates, start times and who's playing. Av. Infante Dom Henrique, Armazens 8 e 9.
 
@@ -14,4 +14,4 @@ Those Who Dance is a music venue in Lisbon listed on soundcheck. 1 upcoming gig,
 
 Av. Infante Dom Henrique, Armazens 8 e 9, Lisbon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/those-who-dance/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/those-who-dance/)*

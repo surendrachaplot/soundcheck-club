@@ -1,6 +1,6 @@
 # Plus x
 
-Plus x is a Electronica and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Shibuya Club Ball, Tokyo on Sat, 28 Nov 2026.
+Plus x is a Electronica and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shibuya Club Ball, Tokyo on Sat, 28 Nov 2026.
 
 Plus x is an electronica and jungle artist based in Germany, with 9 gigs on soundcheck across Bangkok, Cologne, Glasgow and London and 3 more. Often billed alongside Millz, 000 and 505 (Live). Next up: Shibuya Club Ball, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Plus x is an electronica and jungle artist based in Germany, with 9 gigs on soun
 
 Millz, 000, 505 (Live)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plusx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plusx/)*

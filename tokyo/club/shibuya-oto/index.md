@@ -1,6 +1,6 @@
 # Shibuya OTO
 
-Shibuya OTO is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "JAZZ'N'BASS D'n'B with a Jazz attitude" on Sat, 12 Dec 2026.
+Shibuya OTO is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "JAZZ'N'BASS D'n'B with a Jazz attitude" on Sat, 12 Dec 2026.
 
 Shibuya OTO is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Kenta Tominaga and vinylDJ Eiji Takehana. See dates, start times and who's playing. Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F.
 
@@ -14,4 +14,4 @@ Shibuya OTO is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with
 
 Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*

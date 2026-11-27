@@ -1,6 +1,6 @@
 # Ricky Corazón
 
-Ricky Corazón is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lavallée, Brussels on Thu, 31 Dec 2026.
+Ricky Corazón is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lavallée, Brussels on Thu, 31 Dec 2026.
 
 Ricky Corazón is a latin bass and reggaeton artist based in Chile, with 31 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Vera Moro, NMSS and VTT (BE). Next up: Lavallée, Brussels on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ricky Corazón is a latin bass and reggaeton artist based in Chile, with 31 gigs
 
 Vera Moro, NMSS, VTT (BE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*

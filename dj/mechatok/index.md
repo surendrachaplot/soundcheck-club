@@ -1,6 +1,6 @@
 # Mechatok
 
-Mechatok is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Sat, 28 Nov 2026.
+Mechatok is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Sat, 28 Nov 2026.
 
 Mechatok is an experimental and electro artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Oli XL, TOXE and Kamixlo. Next up: Copenhagen Contemporary, Copenhagen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mechatok is an experimental and electro artist based in Germany, with 81 gigs on
 
 Oli XL, TOXE, Kamixlo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*

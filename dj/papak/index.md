@@ -1,6 +1,6 @@
 # Papa K
 
-Papa K is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 25 Dec 2026.
+Papa K is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 25 Dec 2026.
 
 Papa K is a house and minimal artist based in Australia, with 38 gigs on soundcheck across Berlin. Often billed alongside Annina, Cyko and Jack Clark. Next up: Crack Bellmer, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Papa K is a house and minimal artist based in Australia, with 38 gigs on soundch
 
 Annina, Cyko, Jack Clark
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*

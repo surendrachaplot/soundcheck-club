@@ -1,6 +1,6 @@
 # Burak55
 
-Burak55 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
+Burak55 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
 
 Burak55 is a house and techno artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Alexej, JASHTECH and NELØ. Next up: 7th Heaven, Hamburg on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Burak55 is a house and techno artist based in Germany, with 8 gigs on soundcheck
 
 Alexej, JASHTECH, NELØ
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burak55/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burak55/)*

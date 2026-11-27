@@ -1,6 +1,6 @@
 # ANDREA SALVAGGIO
 
-ANDREA SALVAGGIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cocoricò, North on Sat, 26 Dec 2026.
+ANDREA SALVAGGIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cocoricò, North on Sat, 26 Dec 2026.
 
 ANDREA SALVAGGIO is a techno and house artist based in Italy, with 53 gigs on soundcheck across Barcelona, Bologna, Florence and London and 8 more. Often billed alongside Valerio Della Notte, Enrico Vivaldi and Test_One. Next up: Cocoricò, North on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ ANDREA SALVAGGIO is a techno and house artist based in Italy, with 53 gigs on so
 
 Valerio Della Notte, Enrico Vivaldi, Test_One
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasalvaggio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasalvaggio/)*

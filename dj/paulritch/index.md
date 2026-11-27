@@ -1,6 +1,6 @@
 # Paul Ritch
 
-Paul Ritch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sonorama, Medellin on Fri, 25 Dec 2026.
+Paul Ritch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sonorama, Medellin on Fri, 25 Dec 2026.
 
 Paul Ritch is a techno and house artist based in France, with 18 gigs on soundcheck across Bogotá, Hong Kong, Lisbon and London and 8 more. Often billed alongside Adrian Hex, STE-VÍ and Secret Raver. Next up: Sonorama, Medellin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Paul Ritch is a techno and house artist based in France, with 18 gigs on soundch
 
 Adrian Hex, STE-VÍ, Secret Raver
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulritch/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulritch/)*

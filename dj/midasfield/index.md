@@ -1,6 +1,6 @@
 # Midas Field
 
-Midas Field is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+Midas Field is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
 Midas Field is a house and tech house artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Dublin, Hamburg and Ibiza and 5 more. Often billed alongside Dam Swindle, Drabes and Laura Meester. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Midas Field is a house and tech house artist based in Netherlands, with 33 gigs 
 
 Dam Swindle, Drabes, Laura Meester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*

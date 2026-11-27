@@ -1,6 +1,6 @@
 # Juana
 
-Juana is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Brooklyn, New York City on Fri, 4 Dec 2026.
+Juana is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Brooklyn, New York City on Fri, 4 Dec 2026.
 
 Juana is a techno and house artist based in United States of America, with 141 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 15 more. Often billed alongside Ne/Re/A, Auspex and Concrete Husband. Next up: TBA - Brooklyn, New York City on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Juana is a techno and house artist based in United States of America, with 141 g
 
 Ne/Re/A, Auspex, Concrete Husband
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*

@@ -1,13 +1,14 @@
 # seko (HK)
 
-seko (HK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Hong Kong on Fri, 11 Dec 2026.
+seko (HK) is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Nulab Chengdu, Chengdu on Thu, 3 Dec 2026.
 
-seko (HK) is a techno and house artist, with 16 gigs on soundcheck across Chengdu, Hong Kong, Seoul and Tokyo. Often billed alongside Konnection, ADRIANNA.C and Dan-neo. Next up: TBA, Hong Kong on Fri 11 Dec.
+seko (HK) is a techno and bass artist, with 17 gigs on soundcheck across Chengdu, Hong Kong, Seoul and Tokyo. Often billed alongside Konnection, ADRIANNA.C and Dan-neo. Next up: Nulab Chengdu, Chengdu on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | Nulab Chengdu | Chengdu |
 | Fri, 11 Dec 2026 | TBA | Hong Kong |
 | Thu, 31 Dec 2026 | Acadana | Hong Kong |
 
@@ -26,4 +27,4 @@ seko (HK) is a techno and house artist, with 16 gigs on soundcheck across Chengd
 
 Konnection, ADRIANNA.C, Dan-neo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekohk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekohk/)*

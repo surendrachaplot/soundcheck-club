@@ -1,6 +1,6 @@
 # Alice Caroline
 
-Alice Caroline is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 10 Dec 2026.
+Alice Caroline is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 10 Dec 2026.
 
 Alice Caroline is a house and electro artist based in Ukraine, with 37 gigs on soundcheck across Barcelona, Bucharest, Buenos Aires and Paris. Often billed alongside Onna Boo, Sash (BCN) and TC80. Next up: 303 Audiophile Bar, Barcelona on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Alice Caroline is a house and electro artist based in Ukraine, with 37 gigs on s
 
 Onna Boo, Sash (BCN), TC80
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicecaroline/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicecaroline/)*

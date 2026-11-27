@@ -1,6 +1,6 @@
 # Akainu
 
-Akainu is a Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Restaurant MOS Cadaqués, Barcelona on Thu, 31 Dec 2026.
+Akainu is a Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Restaurant MOS Cadaqués, Barcelona on Thu, 31 Dec 2026.
 
 Akainu is an electronica artist based in Spain, with 13 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Katmandü, Acid Partners and Ale Hope. Next up: Restaurant MOS Cadaqués, Barcelona on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Akainu is an electronica artist based in Spain, with 13 gigs on soundcheck acros
 
 Katmandü, Acid Partners, Ale Hope
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akainu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akainu/)*

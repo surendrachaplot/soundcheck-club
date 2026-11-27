@@ -1,6 +1,6 @@
 # Niyah West
 
-Niyah West is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Nowadays, New York City on Fri, 18 Dec 2026.
+Niyah West is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Nowadays, New York City on Fri, 18 Dec 2026.
 
 Niyah West is a house and techno artist based in United States of America, with 115 gigs on soundcheck across Berlin, Copenhagen, Detroit and Los Angeles and 4 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: Nowadays, New York City on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Niyah West is a house and techno artist based in United States of America, with 
 
 DJ Shannon, theoretic, Kilopatrah Jones
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*

@@ -1,15 +1,13 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "THANKSGIVING EVE at Club Rawhide 11.25.26 w/ Michael Magnan, Stiletto, Caín Lima, Mixed Greens" on Wed, 25 Nov 2026.
+Club Rawhide is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Club Rawhide FRIDAY NIGHT 11.27.26 with Lauren Flax, Tommy Hart, Ben Wagner" on Fri, 27 Nov 2026.
 
-Club Rawhide is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Ben Wagner, Caín Lima, Gbenga and Joey with the Mustache and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Wagner, Gbenga, Joey with the Mustache and Lauren Flax and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | THANKSGIVING EVE at Club Rawhide 11.25.26 w/ Michael Magnan, Stiletto, Caín Lima, Mixed Greens | Caín Lima, Michael Magnan, Mixed Greens, Tory Stiletto |
-| Thu, 26 Nov 2026 | CODED Thursdays THANKSGIVING NIGHT 11.26.26 w/ LOFTUS, Tim Reyes | LOFTUS |
 | Fri, 27 Nov 2026 | Club Rawhide FRIDAY NIGHT 11.27.26 with Lauren Flax, Tommy Hart, Ben Wagner | Ben Wagner, Lauren Flax, Tommy Hart |
 | Sat, 28 Nov 2026 | Club Rawhide SATURDAY NIGHT 11.28.26 with Tom Peters, Gbenga, Jen DM | Gbenga, Tom Peters |
 | Sun, 29 Nov 2026 | LOVE SENSATION SUNDAYS 11.29.26 with Manny Ward, DJ LINA | Manny Ward |
@@ -23,4 +21,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 10 upcoming
 
 250 W 26TH ST, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

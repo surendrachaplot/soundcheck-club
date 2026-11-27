@@ -1,6 +1,6 @@
 # LATE C/O
 
-LATE C/O is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Athens on Sat, 12 Dec 2026.
+LATE C/O is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Athens on Sat, 12 Dec 2026.
 
 LATE C/O is a techno artist based in Greece, with 2 gigs on soundcheck across Athens. Often billed alongside Adam Des, Até. and Cirkle. Next up: TBA, Athens on Sat 12 Dec.
 
@@ -15,4 +15,4 @@ LATE C/O is a techno artist based in Greece, with 2 gigs on soundcheck across At
 
 Adam Des, Até., Cirkle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lateco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lateco/)*

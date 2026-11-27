@@ -1,6 +1,6 @@
 # Spike
 
-Spike is a Post-Punk and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Spike is a Post-Punk and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Spike is a post-punk and acid artist based in United Kingdom, with 8 gigs on soundcheck across London, Manchester, Taipei and Tokyo. Often billed alongside Doz, LACKSON and Akatsuki. Next up: The Cause, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Spike is a post-punk and acid artist based in United Kingdom, with 8 gigs on sou
 
 Doz (1), LACKSON, Akatsuki
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spike/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spike/)*

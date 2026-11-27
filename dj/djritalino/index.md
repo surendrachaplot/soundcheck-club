@@ -1,6 +1,6 @@
 # DJ ritalino
 
-DJ ritalino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+DJ ritalino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
 DJ ritalino is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Basel, Berlin, Dresden and Hannover and 5 more. Often billed alongside Desperate House Guy, ch4r20tte and :MUMM. Next up: ://about blank, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ ritalino is a techno and trance artist based in Germany, with 49 gigs on soun
 
 Desperate House Guy, ch4r20tte, :MUMM
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djritalino/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djritalino/)*

@@ -1,6 +1,6 @@
 # Hi-Ki
 
-Hi-Ki is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 4 Dec 2026.
+Hi-Ki is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 4 Dec 2026.
 
 Hi-Ki is an electronic artist based in Spain, with 17 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Alvva, Drea and JUMER. Next up: Razzmatazz, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Hi-Ki is an electronic artist based in Spain, with 17 gigs on soundcheck across 
 
 Alvva, Drea, JUMER
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-ki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-ki/)*

@@ -1,6 +1,6 @@
 # Quirin (DE)
 
-Quirin (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bootshaus, Cologne on Sat, 12 Dec 2026.
+Quirin (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Sat, 12 Dec 2026.
 
 Quirin (DE) is a techno and house artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Cologne and Munich. Often billed alongside Modul Kollektiv, Nothing But Love and Yubik. Next up: Bootshaus, Cologne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Quirin (DE) is a techno and house artist based in Germany, with 9 gigs on soundc
 
 Modul Kollektiv, Nothing But Love, Yubik
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*

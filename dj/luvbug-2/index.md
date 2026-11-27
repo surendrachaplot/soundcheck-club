@@ -1,6 +1,6 @@
 # LUVBUG (2)
 
-LUVBUG (2) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mahjong Bar, Toronto on Wed, 2 Dec 2026.
+LUVBUG (2) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mahjong Bar, Toronto on Wed, 2 Dec 2026.
 
 LUVBUG is a club and house artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, Emissive and FU3GO. Next up: Mahjong Bar, Toronto on Wed 2 Dec.
 
@@ -23,4 +23,4 @@ LUVBUG is a club and house artist based in Canada, with 7 gigs on soundcheck acr
 
 999ADJ, Emissive, FU3GO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luvbug-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luvbug-2/)*

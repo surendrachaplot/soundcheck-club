@@ -1,6 +1,6 @@
 # Magnolia
 
-Magnolia is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+Magnolia is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 Magnolia is a house and disco artist based in Switzerland, with 25 gigs on soundcheck across Amsterdam, Bristol, Chicago and London and 5 more. Often billed alongside Bustin' Loose, Sam Karlson and Tatiana. Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ Magnolia is a house and disco artist based in Switzerland, with 25 gigs on sound
 
 Bustin' Loose, Sam Karlson, Tatiana
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*

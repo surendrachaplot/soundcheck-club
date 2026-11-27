@@ -1,14 +1,14 @@
 # Baby G
 
-Baby G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Baby G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Miscellania, Melbourne on Sat, 12 Dec 2026.
 
-Baby G is a house and techno artist based in Australia, with 50 gigs on soundcheck across Hobart, London, Melbourne and New York City and 1 more. Often billed alongside DAWS, Bertie and Hannah D. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Baby G is a house and techno artist based in Australia, with 51 gigs on soundcheck across Hobart, London, Melbourne and New York City and 1 more. Often billed alongside DAWS, Bertie and Hannah D. Next up: Miscellania, Melbourne on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Sat, 12 Dec 2026 | Miscellania | Melbourne |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Baby G is a house and techno artist based in Australia, with 50 gigs on soundche
 
 DAWS, Bertie, Hannah D
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*

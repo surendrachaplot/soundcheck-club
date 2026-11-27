@@ -1,6 +1,6 @@
 # Atish
 
-Atish is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Harbor Island, San Diego on Thu, 31 Dec 2026.
+Atish is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Harbor Island, San Diego on Thu, 31 Dec 2026.
 
 Atish is a house and deep house artist based in United States of America, with 41 gigs on soundcheck across Berlin, Chicago, Denver and Los Angeles and 8 more. Often billed alongside Kora (CA), Nikita and Catori. Next up: Harbor Island, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Atish is a house and deep house artist based in United States of America, with 4
 
 Kora (CA), Nikita, Catori
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atish/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atish/)*

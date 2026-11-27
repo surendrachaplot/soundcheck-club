@@ -1,6 +1,6 @@
 # Inja
 
-Inja is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Nest, Nottingham on Sat, 28 Nov 2026.
+Inja is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Nest, Nottingham on Sat, 28 Nov 2026.
 
 Inja is a drum & bass and jungle artist based in United Kingdom, with 95 gigs on soundcheck across Antwerp, Atlanta, Auckland and Bangkok and 20 more. Often billed alongside Bladerunner, Kings of the Rollers and Carasel. Next up: The Nest, Nottingham on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Inja is a drum & bass and jungle artist based in United Kingdom, with 95 gigs on
 
 Bladerunner, Kings of the Rollers, Carasel
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inja/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inja/)*

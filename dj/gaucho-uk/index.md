@@ -1,6 +1,6 @@
 # Gaucho (UK)
 
-Gaucho (UK) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
+Gaucho (UK) is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
 
 Gaucho (UK) is a house and balearic artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Ben Gomori, Ariane V and Sarahtonin. Next up: 40ft Brewery - Blackhorse Road, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Gaucho (UK) is a house and balearic artist based in United Kingdom, with 18 gigs
 
 Ben Gomori, Ariane V, Sarahtonin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaucho-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaucho-uk/)*

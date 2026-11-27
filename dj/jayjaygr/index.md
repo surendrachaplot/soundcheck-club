@@ -1,6 +1,6 @@
 # jayjayGR
 
-jayjayGR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at AUX Club, Athens on Fri, 27 Nov 2026.
+jayjayGR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at AUX Club, Athens on Fri, 27 Nov 2026.
 
 jayjayGR is a house and techno artist based in Greece, with 40 gigs on soundcheck across Athens. Often billed alongside Stratos, Reign Of Time and MAN WITH THE SPEAKER. Next up: AUX Club, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ jayjayGR is a house and techno artist based in Greece, with 40 gigs on soundchec
 
 Stratos (2), Reign Of Time, MAN WITH THE SPEAKER
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*

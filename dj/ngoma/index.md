@@ -1,6 +1,6 @@
 # Ngoma
 
-Ngoma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
+Ngoma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
 
 Ngoma is a techno and bass artist based in United Kingdom, with 23 gigs on soundcheck across London, Manchester and Toronto. Often billed alongside Allius, Cersy and Channell. Next up: Bar Shrimp, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ngoma is a techno and bass artist based in United Kingdom, with 23 gigs on sound
 
 Allius, Cersy, Channell
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*

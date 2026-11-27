@@ -1,6 +1,6 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tomodachi, Ibiza on Sat, 28 Nov 2026.
+Hugo Martinez is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tomodachi, Ibiza on Sat, 28 Nov 2026.
 
 Hugo Martinez is a house and minimal artist based in Spain, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 14 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Tomodachi, Ibiza on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Hugo Martinez is a house and minimal artist based in Spain, with 88 gigs on soun
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

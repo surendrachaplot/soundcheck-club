@@ -1,6 +1,6 @@
 # MUSCLE ∞ BROTHERS
 
-MUSCLE ∞ BROTHERS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at R Lounge, Tokyo on Fri, 4 Dec 2026.
+MUSCLE ∞ BROTHERS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at R Lounge, Tokyo on Fri, 4 Dec 2026.
 
 MUSCLE ∞ BROTHERS is a techno and industrial artist based in United Kingdom, with 22 gigs on soundcheck across Tokyo. Often billed alongside EVE, EMILIO and KAMIKAZE. Next up: R Lounge, Tokyo on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ MUSCLE ∞ BROTHERS is a techno and industrial artist based in United Kingdom, w
 
 EVE (1), EMILIO (3), KAMIKAZE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muscle8brothers/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muscle8brothers/)*

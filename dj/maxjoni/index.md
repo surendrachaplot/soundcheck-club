@@ -1,6 +1,6 @@
 # Max Joni
 
-Max Joni is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+Max Joni is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 Max Joni is a techno and house artist, with 25 gigs on soundcheck across Berlin, Brussels, Frankfurt and Hamburg and 2 more. Often billed alongside MUKKIMIAU, ONNI and LIZZN. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Max Joni is a techno and house artist, with 25 gigs on soundcheck across Berlin,
 
 MUKKIMIAU, ONNI, LIZZN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjoni/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjoni/)*

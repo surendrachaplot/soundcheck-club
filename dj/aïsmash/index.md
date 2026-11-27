@@ -1,6 +1,6 @@
 # Aï Smash
 
-Aï Smash is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Super7, Lyon on Sat, 28 Nov 2026.
+Aï Smash is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Super7, Lyon on Sat, 28 Nov 2026.
 
 Aï Smash is a house and balearic artist based in France, with 10 gigs on soundcheck across Bordeaux, Lyon and Paris. Often billed alongside Owlshake, Donna Gibson and Giu Nunez. Next up: Super7, Lyon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Aï Smash is a house and balearic artist based in France, with 10 gigs on soundc
 
 Owlshake, Donna Gibson, Giu Nunez
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aïsmash/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aïsmash/)*

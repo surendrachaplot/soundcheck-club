@@ -1,6 +1,6 @@
 # KRISTUS
 
-KRISTUS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Das Werk, Vienna on Sat, 28 Nov 2026.
+KRISTUS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Das Werk, Vienna on Sat, 28 Nov 2026.
 
 KRISTUS is a techno and industrial artist based in Austria, with 2 gigs on soundcheck across Vienna. Often billed alongside Bluest, Dj Wifi and LUZZT. Next up: Das Werk, Vienna on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ KRISTUS is a techno and industrial artist based in Austria, with 2 gigs on sound
 
 Bluest, Dj Wifi (3), LUZZT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristus/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristus/)*

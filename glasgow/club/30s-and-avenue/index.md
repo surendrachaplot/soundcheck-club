@@ -1,6 +1,6 @@
 # 30s And Avenue
 
-30s And Avenue is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "HWFG & 30s & Avenue" on Fri, 27 Nov 2026.
+30s And Avenue is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "HWFG & 30s & Avenue" on Fri, 27 Nov 2026.
 
 30s And Avenue is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | HWFG & 30s & Avenue |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/30s-and-avenue/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/30s-and-avenue/)*

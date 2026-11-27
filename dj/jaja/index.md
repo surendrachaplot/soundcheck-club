@@ -1,6 +1,6 @@
 # JA JA
 
-JA JA is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Panaf Night Club, Osaka on Sat, 12 Dec 2026.
+JA JA is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Panaf Night Club, Osaka on Sat, 12 Dec 2026.
 
 JA JA is a techno and deep house artist based in France, with 8 gigs on soundcheck across Berlin, Brussels and Osaka. Often billed alongside Cez, Michel7000 and Andrea Ferlin. Next up: Panaf Night Club, Osaka on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ JA JA is a techno and deep house artist based in France, with 8 gigs on soundche
 
 Cez (1), Michel7000, Andrea Ferlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaja/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaja/)*

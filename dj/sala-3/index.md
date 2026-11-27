@@ -1,6 +1,6 @@
 # Sala (3)
 
-Sala (3) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Post Bar, Helsinki on Fri, 11 Dec 2026.
+Sala (3) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Post Bar, Helsinki on Fri, 11 Dec 2026.
 
 Sala is a house and techno artist based in Finland, with 21 gigs on soundcheck across Helsinki and Oslo. Often billed alongside Saint Nia, babybel and KOFU. Next up: Post Bar, Helsinki on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Sala is a house and techno artist based in Finland, with 21 gigs on soundcheck a
 
 Saint Nia, babybel, KOFU
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sala-3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sala-3/)*

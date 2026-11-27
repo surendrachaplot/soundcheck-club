@@ -1,8 +1,8 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
+Doudou MD is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ANTIA, Netherlands on Fri, 27 Nov 2026.
 
-Doudou MD is a house and techno artist based in Netherlands, with 245 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 60 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: ANTIA, Netherlands on Fri 27 Nov.
+Doudou MD is a house and techno artist based in Netherlands, with 246 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 60 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: ANTIA, Netherlands on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Doudou MD is a house and techno artist based in Netherlands, with 245 gigs on so
 | Sun, 6 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 11 Dec 2026 | Basic Club | Naples |
 | Sat, 26 Dec 2026 | CLUB RAUM | Amsterdam |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 | Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -33,4 +34,4 @@ Doudou MD is a house and techno artist based in Netherlands, with 245 gigs on so
 
 Samuel Deep, DJ Senc, Cap
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

@@ -1,6 +1,6 @@
 # Sammy Sanchez
 
-Sammy Sanchez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Collingwood Basement, Melbourne on Sat, 5 Dec 2026.
+Sammy Sanchez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Collingwood Basement, Melbourne on Sat, 5 Dec 2026.
 
 Sammy Sanchez is a house and disco artist based in Australia, with 24 gigs on soundcheck across Melbourne. Often billed alongside Freddy Gardens, Proto-Exotica and Princey. Next up: Collingwood Basement, Melbourne on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sammy Sanchez is a house and disco artist based in Australia, with 24 gigs on so
 
 Freddy Gardens, Proto-Exotica, Princey
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammysanchez/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammysanchez/)*

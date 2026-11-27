@@ -1,6 +1,6 @@
 # Vitor Kurc
 
-Vitor Kurc is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+Vitor Kurc is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 Vitor Kurc is a house and disco artist based in Brazil, with 19 gigs on soundcheck across Brazil, Lisbon and Sao Paulo. Often billed alongside UBUNTO, AmadoPeace and Diogo Strausz. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Vitor Kurc is a house and disco artist based in Brazil, with 19 gigs on soundche
 
 UBUNTO, AmadoPeace, Diogo Strausz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorkurc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorkurc/)*

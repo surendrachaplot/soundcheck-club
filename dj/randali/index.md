@@ -1,6 +1,6 @@
 # Randali
 
-Randali is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 25 Club, Hamburg on Fri, 11 Dec 2026.
+Randali is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 25 Club, Hamburg on Fri, 11 Dec 2026.
 
 Randali is a techno and house artist based in Germany, with 54 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Nikiija and Sabura. Next up: 25 Club, Hamburg on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Randali is a techno and house artist based in Germany, with 54 gigs on soundchec
 
 Konfusia, Nikiija, Sabura
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*

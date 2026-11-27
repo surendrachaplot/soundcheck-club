@@ -1,6 +1,6 @@
 # Daya Dadlani
 
-Daya Dadlani is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempo, Madrid on Sun, 29 Nov 2026.
+Daya Dadlani is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempo, Madrid on Sun, 29 Nov 2026.
 
 Daya Dadlani is a house and electronica artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Iker Lobo, Álvaro Naive and Alex Sosa. Next up: Tempo, Madrid on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Daya Dadlani is a house and electronica artist based in Spain, with 14 gigs on s
 
 Iker Lobo, Álvaro Naive, Alex Sosa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayadadlani/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayadadlani/)*

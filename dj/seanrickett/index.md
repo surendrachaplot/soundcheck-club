@@ -1,6 +1,6 @@
 # Sean Rickett
 
-Sean Rickett is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
+Sean Rickett is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
 
 Sean Rickett is a techno and house artist based in Malta, with 30 gigs on soundcheck across Malta. Often billed alongside Acidulant, Gordon Flash and Manthrax. Next up: Groove Gardens, Malta on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Sean Rickett is a techno and house artist based in Malta, with 30 gigs on soundc
 
 Acidulant, Gordon Flash, Manthrax
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrickett/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrickett/)*

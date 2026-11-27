@@ -1,6 +1,6 @@
 # Hagop Tchaparian
 
-Hagop Tchaparian is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 2 Jan 2027.
+Hagop Tchaparian is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 2 Jan 2027.
 
 Hagop Tchaparian is a house and electronica artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, Brussels, Dublin and London and 4 more. Often billed alongside Four Tet, Anish Kumar and 4am Kru. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Hagop Tchaparian is a house and electronica artist based in United Kingdom, with
 
 Four Tet, Anish Kumar, 4am Kru
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hagoptchaparian/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hagoptchaparian/)*

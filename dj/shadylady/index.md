@@ -1,6 +1,6 @@
 # Shady Lady
 
-Shady Lady is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NAR, Utrecht on Sun, 27 Dec 2026.
+Shady Lady is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NAR, Utrecht on Sun, 27 Dec 2026.
 
 Shady Lady is a house and disco artist based in Australia, with 68 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 6 more. Often billed alongside DJ Tracksuit, MMIV and Huck Finn. Next up: NAR, Utrecht on Sun 27 Dec.
 
@@ -26,4 +26,4 @@ Shady Lady is a house and disco artist based in Australia, with 68 gigs on sound
 
 DJ Tracksuit, MMIV, Huck Finn
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylady/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylady/)*

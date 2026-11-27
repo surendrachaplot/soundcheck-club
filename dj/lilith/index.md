@@ -1,14 +1,15 @@
 # Lilith
 
-Lilith is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Fri, 27 Nov 2026.
+Lilith is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rex Club, Paris on Fri, 27 Nov 2026.
 
-Lilith is a techno and industrial artist based in Netherlands, with 34 gigs on soundcheck across Birmingham, Chengdu, Chongqing and Dundee and 7 more. Often billed alongside pretzelz, ARTISAH and Bleach. Next up: Rex Club, Paris on Fri 27 Nov.
+Lilith is a techno and industrial artist based in Netherlands, with 35 gigs on soundcheck across Atlanta, Birmingham, Chengdu and Chongqing and 8 more. Often billed alongside pretzelz, ARTISAH and Bleach. Next up: Rex Club, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Rex Club | Paris |
+| Thu, 17 Dec 2026 | Pisces | Atlanta |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lilith is a techno and industrial artist based in Netherlands, with 34 gigs on s
 
 pretzelz, ARTISAH, Bleach
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith/)*

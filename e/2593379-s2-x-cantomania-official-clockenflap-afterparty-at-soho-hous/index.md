@@ -1,6 +1,6 @@
 # S2 x Cantomania: Official Clockenflap Afterparty at Soho House Hong Kong
 
-S2 x Cantomania: Official Clockenflap Afterparty at Soho House Hong Kong on Sat 5 Dec, Hong Kong. 3 artists: 1908, Fold and GONG!. Bass and Garage. See the line-up on soundcheck.
+S2 x Cantomania: Official Clockenflap Afterparty at Soho House Hong Kong on Sat 5 Dec, Hong Kong. 4 artists: 1908, DJ Fabsabs, Fold and GONG!. Bass and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ S2 x Cantomania: Official Clockenflap Afterparty at Soho House Hong Kong on Sat 
 ## Line-up
 
 - 1908
+- DJ Fabsabs
 - Fold
 - GONG!
 

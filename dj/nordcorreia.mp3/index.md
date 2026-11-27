@@ -1,6 +1,6 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 27 Nov 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 27 Nov 2026.
 
 nordcorreia.mp3 is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 9 more. Often billed alongside Amøn, LSG and DICE. Next up: Central Sector Tirana, Tirana on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ nordcorreia.mp3 is a techno and trance artist based in Germany, with 64 gigs on 
 
 Amøn, LSG, DICE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

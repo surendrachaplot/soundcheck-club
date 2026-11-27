@@ -1,6 +1,6 @@
 # Seviliya
 
-Seviliya is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sensorium, Berlin on Thu, 31 Dec 2026.
+Seviliya is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sensorium, Berlin on Thu, 31 Dec 2026.
 
 Seviliya is a club and r&b artist based in Ukraine, with 16 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Oleg Deluxe, Warlord® and e03. Next up: Sensorium, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Seviliya is a club and r&b artist based in Ukraine, with 16 gigs on soundcheck a
 
 Oleg Deluxe, Warlord®, e03 (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seviliya/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seviliya/)*

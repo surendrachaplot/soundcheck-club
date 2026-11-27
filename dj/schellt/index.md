@@ -1,6 +1,6 @@
 # SCHELLT
 
-SCHELLT is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 1201 Franklin St, Vancouver on Sat, 5 Dec 2026.
+SCHELLT is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 1201 Franklin St, Vancouver on Sat, 5 Dec 2026.
 
 SCHELLT is a techno and industrial artist based in Ukraine, with 86 gigs on soundcheck across Berlin, Bucharest, Gdansk and Hamburg and 8 more. Often billed alongside VRAXX, Józef Keuner and ERNST (UA). Next up: 1201 Franklin St, Vancouver on Sat 5 Dec.
 
@@ -30,4 +30,4 @@ SCHELLT is a techno and industrial artist based in Ukraine, with 86 gigs on soun
 
 VRAXX, Józef Keuner, ERNST (UA)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*

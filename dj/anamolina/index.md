@@ -1,6 +1,6 @@
 # Ana Molina
 
-Ana Molina is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
+Ana Molina is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zur Klappe, Berlin on Fri, 27 Nov 2026.
 
 Ana Molina is a house and disco artist based in Spain, with 28 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Black Loops, Emanuele Barilli and Ruff Stuff. Next up: Zur Klappe, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Ana Molina is a house and disco artist based in Spain, with 28 gigs on soundchec
 
 Black Loops, Emanuele Barilli, Ruff Stuff
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anamolina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anamolina/)*

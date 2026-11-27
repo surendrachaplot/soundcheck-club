@@ -1,6 +1,6 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Art Club, Houston on Fri, 27 Nov 2026.
+Yamagucci is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Art Club, Houston on Fri, 27 Nov 2026.
 
 Yamagucci is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Adam Ten, BLOND:ISH and Bontan. Next up: Art Club, Houston on Fri 27 Nov.
 
@@ -29,4 +29,4 @@ Yamagucci is a house and techno artist based in United States of America, with 7
 
 Adam Ten, BLOND:ISH, Bontan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*

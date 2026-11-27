@@ -1,6 +1,6 @@
 # Chris Mantanz
 
-Chris Mantanz is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 25 Club, Hamburg on Fri, 11 Dec 2026.
+Chris Mantanz is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 25 Club, Hamburg on Fri, 11 Dec 2026.
 
 Chris Mantanz is a techno artist, with 14 gigs on soundcheck across Hamburg. Often billed alongside Arne Stolt, Cascas and LUZIFA. Next up: 25 Club, Hamburg on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Chris Mantanz is a techno artist, with 14 gigs on soundcheck across Hamburg. Oft
 
 Arne Stolt, Cascas, LUZIFA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismantanz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismantanz/)*

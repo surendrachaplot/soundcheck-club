@@ -1,6 +1,6 @@
 # Bethany (1)
 
-Bethany (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
+Bethany (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
 
 Bethany is a house and techno artist based in Australia, with 29 gigs on soundcheck across Melbourne and Tokyo. Often billed alongside HAUSWiFE, JOVE and Auramatic. Next up: ark (Melb), Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bethany is a house and techno artist based in Australia, with 29 gigs on soundch
 
 HAUSWiFE, JOVE, Auramatic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bethany-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bethany-1/)*

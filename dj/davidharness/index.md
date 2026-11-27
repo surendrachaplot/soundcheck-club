@@ -1,6 +1,6 @@
 # David Harness
 
-David Harness is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
+David Harness is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
 
 David Harness is a house and deep house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Detroit, Lisbon and London and 6 more. Often billed alongside Homero Espinosa, DJ M3 and nina sol. Next up: The Bellwether, Los Angeles on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ David Harness is a house and deep house artist based in United States of America
 
 Homero Espinosa, DJ M3, nina sol
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*

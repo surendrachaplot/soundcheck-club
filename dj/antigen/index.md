@@ -1,6 +1,6 @@
 # Antigen
 
-Antigen is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
+Antigen is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
 
 Antigen is a techno and trance artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Edinburgh, Freiburg and Glasgow and 3 more. Often billed alongside Teknofobia, LILLI & 4LOVE and dasstudach. Next up: Gotec, Karlsruhe on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Antigen is a techno and trance artist based in United Kingdom, with 32 gigs on s
 
 Teknofobia, LILLI & 4LOVE, dasstudach
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antigen/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antigen/)*

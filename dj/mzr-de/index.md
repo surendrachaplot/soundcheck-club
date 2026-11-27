@@ -1,6 +1,6 @@
 # MZR
 
-MZR is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
+MZR is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Stockholm on Fri, 4 Dec 2026.
 
 MZR is a techno and tech house artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Berlin, Budapest and Florence and 8 more. Often billed alongside KETCH, no.name (IT) and Maris Shilton. Next up: TBA - Secret Location, Stockholm on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ MZR is a techno and tech house artist based in Germany, with 53 gigs on soundche
 
 KETCH, no.name (IT), Maris Shilton
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mzr-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mzr-de/)*

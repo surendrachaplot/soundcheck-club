@@ -1,6 +1,6 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Asdeoccidente, Colombia on Fri, 27 Nov 2026.
+Nic Fanciulli is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Asdeoccidente, Colombia on Fri, 27 Nov 2026.
 
 Nic Fanciulli is a house and tech house artist based in United Kingdom, with 219 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 52 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Asdeoccidente, Colombia on Fri 27 Nov.
 
@@ -30,4 +30,4 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, with 219
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

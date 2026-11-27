@@ -1,6 +1,6 @@
 # Mike Incillo
 
-Mike Incillo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zuzu, Boston on Fri, 27 Nov 2026.
+Mike Incillo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zuzu, Boston on Fri, 27 Nov 2026.
 
 Mike Incillo is a house and techno artist based in United States of America, with 4 gigs on soundcheck across Boston, Connecticut and New York City. Often billed alongside Ryan Manta, A$HLEY and ANDROMEDA. Next up: Zuzu, Boston on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Mike Incillo is a house and techno artist based in United States of America, wit
 
 Ryan Manta, A$HLEY, ANDROMEDA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeincillo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeincillo/)*

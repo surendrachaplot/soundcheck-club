@@ -1,6 +1,6 @@
 # Boylan
 
-Boylan is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
+Boylan is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
 
 Boylan is a dubstep and grime artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Berlin, Leeds and London and 2 more. Often billed alongside Trends, SGT Pokes and Slimzee. Next up: Kizuna, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Boylan is a dubstep and grime artist based in United Kingdom, with 13 gigs on so
 
 Trends, SGT Pokes, Slimzee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boylan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boylan/)*

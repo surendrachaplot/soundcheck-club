@@ -1,6 +1,6 @@
 # Dr. Dickey
 
-Dr. Dickey is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Velvet, Berlin on Fri, 4 Dec 2026.
+Dr. Dickey is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blue Velvet, Berlin on Fri, 4 Dec 2026.
 
 Dr. Dickey is a hardcore and gabber artist based in Belgium, with 10 gigs on soundcheck across Amsterdam, Berlin and Brussels. Often billed alongside Gabybaby, Neutralised and PIPA DE MA$$A. Next up: Blue Velvet, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dr. Dickey is a hardcore and gabber artist based in Belgium, with 10 gigs on sou
 
 Gabybaby, Neutralised, PIPA DE MA$$A
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.dickey/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.dickey/)*

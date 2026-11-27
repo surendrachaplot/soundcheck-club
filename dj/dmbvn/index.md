@@ -1,6 +1,6 @@
 # dMb (VN)
 
-dMb (VN) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Unmute, Hanoi on Fri, 4 Dec 2026.
+dMb (VN) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Unmute, Hanoi on Fri, 4 Dec 2026.
 
 dMb (VN) is a techno and house artist based in Vietnam, with 55 gigs on soundcheck across Hanoi. Often billed alongside Kway, Yang (VN) and Komga. Next up: Unmute, Hanoi on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ dMb (VN) is a techno and house artist based in Vietnam, with 55 gigs on soundche
 
 Kway, Yang (VN), Komga
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmbvn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmbvn/)*

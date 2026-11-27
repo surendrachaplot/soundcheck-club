@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kino Roland, Zurich on Fri, 27 Nov 2026.
+Optimo (Espacio) is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kino Roland, Zurich on Fri, 27 Nov 2026.
 
 Optimo (Espacio) is a house and techno artist based in United Kingdom, with 204 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Daniel Avery, HAAi and Erol Alkan. Next up: Kino Roland, Zurich on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 204 
 
 Daniel Avery, HAAi, Erol Alkan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

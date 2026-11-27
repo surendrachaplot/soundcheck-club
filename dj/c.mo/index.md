@@ -1,6 +1,6 @@
 # C.MØ
 
-C.MØ is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Mon, 7 Dec 2026.
+C.MØ is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Mon, 7 Dec 2026.
 
 C.MØ is a techno and electro artist based in Spain, with 26 gigs on soundcheck across Barcelona. Often billed alongside Arildo, Jo-Sie and DENA (IT). Next up: Macarena Club, Barcelona on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ C.MØ is a techno and electro artist based in Spain, with 26 gigs on soundcheck 
 
 Arildo, Jo-Sie, DENA (IT)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.mo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.mo/)*

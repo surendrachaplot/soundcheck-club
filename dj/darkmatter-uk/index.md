@@ -1,6 +1,6 @@
 # Dark Matter
 
-Dark Matter is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Strand DC, Washington DC on Fri, 27 Nov 2026.
+Dark Matter is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Strand DC, Washington DC on Fri, 27 Nov 2026.
 
 Dark Matter is a techno and industrial artist based in United Kingdom, with 11 gigs on soundcheck across Chicago, Detroit, Finland and London and 4 more. Often billed alongside FØSS, Julia Kova and IGDA. Next up: Strand DC, Washington DC on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Dark Matter is a techno and industrial artist based in United Kingdom, with 11 g
 
 FØSS, Julia Kova, IGDA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmatter-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmatter-uk/)*

@@ -1,6 +1,6 @@
 # DJ Hockey
 
-DJ Hockey is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Vancouver on Fri, 27 Nov 2026.
+DJ Hockey is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Fri, 27 Nov 2026.
 
 DJ Hockey is a techno and house artist, with 49 gigs on soundcheck across Athens, Calgary, Chicago and Detroit and 3 more. Often billed alongside Kasey Riot, LVT and NOTEVENDOWN. Next up: TBA, Vancouver on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ DJ Hockey is a techno and house artist, with 49 gigs on soundcheck across Athens
 
 Kasey Riot, LVT, NOTEVENDOWN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhockey/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhockey/)*

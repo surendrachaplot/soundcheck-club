@@ -1,13 +1,14 @@
 # marielou
 
-marielou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
+marielou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Arca, Milan on Fri, 4 Dec 2026.
 
-marielou is a techno and house artist, with 41 gigs on soundcheck across Düsseldorf, Malaga, Milan and Naples and 2 more. Often billed alongside GNMR, Dove Quiete and Marc Anthony Bowen. Next up: REC Napoli, Naples on Fri 1 Jan.
+marielou is a techno and house artist, with 42 gigs on soundcheck across Düsseldorf, Malaga, Milan and Naples and 2 more. Often billed alongside GNMR, Dove Quiete and Marc Anthony Bowen. Next up: Arca, Milan on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Arca | Milan |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 
 ## Recently played
@@ -25,4 +26,4 @@ marielou is a techno and house artist, with 41 gigs on soundcheck across Düssel
 
 GNMR, Dove Quiete, Marc Anthony Bowen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*

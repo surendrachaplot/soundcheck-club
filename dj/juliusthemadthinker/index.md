@@ -1,6 +1,6 @@
 # Julius the Mad Thinker
 
-Julius the Mad Thinker is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Nocturne, Chicago on Sat, 12 Dec 2026.
+Julius the Mad Thinker is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Nocturne, Chicago on Sat, 12 Dec 2026.
 
 Julius the Mad Thinker is a house and deep house artist based in United States of America, with 35 gigs on soundcheck across Chicago, Detroit, Mexico City and Miami and 2 more. Often billed alongside Gene Hunt, Bear Who? and Karl Almaria. Next up: Le Nocturne, Chicago on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Julius the Mad Thinker is a house and deep house artist based in United States o
 
 Gene Hunt, Bear Who?, Karl Almaria
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusthemadthinker/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusthemadthinker/)*

@@ -1,6 +1,6 @@
 # Ughe
 
-Ughe is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
+Ughe is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
 
 Ughe is an electro and techno artist based in Italy, with 29 gigs on soundcheck across Brighton, Dortmund / Essen and London. Often billed alongside Save P, Desuba and Monterosso. Next up: Starlane Pizza Bar, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Ughe is an electro and techno artist based in Italy, with 29 gigs on soundcheck 
 
 Save P, Desuba, Monterosso
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ughe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ughe/)*

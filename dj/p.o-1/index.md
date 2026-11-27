@@ -1,6 +1,6 @@
 # P.O (1)
 
-P.O (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 15 Jan 2027.
+P.O (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 15 Jan 2027.
 
 P.O is a techno and electro artist based in France, with 59 gigs on soundcheck across Barcelona, Brussels, Bucharest and Buenos Aires and 17 more. Often billed alongside Flo Massé, Occibel and IAMBP. Next up: La Machine Du Moulin Rouge, Paris on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ P.O is a techno and electro artist based in France, with 59 gigs on soundcheck a
 
 Flo Massé, Occibel, IAMBP
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*

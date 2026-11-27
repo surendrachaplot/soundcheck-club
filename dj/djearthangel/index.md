@@ -1,6 +1,6 @@
 # DJ Earth Angel
 
-DJ Earth Angel is a Reggaeton and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 4 Dec 2026.
+DJ Earth Angel is a Reggaeton and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 4 Dec 2026.
 
 DJ Earth Angel is a reggaeton and electronica artist based in United States of America, with 17 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside DJ JUANNY, Mars Kasei and Profesito. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ Earth Angel is a reggaeton and electronica artist based in United States of A
 
 DJ JUANNY, Mars Kasei, Profesito
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djearthangel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djearthangel/)*

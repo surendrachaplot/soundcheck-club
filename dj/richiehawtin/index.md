@@ -1,8 +1,8 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Richie Hawtin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Adiel, Héctor Oaks and Nina Kraviz. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Richie Hawtin is a techno and house artist based in United Kingdom, with 209 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Adiel, Héctor Oaks and Nina Kraviz. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 208 gig
 | Sat, 2 Jan 2027 | The Bassement | Madrid |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 | Sun, 6 Jun 2027 | Parc del Fòrum | Barcelona |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 208 gig
 
 Adiel, Héctor Oaks, Nina Kraviz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

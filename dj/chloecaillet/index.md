@@ -1,8 +1,8 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Chloé Caillet is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Chloé Caillet is a house and techno artist based in United States of America, with 266 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 64 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Factory Town, Miami on Wed 2 Dec.
+Chloé Caillet is a house and techno artist based in United States of America, with 268 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 65 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 | Sat, 5 Dec 2026 | Factory Town | Miami |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

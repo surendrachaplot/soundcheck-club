@@ -1,13 +1,14 @@
 # POiSON GiRL FRiEND
 
-POiSON GiRL FRiEND is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Little Rockers, Okinawa on Fri, 27 Nov 2026.
+POiSON GiRL FRiEND is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Little Rockers, Okinawa on Fri, 27 Nov 2026.
 
-POiSON GiRL FRiEND is an electronica and techno artist based in Japan, with 24 gigs on soundcheck across Brussels, Chicago, Hong Kong and London and 9 more. Often billed alongside Gaul Plus, CFCF and Doss. Next up: Little Rockers, Okinawa on Fri 27 Nov.
+POiSON GiRL FRiEND is an electronica and techno artist based in Japan, with 25 gigs on soundcheck across Brussels, Chicago, Hong Kong and London and 9 more. Often billed alongside Gaul Plus, CFCF and Doss. Next up: Little Rockers, Okinawa on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Little Rockers | Okinawa |
 | Fri, 27 Nov 2026 | Little Rockers | Okinawa |
 
 ## Recently played
@@ -25,4 +26,4 @@ POiSON GiRL FRiEND is an electronica and techno artist based in Japan, with 24 g
 
 Gaul Plus, CFCF, Doss
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poisongirlfriend/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poisongirlfriend/)*

@@ -1,6 +1,6 @@
 # Giouann
 
-Giouann is a Dancehall and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at OHM, Berlin on Fri, 11 Dec 2026.
+Giouann is a Dancehall and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OHM, Berlin on Fri, 11 Dec 2026.
 
 Giouann is a dancehall and dub artist based in Italy, with 33 gigs on soundcheck across Berlin, Milan and Warsaw. Often billed alongside Carl Luis, Arthur (DE) and Tropic Disco Sound System. Next up: OHM, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Giouann is a dancehall and dub artist based in Italy, with 33 gigs on soundcheck
 
 Carl Luis, Arthur (DE), Tropic Disco Sound System
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giouann/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giouann/)*

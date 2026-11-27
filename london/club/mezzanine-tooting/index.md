@@ -1,6 +1,6 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Groovy Juice - Amy Cutter" on Fri, 27 Nov 2026.
+Mezzanine - Tooting is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Groovy Juice - Amy Cutter" on Fri, 27 Nov 2026.
 
 Mezzanine - Tooting is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Amy Cutter, Counter Culture, C R T and Ed Culprit and 2 more. See dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
@@ -20,4 +20,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 7 upcoming 
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

@@ -1,6 +1,6 @@
 # Kevin STN
 
-Kevin STN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
+Kevin STN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
 
 Kevin STN is a house and techno artist, with 6 gigs on soundcheck across Bangkok and Berlin. Often billed alongside Ida Daugaard, ATZENPUNK and Ady Toledano. Next up: Renate, Berlin on Sat 26 Dec.
 
@@ -22,4 +22,4 @@ Kevin STN is a house and techno artist, with 6 gigs on soundcheck across Bangkok
 
 Ida Daugaard, ATZENPUNK, Ady Toledano
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinstn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinstn/)*

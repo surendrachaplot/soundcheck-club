@@ -1,8 +1,8 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote" on Fri, 27 Nov 2026.
+Gare Porto is a music venue in Porto with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote" on Fri, 27 Nov 2026.
 
-Gare Porto is a music venue in Porto listed on soundcheck. 11 upcoming gigs, with line-ups including Amulador, Backbone, Banditst4r and CASH FROM HASH and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
+Gare Porto is a music venue in Porto listed on soundcheck. 12 upcoming gigs, with line-ups including Amulador, Backbone, Banditst4r and CASH FROM HASH and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 11 upcoming gigs, wit
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

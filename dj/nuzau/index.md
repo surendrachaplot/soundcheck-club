@@ -1,6 +1,6 @@
 # Nu Zau
 
-Nu Zau is a Minimal and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, New York City on Sat, 19 Dec 2026.
+Nu Zau is a Minimal and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, New York City on Sat, 19 Dec 2026.
 
 Nu Zau is a minimal and house artist, with 97 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Sepp, Arapu and Sublee. Next up: TBA, New York City on Sat 19 Dec.
 
@@ -28,4 +28,4 @@ Nu Zau is a minimal and house artist, with 97 gigs on soundcheck across Amsterda
 
 Sepp, Arapu, Sublee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*

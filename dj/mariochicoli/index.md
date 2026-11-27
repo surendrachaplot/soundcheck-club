@@ -1,6 +1,6 @@
 # Mario Chicoli
 
-Mario Chicoli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sky Sinner, Barcelona on Fri, 4 Dec 2026.
+Mario Chicoli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sky Sinner, Barcelona on Fri, 4 Dec 2026.
 
 Mario Chicoli is a house and tech house artist based in Italy, with 18 gigs on soundcheck across Barcelona. Often billed alongside Mastro Sally, Vinz (ITA) and Babo. Next up: Sky Sinner, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mario Chicoli is a house and tech house artist based in Italy, with 18 gigs on s
 
 Mastro Sally, Vinz (ITA), Babo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariochicoli/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariochicoli/)*

@@ -1,14 +1,13 @@
 # Elen Payne
 
-Elen Payne is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Dual, Bangkok on Fri, 27 Nov 2026.
+Elen Payne is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 82bpm, South-korea on Fri, 4 Dec 2026.
 
-Elen Payne is a techno and industrial artist based in Germany, with 42 gigs on soundcheck across Athens, Bangkok, Barcelona and Beijing and 18 more. Often billed alongside Alessandro Nero, REIKS and Lady Maru. Next up: Dual, Bangkok on Fri 27 Nov.
+Elen Payne is a techno and industrial artist based in Germany, with 41 gigs on soundcheck across Athens, Bangkok, Barcelona and Beijing and 18 more. Often billed alongside Alessandro Nero, Lady Maru and REIKS. Next up: 82bpm, South Korea on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Dual | Bangkok |
 | Fri, 4 Dec 2026 | 82bpm | South-korea |
 | Sat, 5 Dec 2026 | Triangle | Osaka |
 | Fri, 11 Dec 2026 | WWW | Tokyo |
@@ -26,6 +25,6 @@ Elen Payne is a techno and industrial artist based in Germany, with 42 gigs on s
 
 ## Shares bills with
 
-Alessandro Nero, REIKS, Lady Maru
+Alessandro Nero, Lady Maru, REIKS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenpayne/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenpayne/)*

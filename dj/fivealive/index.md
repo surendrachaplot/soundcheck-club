@@ -1,13 +1,14 @@
 # Five Alive
 
-Five Alive is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fire, London on Thu, 31 Dec 2026.
+Five Alive is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
-Five Alive is a jungle and drum & bass artist based in Canada, with 19 gigs on soundcheck across Amsterdam, Brighton, Cardiff and Leeds and 4 more. Often billed alongside DJ Hype, Nicky Blackmarket and Grooverider. Next up: Fire, London on Thu 31 Dec.
+Five Alive is a jungle and drum & bass artist based in Canada, with 20 gigs on soundcheck across Amsterdam, Brighton, Cardiff and Leeds and 4 more. Often billed alongside DJ Hype, Nicky Blackmarket and Grooverider. Next up: TBA, Vancouver on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Dec 2026 | TBA | Vancouver |
 | Thu, 31 Dec 2026 | Fire | London |
 | Sat, 6 Feb 2027 | The Warehouse | Leeds |
 
@@ -26,4 +27,4 @@ Five Alive is a jungle and drum & bass artist based in Canada, with 19 gigs on s
 
 DJ Hype, Nicky Blackmarket, Grooverider
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*

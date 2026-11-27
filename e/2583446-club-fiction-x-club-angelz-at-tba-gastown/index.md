@@ -1,6 +1,6 @@
 # Club Fiction x Club Angelz at TBA - Gastown
 
-Club Fiction x Club Angelz at TBA - Gastown on Sat 28 Nov, Vancouver. 4 artists: Dreya, JADO, LVL (CAN) and VIO (CA). House and Bass. See the line-up on soundcheck.
+Club Fiction x Club Angelz at TBA - Gastown on Sat 28 Nov, Vancouver. 3 artists: Dreya, JADO and LVL (CAN). House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Club Fiction x Club Angelz at TBA - Gastown on Sat 28 Nov, Vancouver. 4 artists:
 - Dreya (2)
 - JADO
 - LVL (CAN)
-- VIO (CA)
 
 *Source: [soundcheck](https://soundcheck.club/e/2583446-club-fiction-x-club-angelz-at-tba-gastown/)*

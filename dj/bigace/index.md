@@ -1,6 +1,6 @@
 # Big Ace
 
-Big Ace is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
+Big Ace is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
 
 Big Ace is a club and techno artist based in United States of America, with 14 gigs on soundcheck across Baltimore, Charlotte, Houston and Los Angeles and 3 more. Often billed alongside HYPERFEMME, Amarji King and DJ Slugo. Next up: Boondocks, Houston on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Big Ace is a club and techno artist based in United States of America, with 14 g
 
 HYPERFEMME, Amarji King, DJ Slugo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigace/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigace/)*

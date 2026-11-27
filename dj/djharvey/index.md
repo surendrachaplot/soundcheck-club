@@ -1,6 +1,6 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radius, Chicago on Mon, 28 Dec 2026.
+DJ Harvey is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Radius, Chicago on Mon, 28 Dec 2026.
 
 DJ Harvey is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Austin, Bali and Chicago and 15 more. Often billed alongside Heidi Lawden, Seth Troxler and Masha Mar. Next up: Radius, Chicago on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ DJ Harvey is a house and techno artist based in United States of America, with 6
 
 Heidi Lawden, Seth Troxler, Masha Mar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

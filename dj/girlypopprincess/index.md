@@ -1,6 +1,6 @@
 # Girlypop Princess
 
-Girlypop Princess is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 12 Dec 2026.
+Girlypop Princess is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 12 Dec 2026.
 
 Girlypop Princess is a club and techno artist based in United States of America, with 59 gigs on soundcheck across Baltimore, Chicago, New Orleans and New York City and 2 more. Often billed alongside ILUSM, NANAGOTCHI and Franxx. Next up: Sinners and Saints, Washington DC on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Girlypop Princess is a club and techno artist based in United States of America,
 
 ILUSM, NANAGOTCHI, Franxx
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*

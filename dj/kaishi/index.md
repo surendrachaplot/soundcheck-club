@@ -1,6 +1,6 @@
 # Kaishi
 
-Kaishi is a Psytrance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 11 Dec 2026.
+Kaishi is a Psytrance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 11 Dec 2026.
 
 Kaishi is a psytrance and progressive house artist based in Italy, with 8 gigs on soundcheck across Milan and Tokyo. Often billed alongside Y-DAPT, AY and BERLINER KINDL. Next up: Koenji Cave, Tokyo on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Kaishi is a psytrance and progressive house artist based in Italy, with 8 gigs o
 
 Y-DAPT, AY (10), BERLINER KINDL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaishi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaishi/)*

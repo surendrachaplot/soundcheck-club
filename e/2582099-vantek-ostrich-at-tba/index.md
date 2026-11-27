@@ -1,6 +1,6 @@
 # VANTEK: Ostrich at TBA
 
-VANTEK: Ostrich at TBA on Sat 12 Dec, Vancouver. 3 artists: Fizch, Ostrich and untorn. Techno. See the line-up on soundcheck.
+VANTEK: Ostrich at TBA on Sat 12 Dec, Vancouver. 4 artists: Fizch, niki disc, Ostrich and untorn. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ VANTEK: Ostrich at TBA on Sat 12 Dec, Vancouver. 3 artists: Fizch, Ostrich and u
 ## Line-up
 
 - Fizch
+- niki disc
 - Ostrich
 - untorn
 

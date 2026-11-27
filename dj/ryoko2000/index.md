@@ -1,6 +1,6 @@
 # RYOKO2000
 
-RYOKO2000 is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 26 Dec 2026.
+RYOKO2000 is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 26 Dec 2026.
 
 RYOKO2000 is a pop and club artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside okadada, NordOst and lilbesh ramko. Next up: Nakano Heavysick Zero, Tokyo on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ RYOKO2000 is a pop and club artist based in Japan, with 9 gigs on soundcheck acr
 
 okadada, NordOst, lilbesh ramko
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoko2000/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoko2000/)*

@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mac Declos (all night long)" on Fri, 27 Nov 2026.
+Hangaren is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mac Declos (all night long)" on Fri, 27 Nov 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, with line-ups including babysquid, Bad Boombox, Britta Arnold and Diffrent and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, 
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "UNTER STRØM presents: TRANSMISSION 004" on Thu, 3 Dec 2026.
+Spin is a music venue in San Diego with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "UNTER STRØM presents: TRANSMISSION 004" on Thu, 3 Dec 2026.
 
 Spin is a music venue in San Diego listed on soundcheck. 9 upcoming gigs, with line-ups including Ali Gria, Cam Stockman, DAVI and HiTech and 2 more. See dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -22,4 +22,4 @@ Spin is a music venue in San Diego listed on soundcheck. 9 upcoming gigs, with l
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

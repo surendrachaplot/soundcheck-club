@@ -1,6 +1,6 @@
 # excels
 
-excels is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat, 12 Dec 2026.
+excels is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat, 12 Dec 2026.
 
 excels is a hardcore and gabber artist based in Latvia, with 10 gigs on soundcheck across Riga. Often billed alongside XSYNC19, MVKO and oshigakill. Next up: TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ excels is a hardcore and gabber artist based in Latvia, with 10 gigs on soundche
 
 XSYNC19, MVKO, oshigakill
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excels/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excels/)*

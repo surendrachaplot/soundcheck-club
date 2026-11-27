@@ -1,6 +1,6 @@
 # sideral
 
-sideral is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Aldea Club, Bratislava on Fri, 11 Dec 2026.
+sideral is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Aldea Club, Bratislava on Fri, 11 Dec 2026.
 
 sideral is a techno and electronica artist based in Italy, with 30 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside Mind Against, Dyzen and Recondite. Next up: Aldea Club, Bratislava on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ sideral is a techno and electronica artist based in Italy, with 30 gigs on sound
 
 Mind Against, Dyzen, Recondite
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sideral/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sideral/)*

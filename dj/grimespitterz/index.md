@@ -1,6 +1,6 @@
 # Grime Spitterz
 
-Grime Spitterz is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 5 Dec 2026.
+Grime Spitterz is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kindergarten Club, Bologna on Sat, 5 Dec 2026.
 
 Grime Spitterz is a drum & bass and dubstep artist based in Italy, with 8 gigs on soundcheck across Bologna, Florence and Milan. Often billed alongside Ric de Large, epcoraw and Akrom (IT). Next up: Kindergarten Club, Bologna on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Grime Spitterz is a drum & bass and dubstep artist based in Italy, with 8 gigs o
 
 Ric de Large, epcoraw, Akrom (IT)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grimespitterz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grimespitterz/)*

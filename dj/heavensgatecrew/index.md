@@ -1,8 +1,8 @@
 # HEAVEN'S GATE CREW
 
-HEAVEN'S GATE CREW is a Bass and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Circus Tokyo, Tokyo on Wed, 16 Dec 2026.
+HEAVEN'S GATE CREW is a Bass and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Wed, 16 Dec 2026.
 
-HEAVEN'S GATE CREW is a bass and pop artist based in Japan, with 27 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside SAKO, hara and Aiobahn. Next up: Circus Tokyo, Tokyo on Wed 16 Dec.
+HEAVEN'S GATE CREW is a bass and pop artist based in Japan, with 28 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside SAKO, Aiobahn and hara. Next up: Circus Tokyo, Tokyo on Wed 16 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HEAVEN'S GATE CREW is a bass and pop artist based in Japan, with 27 gigs on soun
 | --- | --- | --- |
 | Wed, 16 Dec 2026 | Circus Tokyo | Tokyo |
 | Sun, 27 Dec 2026 | club asia | Tokyo |
+| Wed, 30 Dec 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ HEAVEN'S GATE CREW is a bass and pop artist based in Japan, with 27 gigs on soun
 
 ## Shares bills with
 
-SAKO, hara (2), Aiobahn
+SAKO, Aiobahn, hara (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heavensgatecrew/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heavensgatecrew/)*

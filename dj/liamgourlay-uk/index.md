@@ -1,6 +1,6 @@
 # Gourlay
 
-Gourlay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 9 Dec 2026.
+Gourlay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 9 Dec 2026.
 
 Gourlay is a house and techno artist based in United Kingdom, with 49 gigs on soundcheck across Edinburgh, Glasgow, Manchester and Milan. Often billed alongside DJ Bz, Doogi and Eubo. Next up: The Berkeley Suite, Glasgow on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Gourlay is a house and techno artist based in United Kingdom, with 49 gigs on so
 
 DJ Bz, Doogi, Eubo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*

@@ -1,6 +1,6 @@
 # Vondelbunker
 
-Vondelbunker is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Space Invadrz Division meets Teknotika Records Detroit" on Sat, 28 Nov 2026.
+Vondelbunker is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Space Invadrz Division meets Teknotika Records Detroit" on Sat, 28 Nov 2026.
 
 Vondelbunker is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Redmadvelvet. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Vondelbunker is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Space Invadrz Division meets Teknotika Records Detroit | Redmadvelvet |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vondelbunker/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vondelbunker/)*

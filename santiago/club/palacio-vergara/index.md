@@ -1,6 +1,6 @@
 # Palacio Vergara
 
-Palacio Vergara is a music venue in Santiago with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Luciano & Franco Cinelli" on Sun, 3 Jan 2027.
+Palacio Vergara is a music venue in Santiago with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Luciano & Franco Cinelli" on Sun, 3 Jan 2027.
 
 Palacio Vergara is a music venue in Santiago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Palacio Vergara is a music venue in Santiago listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sun, 3 Jan 2027 | Luciano & Franco Cinelli |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/palacio-vergara/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/palacio-vergara/)*

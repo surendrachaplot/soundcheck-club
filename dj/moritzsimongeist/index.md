@@ -1,6 +1,6 @@
 # Moritz Simon Geist
 
-Moritz Simon Geist is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kantine am Berghain, Berlin on Sat, 13 Mar 2027.
+Moritz Simon Geist is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kantine am Berghain, Berlin on Sat, 13 Mar 2027.
 
 Moritz Simon Geist is a techno and electronica artist based in Germany, with 12 gigs on soundcheck across Berlin, Copenhagen, Dresden and New York City and 1 more. Often billed alongside Ida Bux, JacqNoise and P.Bell. Next up: Kantine am Berghain, Berlin on Sat 13 Mar.
 
@@ -25,4 +25,4 @@ Moritz Simon Geist is a techno and electronica artist based in Germany, with 12 
 
 Ida Bux, JacqNoise, P.Bell
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzsimongeist/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzsimongeist/)*

@@ -1,6 +1,6 @@
 # CASSIMM
 
-CASSIMM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vinile, Rome on Fri, 27 Nov 2026.
+CASSIMM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vinile, Rome on Fri, 27 Nov 2026.
 
 CASSIMM is a house and tech house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 19 more. Often billed alongside Claptone, Mark Knight and Martin Ikin. Next up: Vinile, Rome on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CASSIMM is a house and tech house artist based in United Kingdom, with 55 gigs o
 
 Claptone, Mark Knight, Martin Ikin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*

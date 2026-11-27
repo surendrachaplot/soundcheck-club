@@ -1,6 +1,6 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "sens taste - Festival für multisensorische Wahrnehmung" on Wed, 25 Nov 2026.
+ZiMMT is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "sens taste - Festival für multisensorische Wahrnehmung" on Wed, 25 Nov 2026.
 
 ZiMMT is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
@@ -19,4 +19,4 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs. See dat
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

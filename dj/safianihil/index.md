@@ -1,6 +1,6 @@
 # Safia Nihil
 
-Safia Nihil is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 9 Jan 2027.
+Safia Nihil is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Société des arts technologiques, Montreal on Sat, 9 Jan 2027.
 
 Safia Nihil is an ambient and downtempo artist based in Canada, with 17 gigs on soundcheck across Lyon and Montreal. Often billed alongside Aguma, Kyle Hall and Max Cooper. Next up: Société des arts technologiques, Montreal on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Safia Nihil is an ambient and downtempo artist based in Canada, with 17 gigs on 
 
 Aguma, Kyle Hall, Max Cooper
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safianihil/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safianihil/)*

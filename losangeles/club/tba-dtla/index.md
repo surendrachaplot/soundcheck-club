@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BRAINCELL LASERTAG" on Sat, 28 Nov 2026.
+TBA - DTLA is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "BRAINCELL LASERTAG" on Sat, 28 Nov 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 11 upcoming gigs, with line-ups including Ali Farahani, Alima Lee, AMORAL and BHAOUNCEOUT and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 11 upcoming gig
 | Sat, 12 Dec 2026 | Eternal Bliss | Alima Lee, Kelman Duran, Kilbourne, Nguzunguzu, SOLTERA, stud1nt |
 | Sat, 19 Dec 2026 | Momentive presents: DLR feat. MC Gusto | DLR, Litha, MC Gusto |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

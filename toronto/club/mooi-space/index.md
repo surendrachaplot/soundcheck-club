@@ -1,6 +1,6 @@
 # Mooi Space
 
-Mooi Space is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Activate The Spot" on Fri, 27 Nov 2026.
+Mooi Space is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Activate The Spot" on Fri, 27 Nov 2026.
 
 Mooi Space is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Bambii, Chinelo, Ciel and Cosmic JD and 2 more. See dates, start times and who's playing. 75 Pelham Avenue, Toronto, ON, M6N1A5.
 
@@ -15,4 +15,4 @@ Mooi Space is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, wi
 
 75 Pelham Avenue, Toronto, ON, M6N1A5, Toronto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/mooi-space/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/mooi-space/)*

@@ -1,6 +1,6 @@
 # Deep Tempo
 
-Deep Tempo is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
+Deep Tempo is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Portugal Madeira Club, Sydney on Sat, 28 Nov 2026.
 
 Deep Tempo is a dubstep and bass artist based in United Kingdom, with 26 gigs on soundcheck across Auckland, Bangkok, Birmingham and Brighton and 11 more. Often billed alongside SGT Pokes, MINTY and Caspa. Next up: Portugal Madeira Club, Sydney on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Deep Tempo is a dubstep and bass artist based in United Kingdom, with 26 gigs on
 
 SGT Pokes, MINTY, Caspa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptempo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptempo/)*

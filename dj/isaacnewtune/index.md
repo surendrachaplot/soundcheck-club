@@ -1,6 +1,6 @@
 # Isaac Newtune
 
-Isaac Newtune is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Curveball, Dublin on Sat, 19 Dec 2026.
+Isaac Newtune is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Curveball, Dublin on Sat, 19 Dec 2026.
 
 Isaac Newtune is an ebm and electro artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Cork and Dublin. Often billed alongside Entrp, Alba and Ali Daly. Next up: Curveball, Dublin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Isaac Newtune is an ebm and electro artist based in Netherlands, with 10 gigs on
 
 Entrp, Alba (2), Ali Daly
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacnewtune/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacnewtune/)*

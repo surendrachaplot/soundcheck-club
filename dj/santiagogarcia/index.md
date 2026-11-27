@@ -1,6 +1,6 @@
 # Santiago Garcia
 
-Santiago Garcia is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 9 Jan 2027.
+Santiago Garcia is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 9 Jan 2027.
 
 Santiago Garcia is a deep house and house artist based in Argentina, with 49 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Chicago and 15 more. Often billed alongside Bedouin, Amiti and Avangart Tabldot. Next up: Do Not Sit On The Furniture, Miami on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Santiago Garcia is a deep house and house artist based in Argentina, with 49 gig
 
 Bedouin, Amiti, Avangart Tabldot
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagogarcia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagogarcia/)*

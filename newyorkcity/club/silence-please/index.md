@@ -1,6 +1,6 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Record Release: How To Get Ahead In Advertising" on Thu, 3 Dec 2026.
+Silence Please is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Record Release: How To Get Ahead In Advertising" on Thu, 3 Dec 2026.
 
 Silence Please is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Syd (US). See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
@@ -16,4 +16,4 @@ Silence Please is a music venue in New York City listed on soundcheck. 3 upcomin
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

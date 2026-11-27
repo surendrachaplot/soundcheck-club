@@ -1,6 +1,6 @@
 # Riviera Records Store
 
-Riviera Records Store is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RIVIERA INSTORE SESSION with Mate" on Fri, 27 Nov 2026.
+Riviera Records Store is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "RIVIERA INSTORE SESSION with Mate" on Fri, 27 Nov 2026.
 
 Riviera Records Store is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Hanno and Maté. See dates, start times and who's playing. Herzogspitalstr. 7, 80331 München.
 
@@ -15,4 +15,4 @@ Riviera Records Store is a music venue in Munich listed on soundcheck. 2 upcomin
 
 Herzogspitalstr. 7, 80331 München, Munich
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/riviera-records-store/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/riviera-records-store/)*

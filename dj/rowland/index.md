@@ -1,6 +1,6 @@
 # Rowland
 
-Rowland is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tola, London on Fri, 27 Nov 2026.
+Rowland is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tola, London on Fri, 27 Nov 2026.
 
 Rowland is a techno and house artist based in United Kingdom, with 19 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Mezla, Fresh Lov3 and Lucky Penny. Next up: Tola, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Rowland is a techno and house artist based in United Kingdom, with 19 gigs on so
 
 Mezla, Fresh Lov3, Lucky Penny
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowland/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowland/)*

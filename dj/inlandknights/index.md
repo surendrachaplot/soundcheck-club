@@ -1,6 +1,6 @@
 # Inland Knights
 
-Inland Knights is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
+Inland Knights is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
 
 Inland Knights is a house and deep house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 12 more. Often billed alongside Bobby O'Donnell, Buckley and Dan Shake. Next up: Mint Warehouse, Leeds on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Inland Knights is a house and deep house artist based in United Kingdom, with 39
 
 Bobby O'Donnell, Buckley, Dan Shake
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*

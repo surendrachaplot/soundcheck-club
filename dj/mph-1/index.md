@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Knockdown Center, New York City on Sat, 28 Nov 2026.
+MPH (1) is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Knockdown Center, New York City on Sat, 28 Nov 2026.
 
 MPH is a garage and house artist based in United Kingdom, with 138 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside Oppidan, Hamdi and Flava D. Next up: Knockdown Center, New York City on Sat 28 Nov.
 
@@ -36,4 +36,4 @@ MPH is a garage and house artist based in United Kingdom, with 138 gigs on sound
 
 Oppidan, Hamdi, Flava D
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

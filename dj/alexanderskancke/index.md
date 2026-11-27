@@ -1,8 +1,8 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
+Alexander Skancke is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
 
-Alexander Skancke is a house and techno artist based in Norway, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: TBA - NOTTING HILL WEST LONDON , London on Fri 27 Nov.
+Alexander Skancke is a house and techno artist based in Norway, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: TBA - NOTTING HILL WEST LONDON , London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Alexander Skancke is a house and techno artist based in Norway, with 103 gigs on
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | The Loft | Manchester |
 | Fri, 18 Dec 2026 | The Racket Space | Dublin |
+| Sat, 19 Dec 2026 | Circolo degli Illuminati | Rome |
 | Fri, 1 Jan 2027 | NUMBER 90 LONDON | London |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -30,4 +31,4 @@ Alexander Skancke is a house and techno artist based in Norway, with 103 gigs on
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

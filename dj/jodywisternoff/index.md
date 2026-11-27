@@ -1,6 +1,6 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tumbalong Park, Sydney on Sat, 28 Nov 2026.
+Jody Wisternoff is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tumbalong Park, Sydney on Sat, 28 Nov 2026.
 
 Jody Wisternoff is a progressive house and house artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 44 more. Often billed alongside Nicky Elisabeth, Dosem and Marsh. Next up: Tumbalong Park, Sydney on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 
 Nicky Elisabeth, Dosem, Marsh
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

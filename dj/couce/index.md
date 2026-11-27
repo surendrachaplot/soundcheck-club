@@ -1,6 +1,6 @@
 # Couce
 
-Couce is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Atlantic Club, Barcelona on Thu, 31 Dec 2026.
+Couce is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atlantic Club, Barcelona on Thu, 31 Dec 2026.
 
 Couce is a house and breakbeat artist based in Spain, with 16 gigs on soundcheck across Barcelona. Often billed alongside Cucut, J.Benitez and Alice Youngling. Next up: Atlantic Club, Barcelona on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Couce is a house and breakbeat artist based in Spain, with 16 gigs on soundcheck
 
 Cucut, J.Benitez (2), Alice Youngling
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couce/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couce/)*

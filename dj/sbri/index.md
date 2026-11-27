@@ -1,6 +1,6 @@
 # Sbri
 
-Sbri is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 12 Dec 2026.
+Sbri is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 12 Dec 2026.
 
 Sbri is an ebm and electro artist based in Spain, with 20 gigs on soundcheck across Barcelona, Berlin, Bucharest and Lisbon and 1 more. Often billed alongside Yoshi (DE), Devesa and Massi. Next up: Platforma Wolff, Bucharest on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sbri is an ebm and electro artist based in Spain, with 20 gigs on soundcheck acr
 
 Yoshi (DE), Devesa, Massi (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbri/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sbri/)*

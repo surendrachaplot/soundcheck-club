@@ -1,6 +1,6 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Brickworks, Nottingham on Sat, 28 Nov 2026.
+LSB is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Brickworks, Nottingham on Sat, 28 Nov 2026.
 
 LSB is a drum & bass and jungle artist based in United Kingdom, with 77 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside DRS, Workforce and MC Fox. Next up: The Brickworks, Nottingham on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ LSB is a drum & bass and jungle artist based in United Kingdom, with 77 gigs on 
 
 DRS, Workforce, MC Fox
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

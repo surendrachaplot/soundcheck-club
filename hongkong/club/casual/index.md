@@ -1,6 +1,6 @@
 # Casual
 
-Casual is a music venue in Hong Kong with 13 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "CASUAL presents FredCC (Keep Hush, UK)" on Fri, 27 Nov 2026.
+Casual is a music venue in Hong Kong with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "CASUAL presents FredCC (Keep Hush, UK)" on Fri, 27 Nov 2026.
 
 Casual is a music venue in Hong Kong listed on soundcheck. 13 upcoming gigs, with line-ups including CASAMUSICA, Cristian Sarde, Cristi Cons and DJ Kirby and 2 more. See dates, start times and who's playing. 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island.
 
@@ -23,4 +23,4 @@ Casual is a music venue in Hong Kong listed on soundcheck. 13 upcoming gigs, wit
 
 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island, Hong Kong
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*

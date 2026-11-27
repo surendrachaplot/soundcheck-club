@@ -1,6 +1,6 @@
 # Chinelo
 
-Chinelo is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mooi Space, Toronto on Fri, 27 Nov 2026.
+Chinelo is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mooi Space, Toronto on Fri, 27 Nov 2026.
 
 Chinelo is a club and techno artist based in Canada, with 75 gigs on soundcheck across New York City, Toronto and Vancouver. Often billed alongside HVN, Ard1n and Litney. Next up: Mooi Space, Toronto on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Chinelo is a club and techno artist based in Canada, with 75 gigs on soundcheck 
 
 HVN (1), Ard1n, Litney
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinelo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinelo/)*

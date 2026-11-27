@@ -1,6 +1,6 @@
 # LaDiabla
 
-LaDiabla is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 12 Dec 2026.
+LaDiabla is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 12 Dec 2026.
 
 LaDiabla is an electro and club artist, with 17 gigs on soundcheck across Barcelona and Paris. Often billed alongside Alvva, BZZHOUND and CRKS290. Next up: Mains D'œuvres, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ LaDiabla is an electro and club artist, with 17 gigs on soundcheck across Barcel
 
 Alvva, BZZHOUND, CRKS290
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladiabla/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladiabla/)*

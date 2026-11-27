@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+Ngly is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
 Ngly is a techno and electro artist based in Germany, with 18 gigs on soundcheck across Athens, Bali, Beijing and Belgrade and 8 more. Often billed alongside Deejay Energy, Burago and VOMFLIEGEL. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
@@ -27,4 +27,4 @@ Ngly is a techno and electro artist based in Germany, with 18 gigs on soundcheck
 
 Deejay Energy, Burago, VOMFLIEGEL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

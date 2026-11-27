@@ -1,6 +1,6 @@
 # Aline (CH)
 
-Aline (CH) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
+Aline (CH) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
 Aline (CH) is a house and techno artist based in Switzerland, with 55 gigs on soundcheck across Barcelona, Basel, Berlin and Brussels and 3 more. Often billed alongside Flavio (CH), Aron (CH) and Ion Ludwig. Next up: Kauz, Zurich on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Aline (CH) is a house and techno artist based in Switzerland, with 55 gigs on so
 
 Flavio (CH), Aron (CH), Ion Ludwig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aline-ch/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aline-ch/)*

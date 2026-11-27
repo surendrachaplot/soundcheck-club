@@ -1,6 +1,6 @@
 # SIMMS
 
-SIMMS is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hidden, Manchester on Sat, 12 Dec 2026.
+SIMMS is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hidden, Manchester on Sat, 12 Dec 2026.
 
 SIMMS is a jungle and drum & bass artist based in United Kingdom, with 76 gigs on soundcheck across Bristol, Edinburgh, Glasgow and Leeds and 4 more. Often billed alongside CITIZEN, DJ Flight and VXRGO. Next up: Hidden, Manchester on Sat 12 Dec.
 
@@ -28,4 +28,4 @@ SIMMS is a jungle and drum & bass artist based in United Kingdom, with 76 gigs o
 
 CITIZEN, DJ Flight, VXRGO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simms/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simms/)*

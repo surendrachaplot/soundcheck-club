@@ -1,6 +1,6 @@
 # Bavaresco
 
-Bavaresco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Brazil on Sat, 28 Nov 2026.
+Bavaresco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Brazil on Sat, 28 Nov 2026.
 
 Bavaresco is a house and techno artist based in Brazil, with 22 gigs on soundcheck across Berlin, Brazil and Hamburg. Often billed alongside Apoena, Wiebe Roose and Discult Soundsystem. Next up: TBA, Brazil on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bavaresco is a house and techno artist based in Brazil, with 22 gigs on soundche
 
 Apoena, Wiebe Roose, Discult Soundsystem
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bavaresco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bavaresco/)*

@@ -1,6 +1,6 @@
 # BABANASHE
 
-BABANASHE is a Amapiano and Gqom artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kensington Town Hall, Victoria on Sat, 6 Feb 2027.
+BABANASHE is a Amapiano and Gqom artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kensington Town Hall, Victoria on Sat, 6 Feb 2027.
 
 BABANASHE is an amapiano and gqom artist based in Zimbabwe, with 7 gigs on soundcheck across Melbourne and Victoria. Often billed alongside KALI (AU). Next up: Kensington Town Hall, Victoria on Sat 6 Feb.
 
@@ -23,4 +23,4 @@ BABANASHE is an amapiano and gqom artist based in Zimbabwe, with 7 gigs on sound
 
 KALI (AU)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babanashe/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babanashe/)*

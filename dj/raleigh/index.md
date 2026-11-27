@@ -1,6 +1,6 @@
 # Raleigh
 
-Raleigh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 18 Dec 2026.
+Raleigh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 18 Dec 2026.
 
 Raleigh is a techno and trance artist based in Czech Republic, with 38 gigs on soundcheck across Barcelona, Berlin, Birmingham and London and 6 more. Often billed alongside Alfred Czital, Yan (CZ) and Georgia Bird. Next up: Ankali & Planeta Za, Prague on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Raleigh is a techno and trance artist based in Czech Republic, with 38 gigs on s
 
 Alfred Czital, Yan (CZ), Georgia Bird
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raleigh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raleigh/)*

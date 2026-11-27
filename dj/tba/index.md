@@ -1,6 +1,6 @@
 # TBA
 
-TBA is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bridge 48, Barcelona on Fri, 27 Nov 2026.
+TBA is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bridge 48, Barcelona on Fri, 27 Nov 2026.
 
 TBA is a techno and house artist based in Georgia, with 295 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 54 more. Often billed alongside PARIS (AU), SHARE (NL) and Gerald VDH. Next up: Bridge 48, Barcelona on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist based in Georgia, with 295 gigs on soundcheck a
 
 PARIS (AU), SHARE (NL), Gerald VDH
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

@@ -1,6 +1,6 @@
 # Hamdi
 
-Hamdi is a Dubstep and Garage artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Phantom, Paris, Paris on Fri, 4 Dec 2026.
+Hamdi is a Dubstep and Garage artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Phantom, Paris, Paris on Fri, 4 Dec 2026.
 
 Hamdi is a dubstep and garage artist based in Germany, with 69 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 29 more. Often billed alongside MPH, Oppidan and Flava D. Next up: Phantom, Paris, Paris on Fri 4 Dec.
 
@@ -32,4 +32,4 @@ Hamdi is a dubstep and garage artist based in Germany, with 69 gigs on soundchec
 
 MPH (1), Oppidan, Flava D
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*

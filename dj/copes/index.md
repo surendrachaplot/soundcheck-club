@@ -1,6 +1,6 @@
 # Copes
 
-Copes is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at All My Friends, London on Sat, 19 Dec 2026.
+Copes is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at All My Friends, London on Sat, 19 Dec 2026.
 
 Copes is a house and tech house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Darush, Edward and Free Zing. Next up: All My Friends, London on Sat 19 Dec.
 
@@ -16,4 +16,4 @@ Copes is a house and tech house artist based in United Kingdom, with 3 gigs on s
 
 Darush, Edward, Free Zing
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copes/)*

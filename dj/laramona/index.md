@@ -1,6 +1,6 @@
 # La Ramona
 
-La Ramona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
+La Ramona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Torre Colpatria, Bogotá on Fri, 27 Nov 2026.
 
 La Ramona is a techno and house artist based in Colombia, with 29 gigs on soundcheck across Bogotá. Often billed alongside Bedriñana, Surfer Rosa and Dharma. Next up: Torre Colpatria, Bogotá on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ La Ramona is a techno and house artist based in Colombia, with 29 gigs on soundc
 
 Bedriñana, Surfer Rosa, Dharma
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laramona/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laramona/)*

@@ -1,6 +1,6 @@
 # Flipside
 
-Flipside is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Paradise Palms, Edinburgh on Sat, 28 Nov 2026.
+Flipside is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paradise Palms, Edinburgh on Sat, 28 Nov 2026.
 
 Flipside is a house and club artist, with 12 gigs on soundcheck across Edinburgh, Glasgow, London and Nürnberg and 1 more. Often billed alongside Manzone & Strong, SHERA and Addy. Next up: Paradise Palms, Edinburgh on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Flipside is a house and club artist, with 12 gigs on soundcheck across Edinburgh
 
 Manzone & Strong, SHERA, Addy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flipside/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flipside/)*

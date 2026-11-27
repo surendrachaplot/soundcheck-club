@@ -1,14 +1,15 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "TREMENDO (Mexa Sounds) (21)" on Sat, 28 Nov 2026.
+The Meadows is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "TREMENDO (Mexa Sounds) (21)" on Sat, 28 Nov 2026.
 
-The Meadows is a music venue in New York City listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
+The Meadows is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TREMENDO (Mexa Sounds) (21) |  |
+| Sat, 12 Dec 2026 | Reggaeton Throwbacks [21+] |  |
 | Sat, 19 Dec 2026 | Reggaeton Tributes  (21+) |  |
 | Thu, 31 Dec 2026 | New Year's Eve 2027 Reggaeton Party |  |
 
@@ -16,4 +17,4 @@ The Meadows is a music venue in New York City listed on soundcheck. 3 upcoming g
 
 17 Meadow St, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*

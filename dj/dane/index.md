@@ -1,14 +1,15 @@
 # Dane
 
-Dane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 18 Dec 2026.
+Dane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 18 Dec 2026.
 
-Dane is a house and disco artist based in Canada, with 67 gigs on soundcheck across Calgary, Chicago, Los Angeles and Montreal and 4 more. Often billed alongside DJ D.Dee, Max Ulis and Kozue. Next up: Biltmore Cabaret, Vancouver on Fri 18 Dec.
+Dane is a house and disco artist based in Canada, with 68 gigs on soundcheck across Calgary, Chicago, Los Angeles and Montreal and 4 more. Often billed alongside DJ D.Dee, Max Ulis and Kozue. Next up: Biltmore Cabaret, Vancouver on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Biltmore Cabaret | Vancouver |
+| Thu, 31 Dec 2026 | TBA | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dane is a house and disco artist based in Canada, with 67 gigs on soundcheck acr
 
 DJ D.Dee, Max Ulis, Kozue
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dane/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dane/)*

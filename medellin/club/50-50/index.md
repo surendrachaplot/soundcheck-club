@@ -1,6 +1,6 @@
 # 50 | 50
 
-50 | 50 is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "50 X SS pres. Jensen Interceptor" on Fri, 27 Nov 2026.
+50 | 50 is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "50 X SS pres. Jensen Interceptor" on Fri, 27 Nov 2026.
 
 50 | 50 is a music venue in Medellin listed on soundcheck. 4 upcoming gigs, with line-ups including Ben UFO, Dagga, dj lomalinda and Jensen Interceptor and 2 more. See dates, start times and who's playing. Cra. 50 #34-62 Piso 2, La Candelaria, Medellín.
 
@@ -17,4 +17,4 @@
 
 Cra. 50 #34-62 Piso 2, La Candelaria, Medellín, Medellin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*

@@ -1,6 +1,6 @@
 # Elon Bass
 
-Elon Bass is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at MÄX, Zurich on Sat, 23 Jan 2027.
+Elon Bass is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at MÄX, Zurich on Sat, 23 Jan 2027.
 
 Elon Bass is a techno and trance artist based in Germany, with 115 gigs on soundcheck across Berlin, Cologne, Frankfurt and Ghent and 11 more. Often billed alongside BNZN, AKIIM and Antonym. Next up: MÄX, Zurich on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Elon Bass is a techno and trance artist based in Germany, with 115 gigs on sound
 
 BNZN, AKIIM, Antonym
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elonbass/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elonbass/)*

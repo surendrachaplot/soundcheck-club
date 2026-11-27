@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Josh Keit & Nibius" on Fri, 27 Nov 2026.
+Ministerium Club is a music venue in Lisbon with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Josh Keit & Nibius" on Fri, 27 Nov 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 12 upcoming gigs, with line-ups including 40D (Dj), 753, Adi (CO) and Adriana Ruas and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 12 upcoming gi
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

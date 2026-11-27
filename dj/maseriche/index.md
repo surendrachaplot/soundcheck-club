@@ -1,14 +1,15 @@
 # Maseriche
 
-Maseriche is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+Maseriche is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
-Maseriche is a techno and house artist based in Mexico, with 83 gigs on soundcheck across Mexico City. Often billed alongside Seagit Arc, Bluecommand and Gerhard. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
+Maseriche is a techno and house artist based in Mexico, with 84 gigs on soundcheck across Mexico City. Often billed alongside Seagit Arc, Bluecommand and Gerhard. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 24 Nov 2026 | Drama Radio Bar | Mexico City |
+| Sat, 5 Dec 2026 | YuYu Cine Club | Mexico City |
 | Thu, 10 Dec 2026 | Fünk | Mexico City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Maseriche is a techno and house artist based in Mexico, with 83 gigs on soundche
 
 Seagit Arc, Bluecommand, Gerhard
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maseriche/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maseriche/)*

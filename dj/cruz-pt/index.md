@@ -1,6 +1,6 @@
 # Cruz (PT)
 
-Cruz (PT) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Collect LX Factory, Lisbon on Thu, 31 Dec 2026.
+Cruz (PT) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Collect LX Factory, Lisbon on Thu, 31 Dec 2026.
 
 Cruz (PT) is a house and electronica artist based in Portugal, with 88 gigs on soundcheck across Barcelona, Belgrade, Bogotá and Dublin and 4 more. Often billed alongside Kaesar, Ze Salvador and Mary B. Next up: Collect LX Factory, Lisbon on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Cruz (PT) is a house and electronica artist based in Portugal, with 88 gigs on s
 
 Kaesar, Ze Salvador, Mary B (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*

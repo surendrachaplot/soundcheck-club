@@ -1,8 +1,8 @@
 # Flash Mitra
 
-Flash Mitra is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The White Hotel, Manchester on Sat, 5 Dec 2026.
+Flash Mitra is a Acid and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Hotel, Manchester on Sat, 5 Dec 2026.
 
-Flash Mitra is an acid and house artist based in United Kingdom, with 49 gigs on soundcheck across Edinburgh, Glasgow, Leeds and London and 2 more. Often billed alongside Ellie Anderson, Pharaoh Brunson and Torin Grady. Next up: The White Hotel, Manchester on Sat 5 Dec.
+Flash Mitra is an acid and house artist based in United Kingdom, with 50 gigs on soundcheck across Edinburgh, Glasgow, Leeds and London and 2 more. Often billed alongside Ellie Anderson, Pharaoh Brunson and Torin Grady. Next up: The White Hotel, Manchester on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Flash Mitra is an acid and house artist based in United Kingdom, with 49 gigs on
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The White Hotel | Manchester |
 | Sat, 12 Dec 2026 | The Glove That Fits | London |
+| Wed, 20 Jan 2027 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Flash Mitra is an acid and house artist based in United Kingdom, with 49 gigs on
 
 Ellie Anderson, Pharaoh Brunson, Torin Grady
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*

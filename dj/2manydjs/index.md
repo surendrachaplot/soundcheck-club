@@ -1,6 +1,6 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Nitsa Club, Barcelona on Sat, 28 Nov 2026.
+2ManyDJs is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Nitsa Club, Barcelona on Sat, 28 Nov 2026.
 
 2ManyDJs is a house and techno artist based in Belgium, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 32 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: Nitsa Club, Barcelona on Sat 28 Nov.
 
@@ -31,4 +31,4 @@
 
 Erol Alkan, Tiga, Bolis Pupul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

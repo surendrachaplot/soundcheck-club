@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Romare (Live)  Mari.te  Mazo DJs  " on Fri, 27 Nov 2026.
+Sala Villanos is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Romare (Live)  Mari.te  Mazo DJs  " on Fri, 27 Nov 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Horse Meat Disco and Kyle Hall and 2 more. See dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -19,4 +19,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, 
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

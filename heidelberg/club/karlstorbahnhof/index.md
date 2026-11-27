@@ -1,13 +1,14 @@
 # Karlstorbahnhof
 
-Karlstorbahnhof is a music venue in Heidelberg with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Silvesterparty" on Thu, 31 Dec 2026.
+Karlstorbahnhof is a music venue in Heidelberg with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Gitter presents: Lucia Lu" on Fri, 25 Dec 2026.
 
-Karlstorbahnhof is a music venue in Heidelberg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Karlstorbahnhof is a music venue in Heidelberg listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 25 Dec 2026 | Gitter presents: Lucia Lu |  |
 | Thu, 31 Dec 2026 | Silvesterparty |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/karlstorbahnhof/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/karlstorbahnhof/)*

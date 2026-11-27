@@ -1,6 +1,6 @@
 # k4mi
 
-k4mi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
+k4mi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
 
 k4mi is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin and Bremen. Often billed alongside Amo (IT), Amorelie and August Kind. Next up: TBA - secret Location via Telegram , Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ k4mi is a techno and trance artist based in Germany, with 9 gigs on soundcheck a
 
 Amo (IT), Amorelie, August Kind
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k4mi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k4mi/)*

@@ -1,6 +1,6 @@
 # Lauren Ritter
 
-Lauren Ritter is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at H0L0, New York City on Sat, 28 Nov 2026.
+Lauren Ritter is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at H0L0, New York City on Sat, 28 Nov 2026.
 
 Lauren Ritter is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Ibiza, Miami, New York City and San Francisco/Oakland and 2 more. Often billed alongside Maksim, Connie and O.BEE. Next up: H0L0, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Lauren Ritter is a house and deep house artist based in United States of America
 
 Maksim, Connie, O.BEE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenritter/)*

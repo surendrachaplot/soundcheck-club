@@ -1,6 +1,6 @@
 # Martin Pålsson
 
-Martin Pålsson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Strand Rederi, Stockholm on Sat, 28 Nov 2026.
+Martin Pålsson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Strand Rederi, Stockholm on Sat, 28 Nov 2026.
 
 Martin Pålsson is a house and techno artist based in Sweden, with 6 gigs on soundcheck across Stockholm. Often billed alongside permerin, Hamparsomian and Martin Kling. Next up: Strand Rederi, Stockholm on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Martin Pålsson is a house and techno artist based in Sweden, with 6 gigs on sou
 
 permerin, Hamparsomian, Martin Kling
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinpalsson/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinpalsson/)*

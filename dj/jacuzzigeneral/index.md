@@ -1,6 +1,6 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Doghouse, Edinburgh on Fri, 27 Nov 2026.
+Jacuzzi General is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Doghouse, Edinburgh on Fri, 27 Nov 2026.
 
 Jacuzzi General is a house and balearic artist based in United Kingdom, with 118 gigs on soundcheck across Berlin, Edinburgh and London. Often billed alongside Lara Sinclair, Ann Tweak and Fierro Grande. Next up: The Doghouse, Edinburgh on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Jacuzzi General is a house and balearic artist based in United Kingdom, with 118
 
 Lara Sinclair, Ann Tweak, Fierro Grande
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*

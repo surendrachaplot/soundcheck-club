@@ -1,6 +1,6 @@
 # Africanoise
 
-Africanoise is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
+Africanoise is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mercado Livre Arena Pacaembu, Sao-paulo on Fri, 9 Apr 2027.
 
 Africanoise is a house and afro tech artist based in Brazil, with 32 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Aleakim, Miguel Arcanjo and Quimera. Next up: Mercado Livre Arena Pacaembu, Sao Paulo on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ Africanoise is a house and afro tech artist based in Brazil, with 32 gigs on sou
 
 Aleakim, Miguel Arcanjo, Quimera
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/africanoise/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/africanoise/)*

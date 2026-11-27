@@ -1,6 +1,6 @@
 # Hye-Eun Kim
 
-Hye-Eun Kim is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Distillery, Leipzig on Fri, 27 Nov 2026.
+Hye-Eun Kim is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery, Leipzig on Fri, 27 Nov 2026.
 
 Hye-Eun Kim is an ambient and experimental artist based in Germany, with 21 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig. Often billed alongside Cloud Management, Cosmo (KR) and Margaux Gazur. Next up: Distillery, Leipzig on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Hye-Eun Kim is an ambient and experimental artist based in Germany, with 21 gigs
 
 Cloud Management, Cosmo (KR), Margaux Gazur
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hye-eunkim/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hye-eunkim/)*

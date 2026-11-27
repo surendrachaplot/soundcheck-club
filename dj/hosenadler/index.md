@@ -1,6 +1,6 @@
 # Hosenadler
 
-Hosenadler is a Hip-Hop and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ballhaus Berlin, Berlin on Sun, 20 Dec 2026.
+Hosenadler is a Hip-Hop and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ballhaus Berlin, Berlin on Sun, 20 Dec 2026.
 
 Hosenadler is a hip-hop and ambient artist based in Germany, with 6 gigs on soundcheck across Berlin and Vienna. Often billed alongside Bovskey, Kat.lysa and Lealaetitia. Next up: Ballhaus Berlin, Berlin on Sun 20 Dec.
 
@@ -22,4 +22,4 @@ Hosenadler is a hip-hop and ambient artist based in Germany, with 6 gigs on soun
 
 Bovskey, Kat.lysa, Lealaetitia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hosenadler/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hosenadler/)*

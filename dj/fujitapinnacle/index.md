@@ -1,6 +1,6 @@
 # Fujita Pinnacle
 
-Fujita Pinnacle is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 12 Dec 2026.
+Fujita Pinnacle is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 12 Dec 2026.
 
 Fujita Pinnacle is a bass and jungle artist based in Slovenia, with 38 gigs on soundcheck across Athens, Beijing, Belgrade and Berlin and 9 more. Often billed alongside Nice Trick, DVS and Sahara Transport Services. Next up: YAAM Berlin, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Fujita Pinnacle is a bass and jungle artist based in Slovenia, with 38 gigs on s
 
 Nice Trick, DVS, Sahara Transport Services
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fujitapinnacle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fujitapinnacle/)*

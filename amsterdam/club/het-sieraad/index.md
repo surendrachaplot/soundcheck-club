@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Konstantin Sibold (4hrs) - Alicia Hahn" on Fri, 27 Nov 2026.
+Het Sieraad is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Konstantin Sibold (4hrs) - Alicia Hahn" on Fri, 27 Nov 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Alexander Koning, Alicia Hahn, Âme and Anthony Rother and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

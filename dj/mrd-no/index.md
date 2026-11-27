@@ -1,8 +1,8 @@
 # MRD (NO)
 
-MRD (NO) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
+MRD (NO) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
 
-MRD (NO) is a techno and trance artist based in Norway, with 144 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 57 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
+MRD (NO) is a techno and trance artist based in Norway, with 145 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 57 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MRD (NO) is a techno and trance artist based in Norway, with 144 gigs on soundch
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Chocolate Factory | New York City |
 | Sat, 28 Nov 2026 | Radius | Chicago |
+| Fri, 11 Dec 2026 | The Villa | Oslo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MRD (NO) is a techno and trance artist based in Norway, with 144 gigs on soundch
 
 MrD, MCR-T, DJ Gigola
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*

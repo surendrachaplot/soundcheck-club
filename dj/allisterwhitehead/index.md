@@ -1,6 +1,6 @@
 # Allister Whitehead
 
-Allister Whitehead is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Project House, Leeds on Sat, 28 Nov 2026.
+Allister Whitehead is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Project House, Leeds on Sat, 28 Nov 2026.
 
 Allister Whitehead is a house and disco artist based in United Kingdom, with 14 gigs on soundcheck across Brighton, Glasgow, Ibiza and Leeds and 4 more. Often billed alongside Jason Bye, Clara Da Costa and Danny Rampling. Next up: Project House, Leeds on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Allister Whitehead is a house and disco artist based in United Kingdom, with 14 
 
 Jason Bye, Clara Da Costa, Danny Rampling
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allisterwhitehead/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allisterwhitehead/)*

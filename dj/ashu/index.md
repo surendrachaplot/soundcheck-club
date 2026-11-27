@@ -1,17 +1,18 @@
 # ashu
 
-ashu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at WWW, Tokyo on Fri, 11 Dec 2026.
+ashu is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Spread, Tokyo on Sat, 5 Dec 2026.
 
-ashu is a techno and hardcore artist based in Japan, with 1 gig on soundcheck across Tokyo. Often billed alongside Elen Payne, Hinode and KAMIKAZE. Next up: WWW, Tokyo on Fri 11 Dec.
+ashu is a hardcore and gabber artist based in Japan, with 2 gigs on soundcheck across Tokyo. Often billed alongside KYLE MIKASA, TAIYO and Elen Payne. Next up: Spread, Tokyo on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Spread | Tokyo |
 | Fri, 11 Dec 2026 | WWW | Tokyo |
 
 ## Shares bills with
 
-Elen Payne, Hinode, KAMIKAZE
+KYLE MIKASA, TAIYO (2), Elen Payne
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashu/)*

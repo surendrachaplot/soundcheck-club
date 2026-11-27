@@ -1,6 +1,6 @@
 # PAN (12)
 
-PAN (12) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Shibuya Club Ball, Tokyo on Sat, 28 Nov 2026.
+PAN (12) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shibuya Club Ball, Tokyo on Sat, 28 Nov 2026.
 
 PAN is a house and disco artist based in Greece, with 15 gigs on soundcheck across Athens, Madrid, Paris and Tokyo. Often billed alongside Agoria, 000 and 505 (Live). Next up: Shibuya Club Ball, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ PAN is a house and disco artist based in Greece, with 15 gigs on soundcheck acro
 
 Agoria, 000, 505 (Live)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-12/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-12/)*

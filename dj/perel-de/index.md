@@ -1,8 +1,8 @@
 # Perel
 
-Perel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 28 Nov 2026.
+Perel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pérola Negra Club, Porto on Sat, 28 Nov 2026.
 
-Perel is a house and techno artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 38 more. Often billed alongside Tiga, Erol Alkan and Gerd Janson. Next up: Pérola Negra Club, Porto on Sat 28 Nov.
+Perel is a house and techno artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 39 more. Often billed alongside Gerd Janson, Tiga and Erol Alkan. Next up: Pérola Negra Club, Porto on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Perel is a house and techno artist based in Germany, with 111 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Pérola Negra Club | Porto |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
+| Fri, 1 Jan 2027 | Studio Club Malaga | Malaga |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Perel is a house and techno artist based in Germany, with 111 gigs on soundcheck
 
 ## Shares bills with
 
-Tiga, Erol Alkan, Gerd Janson
+Gerd Janson, Tiga, Erol Alkan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*

@@ -1,6 +1,6 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Paloma, Berlin on Fri, 27 Nov 2026.
+Grace Sands is a House and Deep House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paloma, Berlin on Fri, 27 Nov 2026.
 
 Grace Sands is a house and deep house artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Michelle Manetti, Roi Perez and Stuart Patterson. Next up: Paloma, Berlin on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 159 g
 
 Michelle Manetti, Roi Perez, Stuart Patterson
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

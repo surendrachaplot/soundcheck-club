@@ -1,6 +1,6 @@
 # Jimmy Rouge
 
-Jimmy Rouge is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Sugar Club, Dublin on Tue, 22 Dec 2026.
+Jimmy Rouge is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Sugar Club, Dublin on Tue, 22 Dec 2026.
 
 Jimmy Rouge is an electronic artist, with 6 gigs on soundcheck across Amsterdam, Dublin and London. Often billed alongside A For Alpha, Amy Os and DJ Camov. Next up: The Sugar Club, Dublin on Tue 22 Dec.
 
@@ -22,4 +22,4 @@ Jimmy Rouge is an electronic artist, with 6 gigs on soundcheck across Amsterdam,
 
 A For Alpha, Amy Os, DJ Camov
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyrouge/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyrouge/)*

@@ -1,6 +1,6 @@
 # Nils Hess
 
-Nils Hess is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Casa Jako, London on Sat, 19 Dec 2026.
+Nils Hess is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Casa Jako, London on Sat, 19 Dec 2026.
 
 Nils Hess is a tech house and deep house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Jake Beautyman, DJ JB and Phil Source. Next up: Casa Jako, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Nils Hess is a tech house and deep house artist based in United Kingdom, with 11
 
 Jake Beautyman, DJ JB, Phil Source
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshess/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshess/)*

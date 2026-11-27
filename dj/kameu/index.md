@@ -1,6 +1,6 @@
 # Kameu
 
-Kameu is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at gallery 1986, Vilnius on Fri, 19 Feb 2027.
+Kameu is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at gallery 1986, Vilnius on Fri, 19 Feb 2027.
 
 Kameu is a techno and acid artist, with 8 gigs on soundcheck across London, Porto and Vilnius. Often billed alongside Amulador, dtekk and Blazej Malinowski. Next up: gallery 1986, Vilnius on Fri 19 Feb.
 
@@ -24,4 +24,4 @@ Kameu is a techno and acid artist, with 8 gigs on soundcheck across London, Port
 
 Amulador, dtekk, Blazej Malinowski
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kameu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kameu/)*

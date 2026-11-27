@@ -1,6 +1,6 @@
 # Negativ
 
-Negativ is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+Negativ is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
 
 Negativ is a bass and dubstep artist, with 14 gigs on soundcheck across Amsterdam, Belfast, Frankfurt and Poznan and 1 more. Often billed alongside SHHME, long w and A.N.I.. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Negativ is a bass and dubstep artist, with 14 gigs on soundcheck across Amsterda
 
 SHHME, long w, A.N.I.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*

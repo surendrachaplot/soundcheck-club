@@ -1,6 +1,6 @@
 # Nohman
 
-Nohman is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 18 Dec 2026.
+Nohman is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 18 Dec 2026.
 
 Nohman is a techno and minimal techno artist, with 12 gigs on soundcheck across Hong Kong and Seoul. Often billed alongside Mill.H, ADRIANNA.C and Zora Chan. Next up: 宀 Club, Hong Kong on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Nohman is a techno and minimal techno artist, with 12 gigs on soundcheck across 
 
 Mill.H, ADRIANNA.C, Zora Chan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohman/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohman/)*

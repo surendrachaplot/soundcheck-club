@@ -1,6 +1,6 @@
 # O2 Academy Sheffield
 
-O2 Academy Sheffield is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Love to be... Shefield - W Sam Divine/Ferreck Dawn" on Sat, 6 Feb 2027.
+O2 Academy Sheffield is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Love to be... Shefield - W Sam Divine/Ferreck Dawn" on Sat, 6 Feb 2027.
 
 O2 Academy Sheffield is a music venue in Sheffield listed on soundcheck. 1 upcoming gig, with line-ups including DJ Spen, Ferreck Dawn and Sam Divine. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ O2 Academy Sheffield is a music venue in Sheffield listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 6 Feb 2027 | Love to be... Shefield - W Sam Divine/Ferreck Dawn | DJ Spen, Ferreck Dawn, Sam Divine |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/o2-academy-sheffield/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/o2-academy-sheffield/)*

@@ -1,13 +1,14 @@
 # EDNA
 
-EDNA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Turbinenhalle, North-rhine-westphalia on Sat, 13 Mar 2027.
+EDNA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Artheater, Cologne on Sat, 26 Dec 2026.
 
-EDNA is a techno and trance artist based in Germany, with 59 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Frankfurt and 8 more. Often billed alongside Isabelle Beaucamp, DeGuzman and Melanchromie. Next up: Turbinenhalle, North Rhine Westphalia on Sat 13 Mar.
+EDNA is a techno and trance artist based in Germany, with 60 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Frankfurt and 8 more. Often billed alongside Isabelle Beaucamp, DeGuzman and Melanchromie. Next up: Artheater, Cologne on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Dec 2026 | Artheater | Cologne |
 | Sat, 13 Mar 2027 | Turbinenhalle | North-rhine-westphalia |
 
 ## Recently played
@@ -25,4 +26,4 @@ EDNA is a techno and trance artist based in Germany, with 59 gigs on soundcheck 
 
 Isabelle Beaucamp, DeGuzman, Melanchromie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edna/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edna/)*

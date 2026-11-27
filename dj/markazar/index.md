@@ -1,6 +1,6 @@
 # Mark Azar
 
-Mark Azar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tigres de la Noche, Washington DC on Fri, 27 Nov 2026.
+Mark Azar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tigres de la Noche, Washington DC on Fri, 27 Nov 2026.
 
 Mark Azar is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Baltimore, Miami, New York City and Washington DC. Often billed alongside AJAMU, Mazlow and Bridget. Next up: Tigres de la Noche, Washington DC on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mark Azar is a house and tech house artist based in United States of America, wi
 
 AJAMU, Mazlow, Bridget
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markazar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markazar/)*

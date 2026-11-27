@@ -1,6 +1,6 @@
 # Bluemarina
 
-Bluemarina is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Forte Prenestino, Rome on Fri, 27 Nov 2026.
+Bluemarina is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Forte Prenestino, Rome on Fri, 27 Nov 2026.
 
 Bluemarina is a techno and experimental artist based in Italy, with 30 gigs on soundcheck across Milan, Naples, Rome and Turin. Often billed alongside Ettore Corsi, Future Nomadz and Gattonero. Next up: Forte Prenestino, Rome on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bluemarina is a techno and experimental artist based in Italy, with 30 gigs on s
 
 Ettore Corsi, Future Nomadz, Gattonero
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemarina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemarina/)*

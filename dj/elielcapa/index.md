@@ -1,6 +1,6 @@
 # Eliel Capa
 
-Eliel Capa is a Techno and Guaracha artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Pulquería Vacas Verdes, Mexico City on Sat, 12 Dec 2026.
+Eliel Capa is a Techno and Guaracha artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pulquería Vacas Verdes, Mexico City on Sat, 12 Dec 2026.
 
 Eliel Capa is a techno and guaracha artist based in Mexico, with 100 gigs on soundcheck across Berlin, Madrid, Mexico City and New York City and 1 more. Often billed alongside Enya Botello, Pablo Lara and Diego Walle. Next up: Pulquería Vacas Verdes, Mexico City on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Eliel Capa is a techno and guaracha artist based in Mexico, with 100 gigs on sou
 
 Enya Botello, Pablo Lara, Diego Walle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*

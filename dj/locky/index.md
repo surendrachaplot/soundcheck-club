@@ -1,8 +1,8 @@
 # Locky
 
-Locky is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Locky is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-Locky is a house and tech house artist based in United Kingdom, with 162 gigs on soundcheck across Aberdeen, Amsterdam, Austria and Barcelona and 36 more. Often billed alongside Mad.Again, Luke Dean_ and Max Dean. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Locky is a house and tech house artist based in United Kingdom, with 163 gigs on soundcheck across Aberdeen, Amsterdam, Austria and Barcelona and 37 more. Often billed alongside Mad.Again, Luke Dean_ and Max Dean. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Locky is a house and tech house artist based in United Kingdom, with 162 gigs on
 | Fri, 18 Dec 2026 | Halcyon | San Francisco/Oakland |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
+| Thu, 7 Jan 2027 | Banana Beach Club by Sollis 2.0 | Phuket |
 | Fri, 5 Feb 2027 | Sacré | Paris |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
@@ -33,4 +34,4 @@ Locky is a house and tech house artist based in United Kingdom, with 162 gigs on
 
 Mad.Again (2), Luke Dean_, Max Dean
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

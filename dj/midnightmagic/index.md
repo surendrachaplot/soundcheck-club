@@ -1,6 +1,6 @@
 # Midnight Magic
 
-Midnight Magic is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Franca, Los Angeles on Fri, 27 Nov 2026.
+Midnight Magic is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Franca, Los Angeles on Fri, 27 Nov 2026.
 
 Midnight Magic is a disco and italo disco artist based in United States of America, with 30 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 3 more. Often billed alongside Andi, COLOURS 87 and Facets. Next up: Bar Franca, Los Angeles on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Midnight Magic is a disco and italo disco artist based in United States of Ameri
 
 Andi, COLOURS 87, Facets
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*

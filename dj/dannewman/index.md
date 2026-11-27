@@ -1,6 +1,6 @@
 # Dan Newman
 
-Dan Newman is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
+Dan Newman is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
 
 Dan Newman is a house and garage artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Cardiff, Dublin and Madrid and 2 more. Often billed alongside Bethany, Gerardo Niva and 6 SENSE. Next up: ark (Melb), Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dan Newman is a house and garage artist based in United Kingdom, with 10 gigs on
 
 Bethany (1), Gerardo Niva, 6 SENSE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannewman/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannewman/)*

@@ -1,6 +1,6 @@
 # Cromby
 
-Cromby is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
+Cromby is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
 
 Cromby is a house and techno artist based in Ireland, with 148 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Sally C, Spray and DJ Gigola. Next up: Lijm & Cultuur, Netherlands on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Cromby is a house and techno artist based in Ireland, with 148 gigs on soundchec
 
 Sally C, Spray, DJ Gigola
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*

@@ -1,18 +1,22 @@
 # VILLANELLE
 
-VILLANELLE is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bridge 48, Barcelona on Thu, 26 Nov 2026.
+VILLANELLE is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DETROIT CLUB, Barcelona on Sun, 27 Dec 2026.
 
-VILLANELLE is a techno artist based in Spain, with 2 gigs on soundcheck across Barcelona. Often billed alongside Daryl Kaplan. Next up: Bridge 48, Barcelona on Thu 26 Nov.
+VILLANELLE is a techno artist based in Spain, with 3 gigs on soundcheck across Barcelona. Often billed alongside DSNGDMANN, Daryl Kaplan and NX1. Next up: DETROIT CLUB, Barcelona on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Bridge 48 | Barcelona |
 | Sun, 27 Dec 2026 | DETROIT CLUB | Barcelona |
+| Sat, 16 Jan 2027 | Village Underground Barcelona | Barcelona |
+
+## Recently played
+
+- Bridge 48, Barcelona · Thu, 26 Nov 2026
 
 ## Shares bills with
 
-Daryl Kaplan
+DSNGDMANN, Daryl Kaplan, NX1
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/villanelle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/villanelle/)*

@@ -1,6 +1,6 @@
 # Eliza Rose
 
-Eliza Rose is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mondo, Madrid on Thu, 3 Dec 2026.
+Eliza Rose is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mondo, Madrid on Thu, 3 Dec 2026.
 
 Eliza Rose is a house and tech house artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 44 more. Often billed alongside Dan Shake, Sally C and TSHA. Next up: Mondo, Madrid on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Eliza Rose is a house and tech house artist based in United Kingdom, with 149 gi
 
 Dan Shake, Sally C, TSHA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*

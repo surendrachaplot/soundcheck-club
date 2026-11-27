@@ -1,6 +1,6 @@
 # Gong
 
-Gong is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Solfa, Tokyo on Sat, 28 Nov 2026.
+Gong is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Solfa, Tokyo on Sat, 28 Nov 2026.
 
 Gong is a house and minimal artist based in South Korea, with 29 gigs on soundcheck across Chengdu, Liverpool, Seoul and Tokyo. Often billed alongside Cy Nico, Shinyoung and LEEKUNHEE. Next up: Solfa, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gong is a house and minimal artist based in South Korea, with 29 gigs on soundch
 
 Cy Nico, Shinyoung, LEEKUNHEE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*

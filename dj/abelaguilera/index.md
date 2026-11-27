@@ -1,6 +1,6 @@
 # Abel Aguilera
 
-Abel Aguilera is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Stereo, Montreal on Sat, 19 Dec 2026.
+Abel Aguilera is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stereo, Montreal on Sat, 19 Dec 2026.
 
 Abel Aguilera is a tech house and house artist based in United States of America, with 10 gigs on soundcheck across Amsterdam, Montreal and Puerto Vallarta. Often billed alongside Alfonso Tan, Aluna and Barbara Tucker. Next up: Stereo, Montreal on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Abel Aguilera is a tech house and house artist based in United States of America
 
 Alfonso Tan, Aluna, Barbara Tucker
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelaguilera/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelaguilera/)*

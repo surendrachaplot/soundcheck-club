@@ -1,6 +1,6 @@
 # Peter Schumann
 
-Peter Schumann is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Private Location Neukölln, Berlin on Fri, 27 Nov 2026.
+Peter Schumann is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Private Location Neukölln, Berlin on Fri, 27 Nov 2026.
 
 Peter Schumann is a house and techno artist based in Germany, with 81 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 9 more. Often billed alongside Bo Irion, Pauli Pocket and Sascha Cawa. Next up: Private Location Neukölln, Berlin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Peter Schumann is a house and techno artist based in Germany, with 81 gigs on so
 
 Bo Irion, Pauli Pocket, Sascha Cawa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterschumann/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterschumann/)*

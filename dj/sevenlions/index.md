@@ -1,6 +1,6 @@
 # Seven Lions
 
-Seven Lions is a Dubstep and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Rebel, Toronto on Fri, 4 Dec 2026.
+Seven Lions is a Dubstep and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rebel, Toronto on Fri, 4 Dec 2026.
 
 Seven Lions is a dubstep and house artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Arizona, Boston and Chicago and 9 more. Often billed alongside James Hype (UK), Deadmau5 and Deorro. Next up: Rebel, Toronto on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Seven Lions is a dubstep and house artist based in United States of America, wit
 
 James Hype (UK), Deadmau5, Deorro
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*

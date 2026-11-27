@@ -1,6 +1,6 @@
 # Mia Bergmann
 
-Mia Bergmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ://about blank, Berlin on Sun, 6 Dec 2026.
+Mia Bergmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Sun, 6 Dec 2026.
 
 Mia Bergmann is a house and techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Felix Herrmann, Andrew Xas and MAIROS. Next up: ://about blank, Berlin on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Mia Bergmann is a house and techno artist based in Germany, with 13 gigs on soun
 
 Felix Herrmann, Andrew Xas, MAIROS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miabergmann/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miabergmann/)*

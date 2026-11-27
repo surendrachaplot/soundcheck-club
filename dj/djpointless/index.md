@@ -1,6 +1,6 @@
 # DJ Pointless
 
-DJ Pointless is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Doka, Amsterdam on Fri, 1 Jan 2027.
+DJ Pointless is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doka, Amsterdam on Fri, 1 Jan 2027.
 
 DJ Pointless is a house and disco artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Bevan, Retromigration and A For Alpha. Next up: Doka, Amsterdam on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ DJ Pointless is a house and disco artist based in Netherlands, with 18 gigs on s
 
 Bevan, Retromigration, A For Alpha
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpointless/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpointless/)*

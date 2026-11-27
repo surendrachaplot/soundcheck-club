@@ -1,6 +1,6 @@
 # Valley Dolly
 
-Valley Dolly is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
+Valley Dolly is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
 
 Valley Dolly is a house and techno artist based in Georgia, with 71 gigs on soundcheck across Berlin, Brussels, Dresden and Hamburg and 7 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: objekt klein a, Dresden on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Valley Dolly is a house and techno artist based in Georgia, with 71 gigs on soun
 
 Kvanchi, Sophie Phare, Hamatsuki
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*

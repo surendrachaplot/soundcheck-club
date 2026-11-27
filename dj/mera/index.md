@@ -1,6 +1,6 @@
 # Mera
 
-Mera is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 28 Nov 2026.
+Mera is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 28 Nov 2026.
 
 Mera is a house and techno artist based in Romania, with 15 gigs on soundcheck across Bucharest and London. Often billed alongside Prichindel, Los Bastoneros and Cap. Next up: Club Guesthouse, Bucharest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mera is a house and techno artist based in Romania, with 15 gigs on soundcheck a
 
 Prichindel, Los Bastoneros, Cap
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mera/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mera/)*

@@ -1,14 +1,13 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 18 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Rouzi LIVE feat. RADAR Crew" on Thu, 26 Nov 2026.
+Karmakoma is a music venue in Belgrade with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Kedr Livanskiy" on Fri, 27 Nov 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 18 upcoming gigs, with line-ups including 7OGI, Ali Guney, Amor Satyr and Aneri and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 17 upcoming gigs, with line-ups including 7OGI, Ali Guney, Amor Satyr and Aneri and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Rouzi LIVE feat. RADAR Crew |  |
 | Fri, 27 Nov 2026 | Kedr Livanskiy | Kedr Livanskiy |
 | Fri, 27 Nov 2026 | Xiaolin, Janko, Mande | Janko, Xiaolin |
 | Sat, 28 Nov 2026 | Steven Julien, Igor Jadranin | Igor Jadranin, Steven Julien |
@@ -18,9 +17,10 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 18 upcoming gigs, w
 | Fri, 11 Dec 2026 | Repetitor Live, predgrupa Antarktik |  |
 | Sat, 12 Dec 2026 | I:Cube, Sacha Mambo | I:Cube, Sacha Mambo |
 | Fri, 18 Dec 2026 | Onur Özer, Marko Nastić | Marko Nastic, Onur Özer |
+| Sat, 19 Dec 2026 | YES invites Pariah | Pariah, Stevie Whisper |
 
 ## Address
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

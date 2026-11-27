@@ -1,6 +1,6 @@
 # PiNG (UK)
 
-PiNG (UK) is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 18 Dec 2026.
+PiNG (UK) is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 18 Dec 2026.
 
 PiNG (UK) is a minimal and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona, London and Zurich. Often billed alongside Josh Smith, Last Pines and Mortalyf. Next up: 303 Audiophile Bar, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ PiNG (UK) is a minimal and tech house artist based in United Kingdom, with 9 gig
 
 Josh Smith, Last Pines, Mortalyf
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinguk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinguk/)*

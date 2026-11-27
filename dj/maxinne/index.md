@@ -1,6 +1,6 @@
 # Maxinne
 
-Maxinne is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sound, Los Angeles on Thu, 10 Dec 2026.
+Maxinne is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sound, Los Angeles on Thu, 10 Dec 2026.
 
 Maxinne is a house and tech house artist based in United Kingdom, with 41 gigs on soundcheck across Austin, Chicago, Dubai and Frankfurt and 13 more. Often billed alongside Anabel Englund, Anthony Attalla and DEEPFAKE. Next up: Sound, Los Angeles on Thu 10 Dec.
 
@@ -27,4 +27,4 @@ Maxinne is a house and tech house artist based in United Kingdom, with 41 gigs o
 
 Anabel Englund, Anthony Attalla, DEEPFAKE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxinne/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxinne/)*

@@ -1,6 +1,6 @@
 # Cactunes
 
-Cactunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 28 Nov 2026.
+Cactunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 28 Nov 2026.
 
 Cactunes is a house and techno artist based in Brazil, with 45 gigs on soundcheck across Milan, Rio de Janeiro and Sao Paulo. Often billed alongside Guss, ZOMERO and Adnan Sharif. Next up: D-EDGE, Sao Paulo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cactunes is a house and techno artist based in Brazil, with 45 gigs on soundchec
 
 Guss, ZOMERO, Adnan Sharif
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cactunes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cactunes/)*

@@ -1,6 +1,6 @@
 # Alina Viktoria
 
-Alina Viktoria is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 27 Nov 2026.
+Alina Viktoria is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 27 Nov 2026.
 
 Alina Viktoria is a techno and trance artist based in Germany, with 75 gigs on soundcheck across Berlin, Budapest, Cologne and Dresden and 7 more. Often billed alongside SACID, Dexy's Midnight and Aexhy. Next up: Humboldthain Club, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Alina Viktoria is a techno and trance artist based in Germany, with 75 gigs on s
 
 SACID, Dexy's Midnight, Aexhy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinaviktoria/)*

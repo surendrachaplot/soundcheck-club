@@ -1,6 +1,6 @@
 # MC CKP
 
-MC CKP is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
+MC CKP is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
 MC CKP is a garage and house artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside MC Creed, MC DT and DJ Listener. Next up: The City Pride, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MC CKP is a garage and house artist based in United Kingdom, with 24 gigs on sou
 
 MC Creed, MC DT, DJ Listener
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcckp/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcckp/)*

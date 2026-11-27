@@ -1,6 +1,6 @@
 # Lia
 
-Lia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Prince Charles, Berlin on Thu, 31 Dec 2026.
+Lia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Prince Charles, Berlin on Thu, 31 Dec 2026.
 
 Lia is a house and techno artist based in Germany, with 58 gigs on soundcheck across Belfast, Berlin, Cologne and Dublin and 11 more. Often billed alongside Cindy G, Badanka and Brahmski. Next up: Prince Charles, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lia is a house and techno artist based in Germany, with 58 gigs on soundcheck ac
 
 Cindy G, Badanka, Brahmski
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lia/)*

@@ -1,6 +1,6 @@
 # Kubok
 
-Kubok is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tama, Poznan on Fri, 4 Dec 2026.
+Kubok is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tama, Poznan on Fri, 4 Dec 2026.
 
 Kubok is a techno and trance artist based in Poland, with 44 gigs on soundcheck across Krakow, Poznan, Riga and Warsaw and 1 more. Often billed alongside outta_8, Truant and Kowa. Next up: Tama, Poznan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kubok is a techno and trance artist based in Poland, with 44 gigs on soundcheck 
 
 outta_8, Truant, Kowa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kubok/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kubok/)*

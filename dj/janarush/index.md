@@ -1,6 +1,6 @@
 # Jana Rush
 
-Jana Rush is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Chicago, Chicago on Fri, 27 Nov 2026.
+Jana Rush is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Chicago, Chicago on Fri, 27 Nov 2026.
 
 Jana Rush is a footwork and house artist based in United States of America, with 49 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 7 more. Often billed alongside Traxman, DJ Hank (US) and DJ Spinn. Next up: TBA - Chicago, Chicago on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jana Rush is a footwork and house artist based in United States of America, with
 
 Traxman, DJ Hank (US), DJ Spinn
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janarush/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janarush/)*

@@ -1,6 +1,6 @@
 # Yanko Kral
 
-Yanko Kral is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Šafko Klub, Bratislava on Fri, 4 Dec 2026.
+Yanko Kral is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Šafko Klub, Bratislava on Fri, 4 Dec 2026.
 
 Yanko Kral is a hip-hop and pop artist, with 22 gigs on soundcheck across Berlin and Bratislava. Often billed alongside MIKLEI, OTEC MIREC and UrbnMowgli. Next up: Šafko Klub, Bratislava on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Yanko Kral is a hip-hop and pop artist, with 22 gigs on soundcheck across Berlin
 
 MIKLEI, OTEC MIREC, UrbnMowgli
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yankokral/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yankokral/)*

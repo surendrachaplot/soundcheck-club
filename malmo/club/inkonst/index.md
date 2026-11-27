@@ -1,6 +1,6 @@
 # Inkonst
 
-Inkonst is a music venue in Malmo with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "raster 30 Years Anniversary" on Fri, 27 Nov 2026.
+Inkonst is a music venue in Malmo with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "raster 30 Years Anniversary" on Fri, 27 Nov 2026.
 
 Inkonst is a music venue in Malmo listed on soundcheck. 6 upcoming gigs, with line-ups including Baba Stiltz, Frank Bretschneider, Gábor Lázár and John Cleworth and 2 more. See dates, start times and who's playing. Bergsgatan 29, 214 22 Malmö, Sweden.
 
@@ -19,4 +19,4 @@ Inkonst is a music venue in Malmo listed on soundcheck. 6 upcoming gigs, with li
 
 Bergsgatan 29, 214 22 Malmö, Sweden, Malmo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*

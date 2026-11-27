@@ -1,6 +1,6 @@
 # pxlwlkr
 
-pxlwlkr is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
+pxlwlkr is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
 
 pxlwlkr is a baile funk and bass artist based in United States of America, with 14 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside jaag (US), day astro and 40split. Next up: Underground SF, San Francisco/Oakland on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ pxlwlkr is a baile funk and bass artist based in United States of America, with 
 
 jaag (US), day astro, 40split
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pxlwlkr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pxlwlkr/)*

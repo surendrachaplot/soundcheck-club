@@ -1,6 +1,6 @@
 # Neumonic
 
-Neumonic is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
+Neumonic is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
 Neumonic is a garage and bass artist based in United States of America, with 31 gigs on soundcheck across Baltimore, Chicago, Denver and Los Angeles and 7 more. Often billed alongside DWATA, Justin Jay and Nightware. Next up: Petco Park, San Diego on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ Neumonic is a garage and bass artist based in United States of America, with 31 
 
 DWATA, Justin Jay, Nightware
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*

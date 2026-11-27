@@ -1,6 +1,6 @@
 # Ndrx
 
-Ndrx is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
+Ndrx is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Ndrx is a techno and house artist based in Georgia, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Newa, Kancheli and Sophie Phare. Next up: RSO.BERLIN, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Ndrx is a techno and house artist based in Georgia, with 122 gigs on soundcheck 
 
 Newa, Kancheli, Sophie Phare
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*

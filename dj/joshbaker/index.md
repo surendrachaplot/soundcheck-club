@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Radius, Chicago on Fri, 27 Nov 2026.
+Josh Baker is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Radius, Chicago on Fri, 27 Nov 2026.
 
 Josh Baker is a house and tech house artist based in United Kingdom, with 248 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Radius, Chicago on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 248 gi
 
 Max Dean, Prospa, Rossi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

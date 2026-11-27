@@ -1,6 +1,6 @@
 # RNGD
 
-RNGD is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Moog Club, Barcelona on Fri, 18 Dec 2026.
+RNGD is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Moog Club, Barcelona on Fri, 18 Dec 2026.
 
 RNGD is a techno artist based in Spain, with 13 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Porto and 2 more. Often billed alongside Dj Manglés, Jesus Riaño and Aiken. Next up: Moog Club, Barcelona on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ RNGD is a techno artist based in Spain, with 13 gigs on soundcheck across Amster
 
 Dj Manglés, Jesus Riaño, Aiken
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rngd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rngd/)*

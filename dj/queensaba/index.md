@@ -1,6 +1,6 @@
 # Queen Saba
 
-Queen Saba is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at NAR, Utrecht on Sun, 27 Dec 2026.
+Queen Saba is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at NAR, Utrecht on Sun, 27 Dec 2026.
 
 Queen Saba is an acid and italo disco artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Doppelgang, Afra and 42nd Avenue. Next up: NAR, Utrecht on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Queen Saba is an acid and italo disco artist based in Netherlands, with 17 gigs 
 
 Doppelgang, Afra, 42nd Avenue
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/queensaba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/queensaba/)*

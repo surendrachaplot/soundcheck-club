@@ -1,6 +1,6 @@
 # Miles X
 
-Miles X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yellow House, Amsterdam on Fri, 4 Dec 2026.
+Miles X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yellow House, Amsterdam on Fri, 4 Dec 2026.
 
 Miles X is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chengdu and 3 more. Often billed alongside ARTEMIX, De León and JFK (USA). Next up: Yellow House, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Miles X is a techno and house artist based in United States of America, with 15 
 
 ARTEMIX, De León, JFK (USA)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesx/)*

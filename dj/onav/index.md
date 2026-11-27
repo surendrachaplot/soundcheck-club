@@ -1,6 +1,6 @@
 # ona:v
 
-ona:v is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
+ona:v is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
 
 ona:v is a techno and electro artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 6 more. Often billed alongside ENAEN, Iona.Violet and iluna. Next up: The Bongo Club, Edinburgh on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ ona:v is a techno and electro artist based in United Kingdom, with 113 gigs on s
 
 ENAEN, Iona.Violet, iluna
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*

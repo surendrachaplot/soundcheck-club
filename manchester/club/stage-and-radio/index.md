@@ -1,6 +1,6 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Vispera's Dirtieth - Minimal Damage" on Fri, 27 Nov 2026.
+Stage and Radio is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Vispera's Dirtieth - Minimal Damage" on Fri, 27 Nov 2026.
 
 Stage and Radio is a music venue in Manchester listed on soundcheck. 30 upcoming gigs, with line-ups including Alex Milo, Ally King, Amelia Leigh and April (UK) and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 30 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

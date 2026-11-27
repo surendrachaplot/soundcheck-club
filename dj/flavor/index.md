@@ -1,6 +1,6 @@
 # Flavor
 
-Flavor is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+Flavor is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
 Flavor is a drum & bass and jungle artist, with 11 gigs on soundcheck across Mexico City. Often billed alongside Adam Collins, HEÎK and Mijo. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Flavor is a drum & bass and jungle artist, with 11 gigs on soundcheck across Mex
 
 Adam Collins, HEÎK, Mijo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flavor/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flavor/)*

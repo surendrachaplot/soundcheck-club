@@ -1,6 +1,6 @@
 # Oscar L
 
-Oscar L is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Loo Loo, Mexico City on Thu, 10 Dec 2026.
+Oscar L is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Loo Loo, Mexico City on Thu, 10 Dec 2026.
 
 Oscar L is a techno and tech house artist based in Spain, with 62 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Adam Beyer, Bart Skils and Eli Brown. Next up: Loo Loo, Mexico City on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Oscar L is a techno and tech house artist based in Spain, with 62 gigs on soundc
 
 Adam Beyer, Bart Skils, Eli Brown
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarl/)*

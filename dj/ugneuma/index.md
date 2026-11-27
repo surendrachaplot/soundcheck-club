@@ -1,6 +1,6 @@
 # Ugnė Uma
 
-Ugnė Uma is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MaHalla, Berlin on Sat, 28 Nov 2026.
+Ugnė Uma is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MaHalla, Berlin on Sat, 28 Nov 2026.
 
 Ugnė Uma is an experimental and electronica artist based in Lithuania, with 10 gigs on soundcheck across Berlin, Bristol, London and Manchester and 3 more. Often billed alongside Buttechno, feeo and James Holden. Next up: MaHalla, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Ugnė Uma is an experimental and electronica artist based in Lithuania, with 10 
 
 Buttechno, feeo, James Holden
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugneuma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugneuma/)*

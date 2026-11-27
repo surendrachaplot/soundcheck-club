@@ -1,6 +1,6 @@
 # Luska
 
-Luska is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
+Luska is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri, 27 Nov 2026.
 
 Luska is a techno and electronica artist based in Spain, with 70 gigs on soundcheck across Barcelona, Madrid, Malaga and New York City and 2 more. Often billed alongside Nurias, OXNA and Avo (ES). Next up: TBA - ENTITY POWERED BY VOID ACCOUSTICS, Madrid on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Luska is a techno and electronica artist based in Spain, with 70 gigs on soundch
 
 Nurias, OXNA, Avo (ES)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*

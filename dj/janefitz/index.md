@@ -1,8 +1,8 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Jane Fitz is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Jane Fitz is a techno and house artist based in United Kingdom, with 202 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Francesco Del Garda, Marco Shuttle and Carl H. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Jane Fitz is a techno and house artist based in United Kingdom, with 203 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Francesco Del Garda, Marco Shuttle and Carl H. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 202 gigs on
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 4 Dec 2026 | 宀 Club | Hong Kong |
+| Thu, 10 Dec 2026 | Hertz | Seoul |
 | Sat, 12 Dec 2026 | FOLD | London |
 | Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 20 Dec 2026 | Macadam | Nantes |
@@ -19,7 +20,6 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 202 gigs on
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 | Fri, 2 Apr 2027 | TBA | Sheffield |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
-| Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 202 gigs on
 
 Francesco Del Garda, Marco Shuttle, Carl H
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

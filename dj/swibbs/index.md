@@ -1,6 +1,6 @@
 # SWIBBS
 
-SWIBBS is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Rathouse, Bristol on Fri, 27 Nov 2026.
+SWIBBS is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Rathouse, Bristol on Fri, 27 Nov 2026.
 
 SWIBBS is an electro and house artist, with 6 gigs on soundcheck across Bristol and London. Often billed alongside Ross Harper, Berry and Breakcheck. Next up: The Rathouse, Bristol on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ SWIBBS is an electro and house artist, with 6 gigs on soundcheck across Bristol 
 
 Ross Harper, Berry, Breakcheck
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swibbs/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swibbs/)*

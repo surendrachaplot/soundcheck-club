@@ -1,6 +1,6 @@
 # Donavan Glover
 
-Donavan Glover is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 5 Dec 2026.
+Donavan Glover is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 5 Dec 2026.
 
 Donavan Glover is a house and hip-hop artist based in United States of America, with 64 gigs on soundcheck across Detroit. Often billed alongside Fullbodydurag, BLAAQGOLD and sillygirlcarmen. Next up: Northern Lights Lounge, Detroit on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Donavan Glover is a house and hip-hop artist based in United States of America, 
 
 Fullbodydurag, BLAAQGOLD, sillygirlcarmen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donavanglover/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donavanglover/)*

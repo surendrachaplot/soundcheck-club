@@ -1,6 +1,6 @@
 # SRI (1)
 
-SRI (1) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Mid-City LA, Los Angeles on Thu, 17 Dec 2026.
+SRI (1) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Mid-City LA, Los Angeles on Thu, 17 Dec 2026.
 
 SRI is a club and house artist based in United States of America, with 19 gigs on soundcheck across Gothenburg, Los Angeles and New York City. Often billed alongside ARMANA KHAN, 444 and ARINI. Next up: TBA - Mid-City LA, Los Angeles on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ SRI is a club and house artist based in United States of America, with 19 gigs o
 
 ARMANA KHAN, 444 (1), ARINI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sri-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sri-1/)*

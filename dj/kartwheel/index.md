@@ -1,6 +1,6 @@
 # Kartwheel
 
-Kartwheel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
+Kartwheel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
 
 Kartwheel is a house and disco artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin and Ghent. Often billed alongside Arabella Memdouh, Einmusik and Miss Melera. Next up: KitKatClub, Berlin on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Kartwheel is a house and disco artist based in Netherlands, with 7 gigs on sound
 
 Arabella Memdouh, Einmusik, Miss Melera
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kartwheel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kartwheel/)*

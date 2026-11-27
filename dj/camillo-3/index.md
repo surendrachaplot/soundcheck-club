@@ -1,6 +1,6 @@
 # Camillo (3)
 
-Camillo (3) is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 28 Nov 2026.
+Camillo (3) is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 28 Nov 2026.
 
 Camillo is a techno and electronica artist based in Italy, with 7 gigs on soundcheck across Milan and Turin. Often billed alongside SIMI., ANDREA SALVAGGIO and Ace Vision. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Camillo is a techno and electronica artist based in Italy, with 7 gigs on soundc
 
 SIMI. (2), ANDREA SALVAGGIO, Ace Vision
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo-3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo-3/)*

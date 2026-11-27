@@ -1,6 +1,6 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "x3butterfly" on Fri, 4 Dec 2026.
+3oz Dive Club is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "x3butterfly" on Fri, 4 Dec 2026.
 
 3oz Dive Club is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Danny Daze, Egyptian Lover, HOOCHIE and SHAKING and 2 more. See dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
@@ -18,4 +18,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

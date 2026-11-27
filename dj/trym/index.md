@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Gate Milano, Milan on Fri, 27 Nov 2026.
+Trym is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gate Milano, Milan on Fri, 27 Nov 2026.
 
 Trym is a techno and trance artist based in France, with 217 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Arizona and 80 more. Often billed alongside Shlømo, Nico Moreno and Alignment. Next up: Gate Milano, Milan on Fri 27 Nov.
 
@@ -32,4 +32,4 @@ Trym is a techno and trance artist based in France, with 217 gigs on soundcheck 
 
 Shlømo, Nico Moreno, Alignment
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

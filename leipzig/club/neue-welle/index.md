@@ -1,6 +1,6 @@
 # Neue Welle
 
-Neue Welle is a music venue in Leipzig with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Klub Galerie × Neue Welle × Catnip" on Fri, 11 Dec 2026.
+Neue Welle is a music venue in Leipzig with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Klub Galerie × Neue Welle × Catnip" on Fri, 11 Dec 2026.
 
 Neue Welle is a music venue in Leipzig listed on soundcheck. 4 upcoming gigs, with line-ups including BENITO (DE), Calippo, gretaepisch and Map.ache and 2 more. See dates, start times and who's playing. Rolf-Axen-Strasse 35 04229 Leipzig, Germany.
 
@@ -17,4 +17,4 @@ Neue Welle is a music venue in Leipzig listed on soundcheck. 4 upcoming gigs, wi
 
 Rolf-Axen-Strasse 35 04229 Leipzig, Germany, Leipzig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*

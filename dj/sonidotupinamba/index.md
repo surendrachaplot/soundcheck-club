@@ -1,14 +1,15 @@
 # Sonido Tupinamba
 
-Sonido Tupinamba is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Sonido Tupinamba is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Sonido Tupinamba is a house and disco artist based in Spain, with 80 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 10 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Sonido Tupinamba is a house and disco artist based in Spain, with 81 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 11 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Sat, 12 Dec 2026 | Nyapi | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sonido Tupinamba is a house and disco artist based in Spain, with 80 gigs on sou
 
 Camilo Miranda, Zonzo, Sama Yax
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*

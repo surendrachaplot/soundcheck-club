@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
+Brutalismus 3000 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
 
 Brutalismus 3000 is a techno and hardcore artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside DJ Gigola, MCR-T and Boys Noize. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Brutalismus 3000 is a techno and hardcore artist based in Germany, with 87 gigs 
 
 DJ Gigola, MCR-T, Boys Noize
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

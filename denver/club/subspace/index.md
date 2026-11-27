@@ -1,6 +1,6 @@
 # Subspace
 
-Subspace is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Subspace Invites VI" on Fri, 27 Nov 2026.
+Subspace is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Subspace Invites VI" on Fri, 27 Nov 2026.
 
 Subspace is a music venue in Denver listed on soundcheck. 2 upcoming gigs, with line-ups including Atalef, BMG, Deciprocal and Leenie and 1 more. See dates, start times and who's playing. Denver, Colorado, USA, 80219.
 
@@ -15,4 +15,4 @@ Subspace is a music venue in Denver listed on soundcheck. 2 upcoming gigs, with 
 
 Denver, Colorado, USA, 80219, Denver
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/subspace/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/subspace/)*

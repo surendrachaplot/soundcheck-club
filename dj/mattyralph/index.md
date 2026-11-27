@@ -1,6 +1,6 @@
 # Matty Ralph
 
-Matty Ralph is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
+Matty Ralph is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
 Matty Ralph is a techno and trance artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow, Los Angeles, New York City and Thailand. Often billed alongside AMMARA, Billy Gillies and Blasterjaxx. Next up: SWG3, Glasgow on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Matty Ralph is a techno and trance artist based in United Kingdom, with 6 gigs o
 
 AMMARA, Billy Gillies, Blasterjaxx
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyralph/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyralph/)*

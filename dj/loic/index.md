@@ -1,6 +1,6 @@
 # Loïc
 
-Loïc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Deseo BS AS, Buenos Aires on Thu, 24 Dec 2026.
+Loïc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Deseo BS AS, Buenos Aires on Thu, 24 Dec 2026.
 
 Loïc is a house and techno artist based in France, with 35 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Pato Mallet, Signo and Pabels. Next up: Deseo BS AS, Buenos Aires on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Loïc is a house and techno artist based in France, with 35 gigs on soundcheck a
 
 Pato Mallet, Signo, Pabels
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loic/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loic/)*

@@ -1,6 +1,6 @@
 # AMANN
 
-AMANN is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 12 Dec 2026.
+AMANN is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 12 Dec 2026.
 
 AMANN is a techno artist based in United Kingdom, with 41 gigs on soundcheck across Hamburg, Madrid and Mexico City. Often billed alongside Fortuno, COLLISION and CAMET. Next up: Bardo Speakeasy, Mexico City on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ AMANN is a techno artist based in United Kingdom, with 41 gigs on soundcheck acr
 
 Fortuno, COLLISION, CAMET
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amann/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amann/)*

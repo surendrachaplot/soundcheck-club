@@ -1,14 +1,13 @@
 # Fatchia
 
-Fatchia is a music venue in Rio de Janeiro with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FATCHIA Convida: Rozendo" on Thu, 26 Nov 2026.
+Fatchia is a music venue in Rio de Janeiro with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FATCHIA Convida: Bernardo Campos" on Fri, 27 Nov 2026.
 
-Fatchia is a music venue in Rio de Janeiro listed on soundcheck. 4 upcoming gigs, with line-ups including Bernardo Campos and Joutro Mundo. See dates, start times and who's playing. Rua Benjamin Constant, 8 - GlÃ³ria, Rio de Janeiro - RJ, 23060-730.
+Fatchia is a music venue in Rio de Janeiro listed on soundcheck. 3 upcoming gigs, with line-ups including Bernardo Campos and Joutro Mundo. See dates, start times and who's playing. Rua Benjamin Constant, 8 - GlÃ³ria, Rio de Janeiro - RJ, 23060-730.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | FATCHIA Convida: Rozendo |  |
 | Fri, 27 Nov 2026 | FATCHIA Convida: Bernardo Campos | Bernardo Campos |
 | Sat, 28 Nov 2026 | FATCHIA Convida: Joutro Mundo | Joutro Mundo |
 | Sun, 29 Nov 2026 | FATCHIA Convida: Badenov |  |
@@ -17,4 +16,4 @@ Fatchia is a music venue in Rio de Janeiro listed on soundcheck. 4 upcoming gigs
 
 Rua Benjamin Constant, 8 - GlÃ³ria, Rio de Janeiro - RJ, 23060-730, Rio de Janeiro
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/fatchia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/fatchia/)*

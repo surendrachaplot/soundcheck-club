@@ -1,6 +1,6 @@
 # Studio 1111
 
-Studio 1111 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BAILE TRAMA" on Sat, 28 Nov 2026.
+Studio 1111 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "BAILE TRAMA" on Sat, 28 Nov 2026.
 
 Studio 1111 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including 0neo, Bieu, MRWIZE and Oli XL and 2 more. See dates, start times and who's playing. Potsdamer Str. 96 10785 Berlin.
 
@@ -15,4 +15,4 @@ Studio 1111 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Potsdamer Str. 96 10785 Berlin, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-1111/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-1111/)*

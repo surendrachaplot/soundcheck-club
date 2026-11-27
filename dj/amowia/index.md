@@ -1,6 +1,6 @@
 # Amowia
 
-Amowia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fitzroy, Berlin on Sun, 6 Dec 2026.
+Amowia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Sun, 6 Dec 2026.
 
 Amowia is a house and techno artist based in Germany, with 33 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig. Often billed alongside Hanaby, LIL RISK and Kikelomo. Next up: Fitzroy, Berlin on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Amowia is a house and techno artist based in Germany, with 33 gigs on soundcheck
 
 Hanaby, LIL RISK, Kikelomo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amowia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amowia/)*

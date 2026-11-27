@@ -1,6 +1,6 @@
 # Excision
 
-Excision is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Excision is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Excision is a bass and drum & bass artist based in Canada, with 18 gigs on soundcheck across Auckland, Austin, Chicago and Dallas/Fort Worth and 11 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Excision is a bass and drum & bass artist based in Canada, with 18 gigs on sound
 
 KREAM, Zedd, Cloonee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excision/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/excision/)*

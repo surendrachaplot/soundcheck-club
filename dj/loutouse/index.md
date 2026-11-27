@@ -1,6 +1,6 @@
 # Loutouse
 
-Loutouse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kleine Freiheit, Lower-saxony on Fri, 27 Nov 2026.
+Loutouse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kleine Freiheit, Lower-saxony on Fri, 27 Nov 2026.
 
 Loutouse is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Lower Saxony. Often billed alongside Manta, NoSpice and Kosmovision. Next up: Kleine Freiheit, Lower Saxony on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Loutouse is a house and techno artist based in Germany, with 11 gigs on soundche
 
 Manta, NoSpice, Kosmovision
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loutouse/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loutouse/)*

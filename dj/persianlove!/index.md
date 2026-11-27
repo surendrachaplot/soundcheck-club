@@ -1,6 +1,6 @@
 # PERSIANLOVE!
 
-PERSIANLOVE! is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Marbrerie, Paris on Sat, 5 Dec 2026.
+PERSIANLOVE! is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Marbrerie, Paris on Sat, 5 Dec 2026.
 
 PERSIANLOVE! is a house and techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Paris, The Hague and Utrecht. Often billed alongside Authentiek Recept, ALADAG and Binome. Next up: La Marbrerie, Paris on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ PERSIANLOVE! is a house and techno artist based in Netherlands, with 10 gigs on 
 
 Authentiek Recept, ALADAG, Binome
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/persianlove!/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/persianlove!/)*

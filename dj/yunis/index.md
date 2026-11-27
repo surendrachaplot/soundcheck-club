@@ -1,6 +1,6 @@
 # Yunis
 
-Yunis is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gretchen, Berlin on Fri, 19 Feb 2027.
+Yunis is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gretchen, Berlin on Fri, 19 Feb 2027.
 
 Yunis is an electronica and bass artist based in Poland, with 28 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 3 more. Often billed alongside Helga, Kamilescu and Rytmik. Next up: Gretchen, Berlin on Fri 19 Feb.
 
@@ -25,4 +25,4 @@ Yunis is an electronica and bass artist based in Poland, with 28 gigs on soundch
 
 Helga, Kamilescu, Rytmik
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yunis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yunis/)*

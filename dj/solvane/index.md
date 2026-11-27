@@ -1,6 +1,6 @@
 # Solvane
 
-Solvane is a Techno and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
+Solvane is a Techno and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jaeger, Oslo on Fri, 27 Nov 2026.
 
 Solvane is a techno and progressive house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 26 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Jaeger, Oslo on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Solvane is a techno and progressive house artist based in Germany, with 135 gigs
 
 Prismode, Markus Klee, Super Flu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*

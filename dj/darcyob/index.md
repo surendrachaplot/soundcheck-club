@@ -1,6 +1,6 @@
 # Darcy OB
 
-Darcy OB is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Quadraphonic Club, Melbourne on Fri, 18 Dec 2026.
+Darcy OB is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Quadraphonic Club, Melbourne on Fri, 18 Dec 2026.
 
 Darcy OB is a house and disco artist, with 6 gigs on soundcheck across Melbourne. Often billed alongside Mothafunk, Tina Disco and DJ Luv You. Next up: The Quadraphonic Club, Melbourne on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Darcy OB is a house and disco artist, with 6 gigs on soundcheck across Melbourne
 
 Mothafunk, Tina Disco, DJ Luv You
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyob/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyob/)*

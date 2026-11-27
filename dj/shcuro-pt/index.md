@@ -1,14 +1,15 @@
 # Shcuro
 
-Shcuro is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gare Porto, Porto on Sat, 19 Dec 2026.
+Shcuro is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Sat, 19 Dec 2026.
 
-Shcuro is a techno and electronica artist based in Portugal, with 34 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Maria Amor, Chima Isaaro and Yen Sung. Next up: Gare Porto, Porto on Sat 19 Dec.
+Shcuro is a techno and electronica artist based in Portugal, with 35 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Maria Amor, Chima Isaaro and Yen Sung. Next up: Gare Porto, Porto on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Gare Porto | Porto |
+| Fri, 25 Dec 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shcuro is a techno and electronica artist based in Portugal, with 34 gigs on sou
 
 Maria Amor, Chima Isaaro, Yen Sung
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shcuro-pt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shcuro-pt/)*

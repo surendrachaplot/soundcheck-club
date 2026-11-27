@@ -1,6 +1,6 @@
 # Martyn
 
-Martyn is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Caixaforum, Barcelona on Fri, 27 Nov 2026.
+Martyn is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Caixaforum, Barcelona on Fri, 27 Nov 2026.
 
 Martyn is a techno and bass artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Ehua, CCL and Darwin. Next up: Caixaforum, Barcelona on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Martyn is a techno and bass artist based in United States of America, with 78 gi
 
 Ehua, CCL, Darwin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*

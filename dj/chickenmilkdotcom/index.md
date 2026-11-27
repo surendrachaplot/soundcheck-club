@@ -1,6 +1,6 @@
 # Chickenmilk dot com
 
-Chickenmilk dot com is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lark, Berlin on Sat, 28 Nov 2026.
+Chickenmilk dot com is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lark, Berlin on Sat, 28 Nov 2026.
 
 Chickenmilk dot com is a club and experimental artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and New York City and 3 more. Often billed alongside blastah, Organ Tapes and Panasiagirl. Next up: Lark, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Chickenmilk dot com is a club and experimental artist based in Germany, with 18 
 
 blastah, Organ Tapes, Panasiagirl
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*

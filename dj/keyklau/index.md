@@ -1,6 +1,6 @@
 # Keyklau
 
-Keyklau is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
+Keyklau is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
 
 Keyklau is a techno and industrial artist based in Spain, with 26 gigs on soundcheck across Barcelona, Berlin, Dresden and Madrid and 2 more. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: RSO.BERLIN, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Keyklau is a techno and industrial artist based in Spain, with 26 gigs on soundc
 
 Giusseppi, Felinae, Matt.p
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*

@@ -1,6 +1,6 @@
 # Lefblom
 
-Lefblom is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mia Mao, Paris on Fri, 4 Dec 2026.
+Lefblom is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Fri, 4 Dec 2026.
 
 Lefblom is a house and techno artist based in France, with 60 gigs on soundcheck across Berlin, Brussels, Paris and Turin. Often billed alongside Camille Doe, GOGO GREEN and Ams (FR). Next up: Mia Mao, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lefblom is a house and techno artist based in France, with 60 gigs on soundcheck
 
 Camille Doe, GOGO GREEN, Ams (FR)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*

@@ -1,8 +1,8 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
+Joy Orbison is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
 
-Joy Orbison is a house and techno artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 43 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 28 Nov.
+Joy Orbison is a house and techno artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 44 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joy Orbison is a house and techno artist based in United Kingdom, with 105 gigs 
 | Thu, 31 Dec 2026 | TBA - Inner West Warehouse | New-south-wales |
 | Thu, 31 Dec 2026 | TBA | Sydney |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Joy Orbison is a house and techno artist based in United Kingdom, with 105 gigs 
 
 Interplanetary Criminal, Overmono, Jyoty
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*

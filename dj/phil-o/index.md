@@ -1,6 +1,6 @@
 # Phil-o
 
-Phil-o is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Yellow House, Amsterdam on Sat, 5 Dec 2026.
+Phil-o is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yellow House, Amsterdam on Sat, 5 Dec 2026.
 
 Phil-o is a house and tech house artist based in Italy, with 12 gigs on soundcheck across Amsterdam, Dortmund / Essen and Rome. Often billed alongside Be Lion, Luca Bortolo and Sanne Dammers. Next up: Yellow House, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Phil-o is a house and tech house artist based in Italy, with 12 gigs on soundche
 
 Be Lion, Luca Bortolo, Sanne Dammers
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phil-o/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phil-o/)*

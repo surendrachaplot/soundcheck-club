@@ -1,14 +1,15 @@
 # Sindi Ziu
 
-Sindi Ziu is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Underground Agimi, Tirana on Sat, 28 Nov 2026.
+Sindi Ziu is a Breakbeat and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Underground Agimi, Tirana on Sat, 28 Nov 2026.
 
-Sindi Ziu is a breakbeat and techno artist based in Albania, with 6 gigs on soundcheck across Tirana. Often billed alongside ZeroCase, Christian Duka and DUNISHA. Next up: Underground Agimi, Tirana on Sat 28 Nov.
+Sindi Ziu is a breakbeat and techno artist based in Albania, with 7 gigs on soundcheck across Tirana. Often billed alongside ZeroCase, Christian Duka and DUNISHA. Next up: Underground Agimi, Tirana on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Underground Agimi | Tirana |
+| Sat, 5 Dec 2026 | Frekuence | Tirana |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Sindi Ziu is a breakbeat and techno artist based in Albania, with 6 gigs on soun
 
 ZeroCase, Christian Duka, DUNISHA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindiziu/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindiziu/)*

@@ -1,6 +1,6 @@
 # SHHME
 
-SHHME is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+SHHME is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
 
 SHHME is a bass and breakbeat artist based in Poland, with 18 gigs on soundcheck across Poznan and Warsaw. Often billed alongside long w, Negativ and Some Guest. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ SHHME is a bass and breakbeat artist based in Poland, with 18 gigs on soundcheck
 
 long w, Negativ, Some Guest
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shhme/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shhme/)*

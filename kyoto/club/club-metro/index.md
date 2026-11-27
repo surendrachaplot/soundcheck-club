@@ -1,6 +1,6 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 28 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "MICHAEL MONROE JAPAN TOUR 2026" on Fri, 27 Nov 2026.
+Club Metro is a music venue in Kyoto with 28 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MICHAEL MONROE JAPAN TOUR 2026" on Fri, 27 Nov 2026.
 
 Club Metro is a music venue in Kyoto listed on soundcheck. 28 upcoming gigs, with line-ups including DJ Krush, DJ Masda, HINOTO and Hisashi Aochi and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 28 upcoming gigs, wit
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

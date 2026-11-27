@@ -1,6 +1,6 @@
 # Louie Fresco
 
-Louie Fresco is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+Louie Fresco is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 Louie Fresco is a house and minimal artist based in Uzbekistan, with 61 gigs on soundcheck across Guadalajara, London, Malaga and Mexico City and 2 more. Often billed alongside Mejia, Gallō and Gescu. Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Louie Fresco is a house and minimal artist based in Uzbekistan, with 61 gigs on 
 
 Mejia, Gallō, Gescu
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiefresco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louiefresco/)*

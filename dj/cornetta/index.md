@@ -1,6 +1,6 @@
 # Cornetta
 
-Cornetta is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Cornetta is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Cornetta is a techno and acid artist based in Italy, with 18 gigs on soundcheck across Aberdeen, Dundee and Edinburgh. Often billed alongside Acid Boner, FLIPSIDE. and BPK. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cornetta is a techno and acid artist based in Italy, with 18 gigs on soundcheck 
 
 Acid Boner, FLIPSIDE., BPK (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cornetta/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cornetta/)*

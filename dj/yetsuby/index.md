@@ -1,6 +1,6 @@
 # Yetsuby
 
-Yetsuby is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Music Bar Lion Seoul, Seoul on Fri, 27 Nov 2026.
+Yetsuby is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Music Bar Lion Seoul, Seoul on Fri, 27 Nov 2026.
 
 Yetsuby is a bass and techno artist based in South Korea, with 101 gigs on soundcheck across Beijing, Berlin, Chengdu and Hong Kong and 7 more. Often billed alongside Arexibo, KISEWA and Hyejin. Next up: Music Bar Lion Seoul, Seoul on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Yetsuby is a bass and techno artist based in South Korea, with 101 gigs on sound
 
 Arexibo, KISEWA, Hyejin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*

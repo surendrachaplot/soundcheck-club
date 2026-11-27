@@ -1,6 +1,6 @@
 # T.I.T.S at Salon Daomé
 
-T.I.T.S at Salon Daomé on Sat 28 Nov, Montreal. 2 artists: Inside Blur and No Police. See the line-up on soundcheck.
+T.I.T.S at Salon Daomé on Sat 28 Nov, Montreal. 3 artists: ccil, Inside Blur and No Police. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ T.I.T.S at Salon Daomé on Sat 28 Nov, Montreal. 2 artists: Inside Blur and No P
 
 ## Line-up
 
+- ccil
 - Inside Blur
 - No Police
 

@@ -1,6 +1,6 @@
 # reveszbalint
 
-reveszbalint is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Magma Club Budapest, Budapest on Thu, 31 Dec 2026.
+reveszbalint is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Magma Club Budapest, Budapest on Thu, 31 Dec 2026.
 
 reveszbalint is a minimal and house artist based in Hungary, with 10 gigs on soundcheck across Budapest, Sofia and Zagreb. Often billed alongside Octile, Indirect Movement and Krudy C. Next up: Magma Club Budapest, Budapest on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ reveszbalint is a minimal and house artist based in Hungary, with 10 gigs on sou
 
 Octile, Indirect Movement, Krudy C
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reveszbalint/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reveszbalint/)*

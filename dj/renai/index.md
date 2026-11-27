@@ -1,6 +1,6 @@
 # renai
 
-renai is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tigres de la Noche, Washington DC on Fri, 4 Dec 2026.
+renai is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tigres de la Noche, Washington DC on Fri, 4 Dec 2026.
 
 renai is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Chicago, Detroit, New York City and Washington DC. Often billed alongside My Friend Jack, shanty mane and Jeny Michelle. Next up: Tigres de la Noche, Washington DC on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ renai is a house and techno artist based in United States of America, with 27 gi
 
 My Friend Jack, shanty mane, Jeny Michelle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renai/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renai/)*

@@ -1,6 +1,6 @@
 # DJ Q
 
-DJ Q is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Warehouse, Leeds on Fri, 27 Nov 2026.
+DJ Q is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Warehouse, Leeds on Fri, 27 Nov 2026.
 
 DJ Q is a garage and bass artist based in United Kingdom, with 95 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 22 more. Often billed alongside Jamie Duggan, Flava D and Chad Harrison. Next up: The Warehouse, Leeds on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ DJ Q is a garage and bass artist based in United Kingdom, with 95 gigs on soundc
 
 Jamie Duggan, Flava D, Chad Harrison
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*

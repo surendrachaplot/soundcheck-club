@@ -1,6 +1,6 @@
 # Izzy Demzky
 
-Izzy Demzky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at ciao ciao Bar, Berlin on Fri, 27 Nov 2026.
+Izzy Demzky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ciao ciao Bar, Berlin on Fri, 27 Nov 2026.
 
 Izzy Demzky is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Edinburgh and Lisbon. Often billed alongside Marco Ohboy, Ian Blevins and Adam Purnell. Next up: ciao ciao Bar, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Izzy Demzky is a house and techno artist based in Germany, with 22 gigs on sound
 
 Marco Ohboy, Ian Blevins, Adam Purnell
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzydemzky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzydemzky/)*

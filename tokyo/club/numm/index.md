@@ -1,6 +1,6 @@
 # Numm
 
-Numm is a music venue in Tokyo with 31 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "CHIDA" on Fri, 27 Nov 2026.
+Numm is a music venue in Tokyo with 31 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "CHIDA" on Fri, 27 Nov 2026.
 
 Numm is a music venue in Tokyo listed on soundcheck. 31 upcoming gigs, with line-ups including 5ive, CHIDA, Dazzle Drums and DJ Sodeyama and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
@@ -23,4 +23,4 @@ Numm is a music venue in Tokyo listed on soundcheck. 31 upcoming gigs, with line
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

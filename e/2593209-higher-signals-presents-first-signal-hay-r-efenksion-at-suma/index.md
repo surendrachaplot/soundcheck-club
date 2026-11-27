@@ -1,6 +1,6 @@
 # Higher Signals presents: First Signal — HAY!R, efenksion at Suma Han
 
-Higher Signals presents: First Signal — HAY!R, efenksion at Suma Han on Fri 18 Dec, Istanbul. 1 artist: HAY!R. Techno and Hardcore. See the line-up on soundcheck.
+Higher Signals presents: First Signal — HAY!R, efenksion at Suma Han on Fri 18 Dec, Istanbul. 2 artists: EFENKSION and HAY!R. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Higher Signals presents: First Signal — HAY!R, efenksion at Suma Han on Fri 18
 
 ## Line-up
 
+- EFENKSION
 - HAY!R
 
 *Source: [soundcheck](https://soundcheck.club/e/2593209-higher-signals-presents-first-signal-hay-r-efenksion-at-suma/)*

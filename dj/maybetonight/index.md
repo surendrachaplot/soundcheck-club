@@ -1,6 +1,6 @@
 # Maybe Tonight
 
-Maybe Tonight is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
+Maybe Tonight is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tengu Shokudo, Tokyo on Fri, 4 Dec 2026.
 
 Maybe Tonight is a disco and balearic artist based in France, with 21 gigs on soundcheck across London, Paris and Tokyo. Often billed alongside Tolouse Low Trax, Zaltan and 404 eros. Next up: Tengu Shokudo, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Maybe Tonight is a disco and balearic artist based in France, with 21 gigs on so
 
 Tolouse Low Trax, Zaltan, 404 eros
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maybetonight/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maybetonight/)*

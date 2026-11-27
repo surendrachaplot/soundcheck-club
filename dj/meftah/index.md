@@ -1,6 +1,6 @@
 # Meftah
 
-Meftah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TV Lounge, Detroit on Sat, 5 Dec 2026.
+Meftah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TV Lounge, Detroit on Sat, 5 Dec 2026.
 
 Meftah is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Chicago, Cork, Detroit and Montreal and 3 more. Often billed alongside Deon Jamar, Toribio and Aboudi Issa. Next up: TV Lounge, Detroit on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Meftah is a house and techno artist based in United States of America, with 61 g
 
 Deon Jamar, Toribio, Aboudi Issa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meftah/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meftah/)*

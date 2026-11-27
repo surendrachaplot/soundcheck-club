@@ -1,6 +1,6 @@
 # Goodrug
 
-Goodrug is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Muse Café & Cocktail Bar, Berlin on Fri, 11 Dec 2026.
+Goodrug is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Muse Café & Cocktail Bar, Berlin on Fri, 11 Dec 2026.
 
 Goodrug is a techno and acid artist based in Japan, with 82 gigs on soundcheck across Berlin, Brisbane, Milan and Osaka. Often billed alongside Rikuto, KCD(JP) and FENGX2. Next up: Muse Café & Cocktail Bar, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Goodrug is a techno and acid artist based in Japan, with 82 gigs on soundcheck a
 
 Rikuto, KCD(JP), FENGX2
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodrug/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodrug/)*

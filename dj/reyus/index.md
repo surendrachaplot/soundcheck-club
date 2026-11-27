@@ -1,6 +1,6 @@
 # REYUS
 
-REYUS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at UNLOCKED, London on Fri, 4 Dec 2026.
+REYUS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at UNLOCKED, London on Fri, 4 Dec 2026.
 
 REYUS is a techno and house artist, with 12 gigs on soundcheck across London. Often billed alongside Sasha GiGi, Carly Wilford and Kirk Paten. Next up: UNLOCKED, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ REYUS is a techno and house artist, with 12 gigs on soundcheck across London. Of
 
 Sasha GiGi, Carly Wilford, Kirk Paten
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reyus/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reyus/)*

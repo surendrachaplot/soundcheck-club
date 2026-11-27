@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
+Pangaea is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
 
 Pangaea is a techno and bass artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 60 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: MIDNIGHT EAST, Tokyo on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Pangaea is a techno and bass artist based in United Kingdom, with 144 gigs on so
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

@@ -1,6 +1,6 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at WAX2, Bratislava on Fri, 27 Nov 2026.
+Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at WAX2, Bratislava on Fri, 27 Nov 2026.
 
 Takaaki Itoh is a techno and house artist based in Japan, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: WAX2, Bratislava on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 135 gigs on sound
 
 Loktibrada, DANA NADA, DANDAN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

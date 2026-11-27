@@ -1,6 +1,6 @@
 # DJ yesyes
 
-DJ yesyes is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Cedar Kitchen, Shanghai on Fri, 27 Nov 2026.
+DJ yesyes is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cedar Kitchen, Shanghai on Fri, 27 Nov 2026.
 
 DJ yesyes is a techno and experimental artist based in South Korea, with 26 gigs on soundcheck across Beijing, Chengdu, Seoul and Shanghai and 2 more. Often billed alongside Yetsuby, Shins and Acidwork. Next up: Cedar Kitchen, Shanghai on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ DJ yesyes is a techno and experimental artist based in South Korea, with 26 gigs
 
 Yetsuby, Shins, Acidwork
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyesyes/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyesyes/)*

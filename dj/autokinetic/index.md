@@ -1,13 +1,14 @@
 # Autokinetic
 
-Autokinetic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 303 Ten Eyck St., New York City on Sat, 19 Dec 2026.
+Autokinetic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri, 4 Dec 2026.
 
-Autokinetic is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Chicago, Minneapolis/St Paul, Minneapolis St Paul and New York City and 1 more. Often billed alongside Amy Pickett, Centrific and Axkan. Next up: 303 Ten Eyck St., New York City on Sat 19 Dec.
+Autokinetic is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Chicago, Minneapolis/St Paul, Minneapolis St Paul and New York City and 1 more. Often billed alongside Amy Pickett, Centrific and Paul Birken. Next up: The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | The Red Sea Ethiopian Restaurant | Minneapolis/St Paul |
 | Sat, 19 Dec 2026 | 303 Ten Eyck St. | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Autokinetic is a techno and house artist based in United States of America, with
 
 ## Shares bills with
 
-Amy Pickett, Centrific, Axkan
+Amy Pickett, Centrific, Paul Birken
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autokinetic/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autokinetic/)*

@@ -1,6 +1,6 @@
 # JFÜNG
 
-JFÜNG is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Soho House Hong Kong, Hong Kong on Fri, 4 Dec 2026.
+JFÜNG is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Soho House Hong Kong, Hong Kong on Fri, 4 Dec 2026.
 
 JFÜNG is a techno and drum & bass artist based in China, with 57 gigs on soundcheck across Hong Kong, Shanghai, Shenzhen and Taipei. Often billed alongside VSLORIA, Immuno and Mengzy. Next up: Soho House Hong Kong, Hong Kong on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ JFÜNG is a techno and drum & bass artist based in China, with 57 gigs on soundc
 
 VSLORIA, Immuno, Mengzy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfung/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfung/)*

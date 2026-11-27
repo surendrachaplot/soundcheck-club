@@ -1,6 +1,6 @@
 # Hjalte
 
-Hjalte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 4 Dec 2026.
+Hjalte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 4 Dec 2026.
 
 Hjalte is a techno and house artist based in Germany, with 22 gigs on soundcheck across Stuttgart. Often billed alongside Stereo Visions, Anica and Loodas. Next up: Fridas Pier, Stuttgart on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Hjalte is a techno and house artist based in Germany, with 22 gigs on soundcheck
 
 Stereo Visions, Anica, Loodas
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hjalte/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hjalte/)*

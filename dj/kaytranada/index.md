@@ -1,6 +1,6 @@
 # Kaytranada
 
-Kaytranada is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hialeah Park Casino, Miami on Fri, 4 Dec 2026.
+Kaytranada is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hialeah Park Casino, Miami on Fri, 4 Dec 2026.
 
 Kaytranada is a house and hip-hop artist based in Canada, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 30 more. Often billed alongside Justice, Disclosure and SG Lewis. Next up: Hialeah Park Casino, Miami on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Kaytranada is a house and hip-hop artist based in Canada, with 72 gigs on soundc
 
 Justice, Disclosure, SG Lewis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

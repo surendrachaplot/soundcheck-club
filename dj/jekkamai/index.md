@@ -1,6 +1,6 @@
 # JEKKAMAÏ
 
-JEKKAMAÏ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
+JEKKAMAÏ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Station - Gare des Mines, Paris on Sat, 28 Nov 2026.
 
 JEKKAMAÏ is a techno and trance artist based in Belgium, with 41 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: La Station - Gare des Mines, Paris on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ JEKKAMAÏ is a techno and trance artist based in Belgium, with 41 gigs on soundc
 
 Hysope, ATARAXY, Oxtazz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*

@@ -1,6 +1,6 @@
 # human margareeta
 
-human margareeta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 27 Nov 2026.
+human margareeta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 27 Nov 2026.
 
 human margareeta is a techno and house artist based in Ukraine, with 20 gigs on soundcheck across Berlin, Krakow, Kyiv and Liverpool and 4 more. Often billed alongside Veronicami, Habitat Shaking and Dasha Atom. Next up: Sekta Selekta, Krakow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ human margareeta is a techno and house artist based in Ukraine, with 20 gigs on 
 
 Veronicami, Habitat Shaking, Dasha Atom
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmargareeta/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmargareeta/)*

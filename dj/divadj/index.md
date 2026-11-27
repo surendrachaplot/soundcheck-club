@@ -1,6 +1,6 @@
 # Diva DJ
 
-Diva DJ is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 11 Dec 2026.
+Diva DJ is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 11 Dec 2026.
 
 Diva DJ is a bass and house artist, with 11 gigs on soundcheck across Berlin. Often billed alongside Young Divorcée, Blu:sh and DJ titka. Next up: TBA - Secret Location, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Diva DJ is a bass and house artist, with 11 gigs on soundcheck across Berlin. Of
 
 Young Divorcée, Blu:sh, DJ titka
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divadj/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divadj/)*

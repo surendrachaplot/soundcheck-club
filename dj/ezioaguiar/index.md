@@ -1,6 +1,6 @@
 # Ezio Aguiar
 
-Ezio Aguiar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+Ezio Aguiar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 Ezio Aguiar is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Nürnberg. Often billed alongside Janoma, Mad Son and Mona Pirzad. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Ezio Aguiar is a techno and house artist based in Germany, with 13 gigs on sound
 
 Janoma, Mad Son, Mona Pirzad
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezioaguiar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezioaguiar/)*

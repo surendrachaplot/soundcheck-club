@@ -1,8 +1,8 @@
 # Ogonek
 
-Ogonek is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Mixtape 5, Sofia on Fri, 27 Nov 2026.
+Ogonek is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mixtape 5, Sofia on Fri, 27 Nov 2026.
 
-Ogonek is a drum & bass and electronica artist based in Bulgaria, with 9 gigs on soundcheck across Bogotá, London, Porto and Sofia. Often billed alongside High Roll, AMY (BG) and CYNIC. Next up: Mixtape 5, Sofia on Fri 27 Nov.
+Ogonek is a drum & bass and electronica artist based in Bulgaria, with 9 gigs on soundcheck across Bogotá, London, Porto and Sofia. Often billed alongside High Roll, AMY (BG) and BUGAFF. Next up: Mixtape 5, Sofia on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ogonek is a drum & bass and electronica artist based in Bulgaria, with 9 gigs on
 
 ## Shares bills with
 
-High Roll, AMY (BG), CYNIC
+High Roll, AMY (BG), BUGAFF
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogonek/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogonek/)*

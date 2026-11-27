@@ -1,6 +1,6 @@
 # Big Night Live
 
-Big Night Live is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Eric Prydz, Christoph" on Fri, 4 Dec 2026.
+Big Night Live is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Eric Prydz, Christoph" on Fri, 4 Dec 2026.
 
 Big Night Live is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with line-ups including Chris Lake, Eric Prydz, Kastra and KREAM. See dates, start times and who's playing. 110 Causeway St, Boston, MA 02114, USA.
 
@@ -20,4 +20,4 @@ Big Night Live is a music venue in Boston listed on soundcheck. 7 upcoming gigs,
 
 110 Causeway St, Boston, MA 02114, USA, Boston
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*

@@ -1,6 +1,6 @@
 # Sean Thomas
 
-Sean Thomas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA -, Philadelphia on Sat, 26 Dec 2026.
+Sean Thomas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA -, Philadelphia on Sat, 26 Dec 2026.
 
 Sean Thomas is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Philadelphia. Often billed alongside John Raffaele, Keen and Alessandro Cortini. Next up: TBA -, Philadelphia on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ Sean Thomas is a house and techno artist based in United States of America, with
 
 John Raffaele, Keen, Alessandro Cortini
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanthomas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seanthomas/)*

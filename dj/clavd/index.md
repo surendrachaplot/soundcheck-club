@@ -1,6 +1,6 @@
 # CLAVD
 
-CLAVD is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Glazart, Paris on Sat, 28 Nov 2026.
+CLAVD is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Glazart, Paris on Sat, 28 Nov 2026.
 
 CLAVD is a techno and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg, Hannover and Paris. Often billed alongside Aztronom, J-DEK and Lenn Reich. Next up: Glazart, Paris on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ CLAVD is a techno and house artist based in Germany, with 39 gigs on soundcheck 
 
 Aztronom, J-DEK, Lenn Reich
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clavd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clavd/)*

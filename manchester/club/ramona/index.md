@@ -1,6 +1,6 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Ramona: Entropic Takeover" on Fri, 4 Dec 2026.
+Ramona is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ramona: Entropic Takeover" on Fri, 4 Dec 2026.
 
 Ramona is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Coyle, Malachy, Matteo Dose and Willsy. See dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
@@ -16,4 +16,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, wit
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

@@ -1,6 +1,6 @@
 # Ashibane
 
-Ashibane is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
+Ashibane is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
 
 Ashibane is a techno and progressive house artist based in Malta, with 9 gigs on soundcheck across Malta. Often billed alongside Kyle Cortis, AP and Cedren & Manu-l. Next up: Liquid Club, Malta on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ashibane is a techno and progressive house artist based in Malta, with 9 gigs on
 
 Kyle Cortis, AP (5), Cedren & Manu-l
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibane/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibane/)*

@@ -1,8 +1,8 @@
 # Afonso Peixoto
 
-Afonso Peixoto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 11 Dec 2026.
+Afonso Peixoto is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 11 Dec 2026.
 
-Afonso Peixoto is a house and techno artist based in Portugal, with 43 gigs on soundcheck across Berlin, Brussels and Lisbon. Often billed alongside Yizhaq, Varela and AAguilAA. Next up: Ministerium Club, Lisbon on Fri 11 Dec.
+Afonso Peixoto is a house and techno artist based in Portugal, with 44 gigs on soundcheck across Berlin, Brussels and Lisbon. Often billed alongside Yizhaq, Varela and AAguilAA. Next up: Ministerium Club, Lisbon on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Afonso Peixoto is a house and techno artist based in Portugal, with 43 gigs on s
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Ministerium Club | Lisbon |
 | Thu, 17 Dec 2026 | Lux Fragil | Lisbon |
+| Sun, 20 Dec 2026 | UMI | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Afonso Peixoto is a house and techno artist based in Portugal, with 43 gigs on s
 
 Yizhaq, Varela, AAguilAA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopeixoto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopeixoto/)*

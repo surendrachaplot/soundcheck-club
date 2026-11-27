@@ -1,6 +1,6 @@
 # KINETIKS
 
-KINETIKS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Whitehouse, The Hague on Fri, 1 Jan 2027.
+KINETIKS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Whitehouse, The Hague on Fri, 1 Jan 2027.
 
 KINETIKS is a house and techno artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht and 1 more. Often billed alongside Lucky Done Gone, AUTOFLOWER and Kara Okay. Next up: Whitehouse, The Hague on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ KINETIKS is a house and techno artist based in Netherlands, with 22 gigs on soun
 
 Lucky Done Gone, AUTOFLOWER, Kara Okay
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*

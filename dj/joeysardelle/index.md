@@ -1,6 +1,6 @@
 # Joey Sardelle
 
-Joey Sardelle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at crobar, Cleveland on Sat, 28 Nov 2026.
+Joey Sardelle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at crobar, Cleveland on Sat, 28 Nov 2026.
 
 Joey Sardelle is a techno and house artist based in United States of America, with 40 gigs on soundcheck across Cleveland, Detroit and Toronto. Often billed alongside Delish, Jesse Hawk and Andre Leone. Next up: crobar, Cleveland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Joey Sardelle is a techno and house artist based in United States of America, wi
 
 Delish, Jesse Hawk, Andre Leone
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeysardelle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeysardelle/)*

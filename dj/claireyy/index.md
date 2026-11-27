@@ -1,13 +1,14 @@
 # Claireyy
 
-Claireyy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Igloofest, Montreal on Sat, 30 Jan 2027.
+Claireyy is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Datcha, Montreal on Fri, 18 Dec 2026.
 
-Claireyy is a techno and trance artist based in Canada, with 45 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Outback, Wasie and nastygloss. Next up: Igloofest, Montreal on Sat 30 Jan.
+Claireyy is a techno and trance artist based in Canada, with 46 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Outback, Wasie and nastygloss. Next up: Bar Datcha, Montreal on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | Bar Datcha | Montreal |
 | Sat, 30 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Claireyy is a techno and trance artist based in Canada, with 45 gigs on soundche
 
 Outback, Wasie, nastygloss
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claireyy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claireyy/)*

@@ -1,6 +1,6 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 33 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "YBZ INVITES // Yemz" on Thu, 26 Nov 2026.
+Sneaky Pete's is a music venue in Edinburgh with 33 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Telfort's Good Place" on Fri, 27 Nov 2026.
 
 Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gigs, with line-ups including Ant TC1, Asa Tate, billybawbags and Bimini and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
@@ -8,7 +8,6 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | YBZ INVITES // Yemz | Georj (2), Gilbo, Texyo, Yemz, billybawbags |
 | Fri, 27 Nov 2026 | Telfort's Good Place | Telfort |
 | Sat, 28 Nov 2026 | Soul Jam: David Barbarossa | David Barbarossa, Percy Main, Tuesday Gonzalez |
 | Sun, 29 Nov 2026 | Postal: Cakiebiscuits | Cakiebiscuits |
@@ -18,9 +17,10 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gi
 | Thu, 3 Dec 2026 | Import: Buckfast Barbie's Dreamhouse | Buckfast Barbie |
 | Fri, 4 Dec 2026 | Hot Mess: Queer Dance Party | Simonotron |
 | Sat, 5 Dec 2026 | EHFM Club Night | George T, Sweet Philly, daiz.y, discjocelyne |
+| Sun, 6 Dec 2026 | Postal: Steve Austin | Steve Austin |
 
 ## Address
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

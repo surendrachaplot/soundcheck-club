@@ -1,6 +1,6 @@
 # La Fille
 
-La Fille is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Monarch, Berlin on Fri, 27 Nov 2026.
+La Fille is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Monarch, Berlin on Fri, 27 Nov 2026.
 
 La Fille is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, London, Mexico City and New York City. Often billed alongside Distal_, Eli Escobar and L KAE F. Next up: Monarch, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ La Fille is a house and techno artist based in Germany, with 10 gigs on soundche
 
 Distal_, Eli Escobar, L KAE F
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafille/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lafille/)*

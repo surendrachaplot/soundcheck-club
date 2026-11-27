@@ -1,6 +1,6 @@
 # Neidex
 
-Neidex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Eastway Baths, London on Sat, 5 Dec 2026.
+Neidex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Eastway Baths, London on Sat, 5 Dec 2026.
 
 Neidex is a house and techno artist based in Austria, with 38 gigs on soundcheck across London, Paris and Prague. Often billed alongside Darley, Dolce Verde and Mary X. Next up: Eastway Baths, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Neidex is a house and techno artist based in Austria, with 38 gigs on soundcheck
 
 Darley, Dolce Verde, Mary X
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neidex/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neidex/)*

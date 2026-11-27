@@ -1,6 +1,6 @@
 # 1908
 
-1908 is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Franks Records, Hong Kong on Sat, 28 Nov 2026.
+1908 is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Franks Records, Hong Kong on Sat, 28 Nov 2026.
 
 1908 is a bass and drum & bass artist based in China, with 27 gigs on soundcheck across Bangkok and Hong Kong. Often billed alongside GONG!, Joesnotdead and Mengzy. Next up: Franks Records, Hong Kong on Sat 28 Nov.
 
@@ -26,4 +26,4 @@
 
 GONG!, Joesnotdead, Mengzy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*

@@ -1,6 +1,6 @@
 # Click | Click
 
-Click | Click is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at City Club, Augsburg on Fri, 5 Feb 2027.
+Click | Click is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at City Club, Augsburg on Fri, 5 Feb 2027.
 
 Click | Click is a house and techno artist based in Germany, with 36 gigs on soundcheck across Augsburg, Berlin, Hamburg and Karlsruhe and 3 more. Often billed alongside Milk N Coffee, Somaphon and Edgar Peng. Next up: City Club, Augsburg on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Click | Click is a house and techno artist based in Germany, with 36 gigs on sou
 
 Milk N Coffee, Somaphon, Edgar Peng
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clickclick/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clickclick/)*

@@ -1,6 +1,6 @@
 # Dante's HiFi
 
-Dante's HiFi is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Nutritious (Art Week Eve)" on Sun, 29 Nov 2026.
+Dante's HiFi is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Nutritious (Art Week Eve)" on Sun, 29 Nov 2026.
 
 Dante's HiFi is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Nutritious. See dates, start times and who's playing. 519 NW 26th St. Miami, FL 33127.
 
@@ -15,4 +15,4 @@ Dante's HiFi is a music venue in Miami listed on soundcheck. 2 upcoming gigs, wi
 
 519 NW 26th St. Miami, FL 33127, Miami
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/dante-s-hifi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/dante-s-hifi/)*

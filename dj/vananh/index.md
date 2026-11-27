@@ -1,6 +1,6 @@
 # Van Anh
 
-Van Anh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 11 Dec 2026.
+Van Anh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 11 Dec 2026.
 
 Van Anh is a techno and house artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dortmund / Essen and 15 more. Often billed alongside Ben Klock, Deniro and Jennifer Loveless. Next up: Tempio del Futuro Perduto, Milan on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Van Anh is a techno and house artist based in Netherlands, with 47 gigs on sound
 
 Ben Klock, Deniro, Jennifer Loveless
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vananh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vananh/)*

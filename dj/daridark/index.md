@@ -1,6 +1,6 @@
 # Dari Dark
 
-Dari Dark is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+Dari Dark is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 Dari Dark is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Cyprus, Malta and Munich. Often billed alongside CDB, African Stevenson and Agnes. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -25,4 +25,4 @@ Dari Dark is a techno and trance artist based in Germany, with 10 gigs on soundc
 
 CDB (1), African Stevenson, Agnes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daridark/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daridark/)*

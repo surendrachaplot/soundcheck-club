@@ -1,6 +1,6 @@
 # Benko
 
-Benko is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M.O.T, London on Thu, 31 Dec 2026.
+Benko is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M.O.T, London on Thu, 31 Dec 2026.
 
 Benko is a techno and bass artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Stress Less, Sammy Sass and Alicia (UK). Next up: M.O.T, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Benko is a techno and bass artist based in United Kingdom, with 22 gigs on sound
 
 Stress Less, Sammy Sass, Alicia (UK)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benko/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benko/)*

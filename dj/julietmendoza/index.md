@@ -1,6 +1,6 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
+Juliet Mendoza is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
 
 Juliet Mendoza is a house and deep house artist based in United States of America, with 116 gigs on soundcheck across Amsterdam, Baltimore, Charlotte and Chicago and 17 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: The Bellwether, Los Angeles on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Juliet Mendoza is a house and deep house artist based in United States of Americ
 
 Heidi Lawden, DJ Sneak, Masha Mar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*

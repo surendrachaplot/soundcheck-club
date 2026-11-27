@@ -1,6 +1,6 @@
 # B0YG1RL
 
-B0YG1RL is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hialeah Park Casino, Miami on Fri, 4 Dec 2026.
+B0YG1RL is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hialeah Park Casino, Miami on Fri, 4 Dec 2026.
 
 B0YG1RL is a techno and club artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 2 more. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: Hialeah Park Casino, Miami on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ B0YG1RL is a techno and club artist based in United States of America, with 17 g
 
 Lady Narcisse, Racci, Aphex Twink
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*

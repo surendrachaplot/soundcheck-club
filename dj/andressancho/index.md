@@ -1,6 +1,6 @@
 # Andrés Sancho
 
-Andrés Sancho is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 27 Nov 2026.
+Andrés Sancho is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Doggy Klœb, Malaga on Fri, 27 Nov 2026.
 
 Andrés Sancho is an electronica and electro artist based in Spain, with 22 gigs on soundcheck across Barcelona and Malaga. Often billed alongside Unreal Vibes, Jorgge Decar and rubbio. Next up: Doggy Klœb, Malaga on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Andrés Sancho is an electronica and electro artist based in Spain, with 22 gigs
 
 Unreal Vibes, Jorgge Decar, rubbio
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andressancho/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andressancho/)*

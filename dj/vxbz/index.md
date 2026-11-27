@@ -1,6 +1,6 @@
 # VXBZ
 
-VXBZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Das Viertel, Basel on Fri, 22 Jan 2027.
+VXBZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Das Viertel, Basel on Fri, 22 Jan 2027.
 
 VXBZ is a trance and techno artist based in Switzerland, with 7 gigs on soundcheck across Basel. Often billed alongside IULIATSKI, winneju and DJ Glentan. Next up: Das Viertel, Basel on Fri 22 Jan.
 
@@ -23,4 +23,4 @@ VXBZ is a trance and techno artist based in Switzerland, with 7 gigs on soundche
 
 IULIATSKI, winneju, DJ Glentan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*

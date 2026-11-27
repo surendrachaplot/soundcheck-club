@@ -1,6 +1,6 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
+Dr Banana is a House and Garage artist with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
 
 Dr Banana is a house and garage artist based in United Kingdom, with 278 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 52 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
 
@@ -36,4 +36,4 @@ Dr Banana is a house and garage artist based in United Kingdom, with 278 gigs on
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

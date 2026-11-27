@@ -1,6 +1,6 @@
 # Tigullio
 
-Tigullio is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BOUNCE Thibo Verbeke All Night Long" on Sat, 28 Nov 2026.
+Tigullio is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "BOUNCE Thibo Verbeke All Night Long" on Sat, 28 Nov 2026.
 
 Tigullio is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with line-ups including Abdy, Adel dj and Thibo Verbeke. See dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
 
@@ -15,4 +15,4 @@ Tigullio is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with l
 
 Spinola Bay, Stj1161 San Giljan, Malta
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*

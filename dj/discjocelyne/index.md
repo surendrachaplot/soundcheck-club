@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 5 Dec 2026.
+discjocelyne is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 5 Dec 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, with 42 gigs on soundcheck across Edinburgh. Often billed alongside Ravelston, George T and Lara Sinclair. Next up: Sneaky Pete's, Edinburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, with 42 gi
 
 Ravelston, George T, Lara Sinclair
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

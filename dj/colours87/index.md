@@ -1,6 +1,6 @@
 # COLOURS 87
 
-COLOURS 87 is a Italo Disco and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar Franca, Los Angeles on Fri, 27 Nov 2026.
+COLOURS 87 is a Italo Disco and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Franca, Los Angeles on Fri, 27 Nov 2026.
 
 COLOURS 87 is an italo disco and new wave artist based in United States of America, with 41 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Midnight Magic, Capes and Acid Gymnastics. Next up: Bar Franca, Los Angeles on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ COLOURS 87 is an italo disco and new wave artist based in United States of Ameri
 
 Midnight Magic, Capes, Acid Gymnastics
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colours87/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colours87/)*

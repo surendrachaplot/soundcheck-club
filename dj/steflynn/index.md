@@ -1,6 +1,6 @@
 # Ste Flynn
 
-Ste Flynn is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at block., Dublin on Sat, 28 Nov 2026.
+Ste Flynn is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at block., Dublin on Sat, 28 Nov 2026.
 
 Ste Flynn is a progressive house and deep house artist based in Ireland, with 34 gigs on soundcheck across Berlin and Dublin. Often billed alongside Mulljoy, Paul Gill and seboro. Next up: block., Dublin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ste Flynn is a progressive house and deep house artist based in Ireland, with 34
 
 Mulljoy, Paul Gill, seboro
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steflynn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steflynn/)*

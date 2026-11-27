@@ -1,6 +1,6 @@
 # Tony (LV)
 
-Tony (LV) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
+Tony (LV) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
 
 Tony (LV) is a house and techno artist based in Latvia, with 17 gigs on soundcheck across Brussels, Frankfurt, Istanbul and Prague and 3 more. Often billed alongside Kapusta, Rexton and Nicolas Barnes. Next up: TBA - Monkey Club, Riga on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Tony (LV) is a house and techno artist based in Latvia, with 17 gigs on soundche
 
 Kapusta, Rexton, Nicolas Barnes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tony-lv/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tony-lv/)*

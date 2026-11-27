@@ -1,6 +1,6 @@
 # Striz
 
-Striz is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sound-Bar, Chicago on Sat, 5 Dec 2026.
+Striz is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sound-Bar, Chicago on Sat, 5 Dec 2026.
 
 Striz is a house and downtempo artist based in United States of America, with 36 gigs on soundcheck across Chicago. Often billed alongside Duke Shin, Gene Hunt and Justin Reed. Next up: Sound-Bar, Chicago on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Striz is a house and downtempo artist based in United States of America, with 36
 
 Duke Shin, Gene Hunt, Justin Reed
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/striz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/striz/)*

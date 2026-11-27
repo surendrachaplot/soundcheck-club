@@ -1,6 +1,6 @@
 # SHŪ (1)
 
-SHŪ (1) is a electronic artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 25 Dec 2026.
+SHŪ (1) is a electronic artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 25 Dec 2026.
 
 SHŪ is an electronic artist based in Italy, with 12 gigs on soundcheck across Milan. Often billed alongside Morva, ZHAZHA WANG and Zenyee. Next up: Tempio del Futuro Perduto, Milan on Fri 25 Dec.
 
@@ -27,4 +27,4 @@ SHŪ is an electronic artist based in Italy, with 12 gigs on soundcheck across M
 
 Morva, ZHAZHA WANG, Zenyee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-1/)*

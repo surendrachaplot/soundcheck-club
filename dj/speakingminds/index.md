@@ -1,6 +1,6 @@
 # Speaking Minds
 
-Speaking Minds is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Lula Club, Madrid on Fri, 29 Jan 2027.
+Speaking Minds is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lula Club, Madrid on Fri, 29 Jan 2027.
 
 Speaking Minds is a house and techno artist based in Italy, with 35 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dubai and 12 more. Often billed alongside Rollover Djs, WhoMadeWho and Alan Dixon. Next up: Lula Club, Madrid on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Speaking Minds is a house and techno artist based in Italy, with 35 gigs on soun
 
 Rollover Djs, WhoMadeWho, Alan Dixon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speakingminds/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speakingminds/)*

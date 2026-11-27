@@ -1,6 +1,6 @@
 # Don Chich
 
-Don Chich is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Social Room, Hong Kong on Sat, 12 Dec 2026.
+Don Chich is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Social Room, Hong Kong on Sat, 12 Dec 2026.
 
 Don Chich is a techno and trance artist based in Australia, with 17 gigs on soundcheck across Hong Kong, Lyon, Melbourne and Rome. Often billed alongside Carl H, Hannah D and Lewba. Next up: Social Room, Hong Kong on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Don Chich is a techno and trance artist based in Australia, with 17 gigs on soun
 
 Carl H, Hannah D, Lewba
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donchich/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donchich/)*

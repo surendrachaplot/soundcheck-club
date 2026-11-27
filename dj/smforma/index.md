@@ -1,6 +1,6 @@
 # SMFORMA
 
-SMFORMA is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Moog Club, Barcelona on Thu, 17 Dec 2026.
+SMFORMA is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Moog Club, Barcelona on Thu, 17 Dec 2026.
 
 SMFORMA is an ebm and techno artist based in Spain, with 13 gigs on soundcheck across Barcelona, Berlin, Madrid and Tallinn and 2 more. Often billed alongside Squaric, Alemal and Alpha Sect. Next up: Moog Club, Barcelona on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ SMFORMA is an ebm and techno artist based in Spain, with 13 gigs on soundcheck a
 
 Squaric, Alemal, Alpha Sect
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smforma/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smforma/)*

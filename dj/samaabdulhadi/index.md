@@ -1,8 +1,8 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 28 Nov 2026.
+Sama' Abdulhadi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 28 Nov 2026.
 
-Sama' Abdulhadi is a techno and house artist based in Palestine, with 174 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beirut and 60 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: THE OTHER SIDE, Amsterdam on Sat 28 Nov.
+Sama' Abdulhadi is a techno and house artist based in Palestine, with 175 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beirut and 60 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: THE OTHER SIDE, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 174 gigs o
 | Sat, 28 Nov 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 5 Dec 2026 | Warehouse Beirut | Beirut |
 | Fri, 11 Dec 2026 | Magazzini Generali | Milan |
+| Fri, 25 Dec 2026 | Lux Fragil | Lisbon |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
@@ -28,4 +29,4 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 174 gigs o
 
 Richie Hawtin, Ben Klock, Anfisa Letyago
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

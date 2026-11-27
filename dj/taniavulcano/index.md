@@ -1,6 +1,6 @@
 # Tania Vulcano
 
-Tania Vulcano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at WOLF Barcelona, Barcelona on Sun, 20 Dec 2026.
+Tania Vulcano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at WOLF Barcelona, Barcelona on Sun, 20 Dec 2026.
 
 Tania Vulcano is a house and techno artist based in Spain, with 129 gigs on soundcheck across Barcelona, Brussels, Bucharest and Buenos Aires and 15 more. Often billed alongside Sossa, Seth Troxler and DJ Tennis. Next up: WOLF Barcelona, Barcelona on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Tania Vulcano is a house and techno artist based in Spain, with 129 gigs on soun
 
 Sossa, Seth Troxler, DJ Tennis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taniavulcano/)*

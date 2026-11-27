@@ -1,6 +1,6 @@
 # kuntress
 
-kuntress is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
+kuntress is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Highland Lounge, Austin on Fri, 27 Nov 2026.
 
 kuntress is a club and ghetto tech artist based in United States of America, with 14 gigs on soundcheck across Austin, Detroit, Houston and Los Angeles and 4 more. Often billed alongside Amarji King, BabiDoll and HYPERFEMME. Next up: Highland Lounge, Austin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ kuntress is a club and ghetto tech artist based in United States of America, wit
 
 Amarji King, BabiDoll, HYPERFEMME
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

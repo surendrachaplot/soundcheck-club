@@ -1,6 +1,6 @@
 # Ava Eva
 
-Ava Eva is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lioncity, Brussels on Sat, 5 Dec 2026.
+Ava Eva is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lioncity, Brussels on Sat, 5 Dec 2026.
 
 Ava Eva is a house and electro artist based in Belgium, with 60 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Bibi Seck, John Noseda and Poppy (BE). Next up: Lioncity, Brussels on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Ava Eva is a house and electro artist based in Belgium, with 60 gigs on soundche
 
 Bibi Seck, John Noseda, Poppy (BE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avaeva/)*

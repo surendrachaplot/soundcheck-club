@@ -1,6 +1,6 @@
 # Szew
 
-Szew is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 19 Dec 2026.
+Szew is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 19 Dec 2026.
 
 Szew is a house and electro artist based in Argentina, with 22 gigs on soundcheck across Barcelona, Berlin and Leipzig. Often billed alongside Flor Coto, Rafael and Chuki Juri. Next up: Orangerie Neukölln, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Szew is a house and electro artist based in Argentina, with 22 gigs on soundchec
 
 Flor Coto, Rafael, Chuki Juri
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szew/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szew/)*

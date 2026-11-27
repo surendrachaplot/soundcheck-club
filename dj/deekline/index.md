@@ -1,6 +1,6 @@
 # Deekline
 
-Deekline is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 27 Nov 2026.
+Deekline is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 27 Nov 2026.
 
 Deekline is a drum & bass and jungle artist based in United Kingdom, with 89 gigs on soundcheck across Bali, Bangkok, Birmingham and Boston and 28 more. Often billed alongside Benny Page, Navigator and Serial Killaz. Next up: Joshua Brooks, Manchester on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Deekline is a drum & bass and jungle artist based in United Kingdom, with 89 gig
 
 Benny Page, Navigator, Serial Killaz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deekline/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deekline/)*

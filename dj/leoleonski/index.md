@@ -1,13 +1,14 @@
 # Leo Leonski
 
-Leo Leonski is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Kinshasa Roma, Mexico City on Fri, 4 Dec 2026.
+Leo Leonski is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Six San Pedro, Monterrey on Fri, 27 Nov 2026.
 
-Leo Leonski is a house and deep house artist based in Switzerland, with 118 gigs on soundcheck across Bali, Bangkok, Barcelona and Basel and 21 more. Often billed alongside Gil Montiel, Gyusco and 959er. Next up: TBA - Kinshasa Roma, Mexico City on Fri 4 Dec.
+Leo Leonski is a house and deep house artist based in Switzerland, with 119 gigs on soundcheck across Bali, Bangkok, Barcelona and Basel and 21 more. Often billed alongside Gil Montiel, Gyusco and 959er. Next up: TBA - Six San Pedro, Monterrey on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA - Six San Pedro | Monterrey |
 | Fri, 4 Dec 2026 | TBA - Kinshasa Roma | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Leo Leonski is a house and deep house artist based in Switzerland, with 118 gigs
 
 Gil Montiel, Gyusco, 959er
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoleonski/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoleonski/)*

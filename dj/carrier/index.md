@@ -1,8 +1,8 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Unmute, Hanoi on Fri, 27 Nov 2026.
+Carrier is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Unmute, Hanoi on Fri, 27 Nov 2026.
 
-Carrier is a techno and experimental artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Unmute, Hanoi on Fri 27 Nov.
+Carrier is a techno and experimental artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Unmute, Hanoi on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Carrier is a techno and experimental artist based in United Kingdom, with 90 gig
 | Sat, 5 Dec 2026 | VENT | Tokyo |
 | Sat, 12 Dec 2026 | LAUT | Barcelona |
 | Fri, 18 Dec 2026 | LAUT | Barcelona |
+| Fri, 19 Mar 2027 | Fundación Cajagranada | South |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Carrier is a techno and experimental artist based in United Kingdom, with 90 gig
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

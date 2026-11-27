@@ -1,6 +1,6 @@
 # Steve Riddm
 
-Steve Riddm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Now&Wow, Rotterdam on Sat, 6 Feb 2027.
+Steve Riddm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Now&Wow, Rotterdam on Sat, 6 Feb 2027.
 
 Steve Riddm is a house and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside ZOËZO, Micky Hurts and AAT (NL). Next up: Now&Wow, Rotterdam on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Steve Riddm is a house and techno artist based in Netherlands, with 21 gigs on s
 
 ZOËZO, Micky Hurts, AAT (NL)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*

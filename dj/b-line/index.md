@@ -1,6 +1,6 @@
 # b-line
 
-b-line is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
+b-line is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
 b-line is a drum & bass and jungle artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Birmingham, Leeds and London and 1 more. Often billed alongside Logan D, Harry Shotta and Grima & Azza. Next up: Lab11, Birmingham on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ b-line is a drum & bass and jungle artist based in United Kingdom, with 14 gigs 
 
 Logan D, Harry Shotta, Grima & Azza
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b-line/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b-line/)*

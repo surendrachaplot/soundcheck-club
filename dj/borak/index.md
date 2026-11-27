@@ -1,6 +1,6 @@
 # Borak
 
-Borak is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Foundation Room - House Of Blues, Chicago on Sat, 12 Dec 2026.
+Borak is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Foundation Room - House Of Blues, Chicago on Sat, 12 Dec 2026.
 
 Borak is a deep house and house artist based in United States of America, with 55 gigs on soundcheck across Chicago, Istanbul, London and Los Angeles and 3 more. Often billed alongside Ray Kash, Gru.di and IZIK. Next up: Foundation Room - House Of Blues, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Borak is a deep house and house artist based in United States of America, with 5
 
 Ray Kash, Gru.di, IZIK
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borak/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borak/)*

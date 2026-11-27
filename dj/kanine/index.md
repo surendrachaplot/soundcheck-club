@@ -1,6 +1,6 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at A38, Budapest on Fri, 27 Nov 2026.
+Kanine is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at A38, Budapest on Fri, 27 Nov 2026.
 
 Kanine is a drum & bass and house artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Bratislava and 42 more. Often billed alongside Disrupta, Bou (UK) and Mozey. Next up: A38, Budapest on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Kanine is a drum & bass and house artist based in United Kingdom, with 102 gigs 
 
 Disrupta, Bou (UK), Mozey
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

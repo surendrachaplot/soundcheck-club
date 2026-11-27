@@ -1,6 +1,6 @@
 # Noirnor
 
-Noirnor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Karmen Camina, Strasbourg on Thu, 3 Dec 2026.
+Noirnor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Karmen Camina, Strasbourg on Thu, 3 Dec 2026.
 
 Noirnor is a techno and house artist based in Ukraine, with 44 gigs on soundcheck across Berlin, Dresden, Hannover and London and 1 more. Often billed alongside Frozilla, Stanislav Tolkachev and Travis or Alice. Next up: Karmen Camina, Strasbourg on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Noirnor is a techno and house artist based in Ukraine, with 44 gigs on soundchec
 
 Frozilla, Stanislav Tolkachev, Travis or Alice
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noirnor/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noirnor/)*

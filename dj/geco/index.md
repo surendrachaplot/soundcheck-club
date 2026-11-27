@@ -1,6 +1,6 @@
 # GECO
 
-GECO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Brisa, Bali on Thu, 31 Dec 2026.
+GECO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Brisa, Bali on Thu, 31 Dec 2026.
 
 GECO is a house and tech house artist based in Australia, with 24 gigs on soundcheck across Bali, Melbourne and Sydney. Often billed alongside Kerry Wallace, Kaiser Waldon and Marlie. Next up: La Brisa, Bali on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ GECO is a house and tech house artist based in Australia, with 24 gigs on soundc
 
 Kerry Wallace, Kaiser Waldon, Marlie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geco/)*

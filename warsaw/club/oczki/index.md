@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FLOWSTATE X RAVE.PL pres. DOBRAFAZA, ADAM DE GREAT, FRANCESCA, WINCZI" on Sat, 28 Nov 2026.
+OCZKI is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FLOWSTATE X RAVE.PL pres. DOBRAFAZA, ADAM DE GREAT, FRANCESCA, WINCZI" on Sat, 28 Nov 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Amnesia Scanner, B93 (PL), Cardopusher and Casper Weiss and 2 more. See dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -17,4 +17,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with lin
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

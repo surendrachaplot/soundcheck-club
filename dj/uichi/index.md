@@ -1,6 +1,6 @@
 # U:ICHI
 
-U:ICHI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 4 Dec 2026.
+U:ICHI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 4 Dec 2026.
 
 U:ICHI is a techno and house artist based in Japan, with 54 gigs on soundcheck across Osaka, Prague and Tokyo. Often billed alongside Shogo Ito, AHREUM and Drunken Kong. Next up: Z Maruyama, Tokyo on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ U:ICHI is a techno and house artist based in Japan, with 54 gigs on soundcheck a
 
 Shogo Ito, AHREUM, Drunken Kong
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uichi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uichi/)*

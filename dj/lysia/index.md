@@ -1,6 +1,6 @@
 # Lysia
 
-Lysia is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Theatro Municipal, Praça Floriano, S/N - Centro, Rio de Janeiro, Rio de Janeiro on Sat, 28 Nov 2026.
+Lysia is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Theatro Municipal, Praça Floriano, S/N - Centro, Rio de Janeiro, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Lysia is a house and disco artist based in Brazil, with 43 gigs on soundcheck across Brazil, Lisbon, Munich and Rio De Janeiro and 3 more. Often billed alongside Man From Rio, Gaspar Muniz and Gigios. Next up: TBA - Theatro Municipal, Praça Floriano, S/N - Centro, Rio de Janeiro, Rio de Janeiro on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Lysia is a house and disco artist based in Brazil, with 43 gigs on soundcheck ac
 
 Man From Rio, Gaspar Muniz, Gigios
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*

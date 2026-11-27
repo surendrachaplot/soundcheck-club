@@ -1,6 +1,6 @@
 # Bailey (UK)
 
-Bailey (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Planet Wax, London on Thu, 17 Dec 2026.
+Bailey (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Planet Wax, London on Thu, 17 Dec 2026.
 
 Bailey (UK) is a drum & bass and jungle artist based in United Kingdom, with 52 gigs on soundcheck across Adelaide, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Grooverider, Ray Keith and Fabio. Next up: Planet Wax, London on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Bailey (UK) is a drum & bass and jungle artist based in United Kingdom, with 52 
 
 Grooverider, Ray Keith, Fabio
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyuk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyuk/)*

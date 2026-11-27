@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Club Night: DJ Hell | Playlove" on Fri, 27 Nov 2026.
+Palais Mascotte is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Club Night: DJ Hell | Playlove" on Fri, 27 Nov 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including Animal Trainer, Antal, Danilo Plessow and Dejan and 2 more. See dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -18,4 +18,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 5 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

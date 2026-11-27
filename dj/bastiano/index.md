@@ -1,6 +1,6 @@
 # BASTIANO
 
-BASTIANO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at XOYO, London on Fri, 1 Jan 2027.
+BASTIANO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at XOYO, London on Fri, 1 Jan 2027.
 
 BASTIANO is a house and tech house artist based in United Kingdom, with 25 gigs on soundcheck across Edinburgh and London. Often billed alongside Fërb, Mdubs and Mélanger le Miel. Next up: XOYO, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ BASTIANO is a house and tech house artist based in United Kingdom, with 25 gigs 
 
 Fërb, Mdubs, Mélanger le Miel
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiano/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiano/)*

@@ -1,6 +1,6 @@
 # Baroć
 
-Baroć is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Orangerie Neukölln, Berlin on Fri, 27 Nov 2026.
+Baroć is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Orangerie Neukölln, Berlin on Fri, 27 Nov 2026.
 
 Baroć is a house and techno artist based in Turkey, with 13 gigs on soundcheck across Berlin, Istanbul and Prague. Often billed alongside 4-i, Adam BFD and Alison Swing. Next up: Orangerie Neukölln, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Baroć is a house and techno artist based in Turkey, with 13 gigs on soundcheck 
 
 4-i, Adam BFD, Alison Swing
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baroc/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baroc/)*

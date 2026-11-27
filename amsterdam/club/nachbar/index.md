@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "3 YEAR ANNIVERSARY w/ Ake, CARI, EUROTECH, RNR & Yucky" on Thu, 26 Nov 2026.
+nachbar is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "3 YEAR ANNIVERSARY w/ Ake, CARI, EUROTECH, RNR & Yucky" on Thu, 26 Nov 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including angelboy, BARROSKINI, Berkan V8 and BISQUE and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, wi
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

@@ -1,6 +1,6 @@
 # Razboi
 
-Razboi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Palais Mascotte, Zurich on Sat, 28 Nov 2026.
+Razboi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Palais Mascotte, Zurich on Sat, 28 Nov 2026.
 
 Razboi is a house and electronica artist based in Spain, with 8 gigs on soundcheck across Madrid, Prague and Zurich. Often billed alongside Lose Endz, Tania Vulcano and AGELESS. Next up: Palais Mascotte, Zurich on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Razboi is a house and electronica artist based in Spain, with 8 gigs on soundche
 
 Lose Endz, Tania Vulcano, AGELESS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razboi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razboi/)*

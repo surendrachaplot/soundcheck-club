@@ -1,6 +1,6 @@
 # Spinrillo
 
-Spinrillo is a Club and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Margolis Music Lounge, Philadelphia on Sat, 28 Nov 2026.
+Spinrillo is a Club and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Margolis Music Lounge, Philadelphia on Sat, 28 Nov 2026.
 
 Spinrillo is a club and afro house artist based in United States of America, with 17 gigs on soundcheck across Medellin, Mexico City, New York City and Philadelphia and 1 more. Often billed alongside Tim Fields, Eddy Lover and Nanoos. Next up: Margolis Music Lounge, Philadelphia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Spinrillo is a club and afro house artist based in United States of America, wit
 
 Tim Fields, Eddy Lover, Nanoos
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinrillo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinrillo/)*

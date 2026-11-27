@@ -1,6 +1,6 @@
 # Sunset Atlanta
 
-Sunset Atlanta is a music venue in Atlanta with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Caroline Arnich + Kenzo At Odyssey After" on Sat, 28 Nov 2026.
+Sunset Atlanta is a music venue in Atlanta with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Caroline Arnich + Kenzo At Odyssey After" on Sat, 28 Nov 2026.
 
 Sunset Atlanta is a music venue in Atlanta listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Sunset Atlanta is a music venue in Atlanta listed on soundcheck. 2 upcoming gigs
 | Sat, 28 Nov 2026 | Caroline Arnich + Kenzo At Odyssey After |  |
 | Sun, 29 Nov 2026 | Trippy Hippiie At Odyssey After |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/sunset-atlanta/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/sunset-atlanta/)*

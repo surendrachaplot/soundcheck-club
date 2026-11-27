@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SCORN" on Fri, 27 Nov 2026.
+elipamanoke is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SCORN" on Fri, 27 Nov 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, with line-ups including AMBROXAN, ANKA, Clitty and Comic Sans and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -9,7 +9,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | SCORN | AMBROXAN, Gretchen B, Johnnyaga, LARIOUS, Plateau Bitch, SPLINTER (2) |
-| Sat, 28 Nov 2026 | newfaces – weekend edition [14 artists; 10€ entry] | DJ Nasi Goreng, devi-dasi, mizy, orbok, w*sserratte |
+| Sat, 28 Nov 2026 | newfaces – weekend edition [14 artists; 10€ entry] | DJ Nasi Goreng, Malina (2), devi-dasi, mizy, orbok, w*sserratte |
 | Wed, 2 Dec 2026 | between x VBA | Iced Matchko Latte, R-SOHR, VIVEX |
 | Fri, 4 Dec 2026 | STUDIO 69 w/ Josi Miller, Qnoe, Cufme, DJ Business, Eluzid, Shamzy, PIG, Shape | Cufme, DJ Business (2), Eluzid, Josi Miller (2), PIG (1), Qnoe |
 | Sat, 5 Dec 2026 | SUPERPAMANOKE | DJ Cringey, DZBL, ILOVDADDYZ, LUZI (2), Lars Goldammer, nohlim |
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Interval - Bushbaby [UK]" on Fri, 27 Nov 2026.
+Glamorama is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Interval - Bushbaby [UK]" on Fri, 27 Nov 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Bushbaby, Caleb Jackson, Captain Wallop and Jesse Boyd and 2 more. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -22,4 +22,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, w
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

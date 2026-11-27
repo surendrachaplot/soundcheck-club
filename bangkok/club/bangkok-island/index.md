@@ -1,6 +1,6 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Cosmic Star Warriors" on Fri, 27 Nov 2026.
+Bangkok Island is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Cosmic Star Warriors" on Fri, 27 Nov 2026.
 
 Bangkok Island is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, with line-ups including ALPHA (NL), innerbloom, Jack the Jackal and Jano and 2 more. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
@@ -18,4 +18,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

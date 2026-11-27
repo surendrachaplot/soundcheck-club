@@ -1,6 +1,6 @@
 # CC:NIELOS
 
-CC:NIELOS is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 28 Nov 2026.
+CC:NIELOS is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Humboldthain Club, Berlin on Sat, 28 Nov 2026.
 
 CC:NIELOS is a house and hip-hop artist based in Germany, with 6 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Vanree, Florian Pas and M A R. Next up: Humboldthain Club, Berlin on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ CC:NIELOS is a house and hip-hop artist based in Germany, with 6 gigs on soundch
 
 Vanree, Florian Pas, M A R
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccnielos/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccnielos/)*

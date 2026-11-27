@@ -1,6 +1,6 @@
 # CYNICAL (US)
 
-CYNICAL (US) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 12 Jan 2027.
+CYNICAL (US) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 12 Jan 2027.
 
 CYNICAL (US) is a techno and hardcore artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside HARDKORE, MakeOutHill and DREAMINSLOW. Next up: Bossa Nova Civic Club, New York City on Tue 12 Jan.
 
@@ -25,4 +25,4 @@ CYNICAL (US) is a techno and hardcore artist based in United States of America, 
 
 HARDKORE, MakeOutHill, DREAMINSLOW
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynical-us/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynical-us/)*

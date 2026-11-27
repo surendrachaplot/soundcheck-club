@@ -1,6 +1,6 @@
 # Danjers
 
-Danjers is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 5 Dec 2026.
+Danjers is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 5 Dec 2026.
 
 Danjers is a house and deep house artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Adrian Mart, Enrico Vergo and Cley Rox. Next up: Hangar48 Club, Madrid on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Danjers is a house and deep house artist based in Spain, with 7 gigs on soundche
 
 Adrian Mart, Enrico Vergo, Cley Rox
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjers/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjers/)*

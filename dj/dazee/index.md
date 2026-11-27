@@ -1,6 +1,6 @@
 # Dazee
 
-Dazee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KOKO, London on Sat, 9 Jan 2027.
+Dazee is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KOKO, London on Sat, 9 Jan 2027.
 
 Dazee is a drum & bass and jungle artist based in Italy, with 17 gigs on soundcheck across Bristol, Ibiza and London. Often billed alongside Jakes, Carasel and Bryan Gee. Next up: KOKO, London on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Dazee is a drum & bass and jungle artist based in Italy, with 17 gigs on soundch
 
 Jakes, Carasel, Bryan Gee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazee/)*

@@ -1,6 +1,6 @@
 # Club M2 Miami
 
-Club M2 Miami is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Sander van Doorn" on Fri, 4 Dec 2026.
+Club M2 Miami is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sander van Doorn" on Fri, 4 Dec 2026.
 
 Club M2 Miami is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including Adam Beyer, CamelPhat, Cassian and Korolova and 2 more. See dates, start times and who's playing. 1235 Washington Ave, Miami Beach, Florida, 33139, United States.
 
@@ -21,4 +21,4 @@ Club M2 Miami is a music venue in Miami listed on soundcheck. 8 upcoming gigs, w
 
 1235 Washington Ave, Miami Beach, Florida, 33139, United States, Miami
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-m2-miami/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-m2-miami/)*

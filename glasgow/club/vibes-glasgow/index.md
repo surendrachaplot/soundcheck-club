@@ -1,14 +1,13 @@
 # Vibes Glasgow
 
-Vibes Glasgow is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Vibes Thursdays Bounce, Techno & Trance" on Thu, 26 Nov 2026.
+Vibes Glasgow is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hunt Community multi genre Techno night" on Fri, 27 Nov 2026.
 
-Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
+Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Vibes Thursdays Bounce, Techno & Trance |  |
 | Fri, 27 Nov 2026 | Hunt Community multi genre Techno night |  |
 | Sat, 28 Nov 2026 | The Lost Boyz of Techno |  |
 | Sat, 12 Dec 2026 | Rave Queens After Party - Bounce and Makina |  |
@@ -23,4 +22,4 @@ Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs
 
 239 Sauchiehall Street, Glasgow, G1 3AE, Glasgow
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*

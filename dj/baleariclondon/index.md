@@ -1,6 +1,6 @@
 # Balearic London
 
-Balearic London is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Woodland Glade, Horseheath Racecourse, South-east on Fri, 18 Jun 2027.
+Balearic London is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Woodland Glade, Horseheath Racecourse, South-east on Fri, 18 Jun 2027.
 
 Balearic London is a house and balearic artist based in United Kingdom, with 14 gigs on soundcheck across London and South East. Often billed alongside Ariane V, Ben Gomori and Gaucho (UK). Next up: The Woodland Glade, Horseheath Racecourse, South East on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ Balearic London is a house and balearic artist based in United Kingdom, with 14 
 
 Ariane V, Ben Gomori, Gaucho (UK)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baleariclondon/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baleariclondon/)*

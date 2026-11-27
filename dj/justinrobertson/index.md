@@ -1,6 +1,6 @@
 # Justin Robertson
 
-Justin Robertson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at West Port Oracle, Edinburgh on Sat, 28 Nov 2026.
+Justin Robertson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at West Port Oracle, Edinburgh on Sat, 28 Nov 2026.
 
 Justin Robertson is a house and acid artist based in United Kingdom, with 41 gigs on soundcheck across Belfast, Brighton, Dublin and Edinburgh and 7 more. Often billed alongside DJ Paulette, Graeme Park and Erol Alkan. Next up: West Port Oracle, Edinburgh on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Justin Robertson is a house and acid artist based in United Kingdom, with 41 gig
 
 DJ Paulette, Graeme Park, Erol Alkan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*

@@ -1,6 +1,6 @@
 # Andrreas
 
-Andrreas is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bardo Speakeasy, Mexico City on Thu, 26 Nov 2026.
+Andrreas is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bardo Speakeasy, Mexico City on Thu, 26 Nov 2026.
 
 Andrreas is a house and tech house artist based in Mexico, with 6 gigs on soundcheck across Mexico City. Often billed alongside TRIVEAT, ARWEN and Arii. Next up: Bardo Speakeasy, Mexico City on Thu 26 Nov.
 
@@ -13,6 +13,7 @@ Andrreas is a house and tech house artist based in Mexico, with 6 gigs on soundc
 
 ## Recently played
 
+- Bardo Speakeasy, Mexico City · Thu, 26 Nov 2026
 - Foro Roma, Mexico City · Sat, 14 Nov 2026
 - Hookah Lounge, Mexico City · Wed, 21 Oct 2026
 - Revo Rooftop, Mexico City · Fri, 2 Oct 2026
@@ -22,4 +23,4 @@ Andrreas is a house and tech house artist based in Mexico, with 6 gigs on soundc
 
 TRIVEAT, ARWEN, Arii
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrreas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrreas/)*

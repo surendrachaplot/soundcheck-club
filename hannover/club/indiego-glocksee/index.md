@@ -1,6 +1,6 @@
 # Indiego Glocksee
 
-Indiego Glocksee is a music venue in Hannover with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NEED MORE SPEED // Indiego Glocksee" on Sat, 28 Nov 2026.
+Indiego Glocksee is a music venue in Hannover with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NEED MORE SPEED // Indiego Glocksee" on Sat, 28 Nov 2026.
 
 Indiego Glocksee is a music venue in Hannover listed on soundcheck. 3 upcoming gigs, with line-ups including Alisa Stovik, Arman John, BNZN and DJ SPORTSCHUH and 2 more. See dates, start times and who's playing. Glockseestr.35; 30169 Hannover; Germany.
 
@@ -16,4 +16,4 @@ Indiego Glocksee is a music venue in Hannover listed on soundcheck. 3 upcoming g
 
 Glockseestr.35; 30169 Hannover; Germany, Hannover
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*

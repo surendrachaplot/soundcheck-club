@@ -1,6 +1,6 @@
 # D3NIM
 
-D3NIM is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Green Room NYC, New York City on Sat, 5 Dec 2026.
+D3NIM is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Green Room NYC, New York City on Sat, 5 Dec 2026.
 
 D3NIM is a club and footwork artist based in United States of America, with 28 gigs on soundcheck across London, Miami, New York City and San Diego and 1 more. Often billed alongside Tice Cin, JEAN-PIERRE and Avenhue. Next up: Green Room NYC, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ D3NIM is a club and footwork artist based in United States of America, with 28 g
 
 Tice Cin, JEAN-PIERRE, Avenhue
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d3nim/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d3nim/)*

@@ -1,6 +1,6 @@
 # Loulou Ferrari
 
-Loulou Ferrari is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
+Loulou Ferrari is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
 Loulou Ferrari is a house and techno artist based in France, with 66 gigs on soundcheck across Berlin, Brussels, Geneva and Istanbul and 6 more. Often billed alongside EG, Emma B and Ams (FR). Next up: 119, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Loulou Ferrari is a house and techno artist based in France, with 66 gigs on sou
 
 EG (1), Emma B, Ams (FR)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouferrari/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouferrari/)*

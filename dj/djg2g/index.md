@@ -1,6 +1,6 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Q Club, Milan on Fri, 27 Nov 2026.
+dj g2g is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Q Club, Milan on Fri, 27 Nov 2026.
 
 dj g2g is a techno and club artist based in Uruguay, with 138 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 55 more. Often billed alongside Azyr, Alex Farell and Faster Horses. Next up: Q Club, Milan on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ dj g2g is a techno and club artist based in Uruguay, with 138 gigs on soundcheck
 
 Azyr, Alex Farell, Faster Horses
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*

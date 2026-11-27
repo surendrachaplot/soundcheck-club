@@ -1,6 +1,6 @@
 # ZENA (KR)
 
-ZENA (KR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Amsterdam on Fri, 27 Nov 2026.
+ZENA (KR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Amsterdam on Fri, 27 Nov 2026.
 
 ZENA (KR) is a techno and hardcore artist based in South Korea, with 28 gigs on soundcheck across Amsterdam, Dortmund / Essen, Malta and Seoul. Often billed alongside D.E.F, NANAH and Rivako. Next up: TBA, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ZENA (KR) is a techno and hardcore artist based in South Korea, with 28 gigs on 
 
 D.E.F, NANAH, Rivako
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zenakr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zenakr/)*

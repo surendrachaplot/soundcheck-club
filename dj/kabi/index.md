@@ -1,6 +1,6 @@
 # Kabi
 
-Kabi is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Orla 21, Rio de Janeiro on Sat, 26 Dec 2026.
+Kabi is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Orla 21, Rio de Janeiro on Sat, 26 Dec 2026.
 
 Kabi is a progressive house and deep house artist based in Argentina, with 26 gigs on soundcheck across Amsterdam, Budapest, Buenos Aires and London and 7 more. Often billed alongside Dimuth K, Agustin Ficarra and Armen Miran. Next up: Orla 21, Rio de Janeiro on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Kabi is a progressive house and deep house artist based in Argentina, with 26 gi
 
 Dimuth K, Agustin Ficarra, Armen Miran
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*

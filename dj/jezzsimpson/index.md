@@ -1,6 +1,6 @@
 # Jezz Simpson
 
-Jezz Simpson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 4042, Edinburgh on Sat, 28 Nov 2026.
+Jezz Simpson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 4042, Edinburgh on Sat, 28 Nov 2026.
 
 Jezz Simpson is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Edinburgh. Often billed alongside Gav Miller, OUTSET and DISCO TITS. Next up: 4042, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jezz Simpson is a house and techno artist based in United Kingdom, with 21 gigs 
 
 Gav Miller, OUTSET, DISCO TITS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzsimpson/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzsimpson/)*

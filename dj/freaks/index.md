@@ -1,6 +1,6 @@
 # Freaks
 
-Freaks is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Comfort Zone, Toronto on Thu, 31 Dec 2026.
+Freaks is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Comfort Zone, Toronto on Thu, 31 Dec 2026.
 
 Freaks is a techno and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Bratislava, Cologne and Paris and 2 more. Often billed alongside A Little Sound, Blooom and Delta Heavy. Next up: The Comfort Zone, Toronto on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Freaks is a techno and drum & bass artist based in United Kingdom, with 6 gigs o
 
 A Little Sound, Blooom, Delta Heavy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freaks/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freaks/)*

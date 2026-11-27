@@ -1,6 +1,6 @@
 # PIP ME LIKE A PICKLE - PLEASURE IN PARADISE VOL.1 at Pickle.BKK
 
-PIP ME LIKE A PICKLE - PLEASURE IN PARADISE VOL.1 at Pickle.BKK on Sat 28 Nov, Bangkok. 1 artist: ko.dann. House and Italo Disco. See the line-up on soundcheck.
+PIP ME LIKE A PICKLE - PLEASURE IN PARADISE VOL.1 at Pickle.BKK on Sat 28 Nov, Bangkok. 4 artists: Brownie Popkens, Keep Me In The Light, ko.dann and MJMA. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ PIP ME LIKE A PICKLE - PLEASURE IN PARADISE VOL.1 at Pickle.BKK on Sat 28 Nov, B
 
 ## Line-up
 
+- Brownie Popkens
+- Keep Me In The Light
 - ko.dann
+- MJMA
 
 *Source: [soundcheck](https://soundcheck.club/e/2587199-pip-me-like-a-pickle-pleasure-in-paradise-vol-1-at-pickle-bk/)*

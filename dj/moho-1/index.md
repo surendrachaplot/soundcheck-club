@@ -1,6 +1,6 @@
 # MOHO (1)
 
-MOHO (1) is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
+MOHO (1) is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 27 Nov 2026.
 
 MOHO is a club and pop artist based in South Korea, with 8 gigs on soundcheck across Seoul. Often billed alongside KISEWA, O.od and rue. Next up: Ximxim Bar, Seoul on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ MOHO is a club and pop artist based in South Korea, with 8 gigs on soundcheck ac
 
 KISEWA, O.od, rue (3)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*

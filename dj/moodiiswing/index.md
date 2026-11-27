@@ -1,8 +1,8 @@
 # Mood II Swing
 
-Mood II Swing is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Fri, 27 Nov 2026.
+Mood II Swing is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Fri, 27 Nov 2026.
 
-Mood II Swing is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Berlin, Chicago, Detroit and Geneva and 13 more. Often billed alongside Jamesey, Matt L-S and Prunk. Next up: Kater, Berlin on Fri 27 Nov.
+Mood II Swing is a house and deep house artist based in United States of America, with 39 gigs on soundcheck across Berlin, Chicago, Detroit and Geneva and 13 more. Often billed alongside Jamesey, Matt L-S and Prunk. Next up: Kater, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mood II Swing is a house and disco artist based in United States of America, wit
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Kater | Berlin |
 | Sat, 28 Nov 2026 | Audio Club | Geneva |
+| Fri, 15 Jan 2027 | The Pearl | Vancouver |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mood II Swing is a house and disco artist based in United States of America, wit
 
 Jamesey, Matt L-S, Prunk
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*

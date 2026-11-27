@@ -1,6 +1,6 @@
 # HeartWerk
 
-HeartWerk is a Disco and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at St. Vitus, Oklahoma on Fri, 27 Nov 2026.
+HeartWerk is a Disco and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at St. Vitus, Oklahoma on Fri, 27 Nov 2026.
 
 HeartWerk is a disco and deep house artist based in United States of America, with 17 gigs on soundcheck across Austin, Cleveland, Dallas/Fort Worth and Detroit and 4 more. Often billed alongside Arina Krondeva, Bea Trinidad and Bradley Zero. Next up: St. Vitus, Oklahoma on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ HeartWerk is a disco and deep house artist based in United States of America, wi
 
 Arina Krondeva, Bea Trinidad, Bradley Zero
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heartwerk/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heartwerk/)*

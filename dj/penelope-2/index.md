@@ -1,6 +1,6 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at De Studio, Antwerp on Sat, 28 Nov 2026.
+Penelope (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at De Studio, Antwerp on Sat, 28 Nov 2026.
 
 Penelope is a house and techno artist based in France, with 142 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 26 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: De Studio, Antwerp on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Penelope is a house and techno artist based in France, with 142 gigs on soundche
 
 Mari.te, Walrus, DJ Rino
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*

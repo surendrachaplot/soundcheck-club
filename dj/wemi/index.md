@@ -1,6 +1,6 @@
 # WEMI
 
-WEMI is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 27 Nov 2026.
+WEMI is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 27 Nov 2026.
 
 WEMI is an afro house and house artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Miami and New York City. Often billed alongside Khalil, AQ and AQUTIE. Next up: The Onyx Room at House of Yes, New York City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ WEMI is an afro house and house artist based in United States of America, with 5
 
 Khalil, AQ, AQUTIE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wemi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wemi/)*

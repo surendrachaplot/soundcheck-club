@@ -1,14 +1,15 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Spybar, Chicago on Fri, 4 Dec 2026.
+Easttown is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Spybar, Chicago on Fri, 4 Dec 2026.
 
-Easttown is a house and tech house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Barcelona, Basel and Chicago and 14 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: Spybar, Chicago on Fri 4 Dec.
+Easttown is a house and tech house artist based in Netherlands, with 109 gigs on soundcheck across Amsterdam, Barcelona, Basel and Chicago and 15 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: Spybar, Chicago on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Spybar | Chicago |
+| Fri, 1 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Easttown is a house and tech house artist based in Netherlands, with 108 gigs on
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

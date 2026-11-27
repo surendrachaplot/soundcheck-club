@@ -1,6 +1,6 @@
 # Holocene
 
-Holocene is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Chai & Roses Disco Tea Party" on Sun, 29 Nov 2026.
+Holocene is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Chai & Roses Disco Tea Party" on Sun, 29 Nov 2026.
 
 Holocene is a music venue in Portland listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
 
@@ -16,4 +16,4 @@ Holocene is a music venue in Portland listed on soundcheck. 3 upcoming gigs. See
 
 1001 SE Morrison; Portland, OR 97214; United States, Portland
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*

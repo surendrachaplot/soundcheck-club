@@ -1,6 +1,6 @@
 # The Drop inn
 
-The Drop inn is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FreeFlow presents: Mental Meditation" on Fri, 27 Nov 2026.
+The Drop inn is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FreeFlow presents: Mental Meditation" on Fri, 27 Nov 2026.
 
 The Drop inn is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs, with line-ups including Adam Mclean, Bunny, Cosmjn and ELTEC and 1 more. See dates, start times and who's playing. 77A Upper Trinity St, Birmingham B9 4EG.
 
@@ -16,4 +16,4 @@ The Drop inn is a music venue in Birmingham listed on soundcheck. 3 upcoming gig
 
 77A Upper Trinity St, Birmingham B9 4EG, Birmingham
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-drop-inn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-drop-inn/)*

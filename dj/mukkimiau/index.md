@@ -1,6 +1,6 @@
 # MUKKIMIAU
 
-MUKKIMIAU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+MUKKIMIAU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 MUKKIMIAU is a techno and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Brussels, Frankfurt and Hamburg and 3 more. Often billed alongside Max Joni, LIZZN and ONNI. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ MUKKIMIAU is a techno and house artist based in Germany, with 45 gigs on soundch
 
 Max Joni, LIZZN, ONNI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mukkimiau/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mukkimiau/)*

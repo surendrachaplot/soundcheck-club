@@ -1,6 +1,6 @@
 # Ellen Trenn
 
-Ellen Trenn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Haus73, Hamburg on Thu, 31 Dec 2026.
+Ellen Trenn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Haus73, Hamburg on Thu, 31 Dec 2026.
 
 Ellen Trenn is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 12 more. Often billed alongside BLONDEX, Flour and Amelie Lens. Next up: Haus73, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ellen Trenn is a techno and house artist based in Germany, with 35 gigs on sound
 
 BLONDEX, Flour, Amelie Lens
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*

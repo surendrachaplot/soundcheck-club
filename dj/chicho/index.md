@@ -1,6 +1,6 @@
 # CHICHO
 
-CHICHO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
+CHICHO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 7th Heaven, Hamburg on Thu, 31 Dec 2026.
 
 CHICHO is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alexej, Shilo and JASHTECH. Next up: 7th Heaven, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ CHICHO is a techno and trance artist based in Germany, with 21 gigs on soundchec
 
 Alexej, Shilo, JASHTECH
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicho/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicho/)*

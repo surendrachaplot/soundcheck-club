@@ -1,6 +1,6 @@
 # Julia Goldfarb
 
-Julia Goldfarb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at PRST, Vienna on Fri, 27 Nov 2026.
+Julia Goldfarb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at PRST, Vienna on Fri, 27 Nov 2026.
 
 Julia Goldfarb is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Copenhagen, London and Manchester and 3 more. Often billed alongside Apua, KT and Aghnes. Next up: PRST, Vienna on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Julia Goldfarb is a house and techno artist based in United Kingdom, with 30 gig
 
 Apua, KT, Aghnes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagoldfarb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagoldfarb/)*

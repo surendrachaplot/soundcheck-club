@@ -1,6 +1,6 @@
 # DESTRUKTOR SEASON FINALE at Купе / Kupe
 
-DESTRUKTOR SEASON FINALE at Купе / Kupe on Sat 12 Dec, Sofia. 2 artists: CMDR WAUU and DJBAUMANN. Techno and Industrial. See the line-up on soundcheck.
+DESTRUKTOR SEASON FINALE at Купе / Kupe on Sat 12 Dec, Sofia. 3 artists: AZSUMRADO, CMDR WAUU and DJBAUMANN. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DESTRUKTOR SEASON FINALE at Купе / Kupe on Sat 12 Dec, Sofia. 2 artists: CMD
 
 ## Line-up
 
+- AZSUMRADO
 - CMDR WAUU
 - DJBAUMANN
 

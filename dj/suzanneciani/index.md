@@ -1,6 +1,6 @@
 # Suzanne Ciani
 
-Suzanne Ciani is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Edge, Fed Square, Melbourne on Sun, 6 Dec 2026.
+Suzanne Ciani is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Edge, Fed Square, Melbourne on Sun, 6 Dec 2026.
 
 Suzanne Ciani is an experimental and electronica artist based in United States of America, with 36 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 23 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: The Edge, Fed Square, Melbourne on Sun 6 Dec.
 
@@ -27,4 +27,4 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 
 Actress, Eiko Ishibashi, Blawan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*

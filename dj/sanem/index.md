@@ -1,6 +1,6 @@
 # SANEM
 
-SANEM is a Techno and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Warehouse ZRH, Zurich on Sat, 28 Nov 2026.
+SANEM is a Techno and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Warehouse ZRH, Zurich on Sat, 28 Nov 2026.
 
 SANEM is a techno and afro house artist based in Switzerland, with 27 gigs on soundcheck across Amsterdam, Basel, Frankfurt and Hamburg and 5 more. Often billed alongside Galopp, Cortez and FALCO. Next up: Warehouse ZRH, Zurich on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ SANEM is a techno and afro house artist based in Switzerland, with 27 gigs on so
 
 Galopp, Cortez (2), FALCO (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanem/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanem/)*

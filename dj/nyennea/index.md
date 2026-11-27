@@ -1,6 +1,6 @@
 # Nyennea
 
-Nyennea is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Oddity Club, Athens on Sun, 29 Nov 2026.
+Nyennea is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Oddity Club, Athens on Sun, 29 Nov 2026.
 
 Nyennea is a club and experimental artist based in Greece, with 19 gigs on soundcheck across Athens and Berlin. Often billed alongside Porschelane, Anthracene and Sugar Barbie. Next up: Oddity Club, Athens on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Nyennea is a club and experimental artist based in Greece, with 19 gigs on sound
 
 Porschelane, Anthracene, Sugar Barbie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*

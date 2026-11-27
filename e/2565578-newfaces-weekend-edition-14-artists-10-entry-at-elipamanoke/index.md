@@ -1,6 +1,6 @@
 # newfaces – weekend edition [14 artists; 10€ entry] at elipamanoke
 
-newfaces – weekend edition [14 artists; 10€ entry] at elipamanoke on Sat 28 Nov, Leipzig. 5 artists: devi-dasi, DJ Nasi Goreng, mizy and orbok and 1 more. Trance and Techno. See the line-up on soundcheck.
+newfaces – weekend edition [14 artists; 10€ entry] at elipamanoke on Sat 28 Nov, Leipzig. 6 artists: devi-dasi, DJ Nasi Goreng, Malina and mizy and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ newfaces – weekend edition [14 artists; 10€ entry] at elipamanoke on Sat 28 
 
 - devi-dasi
 - DJ Nasi Goreng
+- Malina (2)
 - mizy
 - orbok
 - w*sserratte

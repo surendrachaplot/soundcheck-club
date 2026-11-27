@@ -1,6 +1,6 @@
 # Greta Levska
 
-Greta Levska is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at L'abarset, Andorra on Sat, 12 Dec 2026.
+Greta Levska is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at L'abarset, Andorra on Sat, 12 Dec 2026.
 
 Greta Levska is a house and techno artist based in Spain, with 44 gigs on soundcheck across Amsterdam, Andorra, Barcelona and Berlin and 4 more. Often billed alongside Danny Howard, Sonny Fodera and Gorgon City. Next up: L'abarset, Andorra on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Greta Levska is a house and techno artist based in Spain, with 44 gigs on soundc
 
 Danny Howard, Sonny Fodera, Gorgon City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalevska/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalevska/)*

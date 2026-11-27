@@ -1,6 +1,6 @@
 # Eyesdice
 
-Eyesdice is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
+Eyesdice is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Groundless Factory, Beijing on Fri, 27 Nov 2026.
 
 Eyesdice is a techno and electro artist based in Poland, with 71 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 13 more. Often billed alongside Berlin Bunny, Paty Vapor and Franz Scala. Next up: Groundless Factory, Beijing on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Eyesdice is a techno and electro artist based in Poland, with 71 gigs on soundch
 
 Berlin Bunny, Paty Vapor, Franz Scala
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*

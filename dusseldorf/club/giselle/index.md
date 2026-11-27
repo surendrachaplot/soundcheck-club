@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Vy Tran" on Fri, 27 Nov 2026.
+Giselle is a music venue in Düsseldorf with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Vy Tran" on Fri, 27 Nov 2026.
 
 Giselle is a music venue in Düsseldorf listed on soundcheck. 8 upcoming gigs, with line-ups including Bergen (DE), Felix Klatt, Mille (DE) and Phil2 and 2 more. See dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -21,4 +21,4 @@ Giselle is a music venue in Düsseldorf listed on soundcheck. 8 upcoming gigs, w
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

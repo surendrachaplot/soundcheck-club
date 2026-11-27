@@ -1,6 +1,6 @@
 # YSL (Young Saucy Lovers)
 
-YSL (Young Saucy Lovers) is a Electro and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Glove That Fits, London on Fri, 11 Dec 2026.
+YSL (Young Saucy Lovers) is a Electro and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Glove That Fits, London on Fri, 11 Dec 2026.
 
 YSL (Young Saucy Lovers) is an electro and minimal artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, Bristol, Leeds and London and 2 more. Often billed alongside ABSOLUTE., ACP. and Addison Groove. Next up: The Glove That Fits, London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ YSL (Young Saucy Lovers) is an electro and minimal artist based in United Kingdo
 
 ABSOLUTE., ACP., Addison Groove
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yslyoungsaucylovers/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yslyoungsaucylovers/)*

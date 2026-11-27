@@ -1,6 +1,6 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 29 Nov 2026.
+Dana Ruh is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 29 Nov 2026.
 
 Dana Ruh is a house and techno artist based in Germany, with 174 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 49 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: El Rio Hostel, Colombia on Sun 29 Nov.
 
@@ -30,4 +30,4 @@ Dana Ruh is a house and techno artist based in Germany, with 174 gigs on soundch
 
 Alessia Ceruti, Robert Drewek, Sven Vath
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*

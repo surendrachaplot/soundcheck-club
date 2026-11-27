@@ -1,6 +1,6 @@
 # Will Tempo
 
-Will Tempo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Void Club, Berlin on Wed, 30 Dec 2026.
+Will Tempo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Void Club, Berlin on Wed, 30 Dec 2026.
 
 Will Tempo is a drum & bass and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Lay.Dee Strange, Aynaet and CosmiKat. Next up: Void Club, Berlin on Wed 30 Dec.
 
@@ -23,4 +23,4 @@ Will Tempo is a drum & bass and techno artist based in Germany, with 7 gigs on s
 
 Lay.Dee Strange, Aynaet, CosmiKat
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willtempo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willtempo/)*

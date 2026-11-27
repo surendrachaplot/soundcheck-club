@@ -1,6 +1,6 @@
 # BOOTYCORNFED
 
-BOOTYCORNFED is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Buddies in Bad Times, Toronto on Fri, 27 Nov 2026.
+BOOTYCORNFED is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Buddies in Bad Times, Toronto on Fri, 27 Nov 2026.
 
 BOOTYCORNFED is a club and techno artist based in Canada, with 28 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, Sofia Fly and Ard1n. Next up: Buddies in Bad Times, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ BOOTYCORNFED is a club and techno artist based in Canada, with 28 gigs on soundc
 
 999ADJ, Sofia Fly, Ard1n
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bootycornfed/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bootycornfed/)*

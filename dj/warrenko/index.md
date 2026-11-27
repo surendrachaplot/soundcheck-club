@@ -1,6 +1,6 @@
 # WarrenKo
 
-WarrenKo is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Pamela Club, Paris on Fri, 27 Nov 2026.
+WarrenKo is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pamela Club, Paris on Fri, 27 Nov 2026.
 
 WarrenKo is a house and afrobeat artist based in France, with 23 gigs on soundcheck across Amsterdam, London, Mexico City and Paris. Often billed alongside Cezaire, GEE LEE and Clara Rosa. Next up: Pamela Club, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ WarrenKo is a house and afrobeat artist based in France, with 23 gigs on soundch
 
 Cezaire, GEE LEE, Clara Rosa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenko/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenko/)*

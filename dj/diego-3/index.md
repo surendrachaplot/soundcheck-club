@@ -1,6 +1,6 @@
 # Diego (3)
 
-Diego (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Subcero Club, Madrid on Sat, 5 Dec 2026.
+Diego (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Subcero Club, Madrid on Sat, 5 Dec 2026.
 
 Diego is a house and tech house artist based in Canada, with 13 gigs on soundcheck across Amsterdam, Brussels, Detroit and Hamburg and 4 more. Often billed alongside Khun, DJ Hochzeit and Mees Mattern. Next up: Subcero Club, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Diego is a house and tech house artist based in Canada, with 13 gigs on soundche
 
 Khun, DJ Hochzeit, Mees Mattern
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-3/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-3/)*

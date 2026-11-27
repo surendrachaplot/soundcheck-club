@@ -1,6 +1,6 @@
 # Bar  Milagro
 
-Bar  Milagro is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "D.O.T. Audio Arts" on Fri, 27 Nov 2026.
+Bar  Milagro is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "D.O.T. Audio Arts" on Fri, 27 Nov 2026.
 
 Bar  Milagro is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including boy_c0ded, boyyyish, Brutal Twink and Brutkalt and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Bar  Milagro is a music venue in New York City listed on soundcheck. 6 upcoming 
 | Fri, 4 Dec 2026 | Nas Leber with Mateo, HD | Brutkalt, ELIVVATE, HD (BE), Mateo, Nas Leber |
 | Sat, 19 Dec 2026 | Club Mustang | Brutal Twink, boy_c0ded, esme2k |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-milagro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-milagro/)*

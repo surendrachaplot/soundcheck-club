@@ -1,6 +1,6 @@
 # Tsunamy
 
-Tsunamy is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Haggerston, London on Sat, 28 Nov 2026.
+Tsunamy is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Haggerston, London on Sat, 28 Nov 2026.
 
 Tsunamy is a baile funk and club artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside JVINCENT, Hey Bony and Jarreau Vandal. Next up: The Haggerston, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tsunamy is a baile funk and club artist based in United Kingdom, with 76 gigs on
 
 JVINCENT, Hey Bony, Jarreau Vandal
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*

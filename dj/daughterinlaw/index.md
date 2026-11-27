@@ -1,6 +1,6 @@
 # Daughter In Law
 
-Daughter In Law is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 4 Dec 2026.
+Daughter In Law is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 4 Dec 2026.
 
 Daughter In Law is a house and tech house artist based in Switzerland, with 63 gigs on soundcheck across Amsterdam, Austria, Basel and Eindhoven and 8 more. Often billed alongside M-High, Alex Dallas and De La Maso. Next up: Bajes Amsterdam, Amsterdam on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Daughter In Law is a house and tech house artist based in Switzerland, with 63 g
 
 M-High, Alex Dallas, De La Maso
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*

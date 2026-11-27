@@ -1,6 +1,6 @@
 # Andy Manston
 
-Andy Manston is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 12 Dec 2026.
+Andy Manston is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Joshua Brooks, Manchester on Sat, 12 Dec 2026.
 
 Andy Manston is a house and breakbeat artist based in United Kingdom, with 20 gigs on soundcheck across Birmingham, Glasgow, Ibiza and Liverpool and 2 more. Often billed alongside Danny Clockwork, Bongo Ben and Alex P. Next up: Joshua Brooks, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Andy Manston is a house and breakbeat artist based in United Kingdom, with 20 gi
 
 Danny Clockwork, Bongo Ben, Alex P
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymanston/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymanston/)*

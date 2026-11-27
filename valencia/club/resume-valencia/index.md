@@ -1,14 +1,13 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Resume Night: IKO, IKAKO & SIMONE WELLE" on Thu, 26 Nov 2026.
+Resume Valencia is a music venue in Valencia with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ELENA MEGI, Fino Fino" on Fri, 27 Nov 2026.
 
-Resume Valencia is a music venue in Valencia listed on soundcheck. 16 upcoming gigs, with line-ups including Elena Megi, Fino Fino and Pizzicatto. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
+Resume Valencia is a music venue in Valencia listed on soundcheck. 15 upcoming gigs, with line-ups including Elena Megi, Fino Fino and Pizzicatto. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Resume Night: IKO, IKAKO & SIMONE WELLE |  |
 | Fri, 27 Nov 2026 | ELENA MEGI, Fino Fino | Elena Megi, Fino Fino |
 | Sat, 28 Nov 2026 | RDO |  |
 | Fri, 4 Dec 2026 | Marc Strap, IKO |  |
@@ -18,9 +17,10 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 16 upcoming g
 | Fri, 18 Dec 2026 | Pau Perez, IKAKO |  |
 | Fri, 18 Dec 2026 | SONIDO X RESUME | Pizzicatto |
 | Sat, 19 Dec 2026 | Pizzicatto, Berni |  |
+| Thu, 24 Dec 2026 | Aaron Gehrig, N&O |  |
 
 ## Address
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

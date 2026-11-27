@@ -1,13 +1,14 @@
 # KAROLINA
 
-KAROLINA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Multiversum Schwechat, Vienna on Sat, 12 Dec 2026.
+KAROLINA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
-KAROLINA is a techno and house artist based in Poland, with 59 gigs on soundcheck across Berlin, Bratislava, Lisbon and Munich and 1 more. Often billed alongside FX-31, GEN97 and KRAWALLBARBIE. Next up: Multiversum Schwechat, Vienna on Sat 12 Dec.
+KAROLINA is a techno and house artist based in Poland, with 60 gigs on soundcheck across Berlin, Bratislava, Lisbon and Munich and 2 more. Often billed alongside FX-31, GEN97 and MIA MIA. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Lehmann Club | Stuttgart |
 | Sat, 12 Dec 2026 | Multiversum Schwechat | Vienna |
 
 ## Recently played
@@ -23,6 +24,6 @@ KAROLINA is a techno and house artist based in Poland, with 59 gigs on soundchec
 
 ## Shares bills with
 
-FX-31, GEN97, KRAWALLBARBIE
+FX-31, GEN97, MIA MIA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*

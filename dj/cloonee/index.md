@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Cloonee is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 32 more. Often billed alongside Jamie Jones, Sosa and Franky Rizardo. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs o
 
 Jamie Jones, Sosa, Franky Rizardo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

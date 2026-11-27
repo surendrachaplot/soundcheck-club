@@ -1,6 +1,6 @@
 # RAPHAËL (2)
 
-RAPHAËL (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Location With Ticket, Denver on Fri, 27 Nov 2026.
+RAPHAËL (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Location With Ticket, Denver on Fri, 27 Nov 2026.
 
 RAPHAËL is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Denver, Detroit and Tokyo. Often billed alongside Disc Jockey George, Fullbodydurag and Sheefy McFly. Next up: TBA - Location With Ticket, Denver on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ RAPHAËL is a house and techno artist based in United States of America, with 17
 
 Disc Jockey George, Fullbodydurag, Sheefy McFly
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*

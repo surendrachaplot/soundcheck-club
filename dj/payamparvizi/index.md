@@ -1,6 +1,6 @@
 # Payam Parvizi
 
-Payam Parvizi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Popstel, Istanbul on Fri, 27 Nov 2026.
+Payam Parvizi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Popstel, Istanbul on Fri, 27 Nov 2026.
 
 Payam Parvizi is a techno and acid artist based in Iran, with 39 gigs on soundcheck across Armenia, Berlin, Budapest and Chicago and 5 more. Often billed alongside Mahyar Parsa, Kvanchi and amiraLii. Next up: The Popstel, Istanbul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Payam Parvizi is a techno and acid artist based in Iran, with 39 gigs on soundch
 
 Mahyar Parsa, Kvanchi, amiraLii
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*

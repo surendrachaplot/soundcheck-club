@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
+James Poole is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
 
 James Poole is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Birmingham, Dublin and Eindhoven and 10 more. Often billed alongside East End Dubs, Hidde van Wee and Julian Fijma. Next up: Thuishaven, Amsterdam on Sun 6 Dec.
 
@@ -31,4 +31,4 @@ James Poole is a house and tech house artist based in United Kingdom, with 15 gi
 
 East End Dubs, Hidde van Wee, Julian Fijma
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

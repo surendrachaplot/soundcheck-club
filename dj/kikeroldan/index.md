@@ -1,6 +1,6 @@
 # Kike Roldan
 
-Kike Roldan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sipsip Rum Bar, Miami on Sat, 5 Dec 2026.
+Kike Roldan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sipsip Rum Bar, Miami on Sat, 5 Dec 2026.
 
 Kike Roldan is a house and deep house artist based in United States of America, with 125 gigs on soundcheck across Miami and Orlando. Often billed alongside Atomyard, Patrick M and Soto Music. Next up: Sipsip Rum Bar, Miami on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kike Roldan is a house and deep house artist based in United States of America, 
 
 Atomyard, Patrick M, Soto Music
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*

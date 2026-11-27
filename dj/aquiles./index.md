@@ -1,6 +1,6 @@
 # AQUILES.
 
-AQUILES. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Eleusis LFC Music Studio, Athens on Fri, 27 Nov 2026.
+AQUILES. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Eleusis LFC Music Studio, Athens on Fri, 27 Nov 2026.
 
 AQUILES. is a techno and trance artist based in Greece, with 11 gigs on soundcheck across Athens. Often billed alongside Mariø, Pannox and Alisa Murphy. Next up: Eleusis LFC Music Studio, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AQUILES. is a techno and trance artist based in Greece, with 11 gigs on soundche
 
 Mariø, Pannox, Alisa Murphy
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquiles./)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquiles./)*

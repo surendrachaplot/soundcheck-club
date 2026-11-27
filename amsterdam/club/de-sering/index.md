@@ -1,6 +1,6 @@
 # De Sering
 
-De Sering is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Dusty Cabinets" on Sat, 5 Dec 2026.
+De Sering is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Dusty Cabinets" on Sat, 5 Dec 2026.
 
 De Sering is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Stefhanja. See dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
 
@@ -15,4 +15,4 @@ De Sering is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 
 Rhoneweg 6, 1043 AH Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*

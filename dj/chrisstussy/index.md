@@ -1,6 +1,6 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at GASHOUDER, Amsterdam on Sat, 28 Nov 2026.
+CHRIS STASSY is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at GASHOUDER, Amsterdam on Sat, 28 Nov 2026.
 
 CHRIS STASSY is a house and techno artist based in Netherlands, with 306 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 71 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: GASHOUDER, Amsterdam on Sat 28 Nov.
 
@@ -36,4 +36,4 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 306 gigs on
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

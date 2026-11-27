@@ -1,8 +1,8 @@
 # Abdullah Miniawy
 
-Abdullah Miniawy is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at EartH, London on Sat, 28 Nov 2026.
+Abdullah Miniawy is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at EartH, London on Sat, 28 Nov 2026.
 
-Abdullah Miniawy is an experimental and techno artist based in Egypt, with 36 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 17 more. Often billed alongside Simo Cell, Moin and gyrofield. Next up: EartH, London on Sat 28 Nov.
+Abdullah Miniawy is an experimental and techno artist based in Egypt, with 37 gigs on soundcheck across Amsterdam, Austria, Barcelona and Bergen and 18 more. Often billed alongside Simo Cell, Moin and gyrofield. Next up: EartH, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Abdullah Miniawy is an experimental and techno artist based in Egypt, with 36 gi
 | Sat, 28 Nov 2026 | EartH | London |
 | Wed, 2 Dec 2026 | De Thomaskerk | Amsterdam |
 | Wed, 17 Feb 2027 | Kino Siska | Ljubljana |
+| Thu, 4 Mar 2027 | Dom im Berg | Austria |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Abdullah Miniawy is an experimental and techno artist based in Egypt, with 36 gi
 
 Simo Cell, Moin, gyrofield
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*

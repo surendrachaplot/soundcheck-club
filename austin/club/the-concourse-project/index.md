@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 21 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "RESCHEDULED: Hot Since 82 + Avision" on Fri, 27 Nov 2026.
+The Concourse Project is a music venue in Austin with 21 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "RESCHEDULED: Hot Since 82 + Avision" on Fri, 27 Nov 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 21 upcoming gigs, with line-ups including Adriatique, Airrica, ALISHA and Avision and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 21 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

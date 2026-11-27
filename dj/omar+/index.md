@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Omar+ is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Omar+ is a house and tech house artist based in United Kingdom, with 87 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 36 more. Often billed alongside Max Dean, Obskur and Prospa. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -9,7 +9,6 @@ Omar+ is a house and tech house artist based in United Kingdom, with 87 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
-| Fri, 27 Nov 2026 | Neck of the Woods | Auckland |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
@@ -36,4 +35,4 @@ Omar+ is a house and tech house artist based in United Kingdom, with 87 gigs on 
 
 Max Dean, Obskur, Prospa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

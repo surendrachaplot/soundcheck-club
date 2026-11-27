@@ -1,6 +1,6 @@
 # Footie on First
 
-Footie on First is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "First Pressing Vol.5: Friendsgiving W/ Ardalan" on Fri, 27 Nov 2026.
+Footie on First is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "First Pressing Vol.5: Friendsgiving W/ Ardalan" on Fri, 27 Nov 2026.
 
 Footie on First is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including Ardalan. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Footie on First is a music venue in Seattle listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | First Pressing Vol.5: Friendsgiving W/ Ardalan | Ardalan |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/footie-on-first/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/footie-on-first/)*

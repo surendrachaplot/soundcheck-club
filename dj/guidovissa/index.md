@@ -1,6 +1,6 @@
 # Guido Vissà
 
-Guido Vissà is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - New Jimmy - Castelmarte, Milan on Sat, 28 Nov 2026.
+Guido Vissà is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - New Jimmy - Castelmarte, Milan on Sat, 28 Nov 2026.
 
 Guido Vissà is a house and minimal artist, with 10 gigs on soundcheck across Barcelona and Milan. Often billed alongside Rele, Downtown Sai and PAZ WAZ HERE. Next up: TBA - New Jimmy - Castelmarte, Milan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Guido Vissà is a house and minimal artist, with 10 gigs on soundcheck across Ba
 
 Rele, Downtown Sai, PAZ WAZ HERE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guidovissa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guidovissa/)*

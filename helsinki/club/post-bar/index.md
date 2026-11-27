@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Club Analogia — Eduardo de la Calle, una & Justus Valtanen, Ojelma & Emma Valtonen" on Fri, 27 Nov 2026.
+Post Bar is a music venue in Helsinki with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Club Analogia — Eduardo de la Calle, una & Justus Valtanen, Ojelma & Emma Valtonen" on Fri, 27 Nov 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 9 upcoming gigs, with line-ups including Aurora Halal, babybel, Catalina and CEB (FI) and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
@@ -22,4 +22,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 9 upcoming gigs, wit
 
 Kaikukatu 2, Helsinki
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

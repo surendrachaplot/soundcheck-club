@@ -1,6 +1,6 @@
 # TBA - Octave Rooftop
 
-TBA - Octave Rooftop is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Wonderscape at Octave Rooftop" on Fri, 18 Dec 2026.
+TBA - Octave Rooftop is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Wonderscape at Octave Rooftop" on Fri, 18 Dec 2026.
 
 TBA - Octave Rooftop is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with line-ups including Makasi. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Octave Rooftop is a music venue in Bangkok listed on soundcheck. 2 upcomin
 | Fri, 18 Dec 2026 | Wonderscape at Octave Rooftop | Makasi |
 | Fri, 25 Dec 2026 | Wonderscape at Octave Rooftop | Makasi |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-octave-rooftop/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-octave-rooftop/)*

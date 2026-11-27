@@ -1,6 +1,6 @@
 # Martek
 
-Martek is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at BARDO, Milan on Sun, 29 Nov 2026.
+Martek is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BARDO, Milan on Sun, 29 Nov 2026.
 
 Martek is a minimal and techno artist based in Italy, with 43 gigs on soundcheck across Bucharest, Milan and Rome. Often billed alongside pido, Sunday Bath and Freddye. Next up: BARDO, Milan on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Martek is a minimal and techno artist based in Italy, with 43 gigs on soundcheck
 
 pido, Sunday Bath, Freddye
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martek/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martek/)*

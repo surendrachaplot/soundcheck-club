@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Smolna NON STOP: Nikolina" on Fri, 27 Nov 2026.
+Smolna is a music venue in Warsaw with 23 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Smolna NON STOP: Nikolina" on Fri, 27 Nov 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 23 upcoming gigs, with line-ups including AMRTUM, Andrew Savich, Claude Degas and EM ILL and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 23 upcoming gigs, with l
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

@@ -1,6 +1,6 @@
 # Brix
 
-Brix is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Secret Location Oslo, Oslo on Thu, 31 Dec 2026.
+Brix is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Secret Location Oslo, Oslo on Thu, 31 Dec 2026.
 
 Brix is a trance and techno artist based in Norway, with 7 gigs on soundcheck across Bergen, Münster and Oslo. Often billed alongside Guild Navigator, Anémi and Komet99. Next up: Secret Location Oslo, Oslo on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Brix is a trance and techno artist based in Norway, with 7 gigs on soundcheck ac
 
 Guild Navigator, Anémi, Komet99
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brix/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brix/)*

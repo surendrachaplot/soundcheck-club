@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Amochi + Kiki + Saladdin + Mr.Silver (DJ-Set)" on Fri, 27 Nov 2026.
+Madame Claude is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Amochi + Kiki + Saladdin + Mr.Silver (DJ-Set)" on Fri, 27 Nov 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Corrado Maria De Santis, doctor doms, Dominique and Kiki and 2 more. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 12 upcoming gigs,
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

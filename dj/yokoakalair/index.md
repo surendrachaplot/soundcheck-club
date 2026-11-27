@@ -1,6 +1,6 @@
 # YOKO aka LAiR
 
-YOKO aka LAiR is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Joule, Osaka on Fri, 27 Nov 2026.
+YOKO aka LAiR is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Joule, Osaka on Fri, 27 Nov 2026.
 
 YOKO aka LAiR is a techno and tech house artist based in Japan, with 40 gigs on soundcheck across Osaka and Tokyo. Often billed alongside O-MAN, Nao Nomura and NOBUYA. Next up: Joule, Osaka on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ YOKO aka LAiR is a techno and tech house artist based in Japan, with 40 gigs on 
 
 O-MAN, Nao Nomura, NOBUYA (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoakalair/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoakalair/)*

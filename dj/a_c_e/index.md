@@ -1,6 +1,6 @@
 # A_C_E.
 
-A_C_E. is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Overture Studios, Toronto on Fri, 11 Dec 2026.
+A_C_E. is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Overture Studios, Toronto on Fri, 11 Dec 2026.
 
 A_C_E. is a techno and hardcore artist based in Canada, with 19 gigs on soundcheck across Toronto. Often billed alongside Axel Esphinoza, KILL 9 1 and MENACE.. Next up: Overture Studios, Toronto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ A_C_E. is a techno and hardcore artist based in Canada, with 19 gigs on soundche
 
 Axel Esphinoza, KILL 9 1, MENACE.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a_c_e/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a_c_e/)*

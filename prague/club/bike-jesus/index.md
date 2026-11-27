@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "REVO SOUR ROOM " on Fri, 27 Nov 2026.
+Bike Jesus is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "REVO SOUR ROOM " on Fri, 27 Nov 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including 2NDRA, Anton Kubikov, Ark3r and AVHD and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -10,7 +10,7 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming gigs, wit
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | REVO SOUR ROOM  |  |
 | Fri, 27 Nov 2026 | WELLWET ツ with Anton Kubikov, RifRaf & WellWet residents | Anton Kubikov, Ark3r, De Mode, RifRaf, kuju |
-| Sat, 28 Nov 2026 | ⊹₊ Just InCase 𓏵 b2b with Friends ₊ ⊹ | Blackloud, KAWA, MIMA, Sam Gittis, Topal |
+| Sat, 28 Nov 2026 | ⊹₊ Just InCase 𓏵 b2b with Friends ₊ ⊹ | Blackloud, KAWA, MIMA, Neda, Sam Gittis, Topal |
 | Wed, 2 Dec 2026 | Fejká | Fejká |
 | Fri, 4 Dec 2026 | Tonic Walter | BERLIN, PARIS (AU) |
 | Fri, 11 Dec 2026 | AMOREX-MAS edition  | DJames (2), Dash (CZ), Kaotic, Rishka, zazitech |
@@ -21,4 +21,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming gigs, wit
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

@@ -1,6 +1,6 @@
 # Sofiia Zoloto
 
-Sofiia Zoloto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Sofiia Zoloto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Sofiia Zoloto is a house and techno artist based in Ukraine, with 48 gigs on soundcheck across Berlin, Brussels, Düsseldorf and Kyiv and 5 more. Often billed alongside 9LALEY, Miran N and Muallem. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Sofiia Zoloto is a house and techno artist based in Ukraine, with 48 gigs on sou
 
 9LALEY, Miran N, Muallem
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*

@@ -1,6 +1,6 @@
 # Backbone
 
-Backbone is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Gare Porto, Porto on Fri, 11 Dec 2026.
+Backbone is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Fri, 11 Dec 2026.
 
 Backbone is a techno and electro artist based in Portugal, with 27 gigs on soundcheck across Amsterdam, Lisbon, Madrid and Porto. Often billed alongside James Grouper, Ferro.C90 and MARRØN. Next up: Gare Porto, Porto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Backbone is a techno and electro artist based in Portugal, with 27 gigs on sound
 
 James Grouper, Ferro.C90, MARRØN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/backbone/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/backbone/)*

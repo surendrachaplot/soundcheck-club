@@ -1,6 +1,6 @@
 # DIGITAL AFFAIR 007: DJ Assault at Bourbon On Division
 
-DIGITAL AFFAIR 007: DJ Assault at Bourbon On Division on Fri 27 Nov, Chicago. 4 artists: Constantine (US), dev.n, DJ Assault and Mo Mami. Footwork and Ghetto Tech. See the line-up on soundcheck.
+DIGITAL AFFAIR 007: DJ Assault at Bourbon On Division on Fri 27 Nov, Chicago. 5 artists: Constantine (US), dev.n, DJ Assault and JustBodhi and 1 more. Footwork and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ DIGITAL AFFAIR 007: DJ Assault at Bourbon On Division on Fri 27 Nov, Chicago. 4 
 - Constantine (US)
 - dev.n
 - DJ Assault
+- JustBodhi
 - Mo Mami
 
 *Source: [soundcheck](https://soundcheck.club/e/2575325-digital-affair-007-dj-assault-at-bourbon-on-division/)*

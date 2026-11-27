@@ -1,6 +1,6 @@
 # Edger
 
-Edger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Red Ruby, Bali on Fri, 27 Nov 2026.
+Edger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Red Ruby, Bali on Fri, 27 Nov 2026.
 
 Edger is a techno and house artist based in Australia, with 11 gigs on soundcheck across Bali, Melbourne and Sydney. Often billed alongside BRAD WATTS, Rowen Clark and VADM. Next up: Red Ruby, Bali on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Edger is a techno and house artist based in Australia, with 11 gigs on soundchec
 
 BRAD WATTS, Rowen Clark, VADM
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edger/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edger/)*

@@ -1,14 +1,15 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Complex Maastricht, Netherlands on Fri, 27 Nov 2026.
+Nico Moreno is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Complex Maastricht, Netherlands on Fri, 27 Nov 2026.
 
-Nico Moreno is a techno and house artist based in France, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 86 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Complex Maastricht, Netherlands on Fri 27 Nov.
+Nico Moreno is a techno and house artist based in France, with 229 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 86 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Complex Maastricht, Netherlands on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Complex Maastricht | Netherlands |
+| Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
@@ -32,4 +33,4 @@ Nico Moreno is a techno and house artist based in France, with 228 gigs on sound
 
 I Hate Models, DYEN, Trym
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

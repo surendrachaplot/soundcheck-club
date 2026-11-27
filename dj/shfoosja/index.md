@@ -1,6 +1,6 @@
 # Shfoosja
 
-Shfoosja is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Shfoosja is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 Shfoosja is a bass and drum & bass artist based in France, with 18 gigs on soundcheck across Berlin, Lausanne, London and Lyon and 3 more. Often billed alongside MARIAD, MASSEILOT and Mafille. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -26,4 +26,4 @@ Shfoosja is a bass and drum & bass artist based in France, with 18 gigs on sound
 
 MARIAD, MASSEILOT, Mafille
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*

@@ -1,6 +1,6 @@
 # ketia
 
-ketia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at export, Rotterdam on Fri, 4 Dec 2026.
+ketia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at export, Rotterdam on Fri, 4 Dec 2026.
 
 ketia is a techno and house artist based in Portugal, with 162 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 41 more. Often billed alongside Angel D'lite, ADAM MUNNINGS and DJ Petite. Next up: export, Rotterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ketia is a techno and house artist based in Portugal, with 162 gigs on soundchec
 
 Angel D'lite, ADAM MUNNINGS, DJ Petite
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*

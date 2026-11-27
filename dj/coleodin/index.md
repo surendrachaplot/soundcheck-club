@@ -1,6 +1,6 @@
 # Cole Odin
 
-Cole Odin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Cole Odin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Cole Odin is a house and disco artist based in United States of America, with 22 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ M3, Anthony Mansfield and &ndmore. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Cole Odin is a house and disco artist based in United States of America, with 22
 
 DJ M3, Anthony Mansfield, &ndmore
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleodin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coleodin/)*

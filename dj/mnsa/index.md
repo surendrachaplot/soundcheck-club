@@ -1,6 +1,6 @@
 # MNSA
 
-MNSA is a Electro and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ausgang Plaza, Montreal on Sat, 28 Nov 2026.
+MNSA is a Electro and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ausgang Plaza, Montreal on Sat, 28 Nov 2026.
 
 MNSA is an electro and pop artist based in Canada, with 55 gigs on soundcheck across Chicago, Detroit, London and Montreal and 3 more. Often billed alongside Nadim Maghzal, Saphe and Arianna Danae. Next up: Ausgang Plaza, Montreal on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ MNSA is an electro and pop artist based in Canada, with 55 gigs on soundcheck ac
 
 Nadim Maghzal, Saphe, Arianna Danae
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mnsa/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mnsa/)*

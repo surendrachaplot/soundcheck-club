@@ -1,6 +1,6 @@
 # Osunlade
 
-Osunlade is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Row 24 Chicago, Chicago on Sat, 12 Dec 2026.
+Osunlade is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Row 24 Chicago, Chicago on Sat, 12 Dec 2026.
 
 Osunlade is a house and deep house artist based in Greece, with 88 gigs on soundcheck across Adelaide, Atlanta, Baltimore and Berlin and 28 more. Often billed alongside Kyri R2, Natasha Diggs and Kapela. Next up: Row 24 Chicago, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Osunlade is a house and deep house artist based in Greece, with 88 gigs on sound
 
 Kyri R2, Natasha Diggs, Kapela
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*

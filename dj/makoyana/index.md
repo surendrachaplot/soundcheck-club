@@ -1,6 +1,6 @@
 # Makoyana
 
-Makoyana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Makoyana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 Makoyana is a house and tech house artist based in Australia, with 22 gigs on soundcheck across Melbourne, Seoul and Shanghai. Often billed alongside D-Grade, DJ Possum and ADMINISTRATOR. Next up: TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Makoyana is a house and tech house artist based in Australia, with 22 gigs on so
 
 D-Grade, DJ Possum, ADMINISTRATOR
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makoyana/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makoyana/)*

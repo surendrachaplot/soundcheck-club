@@ -1,6 +1,6 @@
 # Om Being
 
-Om Being is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Space Club IX" on Fri, 27 Nov 2026.
+Om Being is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Space Club IX" on Fri, 27 Nov 2026.
 
 Om Being is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ario, lola:de and TSUNIMAN. See dates, start times and who's playing. Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT.
 
@@ -16,4 +16,4 @@ Om Being is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*

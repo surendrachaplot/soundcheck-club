@@ -1,6 +1,6 @@
 # Shingo Nakamura
 
-Shingo Nakamura is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Adrift, Tokyo on Sat, 28 Nov 2026.
+Shingo Nakamura is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Adrift, Tokyo on Sat, 28 Nov 2026.
 
 Shingo Nakamura is a progressive house and trance artist based in Japan, with 61 gigs on soundcheck across Boston, Houston, Leeds and London and 13 more. Often billed alongside Conures (DJ Tokunaga), DJ NECO and YOSHIMASA. Next up: Adrift, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, with 61
 
 Conures (DJ Tokunaga), DJ NECO, YOSHIMASA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*

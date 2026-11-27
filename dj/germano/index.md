@@ -1,6 +1,6 @@
 # Germano
 
-Germano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TCQ, Buenos Aires on Fri, 18 Dec 2026.
+Germano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TCQ, Buenos Aires on Fri, 18 Dec 2026.
 
 Germano is a techno and house artist, with 10 gigs on soundcheck across Buenos Aires and Rome. Often billed alongside Massimo Picchioni, futuristant and Filippo Zeta. Next up: TCQ, Buenos Aires on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Germano is a techno and house artist, with 10 gigs on soundcheck across Buenos A
 
 Massimo Picchioni, futuristant, Filippo Zeta
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/germano/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/germano/)*

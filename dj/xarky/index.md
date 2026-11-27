@@ -1,6 +1,6 @@
 # xarky
 
-xarky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sala El Sol, Madrid on Mon, 7 Dec 2026.
+xarky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala El Sol, Madrid on Mon, 7 Dec 2026.
 
 xarky is a techno and hardcore artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside FØNNZER, JAWS and Pulpix. Next up: Sala El Sol, Madrid on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ xarky is a techno and hardcore artist based in Spain, with 17 gigs on soundcheck
 
 FØNNZER, JAWS, Pulpix
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xarky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xarky/)*

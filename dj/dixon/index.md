@@ -1,8 +1,8 @@
 # Dixon
 
-Dixon is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Dixon is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
-Dixon is a house and techno artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Verbier, Switzerland on Fri 20 Nov.
+Dixon is a house and techno artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Verbier, Switzerland on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Dixon is a house and techno artist based in Germany, with 214 gigs on soundcheck
 | Sun, 3 Jan 2027 | Pier 80 Warehouse | San-francisco-oakland |
 | Tue, 5 Jan 2027 | Mondo | Madrid |
 | Sun, 6 Jun 2027 | Parc del Fòrum | Barcelona |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Dixon is a house and techno artist based in Germany, with 214 gigs on soundcheck
 
 Jimi Jules, Âme, Trikk
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

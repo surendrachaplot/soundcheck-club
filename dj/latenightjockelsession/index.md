@@ -1,6 +1,6 @@
 # Late Night Jockel Session
 
-Late Night Jockel Session is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Thu, 17 Dec 2026.
+Late Night Jockel Session is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Thu, 17 Dec 2026.
 
 Late Night Jockel Session is a house and disco artist based in Austria, with 21 gigs on soundcheck across Berlin, Hamburg, Munich and Vienna. Often billed alongside Crew Ombrelle, E-Gerät and Kabeljo. Next up: Kater, Berlin on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Late Night Jockel Session is a house and disco artist based in Austria, with 21 
 
 Crew Ombrelle, E-Gerät, Kabeljo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightjockelsession/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightjockelsession/)*

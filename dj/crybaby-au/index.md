@@ -1,6 +1,6 @@
 # Crybaby
 
-Crybaby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Chinatown Rooftop Carpark, Melbourne on Fri, 1 Jan 2027.
+Crybaby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Chinatown Rooftop Carpark, Melbourne on Fri, 1 Jan 2027.
 
 Crybaby is a techno and house artist based in Australia, with 61 gigs on soundcheck across Bangkok, Beijing, Brisbane and London and 7 more. Often billed alongside JUPiTA, Shampain and Caucasian Opportunities. Next up: TBA - Chinatown Rooftop Carpark, Melbourne on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Crybaby is a techno and house artist based in Australia, with 61 gigs on soundch
 
 JUPiTA, Shampain, Caucasian Opportunities
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*

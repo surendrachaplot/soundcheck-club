@@ -1,6 +1,6 @@
 # Nusheen
 
-Nusheen is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 4 Dec 2026.
+Nusheen is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at EXIT Glasgow, Glasgow on Fri, 4 Dec 2026.
 
 Nusheen is a club and house artist based in United Kingdom, with 28 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Hometown Sound, Kahn and Naone. Next up: EXIT Glasgow, Glasgow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nusheen is a club and house artist based in United Kingdom, with 28 gigs on soun
 
 Hometown Sound, Kahn, Naone
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nusheen/)*

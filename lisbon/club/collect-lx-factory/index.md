@@ -1,14 +1,13 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "COLLECT w/ MEIBI" on Thu, 26 Nov 2026.
+Collect LX Factory is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Off Topic X Collect LX Factory" on Fri, 27 Nov 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including Billi, Cruz (PT), DarkateK and DJ Honesty and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including Billi, Cruz (PT), DarkateK and DJ Honesty and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | COLLECT w/ MEIBI | Meibi |
 | Fri, 27 Nov 2026 | Off Topic X Collect LX Factory | Pedro Zoy |
 | Fri, 27 Nov 2026 | COLLECT w/ DARKATEK | DarkateK |
 | Sat, 28 Nov 2026 | WARM with Phil Evans ( Pager Records ) | DJ Honesty, Phil Evans, Telma |
@@ -19,4 +18,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 6 upcoming g
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

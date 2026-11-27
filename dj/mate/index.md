@@ -1,6 +1,6 @@
 # Maté
 
-Maté is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Riviera Records Store, Munich on Fri, 27 Nov 2026.
+Maté is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Riviera Records Store, Munich on Fri, 27 Nov 2026.
 
 Maté is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Baltimore, Basel, Berlin and Bogotá and 12 more. Often billed alongside Von Riu, Amor Satyr and Anaco. Next up: Riviera Records Store, Munich on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Maté is a techno and trance artist based in Germany, with 28 gigs on soundcheck
 
 Von Riu, Amor Satyr, Anaco
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mate/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mate/)*

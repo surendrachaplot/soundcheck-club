@@ -1,6 +1,6 @@
 # jiyun kim
 
-jiyun kim is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 28 Nov 2026.
+jiyun kim is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 28 Nov 2026.
 
 jiyun kim is a house and deep house artist based in Germany, with 40 gigs on soundcheck across Barcelona, Berlin, Detroit and New York City and 1 more. Often billed alongside Ana Molina, Carl Bergé and Lavan. Next up: MONKEY LOVE, Warsaw on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ jiyun kim is a house and deep house artist based in Germany, with 40 gigs on sou
 
 Ana Molina, Carl Bergé, Lavan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiyunkim/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiyunkim/)*

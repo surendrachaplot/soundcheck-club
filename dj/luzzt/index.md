@@ -1,6 +1,6 @@
 # LUZZT
 
-LUZZT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Das Werk, Vienna on Sat, 28 Nov 2026.
+LUZZT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Das Werk, Vienna on Sat, 28 Nov 2026.
 
 LUZZT is a techno and trance artist based in Austria, with 38 gigs on soundcheck across Berlin, Krakow, Vienna and Zurich. Often billed alongside Trugbild, AUDIO303 and SCHMU. Next up: Das Werk, Vienna on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ LUZZT is a techno and trance artist based in Austria, with 38 gigs on soundcheck
 
 Trugbild, AUDIO303, SCHMU
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzzt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzzt/)*

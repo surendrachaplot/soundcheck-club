@@ -1,13 +1,14 @@
 # BrockHouse
 
-BrockHouse is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at The Spotlight - Broxbourne, London on Sat, 20 Mar 2027.
+BrockHouse is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Beat Boutique, Hamburg on Wed, 2 Dec 2026.
 
-BrockHouse is a tech house and techno artist based in Germany, with 2 gigs on soundcheck across Hamburg and London. Often billed alongside Brandon Block, DJ Spoony and Glenn Sidney. Next up: The Spotlight - Broxbourne, London on Sat 20 Mar.
+BrockHouse is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Hamburg and London. Often billed alongside Brandon Block, DJ Spoony and Glenn Sidney. Next up: Beat Boutique, Hamburg on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Dec 2026 | Beat Boutique | Hamburg |
 | Sat, 20 Mar 2027 | The Spotlight - Broxbourne | London |
 
 ## Recently played
@@ -18,4 +19,4 @@ BrockHouse is a tech house and techno artist based in Germany, with 2 gigs on so
 
 Brandon Block, DJ Spoony, Glenn Sidney
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brockhouse/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brockhouse/)*

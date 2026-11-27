@@ -1,6 +1,6 @@
 # LA Rítmica Club
 
-LA Rítmica Club is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "ROYAL DELUSION presents: AZDAT, 5VRGN, KICKREY & CATRIX" on Fri, 27 Nov 2026.
+LA Rítmica Club is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "ROYAL DELUSION presents: AZDAT, 5VRGN, KICKREY & CATRIX" on Fri, 27 Nov 2026.
 
 LA Rítmica Club is a music venue in Valencia listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. CAMI DE LA MARJAL 52, ALBAL (VALENCIA).
 
@@ -14,4 +14,4 @@ LA Rítmica Club is a music venue in Valencia listed on soundcheck. 1 upcoming g
 
 CAMI DE LA MARJAL 52, ALBAL (VALENCIA), Valencia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/la-r-tmica-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/la-r-tmica-club/)*

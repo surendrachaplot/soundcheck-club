@@ -1,6 +1,6 @@
 # Symbole Residents Night: Benza B2B exuvia B2B NDSTPS B2B Yeiks ALL NIGHT LONG at EL SÓTANO
 
-Symbole Residents Night: Benza B2B exuvia B2B NDSTPS B2B Yeiks ALL NIGHT LONG at EL SÓTANO on Thu 17 Dec, Madrid. 3 artists: exuvia, NDSTPS and Yeiks. Techno. See the line-up on soundcheck.
+Symbole Residents Night: Benza B2B exuvia B2B NDSTPS B2B Yeiks ALL NIGHT LONG at EL SÓTANO on Thu 17 Dec, Madrid. 4 artists: BENZA, exuvia, NDSTPS and Yeiks. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Symbole Residents Night: Benza B2B exuvia B2B NDSTPS B2B Yeiks ALL NIGHT LONG at
 
 ## Line-up
 
+- BENZA
 - exuvia
 - NDSTPS
 - Yeiks

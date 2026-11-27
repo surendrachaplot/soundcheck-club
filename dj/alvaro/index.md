@@ -1,6 +1,6 @@
 # Alvaro
 
-Alvaro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+Alvaro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 Alvaro is a house and disco artist based in United States of America, with 17 gigs on soundcheck across Bali, Portland, San Francisco/Oakland and Sydney and 1 more. Often billed alongside &ndmore, DJ M3 and Galen. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alvaro is a house and disco artist based in United States of America, with 17 gi
 
 &ndmore, DJ M3, Galen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaro/)*

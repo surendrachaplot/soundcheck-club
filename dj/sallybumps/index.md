@@ -1,6 +1,6 @@
 # Sally Bumps
 
-Sally Bumps is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Combo Milano, Milan on Sun, 29 Nov 2026.
+Sally Bumps is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Combo Milano, Milan on Sun, 29 Nov 2026.
 
 Sally Bumps is a techno and ambient artist based in Italy, with 9 gigs on soundcheck across Bologna and Milan. Often billed alongside Diamantha, Known Artist and ARMANDO. Next up: Combo Milano, Milan on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Sally Bumps is a techno and ambient artist based in Italy, with 9 gigs on soundc
 
 Diamantha, Known Artist, ARMANDO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sallybumps/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sallybumps/)*

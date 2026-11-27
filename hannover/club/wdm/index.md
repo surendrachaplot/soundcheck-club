@@ -1,6 +1,6 @@
 # WDM
 
-WDM is a music venue in Hannover with 12 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Klubnacht with filapa, bauhof, Maris Shilton" on Fri, 27 Nov 2026.
+WDM is a music venue in Hannover with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Klubnacht with filapa, bauhof, Maris Shilton" on Fri, 27 Nov 2026.
 
 WDM is a music venue in Hannover listed on soundcheck. 12 upcoming gigs, with line-ups including 2HOT2PLAY, 5euroGoldi, AEREA and Amy Dabbs and 2 more. See dates, start times and who's playing. Weidendamm 8, 30167 Hannover.
 
@@ -23,4 +23,4 @@ WDM is a music venue in Hannover listed on soundcheck. 12 upcoming gigs, with li
 
 Weidendamm 8, 30167 Hannover, Hannover
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*

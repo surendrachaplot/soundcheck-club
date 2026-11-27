@@ -1,6 +1,6 @@
 # Lobsta B
 
-Lobsta B is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hootananny Brixton, London on Fri, 4 Dec 2026.
+Lobsta B is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hootananny Brixton, London on Fri, 4 Dec 2026.
 
 Lobsta B is a techno and trance artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 22 more. Often billed alongside alterum, 3DMA and Peggy Viennetta. Next up: Hootananny Brixton, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lobsta B is a techno and trance artist based in United Kingdom, with 78 gigs on 
 
 alterum, 3DMA, Peggy Viennetta
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*

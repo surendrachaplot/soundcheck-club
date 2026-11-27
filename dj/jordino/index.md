@@ -1,6 +1,6 @@
 # Jordino
 
-Jordino is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 22 Jan 2027.
+Jordino is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 22 Jan 2027.
 
 Jordino is a house and minimal artist based in Italy, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Portente, Kirilski and Benoît. Next up: Shelter Amsterdam, Amsterdam on Fri 22 Jan.
 
@@ -22,4 +22,4 @@ Jordino is a house and minimal artist based in Italy, with 6 gigs on soundcheck 
 
 Portente, Kirilski, Benoît
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordino/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordino/)*

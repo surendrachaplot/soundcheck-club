@@ -1,6 +1,6 @@
 # Jidgy B
 
-Jidgy B is a Balearic and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
+Jidgy B is a Balearic and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
 
 Jidgy B is a balearic and deep house artist based in United Kingdom, with 6 gigs on soundcheck across Leeds. Often billed alongside 1tbsp, Ben Lewis and Bruce. Next up: Holding Patterns, Leeds on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Jidgy B is a balearic and deep house artist based in United Kingdom, with 6 gigs
 
 1tbsp, Ben Lewis, Bruce
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jidgyb/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jidgyb/)*

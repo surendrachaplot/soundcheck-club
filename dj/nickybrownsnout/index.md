@@ -1,6 +1,6 @@
 # nicky brown snout
 
-nicky brown snout is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 20 Dec 2026.
+nicky brown snout is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 20 Dec 2026.
 
 nicky brown snout is a house and disco artist, with 19 gigs on soundcheck across London. Often billed alongside Binary Operator, Basement Maxx and Nicky B. Next up: Vittoria Wharf Studio, London on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ nicky brown snout is a house and disco artist, with 19 gigs on soundcheck across
 
 Binary Operator, Basement Maxx, Nicky B
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickybrownsnout/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickybrownsnout/)*

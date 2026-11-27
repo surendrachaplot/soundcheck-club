@@ -1,8 +1,8 @@
 # QVEENS
 
-QVEENS is a Tech House and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+QVEENS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
-QVEENS is a tech house and psytrance artist based in New Zealand, with 8 gigs on soundcheck across Auckland, Barcelona, Brighton and London. Often billed alongside Greg Churchill, James Foxx and Out Of Sorts. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
+QVEENS is a house and tech house artist based in New Zealand, with 8 gigs on soundcheck across Auckland, Barcelona, Brighton and London. Often billed alongside Greg Churchill, James Foxx and Out Of Sorts. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ QVEENS is a tech house and psytrance artist based in New Zealand, with 8 gigs on
 
 Greg Churchill, James Foxx, Out Of Sorts
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qveens/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qveens/)*

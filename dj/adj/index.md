@@ -1,6 +1,6 @@
 # ADJ
 
-ADJ is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Room, Montreal on Fri, 11 Dec 2026.
+ADJ is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blue Room, Montreal on Fri, 11 Dec 2026.
 
 ADJ is a tech house and techno artist, with 14 gigs on soundcheck across Berlin, London, Manchester and Montreal and 2 more. Often billed alongside Errorbeauty, Pegasvs and 3 Minds. Next up: Blue Room, Montreal on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ ADJ is a tech house and techno artist, with 14 gigs on soundcheck across Berlin,
 
 Errorbeauty, Pegasvs, 3 Minds
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adj/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adj/)*

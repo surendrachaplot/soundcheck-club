@@ -1,6 +1,6 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mirror Moves #4 [27.11.26]" on Fri, 27 Nov 2026.
+Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mirror Moves #4 [27.11.26]" on Fri, 27 Nov 2026.
 
 Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including AAKAARA, acidhousewife3000, Benebe and Cecilia Ena and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
@@ -18,4 +18,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, w
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

@@ -1,6 +1,6 @@
 # TBA - Secret
 
-TBA - Secret is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "A Crua Tá De Volta. E Dessa Vez É Pra Valer" on Sat, 28 Nov 2026.
+TBA - Secret is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "A Crua Tá De Volta. E Dessa Vez É Pra Valer" on Sat, 28 Nov 2026.
 
 TBA - Secret is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Alma Negrot, DJ Jabour and ZEI (Br). See dates, start times and who's playing.
 
@@ -10,6 +10,6 @@ TBA - Secret is a music venue in London listed on soundcheck. 3 upcoming gigs, w
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | A Crua Tá De Volta. E Dessa Vez É Pra Valer | Alma Negrot, ZEI (Br) |
 | Sat, 28 Nov 2026 | Contramão Com Legalzona Djs | DJ Jabour |
-| Fri, 8 Jan 2027 | STARHOUSE presents: cathedral-studies |  |
+| Fri, 8 Jan 2027 | STARHOUSE presents: CATHEDRAL-01 |  |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret/)*

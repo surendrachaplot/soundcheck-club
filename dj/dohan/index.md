@@ -1,6 +1,6 @@
 # dohan
 
-dohan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Macarena Club, Barcelona on Wed, 16 Dec 2026.
+dohan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Wed, 16 Dec 2026.
 
 dohan is a tech house and house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Geneva, Madrid and Tirana. Often billed alongside Saulo Pisa, Belu Rodriguez and Black Paps. Next up: Macarena Club, Barcelona on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ dohan is a tech house and house artist based in Spain, with 9 gigs on soundcheck
 
 Saulo Pisa, Belu Rodriguez, Black Paps
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dohan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dohan/)*

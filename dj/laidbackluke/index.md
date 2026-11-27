@@ -1,6 +1,6 @@
 # Laidback Luke
 
-Laidback Luke is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Riviera Beach Club, Melbourne on Fri, 1 Jan 2027.
+Laidback Luke is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Riviera Beach Club, Melbourne on Fri, 1 Jan 2027.
 
 Laidback Luke is a house and progressive house artist based in Netherlands, with 29 gigs on soundcheck across Cologne, Houston, Liverpool and Los Angeles and 14 more. Often billed alongside Steve Aoki, Bassjackers and Cedric Gervais. Next up: Riviera Beach Club, Melbourne on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Laidback Luke is a house and progressive house artist based in Netherlands, with
 
 Steve Aoki, Bassjackers, Cedric Gervais
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laidbackluke/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laidbackluke/)*

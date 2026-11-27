@@ -1,6 +1,6 @@
 # Cosmo
 
-Cosmo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Knockdown Center, New York City on Thu, 4 Feb 2027.
+Cosmo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Knockdown Center, New York City on Thu, 4 Feb 2027.
 
 Cosmo is a house and techno artist based in Italy, with 51 gigs on soundcheck across Barcelona, Berlin, Bucharest and Chengdu and 14 more. Often billed alongside Cosmo (NY), Jordz and Kim.Qna. Next up: Knockdown Center, New York City on Thu 4 Feb.
 
@@ -25,4 +25,4 @@ Cosmo is a house and techno artist based in Italy, with 51 gigs on soundcheck ac
 
 Cosmo (NY), Jordz, Kim.Qna
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*

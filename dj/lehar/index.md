@@ -1,14 +1,15 @@
 # Lehar
 
-Lehar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
+Lehar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
 
-Lehar is a house and techno artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Denis Horvat and After Affair. Next up: Kater, Berlin on Fri 18 Dec.
+Lehar is a house and techno artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Denis Horvat and After Affair. Next up: Kater, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Kater | Berlin |
+| Sat, 23 Jan 2027 | Culture Box | Copenhagen |
 | Fri, 18 Jun 2027 | BORIS CLUB | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Lehar is a house and techno artist based in Italy, with 77 gigs on soundcheck ac
 
 Musumeci, Denis Horvat, After Affair
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*

@@ -1,6 +1,6 @@
 # MADROSE
 
-MADROSE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Neo Bar KL- Level 37 Ilham Tower, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 27 Nov 2026.
+MADROSE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Neo Bar KL- Level 37 Ilham Tower, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 27 Nov 2026.
 
 MADROSE is a techno and house artist based in Malaysia, with 14 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Biscuit (MY) and Odd (MY). Next up: TBA - Neo Bar KL- Level 37 Ilham Tower, Jalan Binjai 8, 50450, Kuala Lumpur on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MADROSE is a techno and house artist based in Malaysia, with 14 gigs on soundche
 
 Alam, Biscuit (MY), Odd (MY)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*

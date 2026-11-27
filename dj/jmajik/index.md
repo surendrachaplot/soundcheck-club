@@ -1,6 +1,6 @@
 # J Majik
 
-J Majik is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
+J Majik is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
 
 J Majik is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 6 more. Often billed alongside Doc Scott, Diverge and Grooverider. Next up: The Wardrobe, Leeds on Sun 29 Nov.
 
@@ -30,4 +30,4 @@ J Majik is a drum & bass and jungle artist based in United Kingdom, with 15 gigs
 
 Doc Scott, Diverge, Grooverider
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*

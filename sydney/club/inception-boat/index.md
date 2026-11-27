@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "House CLTR Sydney feat. wAFF (Nature, Hot Creations)" on Sat, 28 Nov 2026.
+Inception Boat is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "House CLTR Sydney feat. wAFF (Nature, Hot Creations)" on Sat, 28 Nov 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including wAFF. See dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -21,4 +21,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 8 upcoming gigs,
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

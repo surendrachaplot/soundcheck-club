@@ -1,6 +1,6 @@
 # Tim Schlockermann
 
-Tim Schlockermann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Neue Welle, Leipzig on Fri, 11 Dec 2026.
+Tim Schlockermann is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Neue Welle, Leipzig on Fri, 11 Dec 2026.
 
 Tim Schlockermann is a house and tech house artist based in Germany, with 8 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Reece Walker, mp.ulle and Anna Malysz. Next up: Neue Welle, Leipzig on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Tim Schlockermann is a house and tech house artist based in Germany, with 8 gigs
 
 Reece Walker, mp.ulle, Anna Malysz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timschlockermann/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timschlockermann/)*

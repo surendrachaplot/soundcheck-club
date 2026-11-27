@@ -1,6 +1,6 @@
 # ZIG ZACH
 
-ZIG ZACH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+ZIG ZACH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 ZIG ZACH is a techno and house artist based in Singapore, with 12 gigs on soundcheck across Amsterdam, Hanoi, Kuala Lumpur and Singapore and 1 more. Often billed alongside Sivanesh, Bongomann and DOTT. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ ZIG ZACH is a techno and house artist based in Singapore, with 12 gigs on soundc
 
 Sivanesh, Bongomann, DOTT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zigzach/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zigzach/)*

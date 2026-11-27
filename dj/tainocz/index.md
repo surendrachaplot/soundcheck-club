@@ -1,6 +1,6 @@
 # Täino
 
-Täino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Fuchs2, Prague on Sat, 12 Dec 2026.
+Täino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuchs2, Prague on Sat, 12 Dec 2026.
 
 Täino is a house and techno artist based in Czech Republic, with 5 gigs on soundcheck across Prague. Often billed alongside Roman Rai, Biodan and Blackloud. Next up: Fuchs2, Prague on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Täino is a house and techno artist based in Czech Republic, with 5 gigs on soun
 
 Roman Rai, Biodan, Blackloud
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tainocz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tainocz/)*

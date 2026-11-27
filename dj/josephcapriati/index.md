@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Zumana Bali, Bali on Fri, 27 Nov 2026.
+Joseph Capriati is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zumana Bali, Bali on Fri, 27 Nov 2026.
 
 Joseph Capriati is a techno and house artist based in Italy, with 248 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Zumana Bali, Bali on Fri 27 Nov.
 
@@ -20,6 +20,7 @@ Joseph Capriati is a techno and house artist based in Italy, with 248 gigs on so
 
 ## Recently played
 
+- Kyo KL, Kuala Lumpur · Thu, 26 Nov 2026
 - WOMB, Tokyo · Sun, 22 Nov 2026
 - Electric Wonderland, Hong Kong · Fri, 20 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
@@ -27,10 +28,9 @@ Joseph Capriati is a techno and house artist based in Italy, with 248 gigs on so
 - Q Nightclub, Seattle · Thu, 29 Oct 2026
 - BRET, Amsterdam · Sun, 25 Oct 2026
 - Sugarfactory, Amsterdam · Fri, 23 Oct 2026
-- TBA - LUBLIN, Poland · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

@@ -1,6 +1,6 @@
 # guesst (1)
 
-guesst (1) is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Podlasie Club, Chicago on Thu, 3 Dec 2026.
+guesst (1) is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Podlasie Club, Chicago on Thu, 3 Dec 2026.
 
 guesst is a drum & bass and club artist based in United States of America, with 17 gigs on soundcheck across Chicago and Seattle. Often billed alongside Initial G, Dj Scari and Toyacoyah. Next up: Podlasie Club, Chicago on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ guesst is a drum & bass and club artist based in United States of America, with 
 
 Initial G, Dj Scari, Toyacoyah
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guesst-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guesst-1/)*

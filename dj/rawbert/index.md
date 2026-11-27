@@ -1,6 +1,6 @@
 # Rawbert
 
-Rawbert is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Delgallet - Vallila, Helsinki on Fri, 4 Dec 2026.
+Rawbert is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Delgallet - Vallila, Helsinki on Fri, 4 Dec 2026.
 
 Rawbert is a house and acid artist based in Finland, with 2 gigs on soundcheck across Helsinki. Often billed alongside P o B, Annigato and Nikolucky. Next up: Delgallet - Vallila, Helsinki on Fri 4 Dec.
 
@@ -15,4 +15,4 @@ Rawbert is a house and acid artist based in Finland, with 2 gigs on soundcheck a
 
 P o B, Annigato, Nikolucky
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawbert/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rawbert/)*

@@ -1,6 +1,6 @@
 # Rakjay
 
-Rakjay is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
+Rakjay is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
 
 Rakjay is a dubstep and grime artist, with 6 gigs on soundcheck across London, Manchester and Tallinn. Often billed alongside Tessa, Aura (UK) and Bisweed. Next up: Kizuna, London on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Rakjay is a dubstep and grime artist, with 6 gigs on soundcheck across London, M
 
 Tessa, Aura (UK), Bisweed
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rakjay/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rakjay/)*

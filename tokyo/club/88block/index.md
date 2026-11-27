@@ -1,6 +1,6 @@
 # 88block
 
-88block is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "DUB-HONJIN vol.18" on Fri, 27 Nov 2026.
+88block is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DUB-HONJIN vol.18" on Fri, 27 Nov 2026.
 
 88block is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including 063N13, Aimos, Anela and CITY1 and 2 more. See dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
@@ -18,4 +18,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

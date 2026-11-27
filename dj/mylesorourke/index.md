@@ -1,6 +1,6 @@
 # Myles O’Rourke
 
-Myles O’Rourke is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Curveball, Dublin on Fri, 18 Dec 2026.
+Myles O’Rourke is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Curveball, Dublin on Fri, 18 Dec 2026.
 
 Myles O’Rourke is a garage and house artist, with 6 gigs on soundcheck across Dublin and Liverpool. Often billed alongside MTC., Micknasty and Carl Flynn. Next up: Curveball, Dublin on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Myles O’Rourke is a garage and house artist, with 6 gigs on soundcheck across 
 
 MTC., Micknasty, Carl Flynn
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesorourke/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesorourke/)*

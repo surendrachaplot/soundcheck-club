@@ -1,6 +1,6 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
+Yoshiko is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
 
 Yoshiko is a techno and hardcore artist based in Italy, with 47 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 27 more. Often billed alongside Dimitri K, The Dark Horror and KIRSTY. Next up: Arzenal, Budapest on Fri 27 Nov.
 
@@ -33,4 +33,4 @@ Yoshiko is a techno and hardcore artist based in Italy, with 47 gigs on soundche
 
 Dimitri K, The Dark Horror, KIRSTY
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

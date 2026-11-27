@@ -1,6 +1,6 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mint XL presents Alex Farrel" on Fri, 27 Nov 2026.
+Mint XL is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mint XL presents Alex Farrel" on Fri, 27 Nov 2026.
 
 Mint XL is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including ADMNTi, ADR (UK), Alex Farell and Annie Errez and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ Mint XL is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with li
 | Thu, 31 Dec 2026 | NYE: Truly Madly, Captain Wallop b2b RTK Tarantino | Annie Errez, Captain Wallop, RTK Tarantino, Truly Madly |
 | Sat, 30 Jan 2027 | Dr Banana presents | Annie Errez, Bobby O'Donnell, Craig Richards, Dan Shake, Dr Banana, Dyed Soundorom, H-Foundation, Inland Knights, Kinso, Make A Dance, Ogazón, Papa Nugs, The Ghost |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

@@ -1,6 +1,6 @@
 # s.talbot
 
-s.talbot is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Breakglass Studios, Montreal on Sun, 29 Nov 2026.
+s.talbot is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Breakglass Studios, Montreal on Sun, 29 Nov 2026.
 
 s.talbot is a techno and electro artist based in Belgium, with 31 gigs on soundcheck across Montreal. Often billed alongside esme (US), Lilaiza and Miette. Next up: Breakglass Studios, Montreal on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ s.talbot is a techno and electro artist based in Belgium, with 31 gigs on soundc
 
 esme (US), Lilaiza, Miette
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*

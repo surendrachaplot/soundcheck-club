@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
+Enrico Sangiuliano is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
 Enrico Sangiuliano is a techno and house artist based in Italy, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Pan-Pot. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Enrico Sangiuliano is a techno and house artist based in Italy, with 128 gigs on
 
 Charlotte de Witte, Anfisa Letyago, Pan-Pot
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

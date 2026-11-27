@@ -1,6 +1,6 @@
 # CYBERHACKSYSTEM
 
-CYBERHACKSYSTEM is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Music Bar Lion Seoul, Seoul on Fri, 27 Nov 2026.
+CYBERHACKSYSTEM is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Music Bar Lion Seoul, Seoul on Fri, 27 Nov 2026.
 
 CYBERHACKSYSTEM is a techno and house artist based in Japan, with 80 gigs on soundcheck across Osaka, Seoul, Shanghai and Tokyo. Often billed alongside ecec, HIMAWARI and MoEPiKA. Next up: Music Bar Lion Seoul, Seoul on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ CYBERHACKSYSTEM is a techno and house artist based in Japan, with 80 gigs on sou
 
 ecec, HIMAWARI, MoEPiKA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*

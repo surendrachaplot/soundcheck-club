@@ -1,6 +1,6 @@
 # Aedis
 
-Aedis is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Berlin on Sat, 12 Dec 2026.
+Aedis is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Berlin on Sat, 12 Dec 2026.
 
 Aedis is a house and electronica artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Berlin and Madrid. Often billed alongside Gala (ES), Glossy Mario and Hylke. Next up: TBA, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Aedis is a house and electronica artist based in Netherlands, with 15 gigs on so
 
 Gala (ES), Glossy Mario, Hylke
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aedis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aedis/)*

@@ -1,6 +1,6 @@
 # Angel Mellado
 
-Angel Mellado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 18 Dec 2026.
+Angel Mellado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 18 Dec 2026.
 
 Angel Mellado is a house and techno artist based in Spain, with 66 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Mau BB, Kike Cornejo and Tamborero. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Angel Mellado is a house and techno artist based in Spain, with 66 gigs on sound
 
 Mau BB, Kike Cornejo, Tamborero
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmellado/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmellado/)*

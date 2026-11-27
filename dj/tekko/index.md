@@ -1,14 +1,15 @@
 # TEKKO
 
-TEKKO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at M-BIA, Berlin on Fri, 4 Dec 2026.
+TEKKO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at M-BIA, Berlin on Fri, 4 Dec 2026.
 
-TEKKO is a techno and house artist based in Argentina, with 21 gigs on soundcheck across Barcelona, Berlin and Ghent. Often billed alongside Syntonos, YANNIK (CH) and Juanes Mesa. Next up: M-BIA, Berlin on Fri 4 Dec.
+TEKKO is a techno and house artist based in Argentina, with 22 gigs on soundcheck across Barcelona, Berlin and Ghent. Often billed alongside Syntonos, YANNIK (CH) and Juanes Mesa. Next up: M-BIA, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | M-BIA | Berlin |
+| Sat, 16 Jan 2027 | Minus One | Ghent |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ TEKKO is a techno and house artist based in Argentina, with 21 gigs on soundchec
 
 Syntonos, YANNIK (CH), Juanes Mesa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tekko/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tekko/)*

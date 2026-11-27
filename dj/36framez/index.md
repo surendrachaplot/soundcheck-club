@@ -1,8 +1,8 @@
 # 36framez
 
-36framez is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lofi, Amsterdam on Sat, 19 Dec 2026.
+36framez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lofi, Amsterdam on Sat, 19 Dec 2026.
 
-36framez is a house and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Munich, Netherlands and Rotterdam and 1 more. Often billed alongside Doppelgang, Lola Edo and TWIENA. Next up: Lofi, Amsterdam on Sat 19 Dec.
+36framez is a house and techno artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Munich, Netherlands and Rotterdam and 1 more. Often billed alongside Doppelgang, Lola Edo and TWIENA. Next up: Lofi, Amsterdam on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Lofi | Amsterdam |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Doppelgang, Lola Edo, TWIENA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*

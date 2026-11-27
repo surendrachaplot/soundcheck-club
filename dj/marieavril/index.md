@@ -1,6 +1,6 @@
 # Marie Avril
 
-Marie Avril is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
+Marie Avril is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Holding Patterns, Leeds on Fri, 27 Nov 2026.
 
 Marie Avril is an acid and disco artist based in Switzerland, with 21 gigs on soundcheck across Glasgow and Leeds. Often billed alongside Ben Lewis, John Paynter and Roya Brehl. Next up: Holding Patterns, Leeds on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Marie Avril is an acid and disco artist based in Switzerland, with 21 gigs on so
 
 Ben Lewis, John Paynter, Roya Brehl
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieavril/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieavril/)*

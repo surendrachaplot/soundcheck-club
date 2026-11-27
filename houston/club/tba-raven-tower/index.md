@@ -1,6 +1,6 @@
 # TBA - Raven Tower
 
-TBA - Raven Tower is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. The next is "Mercalli" on Sat, 28 Nov 2026.
+TBA - Raven Tower is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mercalli" on Sat, 28 Nov 2026.
 
 TBA - Raven Tower is a music venue in Houston listed on soundcheck. 1 upcoming gig, with line-ups including Angelo V., BL/6, DJ 20134 and Martone (US). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Raven Tower is a music venue in Houston listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Mercalli | Angelo V., BL/6, DJ 20134, Martone (US) |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/tba-raven-tower/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/tba-raven-tower/)*

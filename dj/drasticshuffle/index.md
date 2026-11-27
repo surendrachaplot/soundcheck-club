@@ -1,6 +1,6 @@
 # Drastic Shuffle
 
-Drastic Shuffle is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Greyhound, London on Fri, 27 Nov 2026.
+Drastic Shuffle is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Greyhound, London on Fri, 27 Nov 2026.
 
 Drastic Shuffle is a house and deep house artist based in Mexico, with 27 gigs on soundcheck across London. Often billed alongside Benebe, MAÏS and Make Money Mafia. Next up: The Greyhound, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Drastic Shuffle is a house and deep house artist based in Mexico, with 27 gigs o
 
 Benebe, MAÏS, Make Money Mafia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*

@@ -1,6 +1,6 @@
 # Franz!
 
-Franz! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kalif Storch, Erfurt on Sat, 5 Dec 2026.
+Franz! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kalif Storch, Erfurt on Sat, 5 Dec 2026.
 
 Franz! is a techno and house artist, with 10 gigs on soundcheck across Berlin, Erfurt, Frankfurt and Leipzig. Often billed alongside Carina Posse, Sierra and Britta Arnold. Next up: Kalif Storch, Erfurt on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Franz! is a techno and house artist, with 10 gigs on soundcheck across Berlin, E
 
 Carina Posse, Sierra, Britta Arnold
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franz-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franz-de/)*

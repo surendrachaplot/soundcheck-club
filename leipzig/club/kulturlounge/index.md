@@ -1,6 +1,6 @@
 # Kulturlounge
 
-Kulturlounge is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "NightVision" on Fri, 27 Nov 2026.
+Kulturlounge is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NightVision" on Fri, 27 Nov 2026.
 
 Kulturlounge is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, with line-ups including Amarcord, Bertha, KRUE and Moon In My Pocket and 1 more. See dates, start times and who's playing. Dresdner Straße 25, 04103 Leipzig.
 
@@ -16,4 +16,4 @@ Kulturlounge is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, 
 
 Dresdner Straße 25, 04103 Leipzig, Leipzig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kulturlounge/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kulturlounge/)*

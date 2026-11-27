@@ -1,6 +1,6 @@
 # XSYNC19
 
-XSYNC19 is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Korpuss, Riga on Fri, 27 Nov 2026.
+XSYNC19 is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Korpuss, Riga on Fri, 27 Nov 2026.
 
 XSYNC19 is a hardcore and gabber artist based in Latvia, with 23 gigs on soundcheck across Riga. Often billed alongside MVKO, oshigakill and excels. Next up: Korpuss, Riga on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ XSYNC19 is a hardcore and gabber artist based in Latvia, with 23 gigs on soundch
 
 MVKO, oshigakill, excels
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*

@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Hamdi" on Fri, 27 Nov 2026.
+Parallel is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hamdi" on Fri, 27 Nov 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Becking, Hamdi (UK), I-RO and Jazz Dalia and 2 more. See dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -20,4 +20,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wi
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

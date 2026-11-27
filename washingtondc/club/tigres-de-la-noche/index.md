@@ -1,6 +1,6 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Discoteca presents: In Rotation 002" on Fri, 27 Nov 2026.
+Tigres de la Noche is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Discoteca presents: In Rotation 002" on Fri, 27 Nov 2026.
 
 Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 11 upcoming gigs, with line-ups including Durante, John Raffaele, lady lavender and Mark Azar and 1 more. See dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
@@ -23,4 +23,4 @@ Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 11 up
 
 Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA, Washington DC
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*

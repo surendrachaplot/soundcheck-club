@@ -1,6 +1,6 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Osmosis Jones is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Osmosis Jones is a garage and house artist based in Australia, with 104 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 33 more. Often billed alongside IsGwan, WOLTERS and Faster Horses. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -31,4 +31,4 @@ Osmosis Jones is a garage and house artist based in Australia, with 104 gigs on 
 
 IsGwan, WOLTERS, Faster Horses
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

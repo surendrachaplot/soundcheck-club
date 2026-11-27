@@ -1,6 +1,6 @@
 # James Nash
 
-James Nash is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at XOYO, London on Fri, 1 Jan 2027.
+James Nash is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at XOYO, London on Fri, 1 Jan 2027.
 
 James Nash is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Dublin, London and Manchester. Often billed alongside Fleur Shore, Jentzen and Local Dub. Next up: XOYO, London on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ James Nash is a house and tech house artist based in United Kingdom, with 16 gig
 
 Fleur Shore, Jentzen, Local Dub
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*

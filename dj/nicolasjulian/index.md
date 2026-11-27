@@ -1,8 +1,8 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hansemesse, Rostock, Mecklenburg-vorpommern on Fri, 4 Dec 2026.
+Nicolas Julian is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hansemesse, Rostock, Mecklenburg-vorpommern on Fri, 4 Dec 2026.
 
-Nicolas Julian is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside NOTMYTYPE, IGDA and A.N.I.. Next up: Hansemesse, Rostock, Mecklenburg Vorpommern on Fri 4 Dec.
+Nicolas Julian is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside NOTMYTYPE, IGDA and A.N.I.. Next up: Hansemesse, Rostock, Mecklenburg Vorpommern on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Nicolas Julian is a techno and trance artist based in Germany, with 124 gigs on 
 | Sat, 19 Dec 2026 | Georg Elser Halle | Hamburg |
 | Thu, 31 Dec 2026 | Hala Orion | Wroclaw |
 | Thu, 31 Dec 2026 | Hala Orion | Poland |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Nicolas Julian is a techno and trance artist based in Germany, with 124 gigs on 
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

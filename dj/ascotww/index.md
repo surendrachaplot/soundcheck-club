@@ -1,6 +1,6 @@
 # Ascot/ww
 
-Ascot/ww is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Malaga Sin City, Milan on Fri, 27 Nov 2026.
+Ascot/ww is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Malaga Sin City, Milan on Fri, 27 Nov 2026.
 
 Ascot/ww is a breakbeat and electro artist based in Italy, with 11 gigs on soundcheck across Bologna, London, Manchester and Milan. Often billed alongside Omega III, Daniele Umore and Fox Mellen. Next up: Malaga Sin City, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ascot/ww is a breakbeat and electro artist based in Italy, with 11 gigs on sound
 
 Omega III, Daniele Umore, Fox Mellen
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ascotww/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ascotww/)*

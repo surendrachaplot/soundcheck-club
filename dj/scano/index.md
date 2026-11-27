@@ -1,6 +1,6 @@
 # Scano
 
-Scano is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 11 Dec 2026.
+Scano is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 11 Dec 2026.
 
 Scano is a trance and techno artist, with 17 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Lucy Headburn, Matriark and CF682. Next up: Den Anden Side, Copenhagen on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Scano is a trance and techno artist, with 17 gigs on soundcheck across Berlin an
 
 Lucy Headburn, Matriark, CF682
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scano/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scano/)*

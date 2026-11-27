@@ -1,13 +1,15 @@
 # Nonalis
 
-Nonalis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Cross Club, Prague on Fri, 4 Dec 2026.
+Nonalis is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 27 Nov 2026.
 
-Nonalis is a techno and house artist based in Czech Republic, with 17 gigs on soundcheck across Prague. Often billed alongside Rodrigo Ardilha, Illya and RiVid. Next up: Cross Club, Prague on Fri 4 Dec.
+Nonalis is a techno and house artist based in Czech Republic, with 19 gigs on soundcheck across Prague. Often billed alongside Rodrigo Ardilha, PSKLR and Soulkate. Next up: Music Club Pulse 22, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Music Club Pulse 22 | Prague |
+| Fri, 4 Dec 2026 | Cross Club | Prague |
 | Fri, 4 Dec 2026 | Cross Club | Prague |
 
 ## Recently played
@@ -23,6 +25,6 @@ Nonalis is a techno and house artist based in Czech Republic, with 17 gigs on so
 
 ## Shares bills with
 
-Rodrigo Ardilha, Illya, RiVid
+Rodrigo Ardilha, PSKLR, Soulkate
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonalis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonalis/)*

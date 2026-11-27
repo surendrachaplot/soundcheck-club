@@ -1,6 +1,6 @@
 # Fahlberg
 
-Fahlberg is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Fahlberg is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
 Fahlberg is a house and afro house artist based in Sweden, with 40 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 21 more. Often billed alongside Chris Luno, Elderbrook and Mathame. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Fahlberg is a house and afro house artist based in Sweden, with 40 gigs on sound
 
 Chris Luno, Elderbrook, Mathame
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

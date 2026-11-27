@@ -1,6 +1,6 @@
 # Kapusta
 
-Kapusta is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
+Kapusta is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Monkey Club, Riga on Fri, 18 Dec 2026.
 
 Kapusta is a house and deep house artist, with 38 gigs on soundcheck across Riga and Tallinn. Often billed alongside Adam Blake, Kelvin and Nicolas Barnes. Next up: TBA - Monkey Club, Riga on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Kapusta is a house and deep house artist, with 38 gigs on soundcheck across Riga
 
 Adam Blake, Kelvin, Nicolas Barnes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kapusta/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kapusta/)*

@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 16 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "SYNERGY 1" on Fri, 27 Nov 2026.
+Distillery is a music venue in Leipzig with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SYNERGY 1" on Fri, 27 Nov 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, with line-ups including 50PHIE, Aender, Aio and Alba Franch and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

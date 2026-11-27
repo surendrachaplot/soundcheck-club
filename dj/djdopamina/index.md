@@ -1,6 +1,6 @@
 # DJ Dopamina
 
-DJ Dopamina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
+DJ Dopamina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Culture Box, Copenhagen on Fri, 29 Jan 2027.
 
 DJ Dopamina is a techno and trance artist based in Denmark, with 23 gigs on soundcheck across Copenhagen. Often billed alongside ASTA MARI, CALIFANO and Halfdan Sandquist. Next up: Culture Box, Copenhagen on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ DJ Dopamina is a techno and trance artist based in Denmark, with 23 gigs on soun
 
 ASTA MARI, CALIFANO, Halfdan Sandquist
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdopamina/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdopamina/)*

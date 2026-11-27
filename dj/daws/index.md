@@ -1,14 +1,15 @@
 # DAWS
 
-DAWS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Solace, Melbourne on Sat, 5 Dec 2026.
+DAWS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Solace, Melbourne on Sat, 5 Dec 2026.
 
-DAWS is a house and techno artist based in Australia, with 75 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Baby G, Aldonna and Bertie. Next up: Solace, Melbourne on Sat 5 Dec.
+DAWS is a house and techno artist based in Australia, with 76 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Baby G, Aldonna and Bertie. Next up: Solace, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Solace | Melbourne |
+| Sat, 12 Dec 2026 | Miscellania | Melbourne |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
@@ -26,4 +27,4 @@ DAWS is a house and techno artist based in Australia, with 75 gigs on soundcheck
 
 Baby G, Aldonna, Bertie
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*

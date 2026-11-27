@@ -1,6 +1,6 @@
 # JBarr
 
-JBarr is a Breakbeat and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Design District*, Dallas/Fort Worth on Fri, 4 Dec 2026.
+JBarr is a Breakbeat and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Design District*, Dallas/Fort Worth on Fri, 4 Dec 2026.
 
 JBarr is a breakbeat and club artist, with 4 gigs on soundcheck across Austin, Dallas/Fort Worth and Denver. Often billed alongside DAVDCASE, Left/Right and Alex DL. Next up: TBA - Design District*, Dallas/Fort Worth on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ JBarr is a breakbeat and club artist, with 4 gigs on soundcheck across Austin, D
 
 DAVDCASE, Left/Right, Alex DL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jbarr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jbarr/)*

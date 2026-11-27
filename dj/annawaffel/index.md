@@ -1,6 +1,6 @@
 # ANNAWAFFEL
 
-ANNAWAFFEL is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Beate Uwe, Berlin on Sun, 20 Dec 2026.
+ANNAWAFFEL is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Beate Uwe, Berlin on Sun, 20 Dec 2026.
 
 ANNAWAFFEL is a downtempo and house artist based in Germany, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside AHAB, Ailin Liefeldt and Captain Ahoi. Next up: Beate Uwe, Berlin on Sun 20 Dec.
 
@@ -23,4 +23,4 @@ ANNAWAFFEL is a downtempo and house artist based in Germany, with 7 gigs on soun
 
 AHAB, Ailin Liefeldt, Captain Ahoi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*

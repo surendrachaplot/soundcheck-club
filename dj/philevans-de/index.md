@@ -1,6 +1,6 @@
 # Phil Evans
 
-Phil Evans is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 28 Nov 2026.
+Phil Evans is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 28 Nov 2026.
 
 Phil Evans is a house and techno artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 9 more. Often billed alongside Markus Sommer, Tiago Walter and Dana Ruh. Next up: Collect LX Factory, Lisbon on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Phil Evans is a house and techno artist based in Germany, with 32 gigs on soundc
 
 Markus Sommer, Tiago Walter, Dana Ruh
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*

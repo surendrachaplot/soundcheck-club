@@ -1,6 +1,6 @@
 # Divasi
 
-Divasi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Turbinenhalle, North-rhine-westphalia on Sat, 13 Mar 2027.
+Divasi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Turbinenhalle, North-rhine-westphalia on Sat, 13 Mar 2027.
 
 Divasi is a techno and tech house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Ghent, North Rhine Westphalia and Rotterdam and 1 more. Often billed alongside SANTØS, Ben Techy and KARAH. Next up: Turbinenhalle, North Rhine Westphalia on Sat 13 Mar.
 
@@ -25,4 +25,4 @@ Divasi is a techno and tech house artist based in Netherlands, with 15 gigs on s
 
 SANTØS, Ben Techy, KARAH
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*

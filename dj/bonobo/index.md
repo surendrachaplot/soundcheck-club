@@ -1,8 +1,8 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at MTELUS, Montreal on Fri, 27 Nov 2026.
+Bonobo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MTELUS, Montreal on Fri, 27 Nov 2026.
 
-Bonobo is a house and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside DJ Tennis, Honey Dijon and Sofia Kourtesis. Next up: MTELUS, Montreal on Fri 27 Nov.
+Bonobo is a house and techno artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 46 more. Often billed alongside DJ Tennis, Honey Dijon and Paula Tape. Next up: MTELUS, Montreal on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Bonobo is a house and techno artist based in United States of America, with 102 
 | Sat, 5 Dec 2026 | Knockdown Center | New York City |
 | Thu, 11 Mar 2027 | Uber Eats Music Hall | Berlin |
 | Thu, 17 Jun 2027 | TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night) | Barcelona |
+| Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Bonobo is a house and techno artist based in United States of America, with 102 
 
 ## Shares bills with
 
-DJ Tennis, Honey Dijon, Sofia Kourtesis
+DJ Tennis, Honey Dijon, Paula Tape
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

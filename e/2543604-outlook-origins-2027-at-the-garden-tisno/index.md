@@ -17,7 +17,7 @@ Outlook Origins 2027 at The Garden Tisno on Thu 22 Jul, London. 56 artists: Addi
 - Beatrice M.
 - Bengal Sound
 - Breakage
-- Bushbaby
+- Bushbby
 - Carré
 - Chimpo
 - Chinese Daughter

@@ -1,6 +1,6 @@
 # BAIRD
 
-BAIRD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Helsinki on Sat, 30 Jan 2027.
+BAIRD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Helsinki on Sat, 30 Jan 2027.
 
 BAIRD is a techno and industrial artist, with 7 gigs on soundcheck across Berlin, Glasgow, Helsinki and Liverpool and 3 more. Often billed alongside Ben Techy, Chemtrailz and ZVEDRA. Next up: TBA, Helsinki on Sat 30 Jan.
 
@@ -23,4 +23,4 @@ BAIRD is a techno and industrial artist, with 7 gigs on soundcheck across Berlin
 
 Ben Techy, Chemtrailz, ZVEDRA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baird/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baird/)*

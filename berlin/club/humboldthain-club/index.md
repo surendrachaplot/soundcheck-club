@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "PIEPSSTULLE Soliparty" on Fri, 27 Nov 2026.
+Humboldthain Club is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "PIEPSSTULLE Soliparty" on Fri, 27 Nov 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including YOVA, alemiko, Alina Viktoria and Blame the Booker and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 23 upcoming g
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

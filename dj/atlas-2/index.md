@@ -1,6 +1,6 @@
 # Atlas (2)
 
-Atlas (2) is a Drum & Bass and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Elektricity, Detroit on Sat, 19 Dec 2026.
+Atlas (2) is a Drum & Bass and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elektricity, Detroit on Sat, 19 Dec 2026.
 
 Atlas is a drum & bass and progressive house artist based in Germany, with 7 gigs on soundcheck across Bristol, Detroit, Munich and Zurich. Often billed alongside A.M.C., AD (UK) and Anton X. Next up: Elektricity, Detroit on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Atlas is a drum & bass and progressive house artist based in Germany, with 7 gig
 
 A.M.C., AD (UK), Anton X
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atlas-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atlas-2/)*

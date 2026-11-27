@@ -1,6 +1,6 @@
 # Telford
 
-Telford is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at La Cheetah Club, Glasgow on Sun, 20 Dec 2026.
+Telford is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cheetah Club, Glasgow on Sun, 20 Dec 2026.
 
 Telford is a house and techno artist based in United Kingdom, with 61 gigs on soundcheck across Dundee and Glasgow. Often billed alongside Stevie Cox, DJ Harri and Harri & Domenic. Next up: La Cheetah Club, Glasgow on Sun 20 Dec.
 
@@ -29,4 +29,4 @@ Telford is a house and techno artist based in United Kingdom, with 61 gigs on so
 
 Stevie Cox, DJ Harri, Harri & Domenic
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telford/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/telford/)*

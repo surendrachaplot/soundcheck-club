@@ -1,14 +1,16 @@
 # JAEL
 
-JAEL is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Night Tales, London on Fri, 15 Jan 2027.
+JAEL is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Unit, Tokyo on Thu, 31 Dec 2026.
 
-JAEL is a house and bass artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 37 more. Often billed alongside p-rallel, Fafi Abdel Nour and Jerrau. Next up: Night Tales, London on Fri 15 Jan.
+JAEL is a house and bass artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 37 more. Often billed alongside p-rallel, Champion and Chloé Caillet. Next up: Unit, Tokyo on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Unit | Tokyo |
 | Fri, 15 Jan 2027 | Night Tales | London |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ JAEL is a house and bass artist based in Netherlands, with 102 gigs on soundchec
 
 ## Shares bills with
 
-p-rallel, Fafi Abdel Nour, Jerrau
+p-rallel, Champion, Chloé Caillet
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*

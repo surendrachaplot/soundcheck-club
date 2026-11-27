@@ -1,6 +1,6 @@
 # Arman John
 
-Arman John is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
+Arman John is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
 
 Arman John is a techno and trance artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 34 more. Often billed alongside Melushka, VIVUS and 5euroGoldi. Next up: Lokschuppen Berlin, Berlin on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Arman John is a techno and trance artist based in Germany, with 162 gigs on soun
 
 Melushka, VIVUS, 5euroGoldi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*

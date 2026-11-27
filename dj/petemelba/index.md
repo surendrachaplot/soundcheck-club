@@ -1,6 +1,6 @@
 # Pete Melba
 
-Pete Melba is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Hope House, Leeds on Fri, 27 Nov 2026.
+Pete Melba is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hope House, Leeds on Fri, 27 Nov 2026.
 
 Pete Melba is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Bristol, Leeds, London and Vienna. Often billed alongside Roya Brehl, Phil Warner and LXK.. Next up: Hope House, Leeds on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Pete Melba is a house and tech house artist based in United Kingdom, with 51 gig
 
 Roya Brehl, Phil Warner, LXK.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petemelba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petemelba/)*

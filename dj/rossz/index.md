@@ -1,14 +1,15 @@
 # ROSS z
 
-ROSS z is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 27 Nov 2026.
+ROSS z is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Supermercat Gotico, Barcelona on Fri, 27 Nov 2026.
 
-ROSS z is a techno and tech house artist based in Italy, with 23 gigs on soundcheck across Barcelona, Berlin and Lausanne. Often billed alongside Freeka, DD.MATTS and Miguel Silva. Next up: The Supermercat Gotico, Barcelona on Fri 27 Nov.
+ROSS z is a techno and tech house artist based in Italy, with 24 gigs on soundcheck across Barcelona, Berlin and Lausanne. Often billed alongside Freeka, DD.MATTS and Miguel Silva. Next up: The Supermercat Gotico, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Supermercat Gotico | Barcelona |
+| Thu, 3 Dec 2026 | Bridge 48 | Barcelona |
 | Fri, 4 Dec 2026 | D9 Aribau | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ ROSS z is a techno and tech house artist based in Italy, with 23 gigs on soundch
 
 Freeka, DD.MATTS, Miguel Silva
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossz/)*

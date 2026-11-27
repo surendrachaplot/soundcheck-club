@@ -1,6 +1,6 @@
 # Sofia Kuster
 
-Sofia Kuster is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 19 Dec 2026.
+Sofia Kuster is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 19 Dec 2026.
 
 Sofia Kuster is a techno and experimental artist based in United Kingdom, with 14 gigs on soundcheck across Lisbon. Often billed alongside Nick Craddock, Photonz and SALTI. Next up: TBA - Lisboa, Lisbon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Sofia Kuster is a techno and experimental artist based in United Kingdom, with 1
 
 Nick Craddock, Photonz, SALTI
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakuster/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakuster/)*

@@ -1,6 +1,6 @@
 # Slowmouth
 
-Slowmouth is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Paper, Seoul on Fri, 27 Nov 2026.
+Slowmouth is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paper, Seoul on Fri, 27 Nov 2026.
 
 Slowmouth is a house and minimal artist based in South Korea, with 60 gigs on soundcheck across Bangkok, Beijing, Berlin and Bucharest and 12 more. Often billed alongside DJ Bowlcut, Jimin and Cliff Sequence. Next up: Paper, Seoul on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Slowmouth is a house and minimal artist based in South Korea, with 60 gigs on so
 
 DJ Bowlcut, Jimin, Cliff Sequence
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmouth/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmouth/)*

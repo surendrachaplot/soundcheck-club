@@ -1,6 +1,6 @@
 # Zaza
 
-Zaza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rex Club, Paris on Wed, 3 Feb 2027.
+Zaza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rex Club, Paris on Wed, 3 Feb 2027.
 
 Zaza is a techno and house artist based in Netherlands, with 7 gigs on soundcheck across Brussels, Madrid, New York City and Paris and 1 more. Often billed alongside Esilise, Kasia DVD and No:mad. Next up: Rex Club, Paris on Wed 3 Feb.
 
@@ -23,4 +23,4 @@ Zaza is a techno and house artist based in Netherlands, with 7 gigs on soundchec
 
 Esilise, Kasia DVD, No:mad
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaza/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaza/)*

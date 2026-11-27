@@ -1,6 +1,6 @@
 # Bel Cobain
 
-Bel Cobain is a R&B and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Black Pit Farm Estate, South-east on Fri, 30 Jul 2027.
+Bel Cobain is a R&B and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Black Pit Farm Estate, South-east on Fri, 30 Jul 2027.
 
 Bel Cobain is a r&b and jazz artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 2 more. Often billed alongside 2fox, Coco Maria and Ella Knight. Next up: Black Pit Farm Estate, South East on Fri 30 Jul.
 
@@ -25,4 +25,4 @@ Bel Cobain is a r&b and jazz artist based in United Kingdom, with 16 gigs on sou
 
 2fox, Coco Maria, Ella Knight
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*

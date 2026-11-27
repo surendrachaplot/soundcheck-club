@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "The Barbary pres. JULS + FOULPLAY" on Fri, 27 Nov 2026.
+The Barbary is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "The Barbary pres. JULS + FOULPLAY" on Fri, 27 Nov 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including Angelinkast, Black Box, JULS (US) and Kobza and 2 more. See dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -20,4 +20,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 7 upcoming gi
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

@@ -1,14 +1,15 @@
 # Tom Trago
 
-Tom Trago is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Tom Trago is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
-Tom Trago is a house and techno artist based in Netherlands, with 142 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 27 more. Often billed alongside BELLA (NL), David Vunk and Carlos Valdes. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
+Tom Trago is a house and techno artist based in Netherlands, with 143 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 27 more. Often billed alongside BELLA (NL), David Vunk and Carlos Valdes. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
+| Fri, 4 Dec 2026 | Say No More Madrid | Madrid |
 | Fri, 18 Dec 2026 | Radio Radio | Amsterdam |
 | Fri, 1 Jan 2027 | Whitehouse | The Hague |
 
@@ -27,4 +28,4 @@ Tom Trago is a house and techno artist based in Netherlands, with 142 gigs on so
 
 BELLA (NL), David Vunk, Carlos Valdes
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*

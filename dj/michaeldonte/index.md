@@ -1,6 +1,6 @@
 # Michael Donte
 
-Michael Donte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
+Michael Donte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bellwether, Los Angeles on Fri, 27 Nov 2026.
 
 Michael Donte is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Chicago, Los Angeles and New York City. Often billed alongside CTRLZORA, Shaun Ross and Ashley Younniä. Next up: The Bellwether, Los Angeles on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Michael Donte is a house and techno artist based in United States of America, wi
 
 CTRLZORA, Shaun Ross, Ashley Younniä
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeldonte/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeldonte/)*

@@ -1,14 +1,15 @@
 # Casper
 
-Casper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Paramour, Brussels on Sat, 5 Dec 2026.
+Casper is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paramour, Brussels on Sat, 5 Dec 2026.
 
-Casper is a techno and house artist, with 37 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Shoplifter, Mankiyan and AliA. Next up: Paramour, Brussels on Sat 5 Dec.
+Casper is a techno and house artist, with 38 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Shoplifter, Mankiyan and AliA. Next up: Paramour, Brussels on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Paramour | Brussels |
+| Fri, 11 Dec 2026 | Funke | Ghent |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Casper is a techno and house artist, with 37 gigs on soundcheck across Amsterdam
 
 Shoplifter, Mankiyan, AliA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*

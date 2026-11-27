@@ -1,14 +1,15 @@
 # ZEUZ
 
-ZEUZ is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bootshaus, Cologne on Fri, 15 Jan 2027.
+ZEUZ is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Fri, 15 Jan 2027.
 
-ZEUZ is a techno and drum & bass artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Bavaria, Berlin and Cologne and 15 more. Often billed alongside Gourski, Alignment and Ave (DE). Next up: Bootshaus, Cologne on Fri 15 Jan.
+ZEUZ is a techno and drum & bass artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Bavaria, Berlin and Cologne and 16 more. Often billed alongside Gourski, Alignment and Ave (DE). Next up: Bootshaus, Cologne on Fri 15 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 15 Jan 2027 | Bootshaus | Cologne |
+| Sat, 6 Feb 2027 | Sky Club | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ZEUZ is a techno and drum & bass artist based in Germany, with 48 gigs on soundc
 
 Gourski, Alignment, Ave (DE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeuz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeuz/)*

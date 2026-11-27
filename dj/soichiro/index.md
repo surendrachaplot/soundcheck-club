@@ -1,14 +1,13 @@
 # Soichiro
 
-Soichiro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at FS., Tokyo on Fri, 4 Dec 2026.
+Soichiro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Numm, Tokyo on Fri, 11 Dec 2026.
 
-Soichiro is a techno and house artist based in Japan, with 12 gigs on soundcheck across Osaka and Tokyo. Often billed alongside HAL, 505 (Live) and AME (JP). Next up: FS., Tokyo on Fri 4 Dec.
+Soichiro is a techno and house artist based in Japan, with 11 gigs on soundcheck across Osaka and Tokyo. Often billed alongside HAL, 505 (Live) and Cine. Next up: Numm, Tokyo on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | FS. | Tokyo |
 | Fri, 11 Dec 2026 | Numm | Tokyo |
 
 ## Recently played
@@ -24,6 +23,6 @@ Soichiro is a techno and house artist based in Japan, with 12 gigs on soundcheck
 
 ## Shares bills with
 
-HAL, 505 (Live), AME (JP)
+HAL, 505 (Live), Cine
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiro/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiro/)*

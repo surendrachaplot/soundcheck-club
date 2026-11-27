@@ -1,6 +1,6 @@
 # The Last Dance at Jardin Hospice
 
-The Last Dance at Jardin Hospice on Sat 26 Dec, Brussels. 1 artist: PEZAR. Techno and House. See the line-up on soundcheck.
+The Last Dance at Jardin Hospice on Sat 26 Dec, Brussels. 3 artists: Pedro Mercado, PEZAR and RELO4D. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ The Last Dance at Jardin Hospice on Sat 26 Dec, Brussels. 1 artist: PEZAR. Techn
 
 ## Line-up
 
+- Pedro Mercado
 - PEZAR
+- RELO4D
 
 *Source: [soundcheck](https://soundcheck.club/e/2582587-the-last-dance-at-jardin-hospice/)*

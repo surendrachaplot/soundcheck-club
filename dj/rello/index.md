@@ -1,6 +1,6 @@
 # Rello
 
-Rello is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Edge Miami, Miami on Fri, 27 Nov 2026.
+Rello is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Edge Miami, Miami on Fri, 27 Nov 2026.
 
 Rello is a tech house and house artist based in United States of America, with 13 gigs on soundcheck across Austin, Ibiza, Los Angeles and Miami and 3 more. Often billed alongside Ms. Mada, Natalia Roth and Sosa. Next up: Edge Miami, Miami on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Rello is a tech house and house artist based in United States of America, with 1
 
 Ms. Mada, Natalia Roth, Sosa
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*

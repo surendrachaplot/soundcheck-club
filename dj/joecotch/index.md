@@ -1,8 +1,8 @@
 # Joe Cotch
 
-Joe Cotch is a Dancehall and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
+Joe Cotch is a Dancehall and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 5 Dec 2026.
 
-Joe Cotch is a dancehall and baile funk artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Geneva and 3 more. Often billed alongside Authentically Plastic, Bclip and DJ Lycox. Next up: The Crypt at St. Matthews Church, London on Sat 5 Dec.
+Joe Cotch is a dancehall and baile funk artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Geneva and 3 more. Often billed alongside Bclip, Authentically Plastic and DJ Lycox. Next up: The Crypt at St. Matthews Church, London on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joe Cotch is a dancehall and baile funk artist based in United Kingdom, with 24 
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The Crypt at St. Matthews Church | London |
 | Sat, 12 Dec 2026 | The Crypt at St. Matthews Church | London |
+| Sat, 15 May 2027 | Het Twiske | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Joe Cotch is a dancehall and baile funk artist based in United Kingdom, with 24 
 
 ## Shares bills with
 
-Authentically Plastic, Bclip, DJ Lycox
+Bclip, Authentically Plastic, DJ Lycox
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joecotch/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joecotch/)*

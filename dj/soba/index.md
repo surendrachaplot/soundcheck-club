@@ -1,6 +1,6 @@
 # SOBA
 
-SOBA is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
+SOBA is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 SOBA is a jungle and garage artist based in United States of America, with 78 gigs on soundcheck across Berlin, Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Keishaboy, M27 and PJ Sleeps. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ SOBA is a jungle and garage artist based in United States of America, with 78 gi
 
 Keishaboy, M27 (1), PJ Sleeps
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soba/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soba/)*

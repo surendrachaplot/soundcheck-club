@@ -1,17 +1,18 @@
 # BRNT
 
-BRNT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 13 Nov 2026. Next at Twisted Element, Calgary on Fri, 13 Nov 2026.
+BRNT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
-BRNT is a techno and trance artist based in Canada, with 8 gigs on soundcheck across Calgary and Vancouver. Often billed alongside David Kel, Fizch and Night Format. Next up: Twisted Element, Calgary on Fri 13 Nov.
+BRNT is a techno and trance artist based in Canada, with 9 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Fizch, Behrad Tehrani and DK PAU. Next up: TBA, Vancouver on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Twisted Element | Calgary |
+| Sat, 26 Dec 2026 | TBA | Vancouver |
 
 ## Recently played
 
+- Twisted Element, Calgary · Fri, 13 Nov 2026
 - Village Studios, Vancouver · Fri, 12 Jun 2026
 - Industrial 236, Vancouver · Sat, 27 Sept 2025
 - TBA, Calgary · Sat, 30 Aug 2025
@@ -22,6 +23,6 @@ BRNT is a techno and trance artist based in Canada, with 8 gigs on soundcheck ac
 
 ## Shares bills with
 
-David Kel, Fizch, Night Format
+Fizch, Behrad Tehrani, DK PAU
 
-*Updated Fri, 13 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brnt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brnt/)*

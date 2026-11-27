@@ -1,6 +1,6 @@
 # Brenna Ryan
 
-Brenna Ryan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hall, Tallinn on Sat, 19 Dec 2026.
+Brenna Ryan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hall, Tallinn on Sat, 19 Dec 2026.
 
 Brenna Ryan is a techno and house artist based in Japan, with 11 gigs on soundcheck across Riga, Tallinn and Tokyo. Often billed alongside SIGNAL (JP), Aeden and Cly/Suva. Next up: Hall, Tallinn on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Brenna Ryan is a techno and house artist based in Japan, with 11 gigs on soundch
 
 SIGNAL (JP), Aeden (1), Cly/Suva
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brennaryan/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brennaryan/)*

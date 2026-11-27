@@ -1,6 +1,6 @@
 # Nathan Barato
 
-Nathan Barato is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vertigo, Toronto on Fri, 27 Nov 2026.
+Nathan Barato is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vertigo, Toronto on Fri, 27 Nov 2026.
 
 Nathan Barato is a house and tech house artist based in Canada, with 57 gigs on soundcheck across Bogotá, Detroit, Lisbon and Los Angeles and 7 more. Often billed alongside Carlo Lio, RUDEE NIK and TAKiN. Next up: Vertigo, Toronto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nathan Barato is a house and tech house artist based in Canada, with 57 gigs on 
 
 Carlo Lio, RUDEE NIK, TAKiN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanbarato/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanbarato/)*

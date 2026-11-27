@@ -1,6 +1,6 @@
 # TILDA (2)
 
-TILDA (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hootananny Brixton, London on Thu, 10 Dec 2026.
+TILDA (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hootananny Brixton, London on Thu, 10 Dec 2026.
 
 TILDA is a jungle and drum & bass artist based in United Kingdom, with 28 gigs on soundcheck across London, Manchester, Newcastle and Paris and 1 more. Often billed alongside Amelia Leigh, CICELY and A.N.T. Next up: Hootananny Brixton, London on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ TILDA is a jungle and drum & bass artist based in United Kingdom, with 28 gigs o
 
 Amelia Leigh, CICELY, A.N.T
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tilda-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tilda-2/)*

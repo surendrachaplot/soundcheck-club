@@ -1,6 +1,6 @@
 # LOU
 
-LOU is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Latebloomers gathering of the crews" on Sat, 28 Nov 2026.
+LOU is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Latebloomers gathering of the crews" on Sat, 28 Nov 2026.
 
 LOU is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Tjizza, Leesmion, Roy Lodder and select motion. See dates, start times and who's playing. Benthuizerstraat 94A,  3035 CR, Rotterdam, The Netherlands.
 
@@ -20,4 +20,4 @@ LOU is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with li
 
 Benthuizerstraat 94A,  3035 CR, Rotterdam, The Netherlands, Rotterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*

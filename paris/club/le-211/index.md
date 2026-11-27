@@ -1,6 +1,6 @@
 # Le 211
 
-Le 211 is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Lowless Sound System #1 invites Mersel" on Sat, 28 Nov 2026.
+Le 211 is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Lowless Sound System #1 invites Mersel" on Sat, 28 Nov 2026.
 
 Le 211 is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including 69DB, 6thFloor, Corbeille Dallas and Esteban Desigual and 2 more. See dates, start times and who's playing. 211 Av. Jean Jaurès, 75019.
 
@@ -18,4 +18,4 @@ Le 211 is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with lin
 
 211 Av. Jean Jaurès, 75019, Paris
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*

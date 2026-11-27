@@ -1,6 +1,6 @@
 # Black Daria
 
-Black Daria is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Revo Rooftop, Mexico City on Sat, 2 Jan 2027.
+Black Daria is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Revo Rooftop, Mexico City on Sat, 2 Jan 2027.
 
 Black Daria is a hip-hop and club artist based in Mexico, with 104 gigs on soundcheck across Austin, Chicago, London and Mexico City and 6 more. Often billed alongside Dj Dizam, Katarra and SAMIA. Next up: Revo Rooftop, Mexico City on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Black Daria is a hip-hop and club artist based in Mexico, with 104 gigs on sound
 
 Dj Dizam, Katarra, SAMIA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*

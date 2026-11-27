@@ -1,6 +1,6 @@
 # LUXX
 
-LUXX is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at CDLC Barcelona, Barcelona on Sat, 19 Dec 2026.
+LUXX is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at CDLC Barcelona, Barcelona on Sat, 19 Dec 2026.
 
 LUXX is a techno and afro house artist based in Colombia, with 56 gigs on soundcheck across Barcelona, Denver, Ibiza and Paris. Often billed alongside Jazz K, NIIXII and EDV. Next up: CDLC Barcelona, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ LUXX is a techno and afro house artist based in Colombia, with 56 gigs on soundc
 
 Jazz K, NIIXII, EDV
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxx/)*

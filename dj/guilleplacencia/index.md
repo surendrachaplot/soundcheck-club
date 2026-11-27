@@ -1,8 +1,8 @@
 # Guille Placencia
 
-Guille Placencia is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
+Guille Placencia is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
 
-Guille Placencia is a tech house and techno artist based in Spain, with 30 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Madrid and 3 more. Often billed alongside George Privatti, AJ Christou and CESAR ALMENA. Next up: Fabrik, Madrid on Fri 1 Jan.
+Guille Placencia is a tech house and techno artist based in Spain, with 30 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Madrid and 3 more. Often billed alongside George Privatti, Raul Ortiz and AJ Christou. Next up: Fabrik, Madrid on Fri 1 Jan.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Guille Placencia is a tech house and techno artist based in Spain, with 30 gigs 
 
 ## Shares bills with
 
-George Privatti, AJ Christou, CESAR ALMENA
+George Privatti, Raul Ortiz, AJ Christou
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guilleplacencia/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guilleplacencia/)*

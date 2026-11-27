@@ -1,6 +1,6 @@
 # Cepheì
 
-Cepheì is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
+Cepheì is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
 
 Cepheì is a techno and experimental artist based in Switzerland, with 16 gigs on soundcheck across Basel. Often billed alongside Gomorra, Herrrouine and Jelena. Next up: Postkantine, Basel on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Cepheì is a techno and experimental artist based in Switzerland, with 16 gigs o
 
 Gomorra, Herrrouine, Jelena
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cephei/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cephei/)*

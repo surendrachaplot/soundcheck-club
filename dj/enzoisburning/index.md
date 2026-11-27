@@ -1,6 +1,6 @@
 # Enzo is Burning
 
-Enzo is Burning is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
+Enzo is Burning is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
 
 Enzo is Burning is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Boston and 19 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: Chelmsford City Racecourse, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Enzo is Burning is a house and tech house artist based in United Kingdom, with 7
 
 GW Harrison, ALISHA, Darius Syrossian
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*

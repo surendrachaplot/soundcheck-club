@@ -1,8 +1,8 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+William Kiss is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
-William Kiss is a house and techno artist based in Australia, with 61 gigs on soundcheck across Adelaide, Amsterdam, Austin and Australian Capital Territory and 18 more. Often billed alongside Jordan Brando, Luke Alessi and Baron Von Trax. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
+William Kiss is a house and techno artist based in Australia, with 62 gigs on soundcheck across Adelaide, Amsterdam, Austin and Australian Capital Territory and 18 more. Often billed alongside Jordan Brando, Luke Alessi and Baron Von Trax. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ William Kiss is a house and techno artist based in Australia, with 61 gigs on so
 | --- | --- | --- |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
+| Sat, 16 Jan 2027 | Holme Garden | Sydney |
 | Sat, 27 Feb 2027 | Thoroughbred Park | Australian-capital-territory |
 
 ## Recently played
@@ -27,4 +28,4 @@ William Kiss is a house and techno artist based in Australia, with 61 gigs on so
 
 Jordan Brando, Luke Alessi, Baron Von Trax
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*

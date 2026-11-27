@@ -1,6 +1,6 @@
 # Hayato
 
-Hayato is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 27 Nov 2026.
+Hayato is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 27 Nov 2026.
 
 Hayato is a house and techno artist based in Japan, with 164 gigs on soundcheck across Chubu, London, Okinawa and Osaka and 2 more. Often billed alongside Sota Shimada, Hayato Iwaki and AMANE. Next up: Enter Shibuya, Tokyo on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Hayato is a house and techno artist based in Japan, with 164 gigs on soundcheck 
 
 Sota Shimada, Hayato Iwaki, AMANE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*

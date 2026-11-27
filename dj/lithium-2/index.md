@@ -1,6 +1,6 @@
 # Lithium (2)
 
-Lithium (2) is a Post-Punk and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Blue Velvet, Berlin on Fri, 4 Dec 2026.
+Lithium (2) is a Post-Punk and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blue Velvet, Berlin on Fri, 4 Dec 2026.
 
 Lithium is a post-punk and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside K1KO, ALKARLINE and Carl Bergé. Next up: Blue Velvet, Berlin on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Lithium is a post-punk and techno artist based in Germany, with 7 gigs on soundc
 
 K1KO, ALKARLINE, Carl Bergé
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lithium-2/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lithium-2/)*

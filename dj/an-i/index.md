@@ -1,8 +1,8 @@
 # An-i
 
-An-i is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Sameheads, Berlin on Thu, 3 Dec 2026.
+An-i is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sameheads, Berlin on Thu, 3 Dec 2026.
 
-An-i is a techno and house artist based in Germany, with 53 gigs on soundcheck across Beijing, Belgrade, Berlin and Bucharest and 16 more. Often billed alongside Veronica Vasicka, Layne and FFAN. Next up: Sameheads, Berlin on Thu 3 Dec.
+An-i is a techno and house artist based in Germany, with 54 gigs on soundcheck across Beijing, Belgrade, Berlin and Bucharest and 16 more. Often billed alongside Veronica Vasicka, FFAN and Layne. Next up: Sameheads, Berlin on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ An-i is a techno and house artist based in Germany, with 53 gigs on soundcheck a
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Sameheads | Berlin |
 | Sat, 19 Dec 2026 | BAR Inc | Osaka |
+| Thu, 31 Dec 2026 | Nyapi | Seoul |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ An-i is a techno and house artist based in Germany, with 53 gigs on soundcheck a
 
 ## Shares bills with
 
-Veronica Vasicka, Layne, FFAN
+Veronica Vasicka, FFAN, Layne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*

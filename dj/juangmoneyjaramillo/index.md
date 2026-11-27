@@ -1,6 +1,6 @@
 # Juan Gmoney Jaramillo
 
-Juan Gmoney Jaramillo is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Longshots Shooting and Social, Toronto on Sat, 12 Dec 2026.
+Juan Gmoney Jaramillo is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Longshots Shooting and Social, Toronto on Sat, 12 Dec 2026.
 
 Juan Gmoney Jaramillo is a tech house and house artist based in Canada, with 27 gigs on soundcheck across Toronto. Often billed alongside Junior Lopez, TAKiN and Yogi. Next up: Longshots Shooting and Social, Toronto on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Juan Gmoney Jaramillo is a tech house and house artist based in Canada, with 27 
 
 Junior Lopez, TAKiN, Yogi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juangmoneyjaramillo/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juangmoneyjaramillo/)*

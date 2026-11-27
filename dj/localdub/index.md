@@ -1,6 +1,6 @@
 # Local Dub
 
-Local Dub is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Clock Factory, Bristol on Sat, 30 Jan 2027.
+Local Dub is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Clock Factory, Bristol on Sat, 30 Jan 2027.
 
 Local Dub is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Josh Baker, Alexandria and jWave. Next up: Clock Factory, Bristol on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Local Dub is a house and tech house artist based in United Kingdom, with 35 gigs
 
 Josh Baker, Alexandria, jWave
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*

@@ -1,8 +1,8 @@
 # Pau Pérez
 
-Pau Pérez is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Oven Club, Valencia on Sat, 28 Nov 2026.
+Pau Pérez is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Oven Club, Valencia on Sat, 28 Nov 2026.
 
-Pau Pérez is a house and tech house artist based in Spain, with 120 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Sueezo, Pin and Varis. Next up: Oven Club, Valencia on Sat 28 Nov.
+Pau Pérez is a house and tech house artist based in Spain, with 121 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Sueezo, Pin and Varis. Next up: Oven Club, Valencia on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pau Pérez is a house and tech house artist based in Spain, with 120 gigs on sou
 | Sat, 28 Nov 2026 | Oven Club | Valencia |
 | Sat, 19 Dec 2026 | Spook Club | Valencia |
 | Thu, 31 Dec 2026 | Spook Club | Valencia |
+| Fri, 1 Jan 2027 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Pau Pérez is a house and tech house artist based in Spain, with 120 gigs on sou
 
 Sueezo, Pin, Varis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*

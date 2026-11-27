@@ -1,6 +1,6 @@
 # Bimhuis
 
-Bimhuis is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Manu – De Herontdekking van de Hemel" on Sat, 28 Nov 2026.
+Bimhuis is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Manu – De Herontdekking van de Hemel" on Sat, 28 Nov 2026.
 
 Bimhuis is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Martyn, Nala Brown, upsammy and Valentina Magaletti. See dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -21,4 +21,4 @@ Bimhuis is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, wit
 
 Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*

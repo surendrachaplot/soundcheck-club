@@ -1,6 +1,6 @@
 # Leone Knight
 
-Leone Knight is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at 90mil, Berlin on Sat, 5 Dec 2026.
+Leone Knight is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 90mil, Berlin on Sat, 5 Dec 2026.
 
 Leone Knight is a techno and house artist based in Japan, with 24 gigs on soundcheck across Berlin and Ljubljana. Often billed alongside juan and only, Dreimal T and DJ KILLING. Next up: 90mil, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Leone Knight is a techno and house artist based in Japan, with 24 gigs on soundc
 
 juan and only, Dreimal T, DJ KILLING
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoneknight/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoneknight/)*

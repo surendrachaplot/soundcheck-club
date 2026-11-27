@@ -1,6 +1,6 @@
 # Mahnoor
 
-Mahnoor is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
+Mahnoor is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
 
 Mahnoor is a garage and uk funky artist based in United Kingdom, with 32 gigs on soundcheck across London. Often billed alongside Ab.Diablo, Arthi and Izzi. Next up: Jumbi, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mahnoor is a garage and uk funky artist based in United Kingdom, with 32 gigs on
 
 Ab.Diablo, Arthi, Izzi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahnoor/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahnoor/)*

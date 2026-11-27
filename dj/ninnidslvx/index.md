@@ -1,6 +1,6 @@
 # NINNIDSLVX
 
-NINNIDSLVX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Купе / Kupe, Sofia on Fri, 11 Dec 2026.
+NINNIDSLVX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Купе / Kupe, Sofia on Fri, 11 Dec 2026.
 
 NINNIDSLVX is a techno and trance artist based in Italy, with 7 gigs on soundcheck across Budapest, Malta, Milan and Rome and 3 more. Often billed alongside FØBIA, CHVZ and DOCTOR MÜCKE. Next up: Купе / Kupe, Sofia on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ NINNIDSLVX is a techno and trance artist based in Italy, with 7 gigs on soundche
 
 FØBIA, CHVZ, DOCTOR MÜCKE
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnidslvx/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnidslvx/)*

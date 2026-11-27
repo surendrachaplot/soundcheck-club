@@ -1,6 +1,6 @@
 # LINHTONIK
 
-LINHTONIK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Mirage, Hanoi on Fri, 27 Nov 2026.
+LINHTONIK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mirage, Hanoi on Fri, 27 Nov 2026.
 
 LINHTONIK is a techno and house artist based in Vietnam, with 35 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Emmytee, HDMI? and Fomococo. Next up: Mirage, Hanoi on Fri 27 Nov.
 
@@ -14,6 +14,7 @@ LINHTONIK is a techno and house artist based in Vietnam, with 35 gigs on soundch
 
 ## Recently played
 
+- Factory 47, Hanoi · Thu, 26 Nov 2026
 - Le Maquis Club, Hanoi · Sat, 21 Nov 2026
 - Mirage, Hanoi · Fri, 13 Nov 2026
 - Unmute, Hanoi · Sat, 31 Oct 2026
@@ -21,10 +22,9 @@ LINHTONIK is a techno and house artist based in Vietnam, with 35 gigs on soundch
 - Le Maquis Club, Hanoi · Sat, 19 Sept 2026
 - Factory 47, Hanoi · Sat, 12 Sept 2026
 - Unmute, Hanoi · Fri, 11 Sept 2026
-- The Observatory, Ho Chi Minh City · Tue, 1 Sept 2026
 
 ## Shares bills with
 
 Emmytee, HDMI?, Fomococo (2)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linhtonik/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linhtonik/)*

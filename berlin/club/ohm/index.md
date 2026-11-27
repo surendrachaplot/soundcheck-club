@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "JiāLa 2 Year Anniversary" on Thu, 26 Nov 2026.
+OHM is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sneaker Social Club with Demdike Stare & ojoo" on Fri, 27 Nov 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alex Tomb, Andrew James Gustav, Anja Schneider and Appleblim and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Alex Tomb, Andrew James Gustav, Anja Schneider and Appleblim and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | JiāLa 2 Year Anniversary | ENNIO, Jing Lekker, Short Finger, Temple Rat |
 | Fri, 27 Nov 2026 | Sneaker Social Club with Demdike Stare & ojoo | Appleblim, Demdike Stare, Low End Activist, Tempestfeather, Traynor, ojoo |
 | Sun, 29 Nov 2026 | TETAS LOCAS | Hyperaktivist, Isa GT, JASSS, Kontronatura, LIL RISK, Mama Snake, Sanaz |
 | Thu, 3 Dec 2026 | Zel at OHM | Andrew James Gustav, Francesco Salvadori, Johnson (2) |
@@ -18,9 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line
 | Fri, 11 Dec 2026 | MERGER | Carl Luis, Giouann |
 | Sat, 12 Dec 2026 | 012 FULL CIRCLE | Alex Tomb, Blazej Malinowski, CONCEPTUAL, Claudio PRC, Leo Cologna, Ly Sas |
 | Sun, 13 Dec 2026 | PuMp Berlin Daytime with Anja Schneider all day long | Anja Schneider |
+| Thu, 17 Dec 2026 | ouch | Dj Goodboy, FIFI LA ROUX, Marylou, Rafush |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

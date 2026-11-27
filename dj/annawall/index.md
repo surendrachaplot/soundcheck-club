@@ -1,6 +1,6 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Model, Nottingham on Sat, 28 Nov 2026.
+Anna Wall is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Model, Nottingham on Sat, 28 Nov 2026.
 
 Anna Wall is a house and techno artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: The Model, Nottingham on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Anna Wall is a house and techno artist based in United Kingdom, with 128 gigs on
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

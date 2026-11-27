@@ -1,6 +1,6 @@
 # LuLu (CZ)
 
-LuLu (CZ) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 12 Dec 2026.
+LuLu (CZ) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 12 Dec 2026.
 
 LuLu (CZ) is a techno and house artist based in Czech Republic, with 22 gigs on soundcheck across Bratislava and Prague. Often billed alongside Yan (CZ), Alfred Czital and Dash (CZ). Next up: Bukanyr Boat, Prague on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ LuLu (CZ) is a techno and house artist based in Czech Republic, with 22 gigs on 
 
 Yan (CZ), Alfred Czital, Dash (CZ)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lulucz/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lulucz/)*

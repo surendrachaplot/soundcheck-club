@@ -1,6 +1,6 @@
 # DV60
 
-DV60 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Mash House, Edinburgh on Fri, 18 Dec 2026.
+DV60 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Mash House, Edinburgh on Fri, 18 Dec 2026.
 
 DV60 is a techno and hardcore artist based in United Kingdom, with 102 gigs on soundcheck across Beijing, Bristol, Edinburgh and Glasgow and 2 more. Often billed alongside Wrisk, Lara Sinclair and JI_2001. Next up: The Mash House, Edinburgh on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DV60 is a techno and hardcore artist based in United Kingdom, with 102 gigs on s
 
 Wrisk, Lara Sinclair, JI_2001
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dv60/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dv60/)*

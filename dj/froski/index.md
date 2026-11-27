@@ -1,6 +1,6 @@
 # FROSKI
 
-FROSKI is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - To be given to ticket holders via email., Glasgow on Sat, 2 Jan 2027.
+FROSKI is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - To be given to ticket holders via email., Glasgow on Sat, 2 Jan 2027.
 
 FROSKI is a tech house and acid artist based in United Kingdom, with 16 gigs on soundcheck across Glasgow. Often billed alongside Hu-Sane, Akintore and Joshua Dube. Next up: TBA - To be given to ticket holders via email., Glasgow on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ FROSKI is a tech house and acid artist based in United Kingdom, with 16 gigs on 
 
 Hu-Sane, Akintore, Joshua Dube
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/froski/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/froski/)*

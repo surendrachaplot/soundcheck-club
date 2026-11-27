@@ -1,6 +1,6 @@
 # Matteo Diop
 
-Matteo Diop is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bar v Krymský, Prague on Sat, 28 Nov 2026.
+Matteo Diop is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar v Krymský, Prague on Sat, 28 Nov 2026.
 
 Matteo Diop is a house and tech house artist based in France, with 30 gigs on soundcheck across Ibiza, London, Munich and Naples and 4 more. Often billed alongside II FACES, Parea and AVAION. Next up: Bar v Krymský, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Matteo Diop is a house and tech house artist based in France, with 30 gigs on so
 
 II FACES, Parea, AVAION
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*

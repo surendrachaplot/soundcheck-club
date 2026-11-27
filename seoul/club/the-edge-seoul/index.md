@@ -1,6 +1,6 @@
 # The Edge Seoul
 
-The Edge Seoul is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "EEEEE" on Fri, 27 Nov 2026.
+The Edge Seoul is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "EEEEE" on Fri, 27 Nov 2026.
 
 The Edge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including Dadachoe, Hein Rhee, KYVU and Lonho and 2 more. See dates, start times and who's playing. 334-8 Euljiro 3(sam)-ga, Jung-gu, Seoul, South Korea.
 
@@ -18,4 +18,4 @@ The Edge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, 
 
 334-8 Euljiro 3(sam)-ga, Jung-gu, Seoul, South Korea, Seoul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-edge-seoul/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-edge-seoul/)*

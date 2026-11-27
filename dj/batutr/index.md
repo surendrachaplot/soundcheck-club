@@ -1,6 +1,6 @@
 # BATU (TR)
 
-BATU (TR) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kastel, Istanbul on Fri, 25 Dec 2026.
+BATU (TR) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kastel, Istanbul on Fri, 25 Dec 2026.
 
 BATU (TR) is a house and afro house artist based in Turkey, with 12 gigs on soundcheck across Istanbul, London and Milan. Often billed alongside Eren Yildiz, Manendria and Orkun Bozdemir. Next up: Kastel, Istanbul on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ BATU (TR) is a house and afro house artist based in Turkey, with 12 gigs on soun
 
 Eren Yildiz, Manendria, Orkun Bozdemir
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batutr/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batutr/)*

@@ -1,6 +1,6 @@
 # imad:re
 
-imad:re is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
+imad:re is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
 
 imad:re is a bass and house artist based in United Kingdom, with 62 gigs on soundcheck across Edinburgh, Ibiza, Leeds and London and 2 more. Often billed alongside Ginster, RYLO (UK) and HSTN. Next up: Ministry Of Sound, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ imad:re is a bass and house artist based in United Kingdom, with 62 gigs on soun
 
 Ginster, RYLO (UK), HSTN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imadre/)*

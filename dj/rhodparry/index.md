@@ -1,6 +1,6 @@
 # Rhod Parry
 
-Rhod Parry is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 4 Dec 2026.
+Rhod Parry is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 4 Dec 2026.
 
 Rhod Parry is a house and techno artist based in United Kingdom, with 75 gigs on soundcheck across Birmingham, Leeds, Liverpool and Manchester. Often billed alongside Kickin Pigeon, Chunky and Fastlove. Next up: Piccadilly Central, Manchester on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Rhod Parry is a house and techno artist based in United Kingdom, with 75 gigs on
 
 Kickin Pigeon, Chunky, Fastlove
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*

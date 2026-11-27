@@ -1,6 +1,6 @@
 # AMP GARAGE Party at TAM TAM Treppenbar
 
-AMP GARAGE Party at TAM TAM Treppenbar on Thu 3 Dec, Munich. 2 artists: Amalle and Misery Peat. Techno and Disco. See the line-up on soundcheck.
+AMP GARAGE Party at TAM TAM Treppenbar on Thu 3 Dec, Munich. 3 artists: Amalle, amp garage and Misery Peat. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ AMP GARAGE Party at TAM TAM Treppenbar on Thu 3 Dec, Munich. 2 artists: Amalle a
 ## Line-up
 
 - Amalle
+- amp garage
 - Misery Peat
 
 *Source: [soundcheck](https://soundcheck.club/e/2593894-amp-garage-party-at-tam-tam-treppenbar/)*

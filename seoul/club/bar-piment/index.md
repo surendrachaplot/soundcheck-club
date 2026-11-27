@@ -1,6 +1,6 @@
 # Bar Piment
 
-Bar Piment is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "BAR PIMENT" on Fri, 27 Nov 2026.
+Bar Piment is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "BAR PIMENT" on Fri, 27 Nov 2026.
 
 Bar Piment is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 3F, 32 Myeongdong 4-gil, Jung-gu, Seoul.
 
@@ -15,4 +15,4 @@ Bar Piment is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See 
 
 3F, 32 Myeongdong 4-gil, Jung-gu, Seoul, Seoul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bar-piment/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bar-piment/)*

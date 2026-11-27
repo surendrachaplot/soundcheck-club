@@ -1,17 +1,17 @@
 # 821 Runnymede Rd
 
-821 Runnymede Rd is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "TAKEOVER HALLOWEEN with SCHROTTHAGEN" on Fri, 30 Oct 2026.
+821 Runnymede Rd is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "KRUELTY" on Sat, 9 Jan 2027.
 
-821 Runnymede Rd is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Andrea Botez, Axel Esphinoza and Schrotthagen. See dates, start times and who's playing. 821 Runnymede Rd.
+821 Runnymede Rd is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including 7AZ, KRUELTY, Maul and V (Toronto). See dates, start times and who's playing. 821 Runnymede Rd.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TAKEOVER HALLOWEEN with SCHROTTHAGEN | Andrea Botez, Axel Esphinoza, Schrotthagen |
+| Sat, 9 Jan 2027 | KRUELTY | 7AZ (1), KRUELTY, Maul (2), V (Toronto) |
 
 ## Address
 
 821 Runnymede Rd, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*

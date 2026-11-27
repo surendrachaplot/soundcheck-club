@@ -1,6 +1,6 @@
 # CANVAS
 
-CANVAS is a music venue in Dundee with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "CANVAS presents: DJ Harri (Sub Club / Subculture)" on Sat, 28 Nov 2026.
+CANVAS is a music venue in Dundee with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "CANVAS presents: DJ Harri (Sub Club / Subculture)" on Sat, 28 Nov 2026.
 
 CANVAS is a music venue in Dundee listed on soundcheck. 2 upcoming gigs, with line-ups including Dicky Trisco, DJ Harri and Natasha Kitty Katt. See dates, start times and who's playing. Ure St, Dundee DD1 5HZ.
 
@@ -15,4 +15,4 @@ CANVAS is a music venue in Dundee listed on soundcheck. 2 upcoming gigs, with li
 
 Ure St, Dundee DD1 5HZ, Dundee
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/canvas/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/canvas/)*

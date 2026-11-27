@@ -1,6 +1,6 @@
 # mdngt
 
-mdngt is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Karmakoma, Belgrade on Thu, 31 Dec 2026.
+mdngt is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Karmakoma, Belgrade on Thu, 31 Dec 2026.
 
 mdngt is a techno and electronica artist based in Serbia, with 38 gigs on soundcheck across Belgrade, Serbia, Sofia and Warsaw. Often billed alongside Filip Xavi, ROPE and Aneri. Next up: Karmakoma, Belgrade on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ mdngt is a techno and electronica artist based in Serbia, with 38 gigs on soundc
 
 Filip Xavi, ROPE, Aneri
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mdngt/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mdngt/)*

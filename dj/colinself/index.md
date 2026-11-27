@@ -1,6 +1,6 @@
 # Colin Self
 
-Colin Self is a Experimental and Classical artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
+Colin Self is a Experimental and Classical artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at A4 - Space for Contemporary Culture, Bratislava on Tue, 24 Nov 2026.
 
 Colin Self is an experimental and classical artist based in United States of America, with 14 gigs on soundcheck across Barcelona, Berlin, Bratislava and Detroit and 5 more. Often billed alongside Baby Leo, Relaxer and Ahadadream. Next up: A4 - Space for Contemporary Culture, Bratislava on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Colin Self is an experimental and classical artist based in United States of Ame
 
 Baby Leo, Relaxer, Ahadadream
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colinself/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colinself/)*

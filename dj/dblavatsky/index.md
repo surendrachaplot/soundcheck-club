@@ -1,6 +1,6 @@
 # D.Blavatsky
 
-D.Blavatsky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Red Room, Montreal on Sat, 5 Dec 2026.
+D.Blavatsky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Red Room, Montreal on Sat, 5 Dec 2026.
 
 D.Blavatsky is a techno and hardcore artist based in Canada, with 59 gigs on soundcheck across Athens, Berlin, Calgary and London and 5 more. Often billed alongside Neo Edo, Malice Doll and Beamskii. Next up: Le Red Room, Montreal on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ D.Blavatsky is a techno and hardcore artist based in Canada, with 59 gigs on sou
 
 Neo Edo, Malice Doll, Beamskii
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dblavatsky/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dblavatsky/)*

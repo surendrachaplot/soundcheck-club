@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
+CC:DISCO! is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
 
 CC:DISCO! is a house and disco artist based in Australia, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 48 more. Often billed alongside Chima Isaaro, Erol Alkan and Jennifer Loveless. Next up: Club 77, Sydney on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ CC:DISCO! is a house and disco artist based in Australia, with 161 gigs on sound
 
 Chima Isaaro, Erol Alkan, Jennifer Loveless
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

@@ -1,6 +1,6 @@
 # Masters
 
-Masters is a music venue in Zagreb with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "AEC with Davide Leone (Zagreb)" on Fri, 27 Nov 2026.
+Masters is a music venue in Zagreb with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "AEC with Davide Leone (Zagreb)" on Fri, 27 Nov 2026.
 
 Masters is a music venue in Zagreb listed on soundcheck. 2 upcoming gigs, with line-ups including Carnero, IGZ (HR) and Roberto Brignani. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Masters is a music venue in Zagreb listed on soundcheck. 2 upcoming gigs, with l
 | Fri, 27 Nov 2026 | AEC with Davide Leone (Zagreb) | Roberto Brignani |
 | Sat, 28 Nov 2026 | IGZ & Carnero All Night | Carnero, IGZ (HR) |
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/masters/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/masters/)*

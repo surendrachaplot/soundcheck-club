@@ -1,6 +1,6 @@
 # Seb Wildblood
 
-Seb Wildblood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 27 Nov 2026.
+Seb Wildblood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 27 Nov 2026.
 
 Seb Wildblood is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Austin, Bangkok and Beijing and 35 more. Often billed alongside Blossom Hill, Tom VR and Baalti. Next up: The Great Northern, San Francisco/Oakland on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Seb Wildblood is a house and techno artist based in United Kingdom, with 86 gigs
 
 Blossom Hill, Tom VR, Baalti
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebwildblood/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebwildblood/)*

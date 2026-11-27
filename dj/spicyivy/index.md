@@ -1,6 +1,6 @@
 # SPICYIVY
 
-SPICYIVY is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at The Loco Klub, Bristol on Fri, 4 Dec 2026.
+SPICYIVY is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Loco Klub, Bristol on Fri, 4 Dec 2026.
 
 SPICYIVY is a house and disco artist based in United Kingdom, with 54 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside Safiye, Brad Bradley and Burly Chassis. Next up: The Loco Klub, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ SPICYIVY is a house and disco artist based in United Kingdom, with 54 gigs on so
 
 Safiye, Brad Bradley, Burly Chassis
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicyivy/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicyivy/)*

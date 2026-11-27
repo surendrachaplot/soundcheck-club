@@ -1,6 +1,6 @@
 # Tim Hagemann
 
-Tim Hagemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+Tim Hagemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
 
 Tim Hagemann is a techno and house artist based in Germany, with 38 gigs on soundcheck across Baden W Rttemberg, Bangkok, Berlin and Cologne and 4 more. Often billed alongside KEN (DE), Tobias Sommer and DJ PayPaul. Next up: KitKatClub, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Tim Hagemann is a techno and house artist based in Germany, with 38 gigs on soun
 
 KEN (DE), Tobias Sommer, DJ PayPaul
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timhagemann/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timhagemann/)*

@@ -1,6 +1,6 @@
 # Naomi (1)
 
-Naomi (1) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KREUZWERK, Berlin on Sat, 26 Dec 2026.
+Naomi (1) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KREUZWERK, Berlin on Sat, 26 Dec 2026.
 
 Naomi is a house and electro artist based in Portugal, with 13 gigs on soundcheck across Berlin, Budapest, Ghent and Hamburg and 4 more. Often billed alongside Naomi (Berlin), 2 Girls 1 Club and 2jack4u. Next up: KREUZWERK, Berlin on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Naomi is a house and electro artist based in Portugal, with 13 gigs on soundchec
 
 Naomi (Berlin), 2 Girls 1 Club, 2jack4u
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-1/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-1/)*

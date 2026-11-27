@@ -1,6 +1,6 @@
 # Mad Radio Medellín
 
-Mad Radio Medellín is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "FEMME FREQUENCY: MACARENA / LYA FRANK" on Thu, 26 Nov 2026.
+Mad Radio Medellín is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FEMME FREQUENCY: MACARENA / LYA FRANK" on Thu, 26 Nov 2026.
 
 Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, with line-ups including LYA FRANK, macarena.rec, Skull and Tone Troy. See dates, start times and who's playing. Calle 8a # 33 - 40 Medellín.
 
@@ -16,4 +16,4 @@ Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 3 upcomin
 
 Calle 8a # 33 - 40 Medellín, Medellin
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*

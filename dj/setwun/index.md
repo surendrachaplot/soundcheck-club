@@ -1,6 +1,6 @@
 # Setwun
 
-Setwun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 27 Nov 2026.
+Setwun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Colombian Hotel, Sydney on Fri, 27 Nov 2026.
 
 Setwun is a house and techno artist, with 53 gigs on soundcheck across Adelaide, Brisbane, London and Melbourne and 2 more. Often billed alongside Ciara, Deepa and Command D. Next up: Colombian Hotel, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Setwun is a house and techno artist, with 53 gigs on soundcheck across Adelaide,
 
 Ciara, Deepa, Command D (1)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setwun/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setwun/)*

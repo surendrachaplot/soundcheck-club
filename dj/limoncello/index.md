@@ -1,8 +1,8 @@
 # Limoncello
 
-Limoncello is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 28 Nov 2026.
+Limoncello is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 28 Nov 2026.
 
-Limoncello is a trance and techno artist based in Germany, with 109 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 8 more. Often billed alongside alemiko, bbymeister and BENITO (DE). Next up: Indiego Glocksee, Hannover on Sat 28 Nov.
+Limoncello is a trance and techno artist based in Germany, with 110 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 8 more. Often billed alongside alemiko, bbymeister and BENITO (DE). Next up: Indiego Glocksee, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Limoncello is a trance and techno artist based in Germany, with 109 gigs on soun
 | Sat, 5 Dec 2026 | ://about blank | Berlin |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
+| Sat, 6 Feb 2027 | Sky Club | Leipzig |
 | Wed, 7 Apr 2027 | TBA - Zillertal, Zirmstadl & Kaboom | Austria |
 
 ## Recently played
@@ -29,4 +30,4 @@ Limoncello is a trance and techno artist based in Germany, with 109 gigs on soun
 
 alemiko, bbymeister, BENITO (DE)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limoncello/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limoncello/)*

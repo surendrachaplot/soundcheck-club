@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. The next is "Afrobeat Nights NYC" on Sat, 28 Nov 2026.
+The Sultan Room is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Afrobeat Nights NYC" on Sat, 28 Nov 2026.
 
 The Sultan Room is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@ The Sultan Room is a music venue in New York City listed on soundcheck. 5 upcomi
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

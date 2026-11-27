@@ -1,6 +1,6 @@
 # Antwork
 
-Antwork is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ring, Seoul on Fri, 27 Nov 2026.
+Antwork is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ring, Seoul on Fri, 27 Nov 2026.
 
 Antwork is a techno and electro artist based in South Korea, with 47 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside KABUTO, Minkyu and Hakim.. Next up: Ring, Seoul on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Antwork is a techno and electro artist based in South Korea, with 47 gigs on sou
 
 KABUTO, Minkyu, Hakim.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antwork/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antwork/)*

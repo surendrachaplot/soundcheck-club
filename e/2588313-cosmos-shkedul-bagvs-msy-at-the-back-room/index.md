@@ -1,6 +1,6 @@
 # COSMOS - Shkedul, Bagvs & MSY at The Back Room
 
-COSMOS - Shkedul, Bagvs & MSY at The Back Room on Fri 4 Dec, Bali. 2 artists: Bagvs and Shkedul. Techno and Electro. See the line-up on soundcheck.
+COSMOS - Shkedul, Bagvs & MSY at The Back Room on Fri 4 Dec, Bali. 2 artists: Bagvs and Shkedul. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

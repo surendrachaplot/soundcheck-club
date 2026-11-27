@@ -1,6 +1,6 @@
 # Chris de Buerre
 
-Chris de Buerre is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Electrowerkz, London on Sat, 5 Dec 2026.
+Chris de Buerre is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Electrowerkz, London on Sat, 5 Dec 2026.
 
 Chris de Buerre is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Wildblood and Queenie, S_STEELE and Sam Londt. Next up: Electrowerkz, London on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Chris de Buerre is a house and disco artist based in United Kingdom, with 8 gigs
 
 Wildblood and Queenie, S_STEELE, Sam Londt
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdebuerre/)*
+*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdebuerre/)*
