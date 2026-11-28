@@ -1,20 +1,20 @@
 # Amy Cutter
 
-Amy Cutter is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mezzanine - Tooting, London on Fri, 27 Nov 2026.
+Amy Cutter is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
 
-Amy Cutter is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Jamie Bloomfield, Jive Talk and Laurence. Next up: Mezzanine - Tooting, London on Fri 27 Nov.
+Amy Cutter is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Jamie Bloomfield, Jive Talk and Laurence. Next up: Ministry Of Sound, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Mezzanine - Tooting | London |
 | Sat, 28 Nov 2026 | Ministry Of Sound | London |
 | Sat, 5 Dec 2026 | radial | London |
 | Sat, 19 Dec 2026 | UNLOCKED | London |
 
 ## Recently played
 
+- Mezzanine - Tooting, London · Fri, 27 Nov 2026
 - Freight Brixton, London · Sat, 11 Jul 2026
 - fabric, London · Sun, 21 Jun 2026
 - The Timber Loft, London · Sun, 24 May 2026
@@ -22,10 +22,9 @@ Amy Cutter is a house and tech house artist based in United Kingdom, with 31 gig
 - Next Door Records Two, London · Fri, 28 Nov 2025
 - Crate Brewery, London · Sat, 20 Sept 2025
 - Last Arch, London · Fri, 5 Sept 2025
-- Night Tales, London · Sat, 17 May 2025
 
 ## Shares bills with
 
 Jamie Bloomfield, Jive Talk, Laurence
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amycutter/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amycutter/)*

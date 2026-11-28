@@ -1,6 +1,6 @@
 # Solar Suite
 
-Solar Suite is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 29 Nov 2026.
+Solar Suite is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 29 Nov 2026.
 
 Solar Suite is a house and tech house artist based in Australia, with 25 gigs on soundcheck across Adelaide, Berlin, Byron Bay and Dresden and 5 more. Often billed alongside Guy Contact, Afrodisiac and Headhunters. Next up: Smith St Hotel, Melbourne on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Solar Suite is a house and tech house artist based in Australia, with 25 gigs on
 
 Guy Contact, Afrodisiac, Headhunters
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarsuite/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarsuite/)*

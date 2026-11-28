@@ -1,18 +1,18 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "WITH US présente 'EX TOXIQUE' (*´-`)" on Fri, 27 Nov 2026.
+La Station - Gare des Mines is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "INTIMATE CLUB YAOI" on Sat, 28 Nov 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including A-440, Angel D'lite, Antilogic and BABY-B and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including Angel D'lite, Antilogic, BABY-B and carin kelly and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | WITH US présente 'EX TOXIQUE' (*´-`) | A-440, Marie Malarie, Mars O10C, SXCL |
 | Sat, 28 Nov 2026 | INTIMATE CLUB YAOI | Antilogic, BABY-B, JEKKAMAÏ, Mafille, Malibu, Miss Jay (RO), Swoush, TTristana |
 | Wed, 2 Dec 2026 | J-Zbel Release Party | Eiger Drums Propaganda, Fatale Furylax, J-Zbel, Jonquera, Joseph, Lia Catreux, Lisa More, Lux18, Modern Collapse |
 | Fri, 4 Dec 2026 | LA CREOLE |  |
 | Sat, 5 Dec 2026 | la Culottée | Roe Deers |
+| Fri, 11 Dec 2026 | subtyl x La Station — iels ressuscitent | CVNSUMED, Gloria Rose, Sina XX, carin kelly |
 | Sat, 12 Dec 2026 | EXPLITY VS HYPERCORE PRESENT FINISH THEY/THEM: THE ULTIMATE DJ DUEL | Claude Murder, Karlfroye, Talita Otović |
 | Sat, 12 Dec 2026 | EXPLITY VS HYPERCORE PRESENT FINISH THEY/THEM: THE ULTIMATE DJ DUEL | Claude Murder, Karlfroye, Talita Otović |
 | Sun, 13 Dec 2026 | HEDONY 008 |  |
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 11 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

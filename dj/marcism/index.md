@@ -1,6 +1,6 @@
 # MARCISM
 
-MARCISM is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Amboss Rampe, Zurich on Fri, 4 Dec 2026.
+MARCISM is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Amboss Rampe, Zurich on Fri, 4 Dec 2026.
 
 MARCISM is a techno and house artist based in Switzerland, with 95 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 12 more. Often billed alongside kso12, Megix and Andy Katz. Next up: Amboss Rampe, Zurich on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ MARCISM is a techno and house artist based in Switzerland, with 95 gigs on sound
 
 kso12, Megix, Andy Katz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*

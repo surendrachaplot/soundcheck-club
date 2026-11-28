@@ -1,14 +1,13 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DARKMASS Lasociaciøn ||| Paula Koski • Esther Summer • KATTA • KINKIGROOVE • KRS" on Fri, 27 Nov 2026.
+Lasociaciøn is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "EXTENDED TIME of OVERDRIVE" on Sun, 29 Nov 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Amperia, Beatrice (DE), Dj Dune and E2NMN and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Amperia, Beatrice (DE), Dj Dune and E2NMN and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | DARKMASS Lasociaciøn /// Paula Koski • Esther Summer • KATTA • KINKIGROOVE • KRS | Esther Summer, KRSDJ, Paula Koski |
 | Sun, 29 Nov 2026 | EXTENDED TIME of OVERDRIVE | Jesus Riaño, Ricardo Morales, Yvan Corrochano |
 | Mon, 7 Dec 2026 | Dunkeln Madrid - Extended 12h | Oscar Blue, PW DISTORTION, Yiye |
 | Fri, 11 Dec 2026 | 7 YEARS OF NUDE | Dj Dune, GNMR, Gala (ES), Varo (ES), oma totem |
@@ -22,4 +21,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, w
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

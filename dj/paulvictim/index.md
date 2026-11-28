@@ -1,6 +1,6 @@
 # paul victim
 
-paul victim is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bal Chavaux, Paris on Sat, 12 Dec 2026.
+paul victim is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bal Chavaux, Paris on Sat, 12 Dec 2026.
 
 paul victim is an electro and club artist based in France, with 5 gigs on soundcheck across Brussels and Paris. Often billed alongside Intercostal Croisière, Yolande and Comperi. Next up: Bal Chavaux, Paris on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ paul victim is an electro and club artist based in France, with 5 gigs on soundc
 
 Intercostal Croisière, Yolande, Comperi
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulvictim/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulvictim/)*

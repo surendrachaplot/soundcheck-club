@@ -1,6 +1,6 @@
 # NOFEX
 
-NOFEX is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location in Poble Espanyol, Barcelona on Sat, 5 Dec 2026.
+NOFEX is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location in Poble Espanyol, Barcelona on Sat, 5 Dec 2026.
 
 NOFEX is a tech house and minimal artist based in Italy, with 29 gigs on soundcheck across Barcelona, Bologna, Florence and London and 1 more. Often billed alongside EDEF, Francesco Poggi and Liam Black. Next up: TBA - Secret Location in Poble Espanyol, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ NOFEX is a tech house and minimal artist based in Italy, with 29 gigs on soundch
 
 EDEF, Francesco Poggi, Liam Black
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nofex/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nofex/)*

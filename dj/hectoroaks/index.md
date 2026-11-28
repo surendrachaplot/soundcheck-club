@@ -1,6 +1,6 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gate Milano, Milan on Fri, 4 Dec 2026.
+Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Gate Milano, Milan on Fri, 4 Dec 2026.
 
 Héctor Oaks is a techno and house artist based in Spain, with 302 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 95 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Gate Milano, Milan on Fri 4 Dec.
 
@@ -32,4 +32,4 @@ Héctor Oaks is a techno and house artist based in Spain, with 302 gigs on sound
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

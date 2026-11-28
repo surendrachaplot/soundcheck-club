@@ -1,6 +1,6 @@
 # Groovin Rue
 
-Groovin Rue is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministry Of Sound, London on Fri, 11 Dec 2026.
+Groovin Rue is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ministry Of Sound, London on Fri, 11 Dec 2026.
 
 Groovin Rue is an afro tech and afro house artist, with 11 gigs on soundcheck across London. Often billed alongside YDLR, Carlos Biendia and Atomic Hooligan. Next up: Ministry Of Sound, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Groovin Rue is an afro tech and afro house artist, with 11 gigs on soundcheck ac
 
 YDLR, Carlos Biendia, Atomic Hooligan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovinrue/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovinrue/)*

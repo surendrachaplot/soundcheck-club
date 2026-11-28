@@ -1,6 +1,6 @@
 # Bagno Mundial
 
-Bagno Mundial is a music venue in Bologna with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Trend Records at Bagno Mundial / Second Call" on Sat, 5 Dec 2026.
+Bagno Mundial is a music venue in Bologna with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Trend Records at Bagno Mundial / Second Call" on Sat, 5 Dec 2026.
 
 Bagno Mundial is a music venue in Bologna listed on soundcheck. 1 upcoming gig, with line-ups including Alessio Collina and Neg. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bagno Mundial is a music venue in Bologna listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Trend Records at Bagno Mundial / Second Call | Alessio Collina, Neg |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/bagno-mundial/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/bagno-mundial/)*

@@ -1,6 +1,6 @@
 # Lucky Cheese
 
-Lucky Cheese is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Lucky Cheese is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Lucky Cheese is a house and deep house artist based in United States of America, with 20 gigs on soundcheck across Seattle. Often billed alongside Dane Garfield, Julie Herrera and Kadeejah Streets. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Lucky Cheese is a house and deep house artist based in United States of America,
 
 Dane Garfield, Julie Herrera, Kadeejah Streets
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckycheese/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckycheese/)*

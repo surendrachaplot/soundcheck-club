@@ -1,6 +1,6 @@
 # Wanderlust
 
-Wanderlust is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Imagine Family x ReSolute" on Fri, 18 Dec 2026.
+Wanderlust is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Imagine Family x ReSolute" on Fri, 18 Dec 2026.
 
 Wanderlust is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Aline Brooklyn, Aman Umber, Chez Damier and David Triana and 2 more. See dates, start times and who's playing. 32 quai d'Austerlitz, 75013 Paris.
 
@@ -14,4 +14,4 @@ Wanderlust is a music venue in Paris listed on soundcheck. 1 upcoming gig, with 
 
 32 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/wanderlust/)*

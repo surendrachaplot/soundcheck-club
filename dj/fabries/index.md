@@ -1,14 +1,15 @@
 # Fabri Es
 
-Fabri Es is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at San Diego Made Factory, San Diego on Sat, 5 Dec 2026.
+Fabri Es is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at San Diego Made Factory, San Diego on Sat, 5 Dec 2026.
 
-Fabri Es is a house and minimal artist based in Italy, with 16 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Lopale, WHITT and AMIRA. Next up: San Diego Made Factory, San Diego on Sat 5 Dec.
+Fabri Es is a house and minimal artist based in Italy, with 17 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Lopale, WHITT and AMIRA. Next up: San Diego Made Factory, San Diego on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | San Diego Made Factory | San Diego |
+| Fri, 11 Dec 2026 | Bar Franca | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fabri Es is a house and minimal artist based in Italy, with 16 gigs on soundchec
 
 Lopale, WHITT, AMIRA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabries/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabries/)*

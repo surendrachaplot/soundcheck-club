@@ -1,6 +1,6 @@
 # AL.P0
 
-AL.P0 is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 5 Dec 2026.
+AL.P0 is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 5 Dec 2026.
 
 AL.P0 is a techno and deep house artist, with 11 gigs on soundcheck across New York City, Philadelphia and Seoul. Often billed alongside Gamma Vibes, ntrllite and nice nap. Next up: Atdge Seoul, Seoul on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ AL.P0 is a techno and deep house artist, with 11 gigs on soundcheck across New Y
 
 Gamma Vibes, ntrllite, nice nap
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/al.p0/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/al.p0/)*

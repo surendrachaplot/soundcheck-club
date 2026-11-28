@@ -1,13 +1,14 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Fri, 4 Dec 2026.
+B.Love is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 28 Nov 2026.
 
-B.Love is a house and tech house artist based in United Kingdom, with 99 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 18 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Hoppetosse, Berlin on Fri 4 Dec.
+B.Love is a house and tech house artist based in United Kingdom, with 100 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 18 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: NUMBER 90 LONDON, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | NUMBER 90 LONDON | London |
 | Fri, 4 Dec 2026 | Hoppetosse | Berlin |
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 | Sat, 12 Dec 2026 | Electric Pizza Shop | Manchester |
@@ -28,4 +29,4 @@ B.Love is a house and tech house artist based in United Kingdom, with 99 gigs on
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

@@ -1,6 +1,6 @@
 # Norman Jay
 
-Norman Jay is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fox and Firkin, London on Fri, 29 Jan 2027.
+Norman Jay is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Fox and Firkin, London on Fri, 29 Jan 2027.
 
 Norman Jay is a disco and house artist based in United Kingdom, with 55 gigs on soundcheck across Adelaide, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Rob Alldritt, Si Kurrage and Stuart Patterson. Next up: The Fox and Firkin, London on Fri 29 Jan.
 
@@ -26,4 +26,4 @@ Norman Jay is a disco and house artist based in United Kingdom, with 55 gigs on 
 
 Rob Alldritt, Si Kurrage, Stuart Patterson
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*

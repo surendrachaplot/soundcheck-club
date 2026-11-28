@@ -1,6 +1,6 @@
 # Karamustan
 
-Karamustan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 4 Dec 2026.
+Karamustan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 4 Dec 2026.
 
 Karamustan is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Barcelona, Berlin, Cologne and Dortmund / Essen and 12 more. Often billed alongside Paranormila, Isabelle Beaucamp and DeGuzman. Next up: Airport Würzburg, Nürnberg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Karamustan is a techno and trance artist based in Germany, with 47 gigs on sound
 
 Paranormila, Isabelle Beaucamp, DeGuzman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karamustan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karamustan/)*

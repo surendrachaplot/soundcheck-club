@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Civic Underground, Sydney on Sat, 5 Dec 2026.
+1tbsp is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Civic Underground, Sydney on Sat, 5 Dec 2026.
 
 1tbsp is a house and electronica artist based in Australia, with 133 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 38 more. Often billed alongside Killian, Mietze Conte and SOLTERA. Next up: Civic Underground, Sydney on Sat 5 Dec.
 
@@ -27,4 +27,4 @@
 
 Killian, Mietze Conte, SOLTERA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

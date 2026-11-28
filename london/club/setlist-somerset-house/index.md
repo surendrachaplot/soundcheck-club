@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Setlife presents Dr VADES & Ethan Porte" on Sat, 28 Nov 2026.
+Setlist @ Somerset House is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Setlife presents Dr VADES & Ethan Porte" on Sat, 28 Nov 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including DJ DuBois, Ethan Porte, Handson Family and IFE and 2 more. See dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -20,4 +20,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 7 upco
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

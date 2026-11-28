@@ -1,6 +1,6 @@
 # TRACTION CONTROL
 
-TRACTION CONTROL is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Solace, Melbourne on Fri, 18 Dec 2026.
+TRACTION CONTROL is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Solace, Melbourne on Fri, 18 Dec 2026.
 
 TRACTION CONTROL is a breakbeat and techno artist based in Malaysia, with 26 gigs on soundcheck across Kuala Lumpur, Melbourne and Singapore. Often billed alongside MIA (MY), Alfie Rrari and Notion A. Next up: Solace, Melbourne on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ TRACTION CONTROL is a breakbeat and techno artist based in Malaysia, with 26 gig
 
 MIA (MY), Alfie Rrari, Notion A
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tractioncontrol/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tractioncontrol/)*

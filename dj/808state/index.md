@@ -1,6 +1,6 @@
 # 808 State
 
-808 State is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lost Horizon, Bristol on Fri, 29 Jan 2027.
+808 State is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lost Horizon, Bristol on Fri, 29 Jan 2027.
 
 808 State is an acid and house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Jon Dasilva, Graeme Park and Justin Robertson. Next up: Lost Horizon, Bristol on Fri 29 Jan.
 
@@ -25,4 +25,4 @@
 
 Jon Dasilva, Graeme Park, Justin Robertson
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*

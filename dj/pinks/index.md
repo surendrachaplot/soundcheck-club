@@ -1,6 +1,6 @@
 # Pinks
 
-Pinks is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Basing House, London on Sat, 5 Dec 2026.
+Pinks is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Basing House, London on Sat, 5 Dec 2026.
 
 Pinks is a jungle and drum & bass artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Jirani, Randoma and Tianna Franxx. Next up: Basing House, London on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Pinks is a jungle and drum & bass artist based in United Kingdom, with 3 gigs on
 
 Jirani (2), Randoma, Tianna Franxx
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinks/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinks/)*

@@ -1,14 +1,15 @@
 # Kotti D'Azur
 
-Kotti D'Azur is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 28 Nov 2026.
+Kotti D'Azur is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 28 Nov 2026.
 
-Kotti D'Azur is a techno and hardcore artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Emma, Kopflos and TechNovaBader. Next up: TBA - Secret Location, Berlin on Sat 28 Nov.
+Kotti D'Azur is a techno and hardcore artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Emma, Kopflos and TechNovaBader. Next up: TBA - Secret Location, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - Secret Location | Berlin |
+| Thu, 31 Dec 2026 | M-BIA | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kotti D'Azur is a techno and hardcore artist based in Germany, with 11 gigs on s
 
 Emma (8), Kopflos, TechNovaBader
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kottidazur/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kottidazur/)*

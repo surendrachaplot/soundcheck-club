@@ -1,6 +1,6 @@
 # Elianne
 
-Elianne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Stage and Radio, Manchester on Fri, 18 Dec 2026.
+Elianne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Stage and Radio, Manchester on Fri, 18 Dec 2026.
 
 Elianne is a house and disco artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Brighton, London and Manchester and 1 more. Often billed alongside BAY-BUSH-KA, Madelic and KOAST. Next up: Stage and Radio, Manchester on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Elianne is a house and disco artist based in United Kingdom, with 35 gigs on sou
 
 BAY-BUSH-KA, Madelic, KOAST
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*

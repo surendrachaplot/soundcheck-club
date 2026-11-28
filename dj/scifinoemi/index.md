@@ -1,6 +1,6 @@
 # Sci-Fi Noemi
 
-Sci-Fi Noemi is a Jungle and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
+Sci-Fi Noemi is a Jungle and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
 
 Sci-Fi Noemi is a jungle and electro artist based in Japan, with 13 gigs on soundcheck across Dublin and Tokyo. Often billed alongside ATM, MileZ and Aliceyuki. Next up: Circus Tokyo, Tokyo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Sci-Fi Noemi is a jungle and electro artist based in Japan, with 13 gigs on soun
 
 ATM, MileZ, Aliceyuki
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scifinoemi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scifinoemi/)*

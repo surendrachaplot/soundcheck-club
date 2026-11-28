@@ -1,6 +1,6 @@
 # Youney
 
-Youney is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at rake?raka?, Osaka on Sat, 28 Nov 2026.
+Youney is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at rake?raka?, Osaka on Sat, 28 Nov 2026.
 
 Youney is a techno and minimal techno artist, with 6 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Colyn, DJ Master Kohta and DMITRI ABSINTHE. Next up: rake?raka?, Osaka on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Youney is a techno and minimal techno artist, with 6 gigs on soundcheck across K
 
 Colyn, DJ Master Kohta, DMITRI ABSINTHE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youney/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youney/)*

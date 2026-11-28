@@ -1,6 +1,6 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ZEROTOKYO, Tokyo on Tue, 29 Dec 2026.
+tamanaramen is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ZEROTOKYO, Tokyo on Tue, 29 Dec 2026.
 
 tamanaramen is an experimental and electronica artist based in Japan, with 46 gigs on soundcheck across Beijing, Berlin, Brussels and Hong Kong and 8 more. Often billed alongside DJ Quietstorm, HIMAWARI and Daito Manabe. Next up: ZEROTOKYO, Tokyo on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ tamanaramen is an experimental and electronica artist based in Japan, with 46 gi
 
 DJ Quietstorm, HIMAWARI, Daito Manabe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*

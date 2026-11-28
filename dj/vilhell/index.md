@@ -1,6 +1,6 @@
 # Vilhell
 
-Vilhell is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 5 Dec 2026.
+Vilhell is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 5 Dec 2026.
 
 Vilhell is a techno and electro artist, with 12 gigs on soundcheck across Berlin and Dresden. Often billed alongside Gościńska, Suit Kei and Goldmund.99. Next up: Sektor Evolution, Dresden on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Vilhell is a techno and electro artist, with 12 gigs on soundcheck across Berlin
 
 Gościńska, Suit Kei, Goldmund.99
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilhell/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilhell/)*

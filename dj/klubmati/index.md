@@ -1,6 +1,6 @@
 # KLUBMATI
 
-KLUBMATI is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ikii, Berlin on Sat, 5 Dec 2026.
+KLUBMATI is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ikii, Berlin on Sat, 5 Dec 2026.
 
 KLUBMATI is a house and funk / soul artist based in Poland, with 12 gigs on soundcheck across Berlin, Dresden and Warsaw. Often billed alongside SENRO, Tibotonic and Alec Troniq. Next up: Ikii, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ KLUBMATI is a house and funk / soul artist based in Poland, with 12 gigs on soun
 
 SENRO, Tibotonic, Alec Troniq
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klubmati/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klubmati/)*

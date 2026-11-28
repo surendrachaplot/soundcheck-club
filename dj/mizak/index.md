@@ -1,6 +1,6 @@
 # MIZAK
 
-MIZAK is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hard Rock Hotel Malta, Malta on Thu, 31 Dec 2026.
+MIZAK is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hard Rock Hotel Malta, Malta on Thu, 31 Dec 2026.
 
 MIZAK is an afro house and house artist based in Malta, with 11 gigs on soundcheck across Malta. Often billed alongside ANT Mifsud, Carl Bee and Daniel Blade. Next up: Hard Rock Hotel Malta, Malta on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ MIZAK is an afro house and house artist based in Malta, with 11 gigs on soundche
 
 ANT Mifsud, Carl Bee, Daniel Blade
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mizak/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mizak/)*

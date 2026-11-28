@@ -1,6 +1,6 @@
 # No Silver Bullet
 
-No Silver Bullet is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 5 Dec 2026.
+No Silver Bullet is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 5 Dec 2026.
 
 No Silver Bullet is a house and deep house artist, with 40 gigs on soundcheck across Berlin. Often billed alongside MARIE.MOON, DAAS and Santi Calvo. Next up: Bulbul Berlin, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ No Silver Bullet is a house and deep house artist, with 40 gigs on soundcheck ac
 
 MARIE.MOON, DAAS (1), Santi Calvo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosilverbullet/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosilverbullet/)*

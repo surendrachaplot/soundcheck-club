@@ -1,6 +1,6 @@
 # Junki Inoue
 
-Junki Inoue is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mint XL, Leeds on Sat, 28 Nov 2026.
+Junki Inoue is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Mint XL, Leeds on Sat, 28 Nov 2026.
 
 Junki Inoue is a house and techno artist based in Japan, with 141 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Unai Trotti, Z@p and Vass. Next up: Mint XL, Leeds on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ Junki Inoue is a house and techno artist based in Japan, with 141 gigs on soundc
 
 Unai Trotti, Z@p, Vass
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*

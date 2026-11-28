@@ -1,6 +1,6 @@
 # Intimacy Simulator
 
-Intimacy Simulator is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Boyfriend co-op, New York City on Thu, 17 Dec 2026.
+Intimacy Simulator is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Boyfriend co-op, New York City on Thu, 17 Dec 2026.
 
 Intimacy Simulator is a techno and jungle artist based in United States of America, with 32 gigs on soundcheck across Austin, New York City and Philadelphia. Often billed alongside Lucía Beyond, MAJESTYOFDIVINITY and Dazegxd. Next up: Boyfriend co-op, New York City on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Intimacy Simulator is a techno and jungle artist based in United States of Ameri
 
 Lucía Beyond, MAJESTYOFDIVINITY, Dazegxd
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*

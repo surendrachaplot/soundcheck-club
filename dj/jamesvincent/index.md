@@ -1,6 +1,6 @@
 # James Vincent
 
-James Vincent is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Heaven Gallery, Chicago on Sat, 5 Dec 2026.
+James Vincent is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Heaven Gallery, Chicago on Sat, 5 Dec 2026.
 
 James Vincent is a deep house and disco artist, with 76 gigs on soundcheck across Atlanta, Chicago, Detroit and Lisbon. Often billed alongside Cordell Johnson, Lorenzo Dewberry and CTRLZORA. Next up: Heaven Gallery, Chicago on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ James Vincent is a deep house and disco artist, with 76 gigs on soundcheck acros
 
 Cordell Johnson, Lorenzo Dewberry, CTRLZORA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*

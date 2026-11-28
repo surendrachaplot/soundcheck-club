@@ -1,6 +1,6 @@
 # Touré
 
-Touré is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Red Church, Bristol on Thu, 31 Dec 2026.
+Touré is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Red Church, Bristol on Thu, 31 Dec 2026.
 
 Touré is a house and electro artist based in United Kingdom, with 45 gigs on soundcheck across Bristol, Glasgow, Leeds and London and 5 more. Often billed alongside Larushkin, Jiminy Watts and Sleepy Jean. Next up: The Red Church, Bristol on Thu 31 Dec.
 
@@ -27,4 +27,4 @@ Touré is a house and electro artist based in United Kingdom, with 45 gigs on so
 
 Larushkin, Jiminy Watts, Sleepy Jean
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

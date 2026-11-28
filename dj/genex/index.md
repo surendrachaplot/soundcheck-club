@@ -1,6 +1,6 @@
 # Genex
 
-Genex is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 29 Nov 2026.
+Genex is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 29 Nov 2026.
 
 Genex is a techno and electro artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Dublin and 6 more. Often billed alongside Alec Dienaar, Beste Hira and Daria Kolosova. Next up: Thuishaven, Amsterdam on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Genex is a techno and electro artist based in Netherlands, with 37 gigs on sound
 
 Alec Dienaar, Beste Hira, Daria Kolosova
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genex/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genex/)*

@@ -1,18 +1,18 @@
 # DJ Eivissa
 
-DJ Eivissa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio1111, Berlin on Fri, 27 Nov 2026.
+DJ Eivissa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at OXI, Berlin on Fri, 18 Dec 2026.
 
-DJ Eivissa is a house and techno artist, with 71 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 6 more. Often billed alongside FRÆNZ:, DJ Heartstring and limbic sis. Next up: Studio1111, Berlin on Fri 27 Nov.
+DJ Eivissa is a house and techno artist, with 71 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 6 more. Often billed alongside FRÆNZ:, DJ Heartstring and limbic sis. Next up: OXI, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Studio1111 | Berlin |
 | Fri, 18 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
+- Studio1111, Berlin · Fri, 27 Nov 2026
 - Else, Berlin · Sat, 19 Sept 2026
 - ://about blank, Berlin · Sat, 1 Aug 2026
 - Ritter Butzke, Berlin · Fri, 24 Jul 2026
@@ -20,10 +20,9 @@ DJ Eivissa is a house and techno artist, with 71 gigs on soundcheck across Amste
 - OXI, Berlin · Sun, 21 Jun 2026
 - Else, Berlin · Fri, 19 Jun 2026
 - Club der Visionaere, Berlin · Wed, 17 Jun 2026
-- Coco Boule, Berlin · Thu, 14 May 2026
 
 ## Shares bills with
 
 FRÆNZ:, DJ Heartstring, limbic sis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeivissa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeivissa/)*

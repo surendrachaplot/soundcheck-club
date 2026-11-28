@@ -1,6 +1,6 @@
 # Mila
 
-Mila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
+Mila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
 
 Mila is a techno and house artist based in Germany, with 20 gigs on soundcheck across Mexico City, Prague, Taipei and Tokyo. Often billed alongside ASTAT, DJ SEX and SAVØ. Next up: Circus Tokyo, Tokyo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mila is a techno and house artist based in Germany, with 20 gigs on soundcheck a
 
 ASTAT, DJ SEX, SAVØ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mila/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mila/)*

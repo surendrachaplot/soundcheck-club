@@ -1,6 +1,6 @@
 # threehz
 
-threehz is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Bushwick, New York City on Sat, 12 Dec 2026.
+threehz is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Bushwick, New York City on Sat, 12 Dec 2026.
 
 threehz is a techno and experimental artist based in United States of America, with 35 gigs on soundcheck across New York City. Often billed alongside Antenes, Lychee and Ron Like Hell. Next up: TBA - Bushwick, New York City on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ threehz is a techno and experimental artist based in United States of America, w
 
 Antenes, Lychee, Ron Like Hell
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/threehz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/threehz/)*

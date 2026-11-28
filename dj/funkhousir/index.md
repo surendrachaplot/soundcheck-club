@@ -1,6 +1,6 @@
 # Funkhousir
 
-Funkhousir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Public Works Oddjob Loft, San Francisco/Oakland on Sat, 28 Nov 2026.
+Funkhousir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Public Works Oddjob Loft, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Funkhousir is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Shefa, AB3D and Tango. Next up: Public Works Oddjob Loft, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Funkhousir is a house and techno artist based in United States of America, with 
 
 Shefa, AB3D, Tango
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkhousir/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkhousir/)*

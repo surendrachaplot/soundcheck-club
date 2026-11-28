@@ -1,6 +1,6 @@
 # Lou Drago
 
-Lou Drago is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - ZABRA, Lisbon on Sat, 5 Dec 2026.
+Lou Drago is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - ZABRA, Lisbon on Sat, 5 Dec 2026.
 
 Lou Drago is a techno and ambient artist based in Germany, with 19 gigs on soundcheck across Barcelona, Berlin, Leipzig and Lisbon and 1 more. Often billed alongside marum, BLEID and Phoebe. Next up: TBA - ZABRA, Lisbon on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lou Drago is a techno and ambient artist based in Germany, with 19 gigs on sound
 
 marum, BLEID, Phoebe (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loudrago/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loudrago/)*

@@ -1,6 +1,6 @@
 # Nazz
 
-Nazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
+Nazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
 Nazz is a techno and house artist based in Germany, with 77 gigs on soundcheck across Basel, Berlin, Dresden and Düsseldorf and 7 more. Often billed alongside AHURA, Jannis Maxim and SYMON. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nazz is a techno and house artist based in Germany, with 77 gigs on soundcheck a
 
 AHURA, Jannis Maxim, SYMON
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nazz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nazz/)*

@@ -1,6 +1,6 @@
 # Valentina Luz
 
-Valentina Luz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Quadrado da Urca, Rio de Janeiro on Sat, 2 Jan 2027.
+Valentina Luz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Quadrado da Urca, Rio de Janeiro on Sat, 2 Jan 2027.
 
 Valentina Luz is a house and techno artist based in Brazil, with 81 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bogotá and 12 more. Often billed alongside Eli Iwasa, Paulete Lindacelva and Dirty Daddy Don. Next up: TBA - Quadrado da Urca, Rio de Janeiro on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Valentina Luz is a house and techno artist based in Brazil, with 81 gigs on soun
 
 Eli Iwasa, Paulete Lindacelva, Dirty Daddy Don
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinaluz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinaluz/)*

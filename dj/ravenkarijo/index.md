@@ -1,6 +1,6 @@
 # Raven Karijo
 
-Raven Karijo is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 17 Dec 2026.
+Raven Karijo is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 17 Dec 2026.
 
 Raven Karijo is a house and baile funk artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Stockholm, The Hague and Vienna. Often billed alongside Travis Allen, Rob Black and Floris Fahrenheit. Next up: Radio Radio, Amsterdam on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Raven Karijo is a house and baile funk artist based in Netherlands, with 47 gigs
 
 Travis Allen, Rob Black, Floris Fahrenheit
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravenkarijo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravenkarijo/)*

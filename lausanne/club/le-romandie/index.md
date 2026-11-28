@@ -1,6 +1,6 @@
 # Le Romandie
 
-Le Romandie is a music venue in Lausanne with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "LE GRAND REMPLACEMENT" on Sat, 28 Nov 2026.
+Le Romandie is a music venue in Lausanne with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "LE GRAND REMPLACEMENT" on Sat, 28 Nov 2026.
 
 Le Romandie is a music venue in Lausanne listed on soundcheck. 5 upcoming gigs, with line-ups including asna, Braises de Velours and Korkki. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Le Romandie is a music venue in Lausanne listed on soundcheck. 5 upcoming gigs, 
 | Fri, 18 Dec 2026 | AFTERSHOW DE LE TEUF DE PIOTR ET LA RUSE: TRQER B2B REBELCA + GARANCINA + YANNECK |  |
 | Sat, 19 Dec 2026 | ParaDykes Club | Braises de Velours |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/le-romandie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/le-romandie/)*

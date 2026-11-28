@@ -1,6 +1,6 @@
 # Analog Disease
 
-Analog Disease is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
+Analog Disease is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
 
 Analog Disease is an electro and techno artist, with 7 gigs on soundcheck across London. Often billed alongside Ughe, Desuba and Monterosso. Next up: Starlane Pizza Bar, London on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Analog Disease is an electro and techno artist, with 7 gigs on soundcheck across
 
 Ughe, Desuba, Monterosso
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/analogdisease/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/analogdisease/)*

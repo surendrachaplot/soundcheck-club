@@ -1,6 +1,6 @@
 # Rebelo
 
-Rebelo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zoo, Geneva on Fri, 25 Dec 2026.
+Rebelo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zoo, Geneva on Fri, 25 Dec 2026.
 
 Rebelo is a techno and trance artist based in Switzerland, with 6 gigs on soundcheck across Geneva and Lausanne. Often billed alongside AIEAIEAIE, Bowmore and Ecar. Next up: Zoo, Geneva on Fri 25 Dec.
 
@@ -22,4 +22,4 @@ Rebelo is a techno and trance artist based in Switzerland, with 6 gigs on soundc
 
 AIEAIEAIE, Bowmore, Ecar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelo/)*

@@ -1,6 +1,6 @@
 # Aemone
 
-Aemone is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Funke, Ghent on Sat, 5 Dec 2026.
+Aemone is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Funke, Ghent on Sat, 5 Dec 2026.
 
 Aemone is a dubstep and bass artist based in Belgium, with 4 gigs on soundcheck across Brussels, Ghent and Quebec City. Often billed alongside John Parm, Mambele and Rosie from the Block. Next up: Funke, Ghent on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Aemone is a dubstep and bass artist based in Belgium, with 4 gigs on soundcheck 
 
 John Parm, Mambele, Rosie from the Block
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aemone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aemone/)*

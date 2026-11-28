@@ -1,6 +1,6 @@
 # dilhaar
 
-dilhaar is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 314 Scholes, New York City on Fri, 11 Dec 2026.
+dilhaar is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 314 Scholes, New York City on Fri, 11 Dec 2026.
 
 dilhaar is a house and bass artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside DJ ing, Brant Wolff and Mozn. Next up: 314 Scholes, New York City on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ dilhaar is a house and bass artist based in United States of America, with 7 gig
 
 DJ ing, Brant Wolff, Mozn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilhaar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilhaar/)*

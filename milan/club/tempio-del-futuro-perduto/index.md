@@ -1,15 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Oriental Techno Club - 東極玄音寺: NYCTO, Morva, DÅwN" on Fri, 27 Nov 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 15 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Educazione Techno Sessuale" on Sat, 28 Nov 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 17 upcoming gigs, with line-ups including Acidalia, Alimac, An Chen and Antikorpo and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upcoming gigs, with line-ups including Acidalia, Alimac, An Chen and Antikorpo and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Oriental Techno Club - 東極玄音寺: NYCTO, Morva, DÅwN | DÅwN, Morva, NYCTO |
-| Fri, 27 Nov 2026 | CORPI ELETTRONICI - JAM SESSION: Danza Contemporanea, Musica Elettronica e Poesia |  |
 | Sat, 28 Nov 2026 | Educazione Techno Sessuale | Acidalia, Alimac, Iacopo Carli, Industrial Romantico |
 | Fri, 4 Dec 2026 | Oriental Techno Club x Foundation Club: Mariio, Fischmonger, P.Simons | Fischmonger, Mariio, P.Simons |
 | Sat, 5 Dec 2026 | NOTTE TEKNO: Krista Bourgeois live, DTS live, Industrial Romantico, Tania Kim b2b Waldo | DRUM THE SYSTEM live, Industrial Romantico, Krista Bourgeois, Tania Kim, Waldo |
@@ -18,9 +16,11 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 17 upc
 | Fri, 18 Dec 2026 | Oriental Techno Club - 東極玄音寺: Yunhee, Zenyee, ZHAZHA WANG | Yunhee, ZHAZHA WANG, Zenyee |
 | Sat, 19 Dec 2026 | Educazione Techno Sessuale di Natale |  |
 | Fri, 25 Dec 2026 | Oriental Techno Club - 東極玄音寺: An Chen, Morva, Shū | An Chen, Morva, SHŪ (1) |
+| Sat, 26 Dec 2026 | DISCO FELINA NATALIZIA | Futuro Tropicale, Iacopo Carli, Naydiaa |
+| Thu, 31 Dec 2026 | 9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Capodanno - Nye - 元旦) | Acidalia, Alimac, Berlin Bunny, Elisa Bee, Eyesdice, Industrial Romantico, Kora Lyssa, Marthial, Morva, Nadia Struiwigh, PSYKEDELIA, SHŪ (1), Shaleen, Tania Kim, Waldo, Younger Than Me, ZHAZHA WANG, Zenyee, cccre |
 
 ## Address
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

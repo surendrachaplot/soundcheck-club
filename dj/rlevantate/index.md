@@ -1,6 +1,6 @@
 # R Levántate
 
-R Levántate is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
+R Levántate is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Airliner, Los Angeles on Sat, 12 Dec 2026.
 
 R Levántate is a techno and ambient artist based in United States of America, with 5 gigs on soundcheck across Los Angeles. Often billed alongside Psidearm, Anastasia Giovani and Clarisa Kimskii. Next up: The Airliner, Los Angeles on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ R Levántate is a techno and ambient artist based in United States of America, w
 
 Psidearm, Anastasia Giovani, Clarisa Kimskii
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rlevantate/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rlevantate/)*

@@ -1,6 +1,6 @@
 # Vonne
 
-Vonne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Thu, 31 Dec 2026.
+Vonne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Thu, 31 Dec 2026.
 
 Vonne is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Austin. Often billed alongside Brett Johnson, Lucía Beyond and SEWA. Next up: TBA - 4211 Todd Ln Suite A, Austin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Vonne is a house and techno artist based in United States of America, with 16 gi
 
 Brett Johnson, Lucía Beyond, SEWA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonne/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vonne/)*

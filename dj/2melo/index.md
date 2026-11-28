@@ -1,6 +1,6 @@
 # 2melo
 
-2melo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
+2melo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 28 Nov 2026.
 
 2melo is a house and afro house artist based in United States of America, with 22 gigs on soundcheck across New York City. Often billed alongside ORIJINS, Nickodemus and Gavin Stephenson. Next up: Crossroads Cafe, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@
 
 ORIJINS, Nickodemus, Gavin Stephenson
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2melo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2melo/)*

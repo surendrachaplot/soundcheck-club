@@ -1,6 +1,6 @@
 # Suelen Mesmo
 
-Suelen Mesmo is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+Suelen Mesmo is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 Suelen Mesmo is a house and baile funk artist based in Brazil, with 55 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside EVEHIVE, Young Clubber and Cesrv. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Suelen Mesmo is a house and baile funk artist based in Brazil, with 55 gigs on s
 
 EVEHIVE, Young Clubber, Cesrv
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suelenmesmo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suelenmesmo/)*

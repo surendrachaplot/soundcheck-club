@@ -1,14 +1,16 @@
 # KÜRÜF
 
-KÜRÜF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Acud Macht NEU, Berlin on Fri, 11 Dec 2026.
+KÜRÜF is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Acud Macht NEU, Berlin on Fri, 11 Dec 2026.
 
-KÜRÜF is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Domovnika, Emilion Dollar Baby and Kalimanda. Next up: Acud Macht NEU, Berlin on Fri 11 Dec.
+KÜRÜF is a techno and house artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside Domovnika, Emilion Dollar Baby and Kalimanda. Next up: Acud Macht NEU, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Acud Macht NEU | Berlin |
+| Tue, 22 Dec 2026 | Prisma | Berlin |
+| Tue, 29 Dec 2026 | Prisma | Berlin |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ KÜRÜF is a techno and house artist based in Germany, with 19 gigs on soundchec
 
 Domovnika, Emilion Dollar Baby, Kalimanda
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuruf/)*

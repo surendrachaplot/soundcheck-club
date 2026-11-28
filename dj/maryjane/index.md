@@ -1,6 +1,6 @@
 # Mary Jane
 
-Mary Jane is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Brooklyn Pacha, New York City on Sat, 5 Dec 2026.
+Mary Jane is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Brooklyn Pacha, New York City on Sat, 5 Dec 2026.
 
 Mary Jane is a house and deep house artist based in Germany, with 10 gigs on soundcheck across Birmingham, Manchester, Miami and New York City. Often billed alongside Kike Roldan, Nico Moon and A.M. Project. Next up: Brooklyn Pacha, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mary Jane is a house and deep house artist based in Germany, with 10 gigs on sou
 
 Kike Roldan, Nico Moon, A.M. Project
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane/)*

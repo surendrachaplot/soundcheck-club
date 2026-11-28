@@ -1,6 +1,6 @@
 # Kédu
 
-Kédu is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Miscellania, Melbourne on Wed, 9 Dec 2026.
+Kédu is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Miscellania, Melbourne on Wed, 9 Dec 2026.
 
 Kédu is a house and club artist based in New Zealand, with 13 gigs on soundcheck across Auckland, Christchurch, Melbourne and Sydney. Often billed alongside Bertie, Borrowed CS and AJ Honeysuckle. Next up: Miscellania, Melbourne on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Kédu is a house and club artist based in New Zealand, with 13 gigs on soundchec
 
 Bertie, Borrowed CS, AJ Honeysuckle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kedu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kedu/)*

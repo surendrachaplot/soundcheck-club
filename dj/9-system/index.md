@@ -1,18 +1,18 @@
 # 9-System
 
-9-System is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 27 Nov 2026.
+9-System is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
 
-9-System is a techno and trance artist based in United States of America, with 38 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside MILANA, Max Gardner and Adra. Next up: 1015 Folsom, San Francisco/Oakland on Fri 27 Nov.
+9-System is a techno and trance artist based in United States of America, with 38 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside MILANA, Max Gardner and Adra. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland · Fri, 27 Nov 2026
 - Underground SF, San Francisco/Oakland · Sat, 21 Nov 2026
 - The San Francisco Mint, San Francisco/Oakland · Sat, 27 Jun 2026
 - TBA - SAN FRANCISCO LOCATION (SOMA), San Francisco/Oakland · Fri, 24 Apr 2026
@@ -20,10 +20,9 @@
 - TBA - NEW SAN FRANCISCO LOCATION (SOMA), San Francisco/Oakland · Sat, 21 Feb 2026
 - Underground SF, San Francisco/Oakland · Sat, 13 Dec 2025
 - Monument SF, San Francisco/Oakland · Sat, 15 Nov 2025
-- The San Francisco Mint, San Francisco/Oakland · Fri, 26 Sept 2025
 
 ## Shares bills with
 
 MILANA, Max Gardner, Adra
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9-system/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9-system/)*

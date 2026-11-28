@@ -1,6 +1,6 @@
 # Larria
 
-Larria is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
+Larria is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
 
 Larria is a techno and club artist based in Vietnam, with 28 gigs on soundcheck across Hanoi, Ho Chi Minh City, Seoul and Shanghai. Often billed alongside Chi Min, Nodey and Phát Paris. Next up: Rever Mixology & Lounge, Ho Chi Minh City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Larria is a techno and club artist based in Vietnam, with 28 gigs on soundcheck 
 
 Chi Min, Nodey, Phát Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larria/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larria/)*

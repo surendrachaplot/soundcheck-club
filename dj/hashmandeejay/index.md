@@ -1,6 +1,6 @@
 # Hashman Deejay
 
-Hashman Deejay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Thu, 17 Dec 2026.
+Hashman Deejay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Système, Montreal on Thu, 17 Dec 2026.
 
 Hashman Deejay is a house and techno artist, with 34 gigs on soundcheck across Austin, Berlin, Canberra and Los Angeles and 11 more. Often billed alongside PLO Man, Ben Fester and DJ Trystero. Next up: Système, Montreal on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Hashman Deejay is a house and techno artist, with 34 gigs on soundcheck across A
 
 PLO Man, Ben Fester, DJ Trystero
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*

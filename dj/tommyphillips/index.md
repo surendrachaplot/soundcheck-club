@@ -1,14 +1,13 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Tommy Phillips is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Tommy Phillips is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 33 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: fabric, London on Fri 27 Nov.
+Tommy Phillips is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 33 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | fabric | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Coda | Toronto |
 | Sat, 5 Dec 2026 | Descent | Boston |
@@ -20,9 +19,11 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 89
 | Sat, 19 Dec 2026 | Spin | San Diego |
 | Sat, 26 Dec 2026 | XOYO | London |
 | Mon, 28 Dec 2026 | IDRA | Manchester |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
+- fabric, London · Fri, 27 Nov 2026
 - Thuishaven, Amsterdam · Sat, 14 Nov 2026
 - Cabaret Voltaire, Edinburgh · Fri, 30 Oct 2026
 - Sub Club, Glasgow · Thu, 29 Oct 2026
@@ -30,10 +31,9 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 89
 - Westerkerk, Amsterdam · Sat, 24 Oct 2026
 - Taets Art and Event Park, Netherlands · Fri, 23 Oct 2026
 - Electric Galway, Galway · Wed, 21 Oct 2026
-- Odyssey Cork, Cork · Tue, 20 Oct 2026
 
 ## Shares bills with
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

@@ -1,6 +1,6 @@
 # -Doubt
 
--Doubt is a Club and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dali, Cork on Sun, 27 Dec 2026.
+-Doubt is a Club and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Dali, Cork on Sun, 27 Dec 2026.
 
 -Doubt is a club and hard drum artist based in Ireland, with 23 gigs on soundcheck across Cork, Dublin, Edinburgh and Galway and 3 more. Often billed alongside dijaka, polyp and AKUMU. Next up: Dali, Cork on Sun 27 Dec.
 
@@ -25,4 +25,4 @@
 
 dijaka, polyp, AKUMU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-doubt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/-doubt/)*

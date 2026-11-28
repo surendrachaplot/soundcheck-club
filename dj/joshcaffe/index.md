@@ -1,14 +1,13 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 27 Nov 2026.
+Josh Caffé is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
-Josh Caffé is a house and techno artist based in United Kingdom, with 169 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 47 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: CLUB RAUM, Amsterdam on Fri 27 Nov.
+Josh Caffé is a house and techno artist based in United Kingdom, with 169 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 47 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 | Mon, 7 Dec 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Sat, 19 Dec 2026 | The Berkeley Suite | Glasgow |
@@ -20,6 +19,7 @@ Josh Caffé is a house and techno artist based in United Kingdom, with 169 gigs 
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam · Fri, 27 Nov 2026
 - Open Ground, Wuppertal · Sat, 14 Nov 2026
 - Yamamori Tengu, Dublin · Fri, 6 Nov 2026
 - DRUMSHEDS, London · Sat, 24 Oct 2026
@@ -27,10 +27,9 @@ Josh Caffé is a house and techno artist based in United Kingdom, with 169 gigs 
 - TBA - DTLA, Los Angeles · Fri, 9 Oct 2026
 - Green Room NYC, New York City · Sat, 3 Oct 2026
 - Green Room NYC, New York City · Fri, 2 Oct 2026
-- Kilomètre25, Paris · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

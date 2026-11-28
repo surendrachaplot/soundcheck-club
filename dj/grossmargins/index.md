@@ -1,6 +1,6 @@
 # gross margins
 
-gross margins is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 18 Dec 2026.
+gross margins is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 18 Dec 2026.
 
 gross margins is a techno and ambient artist based in China, with 22 gigs on soundcheck across Hong Kong and Melbourne. Often billed alongside felt., Flat Esoteric and second skin. Next up: 宀 Club, Hong Kong on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ gross margins is a techno and ambient artist based in China, with 22 gigs on sou
 
 felt., Flat Esoteric, second skin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*

@@ -1,6 +1,6 @@
 # Zar.
 
-Zar. is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 5A, Lisbon on Thu, 3 Dec 2026.
+Zar. is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 5A, Lisbon on Thu, 3 Dec 2026.
 
 Zar. is a drum & bass and jungle artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Verbz, Channell and EVABEE. Next up: 5A, Lisbon on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Zar. is a drum & bass and jungle artist based in United Kingdom, with 59 gigs on
 
 Verbz, Channell, EVABEE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*

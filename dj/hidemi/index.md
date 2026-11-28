@@ -1,14 +1,13 @@
 # hidemi
 
-hidemi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DeTour, Tokyo on Sat, 28 Nov 2026.
+hidemi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Dogenzaka Church, Tokyo on Sun, 6 Dec 2026.
 
-hidemi is a techno and house artist based in Japan, with 150 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Takami, cosmolady and BEPPU. Next up: DeTour, Tokyo on Sat 28 Nov.
+hidemi is a techno and house artist based in Japan, with 150 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Takami, cosmolady and BEPPU. Next up: Dogenzaka Church, Tokyo on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | DeTour | Tokyo |
 | Sun, 6 Dec 2026 | Dogenzaka Church | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ hidemi is a techno and house artist based in Japan, with 150 gigs on soundcheck 
 
 Takami, cosmolady, BEPPU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*

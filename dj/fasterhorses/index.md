@@ -1,6 +1,6 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Faster Horses is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Faster Horses is a techno and trance artist based in United Kingdom, with 271 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 67 more. Often billed alongside Azyr, Leaha and Kander. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -36,4 +36,4 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 271 gi
 
 Azyr, Leaha, Kander
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

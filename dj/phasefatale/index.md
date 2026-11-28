@@ -1,6 +1,6 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at RADION, Amsterdam on Fri, 27 Nov 2026.
+Phase Fatale is a Techno and EBM artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at RADION, Amsterdam on Fri, 27 Nov 2026.
 
 Phase Fatale is a techno and ebm artist based in United States of America, with 242 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 76 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: RADION, Amsterdam on Fri 27 Nov.
 
@@ -19,6 +19,7 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 
 ## Recently played
 
+- RADION, Amsterdam · Fri, 27 Nov 2026
 - KHIDI, Tbilisi · Fri, 20 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 14 Nov 2026
 - Lanna Club, North · Sat, 7 Nov 2026
@@ -26,10 +27,9 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 - TBA - secret warehouse, Denver · Sat, 31 Oct 2026
 - TBA - Brooklyn, New York City · Fri, 30 Oct 2026
 - TBA - Secret Location, Bogot · Sat, 24 Oct 2026
-- Anexo Cambridge, Sao Paulo · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

@@ -1,6 +1,6 @@
 # Bill Kouligas
 
-Bill Kouligas is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Big Table, Athens on Fri, 11 Dec 2026.
+Bill Kouligas is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Big Table, Athens on Fri, 11 Dec 2026.
 
 Bill Kouligas is an experimental and techno artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside nunguja, Crystallmess and Tzusing. Next up: Big Table, Athens on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Bill Kouligas is an experimental and techno artist based in Germany, with 48 gig
 
 nunguja, Crystallmess, Tzusing
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billkouligas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billkouligas/)*

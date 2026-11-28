@@ -1,6 +1,6 @@
 # Clarissa Dalila
 
-Clarissa Dalila is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 28 Nov 2026.
+Clarissa Dalila is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 28 Nov 2026.
 
 Clarissa Dalila is a techno artist based in Italy, with 5 gigs on soundcheck across Madrid. Often billed alongside RMXR, Denso and Fvrbo. Next up: Hangar48 Club, Madrid on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Clarissa Dalila is a techno artist based in Italy, with 5 gigs on soundcheck acr
 
 RMXR, Denso, Fvrbo
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissadalila/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissadalila/)*

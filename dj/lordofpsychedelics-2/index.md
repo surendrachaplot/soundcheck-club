@@ -1,6 +1,6 @@
 # LORD of Psychedelics (2)
 
-LORD of Psychedelics (2) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M-BIA, Berlin on Sat, 5 Dec 2026.
+LORD of Psychedelics (2) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M-BIA, Berlin on Sat, 5 Dec 2026.
 
 LORD of Psychedelics is a techno and psytrance artist based in Germany, with 22 gigs on soundcheck across Berlin. Often billed alongside Basstronauten, Daniel Boon and Patrick Scuro. Next up: M-BIA, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LORD of Psychedelics is a techno and psytrance artist based in Germany, with 22 
 
 Basstronauten, Daniel Boon, Patrick Scuro
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofpsychedelics-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofpsychedelics-2/)*

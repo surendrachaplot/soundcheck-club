@@ -1,6 +1,6 @@
 # Jimmie
 
-Jimmie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Folklor, Lausanne on Sat, 28 Nov 2026.
+Jimmie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Folklor, Lausanne on Sat, 28 Nov 2026.
 
 Jimmie is a house and techno artist based in Italy, with 33 gigs on soundcheck across Berlin, Lausanne and Prague. Often billed alongside Kidcat, ilbroccolovolante and zikade. Next up: Folklor, Lausanne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Jimmie is a house and techno artist based in Italy, with 33 gigs on soundcheck a
 
 Kidcat, ilbroccolovolante, zikade
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*

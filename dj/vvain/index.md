@@ -1,6 +1,6 @@
 # VVAIN
 
-VVAIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atdge Seoul, Seoul on Fri, 11 Dec 2026.
+VVAIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Atdge Seoul, Seoul on Fri, 11 Dec 2026.
 
 VVAIN is a techno and house artist based in South Korea, with 12 gigs on soundcheck across Seoul. Often billed alongside Jamjari, Seongsoo and Healer_t_s. Next up: Atdge Seoul, Seoul on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ VVAIN is a techno and house artist based in South Korea, with 12 gigs on soundch
 
 Jamjari, Seongsoo, Healer_t_s
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvain/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvain/)*

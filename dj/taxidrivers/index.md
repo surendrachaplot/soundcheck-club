@@ -1,6 +1,6 @@
 # Taxi Drivers
 
-Taxi Drivers is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Malasaña, Madrid on Sat, 28 Nov 2026.
+Taxi Drivers is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Malasaña, Madrid on Sat, 28 Nov 2026.
 
 Taxi Drivers is a house and electro artist based in France, with 27 gigs on soundcheck across Barcelona, Lisbon, Madrid and Paris. Often billed alongside Memphis, SAMPA and Adria (ES). Next up: Club Malasaña, Madrid on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Taxi Drivers is a house and electro artist based in France, with 27 gigs on soun
 
 Memphis, SAMPA, Adria (ES)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taxidrivers/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taxidrivers/)*

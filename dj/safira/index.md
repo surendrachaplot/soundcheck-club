@@ -1,6 +1,6 @@
 # Safira
 
-Safira is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
+Safira is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
 
 Safira is a techno and psytrance artist based in Norway, with 21 gigs on soundcheck across Berlin, Hamburg, Lisbon and Melbourne and 2 more. Often billed alongside Ebony Willis, Bryan Ro and Gwyn. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Safira is a techno and psytrance artist based in Norway, with 21 gigs on soundch
 
 Ebony Willis, Bryan Ro, Gwyn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safira/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safira/)*

@@ -1,14 +1,13 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mipama ES SU Casa 宮古島, Okinawa on Sat, 28 Nov 2026.
+DJ Masda is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 243 gigs on soundcheck across Amsterdam, Bali, Bangkok and Bangladesh and 65 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Mipama ES SU Casa 宮古島, Okinawa on Sat 28 Nov.
+DJ Masda is a techno and house artist based in Japan, with 243 gigs on soundcheck across Amsterdam, Bali, Bangkok and Bangladesh and 65 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Mipama ES SU Casa 宮古島 | Okinawa |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 11 Dec 2026 | Club Metro | Kyoto |
 | Sat, 12 Dec 2026 | WOMB | Tokyo |
@@ -20,6 +19,7 @@ DJ Masda is a techno and house artist based in Japan, with 243 gigs on soundchec
 | Fri, 29 Jan 2027 | Mermaid Beach Resort | Bangladesh |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
 | Fri, 4 Jun 2027 | Umoya | Naples |
+| Thu, 10 Jun 2027 | Carreglwyd Estate | West-wales |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ DJ Masda is a techno and house artist based in Japan, with 243 gigs on soundchec
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

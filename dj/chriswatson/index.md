@@ -1,18 +1,18 @@
 # Chris Watson
 
-Chris Watson is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministry Of Sound, London on Fri, 27 Nov 2026.
+Chris Watson is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
 
-Chris Watson is an experimental and house artist based in United Kingdom, with 12 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Abul Mogard, Eomac and Grand River. Next up: Ministry Of Sound, London on Fri 27 Nov.
+Chris Watson is an experimental and house artist based in United Kingdom, with 12 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Abul Mogard, Eomac and Grand River. Next up: Ministry Of Sound, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ministry Of Sound | London |
 | Sat, 28 Nov 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
+- Ministry Of Sound, London · Fri, 27 Nov 2026
 - Ibiza Rocks Hotel, Ibiza · Sun, 26 Apr 2026
 - The Roundhouse, London · Sat, 7 Feb 2026
 - E1, London · Sat, 29 Nov 2025
@@ -20,10 +20,9 @@ Chris Watson is an experimental and house artist based in United Kingdom, with 1
 - Fira Barcelona, Barcelona · Thu, 12 Jun 2025
 - Egg London, London · Sat, 5 Apr 2025
 - Lincoln Center, New York City · Thu, 14 Nov 2024
-- Maison de la Radio, Paris · Fri, 1 Nov 2024
 
 ## Shares bills with
 
 Abul Mogard, Eomac, Grand River
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswatson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswatson/)*

@@ -1,6 +1,6 @@
 # SP1N
 
-SP1N is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Funke, Ghent on Thu, 3 Dec 2026.
+SP1N is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Funke, Ghent on Thu, 3 Dec 2026.
 
 SP1N is a bass and techno artist based in Belgium, with 8 gigs on soundcheck across Antwerp and Ghent. Often billed alongside PALA10, ARtroniks and Al Wootton. Next up: Funke, Ghent on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ SP1N is a bass and techno artist based in Belgium, with 8 gigs on soundcheck acr
 
 PALA10, ARtroniks, Al Wootton
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp1n/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sp1n/)*

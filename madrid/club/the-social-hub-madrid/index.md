@@ -1,6 +1,6 @@
 # The Social Hub Madrid
 
-The Social Hub Madrid is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Soundbaths Radio 12" on Sat, 28 Nov 2026.
+The Social Hub Madrid is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Soundbaths Radio 12" on Sat, 28 Nov 2026.
 
 The Social Hub Madrid is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Ellich, JZzz, Misla and SIMOLAPS. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Social Hub Madrid is a music venue in Madrid listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Soundbaths Radio 12 | Ellich, JZzz, Misla, SIMOLAPS |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-social-hub-madrid/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-social-hub-madrid/)*

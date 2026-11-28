@@ -1,6 +1,6 @@
 # BADSISTA
 
-BADSISTA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ephigenia, Sao Paulo on Fri, 11 Dec 2026.
+BADSISTA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ephigenia, Sao Paulo on Fri, 11 Dec 2026.
 
 BADSISTA is a house and techno artist based in Brazil, with 164 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 55 more. Often billed alongside Cashu, Paulete Lindacelva and Ananda (BR). Next up: Ephigenia, Sao Paulo on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ BADSISTA is a house and techno artist based in Brazil, with 164 gigs on soundche
 
 Cashu, Paulete Lindacelva, Ananda (BR)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

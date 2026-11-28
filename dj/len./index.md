@@ -1,6 +1,6 @@
 # LEN.
 
-LEN. is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 18 Dec 2026.
+LEN. is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 18 Dec 2026.
 
 LEN. is a minimal and electro artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 2 more. Often billed alongside Alisdair, JYE. and Aris (Ldn). Next up: NUMBER 90 LONDON, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ LEN. is a minimal and electro artist based in United Kingdom, with 20 gigs on so
 
 Alisdair, JYE., Aris (Ldn)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*

@@ -1,6 +1,6 @@
 # Karine
 
-Karine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+Karine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 Karine is a house and techno artist based in Ukraine, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 34 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -15,6 +15,7 @@ Karine is a house and techno artist based in Ukraine, with 115 gigs on soundchec
 
 ## Recently played
 
+- UMI, Brussels · Fri, 27 Nov 2026
 - Tresor / Globus, Berlin · Sat, 21 Nov 2026
 - Nido Marseille, Marseille · Tue, 10 Nov 2026
 - Signal, New York City · Fri, 30 Oct 2026
@@ -22,10 +23,9 @@ Karine is a house and techno artist based in Ukraine, with 115 gigs on soundchec
 - Wesola Immersive, Krakow · Fri, 2 Oct 2026
 - Hoppetosse, Berlin · Fri, 4 Sept 2026
 - Club der Visionaere, Berlin · Sun, 16 Aug 2026
-- gART.n, Berlin · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Shakolin, Noizar, Timur Basha
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*

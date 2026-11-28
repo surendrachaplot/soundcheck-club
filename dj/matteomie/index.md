@@ -1,6 +1,6 @@
 # Matteomie
 
-Matteomie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
+Matteomie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
 
 Matteomie is a house and deep house artist based in Austria, with 15 gigs on soundcheck across Barcelona, London and Vienna. Often billed alongside Christopher Commander, KASI and Marcel BS. Next up: SASS Music Club, Vienna on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Matteomie is a house and deep house artist based in Austria, with 15 gigs on sou
 
 Christopher Commander, KASI, Marcel BS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomie/)*

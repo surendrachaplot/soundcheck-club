@@ -1,6 +1,6 @@
 # Clandestine
 
-Clandestine is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 12 Dec 2026.
+Clandestine is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 12 Dec 2026.
 
 Clandestine is an electronic artist based in Argentina, with 5 gigs on soundcheck across Barcelona. Often billed alongside INEXXSTABLE, Yosef (ES) and Amaliah. Next up: Razzmatazz, Barcelona on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Clandestine is an electronic artist based in Argentina, with 5 gigs on soundchec
 
 INEXXSTABLE, Yosef (ES), Amaliah
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clandestine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clandestine/)*

@@ -1,6 +1,6 @@
 # VAIBS
 
-VAIBS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mdlr, Singapore on Fri, 4 Dec 2026.
+VAIBS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mdlr, Singapore on Fri, 4 Dec 2026.
 
 VAIBS is a techno and house artist based in Singapore, with 98 gigs on soundcheck across Bali, Bangkok, Hanoi and Kuala Lumpur and 2 more. Often billed alongside DEZ (SG), sho&tell and 3MZY. Next up: Mdlr, Singapore on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ VAIBS is a techno and house artist based in Singapore, with 98 gigs on soundchec
 
 DEZ (SG), sho&tell, 3MZY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*

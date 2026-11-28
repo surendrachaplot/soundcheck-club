@@ -1,6 +1,6 @@
 # Lead Ore
 
-Lead Ore is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
+Lead Ore is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
 
 Lead Ore is a trance and techno artist based in Denmark, with 17 gigs on soundcheck across Copenhagen. Often billed alongside CF682, Alexander Santana and DJ Spice. Next up: Baggen, Copenhagen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lead Ore is a trance and techno artist based in Denmark, with 17 gigs on soundch
 
 CF682, Alexander Santana, DJ Spice
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leadore/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leadore/)*

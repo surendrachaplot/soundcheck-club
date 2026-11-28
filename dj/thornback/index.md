@@ -1,6 +1,6 @@
 # Thornback
 
-Thornback is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Safari Lounge, Edinburgh on Fri, 18 Dec 2026.
+Thornback is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Safari Lounge, Edinburgh on Fri, 18 Dec 2026.
 
 Thornback is a techno and acid artist based in United Kingdom, with 6 gigs on soundcheck across Edinburgh. Often billed alongside Neil Templar, Keyte and WolfJazz. Next up: The Safari Lounge, Edinburgh on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Thornback is a techno and acid artist based in United Kingdom, with 6 gigs on so
 
 Neil Templar, Keyte, WolfJazz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thornback/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thornback/)*

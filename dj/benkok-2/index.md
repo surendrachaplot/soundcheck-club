@@ -1,6 +1,6 @@
 # Ben Kok (2)
 
-Ben Kok (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bongo Club, Edinburgh on Wed, 20 Jan 2027.
+Ben Kok (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Bongo Club, Edinburgh on Wed, 20 Jan 2027.
 
 Ben Kok is a house and disco artist based in South Africa, with 18 gigs on soundcheck across Edinburgh. Often billed alongside Pheebs, Suggy and Trucha. Next up: The Bongo Club, Edinburgh on Wed 20 Jan.
 
@@ -25,4 +25,4 @@ Ben Kok is a house and disco artist based in South Africa, with 18 gigs on sound
 
 Pheebs, Suggy, Trucha
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*

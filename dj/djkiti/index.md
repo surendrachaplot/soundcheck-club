@@ -1,6 +1,6 @@
 # DJ Kiti
 
-DJ Kiti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 4 Dec 2026.
+DJ Kiti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 4 Dec 2026.
 
 DJ Kiti is a techno and house artist, with 109 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Collingwood Basement, Melbourne on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ DJ Kiti is a techno and house artist, with 109 gigs on soundcheck across Adelaid
 
 Mike Callander, Acid Safari, Chiara Kickdrum
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkiti/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkiti/)*

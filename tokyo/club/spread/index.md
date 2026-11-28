@@ -1,6 +1,6 @@
 # Spread
 
-Spread is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Search and Destroy 'Endless Wartime'" on Sat, 5 Dec 2026.
+Spread is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Search and Destroy 'Endless Wartime'" on Sat, 5 Dec 2026.
 
 Spread is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including ashu, egomania, KYLE MIKASA and melZENA and 1 more. See dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -15,4 +15,4 @@ Spread is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with lin
 
 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*

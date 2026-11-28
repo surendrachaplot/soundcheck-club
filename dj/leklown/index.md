@@ -1,6 +1,6 @@
 # LE KLOWN
 
-LE KLOWN is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Subwerk Club, Bangkok on Sat, 28 Nov 2026.
+LE KLOWN is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Subwerk Club, Bangkok on Sat, 28 Nov 2026.
 
 LE KLOWN is a techno and hardcore artist based in France, with 32 gigs on soundcheck across Bangkok, Barcelona, Beijing and Bordeaux and 12 more. Often billed alongside KARELBLADE, DUNA ËDEN and Drivr. Next up: Subwerk Club, Bangkok on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ LE KLOWN is a techno and hardcore artist based in France, with 32 gigs on soundc
 
 KARELBLADE, DUNA ËDEN, Drivr
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leklown/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leklown/)*

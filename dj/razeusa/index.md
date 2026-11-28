@@ -1,6 +1,6 @@
 # RAZE (USA)
 
-RAZE (USA) is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Sat, 27 Mar 2027.
+RAZE (USA) is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at fabric, London on Sat, 27 Mar 2027.
 
 RAZE (USA) is a balearic and house artist based in United States of America, with 9 gigs on soundcheck across Bristol, Edinburgh, Frankfurt and London. Often billed alongside Mark XTC, Joey G and Niki Dimensions. Next up: fabric, London on Sat 27 Mar.
 
@@ -25,4 +25,4 @@ RAZE (USA) is a balearic and house artist based in United States of America, wit
 
 Mark XTC, Joey G, Niki Dimensions
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razeusa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/razeusa/)*

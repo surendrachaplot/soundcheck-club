@@ -1,6 +1,6 @@
 # Tender
 
-Tender is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Tender 2nd Birthday ~ Ex Ponto + Synergy Trilogy + Uberwench" on Sat, 28 Nov 2026.
+Tender is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Tender 2nd Birthday ~ Ex Ponto + Synergy Trilogy + Uberwench" on Sat, 28 Nov 2026.
 
 Tender is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Art (AU), Lawrence and Rev Lon. See dates, start times and who's playing. 535 Sydney Road.
 
@@ -16,4 +16,4 @@ Tender is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with
 
 535 Sydney Road, Melbourne
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*

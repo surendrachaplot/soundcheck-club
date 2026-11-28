@@ -1,6 +1,6 @@
 # Aron Friedman
 
-Aron Friedman is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Benelux BAR, Amsterdam on Sun, 6 Dec 2026.
+Aron Friedman is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Benelux BAR, Amsterdam on Sun, 6 Dec 2026.
 
 Aron Friedman is a tech house and techno artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Berlin and Netherlands. Often billed alongside Galen, Amandla and RAAF. Next up: Benelux BAR, Amsterdam on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Aron Friedman is a tech house and techno artist based in Netherlands, with 30 gi
 
 Galen, Amandla, RAAF
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aronfriedman/)*

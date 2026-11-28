@@ -1,6 +1,6 @@
 # Warlord®
 
-Warlord® is a Club and R&B artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
+Warlord® is a Club and R&B artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Warlord® is a club and r&b artist based in Germany, with 28 gigs on soundcheck across Berlin, Prague and Tbilisi. Often billed alongside bod [包家巷], PAX and Locre. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Warlord® is a club and r&b artist based in Germany, with 28 gigs on soundcheck 
 
 bod [包家巷], PAX (2), Locre
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*

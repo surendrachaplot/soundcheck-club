@@ -1,6 +1,6 @@
 # Roy Lodder
 
-Roy Lodder is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at LOU, Rotterdam on Fri, 18 Dec 2026.
+Roy Lodder is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at LOU, Rotterdam on Fri, 18 Dec 2026.
 
 Roy Lodder is a house and techno artist based in Netherlands, with 13 gigs on soundcheck across Brussels, Rotterdam and The Hague. Often billed alongside Atnan, PIKE and Bouk Liúw. Next up: LOU, Rotterdam on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Roy Lodder is a house and techno artist based in Netherlands, with 13 gigs on so
 
 Atnan, PIKE, Bouk Liúw
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roylodder/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roylodder/)*

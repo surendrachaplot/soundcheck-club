@@ -1,19 +1,19 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 27 Nov 2026.
+Sam Ruffillo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Prysm Nightclub, Chicago on Sat, 5 Dec 2026.
 
-Sam Ruffillo is a house and disco artist based in Italy, with 129 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 41 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Frankhan Selectist, Istanbul on Fri 27 Nov.
+Sam Ruffillo is a house and disco artist based in Italy, with 129 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 41 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Prysm Nightclub, Chicago on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 5 Dec 2026 | Prysm Nightclub | Chicago |
 | Thu, 10 Dec 2026 | Good Room | New York City |
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul · Fri, 27 Nov 2026
 - Country Discoclub, Sicily · Sat, 14 Nov 2026
 - Studionotte, Milan · Fri, 13 Nov 2026
 - Pacific Amsterdam, Amsterdam · Sat, 24 Oct 2026
@@ -21,10 +21,9 @@ Sam Ruffillo is a house and disco artist based in Italy, with 129 gigs on soundc
 - KABUL à GoGo, Utrecht · Fri, 9 Oct 2026
 - Amber's, Manchester · Sat, 3 Oct 2026
 - La Paloma, Barcelona · Fri, 2 Oct 2026
-- Palais Mascotte, Zurich · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

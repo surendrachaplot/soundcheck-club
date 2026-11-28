@@ -1,6 +1,6 @@
 # DJ Oliver
 
-DJ Oliver is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
+DJ Oliver is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
 
 DJ Oliver is a house and reggaeton artist based in Spain, with 70 gigs on soundcheck across Barcelona, Ibiza, Madrid and New York City and 1 more. Often billed alongside Alvaro Smart, Paco Osuna and Andres Campo. Next up: Fabrik, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ DJ Oliver is a house and reggaeton artist based in Spain, with 70 gigs on soundc
 
 Alvaro Smart, Paco Osuna, Andres Campo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoliver/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoliver/)*

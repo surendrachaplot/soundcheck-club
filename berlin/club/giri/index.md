@@ -1,18 +1,17 @@
 # Giri
 
-Giri is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Giri x kudur - Rock Bar" on Fri, 27 Nov 2026.
+Giri is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is " Gir invites No Future" on Fri, 4 Dec 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Giri x kudur - Rock Bar |  |
 | Fri, 4 Dec 2026 |  Gir invites No Future |  |
 
 ## Address
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

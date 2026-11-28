@@ -1,6 +1,6 @@
 # Miss Dominguez
 
-Miss Dominguez is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 20 Feb 2027.
+Miss Dominguez is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 20 Feb 2027.
 
 Miss Dominguez is a progressive house and techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam. Often billed alongside Cris-H, W&DY and Weird Sounding Dude. Next up: Veronica Schip, Amsterdam on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Miss Dominguez is a progressive house and techno artist based in Netherlands, wi
 
 Cris-H, W&DY, Weird Sounding Dude
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missdominguez/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missdominguez/)*

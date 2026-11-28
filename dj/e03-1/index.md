@@ -1,6 +1,6 @@
 # e03 (1)
 
-e03 (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Chausseestrasse 131, Berlin on Sun, 20 Dec 2026.
+e03 (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Chausseestrasse 131, Berlin on Sun, 20 Dec 2026.
 
 e03 is an experimental and club artist, with 12 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Warlord®, bod [包家巷] and Oleg Deluxe. Next up: Chausseestrasse 131, Berlin on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ e03 is an experimental and club artist, with 12 gigs on soundcheck across Berlin
 
 Warlord®, bod [包家巷], Oleg Deluxe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*

@@ -1,6 +1,6 @@
 # Sagrivox
 
-Sagrivox is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Sagrivox is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
 
 Sagrivox is a drum & bass and techno artist based in Germany, with 38 gigs on soundcheck across Berlin. Often billed alongside Upzet, Ed Shepherd and edgarwilles. Next up: Void Club, Berlin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Sagrivox is a drum & bass and techno artist based in Germany, with 38 gigs on so
 
 Upzet, Ed Shepherd, edgarwilles
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sagrivox/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sagrivox/)*

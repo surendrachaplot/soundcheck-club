@@ -1,6 +1,6 @@
 # Pris V
 
-Pris V is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 5 Dec 2026.
+Pris V is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 5 Dec 2026.
 
 Pris V is an ebm and new wave artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Tau Ceti, Inmoralia and Testbild. Next up: Acud Macht NEU, Berlin on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Pris V is an ebm and new wave artist based in Germany, with 7 gigs on soundcheck
 
 Tau Ceti, Inmoralia, Testbild
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prisv/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prisv/)*

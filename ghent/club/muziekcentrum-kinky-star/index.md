@@ -1,6 +1,6 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Roots Reggae Club Night w/ Fishermen Sound & Jipla Sound" on Wed, 2 Dec 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Roots Reggae Club Night w/ Fishermen Sound & Jipla Sound" on Wed, 2 Dec 2026.
 
 Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 9 upcoming gigs, with line-ups including Acicular, Bona Fide, Cierk du Nuit and Mathlovsky. See dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
@@ -22,4 +22,4 @@ Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 9 upcom
 
 Vlasmarkt 9, 9000 Gent, Ghent
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*

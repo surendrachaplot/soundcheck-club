@@ -1,6 +1,6 @@
 # Mimi Xu
 
-Mimi Xu is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Burger Disco Club, Athens on Sun, 29 Nov 2026.
+Mimi Xu is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Burger Disco Club, Athens on Sun, 29 Nov 2026.
 
 Mimi Xu is a disco and techno artist based in France, with 6 gigs on soundcheck across Athens and London. Often billed alongside Awkward Moments, Hannah Holland and Beatfoot. Next up: Burger Disco Club, Athens on Sun 29 Nov.
 
@@ -22,4 +22,4 @@ Mimi Xu is a disco and techno artist based in France, with 6 gigs on soundcheck 
 
 Awkward Moments, Hannah Holland, Beatfoot
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixu/)*

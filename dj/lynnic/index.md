@@ -1,6 +1,6 @@
 # Lynnic
 
-Lynnic is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ponyhof, Frankfurt on Mon, 30 Nov 2026.
+Lynnic is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ponyhof, Frankfurt on Mon, 30 Nov 2026.
 
 Lynnic is a deep house and house artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Palma Palma and ARIUS X. Next up: Ponyhof, Frankfurt on Mon 30 Nov.
 
@@ -30,4 +30,4 @@ Lynnic is a deep house and house artist based in Germany, with 14 gigs on soundc
 
 Palma Palma, ARIUS X
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynnic/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lynnic/)*

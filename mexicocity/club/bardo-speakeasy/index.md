@@ -1,15 +1,14 @@
 # Bardo Speakeasy
 
-Bardo Speakeasy is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Nuestra Semana Noviembre" on Thu, 26 Nov 2026.
+Bardo Speakeasy is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Nuestra Semana Noviembre" on Thu, 26 Nov 2026.
 
-Bardo Speakeasy is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including AMANN, Andrreas, Andy Moya and Celice Monnette and 2 more. See dates, start times and who's playing. Av Nuevo León 225-piso 2, Hipódromo Condesa, Cuauhtémoc,, Mexico City, Mexico 06100.
+Bardo Speakeasy is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including AMANN, Andrreas, Andy Moya and Celice Monnette and 2 more. See dates, start times and who's playing. Av Nuevo León 225-piso 2, Hipódromo Condesa, Cuauhtémoc,, Mexico City, Mexico 06100.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Nuestra Semana Noviembre | Andrreas, Gerardo Portilla, Leonidas, TRIVEAT |
-| Fri, 27 Nov 2026 | NOCTURA 005 |  |
 | Sat, 28 Nov 2026 | Frecuencia Zero X Bardo Speakeasy | Andrreas, TRIVEAT |
 | Fri, 4 Dec 2026 | Norman H | Norman H |
 | Sat, 5 Dec 2026 | Norman H. | Andy Moya, Norman H |
@@ -21,4 +20,4 @@ Bardo Speakeasy is a music venue in Mexico City listed on soundcheck. 8 upcoming
 
 Av Nuevo León 225-piso 2, Hipódromo Condesa, Cuauhtémoc,, Mexico City, Mexico 06100, Mexico City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bardo-speakeasy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bardo-speakeasy/)*

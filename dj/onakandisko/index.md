@@ -1,20 +1,20 @@
 # Onakan Disko
 
-Onakan Disko is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Discobar, Paris on Fri, 27 Nov 2026.
+Onakan Disko is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Colbo Next Door, New York City on Fri, 4 Dec 2026.
 
-Onakan Disko is a disco and house artist based in Japan, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside TonyDeepDisco, James Park. and Bizzarro Universe. Next up: Le Discobar, Paris on Fri 27 Nov.
+Onakan Disko is a disco and house artist based in Japan, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside TonyDeepDisco, James Park. and Bizzarro Universe. Next up: Colbo Next Door, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Le Discobar | Paris |
 | Fri, 4 Dec 2026 | Colbo Next Door | New York City |
 | Sat, 23 Jan 2027 | Eavesdrop | New York City |
 | Thu, 18 Feb 2027 | Mr. Melo | New-york-state |
 
 ## Recently played
 
+- Le Discobar, Paris · Fri, 27 Nov 2026
 - L'altitude, Brussels · Sat, 21 Nov 2026
 - Vice Versa, Paris · Fri, 20 Nov 2026
 - MAD Radio NYC, New York City · Fri, 30 Oct 2026
@@ -22,10 +22,9 @@ Onakan Disko is a disco and house artist based in Japan, with 44 gigs on soundch
 - UTOPIA / DYSTOPIA, Tokyo · Tue, 12 May 2026
 - Wolf Milano, Milan · Fri, 20 Mar 2026
 - SAN Milano, Milan · Fri, 20 Mar 2026
-- Feat.Barona, Milan · Wed, 18 Mar 2026
 
 ## Shares bills with
 
 TonyDeepDisco, James Park., Bizzarro Universe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onakandisko/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onakandisko/)*

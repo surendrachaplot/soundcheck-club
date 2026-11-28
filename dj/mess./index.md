@@ -1,6 +1,6 @@
 # mess.
 
-mess. is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
+mess. is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
 
 mess. is a techno and experimental artist, with 15 gigs on soundcheck across Beijing, Hanoi, Ho Chi Minh City and Milan and 2 more. Often billed alongside Nodey, nyjah and Anh Phi. Next up: Rever Mixology & Lounge, Ho Chi Minh City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ mess. is a techno and experimental artist, with 15 gigs on soundcheck across Bei
 
 Nodey, nyjah, Anh Phi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mess./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mess./)*

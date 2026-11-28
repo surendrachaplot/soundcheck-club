@@ -1,14 +1,13 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and Electro artist with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Helena Hauff is a Techno and Electro artist with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
 
-Helena Hauff is a techno and electro artist based in Germany, with 250 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside DVS1, Ben UFO and Job Jobse. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Helena Hauff is a techno and electro artist based in Germany, with 250 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside DVS1, Ben UFO and Job Jobse. Next up: Subdeck, Bratislava on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 5 Dec 2026 | Subdeck | Bratislava |
 | Sat, 12 Dec 2026 | Peti Kupe | Zagreb |
 | Sun, 13 Dec 2026 | Hoppetosse | Berlin |
@@ -20,9 +19,11 @@ Helena Hauff is a techno and electro artist based in Germany, with 250 gigs on s
 | Fri, 5 Feb 2027 | Mesones 72 | Mexico City |
 | Fri, 9 Apr 2027 | Mercado Livre Arena Pacaembu | Sao-paulo |
 | Fri, 4 Jun 2027 | Clydeside Live | Glasgow |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- Ace*Mission, Los Angeles · Fri, 27 Nov 2026
 - Jolene Downtown Miami, Miami · Wed, 25 Nov 2026
 - Nowadays, New York City · Sat, 21 Nov 2026
 - Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
@@ -30,10 +31,9 @@ Helena Hauff is a techno and electro artist based in Germany, with 250 gigs on s
 - Jolene Downtown Miami, Miami · Fri, 13 Nov 2026
 - Fira Barcelona, Barcelona · Fri, 6 Nov 2026
 - Depot Mayfield, Manchester · Fri, 30 Oct 2026
-- Skatecafe, Amsterdam · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 DVS1, Ben UFO, Job Jobse
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

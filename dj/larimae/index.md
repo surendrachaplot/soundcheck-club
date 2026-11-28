@@ -1,6 +1,6 @@
 # Larimae
 
-Larimae is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Larimae is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Larimae is an electronica and house artist based in United Kingdom, with 8 gigs on soundcheck across London and Manchester. Often billed alongside Anish Kumar, Ben UFO and Four Tet. Next up: The Cause, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Larimae is an electronica and house artist based in United Kingdom, with 8 gigs 
 
 Anish Kumar, Ben UFO, Four Tet
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larimae/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larimae/)*

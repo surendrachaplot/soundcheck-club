@@ -1,6 +1,6 @@
 # Marco Simioni
 
-Marco Simioni is a IDM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Aaja Basement, London on Sun, 29 Nov 2026.
+Marco Simioni is a IDM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Aaja Basement, London on Sun, 29 Nov 2026.
 
 Marco Simioni is an idm and techno artist based in Italy, with 5 gigs on soundcheck across London. Often billed alongside metrologic, Ac1d Vicious and Deep Practice. Next up: Aaja Basement, London on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ Marco Simioni is an idm and techno artist based in Italy, with 5 gigs on soundch
 
 metrologic, Ac1d Vicious, Deep Practice
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosimioni/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosimioni/)*

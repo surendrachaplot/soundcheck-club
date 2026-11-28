@@ -1,6 +1,6 @@
 # Alexander Koning
 
-Alexander Koning is a Acid and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TRAUM, Antwerp on Sat, 5 Dec 2026.
+Alexander Koning is a Acid and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TRAUM, Antwerp on Sat, 5 Dec 2026.
 
 Alexander Koning is an acid and house artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Ghent and 3 more. Often billed alongside Erick E, Lucien Foort and Remy Unger. Next up: TRAUM, Antwerp on Sat 5 Dec.
 
@@ -33,4 +33,4 @@ Alexander Koning is an acid and house artist based in Netherlands, with 70 gigs 
 
 Erick E, Lucien Foort, Remy Unger
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkoning/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkoning/)*

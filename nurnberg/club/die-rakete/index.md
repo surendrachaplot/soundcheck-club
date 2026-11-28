@@ -1,14 +1,13 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "VITAMIND pres. HOUSE OF HOUSE" on Fri, 27 Nov 2026.
+Die Rakete is a music venue in Nürnberg with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Elektrisch Torsten Kanzler" on Sat, 28 Nov 2026.
 
-Die Rakete is a music venue in Nürnberg listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Foxy, Alex Benz, Anna Reusch and Bernhard Groeger and 2 more. See dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
+Die Rakete is a music venue in Nürnberg listed on soundcheck. 8 upcoming gigs, with line-ups including Acid Foxy, Alex Benz, Anna Reusch and Bernhard Groeger and 2 more. See dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | VITAMIND pres. HOUSE OF HOUSE | Zweistein |
 | Sat, 28 Nov 2026 | Elektrisch Torsten Kanzler | Bernhard Groeger, MILAN MILANO, Torsten Kanzler |
 | Sat, 5 Dec 2026 | Feierstarter |  |
 | Sat, 5 Dec 2026 | Nasty Juliet Sikora |  |
@@ -22,4 +21,4 @@ Die Rakete is a music venue in Nürnberg listed on soundcheck. 9 upcoming gigs, 
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

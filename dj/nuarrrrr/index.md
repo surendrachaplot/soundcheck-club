@@ -1,6 +1,6 @@
 # nuarrrrr
 
-nuarrrrr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
+nuarrrrr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 119, Berlin on Sat, 5 Dec 2026.
 
 nuarrrrr is a house and techno artist based in Ukraine, with 129 gigs on soundcheck across Berlin, Brussels, Krakow and Poznan and 2 more. Often billed alongside Nadezh No, Sava and Aslamin. Next up: 119, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ nuarrrrr is a house and techno artist based in Ukraine, with 129 gigs on soundch
 
 Nadezh No, Sava (3), Aslamin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuarrrrr/)*

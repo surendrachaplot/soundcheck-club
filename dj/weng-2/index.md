@@ -1,6 +1,6 @@
 # WENG (2)
 
-WENG (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Tenjin Bar, Toronto on Sat, 5 Dec 2026.
+WENG (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tenjin Bar, Toronto on Sat, 5 Dec 2026.
 
 WENG is a techno and bass artist based in Canada, with 5 gigs on soundcheck across Montreal and Toronto. Often billed alongside A_C_E., Axel Esphinoza and Doruksen. Next up: Tenjin Bar, Toronto on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ WENG is a techno and bass artist based in Canada, with 5 gigs on soundcheck acro
 
 A_C_E., Axel Esphinoza, Doruksen
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weng-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weng-2/)*

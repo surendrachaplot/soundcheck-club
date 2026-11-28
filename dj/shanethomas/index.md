@@ -1,14 +1,15 @@
 # Shane Thomas
 
-Shane Thomas is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at District 7, Los Angeles on Fri, 11 Dec 2026.
+Shane Thomas is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at District 7, Los Angeles on Fri, 11 Dec 2026.
 
-Shane Thomas is a techno and club artist based in United States of America, with 89 gigs on soundcheck across Los Angeles, New York City, San Francisco/Oakland and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: District 7, Los Angeles on Fri 11 Dec.
+Shane Thomas is a techno and club artist based in United States of America, with 90 gigs on soundcheck across Los Angeles, New York City, San Francisco/Oakland and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: District 7, Los Angeles on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | District 7 | Los Angeles |
+| Fri, 11 Dec 2026 | TBA - Silverlake | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shane Thomas is a techno and club artist based in United States of America, with
 
 Rob Aquino, Banoffee, Miracles
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*

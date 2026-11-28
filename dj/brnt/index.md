@@ -1,6 +1,6 @@
 # BRNT
 
-BRNT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+BRNT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
 BRNT is a techno and trance artist based in Canada, with 9 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Fizch, Behrad Tehrani and DK PAU. Next up: TBA, Vancouver on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ BRNT is a techno and trance artist based in Canada, with 9 gigs on soundcheck ac
 
 Fizch, Behrad Tehrani, DK PAU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brnt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brnt/)*

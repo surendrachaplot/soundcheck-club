@@ -1,6 +1,6 @@
 # Millica
 
-Millica is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Egg London, London on Fri, 18 Dec 2026.
+Millica is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Fri, 18 Dec 2026.
 
 Millica is a tech house and house artist, with 26 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Ibiza and 3 more. Often billed alongside Paco Osuna, Marco Carola and Miguelle. Next up: Egg London, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Millica is a tech house and house artist, with 26 gigs on soundcheck across Amst
 
 Paco Osuna, Marco Carola, Miguelle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millica/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millica/)*

@@ -1,6 +1,6 @@
 # The Taste
 
-The Taste is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Azimut Club, Turin on Sat, 28 Nov 2026.
+The Taste is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Azimut Club, Turin on Sat, 28 Nov 2026.
 
 The Taste is a house and techno artist based in Italy, with 31 gigs on soundcheck across Rome and Turin. Often billed alongside Riverside (IT), Dystopia and Maceo Plex. Next up: Azimut Club, Turin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ The Taste is a house and techno artist based in Italy, with 31 gigs on soundchec
 
 Riverside (IT), Dystopia, Maceo Plex
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaste/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaste/)*

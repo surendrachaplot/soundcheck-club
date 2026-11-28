@@ -1,6 +1,6 @@
 # KATANA (2)
 
-KATANA (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at NT's Loft, London on Fri, 1 Jan 2027.
+KATANA (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at NT's Loft, London on Fri, 1 Jan 2027.
 
 KATANA is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Auckland, London, Mexico City and Münster. Often billed alongside Glade Marie, CARISTA and FS Green. Next up: NT's Loft, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ KATANA is a house and techno artist based in United Kingdom, with 21 gigs on sou
 
 Glade Marie, CARISTA, FS Green
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katana-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katana-2/)*

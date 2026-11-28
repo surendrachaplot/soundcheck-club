@@ -1,6 +1,6 @@
 # KVGE
 
-KVGE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 4 Dec 2026.
+KVGE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 4 Dec 2026.
 
 KVGE is a techno and trance artist based in Canada, with 3 gigs on soundcheck across Toronto. Often billed alongside Jerome Robins, Theta State and Asli. Next up: The Comfort Zone, Toronto on Fri 4 Dec.
 
@@ -16,4 +16,4 @@ KVGE is a techno and trance artist based in Canada, with 3 gigs on soundcheck ac
 
 Jerome Robins, Theta State, Asli
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvge/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kvge/)*

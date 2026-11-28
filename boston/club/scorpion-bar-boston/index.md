@@ -1,6 +1,6 @@
 # Scorpion Bar Boston
 
-Scorpion Bar Boston is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "New Year's Eve 2027 at Scorpion Boston feat. Carlucci" on Thu, 31 Dec 2026.
+Scorpion Bar Boston is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "New Year's Eve 2027 at Scorpion Boston feat. Carlucci" on Thu, 31 Dec 2026.
 
 Scorpion Bar Boston is a music venue in Boston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 58 Seaport Blvd #200, Boston MA.
 
@@ -14,4 +14,4 @@ Scorpion Bar Boston is a music venue in Boston listed on soundcheck. 1 upcoming 
 
 58 Seaport Blvd #200, Boston MA, Boston
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/scorpion-bar-boston/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/scorpion-bar-boston/)*

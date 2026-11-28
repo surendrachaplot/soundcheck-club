@@ -1,6 +1,6 @@
 # Ben Green
 
-Ben Green is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Insomnia, Berlin on Fri, 11 Dec 2026.
+Ben Green is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Insomnia, Berlin on Fri, 11 Dec 2026.
 
 Ben Green is a techno and tech house artist based in Germany, with 44 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Boudi Boudin, Max Muth and Upzet. Next up: Insomnia, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ben Green is a techno and tech house artist based in Germany, with 44 gigs on so
 
 Boudi Boudin, Max Muth, Upzet
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengreen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bengreen/)*

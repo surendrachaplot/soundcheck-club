@@ -14,7 +14,7 @@ Boxing Day Warehouse Takeover: Charlie Shell + Sulphur [UK] + THC [DE] at Second
 - Charlie Shell
 - DJ Jessy
 - DJ Optimism
-- dozie (uk)
+- dozie
 - Sulphur
 - THC
 

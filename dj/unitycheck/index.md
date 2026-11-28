@@ -1,6 +1,6 @@
 # UNITYCHECK
 
-UNITYCHECK is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Los Angeles on Sat, 5 Dec 2026.
+UNITYCHECK is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Los Angeles on Sat, 5 Dec 2026.
 
 UNITYCHECK is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Los Angeles. Often billed alongside Mr. Fowler, Mr Anderson and Jarren. Next up: TBA, Los Angeles on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ UNITYCHECK is a house and deep house artist based in United States of America, w
 
 Mr. Fowler, Mr Anderson, Jarren
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unitycheck/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unitycheck/)*

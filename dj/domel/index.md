@@ -1,6 +1,6 @@
 # DOMEL
 
-DOMEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at underiolo, Warsaw on Sat, 5 Dec 2026.
+DOMEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at underiolo, Warsaw on Sat, 5 Dec 2026.
 
 DOMEL is a techno and house artist based in Poland, with 28 gigs on soundcheck across Krakow and Warsaw. Often billed alongside toutestmagnifique, Abrew and dj.zamocno. Next up: underiolo, Warsaw on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DOMEL is a techno and house artist based in Poland, with 28 gigs on soundcheck a
 
 toutestmagnifique, Abrew, dj.zamocno
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domel/)*

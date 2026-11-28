@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+NewTone is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 NewTone is a house and trance artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 15 more. Often billed alongside Boris Coelman, TINS and DART. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -17,6 +17,7 @@ NewTone is a house and trance artist based in Netherlands, with 114 gigs on soun
 
 ## Recently played
 
+- Lardner Park, Melbourne · Fri, 27 Nov 2026
 - Thuishaven, Amsterdam · Sun, 22 Nov 2026
 - De Helling, Utrecht · Sat, 14 Nov 2026
 - Maassilo, Rotterdam · Sat, 31 Oct 2026
@@ -24,10 +25,9 @@ NewTone is a house and trance artist based in Netherlands, with 114 gigs on soun
 - Pllek, Amsterdam · Sat, 24 Oct 2026
 - Thuishaven, Amsterdam · Fri, 23 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Thu, 22 Oct 2026
-- The Mash House, Edinburgh · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Boris Coelman, TINS, DART
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

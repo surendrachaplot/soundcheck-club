@@ -1,6 +1,6 @@
 # catjes
 
-catjes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery, Leipzig on Sat, 26 Dec 2026.
+catjes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Distillery, Leipzig on Sat, 26 Dec 2026.
 
 catjes is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin, Freiburg and Leipzig. Often billed alongside Templeton, NICI PALM and Lydmate. Next up: Distillery, Leipzig on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ catjes is a techno and house artist based in Germany, with 17 gigs on soundcheck
 
 Templeton, NICI PALM, Lydmate
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catjes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catjes/)*

@@ -1,6 +1,6 @@
 # Davide Del Vecchio
 
-Davide Del Vecchio is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gallery, London on Thu, 10 Dec 2026.
+Davide Del Vecchio is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Gallery, London on Thu, 10 Dec 2026.
 
 Davide Del Vecchio is a disco and deep house artist based in United Kingdom, with 150 gigs on soundcheck across Berlin, Gothenburg, Ibiza and Lisbon and 4 more. Often billed alongside Duappo, ARLYSS and Dan Cluskey. Next up: Gallery, London on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Davide Del Vecchio is a disco and deep house artist based in United Kingdom, wit
 
 Duappo, ARLYSS, Dan Cluskey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*

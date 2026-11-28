@@ -1,6 +1,6 @@
 # Tjade
 
-Tjade is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
+Tjade is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
 
 Tjade is a house and techno artist based in Netherlands, with 134 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 25 more. Often billed alongside Lucky Done Gone, Moody Mehran and Bella Claxton. Next up: Lijm & Cultuur, Netherlands on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Tjade is a house and techno artist based in Netherlands, with 134 gigs on soundc
 
 Lucky Done Gone, Moody Mehran, Bella Claxton
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*

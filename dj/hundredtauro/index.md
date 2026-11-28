@@ -1,6 +1,6 @@
 # Hundred Tauro
 
-Hundred Tauro is a Hardcore and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
+Hundred Tauro is a Hardcore and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
 
 Hundred Tauro is a hardcore and reggaeton artist based in Spain, with 24 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Naive Supreme, Virgen Maria and Alvva. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Hundred Tauro is a hardcore and reggaeton artist based in Spain, with 24 gigs on
 
 Naive Supreme, Virgen Maria, Alvva
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hundredtauro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hundredtauro/)*

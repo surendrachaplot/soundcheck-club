@@ -1,6 +1,6 @@
 # Trinity
 
-Trinity is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Trough X Sydney, New-south-wales on Sat, 28 Nov 2026.
+Trinity is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Trough X Sydney, New-south-wales on Sat, 28 Nov 2026.
 
 Trinity is a techno and drum & bass artist based in Australia, with 40 gigs on soundcheck across Bratislava, Istanbul, London and Mannheim and 3 more. Often billed alongside Magda Bytnerowicz, Sonair and Dave Stuart. Next up: Trough X Sydney, New South Wales on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Trinity is a techno and drum & bass artist based in Australia, with 40 gigs on s
 
 Magda Bytnerowicz, Sonair, Dave Stuart
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trinity/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trinity/)*

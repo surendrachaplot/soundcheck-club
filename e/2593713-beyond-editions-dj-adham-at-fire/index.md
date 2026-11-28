@@ -1,6 +1,6 @@
 # Beyond Editions: DJ Adham at Fire
 
-Beyond Editions: DJ Adham at Fire on Sat 12 Dec, London. 3 artists: Bradley Skeng, Sae1sound and Tom Barcys. Tech House. See the line-up on soundcheck.
+Beyond Editions: DJ Adham at Fire on Sat 12 Dec, London. 2 artists: Sae1sound and Tom Barcys. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Beyond Editions: DJ Adham at Fire on Sat 12 Dec, London. 3 artists: Bradley Sken
 
 ## Line-up
 
-- Bradley Skeng
 - Sae1sound
 - Tom Barcys
 

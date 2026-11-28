@@ -1,6 +1,6 @@
 # Robin FX
 
-Robin FX is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
+Robin FX is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
 
 Robin FX is a house and deep house artist based in Sweden, with 32 gigs on soundcheck across Copenhagen and Gothenburg. Often billed alongside Christoffer Berg, Arkajo and Efraim Kent. Next up: Baggen, Copenhagen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Robin FX is a house and deep house artist based in Sweden, with 32 gigs on sound
 
 Christoffer Berg, Arkajo, Efraim Kent
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinfx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinfx/)*

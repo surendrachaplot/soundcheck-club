@@ -1,19 +1,19 @@
 # Ezekiel
 
-Ezekiel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
+Ezekiel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Magno, Madrid on Fri, 1 Jan 2027.
 
-Ezekiel is a techno and house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Berlin, London and Madrid. Often billed alongside Cristian Marras, Daddy Squad and Steffi. Next up: La Paloma, Barcelona on Fri 27 Nov.
+Ezekiel is a techno and house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Berlin, London and Madrid. Often billed alongside Cristian Marras, Daddy Squad and ADAM MUNNINGS. Next up: Club Magno, Madrid on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | La Paloma | Barcelona |
 | Fri, 1 Jan 2027 | Club Magno | Madrid |
 | Fri, 22 Jan 2027 | KitKatClub | Berlin |
 
 ## Recently played
 
+- La Paloma, Barcelona · Fri, 27 Nov 2026
 - Skin Club, Madrid · Sat, 21 Nov 2026
 - Skin Club, Madrid · Sat, 10 Oct 2026
 - But, Madrid · Sun, 5 Jul 2026
@@ -23,6 +23,6 @@ Ezekiel is a techno and house artist based in Spain, with 9 gigs on soundcheck a
 
 ## Shares bills with
 
-Cristian Marras, Daddy Squad, Steffi
+Cristian Marras, Daddy Squad, ADAM MUNNINGS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekiel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekiel/)*

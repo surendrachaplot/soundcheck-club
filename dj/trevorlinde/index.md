@@ -1,6 +1,6 @@
 # Trevor Linde
 
-Trevor Linde is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Prague on Sat, 28 Nov 2026.
+Trevor Linde is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Prague on Sat, 28 Nov 2026.
 
 Trevor Linde is a techno and dub techno artist based in Czech Republic, with 13 gigs on soundcheck across Osaka and Prague. Often billed alongside Marie Pravda, fleika and Edits. Next up: TBA, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Trevor Linde is a techno and dub techno artist based in Czech Republic, with 13 
 
 Marie Pravda, fleika, Edits
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorlinde/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorlinde/)*

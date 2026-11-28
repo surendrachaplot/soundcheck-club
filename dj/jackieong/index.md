@@ -1,6 +1,6 @@
 # Jackie Ong
 
-Jackie Ong is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at RADION, Amsterdam on Fri, 11 Dec 2026.
+Jackie Ong is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at RADION, Amsterdam on Fri, 11 Dec 2026.
 
 Jackie Ong is a house and techno artist based in Indonesia, with 8 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Benny2, Carlos Valdes and LYLO (NL). Next up: RADION, Amsterdam on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Jackie Ong is a house and techno artist based in Indonesia, with 8 gigs on sound
 
 Benny2, Carlos Valdes, LYLO (NL)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackieong/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackieong/)*

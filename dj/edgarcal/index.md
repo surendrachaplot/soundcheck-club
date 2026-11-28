@@ -1,6 +1,6 @@
 # Edgar Cal
 
-Edgar Cal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+Edgar Cal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
 Edgar Cal is a techno and house artist based in Canada, with 15 gigs on soundcheck across Vancouver. Often billed alongside Fizch, POPU and C-Star. Next up: TBA, Vancouver on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Edgar Cal is a techno and house artist based in Canada, with 15 gigs on soundche
 
 Fizch, POPU, C-Star
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarcal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarcal/)*

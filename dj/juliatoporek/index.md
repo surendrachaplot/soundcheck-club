@@ -1,14 +1,15 @@
 # Julia Toporek
 
-Julia Toporek is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fünk, Mexico City on Sat, 5 Dec 2026.
+Julia Toporek is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fünk, Mexico City on Sat, 5 Dec 2026.
 
-Julia Toporek is a house and techno artist based in Mexico, with 94 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Remille, Valeriana and Alby Esc. Next up: Fünk, Mexico City on Sat 5 Dec.
+Julia Toporek is a house and techno artist based in Mexico, with 95 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Remille, Valeriana and Alby Esc. Next up: Fünk, Mexico City on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Fünk | Mexico City |
+| Fri, 11 Dec 2026 | Japan CDMX | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Julia Toporek is a house and techno artist based in Mexico, with 94 gigs on soun
 
 Remille, Valeriana, Alby Esc
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliatoporek/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliatoporek/)*

@@ -1,6 +1,6 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 11 Dec 2026.
+LAMALICE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 11 Dec 2026.
 
 LAMALICE is a house and electro artist based in France, with 130 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 38 more. Often billed alongside Massaï, Ill Spleen and ABI (FR). Next up: la Maison de la Conversation, Paris on Fri 11 Dec.
 
@@ -29,4 +29,4 @@ LAMALICE is a house and electro artist based in France, with 130 gigs on soundch
 
 Massaï, Ill Spleen, ABI (FR)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*

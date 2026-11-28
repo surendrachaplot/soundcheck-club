@@ -1,6 +1,6 @@
 # Nacho Isa
 
-Nacho Isa is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at H0L0, New York City on Fri, 4 Dec 2026.
+Nacho Isa is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at H0L0, New York City on Fri, 4 Dec 2026.
 
 Nacho Isa is a house and deep house artist based in Spain, with 45 gigs on soundcheck across Berlin, Ibiza, Istanbul and Mexico City and 3 more. Often billed alongside Madmotormiquel, Ksenyeah and Mashrik. Next up: H0L0, New York City on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Nacho Isa is a house and deep house artist based in Spain, with 45 gigs on sound
 
 Madmotormiquel, Ksenyeah, Mashrik
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoisa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoisa/)*

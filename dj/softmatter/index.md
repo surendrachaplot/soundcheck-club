@@ -1,6 +1,6 @@
 # Softmatter
 
-Softmatter is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio 1111, Berlin on Thu, 10 Dec 2026.
+Softmatter is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Studio 1111, Berlin on Thu, 10 Dec 2026.
 
 Softmatter is an experimental and club artist based in Canada, with 31 gigs on soundcheck across Berlin, Ljubljana, London and Prague. Often billed alongside bod [包家巷], PAX and Warlord®. Next up: Studio 1111, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Softmatter is an experimental and club artist based in Canada, with 31 gigs on s
 
 bod [包家巷], PAX (2), Warlord®
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softmatter/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softmatter/)*

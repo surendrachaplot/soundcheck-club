@@ -1,6 +1,6 @@
 # Sophia Nicole
 
-Sophia Nicole is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at M.O.T, London on Thu, 3 Dec 2026.
+Sophia Nicole is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at M.O.T, London on Thu, 3 Dec 2026.
 
 Sophia Nicole is a techno and tech house artist based in United Kingdom, with 37 gigs on soundcheck across London. Often billed alongside LeNil, Thomas Galbardi and 22Cheeky. Next up: M.O.T, London on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Sophia Nicole is a techno and tech house artist based in United Kingdom, with 37
 
 LeNil, Thomas Galbardi, 22Cheeky
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophianicole/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophianicole/)*

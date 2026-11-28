@@ -1,6 +1,6 @@
 # Djaa (PL)
 
-Djaa (PL) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Piękny Pies, Krakow on Fri, 4 Dec 2026.
+Djaa (PL) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Piękny Pies, Krakow on Fri, 4 Dec 2026.
 
 Djaa (PL) is a house and deep house artist based in Ukraine, with 34 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Matt Rudnicki, Bartman and Delumia. Next up: Piękny Pies, Krakow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Djaa (PL) is a house and deep house artist based in Ukraine, with 34 gigs on sou
 
 Matt Rudnicki, Bartman, Delumia
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djaa-pl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djaa-pl/)*

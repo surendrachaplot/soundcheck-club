@@ -1,6 +1,6 @@
 # BrassTooth
 
-BrassTooth is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Brixton Jamm, London on Thu, 3 Dec 2026.
+BrassTooth is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Brixton Jamm, London on Thu, 3 Dec 2026.
 
 BrassTooth is a garage and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Mike ruff cut Lloyd, DJ Listener and Daniel Ward. Next up: Brixton Jamm, London on Thu 3 Dec.
 
@@ -23,4 +23,4 @@ BrassTooth is a garage and house artist based in United Kingdom, with 7 gigs on 
 
 Mike ruff cut Lloyd, DJ Listener, Daniel Ward
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brasstooth/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brasstooth/)*

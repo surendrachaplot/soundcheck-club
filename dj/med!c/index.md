@@ -1,6 +1,6 @@
 # MED!C
 
-MED!C is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 1201 Franklin St, Vancouver on Sat, 5 Dec 2026.
+MED!C is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 1201 Franklin St, Vancouver on Sat, 5 Dec 2026.
 
 MED!C is a techno and industrial artist based in Canada, with 29 gigs on soundcheck across Vancouver. Often billed alongside Fizch, Bÿständer and Behrad Tehrani. Next up: 1201 Franklin St, Vancouver on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ MED!C is a techno and industrial artist based in Canada, with 29 gigs on soundch
 
 Fizch, Bÿständer, Behrad Tehrani
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/med!c/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/med!c/)*

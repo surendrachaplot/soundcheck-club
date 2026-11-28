@@ -1,6 +1,6 @@
 # Aoibhil
 
-Aoibhil is a Baile Funk and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tamson's Bar, Edinburgh on Sat, 12 Dec 2026.
+Aoibhil is a Baile Funk and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tamson's Bar, Edinburgh on Sat, 12 Dec 2026.
 
 Aoibhil is a baile funk and dancehall artist, with 6 gigs on soundcheck across Edinburgh. Often billed alongside JI_2001, PASO and Sweet Philly. Next up: Tamson's Bar, Edinburgh on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Aoibhil is a baile funk and dancehall artist, with 6 gigs on soundcheck across E
 
 JI_2001, PASO, Sweet Philly
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aoibhil/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aoibhil/)*

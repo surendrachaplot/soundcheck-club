@@ -1,6 +1,6 @@
 # Ape Drums
 
-Ape Drums is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bauhaus, Houston on Sat, 26 Dec 2026.
+Ape Drums is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bauhaus, Houston on Sat, 26 Dec 2026.
 
 Ape Drums is an afro house and house artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Austin, Chicago and Houston and 11 more. Often billed alongside AWEN, Andrea Oliva and Diplo. Next up: Bauhaus, Houston on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Ape Drums is an afro house and house artist based in United States of America, w
 
 AWEN, Andrea Oliva, Diplo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*

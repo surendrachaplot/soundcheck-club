@@ -1,6 +1,6 @@
 # Kirill Shapovalov
 
-Kirill Shapovalov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
+Kirill Shapovalov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
 
 Kirill Shapovalov is a techno and house artist based in Russia, with 56 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 19 more. Often billed alongside Séxstasy, DJ Petite and DSKE. Next up: HVEN, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kirill Shapovalov is a techno and house artist based in Russia, with 56 gigs on 
 
 Séxstasy, DJ Petite, DSKE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillshapovalov/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillshapovalov/)*

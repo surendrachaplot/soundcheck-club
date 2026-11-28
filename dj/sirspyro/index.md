@@ -1,6 +1,6 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
+Sir Spyro is a Grime and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
 
 Sir Spyro is a grime and dubstep artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 18 more. Often billed alongside Footsie, Kahn and Killa P. Next up: TBA - Otherways Site, Mallorca, Mallorca on Fri 30 Apr.
 
@@ -26,4 +26,4 @@ Sir Spyro is a grime and dubstep artist based in United Kingdom, with 77 gigs on
 
 Footsie, Kahn, Killa P
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*

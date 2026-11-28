@@ -1,6 +1,6 @@
 # MARTYR (AL)
 
-MARTYR (AL) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tirana Olympic Park, Tirana on Thu, 24 Dec 2026.
+MARTYR (AL) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tirana Olympic Park, Tirana on Thu, 24 Dec 2026.
 
 MARTYR (AL) is a house and afro house artist based in Albania, with 11 gigs on soundcheck across Tirana. Often billed alongside MUCHI, Altin Boshnjaku and Anitë. Next up: Tirana Olympic Park, Tirana on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ MARTYR (AL) is a house and afro house artist based in Albania, with 11 gigs on s
 
 MUCHI (1), Altin Boshnjaku, Anitë
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martyral/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martyral/)*

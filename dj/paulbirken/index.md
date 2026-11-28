@@ -1,6 +1,6 @@
 # Paul Birken
 
-Paul Birken is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri, 4 Dec 2026.
+Paul Birken is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri, 4 Dec 2026.
 
 Paul Birken is a techno and acid artist based in United States of America, with 6 gigs on soundcheck across Chicago, Denver and Minneapolis/St Paul. Often billed alongside andrew baschyn, Komprezzor and Autokinetic. Next up: The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Paul Birken is a techno and acid artist based in United States of America, with 
 
 andrew baschyn, Komprezzor, Autokinetic
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbirken/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbirken/)*

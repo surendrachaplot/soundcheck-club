@@ -1,6 +1,6 @@
 # DJ Shadow
 
-DJ Shadow is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at UNSW Roundhouse, Sydney on Sun, 21 Feb 2027.
+DJ Shadow is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at UNSW Roundhouse, Sydney on Sun, 21 Feb 2027.
 
 DJ Shadow is a hip-hop and electronica artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Brighton and 19 more. Often billed alongside Ben UFO, Channel Tres and KETTAMA. Next up: UNSW Roundhouse, Sydney on Sun 21 Feb.
 
@@ -25,4 +25,4 @@ DJ Shadow is a hip-hop and electronica artist based in United States of America,
 
 Ben UFO, Channel Tres, KETTAMA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshadow/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshadow/)*

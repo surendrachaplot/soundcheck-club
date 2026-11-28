@@ -1,6 +1,6 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
+JOKESONYOU is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
 
 JOKESONYOU is a techno and trance artist based in Australia, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside 3LEEZA, Mika Heggemann and The Muffin Man. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ JOKESONYOU is a techno and trance artist based in Australia, with 80 gigs on sou
 
 3LEEZA, Mika Heggemann, The Muffin Man
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

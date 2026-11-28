@@ -1,6 +1,6 @@
 # Russ Yallop
 
-Russ Yallop is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Empire, London on Sat, 28 Nov 2026.
+Russ Yallop is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Empire, London on Sat, 28 Nov 2026.
 
 Russ Yallop is a deep house and house artist based in United Kingdom, with 10 gigs on soundcheck across Brighton and London. Often billed alongside Alexis Raphael, Lui Florez and Neviks. Next up: Club Empire, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Russ Yallop is a deep house and house artist based in United Kingdom, with 10 gi
 
 Alexis Raphael, Lui Florez, Neviks
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/russyallop/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/russyallop/)*

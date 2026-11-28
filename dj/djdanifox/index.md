@@ -1,6 +1,6 @@
 # Dj Danifox
 
-Dj Danifox is a Kuduro and Afrobeats artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 5 Dec 2026.
+Dj Danifox is a Kuduro and Afrobeats artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 5 Dec 2026.
 
 Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Brussels and 20 more. Often billed alongside DJ Nigga Fox, DJ Firmeza and DJ Lycox. Next up: Lux Fragil, Lisbon on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Dj Danifox is a kuduro and afrobeats artist based in Portugal, with 56 gigs on s
 
 DJ Nigga Fox, DJ Firmeza, DJ Lycox
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*

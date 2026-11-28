@@ -1,6 +1,6 @@
 # Lucas Boston
 
-Lucas Boston is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Lucas Boston is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Lucas Boston is a techno and house artist based in Australia, with 36 gigs on soundcheck across Adelaide, Berlin, Brisbane and Glasgow and 6 more. Often billed alongside Josh Heywood, DINA and Brent Honey. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Lucas Boston is a techno and house artist based in Australia, with 36 gigs on so
 
 ## Recently played
 
+- Lardner Park, Melbourne · Fri, 27 Nov 2026
 - UNSW Roundhouse, Sydney · Sat, 22 Aug 2026
 - New Guernica, Melbourne · Sun, 7 Jun 2026
 - Villa Nightclub, Perth · Sat, 6 Jun 2026
@@ -19,10 +20,9 @@ Lucas Boston is a techno and house artist based in Australia, with 36 gigs on so
 - Max Watt's, Melbourne · Sat, 29 Nov 2025
 - Aura Nightclub, Sydney · Fri, 28 Nov 2025
 - The Penny Black, Melbourne · Sat, 11 Oct 2025
-- Sub Club Melbourne, Melbourne · Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Josh Heywood, DINA, Brent Honey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasboston/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasboston/)*

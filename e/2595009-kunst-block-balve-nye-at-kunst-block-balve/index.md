@@ -1,10 +1,10 @@
 # KUNST BLOCK BALVE NYE at Kunst Block Balve
 
-KUNST BLOCK BALVE NYE at Kunst Block Balve on Fri 1 Jan, Munich. 6 artists: Inu G, Jôka, Moritz Butschek and Pawel and 2 more. See the line-up on soundcheck.
+KUNST BLOCK BALVE NYE at Kunst Block Balve on Thu 31 Dec, Munich. 6 artists: Inu G, Jôka, Moritz Butschek and Pawel and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 1 Jan 2027 |
+| Date | Thu, 31 Dec 2026 |
 | Venue | Kunst Block Balve |
 | City | Munich |
 

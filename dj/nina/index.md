@@ -1,6 +1,6 @@
 # Nina
 
-Nina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Beek, Hamburg on Sat, 28 Nov 2026.
+Nina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Beek, Hamburg on Sat, 28 Nov 2026.
 
 Nina is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Good News, Nika Son and F#X. Next up: Beek, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nina is a techno and house artist based in Germany, with 25 gigs on soundcheck a
 
 Good News, Nika Son, F#X
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nina/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nina/)*

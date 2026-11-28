@@ -1,6 +1,6 @@
 # 100hz
 
-100hz is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 11 Dec 2026.
+100hz is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 11 Dec 2026.
 
 100hz is a minimal and techno artist, with 15 gigs on soundcheck across Berlin, Brighton, Bucharest and Leeds and 2 more. Often billed alongside Audio Werner, Cap and Funk E. Next up: Starlane Pizza Bar, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@
 
 Audio Werner, Cap, Funk E
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/100hz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/100hz/)*

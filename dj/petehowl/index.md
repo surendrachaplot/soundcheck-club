@@ -1,6 +1,6 @@
 # Pete Howl
 
-Pete Howl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Charlatan, Ghent on Thu, 3 Dec 2026.
+Pete Howl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Charlatan, Ghent on Thu, 3 Dec 2026.
 
 Pete Howl is a techno and trance artist based in Belgium, with 21 gigs on soundcheck across Ghent. Often billed alongside Skeletor Yogi, Felix Porte and BILLY. Next up: Charlatan, Ghent on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Pete Howl is a techno and trance artist based in Belgium, with 21 gigs on soundc
 
 Skeletor Yogi, Felix Porte, BILLY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petehowl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petehowl/)*

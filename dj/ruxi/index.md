@@ -1,6 +1,6 @@
 # RUXI
 
-RUXI is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 11 Dec 2026.
+RUXI is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 11 Dec 2026.
 
 RUXI is a house and bass artist based in China, with 21 gigs on soundcheck across Barcelona, Madrid and Shanghai. Often billed alongside DJ2D2, Kanti and Dirti Larita. Next up: Nitsa Club, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ RUXI is a house and bass artist based in China, with 21 gigs on soundcheck acros
 
 DJ2D2, Kanti, Dirti Larita
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxi/)*

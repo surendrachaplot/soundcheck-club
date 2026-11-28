@@ -1,6 +1,6 @@
 # Vicenta
 
-Vicenta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Dolphin, Philadelphia on Fri, 18 Dec 2026.
+Vicenta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Dolphin, Philadelphia on Fri, 18 Dec 2026.
 
 Vicenta is a techno and house artist based in United States of America, with 46 gigs on soundcheck across Baltimore, London, New York City and Philadelphia and 1 more. Often billed alongside Chancleta, DeJota and ADAB. Next up: The Dolphin, Philadelphia on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Vicenta is a techno and house artist based in United States of America, with 46 
 
 Chancleta, DeJota, ADAB
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*

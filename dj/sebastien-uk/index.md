@@ -1,6 +1,6 @@
 # sebastieN
 
-sebastieN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The DBA, Manchester on Fri, 11 Dec 2026.
+sebastieN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The DBA, Manchester on Fri, 11 Dec 2026.
 
 sebastieN is a club and house artist based in United Kingdom, with 22 gigs on soundcheck across Manchester, Newcastle and Sheffield. Often billed alongside Kuriboh, Fastlove and KURLZ. Next up: The DBA, Manchester on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ sebastieN is a club and house artist based in United Kingdom, with 22 gigs on so
 
 Kuriboh, Fastlove, KURLZ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastien-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastien-uk/)*

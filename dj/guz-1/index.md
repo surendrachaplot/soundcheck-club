@@ -1,6 +1,6 @@
 # GUZ (1)
 
-GUZ (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doop, Shanghai on Sat, 28 Nov 2026.
+GUZ (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Doop, Shanghai on Sat, 28 Nov 2026.
 
 GUZ is a house and tech house artist, with 14 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Dallas/Fort Worth and 7 more. Often billed alongside Hugel, Martin Ikin and SilkBoi. Next up: Doop, Shanghai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ GUZ is a house and tech house artist, with 14 gigs on soundcheck across Amsterda
 
 Hugel, Martin Ikin, SilkBoi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guz-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guz-1/)*

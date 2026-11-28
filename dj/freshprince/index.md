@@ -1,6 +1,6 @@
 # Fresh Prince
 
-Fresh Prince is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
+Fresh Prince is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
 
 Fresh Prince is a house and techno artist based in Malta, with 26 gigs on soundcheck across Barcelona, Leipzig and Malta. Often billed alongside Damz, Daniel Blade and Georg MT. Next up: Groove Gardens, Malta on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Fresh Prince is a house and techno artist based in Malta, with 26 gigs on soundc
 
 Damz, Daniel Blade, Georg MT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshprince/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshprince/)*

@@ -1,6 +1,6 @@
 # Electric Bristol
 
-Electric Bristol is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Fish56Octagon - Bristol" on Sat, 28 Nov 2026.
+Electric Bristol is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Fish56Octagon - Bristol" on Sat, 28 Nov 2026.
 
 Electric Bristol is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including Edele Andaya, Estiva, Fish56Octagon and Gardna and 2 more. See dates, start times and who's playing. 15 Nelson Street, Bristol, BS1 2JY, United Kingdom.
 
@@ -16,4 +16,4 @@ Electric Bristol is a music venue in Bristol listed on soundcheck. 3 upcoming gi
 
 15 Nelson Street, Bristol, BS1 2JY, United Kingdom, Bristol
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/electric-bristol/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/electric-bristol/)*

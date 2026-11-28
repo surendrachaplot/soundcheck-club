@@ -1,6 +1,6 @@
 # Teresa Grau
 
-Teresa Grau is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
+Teresa Grau is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
 
 Teresa Grau is a tech house and electronica artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside icanteachyou, Alex Silva and Althoff. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Teresa Grau is a tech house and electronica artist based in Spain, with 9 gigs o
 
 icanteachyou, Alex Silva, Althoff
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teresagrau/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teresagrau/)*

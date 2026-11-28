@@ -1,0 +1,28 @@
+# audite
+
+audite is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Distillery, Leipzig on Tue, 29 Dec 2026.
+
+audite is a drum & bass and bass artist based in Germany, with 18 gigs on soundcheck across Berlin, Leipzig and Prague. Often billed alongside Upzet, Aynaet and Dubbalot. Next up: Distillery, Leipzig on Tue 29 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 29 Dec 2026 | Distillery | Leipzig |
+
+## Recently played
+
+- Distillery, Leipzig · Fri, 2 Oct 2026
+- Void Club, Berlin · Fri, 28 Aug 2026
+- Distillery, Leipzig · Fri, 14 Aug 2026
+- Let it Roll Festival @Lake Most, Prague · Fri, 31 Jul 2026
+- Distillery, Leipzig · Fri, 19 Jun 2026
+- Void Club, Berlin · Sat, 2 May 2026
+- Distillery, Leipzig · Fri, 13 Mar 2026
+- Void Club, Berlin · Sat, 24 Jan 2026
+
+## Shares bills with
+
+Upzet, Aynaet, Dubbalot
+
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audite/)*

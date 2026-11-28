@@ -1,6 +1,6 @@
 # Marcelocura
 
-Marcelocura is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
+Marcelocura is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
 
 Marcelocura is a house and tech house artist based in Spain, with 14 gigs on soundcheck across Barcelona, Melbourne and Valencia. Often billed alongside Anikha, .cosm and Aldonna. Next up: M7 Club, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Marcelocura is a house and tech house artist based in Spain, with 14 gigs on sou
 
 Anikha, .cosm, Aldonna
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelocura/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelocura/)*

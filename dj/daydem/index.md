@@ -1,14 +1,15 @@
 # DAY/DEM
 
-DAY/DEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nightclub 101, New York City on Thu, 17 Dec 2026.
+DAY/DEM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Nightclub 101, New York City on Thu, 17 Dec 2026.
 
-DAY/DEM is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Jacksonville, Miami and New York City. Often billed alongside Duality (US), True Vine and ALEJO (US). Next up: Nightclub 101, New York City on Thu 17 Dec.
+DAY/DEM is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Jacksonville, Miami and New York City. Often billed alongside Duality (US), True Vine and ALEJO (US). Next up: Nightclub 101, New York City on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Dec 2026 | Nightclub 101 | New York City |
+| Fri, 8 Jan 2027 | Paragon | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DAY/DEM is a techno and house artist based in United States of America, with 24 
 
 Duality (US), True Vine, ALEJO (US)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*

@@ -1,6 +1,6 @@
 # Reese_0410
 
-Reese_0410 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SASS Music Club, Vienna on Fri, 4 Dec 2026.
+Reese_0410 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at SASS Music Club, Vienna on Fri, 4 Dec 2026.
 
 Reese_0410 is a house and techno artist based in Germany, with 16 gigs on soundcheck across Budapest, Frankfurt, Leipzig and Prague and 1 more. Often billed alongside Saunaclub, Mac-Kee and Traxx Jr. Next up: SASS Music Club, Vienna on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Reese_0410 is a house and techno artist based in Germany, with 16 gigs on soundc
 
 Saunaclub, Mac-Kee, Traxx Jr
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reese_0410/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reese_0410/)*

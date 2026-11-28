@@ -1,6 +1,6 @@
 # Bllack Rose
 
-Bllack Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
+Bllack Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at D-EDGE, Sao Paulo on Thu, 31 Dec 2026.
 
 Bllack Rose is a techno and house artist based in Brazil, with 12 gigs on soundcheck across Sao Paulo. Often billed alongside BETRIZA, Acid Asian and Adnan Sharif. Next up: D-EDGE, Sao Paulo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Bllack Rose is a techno and house artist based in Brazil, with 12 gigs on soundc
 
 BETRIZA, Acid Asian, Adnan Sharif
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bllackrose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bllackrose/)*

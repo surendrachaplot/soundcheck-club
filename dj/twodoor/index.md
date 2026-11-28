@@ -1,6 +1,6 @@
 # Twodoor
 
-Twodoor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Thu, 31 Dec 2026.
+Twodoor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Platforma Wolff, Bucharest on Thu, 31 Dec 2026.
 
 Twodoor is a house and techno artist, with 30 gigs on soundcheck across Bucharest and Lisbon. Often billed alongside Barbu, oddist and Evan Baggs. Next up: Platforma Wolff, Bucharest on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Twodoor is a house and techno artist, with 30 gigs on soundcheck across Buchares
 
 Barbu, oddist, Evan Baggs
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twodoor/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twodoor/)*

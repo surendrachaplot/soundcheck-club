@@ -1,6 +1,6 @@
 # Anna Gram
 
-Anna Gram is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at McChuills Music Bar, Glasgow on Fri, 11 Dec 2026.
+Anna Gram is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at McChuills Music Bar, Glasgow on Fri, 11 Dec 2026.
 
 Anna Gram is an italo disco and disco artist based in United Kingdom, with 13 gigs on soundcheck across Edinburgh, Glasgow and Manchester. Often billed alongside Bonzai Bonner, Belters 4U and LEZZER QUEST. Next up: McChuills Music Bar, Glasgow on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Anna Gram is an italo disco and disco artist based in United Kingdom, with 13 gi
 
 Bonzai Bonner, Belters 4U, LEZZER QUEST
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annagram/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annagram/)*

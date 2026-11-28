@@ -1,6 +1,6 @@
 # Sala Independance Club
 
-Sala Independance Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "HYBRID: TASUIK" on Thu, 3 Dec 2026.
+Sala Independance Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "HYBRID: TASUIK" on Thu, 3 Dec 2026.
 
 Sala Independance Club is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Marta, Margott (EX), DJ Rolando and Themine and 2 more. See dates, start times and who's playing. C. de Atocha, 127, 28012 Madrid.
 
@@ -17,4 +17,4 @@ Sala Independance Club is a music venue in Madrid listed on soundcheck. 4 upcomi
 
 C. de Atocha, 127, 28012 Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-independance-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-independance-club/)*

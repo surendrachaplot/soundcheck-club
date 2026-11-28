@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "tribalism - Orphx Live, Tommy Four Seven, TSIEG" on Fri, 27 Nov 2026.
+essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "cocoon - Jus-Ed b2b Move D - all night long" on Sat, 28 Nov 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including abs8lute, Altinbas, amin/a and Anetha and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including abs8lute, Altinbas, amin/a and Anetha and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | tribalism - Orphx Live, Tommy Four Seven, TSIEG | Orphx, Tommy Four Seven |
 | Sat, 28 Nov 2026 | cocoon - Jus-Ed b2b Move D - all night long | Jus-Ed, Move D |
 | Sun, 29 Nov 2026 | extended - amin/a, Palms Trax | Palms Trax, amin/a |
 | Fri, 4 Dec 2026 | tribalism - Céline B., Oscar Mulero | Céline Technorama, Oscar Mulero |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with li
 | Sun, 13 Dec 2026 | extended - Lowris, Margaret Dygas | Lowris, Margaret Dygas |
 | Fri, 18 Dec 2026 | tribalism - DVS1, Mana Mind | DVS1, Mana Mind |
 | Sat, 19 Dec 2026 | cocoon - BASHKKA, Lea Occhi | BASHKKA, Lea Occhi |
+| Sun, 20 Dec 2026 | extended - Anetha, RIN LA DALLE | Anetha |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

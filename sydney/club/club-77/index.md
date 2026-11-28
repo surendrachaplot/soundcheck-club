@@ -1,14 +1,13 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Fridays at 77: Claddy, Ciara" on Fri, 27 Nov 2026.
+Club 77 is a music venue in Sydney with 15 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Club 77: Benny Chiu, Mike Who" on Sat, 28 Nov 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming gigs, with line-ups including au4r33y, Ayebatonye, Ben Fester and Benny Chiu and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 15 upcoming gigs, with line-ups including au4r33y, Ayebatonye, Ben Fester and Benny Chiu and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Fridays at 77: Claddy, Ciara | Ciara, Claddy |
 | Sat, 28 Nov 2026 | Club 77: Benny Chiu, Mike Who | Benny Chiu, Mike Who |
 | Sun, 29 Nov 2026 | Sundays at 77 x The Door List: The West Ball Afterparty | Ayebatonye, Dashé, Kilimi (2) |
 | Thu, 3 Dec 2026 | Thursdays at 77: Deepchild | Deepchild |
@@ -18,9 +17,10 @@ Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming gigs, with 
 | Thu, 10 Dec 2026 | Thursdays at 77: Deepchild | Deepchild |
 | Fri, 11 Dec 2026 | Fridays at 77 x Fur Coat 8th Birthday: Sophie Forrest, SVEN, Nick Spurway, Matt Jay | Nick Spurway, Sophie Forrest |
 | Sat, 12 Dec 2026 | Club 77: Mazzacles, Jamie Palmer | Mazzacles |
+| Sun, 13 Dec 2026 | Sundays at 77 x Paramat & au4r33y: au4r33y b2b Paramat | Paramat, au4r33y |
 
 ## Address
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

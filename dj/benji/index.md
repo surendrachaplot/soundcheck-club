@@ -1,6 +1,6 @@
 # Benji
 
-Benji is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vino Disco, Montreal on Fri, 18 Dec 2026.
+Benji is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vino Disco, Montreal on Fri, 18 Dec 2026.
 
 Benji is a house and techno artist based in Italy, with 12 gigs on soundcheck across Amsterdam, Cologne, Istanbul and Mexico City and 1 more. Often billed alongside Alexander Koning, Dave Leatherman and Erick E. Next up: Vino Disco, Montreal on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Benji is a house and techno artist based in Italy, with 12 gigs on soundcheck ac
 
 Alexander Koning, Dave Leatherman, Erick E
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benji/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benji/)*

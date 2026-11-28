@@ -1,6 +1,6 @@
 # Gerrit X
 
-Gerrit X is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Wed, 9 Dec 2026.
+Gerrit X is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at KitKatClub, Berlin on Wed, 9 Dec 2026.
 
 Gerrit X is a techno and minimal artist based in Germany, with 71 gigs on soundcheck across Berlin and Cologne. Often billed alongside DJ Jordan, Daora and monervo. Next up: KitKatClub, Berlin on Wed 9 Dec.
 
@@ -26,4 +26,4 @@ Gerrit X is a techno and minimal artist based in Germany, with 71 gigs on soundc
 
 DJ Jordan, Daora, monervo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerritx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerritx/)*

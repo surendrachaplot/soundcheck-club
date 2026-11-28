@@ -1,6 +1,6 @@
 # Le Chapiteau - Marseille
 
-Le Chapiteau - Marseille is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "CLUB PARADISCO: JOE LEWANDOWSKI, Pastel, MORAVIE & MORE" on Sat, 5 Dec 2026.
+Le Chapiteau - Marseille is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "CLUB PARADISCO: JOE LEWANDOWSKI, Pastel, MORAVIE & MORE" on Sat, 5 Dec 2026.
 
 Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, with line-ups including MariePrude, Pastel and Scan X. See dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
@@ -16,4 +16,4 @@ Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 3 u
 
 38 TVS Notre Dame De Bon Secours, Marseille
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*

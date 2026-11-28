@@ -1,6 +1,6 @@
 # Art Dealer
 
-Art Dealer is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Haggerston, London on Fri, 4 Dec 2026.
+Art Dealer is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Haggerston, London on Fri, 4 Dec 2026.
 
 Art Dealer is a bass and uk funky artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Akabema, SALD3E and V4ND4N4. Next up: The Haggerston, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Art Dealer is a bass and uk funky artist based in United Kingdom, with 23 gigs o
 
 Akabema, SALD3E, V4ND4N4
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artdealer/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artdealer/)*

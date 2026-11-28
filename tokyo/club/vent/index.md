@@ -1,14 +1,13 @@
 # VENT
 
-VENT is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Giegling / Giegling Tokyo Residency Closing Party" on Fri, 27 Nov 2026.
+VENT is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Cleric / Clergy Records × RHYTOS" on Fri, 4 Dec 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including 50Minimals, AI, AKIRAM EN and Aldonna and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including 50Minimals, AI, AKIRAM EN and Aldonna and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Giegling / Giegling Tokyo Residency Closing Party | Atsushi Maeda, Edward, Konstantin, Lawrence, Mazlika, Yamour, iulia, ΛSYL |
 | Fri, 4 Dec 2026 | Cleric / Clergy Records × RHYTOS | Cleric, DANA NADA, Habgud, Herbalistek, JOMA (2), Kent Oria, lostbaggage, 大陸/Riku (2) |
 | Sat, 5 Dec 2026 | CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents | Carrier, DJ Python, Lil Mofo |
 | Fri, 11 Dec 2026 | Kangding Ray / MIND OFF | Dani Savant, Kangding Ray, YouForgot |
@@ -18,9 +17,10 @@ VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line
 | Fri, 25 Dec 2026 | ANNĒ | AI (10), ANNĒ, DANDAN, Lynta, MAYUDEPTH, Rikuto Shibazaki, Yui (JP), shimosoma, 大陸/Riku (2) |
 | Sat, 26 Dec 2026 | Lea Lisa | Bonnie, DNG (1), Lea Lisa, MINAMI, Midori Aoyama, Nahomi |
 | Wed, 30 Dec 2026 | Kuniyuki , SODEYAMA | DJ Sodeyama, IRON, JOMA (2), Kuniyuki, SOGI, Santamaria, tnseei |
+| Fri, 8 Jan 2027 | Héctor Oaks | Héctor Oaks |
 
 ## Address
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

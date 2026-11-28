@@ -1,8 +1,8 @@
 # Carré
 
-Carré is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 28 Nov 2026.
+Carré is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 28 Nov 2026.
 
-Carré is a bass and techno artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 26 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: La Cheetah Club, Glasgow on Sat 28 Nov.
+Carré is a bass and techno artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 26 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: La Cheetah Club, Glasgow on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carré is a bass and techno artist based in United States of America, with 86 gi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | La Cheetah Club | Glasgow |
 | Sat, 5 Dec 2026 | Funke | Ghent |
+| Thu, 31 Dec 2026 | radial | London |
 | Thu, 17 Jun 2027 | Medane Beach | Croatia |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
@@ -28,4 +29,4 @@ Carré is a bass and techno artist based in United States of America, with 86 gi
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

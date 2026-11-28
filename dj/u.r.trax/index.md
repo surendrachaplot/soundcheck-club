@@ -1,6 +1,6 @@
 # u.r.trax
 
-u.r.trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Wigwam, Dublin on Sat, 19 Dec 2026.
+u.r.trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Wigwam, Dublin on Sat, 19 Dec 2026.
 
 u.r.trax is a techno and house artist based in France, with 168 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 63 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: Wigwam, Dublin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ u.r.trax is a techno and house artist based in France, with 168 gigs on soundche
 
 Nina Kraviz, Héctor Oaks, SALOME
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*

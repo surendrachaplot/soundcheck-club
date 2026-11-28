@@ -1,6 +1,6 @@
 # Buzzworks
 
-Buzzworks is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "New Year's Day: Sunrise Street Festival 2027" on Fri, 1 Jan 2027.
+Buzzworks is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "New Year's Day: Sunrise Street Festival 2027" on Fri, 1 Jan 2027.
 
 Buzzworks is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including DJ Garth, DJ Meikee Magnetic and Donald Glaude. See dates, start times and who's playing. 365 11th St, San Francisco, CA 94103.
 
@@ -14,4 +14,4 @@ Buzzworks is a music venue in San Francisco/Oakland listed on soundcheck. 1 upco
 
 365 11th St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/buzzworks/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/buzzworks/)*

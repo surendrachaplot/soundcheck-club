@@ -1,6 +1,6 @@
 # SashKa
 
-SashKa is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
+SashKa is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
 
 SashKa is a techno and hardcore artist, with 11 gigs on soundcheck across Berlin and London. Often billed alongside DJ Tsar, LUNAUR.AA and Labåzuy. Next up: TBA - secret Location via Telegram , Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SashKa is a techno and hardcore artist, with 11 gigs on soundcheck across Berlin
 
 DJ Tsar, LUNAUR.AA, Labåzuy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashka/)*

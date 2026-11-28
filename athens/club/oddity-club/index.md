@@ -1,6 +1,6 @@
 # Oddity Club
 
-Oddity Club is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Patrick Mason at Oddity Club" on Sat, 28 Nov 2026.
+Oddity Club is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Patrick Mason at Oddity Club" on Sat, 28 Nov 2026.
 
 Oddity Club is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including Adiel, Archangel, CHEX and Clowl and 2 more. See dates, start times and who's playing. Iraklidon 61, Athina 118 54.
 
@@ -21,4 +21,4 @@ Oddity Club is a music venue in Athens listed on soundcheck. 8 upcoming gigs, wi
 
 Iraklidon 61, Athina 118 54, Athens
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*

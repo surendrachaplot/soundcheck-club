@@ -1,8 +1,8 @@
 # Wax Material
 
-Wax Material is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
+Wax Material is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
 
-Wax Material is a house and tech house artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Laidlaw, Just Jam and Samuel Deep. Next up: NOWHERE, Manchester on Sat 28 Nov.
+Wax Material is a house and tech house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Laidlaw, Just Jam and Samuel Deep. Next up: NOWHERE, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Wax Material is a house and tech house artist based in United Kingdom, with 46 g
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 12 Dec 2026 | Gaswrx Birmingham | Birmingham |
 | Fri, 18 Dec 2026 | Kapsule | Liverpool |
+| Thu, 31 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Wax Material is a house and tech house artist based in United Kingdom, with 46 g
 
 Laidlaw, Just Jam, Samuel Deep
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*

@@ -1,6 +1,6 @@
 # CRYME
 
-CRYME is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
+CRYME is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
 
 CRYME is a techno and house artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 30 more. Often billed alongside Rakans, VINVAR and DJ Hyperdrive. Next up: objekt klein a, Dresden on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ CRYME is a techno and house artist based in Germany, with 107 gigs on soundcheck
 
 Rakans, VINVAR, DJ Hyperdrive
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*

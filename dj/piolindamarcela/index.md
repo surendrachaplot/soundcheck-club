@@ -1,6 +1,6 @@
 # Piolinda Marcela
 
-Piolinda Marcela is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Niceto Club, Buenos Aires on Fri, 4 Dec 2026.
+Piolinda Marcela is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Niceto Club, Buenos Aires on Fri, 4 Dec 2026.
 
 Piolinda Marcela is a guaracha and latin bass artist based in Colombia, with 53 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brussels and 16 more. Often billed alongside Aleroj, Isablu and Linapary. Next up: Niceto Club, Buenos Aires on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Piolinda Marcela is a guaracha and latin bass artist based in Colombia, with 53 
 
 Aleroj, Isablu, Linapary
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piolindamarcela/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piolindamarcela/)*

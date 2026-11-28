@@ -1,6 +1,6 @@
 # Félix (UK)
 
-Félix (UK) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Egg London, London on Fri, 18 Dec 2026.
+Félix (UK) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Fri, 18 Dec 2026.
 
 Félix (UK) is a tech house and house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Bali, Barcelona and Ibiza and 1 more. Often billed alongside ACA (YU), Reelow and Dani Corberó. Next up: Egg London, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Félix (UK) is a tech house and house artist based in United Kingdom, with 20 gi
 
 ACA (YU), Reelow, Dani Corberó
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixuk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixuk/)*

@@ -1,6 +1,6 @@
 # Shiloh (UK)
 
-Shiloh (UK) is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Swan, London on Sat, 12 Dec 2026.
+Shiloh (UK) is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The White Swan, London on Sat, 12 Dec 2026.
 
 Shiloh (UK) is a tech house and deep house artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside SAM PHONIC, Dominique Danielle and Jai Baisden. Next up: The White Swan, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Shiloh (UK) is a tech house and deep house artist based in United Kingdom, with 
 
 SAM PHONIC, Dominique Danielle, Jai Baisden
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiloh-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shiloh-uk/)*

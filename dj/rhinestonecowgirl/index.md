@@ -1,6 +1,6 @@
 # RHINESTONE COWGIRL
 
-RHINESTONE COWGIRL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sydney Harbour Boat Cruise, Sydney on Sun, 13 Dec 2026.
+RHINESTONE COWGIRL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sydney Harbour Boat Cruise, Sydney on Sun, 13 Dec 2026.
 
 RHINESTONE COWGIRL is a techno and trance artist based in Australia, with 35 gigs on soundcheck across Melbourne and Sydney. Often billed alongside PARTIGIRL, bacteria grl and Banno. Next up: Sydney Harbour Boat Cruise, Sydney on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ RHINESTONE COWGIRL is a techno and trance artist based in Australia, with 35 gig
 
 PARTIGIRL, bacteria grl, Banno
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinestonecowgirl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinestonecowgirl/)*

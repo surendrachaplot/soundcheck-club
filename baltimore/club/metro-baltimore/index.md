@@ -1,6 +1,6 @@
 # Metro Baltimore
 
-Metro Baltimore is a music venue in Baltimore with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "TRAIT RAZOR with Seven Teller, Bonafide Fabian & More" on Fri, 4 Dec 2026.
+Metro Baltimore is a music venue in Baltimore with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "TRAIT RAZOR with Seven Teller, Bonafide Fabian & More" on Fri, 4 Dec 2026.
 
 Metro Baltimore is a music venue in Baltimore listed on soundcheck. 5 upcoming gigs, with line-ups including Soohan. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Metro Baltimore is a music venue in Baltimore listed on soundcheck. 5 upcoming g
 | Sat, 26 Dec 2026 | Soohan HOLIDAY PARTY | Soohan |
 | Tue, 26 Jan 2027 | @ |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/metro-baltimore/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/metro-baltimore/)*

@@ -1,14 +1,13 @@
 # Apollo Studio
 
-Apollo Studio is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Apollo Studio presents" on Fri, 27 Nov 2026.
+Apollo Studio is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Apollo Studio presents" on Fri, 4 Dec 2026.
 
-Apollo Studio is a music venue in New York City listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 72 Apollo St Brooklyn, NY 11222.
+Apollo Studio is a music venue in New York City listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 72 Apollo St Brooklyn, NY 11222.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Apollo Studio presents |  |
 | Fri, 4 Dec 2026 | Apollo Studio presents |  |
 | Sat, 5 Dec 2026 | Apollo Studio presents |  |
 | Fri, 11 Dec 2026 | Apollo Studio presents |  |
@@ -22,4 +21,4 @@ Apollo Studio is a music venue in New York City listed on soundcheck. 9 upcoming
 
 72 Apollo St Brooklyn, NY 11222, New York City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*

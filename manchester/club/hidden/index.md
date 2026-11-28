@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Teletech PRE PARTY: Hidden, MANCHESTER" on Fri, 27 Nov 2026.
+Hidden is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Peach Legends UK Tour - Hidden, Manchester " on Sat, 28 Nov 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including 2FEL, Agnelli & Nelson, Antonym and ASLO and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -8,7 +8,6 @@ Hidden is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Teletech PRE PARTY: Hidden, MANCHESTER |  |
 | Sat, 28 Nov 2026 | Peach Legends UK Tour - Hidden, Manchester  | Agnelli & Nelson, Chris Bayne, Daz Manchild Smith, Fisha, Graham Gold |
 | Sat, 28 Nov 2026 | Warehouse Rave with Residents & Friends |  |
 | Fri, 4 Dec 2026 | Neffa-T presents: Neffa-T, DJ Stingray & Tasha | DJ Stingray 313, Neffa-T, Tasha |
@@ -18,9 +17,10 @@ Hidden is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, wi
 | Fri, 18 Dec 2026 | Hidden x Juke Joint: DJ Godfather | DJ Godfather, Hanz, Syntax (2) |
 | Sat, 19 Dec 2026 | THE TONE THEORY: DJ Pipe | DJ Pipe, Isabelle Koci, Quidders |
 | Fri, 1 Jan 2027 | Teletech: NYD MANCHESTER | 2FEL, ASLO, Antonym, Bobaz, GEORGE RADSPORT, Hortense de Beauharnais, KIM AHLF, KIRSTY, Kalte Liebe, Leaha, SIKOTI, SJ yellow, Shanixx, TiTi |
+| Fri, 5 Feb 2027 | Hit & Run: Ivy Lab FAREWELL TOUR | Chunky, Commodo, Felixculpah, Ivy Lab, J:Kenzo, Machinedrum, Mystic State, Rich Reason, Strategy, contactghost |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

@@ -1,6 +1,6 @@
 # Ace Vision
 
-Ace Vision is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Sat, 19 Dec 2026.
+Ace Vision is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Sat, 19 Dec 2026.
 
 Ace Vision is a techno and electronica artist, with 15 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 7 more. Often billed alongside Andrea Vietti, Archie Dennis and CLO. Next up: Hoppetosse, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Ace Vision is a techno and electronica artist, with 15 gigs on soundcheck across
 
 Andrea Vietti, Archie Dennis, CLO (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acevision/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acevision/)*

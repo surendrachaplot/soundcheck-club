@@ -1,13 +1,14 @@
 # Ashton Swinton
 
-Ashton Swinton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Marble Bar, Detroit on Sat, 12 Dec 2026.
+Ashton Swinton is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Golden Gate, Berlin on Sat, 5 Dec 2026.
 
-Ashton Swinton is a techno and house artist based in United States of America, with 147 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 2 more. Often billed alongside Loren, Garrison XR and Kindle. Next up: Marble Bar, Detroit on Sat 12 Dec.
+Ashton Swinton is a techno and house artist based in United States of America, with 148 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 2 more. Often billed alongside Loren, Garrison XR and Kindle. Next up: Golden Gate, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Golden Gate | Berlin |
 | Sat, 12 Dec 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ashton Swinton is a techno and house artist based in United States of America, w
 
 Loren, Garrison XR, Kindle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*

@@ -1,10 +1,10 @@
 # BUTTAH at TBA
 
-BUTTAH at TBA on Sat 28 Nov, London. House and Tech House. See the line-up on soundcheck.
+BUTTAH at TBA on Sat 27 Feb, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 28 Nov 2026 |
+| Date | Sat, 27 Feb 2027 |
 | Venue | TBA |
 | City | London |
 

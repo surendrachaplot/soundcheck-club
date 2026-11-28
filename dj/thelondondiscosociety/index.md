@@ -1,6 +1,6 @@
 # The London Disco Society
 
-The London Disco Society is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
+The London Disco Society is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
 
 The London Disco Society is a disco and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Bill Brewster, Daydream Disco and Flat Earth Disco. Next up: Two More Years, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ The London Disco Society is a disco and house artist based in United Kingdom, wi
 
 Bill Brewster, Daydream Disco, Flat Earth Disco
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thelondondiscosociety/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thelondondiscosociety/)*

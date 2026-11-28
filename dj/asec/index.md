@@ -1,6 +1,6 @@
 # ASEC
 
-ASEC is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
+ASEC is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
 ASEC is a techno and dub techno artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dortmund / Essen and 14 more. Often billed alongside Beste Hira, P.E.A.R.L. and Tommy Four Seven. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ ASEC is a techno and dub techno artist based in United Kingdom, with 42 gigs on 
 
 Beste Hira, P.E.A.R.L., Tommy Four Seven
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asec/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asec/)*

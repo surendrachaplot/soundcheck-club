@@ -1,14 +1,13 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DANIEL ALLAN (360° Set)" on Fri, 27 Nov 2026.
+Concord Music Hall is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "MC4D" on Fri, 4 Dec 2026.
 
-Concord Music Hall is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including Conrad Taylor, DJ Thank You, HerShe and Jersey and 2 more. See dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
+Concord Music Hall is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including Conrad Taylor, DJ Thank You, HerShe and Jersey and 2 more. See dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | DANIEL ALLAN (360° Set) |  |
 | Fri, 4 Dec 2026 | MC4D |  |
 | Fri, 11 Dec 2026 | RICHARD FINGER |  |
 | Sat, 26 Dec 2026 | Conrad Taylor (360°) [TRANSITIONS] | Conrad Taylor |
@@ -23,4 +22,4 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 10 upcoming
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

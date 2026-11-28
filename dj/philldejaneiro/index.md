@@ -1,14 +1,13 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Phill de Janeiro is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Invisible Wind Factory, Liverpool on Sat, 5 Dec 2026.
 
-Phill de Janeiro is a house and tech house artist based in Brazil, with 110 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Phill de Janeiro is a house and tech house artist based in Brazil, with 110 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: Invisible Wind Factory, Liverpool on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Fri, 11 Dec 2026 | block. | Dublin |
@@ -19,6 +18,7 @@ Phill de Janeiro is a house and tech house artist based in Brazil, with 110 gigs
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 27 Nov 2026
 - The Cause, London · Sat, 7 Nov 2026
 - Thirty3hz, South-east · Sat, 7 Nov 2026
 - The Cause, London · Sun, 1 Nov 2026
@@ -26,10 +26,9 @@ Phill de Janeiro is a house and tech house artist based in Brazil, with 110 gigs
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - DRUMSHEDS, London · Sat, 3 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
-- UNO MALTA, Malta · Thu, 1 Oct 2026
 
 ## Shares bills with
 
 Benji King, Jude Lenihan, Truly Madly
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*

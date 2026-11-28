@@ -1,6 +1,6 @@
 # KASI
 
-KASI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
+KASI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
 
 KASI is a house and techno artist based in Germany, with 6 gigs on soundcheck across Barcelona, Hamburg and Vienna. Often billed alongside Matteomie, XANDER and ABIBA. Next up: SASS Music Club, Vienna on Mon 7 Dec.
 
@@ -22,4 +22,4 @@ KASI is a house and techno artist based in Germany, with 6 gigs on soundcheck ac
 
 Matteomie, XANDER, ABIBA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasi-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasi-de/)*

@@ -1,6 +1,6 @@
 # Holly Warcup
 
-Holly Warcup is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
+Holly Warcup is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
 
 Holly Warcup is a hardcore and trance artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Glasgow, London and Osaka. Often billed alongside 3DMA, Peggy Viennetta and alterum. Next up: The Greyhound, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Holly Warcup is a hardcore and trance artist based in United Kingdom, with 34 gi
 
 3DMA, Peggy Viennetta, alterum
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywarcup/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywarcup/)*

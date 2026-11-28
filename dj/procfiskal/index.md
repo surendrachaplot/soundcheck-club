@@ -1,6 +1,6 @@
 # Proc Fiskal
 
-Proc Fiskal is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Strange Brew, Bristol on Fri, 4 Dec 2026.
+Proc Fiskal is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Strange Brew, Bristol on Fri, 4 Dec 2026.
 
 Proc Fiskal is an experimental and club artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: Strange Brew, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Proc Fiskal is an experimental and club artist based in United Kingdom, with 64 
 
 Creep Woland, Ship Sket, Feena
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*

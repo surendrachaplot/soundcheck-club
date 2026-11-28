@@ -1,6 +1,6 @@
 # Rob Warner
 
-Rob Warner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+Rob Warner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
 Rob Warner is a techno and house artist, with 8 gigs on soundcheck across Auckland. Often billed alongside Out Of Sorts, Paige Julia and Dylan C. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
@@ -24,4 +24,4 @@ Rob Warner is a techno and house artist, with 8 gigs on soundcheck across Auckla
 
 Out Of Sorts, Paige Julia, Dylan C
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robwarner/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robwarner/)*

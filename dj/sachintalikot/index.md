@@ -1,6 +1,6 @@
 # SACHIN TALIKOT
 
-SACHIN TALIKOT is a Minimal and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Taco Kat, Orlando on Sat, 28 Nov 2026.
+SACHIN TALIKOT is a Minimal and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Taco Kat, Orlando on Sat, 28 Nov 2026.
 
 SACHIN TALIKOT is a minimal and deep house artist based in United States of America, with 28 gigs on soundcheck across Miami, New York City, Orlando and Tampa Bay. Often billed alongside Andravida, Cataclisma and Diana NC. Next up: Taco Kat, Orlando on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ SACHIN TALIKOT is a minimal and deep house artist based in United States of Amer
 
 Andravida, Cataclisma, Diana NC
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachintalikot/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sachintalikot/)*

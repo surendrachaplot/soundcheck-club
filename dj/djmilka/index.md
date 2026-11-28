@@ -1,6 +1,6 @@
 # DJ Milka
 
-DJ Milka is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+DJ Milka is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 DJ Milka is a house and deep house artist based in Mexico, with 61 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside GOLDEN PINEAPPLE, Barreto and Rafatel. Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ DJ Milka is a house and deep house artist based in Mexico, with 61 gigs on sound
 
 GOLDEN PINEAPPLE, Barreto, Rafatel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmilka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmilka/)*

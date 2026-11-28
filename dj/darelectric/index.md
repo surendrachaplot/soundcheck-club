@@ -1,17 +1,18 @@
 # Darelectric
 
-Darelectric is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. Next at Mad Radio Miami, Miami on Thu, 19 Nov 2026.
+Darelectric is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mad Radio Miami, Miami on Thu, 3 Dec 2026.
 
-Darelectric is a house and electronica artist based in United States of America, with 8 gigs on soundcheck across Miami and New York City. Often billed alongside Israel Sunshine, Atomyard and Cristobal ON. Next up: Mad Radio Miami, Miami on Thu 19 Nov.
+Darelectric is a house and electronica artist based in United States of America, with 9 gigs on soundcheck across Miami and New York City. Often billed alongside Israel Sunshine, Atomyard and Cristobal ON. Next up: Mad Radio Miami, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | Mad Radio Miami | Miami |
+| Thu, 3 Dec 2026 | Mad Radio Miami | Miami |
 
 ## Recently played
 
+- Mad Radio Miami, Miami · Thu, 19 Nov 2026
 - MAD Radio NYC, New York City · Thu, 17 Sept 2026
 - Mad Radio Miami, Miami · Sat, 20 Jun 2026
 - Mad Radio Miami, Miami · Thu, 30 Oct 2025
@@ -24,4 +25,4 @@ Darelectric is a house and electronica artist based in United States of America,
 
 Israel Sunshine, Atomyard, Cristobal ON
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darelectric/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darelectric/)*

@@ -1,14 +1,15 @@
 # T-Man (UK)
 
-T-Man (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Thu, 10 Dec 2026.
+T-Man (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot Mayfield, Manchester on Thu, 10 Dec 2026.
 
-T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Brighton, Bristol, Ghent and Glasgow and 3 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: Depot Mayfield, Manchester on Thu 10 Dec.
+T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, with 69 gigs on soundcheck across Brighton, Bristol, Ghent and Glasgow and 3 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: Depot Mayfield, Manchester on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | Depot Mayfield | Manchester |
+| Fri, 11 Dec 2026 | Stage and Radio | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, with 68 g
 
 Rich Reason, LARISHKA (UK), MC Fox
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t-manuk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t-manuk/)*

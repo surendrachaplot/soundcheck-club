@@ -1,6 +1,6 @@
 # Sebalo
 
-Sebalo is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuchs2, Prague on Sat, 19 Dec 2026.
+Sebalo is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fuchs2, Prague on Sat, 19 Dec 2026.
 
 Sebalo is a drum & bass and dubstep artist based in Germany, with 11 gigs on soundcheck across Antwerp, Basel, Berlin and Cologne and 3 more. Often billed alongside Roklem, BUKEZ FINEZT and Badlokk. Next up: Fuchs2, Prague on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Sebalo is a drum & bass and dubstep artist based in Germany, with 11 gigs on sou
 
 Roklem, BUKEZ FINEZT, Badlokk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebalo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebalo/)*

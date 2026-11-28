@@ -1,14 +1,14 @@
 # Sonique
 
-Sonique is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Bodega 17 (Cll. 17 # 60B-48), Bogotá on Sat, 5 Dec 2026.
+Sonique is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Bodega 17 (Cll. 17 # 68B-48), Bogotá on Sat, 5 Dec 2026.
 
-Sonique is a house and electro artist based in Colombia, with 60 gigs on soundcheck across Bogotá, London and Medellin. Often billed alongside Guille Katorzi, GAËL and Japp Beats. Next up: TBA - Bodega 17 (Cll. 17 # 60B-48), Bogotá on Sat 5 Dec.
+Sonique is a house and electro artist based in Colombia, with 60 gigs on soundcheck across Bogotá, London and Medellin. Often billed alongside Guille Katorzi, GAËL and Japp Beats. Next up: TBA - Bodega 17 (Cll. 17 # 68B-48), Bogotá on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | TBA - Bodega 17 (Cll. 17 # 60B-48) | Bogotá |
+| Sat, 5 Dec 2026 | TBA - Bodega 17 (Cll. 17 # 68B-48) | Bogotá |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Sonique is a house and electro artist based in Colombia, with 60 gigs on soundch
 
 Guille Katorzi, GAËL, Japp Beats
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonique/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonique/)*

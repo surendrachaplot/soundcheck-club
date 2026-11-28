@@ -1,6 +1,6 @@
 # Kava (GE)
 
-Kava (GE) is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Panke, Berlin on Thu, 3 Dec 2026.
+Kava (GE) is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Panke, Berlin on Thu, 3 Dec 2026.
 
 Kava (GE) is a funk / soul and disco artist based in New Zealand, with 19 gigs on soundcheck across Berlin. Often billed alongside Marian Tone, Allynx and Philippa. Next up: Panke, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Kava (GE) is a funk / soul and disco artist based in New Zealand, with 19 gigs o
 
 Marian Tone, Allynx, Philippa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kava-ge/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kava-ge/)*

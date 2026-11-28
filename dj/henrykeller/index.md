@@ -1,6 +1,6 @@
 # Henry Keller
 
-Henry Keller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at C12, Brussels on Sat, 19 Dec 2026.
+Henry Keller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at C12, Brussels on Sat, 19 Dec 2026.
 
 Henry Keller is a techno and house artist based in Georgia, with 16 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Ami, Stanislawa and Tweeman. Next up: C12, Brussels on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Henry Keller is a techno and house artist based in Georgia, with 16 gigs on soun
 
 Ami (2), Stanislawa, Tweeman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrykeller/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrykeller/)*

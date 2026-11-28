@@ -1,6 +1,6 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 28 Nov 2026.
+Marco Faraone is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 28 Nov 2026.
 
 Marco Faraone is a techno and tech house artist based in Italy, with 165 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Plaza Mayor de El Poble Espanyol, Barcelona on Sat 28 Nov.
 
@@ -32,4 +32,4 @@ Marco Faraone is a techno and tech house artist based in Italy, with 165 gigs on
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

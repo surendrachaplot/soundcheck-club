@@ -1,6 +1,6 @@
 # Client
 
-Client is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at RADION, Amsterdam on Sat, 2 Jan 2027.
+Client is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at RADION, Amsterdam on Sat, 2 Jan 2027.
 
 Client is a techno artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Lisbon, Malta and Utrecht. Often billed alongside Lobster (NL), Beste Hira and Ignez. Next up: RADION, Amsterdam on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Client is a techno artist based in Netherlands, with 13 gigs on soundcheck acros
 
 Lobster (NL), Beste Hira, Ignez
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/client-ams/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/client-ams/)*

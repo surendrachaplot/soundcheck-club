@@ -1,6 +1,6 @@
 # DJelley
 
-DJelley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Moon Club, Bristol on Thu, 4 Feb 2027.
+DJelley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Moon Club, Bristol on Thu, 4 Feb 2027.
 
 DJelley is a techno and house artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 20 more. Often billed alongside Reece Hodges, Memory Muscle and Vanity Project. Next up: Moon Club, Bristol on Thu 4 Feb.
 
@@ -25,4 +25,4 @@ DJelley is a techno and house artist based in United Kingdom, with 90 gigs on so
 
 Reece Hodges, Memory Muscle, Vanity Project
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djelley-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djelley-uk/)*

@@ -1,6 +1,6 @@
 # DIAS
 
-DIAS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Flex, Vienna on Fri, 4 Dec 2026.
+DIAS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Flex, Vienna on Fri, 4 Dec 2026.
 
 DIAS is a techno and industrial artist based in Austria, with 9 gigs on soundcheck across Vienna. Often billed alongside Aleta, Asmo Deus and Auditore. Next up: Flex, Vienna on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DIAS is a techno and industrial artist based in Austria, with 9 gigs on soundche
 
 Aleta, Asmo Deus, Auditore
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dias/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dias/)*

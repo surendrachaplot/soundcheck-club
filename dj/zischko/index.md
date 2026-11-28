@@ -1,6 +1,6 @@
 # Zischko
 
-Zischko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery, Leipzig on Sat, 16 Jan 2027.
+Zischko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Distillery, Leipzig on Sat, 16 Jan 2027.
 
 Zischko is a techno and house artist based in Germany, with 16 gigs on soundcheck across Leipzig. Often billed alongside Zacharias, Mathias Ache and Nienein. Next up: Distillery, Leipzig on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Zischko is a techno and house artist based in Germany, with 16 gigs on soundchec
 
 Zacharias, Mathias Ache, Nienein
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zischko/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zischko/)*

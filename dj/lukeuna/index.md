@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
+Luke Una is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Mint Warehouse, Leeds on Sat, 28 Nov 2026.
 
 Luke Una is a house and disco artist based in United Kingdom, with 153 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 38 more. Often billed alongside Erol Alkan, Joey T and Mr Scruff. Next up: Mint Warehouse, Leeds on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Luke Una is a house and disco artist based in United Kingdom, with 153 gigs on s
 
 Erol Alkan, Joey T, Mr Scruff
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

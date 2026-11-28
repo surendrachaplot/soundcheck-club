@@ -1,15 +1,13 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MINCE'D 002" on Fri, 27 Nov 2026.
+The Ulster Sports Club is a music venue in Belfast with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Twitch is 20 - Steffi x Virginia" on Sat, 28 Nov 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 12 upcoming gigs, with line-ups including Cartin, Conor Schmtz, Cromby and DJ BORING and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upcoming gigs, with line-ups including Conor Schmtz, Cromby, DJ BORING and Emma O and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | MINCE'D 002 |  |
-| Fri, 27 Nov 2026 | OCD presents Cartin [Live] | Cartin |
 | Sat, 28 Nov 2026 | Twitch is 20 - Steffi x Virginia | Steffi, Virginia |
 | Fri, 4 Dec 2026 | SHINE -- Julian Anthony | Conor Schmtz, Julian Anthony |
 | Sat, 5 Dec 2026 | Crilli DNB presents DJ Hype |  |
@@ -18,9 +16,11 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 12 upco
 | Sat, 12 Dec 2026 | Féline (Bébé) W/ Chris Frieze / Tripper / Conor Schmtz | Conor Schmtz |
 | Fri, 18 Dec 2026 | Glacier X Glutek: The Polar Series |  |
 | Sat, 26 Dec 2026 | Cromby b2b Swoose All Night Long | Cromby, Swoose |
+| Thu, 31 Dec 2026 | Twitch NYE - Logan Fisher & Jack Tiraquon | Jack Tiraquon, Logan Fisher |
+| Fri, 19 Feb 2027 | SHINE -- DJ BORING | DJ BORING |
 
 ## Address
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

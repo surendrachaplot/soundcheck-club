@@ -1,6 +1,6 @@
 # PALMREADER
 
-PALMREADER is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Vespers Club, London on Tue, 1 Dec 2026.
+PALMREADER is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vespers Club, London on Tue, 1 Dec 2026.
 
 PALMREADER is an electronic artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside edenplus, DJ mǐn and Dj wiggles. Next up: Vespers Club, London on Tue 1 Dec.
 
@@ -21,4 +21,4 @@ PALMREADER is an electronic artist based in United Kingdom, with 5 gigs on sound
 
 edenplus, DJ mǐn, Dj wiggles
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmreader/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmreader/)*

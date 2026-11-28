@@ -1,6 +1,6 @@
 # Craig Heneveld
 
-Craig Heneveld is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Location With Ticket, Denver on Fri, 18 Dec 2026.
+Craig Heneveld is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Location With Ticket, Denver on Fri, 18 Dec 2026.
 
 Craig Heneveld is a techno and electronica artist based in United States of America, with 6 gigs on soundcheck across Denver and Mexico City. Often billed alongside ALX-106, Alala.One and Andrew Bon Bosher. Next up: TBA - Location With Ticket, Denver on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Craig Heneveld is a techno and electronica artist based in United States of Amer
 
 ALX-106, Alala.One, Andrew Bon Bosher
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigheneveld/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigheneveld/)*

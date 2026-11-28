@@ -1,6 +1,6 @@
 # JDILEY
 
-JDILEY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
+JDILEY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
 
 JDILEY is a techno and trance artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Südstern, 9LALEY and AVF. Next up: ://about blank, Berlin on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ JDILEY is a techno and trance artist, with 4 gigs on soundcheck across Berlin. O
 
 Südstern, 9LALEY, AVF (1)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdiley/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jdiley/)*

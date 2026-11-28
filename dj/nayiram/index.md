@@ -1,6 +1,6 @@
 # Nayiram
 
-Nayiram is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Nayiram is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Nayiram is a house and amapiano artist, with 12 gigs on soundcheck across Los Angeles, Miami and Seattle. Often billed alongside Nazo, DJ Nazo and Aivilo. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Nayiram is a house and amapiano artist, with 12 gigs on soundcheck across Los An
 
 Nazo, DJ Nazo, Aivilo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nayiram/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nayiram/)*

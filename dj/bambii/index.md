@@ -1,14 +1,13 @@
 # Bambii
 
-Bambii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mooi Space, Toronto on Fri, 27 Nov 2026.
+Bambii is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 11 Dec 2026.
 
-Bambii is a techno and house artist based in Canada, with 115 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 29 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Mooi Space, Toronto on Fri 27 Nov.
+Bambii is a techno and house artist based in Canada, with 115 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 29 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Oxford Art Factory, Sydney on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Mooi Space | Toronto |
 | Fri, 11 Dec 2026 | Oxford Art Factory | Sydney |
 | Fri, 11 Dec 2026 | The Lower Third | London |
 | Thu, 31 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |
@@ -16,6 +15,7 @@ Bambii is a techno and house artist based in Canada, with 115 gigs on soundcheck
 
 ## Recently played
 
+- Mooi Space, Toronto · Fri, 27 Nov 2026
 - Opera House, Toronto · Wed, 11 Nov 2026
 - Société des arts technologiques, Montreal · Tue, 10 Nov 2026
 - The Regency Ballroom, San Francisco/Oakland · Sun, 8 Nov 2026
@@ -23,10 +23,9 @@ Bambii is a techno and house artist based in Canada, with 115 gigs on soundcheck
 - Parallel, Amsterdam · Fri, 23 Oct 2026
 - Parallel, Amsterdam · Fri, 23 Oct 2026
 - Radio Radio, Amsterdam · Wed, 21 Oct 2026
-- Ingram Plaza, San Diego · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Young Teesh, Nino Brown (2), Nia Archives
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

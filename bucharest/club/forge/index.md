@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ROOM:010 with Carla Schmitt - GROOVE BOUNCE TECHNO" on Sat, 12 Dec 2026.
+Forge is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "ROOM:010 with Carla Schmitt - GROOVE BOUNCE TECHNO" on Sat, 12 Dec 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including _calin_, Audiomatica Industries, Carla Schmitt and ESME and 2 more. See dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -17,4 +17,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with 
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

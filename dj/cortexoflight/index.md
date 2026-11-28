@@ -1,6 +1,6 @@
 # Cortex of Light
 
-Cortex of Light is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Arca, Milan on Fri, 4 Dec 2026.
+Cortex of Light is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Arca, Milan on Fri, 4 Dec 2026.
 
 Cortex of Light is an experimental and techno artist based in Italy, with 10 gigs on soundcheck across London, Lyon, Milan and Turin. Often billed alongside OOZE, Piezo and Aitch. Next up: Arca, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Cortex of Light is an experimental and techno artist based in Italy, with 10 gig
 
 OOZE, Piezo, Aitch (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cortexoflight/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cortexoflight/)*

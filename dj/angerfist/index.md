@@ -1,14 +1,13 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - STAGECLUB SAARBRÜCKEN, Saarland on Fri, 27 Nov 2026.
+Angerfist is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
-Angerfist is a techno and hardcore artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 43 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: TBA - STAGECLUB SAARBRÜCKEN, Saarland on Fri 27 Nov.
+Angerfist is a techno and hardcore artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 43 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA - STAGECLUB SAARBRÜCKEN | Saarland |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 18 Dec 2026 | D! Club | Lausanne |
 | Sat, 26 Dec 2026 | Gate Milano | Milan |
@@ -20,6 +19,7 @@ Angerfist is a techno and hardcore artist based in Germany, with 91 gigs on soun
 
 ## Recently played
 
+- TBA - STAGECLUB SAARBRÜCKEN, Saarland · Fri, 27 Nov 2026
 - Espacio Riesco Expo Centre, Santiago · Sat, 21 Nov 2026
 - Pandora Sevilla, South · Fri, 20 Nov 2026
 - Parc des Expositions Paris Nord, Paris · Fri, 30 Oct 2026
@@ -27,10 +27,9 @@ Angerfist is a techno and hardcore artist based in Germany, with 91 gigs on soun
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - LAV - Lisboa ao Vivo, Lisbon · Fri, 23 Oct 2026
 - Sala Urbana, Mexico City · Fri, 9 Oct 2026
-- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Trym, Alignment, Mad Dog
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

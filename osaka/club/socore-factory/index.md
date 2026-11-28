@@ -1,6 +1,6 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "魔法と科学" on Sat, 28 Nov 2026.
+Socore Factory is a music venue in Osaka with 16 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "魔法と科学" on Sat, 28 Nov 2026.
 
 Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming gigs, with line-ups including 1LDK, AKIHIRO, AOKI takamasa and BABY (PT) and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
@@ -23,4 +23,4 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 16 upcoming gigs,
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

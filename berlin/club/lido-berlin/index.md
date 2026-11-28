@@ -1,6 +1,6 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "THE BB SHOW 26" on Sat, 12 Dec 2026.
+Lido Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "THE BB SHOW 26" on Sat, 12 Dec 2026.
 
 Lido Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including BLEACH.LIVE and Fejká. See dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

@@ -1,6 +1,6 @@
 # Bambi-S
 
-Bambi-S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 1 Jan 2027.
+Bambi-S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 1 Jan 2027.
 
 Bambi-S is a house and techno artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 11 more. Often billed alongside Stipo, Cristina Lazic and It's George!. Next up: Studio Club Malaga, Malaga on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Bambi-S is a house and techno artist based in Germany, with 44 gigs on soundchec
 
 Stipo, Cristina Lazic, It's George!
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*

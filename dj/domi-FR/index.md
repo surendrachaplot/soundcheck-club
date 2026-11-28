@@ -1,6 +1,6 @@
 # Domi (FR)
 
-Domi (FR) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
+Domi (FR) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
 
 Domi (FR) is an electro and house artist based in France, with 71 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside Jolly (FR), Lastvuska and Lumbago. Next up: Cabaret Sauvage, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Domi (FR) is an electro and house artist based in France, with 71 gigs on soundc
 
 Jolly (FR), Lastvuska, Lumbago
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*

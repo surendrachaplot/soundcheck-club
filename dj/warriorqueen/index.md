@@ -1,6 +1,6 @@
 # Warrior Queen
 
-Warrior Queen is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuchs2, Prague on Fri, 11 Dec 2026.
+Warrior Queen is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fuchs2, Prague on Fri, 11 Dec 2026.
 
 Warrior Queen is a dub and dubstep artist based in Jamaica, with 21 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside The Bug, Mia Koden and Nazar. Next up: Fuchs2, Prague on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Warrior Queen is a dub and dubstep artist based in Jamaica, with 21 gigs on soun
 
 The Bug, Mia Koden, Nazar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warriorqueen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warriorqueen/)*

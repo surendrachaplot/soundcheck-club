@@ -1,6 +1,6 @@
 # Miroloja
 
-Miroloja is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 29 Jan 2027.
+Miroloja is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 29 Jan 2027.
 
 Miroloja is a house and minimal artist based in France, with 52 gigs on soundcheck across Amsterdam, Athens, Barcelona and Boston and 18 more. Often billed alongside Janeret, Monile and Lowris. Next up: 303 Audiophile Bar, Barcelona on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Miroloja is a house and minimal artist based in France, with 52 gigs on soundche
 
 Janeret, Monile, Lowris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miroloja/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miroloja/)*

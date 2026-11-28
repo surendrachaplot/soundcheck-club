@@ -1,6 +1,6 @@
 # Miliard
 
-Miliard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Spice Cellar, Sydney on Sat, 19 Dec 2026.
+Miliard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Spice Cellar, Sydney on Sat, 19 Dec 2026.
 
 Miliard is a house and tech house artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Chris Stevo, A.Well and André Müller. Next up: Spice Cellar, Sydney on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Miliard is a house and tech house artist based in Australia, with 11 gigs on sou
 
 Chris Stevo, A.Well, André Müller
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*

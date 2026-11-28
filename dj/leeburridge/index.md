@@ -1,14 +1,13 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Ivy, Sydney on Sat, 28 Nov 2026.
+Lee Burridge is a Deep House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bourke Street Courtyard, Melbourne on Sun, 29 Nov 2026.
 
-Lee Burridge is a deep house and house artist based in United Kingdom, with 167 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: The Ivy, Sydney on Sat 28 Nov.
+Lee Burridge is a deep house and house artist based in United Kingdom, with 167 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Bourke Street Courtyard, Melbourne on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Sun, 29 Nov 2026 | Bourke Street Courtyard | Melbourne |
 | Fri, 18 Dec 2026 | Joshua Brooks | Manchester |
 | Fri, 18 Dec 2026 | Joshua Brooks | Manchester |
@@ -30,4 +29,4 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 167 
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

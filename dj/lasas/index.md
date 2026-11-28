@@ -1,6 +1,6 @@
 # Lasås
 
-Lasås is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
+Lasås is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Baggen, Copenhagen on Sat, 28 Nov 2026.
 
 Lasås is an electronic artist, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Anton Goltermann, DJ 2LATE and DRABER666. Next up: Baggen, Copenhagen on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Lasås is an electronic artist, with 5 gigs on soundcheck across Copenhagen. Oft
 
 Anton Goltermann, DJ 2LATE, DRABER666
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lasas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lasas/)*

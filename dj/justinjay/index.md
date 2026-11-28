@@ -1,6 +1,6 @@
 # Justin Jay
 
-Justin Jay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Common/UNDRGRND, Calgary on Fri, 11 Dec 2026.
+Justin Jay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Common/UNDRGRND, Calgary on Fri, 11 Dec 2026.
 
 Justin Jay is a house and techno artist based in United States of America, with 87 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Common/UNDRGRND, Calgary on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Justin Jay is a house and techno artist based in United States of America, with 
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*

@@ -1,14 +1,13 @@
 # Technimatic
 
-Technimatic is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at VIERNULVIER, Ghent on Fri, 27 Nov 2026.
+Technimatic is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at halle02, Heidelberg on Sat, 28 Nov 2026.
 
-Technimatic is a drum & bass and bass artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 21 more. Often billed alongside LowQui, S.P.Y and Camo & Krooked. Next up: VIERNULVIER, Ghent on Fri 27 Nov.
+Technimatic is a drum & bass and bass artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 21 more. Often billed alongside LowQui, S.P.Y and Camo & Krooked. Next up: halle02, Heidelberg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | VIERNULVIER | Ghent |
 | Sat, 28 Nov 2026 | halle02 | Heidelberg |
 | Thu, 10 Dec 2026 | Flash | Washington DC |
 | Thu, 10 Dec 2026 | Flash | Washington DC |
@@ -17,6 +16,7 @@ Technimatic is a drum & bass and bass artist based in United Kingdom, with 48 gi
 
 ## Recently played
 
+- VIERNULVIER, Ghent · Fri, 27 Nov 2026
 - Club Exil, Vienna · Sat, 3 Oct 2026
 - Outernet Live, London · Sat, 26 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
@@ -24,10 +24,9 @@ Technimatic is a drum & bass and bass artist based in United Kingdom, with 48 gi
 - Tägi, Zurich · Fri, 10 Jul 2026
 - TBA - Shed 10, Auckland · Thu, 9 Jul 2026
 - Digbeth Arena, Birmingham · Sat, 13 Jun 2026
-- Grelle Forelle, Vienna · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 LowQui, S.P.Y, Camo & Krooked
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*

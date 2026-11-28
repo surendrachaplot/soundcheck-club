@@ -1,14 +1,13 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote" on Fri, 27 Nov 2026.
+Gare Porto is a music venue in Porto with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Perf with |end|, ⌐\ I\I \_ [live], dawn dani (FREE ENTRY)" on Sat, 28 Nov 2026.
 
-Gare Porto is a music venue in Porto listed on soundcheck. 12 upcoming gigs, with line-ups including Amulador, Backbone, Banditst4r and CASH FROM HASH and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
+Gare Porto is a music venue in Porto listed on soundcheck. 11 upcoming gigs, with line-ups including Amulador, Backbone, CASH FROM HASH and dawn dani and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote | Banditst4r, Catarina Silva, Mingote, System Sophie |
 | Sat, 28 Nov 2026 | Perf with /end/, ⌐\ I\I \_ [live], dawn dani (FREE ENTRY) | dawn dani |
 | Mon, 30 Nov 2026 | Yanamaste, sepypes | Yanamaste, sepypes |
 | Fri, 4 Dec 2026 | Wipeout with K MOTIONZ, SOTA, Dogz United, Sobass, Demolisher | SOTA |
@@ -18,9 +17,10 @@ Gare Porto is a music venue in Porto listed on soundcheck. 12 upcoming gigs, wit
 | Sat, 12 Dec 2026 | K Koletivo with Marcal, Voorman, Ricardo P | Marcal, Ricardo P., Voorman |
 | Fri, 18 Dec 2026 | #01 _ Amulador invites Enkō (FREE ENTRY) | Amulador, Enkō |
 | Sat, 19 Dec 2026 | Rave Paraíso with The Advent, Shcuro & Maria Amor | Maria Amor, Shcuro, The Advent |
+| Fri, 25 Dec 2026 | DVS1 (Extended set), Amulador - Limited to 500 tickets | Amulador, DVS1 |
 
 ## Address
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

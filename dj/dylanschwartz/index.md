@@ -1,6 +1,6 @@
 # Dylan Schwartz
 
-Dylan Schwartz is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fooq's, Miami on Sun, 6 Dec 2026.
+Dylan Schwartz is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fooq's, Miami on Sun, 6 Dec 2026.
 
 Dylan Schwartz is a house and garage artist based in United States of America, with 10 gigs on soundcheck across Atlanta, London, Los Angeles and Miami and 2 more. Often billed alongside DJ Perception, Highkin' and Alec Falconer. Next up: Fooq's, Miami on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Dylan Schwartz is a house and garage artist based in United States of America, w
 
 DJ Perception, Highkin', Alec Falconer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanschwartz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanschwartz/)*

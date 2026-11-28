@@ -1,6 +1,6 @@
 # Eurohead
 
-Eurohead is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Rechabite, Perth on Sat, 5 Dec 2026.
+Eurohead is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Rechabite, Perth on Sat, 5 Dec 2026.
 
 Eurohead is a trance and club artist based in Sweden, with 25 gigs on soundcheck across Austin, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside ali rq, Brutalismus 3000 and Frost Children. Next up: The Rechabite, Perth on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Eurohead is a trance and club artist based in Sweden, with 25 gigs on soundcheck
 
 ali rq, Brutalismus 3000, Frost Children
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*

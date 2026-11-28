@@ -1,8 +1,8 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Wigwam, Dublin on Fri, 11 Dec 2026.
+dj sweet6teen is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Wigwam, Dublin on Fri, 11 Dec 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 277 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 60 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: Wigwam, Dublin on Fri 11 Dec.
+dj sweet6teen is a house and techno artist based in Germany, with 278 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 61 more. Often billed alongside Angel D'lite, Peach and Gene On Earth. Next up: Wigwam, Dublin on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ dj sweet6teen is a house and techno artist based in Germany, with 277 gigs on so
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 | Sat, 13 Feb 2027 | Palais | London |
+| Sat, 27 Feb 2027 | Mudgeeraba Showground | Gold-coast |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Sat, 29 May 2027 | The Pitt Market | Edinburgh |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
-| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
-| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ dj sweet6teen is a house and techno artist based in Germany, with 277 gigs on so
 
 ## Shares bills with
 
-Angel D'lite, Peach, Sansibar
+Angel D'lite, Peach, Gene On Earth
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

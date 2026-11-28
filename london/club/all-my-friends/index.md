@@ -1,6 +1,6 @@
 # All My Friends
 
-All My Friends is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Type One Community: Hackney Wick Residency - Free Entry" on Fri, 11 Dec 2026.
+All My Friends is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Type One Community: Hackney Wick Residency - Free Entry" on Fri, 11 Dec 2026.
 
 All My Friends is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including KT, Copes, CRL and Darush and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
@@ -20,4 +20,4 @@ All My Friends is a music venue in London listed on soundcheck. 7 upcoming gigs,
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

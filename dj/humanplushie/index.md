@@ -1,8 +1,8 @@
 # human plushie
 
-human plushie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paragon, New York City on Sat, 28 Nov 2026.
+human plushie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Paragon, New York City on Sat, 28 Nov 2026.
 
-human plushie is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Baltimore, Boston, Nashville and New York City and 4 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: Paragon, New York City on Sat 28 Nov.
+human plushie is a techno and house artist based in United States of America, with 32 gigs on soundcheck across Baltimore, Boston, Nashville and New York City and 4 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: Paragon, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ human plushie is a techno and house artist based in United States of America, wi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Paragon | New York City |
 | Sat, 12 Dec 2026 | TBA - Warehouse Location | Philadelphia |
+| Thu, 7 Jan 2027 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ human plushie is a techno and house artist based in United States of America, wi
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

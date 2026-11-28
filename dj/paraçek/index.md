@@ -1,14 +1,13 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Edelfettwerk, Hamburg on Fri, 27 Nov 2026.
+Paraçek is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Dockland, Münster on Sat, 28 Nov 2026.
 
-Paraçek is a techno and trance artist based in Germany, with 224 gigs on soundcheck across Amsterdam, Austria, Barcelona and Bavaria and 32 more. Often billed alongside A.N.I., KLING&KLANG and Sabu!. Next up: Edelfettwerk, Hamburg on Fri 27 Nov.
+Paraçek is a techno and trance artist based in Germany, with 224 gigs on soundcheck across Amsterdam, Austria, Barcelona and Bavaria and 32 more. Often billed alongside A.N.I., KLING&KLANG and Sabu!. Next up: Dockland, Münster on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Edelfettwerk | Hamburg |
 | Sat, 28 Nov 2026 | Dockland | Münster |
 | Fri, 4 Dec 2026 | Kalif Storch | Erfurt |
 | Sat, 5 Dec 2026 | Zoom Club | Frankfurt |
@@ -20,9 +19,11 @@ Paraçek is a techno and trance artist based in Germany, with 224 gigs on soundc
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
 | Sat, 23 Jan 2027 | Melbourne Showgrounds | Melbourne |
+| Fri, 5 Feb 2027 | Distillery | Leipzig |
 
 ## Recently played
 
+- Edelfettwerk, Hamburg · Fri, 27 Nov 2026
 - halle02, Heidelberg · Sat, 21 Nov 2026
 - OST, Berlin · Fri, 20 Nov 2026
 - Millenium Event Center, Lower-saxony · Fri, 13 Nov 2026
@@ -30,10 +31,9 @@ Paraçek is a techno and trance artist based in Germany, with 224 gigs on soundc
 - Werksviertel Mitte, Munich · Sat, 31 Oct 2026
 - Distillery, Leipzig · Fri, 30 Oct 2026
 - Carlswerk Victoria, Cologne · Sat, 24 Oct 2026
-- OST, Berlin · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 A.N.I., KLING&KLANG, Sabu!
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*

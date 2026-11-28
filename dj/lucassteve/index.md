@@ -1,6 +1,6 @@
 # Lucas & Steve
 
-Lucas & Steve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Cultural Lima, Peru on Sat, 19 Dec 2026.
+Lucas & Steve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Cultural Lima, Peru on Sat, 19 Dec 2026.
 
 Lucas & Steve are a house and techno duo based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Barcelona, Cologne and London and 9 more. Often billed alongside Afrojack, Quintino and Audien. Next up: Club Cultural Lima, Peru on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Lucas & Steve are a house and techno duo based in Netherlands, with 19 gigs on s
 
 Afrojack, Quintino, Audien
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucassteve/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucassteve/)*

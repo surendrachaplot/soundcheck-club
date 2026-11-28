@@ -1,6 +1,6 @@
 # Provider.999
 
-Provider.999 is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Thu, 31 Dec 2026.
+Provider.999 is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Thu, 31 Dec 2026.
 
 Provider.999 is a techno and dub techno artist based in United States of America, with 19 gigs on soundcheck across Austin, San Francisco/Oakland and Turin. Often billed alongside Brick (US), Alex DL and FAUNA. Next up: TBA - 4211 Todd Ln Suite A, Austin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Provider.999 is a techno and dub techno artist based in United States of America
 
 Brick (US), Alex DL, FAUNA (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/provider.999/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/provider.999/)*

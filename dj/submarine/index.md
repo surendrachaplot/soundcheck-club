@@ -1,6 +1,6 @@
 # submarine
 
-submarine is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Phonox, London on Fri, 8 Jan 2027.
+submarine is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Phonox, London on Fri, 8 Jan 2027.
 
 submarine is a drum & bass and dubstep artist based in Germany, with 21 gigs on soundcheck across Auckland, Basel, Berlin and Bristol and 8 more. Often billed alongside Alix Perez, Monty and SP:MC. Next up: Phonox, London on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ submarine is a drum & bass and dubstep artist based in Germany, with 21 gigs on 
 
 Alix Perez, Monty, SP:MC
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*

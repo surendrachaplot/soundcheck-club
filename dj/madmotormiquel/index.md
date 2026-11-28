@@ -1,6 +1,6 @@
 # Madmotormiquel
 
-Madmotormiquel is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at H0L0, New York City on Fri, 4 Dec 2026.
+Madmotormiquel is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at H0L0, New York City on Fri, 4 Dec 2026.
 
 Madmotormiquel is a house and deep house artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Berlin, Byron Bay and Cape Town and 28 more. Often billed alongside Kotoe, Nacho Isa and Franca. Next up: H0L0, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Madmotormiquel is a house and deep house artist based in Germany, with 102 gigs 
 
 Kotoe, Nacho Isa, Franca
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmotormiquel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmotormiquel/)*

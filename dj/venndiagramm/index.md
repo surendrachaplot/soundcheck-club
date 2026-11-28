@@ -1,6 +1,6 @@
 # Venn Diagramm
 
-Venn Diagramm is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Marble Bar, Detroit on Sat, 26 Dec 2026.
+Venn Diagramm is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Marble Bar, Detroit on Sat, 26 Dec 2026.
 
 Venn Diagramm is a techno and electro artist based in Mexico, with 27 gigs on soundcheck across Detroit and Washington DC. Often billed alongside Tom McBride, Lady Witch and joycxi. Next up: Marble Bar, Detroit on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Venn Diagramm is a techno and electro artist based in Mexico, with 27 gigs on so
 
 Tom McBride, Lady Witch, joycxi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*

@@ -1,14 +1,13 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kran Beograd, Belgrade on Fri, 27 Nov 2026.
+NEGITIV is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tirana Olympic Park, Tirana on Sun, 29 Nov 2026.
 
-NEGITIV is a techno and trance artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 61 more. Often billed alongside Alex Farell, Nicolas Julian and Onlynumbers. Next up: Kran Beograd, Belgrade on Fri 27 Nov.
+NEGITIV is a techno and trance artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 61 more. Often billed alongside Alex Farell, Nicolas Julian and Onlynumbers. Next up: Tirana Olympic Park, Tirana on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Kran Beograd | Belgrade |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 | Fri, 4 Dec 2026 | Hansemesse, Rostock | Mecklenburg-vorpommern |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
@@ -20,9 +19,11 @@ NEGITIV is a techno and trance artist based in Germany, with 131 gigs on soundch
 | Sat, 30 Jan 2027 | TBA - Genting, Malaysia | Kuala Lumpur |
 | Fri, 26 Feb 2027 | Selina's | Sydney |
 | Sat, 27 Feb 2027 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Fri, 14 May 2027 | De Plas | Belgium |
 
 ## Recently played
 
+- Kran Beograd, Belgrade · Fri, 27 Nov 2026
 - 74 Hall, Istanbul · Sat, 21 Nov 2026
 - Lokschuppen Dillingen, Baden-w-rttemberg · Sat, 14 Nov 2026
 - Hungexpo Budapest, Budapest · Fri, 13 Nov 2026
@@ -30,10 +31,9 @@ NEGITIV is a techno and trance artist based in Germany, with 131 gigs on soundch
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - Inter Expo Centre, Sofia · Sat, 17 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
-- Stahlwerk, Düsseldorf · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Alex Farell, Nicolas Julian, Onlynumbers
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

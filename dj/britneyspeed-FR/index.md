@@ -1,20 +1,20 @@
 # Britney Speed (FR)
 
-Britney Speed (FR) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Macadam, Nantes on Fri, 27 Nov 2026.
+Britney Speed (FR) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 11 Dec 2026.
 
-Britney Speed (FR) is a techno and trance artist, with 29 gigs on soundcheck across Copenhagen, Lille, London and Marseille and 4 more. Often billed alongside BETÏSES, Etienne Nogues and DJ GUESTLIST. Next up: Macadam, Nantes on Fri 27 Nov.
+Britney Speed (FR) is a techno and trance artist, with 29 gigs on soundcheck across Copenhagen, Lille, London and Marseille and 4 more. Often billed alongside BETÏSES, Etienne Nogues and DJ GUESTLIST. Next up: Cabaret  Aléatoire, Marseille on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Macadam | Nantes |
 | Fri, 11 Dec 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 18 Dec 2026 | Le Grand Sud | Lille |
 | Fri, 22 Jan 2027 | Warehouse | Nantes |
 
 ## Recently played
 
+- Macadam, Nantes · Fri, 27 Nov 2026
 - Le Château du Bois Guy, Rennes · Sat, 17 Oct 2026
 - La Java, Paris · Fri, 4 Sept 2026
 - Fvtvr, Paris · Mon, 13 Jul 2026
@@ -22,10 +22,9 @@ Britney Speed (FR) is a techno and trance artist, with 29 gigs on soundcheck acr
 - Kilomètre25, Paris · Sat, 27 Jun 2026
 - Unité.22, Marseille · Fri, 26 Jun 2026
 - Macadam, Nantes · Sat, 20 Jun 2026
-- fabric, London · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 BETÏSES, Etienne Nogues, DJ GUESTLIST
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed-FR/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed-FR/)*

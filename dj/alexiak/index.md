@@ -1,6 +1,6 @@
 # Alexia K.
 
-Alexia K. is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fusion Club, Münster on Sat, 5 Dec 2026.
+Alexia K. is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fusion Club, Münster on Sat, 5 Dec 2026.
 
 Alexia K. is a techno and acid artist based in Germany, with 11 gigs on soundcheck across Berlin, Düsseldorf, Luxembourg and Münster and 1 more. Often billed alongside Jens Mueller, Kerstin Eden and Tiko. Next up: Fusion Club, Münster on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Alexia K. is a techno and acid artist based in Germany, with 11 gigs on soundche
 
 Jens Mueller, Kerstin Eden, Tiko
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiak/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiak/)*

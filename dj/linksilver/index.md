@@ -1,6 +1,6 @@
 # Linksilver
 
-Linksilver is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 5 Dec 2026.
+Linksilver is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 5 Dec 2026.
 
 Linksilver is a minimal and techno artist based in France, with 18 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Doudeh, laurann and E-Tronik. Next up: Karmen Camina, Strasbourg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Linksilver is a minimal and techno artist based in France, with 18 gigs on sound
 
 Doudeh, laurann, E-Tronik
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linksilver/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linksilver/)*

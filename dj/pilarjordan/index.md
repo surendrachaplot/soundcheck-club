@@ -1,6 +1,6 @@
 # Pilar Jordan
 
-Pilar Jordan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
+Pilar Jordan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
 
 Pilar Jordan is a house and techno artist based in Chile, with 81 gigs on soundcheck across Berlin, Düsseldorf and Leipzig. Often billed alongside Dorsch, MELLA MARA and Lisatrix. Next up: KitKatClub, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Pilar Jordan is a house and techno artist based in Chile, with 81 gigs on soundc
 
 Dorsch, MELLA MARA, Lisatrix
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*

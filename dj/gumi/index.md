@@ -1,6 +1,6 @@
 # Gumi
 
-Gumi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 19 Dec 2026.
+Gumi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 19 Dec 2026.
 
 Gumi is a techno and house artist based in South Korea, with 189 gigs on soundcheck across Hanoi, Osaka and Seoul. Often billed alongside RTRP, Conan and Afrodite. Next up: Atdge Seoul, Seoul on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Gumi is a techno and house artist based in South Korea, with 189 gigs on soundch
 
 RTRP, Conan, Afrodite (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gumi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gumi/)*

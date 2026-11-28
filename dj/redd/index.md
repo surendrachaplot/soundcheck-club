@@ -1,14 +1,13 @@
 # Red D
 
-Red D is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Charlatan, Ghent on Sat, 28 Nov 2026.
+Red D is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Charlatan, Ghent on Sat, 19 Dec 2026.
 
-Red D is a house and disco artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Phi Phi, WLC (BE) and His dudeness. Next up: Charlatan, Ghent on Sat 28 Nov.
+Red D is a house and disco artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Phi Phi, WLC (BE) and His dudeness. Next up: Charlatan, Ghent on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Charlatan | Ghent |
 | Sat, 19 Dec 2026 | Charlatan | Ghent |
 | Thu, 31 Dec 2026 | Amigo | Ghent |
 
@@ -27,4 +26,4 @@ Red D is a house and disco artist based in Belgium, with 63 gigs on soundcheck a
 
 Phi Phi, WLC (BE), His dudeness
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redd/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redd/)*

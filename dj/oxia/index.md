@@ -1,6 +1,6 @@
 # Oxia
 
-Oxia is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Belle Électrique, South-east on Sat, 19 Dec 2026.
+Oxia is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at La Belle Électrique, South-east on Sat, 19 Dec 2026.
 
 Oxia is a techno and minimal artist based in France, with 35 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 17 more. Often billed alongside Nicolas Masseyeff, Julian Prince and AWEN. Next up: La Belle Électrique, South East on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Oxia is a techno and minimal artist based in France, with 35 gigs on soundcheck 
 
 Nicolas Masseyeff, Julian Prince, AWEN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oxia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oxia/)*

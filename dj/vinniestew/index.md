@@ -1,6 +1,6 @@
 # Vinnie Stew
 
-Vinnie Stew is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tuff Club, Singapore on Sat, 28 Nov 2026.
+Vinnie Stew is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tuff Club, Singapore on Sat, 28 Nov 2026.
 
 Vinnie Stew is a techno and house artist based in Singapore, with 40 gigs on soundcheck across Singapore. Often billed alongside Joshua Dillon, sho&tell and 3MZY. Next up: Tuff Club, Singapore on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vinnie Stew is a techno and house artist based in Singapore, with 40 gigs on sou
 
 Joshua Dillon, sho&tell, 3MZY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinniestew/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinniestew/)*

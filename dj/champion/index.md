@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot, Cardiff on Fri, 4 Dec 2026.
+Champion is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot, Cardiff on Fri, 4 Dec 2026.
 
 Champion is a garage and bass artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brighton and 18 more. Often billed alongside Oppidan, Shy FX and Bakey. Next up: Depot, Cardiff on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Champion is a garage and bass artist based in United Kingdom, with 53 gigs on so
 
 Oppidan, Shy FX, Bakey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

@@ -1,6 +1,6 @@
 # Hall
 
-Hall is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MÜRK LIMITED" on Sat, 28 Nov 2026.
+Hall is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "MÜRK LIMITED" on Sat, 28 Nov 2026.
 
 Hall is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-ups including Amanda Mussi, Artur Lääts, Brenna Ryan and Harbinmoths and 2 more. See dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
@@ -16,4 +16,4 @@ Hall is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with lin
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

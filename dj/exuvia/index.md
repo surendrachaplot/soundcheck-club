@@ -1,6 +1,6 @@
 # exuvia
 
-exuvia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
+exuvia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
 
 exuvia is a techno and house artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Berlin, Madrid and Medellin and 3 more. Often billed alongside NDSTPS, Yeiks and BENZA. Next up: TBA - Secret Location, Madrid on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ exuvia is a techno and house artist based in Spain, with 14 gigs on soundcheck a
 
 NDSTPS, Yeiks, BENZA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvia/)*

@@ -1,6 +1,6 @@
 # Agent 86
 
-Agent 86 is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 28 Nov 2026.
+Agent 86 is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 28 Nov 2026.
 
 Agent 86 is a deep house and house artist based in Australia, with 114 gigs on soundcheck across Madrid and Melbourne. Often billed alongside Cara Murphy, Jay Ramon and BoyBlewe. Next up: Revolver Upstairs, Melbourne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Agent 86 is a deep house and house artist based in Australia, with 114 gigs on s
 
 Cara Murphy, Jay Ramon, BoyBlewe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agent86/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agent86/)*

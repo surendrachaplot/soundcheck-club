@@ -1,6 +1,6 @@
 # TBH
 
-TBH is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Uczulenie, Wroclaw on Fri, 18 Dec 2026.
+TBH is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Uczulenie, Wroclaw on Fri, 18 Dec 2026.
 
 TBH is a bass and techno artist based in Poland, with 23 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside DJ SHOUT, szczupakola and Alegria. Next up: Uczulenie, Wroclaw on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ TBH is a bass and techno artist based in Poland, with 23 gigs on soundcheck acro
 
 DJ SHOUT, szczupakola, Alegria
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tbh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tbh/)*

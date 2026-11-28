@@ -1,14 +1,13 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Ezequiel Arias is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Plaza Mateo, Montevideo on Sat, 28 Nov 2026.
 
-Ezequiel Arias is a progressive house and house artist based in Argentina, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 26 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: TBA, Buenos Aires on Fri 20 Nov.
+Ezequiel Arias is a progressive house and house artist based in Argentina, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 26 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: TBA - Plaza Mateo, Montevideo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 28 Nov 2026 | TBA - Plaza Mateo | Montevideo |
 | Sun, 24 Jan 2027 | The River Hotel | Perth |
 | Sun, 7 Feb 2027 | Standard Time | Toronto |
@@ -28,4 +27,4 @@ Ezequiel Arias is a progressive house and house artist based in Argentina, with 
 
 Jody Wisternoff, Romain Garcia, Dosem
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

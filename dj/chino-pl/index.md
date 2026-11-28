@@ -1,6 +1,6 @@
 # Chino
 
-Chino is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Wesola Immersive, Krakow on Sat, 19 Dec 2026.
+Chino is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Wesola Immersive, Krakow on Sat, 19 Dec 2026.
 
 Chino is a techno and electro artist based in Poland, with 66 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Krakow and 6 more. Often billed alongside Olivia, Kondrat and Kinzo Chrome. Next up: Wesola Immersive, Krakow on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Chino is a techno and electro artist based in Poland, with 66 gigs on soundcheck
 
 Olivia, Kondrat, Kinzo Chrome
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chino-pl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chino-pl/)*

@@ -1,6 +1,6 @@
 # Ady Toledano
 
-Ady Toledano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Sat, 9 Jan 2027.
+Ady Toledano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at fabric, London on Sat, 9 Jan 2027.
 
 Ady Toledano is a house and techno artist based in Germany, with 61 gigs on soundcheck across Berlin, Copenhagen, Ljubljana and London and 2 more. Often billed alongside Juan Ramos, Frozilla and Johannes Albert. Next up: fabric, London on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Ady Toledano is a house and techno artist based in Germany, with 61 gigs on soun
 
 Juan Ramos, Frozilla, Johannes Albert
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adytoledano/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adytoledano/)*

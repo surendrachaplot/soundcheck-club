@@ -1,6 +1,6 @@
 # MUNÉO
 
-MUNÉO is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
+MUNÉO is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at HVEN, Tokyo on Sat, 28 Nov 2026.
 
 MUNÉO is a techno and club artist, with 154 gigs on soundcheck across Bangkok, Beijing, Melbourne and Osaka and 4 more. Often billed alongside RUKE, INAE and MELEETIME. Next up: HVEN, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ MUNÉO is a techno and club artist, with 154 gigs on soundcheck across Bangkok, 
 
 RUKE, INAE, MELEETIME
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*

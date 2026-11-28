@@ -1,6 +1,6 @@
 # Marco Liuzzi
 
-Marco Liuzzi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Revolver Upstairs, Melbourne on Sun, 29 Nov 2026.
+Marco Liuzzi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Revolver Upstairs, Melbourne on Sun, 29 Nov 2026.
 
 Marco Liuzzi is a techno and house artist based in Australia, with 7 gigs on soundcheck across Melbourne. Often billed alongside SNAXX, Ari (AU) and Blasha & Allatt. Next up: Revolver Upstairs, Melbourne on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ Marco Liuzzi is a techno and house artist based in Australia, with 7 gigs on sou
 
 SNAXX, Ari (AU), Blasha & Allatt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoliuzzi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoliuzzi/)*

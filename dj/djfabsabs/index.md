@@ -1,6 +1,6 @@
 # DJ Fabsabs
 
-DJ Fabsabs is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Soho House Hong Kong, Hong Kong on Sat, 5 Dec 2026.
+DJ Fabsabs is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Soho House Hong Kong, Hong Kong on Sat, 5 Dec 2026.
 
 DJ Fabsabs is a pop and disco artist, with 9 gigs on soundcheck across Hong Kong, London and Shenzhen. Often billed alongside 1908, Auntie Klockwise and Fold. Next up: Soho House Hong Kong, Hong Kong on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Fabsabs is a pop and disco artist, with 9 gigs on soundcheck across Hong Kong
 
 1908, Auntie Klockwise, Fold
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfabsabs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfabsabs/)*

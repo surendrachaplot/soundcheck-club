@@ -1,6 +1,6 @@
 # Dj Andi
 
-Dj Andi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
+Dj Andi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - secret Location via Telegram , Berlin on Sat, 12 Dec 2026.
 
 Dj Andi is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Bucharest, Cologne and Sao Paulo and 2 more. Often billed alongside Thielking, Ravejezuz and GM1 (IT). Next up: TBA - secret Location via Telegram , Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Dj Andi is a techno and house artist based in Germany, with 23 gigs on soundchec
 
 Thielking, Ravejezuz, GM1 (IT)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*

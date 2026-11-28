@@ -1,6 +1,6 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "EXPANSIVE" on Fri, 27 Nov 2026.
+Rolling Stock is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Soul Deep - Infinity Rhythm Sessions" on Sat, 28 Nov 2026.
 
 Rolling Stock is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adiian, Alan Banks, Aubrey Fry and BIG DRECO and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
@@ -8,7 +8,6 @@ Rolling Stock is a music venue in London listed on soundcheck. 12 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | EXPANSIVE | Cat Caesura, Larnie, Spinks, Tribal |
 | Sat, 28 Nov 2026 | Soul Deep - Infinity Rhythm Sessions | KingCrowney, Matty Gillespie, Mike Millrain, Mikey DJ, Mr Roach, Randy Peterson |
 | Thu, 3 Dec 2026 | Thursday Social |  |
 | Fri, 4 Dec 2026 | Half Way Home 008 - The Xmas Party | Brandon Benoit, Josh German, Rodney (3), Sahil, T1 (1) |
@@ -17,10 +16,11 @@ Rolling Stock is a music venue in London listed on soundcheck. 12 upcoming gigs,
 | Thu, 10 Dec 2026 | Thursday Social |  |
 | Thu, 17 Dec 2026 | Thursday Social |  |
 | Sat, 19 Dec 2026 | The Foundation: Xmas Party (DNB & Jungle) |  |
+| Fri, 15 Jan 2027 | Being | XS BULLY, Yazmin (UK) |
 | Fri, 29 Jan 2027 | Crate Classics presents | Jamie Rodigan |
 
 ## Address
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

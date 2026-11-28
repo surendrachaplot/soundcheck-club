@@ -1,6 +1,6 @@
 # Mágafas
 
-Mágafas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Oddity Club, Athens on Fri, 11 Dec 2026.
+Mágafas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Oddity Club, Athens on Fri, 11 Dec 2026.
 
 Mágafas is a techno and house artist based in Greece, with 32 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Takis DK, Dom K and Gatsio. Next up: Oddity Club, Athens on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Mágafas is a techno and house artist based in Greece, with 32 gigs on soundchec
 
 Takis DK, Dom K, Gatsio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magafas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magafas/)*

@@ -1,6 +1,6 @@
 # EM ILL
 
-EM ILL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Smolna, Warsaw on Sat, 28 Nov 2026.
+EM ILL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Smolna, Warsaw on Sat, 28 Nov 2026.
 
 EM ILL is a techno and house artist based in Poland, with 17 gigs on soundcheck across Warsaw. Often billed alongside blessthemess, KoZa and HANICZ. Next up: Smolna, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ EM ILL is a techno and house artist based in Poland, with 17 gigs on soundcheck 
 
 blessthemess, KoZa, HANICZ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emill/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emill/)*

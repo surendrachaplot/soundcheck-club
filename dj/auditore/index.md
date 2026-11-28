@@ -1,6 +1,6 @@
 # Auditore
 
-Auditore is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Flex, Vienna on Fri, 4 Dec 2026.
+Auditore is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Flex, Vienna on Fri, 4 Dec 2026.
 
 Auditore is a hardcore and techno artist, with 6 gigs on soundcheck across Vienna. Often billed alongside DANBERG, AKKI (DE) and Aleta. Next up: Flex, Vienna on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Auditore is a hardcore and techno artist, with 6 gigs on soundcheck across Vienn
 
 DANBERG, AKKI (DE), Aleta
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auditore/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auditore/)*

@@ -1,6 +1,6 @@
 # DJ Ace
 
-DJ Ace is a R&B and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Thu, 31 Dec 2026.
+DJ Ace is a R&B and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Thu, 31 Dec 2026.
 
 DJ Ace is a r&b and afro house artist based in United States of America, with 19 gigs on soundcheck across Detroit, Ibiza, London and Zurich. Often billed alongside Supa D, DJ Godfather and Pioneer. Next up: Zinkbad Eventhalle, Zurich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DJ Ace is a r&b and afro house artist based in United States of America, with 19
 
 Supa D, DJ Godfather, Pioneer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*

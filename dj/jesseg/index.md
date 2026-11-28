@@ -1,6 +1,6 @@
 # Jesse G
 
-Jesse G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Dec 2026.
+Jesse G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Dec 2026.
 
 Jesse G is a techno and house artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 21 more. Often billed alongside Blasha & Allatt, Inox Traxx and Jasmín. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Jesse G is a techno and house artist based in Germany, with 114 gigs on soundche
 
 Blasha & Allatt, Inox Traxx, Jasmín
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*

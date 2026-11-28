@@ -1,6 +1,6 @@
 # Kill the Void
 
-Kill the Void is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot, Cardiff on Fri, 5 Feb 2027.
+Kill the Void is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot, Cardiff on Fri, 5 Feb 2027.
 
 Kill the Void is a techno and hardcore artist based in France, with 11 gigs on soundcheck across Berlin, Bogotá, Budapest and Cardiff and 7 more. Often billed alongside Indecorum, KLOFAMA and SIKOTI. Next up: Depot, Cardiff on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Kill the Void is a techno and hardcore artist based in France, with 11 gigs on s
 
 Indecorum, KLOFAMA, SIKOTI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killthevoid/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killthevoid/)*

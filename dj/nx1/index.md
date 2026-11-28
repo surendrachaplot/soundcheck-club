@@ -1,6 +1,6 @@
 # NX1
 
-NX1 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 16 Jan 2027.
+NX1 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 16 Jan 2027.
 
 NX1 is a techno and industrial artist, with 18 gigs on soundcheck across Barcelona, Beijing, Berlin and Melbourne and 5 more. Often billed alongside Reka, Unhuman and .upDXyl. Next up: Village Underground Barcelona, Barcelona on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ NX1 is a techno and industrial artist, with 18 gigs on soundcheck across Barcelo
 
 Reka, Unhuman, .upDXyl
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nx1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nx1/)*

@@ -1,6 +1,6 @@
 # LUMIINA
 
-LUMIINA is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 4 Dec 2026.
+LUMIINA is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 4 Dec 2026.
 
 LUMIINA is a house and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Manchester. Often billed alongside KABOCANA, 13Ø4 and Edriff. Next up: Cupra City Garage Manchester, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ LUMIINA is a house and jungle artist based in United Kingdom, with 13 gigs on so
 
 KABOCANA, 13Ø4, Edriff
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiina/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiina/)*

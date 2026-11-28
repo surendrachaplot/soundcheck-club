@@ -1,18 +1,18 @@
 # Michael Red
 
-Michael Red is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Disclosed to ticket holders , Calgary on Fri, 27 Nov 2026.
+Michael Red is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat, 2 Jan 2027.
 
-Michael Red is a bass and experimental artist based in Canada, with 33 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Max Ulis, Taal Mala and Daega Sound. Next up: TBA - Disclosed to ticket holders , Calgary on Fri 27 Nov.
+Michael Red is a bass and experimental artist based in Canada, with 33 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Max Ulis, Taal Mala and Daega Sound. Next up: TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat 2 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA - Disclosed to ticket holders  | Calgary |
 | Sat, 2 Jan 2027 | TBA - Address sent to ticket holders 7 pm day of show | Vancouver |
 
 ## Recently played
 
+- TBA - Disclosed to ticket holders , Calgary · Fri, 27 Nov 2026
 - KW Studios, Vancouver · Sat, 19 Sept 2026
 - TBA, Vancouver · Sat, 1 Aug 2026
 - TBA, Vancouver · Fri, 12 Jun 2026
@@ -20,10 +20,9 @@ Michael Red is a bass and experimental artist based in Canada, with 33 gigs on s
 - TBA - Ceperley Park, Stanley Park, Vancouver · Sun, 22 Mar 2026
 - Sound Center, Vancouver · Fri, 20 Mar 2026
 - TBA - 1-866-2-LIGHTA, Vancouver · Sat, 3 Jan 2026
-- TBA, Vancouver · Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Max Ulis, Taal Mala, Daega Sound
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelred/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelred/)*

@@ -1,6 +1,6 @@
 # Jesse Sandwich
 
-Jesse Sandwich is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Podlasie Club, Chicago on Sat, 5 Dec 2026.
+Jesse Sandwich is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Podlasie Club, Chicago on Sat, 5 Dec 2026.
 
 Jesse Sandwich is a house and italo disco artist based in United States of America, with 20 gigs on soundcheck across Chicago and Los Angeles. Often billed alongside Ross Kelly, BLACKCLUB and BLESSTONIO. Next up: Podlasie Club, Chicago on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Jesse Sandwich is a house and italo disco artist based in United States of Ameri
 
 Ross Kelly, BLACKCLUB, BLESSTONIO
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesandwich/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesandwich/)*

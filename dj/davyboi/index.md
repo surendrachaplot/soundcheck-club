@@ -1,14 +1,13 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Fri, 27 Nov 2026.
+davyboi is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Academy LA, Los Angeles on Fri, 4 Dec 2026.
 
-davyboi is a techno and trance artist based in Germany, with 205 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 49 more. Often billed alongside Mika Heggemann, Cleopard2000 and Trancemaster Krause. Next up: Mia Mao, Paris on Fri 27 Nov.
+davyboi is a techno and trance artist based in Germany, with 205 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 49 more. Often billed alongside Mika Heggemann, Cleopard2000 and Trancemaster Krause. Next up: Academy LA, Los Angeles on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Mia Mao | Paris |
 | Fri, 4 Dec 2026 | Academy LA | Los Angeles |
 | Sat, 12 Dec 2026 | Radius | Chicago |
 | Sun, 27 Dec 2026 | Wigwam | Dublin |
@@ -21,6 +20,7 @@ davyboi is a techno and trance artist based in Germany, with 205 gigs on soundch
 
 ## Recently played
 
+- Mia Mao, Paris · Fri, 27 Nov 2026
 - Komplexo Tempo, Sao Paulo · Sat, 21 Nov 2026
 - Fuse, Brussels · Fri, 13 Nov 2026
 - Beursgebouw, Eindhoven · Sat, 7 Nov 2026
@@ -28,10 +28,9 @@ davyboi is a techno and trance artist based in Germany, with 205 gigs on soundch
 - E1, London · Fri, 6 Nov 2026
 - Werksviertel Mitte, Munich · Sat, 31 Oct 2026
 - Boogaloo, Zagreb · Fri, 30 Oct 2026
-- Thuishaven, Amsterdam · Sun, 25 Oct 2026
 
 ## Shares bills with
 
 Mika Heggemann, Cleopard2000, Trancemaster Krause
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

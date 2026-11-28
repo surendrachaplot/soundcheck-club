@@ -1,6 +1,6 @@
 # KEMADA
 
-KEMADA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Egg London, London on Thu, 31 Dec 2026.
+KEMADA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Thu, 31 Dec 2026.
 
 KEMADA is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Dan Luxa, Cam Smith and Hakz. Next up: Egg London, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ KEMADA is a house and tech house artist based in United Kingdom, with 10 gigs on
 
 Dan Luxa, Cam Smith (3), Hakz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kemada/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kemada/)*

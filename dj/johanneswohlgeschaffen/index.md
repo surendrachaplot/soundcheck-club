@@ -1,6 +1,6 @@
 # Johannes Wohlgeschaffen
 
-Johannes Wohlgeschaffen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Skateschule München - Spaceforskate, Munich on Sat, 12 Dec 2026.
+Johannes Wohlgeschaffen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Skateschule München - Spaceforskate, Munich on Sat, 12 Dec 2026.
 
 Johannes Wohlgeschaffen is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside DJ Sweedee, Lisek and OCIN. Next up: Skateschule München - Spaceforskate, Munich on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Johannes Wohlgeschaffen is a techno and trance artist based in Germany, with 16 
 
 DJ Sweedee, Lisek, OCIN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johanneswohlgeschaffen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johanneswohlgeschaffen/)*

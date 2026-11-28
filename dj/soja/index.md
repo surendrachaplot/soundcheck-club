@@ -1,6 +1,6 @@
 # Soja
 
-Soja is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jalousy, Brussels on Thu, 31 Dec 2026.
+Soja is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Jalousy, Brussels on Thu, 31 Dec 2026.
 
 Soja is an electro and house artist based in Belgium, with 21 gigs on soundcheck across Brussels, Las Vegas and San Francisco/Oakland. Often billed alongside DC Salas, SVS and Nikita. Next up: Jalousy, Brussels on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Soja is an electro and house artist based in Belgium, with 21 gigs on soundcheck
 
 DC Salas, SVS (1), Nikita
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soja/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soja/)*

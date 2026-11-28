@@ -1,6 +1,6 @@
 # David Christopher
 
-David Christopher is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Paradise Now, Düsseldorf on Sat, 28 Nov 2026.
+David Christopher is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Paradise Now, Düsseldorf on Sat, 28 Nov 2026.
 
 David Christopher is a house and afro house artist based in Germany, with 4 gigs on soundcheck across Düsseldorf. Often billed alongside FALYN. Next up: The Paradise Now, Düsseldorf on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ David Christopher is a house and afro house artist based in Germany, with 4 gigs
 
 FALYN
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidchristopher/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidchristopher/)*

@@ -1,6 +1,6 @@
 # The Cook, The Thief
 
-The Cook, The Thief is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - M Club, Taipei on Sat, 5 Dec 2026.
+The Cook, The Thief is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - M Club, Taipei on Sat, 5 Dec 2026.
 
 The Cook, The Thief are a house and minimal duo based in Taiwan, with 18 gigs on soundcheck across Taipei. Often billed alongside DZRT FRST, Berthom and Pvrple Breeze. Next up: TBA - M Club, Taipei on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ The Cook, The Thief are a house and minimal duo based in Taiwan, with 18 gigs on
 
 DZRT FRST, Berthom, Pvrple Breeze
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecookthethief/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecookthethief/)*

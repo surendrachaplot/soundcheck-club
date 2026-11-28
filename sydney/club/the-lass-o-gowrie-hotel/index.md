@@ -1,6 +1,6 @@
 # The Lass O'Gowrie Hotel
 
-The Lass O'Gowrie Hotel is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "2nDimension Pres. André Zimmer" on Fri, 18 Dec 2026.
+The Lass O'Gowrie Hotel is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "2nDimension Pres. André Zimmer" on Fri, 18 Dec 2026.
 
 The Lass O'Gowrie Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Andre Zimmer, Gwyn, jyc. and Kurly and 2 more. See dates, start times and who's playing. 14 Railway Street , Wickham., Newcastle, New South Wales 2293.
 
@@ -15,4 +15,4 @@ The Lass O'Gowrie Hotel is a music venue in Sydney listed on soundcheck. 2 upcom
 
 14 Railway Street , Wickham., Newcastle, New South Wales 2293, Sydney
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lass-o-gowrie-hotel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lass-o-gowrie-hotel/)*

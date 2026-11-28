@@ -1,6 +1,6 @@
 # Ditzy
 
-Ditzy is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Ditzy is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 Ditzy is a techno and idm artist based in Italy, with 35 gigs on soundcheck across Berlin, Brussels, Buenos Aires and London and 2 more. Often billed alongside Known Artist, KLËRR and ARMANDO. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ Ditzy is a techno and idm artist based in Italy, with 35 gigs on soundcheck acro
 
 Known Artist, KLËRR, ARMANDO
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ditzy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ditzy/)*

@@ -1,6 +1,6 @@
 # Al Kent
 
-Al Kent is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 16 Jan 2027.
+Al Kent is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 16 Jan 2027.
 
 Al Kent is a disco and house artist based in United Kingdom, with 27 gigs on soundcheck across Barcelona, Glasgow, London and Miami and 2 more. Often billed alongside Craig Smith, David Barbarossa and Dimitri From Paris. Next up: The Berkeley Suite, Glasgow on Sat 16 Jan.
 
@@ -26,4 +26,4 @@ Al Kent is a disco and house artist based in United Kingdom, with 27 gigs on sou
 
 Craig Smith, David Barbarossa, Dimitri From Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/al-kent/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/al-kent/)*

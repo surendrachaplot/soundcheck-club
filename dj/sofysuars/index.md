@@ -1,6 +1,6 @@
 # Sofy Suars
 
-Sofy Suars is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Club (Málaga), Malaga on Sat, 5 Dec 2026.
+Sofy Suars is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Club (Málaga), Malaga on Sat, 5 Dec 2026.
 
 Sofy Suars is a latin bass and techno artist based in Bolivia, with 57 gigs on soundcheck across Antwerp, Barcelona, Beijing and Belgrade and 15 more. Often billed alongside Tiyumii, Julio César and M8NSE. Next up: The Club (Málaga), Malaga on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sofy Suars is a latin bass and techno artist based in Bolivia, with 57 gigs on s
 
 Tiyumii, Julio César, M8NSE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofysuars/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofysuars/)*

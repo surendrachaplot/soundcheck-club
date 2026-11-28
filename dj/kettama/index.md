@@ -1,14 +1,13 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at GASHOUDER, Amsterdam on Fri, 27 Nov 2026.
+KETTAMA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
-KETTAMA is a techno and house artist based in Ireland, with 276 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 85 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: GASHOUDER, Amsterdam on Fri 27 Nov.
+KETTAMA is a techno and house artist based in Ireland, with 276 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 85 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | GASHOUDER | Amsterdam |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
@@ -19,6 +18,7 @@ KETTAMA is a techno and house artist based in Ireland, with 276 gigs on soundche
 
 ## Recently played
 
+- GASHOUDER, Amsterdam · Fri, 27 Nov 2026
 - Antwerp Expo, Antwerp · Sat, 7 Nov 2026
 - Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
@@ -26,10 +26,9 @@ KETTAMA is a techno and house artist based in Ireland, with 276 gigs on soundche
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Knockdown Center, New York City · Fri, 9 Oct 2026
-- Knockdown Center, New York City · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 Partiboi69, Ben Hemsley, Mall Grab
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

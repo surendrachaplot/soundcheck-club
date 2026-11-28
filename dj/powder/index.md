@@ -1,6 +1,6 @@
 # Powder
 
-Powder is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Yebisu The Garden Hall, Tokyo on Sun, 27 Dec 2026.
+Powder is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Yebisu The Garden Hall, Tokyo on Sun, 27 Dec 2026.
 
 Powder is a house and techno artist based in Japan, with 74 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 30 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Yebisu The Garden Hall, Tokyo on Sun 27 Dec.
 
@@ -26,4 +26,4 @@ Powder is a house and techno artist based in Japan, with 74 gigs on soundcheck a
 
 5ive, KOOLMFL, Mala
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*

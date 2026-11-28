@@ -1,14 +1,13 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "La Descarguita · DJ Mois & Karly Golden" on Fri, 27 Nov 2026.
+berlinClub is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Blend · Johnny Reckless + Nacho Larache + Marcos Boricua" on Sat, 28 Nov 2026.
 
-berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Sosa, Alvaro Medina, Daya Dadlani and Demattei and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
+berlinClub is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Sosa, Alvaro Medina, Daya Dadlani and Demattei and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | La Descarguita · DJ Mois & Karly Golden | DJ Mois |
 | Sat, 28 Nov 2026 | Blend · Johnny Reckless + Nacho Larache + Marcos Boricua | Marcos Boricua |
 | Fri, 4 Dec 2026 | La Ropa · Miguel Agnes & Sasa Yagüe |  |
 | Sat, 5 Dec 2026 | Jazzy Club · Dorian Paic + Álvaro Medina BDAY + DHERMIDA + Manu Rochina | Alvaro Medina, DHERMIDA, Dorian Paic |
@@ -19,4 +18,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

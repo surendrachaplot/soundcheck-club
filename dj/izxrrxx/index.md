@@ -1,6 +1,6 @@
 # izxrrxx
 
-izxrrxx is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Elastica, Vilnius on Fri, 18 Dec 2026.
+izxrrxx is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Elastica, Vilnius on Fri, 18 Dec 2026.
 
 izxrrxx is a techno and industrial artist based in Lithuania, with 17 gigs on soundcheck across Vilnius. Often billed alongside Acidless, Domciakas and Et Cetera. Next up: Elastica, Vilnius on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ izxrrxx is a techno and industrial artist based in Lithuania, with 17 gigs on so
 
 Acidless, Domciakas, Et Cetera
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izxrrxx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izxrrxx/)*

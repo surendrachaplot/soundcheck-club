@@ -1,6 +1,6 @@
 # Cellarman
 
-Cellarman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nashaz, Brussels on Fri, 4 Dec 2026.
+Cellarman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Nashaz, Brussels on Fri, 4 Dec 2026.
 
 Cellarman is a drum & bass and jungle artist based in Belgium, with 26 gigs on soundcheck across Brussels. Often billed alongside Expensive KVR, Hyzno and Aleph Dub. Next up: Nashaz, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Cellarman is a drum & bass and jungle artist based in Belgium, with 26 gigs on s
 
 Expensive KVR, Hyzno, Aleph Dub
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*

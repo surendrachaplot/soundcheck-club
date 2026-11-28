@@ -1,6 +1,6 @@
 # Akie
 
-Akie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
+Akie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
 
 Akie is a techno and house artist based in Japan, with 64 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside YAMARCHY, DJ Nobu and CHIDA. Next up: MIDNIGHT EAST, Tokyo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Akie is a techno and house artist based in Japan, with 64 gigs on soundcheck acr
 
 YAMARCHY, DJ Nobu, CHIDA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*

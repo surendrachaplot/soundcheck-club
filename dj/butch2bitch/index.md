@@ -1,6 +1,6 @@
 # Butch2Bitch
 
-Butch2Bitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Sun, 13 Dec 2026.
+Butch2Bitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fitzroy, Berlin on Sun, 13 Dec 2026.
 
 Butch2Bitch is a techno and house artist based in France, with 8 gigs on soundcheck across Berlin and Paris. Often billed alongside Kiar Oscuro, Miss T Delight and Or_ion. Next up: Fitzroy, Berlin on Sun 13 Dec.
 
@@ -24,4 +24,4 @@ Butch2Bitch is a techno and house artist based in France, with 8 gigs on soundch
 
 Kiar Oscuro, Miss T Delight, Or_ion
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butch2bitch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butch2bitch/)*

@@ -1,15 +1,13 @@
 # Folamour
 
-Folamour is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Arts Club, Liverpool on Fri, 27 Nov 2026.
+Folamour is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lx Factory, Lisbon on Sat, 28 Nov 2026.
 
-Folamour is a house and disco artist based in France, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Arts Club, Liverpool on Fri 27 Nov.
+Folamour is a house and disco artist based in France, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Lx Factory, Lisbon on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Arts Club | Liverpool |
-| Fri, 27 Nov 2026 | Arts Club | Liverpool |
 | Sat, 28 Nov 2026 | Lx Factory | Lisbon |
 | Sat, 5 Dec 2026 | Nitsa Club | Barcelona |
 | Fri, 11 Dec 2026 | Apollo Club Milano | Milan |
@@ -18,17 +16,17 @@ Folamour is a house and disco artist based in France, with 165 gigs on soundchec
 
 ## Recently played
 
+- Arts Club, Liverpool · Fri, 27 Nov 2026
+- Arts Club, Liverpool · Fri, 27 Nov 2026
 - Palais, London · Sun, 15 Nov 2026
 - DRUMSHEDS, London · Fri, 13 Nov 2026
 - Roig Arena, Valencia · Sat, 7 Nov 2026
 - De Kromhouthal, Amsterdam · Sun, 25 Oct 2026
 - NX Newcastle, Newcastle · Fri, 23 Oct 2026
 - Interference, Toulouse · Sat, 3 Oct 2026
-- TBA - Quai De Heembeek, Brussels · Tue, 29 Sept 2026
-- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

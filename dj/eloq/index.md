@@ -1,6 +1,6 @@
 # ELOQ
 
-ELOQ is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Poolen, Copenhagen on Fri, 11 Dec 2026.
+ELOQ is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Poolen, Copenhagen on Fri, 11 Dec 2026.
 
 ELOQ is a garage and house artist based in Denmark, with 34 gigs on soundcheck across Antwerp, Brighton, Bristol and Copenhagen and 9 more. Often billed alongside Main Phase, Megan Wroe and Silva Bumpa. Next up: Poolen, Copenhagen on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ ELOQ is a garage and house artist based in Denmark, with 34 gigs on soundcheck a
 
 Main Phase, Megan Wroe, Silva Bumpa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eloq/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eloq/)*

@@ -1,15 +1,13 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
+Restricted is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Restricted is a techno and hardcore artist based in Australia, with 93 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 57 more. Often billed alongside Azyr, Onlynumbers and Nikolina. Next up: The Prospect Building, Bristol on Fri 27 Nov.
+Restricted is a techno and hardcore artist based in Australia, with 93 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 57 more. Often billed alongside Azyr, Onlynumbers and Nikolina. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Prospect Building | Bristol |
-| Fri, 27 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -21,17 +19,17 @@ Restricted is a techno and hardcore artist based in Australia, with 93 gigs on s
 
 ## Recently played
 
+- The Prospect Building, Bristol · Fri, 27 Nov 2026
+- The Prospect Building, Bristol · Fri, 27 Nov 2026
 - Espacio Riesco Expo Centre, Santiago · Sat, 21 Nov 2026
 - Factory Town, Miami · Fri, 13 Nov 2026
 - Level 1 @ Cannonball Arts, Seattle · Sat, 7 Nov 2026
 - Travis County Exposition Center, Austin · Fri, 30 Oct 2026
 - Westworld of Scottsdale, Arizona · Fri, 30 Oct 2026
 - SOMA, San Diego · Fri, 23 Oct 2026
-- Royale, Boston · Sat, 17 Oct 2026
-- Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Azyr, Onlynumbers, Nikolina
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

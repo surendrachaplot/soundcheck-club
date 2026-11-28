@@ -1,6 +1,6 @@
 # iasc
 
-iasc is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hen's Teeth, Dublin on Sat, 19 Dec 2026.
+iasc is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hen's Teeth, Dublin on Sat, 19 Dec 2026.
 
 iasc is a house and club artist based in United Kingdom, with 6 gigs on soundcheck across Dublin and London. Often billed alongside Tyvion Valentine, DJ-CK and Dylan Forbes. Next up: Hen's Teeth, Dublin on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ iasc is a house and club artist based in United Kingdom, with 6 gigs on soundche
 
 Tyvion Valentine, DJ-CK, Dylan Forbes
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iasc/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iasc/)*

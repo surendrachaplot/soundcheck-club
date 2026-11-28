@@ -1,6 +1,6 @@
 # Pr0xima
 
-Pr0xima is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Process PDX, Portland on Thu, 10 Dec 2026.
+Pr0xima is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Process PDX, Portland on Thu, 10 Dec 2026.
 
 Pr0xima is a techno and minimal techno artist based in United States of America, with 5 gigs on soundcheck across Los Angeles and Portland. Often billed alongside C Powers, DJ DISSOLVE and DJ TOOL. Next up: Process PDX, Portland on Thu 10 Dec.
 
@@ -21,4 +21,4 @@ Pr0xima is a techno and minimal techno artist based in United States of America,
 
 C Powers, DJ DISSOLVE, DJ TOOL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pr0xima/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pr0xima/)*

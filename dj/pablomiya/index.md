@@ -1,6 +1,6 @@
 # Pablo Miya
 
-Pablo Miya is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+Pablo Miya is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 Pablo Miya is a house and deep house artist based in Mexico, with 75 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Miss Voltaghe, Duke Skylocker (Disco Dust) and Lake Chalco. Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Pablo Miya is a house and deep house artist based in Mexico, with 75 gigs on sou
 
 Miss Voltaghe, Duke Skylocker (Disco Dust), Lake Chalco
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablomiya/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablomiya/)*

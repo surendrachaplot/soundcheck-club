@@ -1,6 +1,6 @@
 # NYE: Dam Swindle • Cinnaman & Monty DJ • Kléo & Diggy Doug • Retromigration at Radio Radio
 
-NYE: Dam Swindle • Cinnaman & Monty DJ • Kléo & Diggy Doug • Retromigration at Radio Radio on Thu 31 Dec, Amsterdam. 6 artists: Cinnaman, Dam Swindle, Diggy Doug and Kleø and 2 more. See the line-up on soundcheck.
+NYE: Dam Swindle • Cinnaman & Monty DJ • Kléo & Diggy Doug • Retromigration at Radio Radio on Thu 31 Dec, Amsterdam. 6 artists: Cinnaman, Dam Swindle, Diggy Doug and Kléo and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ NYE: Dam Swindle • Cinnaman & Monty DJ • Kléo & Diggy Doug • Retromigrati
 - Cinnaman
 - Dam Swindle
 - Diggy Doug
-- Kleø
+- Kléo
 - Monty DJ
 - Retromigration
 

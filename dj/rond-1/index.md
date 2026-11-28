@@ -1,6 +1,6 @@
 # Rond (1)
 
-Rond (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
+Rond (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
 
 Rond is a techno and house artist based in Italy, with 45 gigs on soundcheck across Barcelona, Berlin, Bologna and Bucharest and 5 more. Often billed alongside Luca Piermattei, 2VIBES and DJ Rou. Next up: TBA - Secret Location, Central on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rond is a techno and house artist based in Italy, with 45 gigs on soundcheck acr
 
 Luca Piermattei, 2VIBES, DJ Rou
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*

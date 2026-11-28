@@ -1,6 +1,6 @@
 # STONI O DRAGÃO
 
-STONI O DRAGÃO is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Apotheke, Los Angeles on Sat, 28 Nov 2026.
+STONI O DRAGÃO is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Apotheke, Los Angeles on Sat, 28 Nov 2026.
 
 STONI O DRAGÃO is a club and experimental artist based in United States of America, with 22 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Asphodèle, CHRYSALIS and Terrell Brooke. Next up: Apotheke, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ STONI O DRAGÃO is a club and experimental artist based in United States of Amer
 
 Asphodèle, CHRYSALIS, Terrell Brooke
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoniodragão/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoniodragão/)*

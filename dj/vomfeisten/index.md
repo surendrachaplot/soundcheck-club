@@ -1,6 +1,6 @@
 # vom Feisten
 
-vom Feisten is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mustache Bangkok, Bangkok on Sat, 28 Nov 2026.
+vom Feisten is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Mustache Bangkok, Bangkok on Sat, 28 Nov 2026.
 
 vom Feisten is a techno and tech house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 6 more. Often billed alongside Daniel Neuland, Dydaa Forne and Martin Ka. Next up: Mustache Bangkok, Bangkok on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ vom Feisten is a techno and tech house artist based in Germany, with 86 gigs on 
 
 Daniel Neuland, Dydaa Forne, Martin Ka
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*

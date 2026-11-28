@@ -1,6 +1,6 @@
 # XTAL
 
-XTAL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at WWWβ, Tokyo on Sat, 30 Jan 2027.
+XTAL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at WWWβ, Tokyo on Sat, 30 Jan 2027.
 
 XTAL is a house and techno artist, with 19 gigs on soundcheck across Seoul and Tokyo. Often billed alongside AMANE, U-T and Gonno. Next up: WWWβ, Tokyo on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ XTAL is a house and techno artist, with 19 gigs on soundcheck across Seoul and T
 
 AMANE, U-T, Gonno
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtal/)*

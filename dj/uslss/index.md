@@ -1,8 +1,8 @@
 # USLSS
 
-USLSS is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 5 Dec 2026.
+USLSS is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 5 Dec 2026.
 
-USLSS is a techno and minimal techno artist based in France, with 16 gigs on soundcheck across Bordeaux, Brussels, Lyon and Paris and 1 more. Often billed alongside AMAYO, Karenine and Bérou. Next up: Karmen Camina, Strasbourg on Sat 5 Dec.
+USLSS is a techno and dub techno artist based in France, with 16 gigs on soundcheck across Bordeaux, Brussels, Lyon and Paris and 1 more. Often billed alongside AMAYO, Karenine and Bérou. Next up: Karmen Camina, Strasbourg on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ USLSS is a techno and minimal techno artist based in France, with 16 gigs on sou
 
 AMAYO, Karenine, Bérou
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uslss/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uslss/)*

@@ -1,6 +1,6 @@
 # RuxXandra
 
-RuxXandra is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
+RuxXandra is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
 
 RuxXandra is a house and techno artist based in Spain, with 43 gigs on soundcheck across Barcelona and Tirana. Often billed alongside Cabana, Andrea Love and Alice Youngling. Next up: Roots Audiophile Café, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ RuxXandra is a house and techno artist based in Spain, with 43 gigs on soundchec
 
 Cabana, Andrea Love, Alice Youngling
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxxandra/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxxandra/)*

@@ -1,6 +1,6 @@
 # Shirlee
 
-Shirlee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Fri, 11 Dec 2026.
+Shirlee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Salon Daomé, Montreal on Fri, 11 Dec 2026.
 
 Shirlee is a house and tech house artist based in Canada, with 32 gigs on soundcheck across Montreal. Often billed alongside Guillaume Michaud, Ben Sterling and Linska. Next up: Salon Daomé, Montreal on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Shirlee is a house and tech house artist based in Canada, with 32 gigs on soundc
 
 Guillaume Michaud, Ben Sterling, Linska
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*

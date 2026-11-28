@@ -1,8 +1,8 @@
 # Yazmin (UK)
 
-Yazmin (UK) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
+Yazmin (UK) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Aaja Basement, London on Fri, 11 Dec 2026.
 
-Yazmin (UK) is a techno and electro artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside AMAR (UK), bubushko and Adela. Next up: Aaja Basement, London on Fri 11 Dec.
+Yazmin (UK) is a techno and electro artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside AMAR (UK), bubushko and Adela. Next up: Aaja Basement, London on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yazmin (UK) is a techno and electro artist based in United Kingdom, with 22 gigs
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Aaja Basement | London |
 | Thu, 31 Dec 2026 | TBA | London |
+| Fri, 15 Jan 2027 | Rolling Stock | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Yazmin (UK) is a techno and electro artist based in United Kingdom, with 22 gigs
 
 AMAR (UK), bubushko, Adela
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-uk/)*

@@ -1,6 +1,6 @@
 # Ryota
 
-Ryota is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Ryota is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 Ryota is a techno and house artist based in Japan, with 93 gigs on soundcheck across Amsterdam, Bali, Barcelona and Brighton and 20 more. Often billed alongside ryota dj, Yung Singh and Ryota (JP). Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -27,4 +27,4 @@ Ryota is a techno and house artist based in Japan, with 93 gigs on soundcheck ac
 
 ryota dj, Yung Singh, Ryota (JP)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota/)*

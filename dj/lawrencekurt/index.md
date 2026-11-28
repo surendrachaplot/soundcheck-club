@@ -1,6 +1,6 @@
 # Lawrence Kurt
 
-Lawrence Kurt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
+Lawrence Kurt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Slot, Hamburg on Sat, 5 Dec 2026.
 
 Lawrence Kurt is a techno and house artist, with 10 gigs on soundcheck across Berlin, Hamburg, Milan and New York City and 1 more. Often billed alongside APRS, ARMANDO and ASEC. Next up: Slot, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lawrence Kurt is a techno and house artist, with 10 gigs on soundcheck across Be
 
 APRS, ARMANDO, ASEC
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencekurt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencekurt/)*

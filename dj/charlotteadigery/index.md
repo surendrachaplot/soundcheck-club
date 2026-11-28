@@ -1,6 +1,6 @@
 # Charlotte Adigéry
 
-Charlotte Adigéry is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Trix, Antwerp on Fri, 12 Feb 2027.
+Charlotte Adigéry is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Trix, Antwerp on Fri, 12 Feb 2027.
 
 Charlotte Adigéry is a disco and house artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Bolis Pupul, 2ManyDJs and Anz. Next up: Trix, Antwerp on Fri 12 Feb.
 
@@ -27,4 +27,4 @@ Charlotte Adigéry is a disco and house artist based in Belgium, with 22 gigs on
 
 Bolis Pupul, 2ManyDJs, Anz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteadigery/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteadigery/)*

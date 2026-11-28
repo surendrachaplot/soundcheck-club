@@ -1,6 +1,6 @@
 # Rico (JP)
 
-Rico (JP) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Bain, New York City on Thu, 3 Dec 2026.
+Rico (JP) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Bain, New York City on Thu, 3 Dec 2026.
 
 Rico (JP) is an electronic artist based in Japan, with 2 gigs on soundcheck across New York City. Often billed alongside Jubilee, NIGELTHREETIMES and WADDLE. Next up: Le Bain, New York City on Thu 3 Dec.
 
@@ -15,4 +15,4 @@ Rico (JP) is an electronic artist based in Japan, with 2 gigs on soundcheck acro
 
 Jubilee, NIGELTHREETIMES, WADDLE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rico-jp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rico-jp/)*

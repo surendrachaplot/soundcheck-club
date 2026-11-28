@@ -1,6 +1,6 @@
 # Liam Palmer
 
-Liam Palmer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Fri, 11 Dec 2026.
+Liam Palmer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at fabric, London on Fri, 11 Dec 2026.
 
 Liam Palmer is a house and tech house artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: fabric, London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Liam Palmer is a house and tech house artist based in United Kingdom, with 160 g
 
 Elliot Schooling, Locky, L.P. Rhythm
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*

@@ -1,6 +1,6 @@
 # Good Call
 
-Good Call is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Charlatan, Ghent on Sat, 19 Dec 2026.
+Good Call is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Charlatan, Ghent on Sat, 19 Dec 2026.
 
 Good Call is a house and deep house artist based in Germany, with 14 gigs on soundcheck across Berlin, Cologne, Edinburgh and Ghent and 1 more. Often billed alongside Flabaire, Isabel del Valle and Amber Leith. Next up: Charlatan, Ghent on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Good Call is a house and deep house artist based in Germany, with 14 gigs on sou
 
 Flabaire, Isabel del Valle, Amber Leith
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcall/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcall/)*

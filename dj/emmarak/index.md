@@ -1,6 +1,6 @@
 # Emma Rak
 
-Emma Rak is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Signal, New York City on Fri, 11 Dec 2026.
+Emma Rak is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Signal, New York City on Fri, 11 Dec 2026.
 
 Emma Rak is a techno and dub techno artist based in United States of America, with 8 gigs on soundcheck across Berlin, Boston, Brussels and New York City and 2 more. Often billed alongside 9-System, Cades and Concrete Husband. Next up: Signal, New York City on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Emma Rak is a techno and dub techno artist based in United States of America, wi
 
 9-System, Cades, Concrete Husband
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarak/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarak/)*

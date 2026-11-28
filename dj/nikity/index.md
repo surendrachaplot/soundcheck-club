@@ -1,6 +1,6 @@
 # Nikity
 
-Nikity is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at fi, Cologne on Sat, 30 Jan 2027.
+Nikity is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at fi, Cologne on Sat, 30 Jan 2027.
 
 Nikity is a house and techno artist based in Germany, with 36 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside AMSL, Anna Cainelli and Savsannah. Next up: fi, Cologne on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Nikity is a house and techno artist based in Germany, with 36 gigs on soundcheck
 
 AMSL, Anna Cainelli, Savsannah
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*

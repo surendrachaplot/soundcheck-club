@@ -1,6 +1,6 @@
 # Emo Rugene
 
-Emo Rugene is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doka, Amsterdam on Sat, 12 Dec 2026.
+Emo Rugene is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Doka, Amsterdam on Sat, 12 Dec 2026.
 
 Emo Rugene is an afro house and house artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin and Rio de Janeiro. Often billed alongside Rafush, Julio Paradise and Ukãi Ndame. Next up: Doka, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Emo Rugene is an afro house and house artist based in Germany, with 20 gigs on s
 
 Rafush, Julio Paradise, Ukãi Ndame
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emorugene/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emorugene/)*

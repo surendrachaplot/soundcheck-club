@@ -1,14 +1,13 @@
 # Biltmore Cabaret
 
-Biltmore Cabaret is a music venue in Vancouver with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DOLLY X SUB ZERO Festival" on Fri, 27 Nov 2026.
+Biltmore Cabaret is a music venue in Vancouver with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SUB ZERO Festival: Ciel with Lerma & xtine" on Thu, 3 Dec 2026.
 
-Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 13 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
+Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 12 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | DOLLY X SUB ZERO Festival | BINKY, Daega Sound, Donna Dada |
 | Thu, 3 Dec 2026 | SUB ZERO Festival: Ciel with Lerma & xtine | Ciel, Lerma, xtine |
 | Fri, 4 Dec 2026 | SUB ZERO Festival: Convextion/E.R.P. (Live) with Scott W & Beiti | Beiti, Convextion, E.R.P., Scott W. |
 | Sat, 5 Dec 2026 | SUB ZERO Festival: Altinbas (3 hour set) with Angel Science | Altinbas, Angel Science |
@@ -18,9 +17,10 @@ Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 13 upcoming
 | Sat, 12 Dec 2026 | SUB ZERO Festival: Vera Logdanidi with Overland & Slim J | Overland, Slim J (2), Vera Logdanidi |
 | Sun, 13 Dec 2026 | SUB ZERO Festival: Uun (Live) with DJ Hockey & La Vie Ténébreuse | DJ Hockey, LVT, Uun |
 | Thu, 17 Dec 2026 | SUB ZERO Festival: Lis Dalton with ZIGGY ZAYA & HERA | HERA (MX), Lis Dalton, ZIGGY ZAYA |
+| Fri, 18 Dec 2026 | SUB ZERO Festival: Dane & ESB (Live) with DJ dood | DJ dood, Dane, ESB |
 
 ## Address
 
 395 Kingsway; Vancouver, BC V5T 3J5; Canada, Vancouver
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*

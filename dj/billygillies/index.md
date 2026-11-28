@@ -1,6 +1,6 @@
 # Billy Gillies
 
-Billy Gillies is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Warsaw, New York City on Sat, 5 Dec 2026.
+Billy Gillies is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Warsaw, New York City on Sat, 5 Dec 2026.
 
 Billy Gillies is a trance and techno artist based in United Kingdom, with 62 gigs on soundcheck across Cork, Denver, Dublin and Edinburgh and 22 more. Often billed alongside Giuseppe Ottaviani, Ferry Corsten and Mauro Picotto. Next up: Warsaw, New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Billy Gillies is a trance and techno artist based in United Kingdom, with 62 gig
 
 Giuseppe Ottaviani, Ferry Corsten, Mauro Picotto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*

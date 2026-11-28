@@ -1,6 +1,6 @@
 # Vanish x Accelerate: Christmas Bash at La Cheetah Club
 
-Vanish x Accelerate: Christmas Bash at La Cheetah Club on Tue 29 Dec, Glasgow. 5 artists: Atomic Playboy, LYLE, PHÏA and Ru6y and 1 more. Electro and Club. See the line-up on soundcheck.
+Vanish x Accelerate: Christmas Bash at La Cheetah Club on Tue 29 Dec, Glasgow. 5 artists: Atomic Playboy, Lyle Godfrey, PHÏA and Ru6y and 1 more. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Vanish x Accelerate: Christmas Bash at La Cheetah Club on Tue 29 Dec, Glasgow. 5
 ## Line-up
 
 - Atomic Playboy
-- LYLE (2)
+- Lyle Godfrey
 - PHÏA
 - Ru6y
 - Tosher

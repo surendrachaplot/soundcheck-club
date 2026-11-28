@@ -1,6 +1,6 @@
 # LiaRako
 
-LiaRako is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Tokyo on Wed, 30 Dec 2026.
+LiaRako is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Tokyo on Wed, 30 Dec 2026.
 
 LiaRako is a techno and house artist based in Japan, with 110 gigs on soundcheck across Chubu and Tokyo. Often billed alongside WAKA XINXI, Hackmarkt and AiMii. Next up: TBA, Tokyo on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ LiaRako is a techno and house artist based in Japan, with 110 gigs on soundcheck
 
 WAKA XINXI, Hackmarkt, AiMii
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*

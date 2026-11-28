@@ -1,13 +1,14 @@
 # Ciao 3lla
 
-Ciao 3lla is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Ciao 3lla is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Golden Gate, Berlin on Fri, 11 Dec 2026.
 
-Ciao 3lla is a house and techno artist based in Germany, with 70 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 7 more. Often billed alongside Francis FF, lisa luka and Horst Haller. Next up: Kater, Berlin on Sat 12 Dec.
+Ciao 3lla is a house and techno artist based in Germany, with 71 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 7 more. Often billed alongside Francis FF, lisa luka and Horst Haller. Next up: Golden Gate, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Golden Gate | Berlin |
 | Sat, 12 Dec 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ciao 3lla is a house and techno artist based in Germany, with 70 gigs on soundch
 
 Francis FF, lisa luka, Horst Haller
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*

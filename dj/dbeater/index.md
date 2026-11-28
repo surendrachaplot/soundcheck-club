@@ -1,6 +1,6 @@
 # dbeater
 
-dbeater is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoxton Cabin, London on Fri, 4 Dec 2026.
+dbeater is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoxton Cabin, London on Fri, 4 Dec 2026.
 
 dbeater is an electronica and club artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside acidhousewife3000, Vlad Zinn and ttttttttt. Next up: Hoxton Cabin, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ dbeater is an electronica and club artist based in United Kingdom, with 11 gigs 
 
 acidhousewife3000, Vlad Zinn, ttttttttt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*

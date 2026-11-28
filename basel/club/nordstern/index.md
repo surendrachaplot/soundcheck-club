@@ -1,14 +1,13 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sebastian Konrad Invites" on Fri, 27 Nov 2026.
+Nordstern is a music venue in Basel with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "RAW x Nordstern" on Sat, 28 Nov 2026.
 
-Nordstern is a music venue in Basel listed on soundcheck. 12 upcoming gigs, with line-ups including Alci, Alignment, Aline (CH) and Andrea Oliva and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
+Nordstern is a music venue in Basel listed on soundcheck. 11 upcoming gigs, with line-ups including Alignment, Aline (CH), Andrea Oliva and Beni Geier and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Sebastian Konrad Invites | Alci, Sebastian Konrad, Vera Amberg |
 | Sat, 28 Nov 2026 | RAW x Nordstern | Alignment, Mha iri, ROÜGE |
 | Fri, 4 Dec 2026 | Schrotthagen | Gomorra, Herrrouine, Lety, Schrotthagen |
 | Sat, 5 Dec 2026 | Teocino Invites | KAEL (1) |
@@ -18,9 +17,10 @@ Nordstern is a music venue in Basel listed on soundcheck. 12 upcoming gigs, with
 | Sat, 19 Dec 2026 | Deborah De Luca | Deborah De Luca, MARCISM |
 | Sat, 26 Dec 2026 | Andrea Oliva All Night Long | Andrea Oliva |
 | Thu, 31 Dec 2026 | NYE | Beni Geier, Comzy, Kaleiko, Michel Sacher, Mikhu, OG Lotti, THYORA, q-rt |
+| Fri, 1 Jan 2027 | Kobosil | Kobosil, MARCISM |
 
 ## Address
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

@@ -1,6 +1,6 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+John Summit is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 John Summit is a house and tech house artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 31 more. Often billed alongside Layton Giordani, Eli Brown and Loco Dice. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -30,4 +30,4 @@ John Summit is a house and tech house artist based in United States of America, 
 
 Layton Giordani, Eli Brown, Loco Dice
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*

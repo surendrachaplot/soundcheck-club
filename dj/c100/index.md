@@ -1,14 +1,13 @@
 # C100
 
-C100 is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Smith St Hotel, Melbourne on Sat, 28 Nov 2026.
+C100 is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Langley Park, Perth on Fri, 1 Jan 2027.
 
-C100 is a garage and house artist based in Australia, with 13 gigs on soundcheck across Dublin, Manchester, Melbourne and Perth and 1 more. Often billed alongside Charlie Shell, Banno and Becking. Next up: Smith St Hotel, Melbourne on Sat 28 Nov.
+C100 is a garage and house artist based in Australia, with 13 gigs on soundcheck across Dublin, Manchester, Melbourne and Perth and 1 more. Often billed alongside Charlie Shell, Banno and Becking. Next up: Langley Park, Perth on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Smith St Hotel | Melbourne |
 | Fri, 1 Jan 2027 | Langley Park | Perth |
 
 ## Recently played
@@ -26,4 +25,4 @@ C100 is a garage and house artist based in Australia, with 13 gigs on soundcheck
 
 Charlie Shell, Banno, Becking
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c100/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c100/)*

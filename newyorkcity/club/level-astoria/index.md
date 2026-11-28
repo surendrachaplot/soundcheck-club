@@ -1,6 +1,6 @@
 # Level Astoria
 
-Level Astoria is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Motion Fridays Reloaded – Friday Night Party" on Fri, 27 Nov 2026.
+Level Astoria is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "AURA Saturdays - Hip Hop & Afrobeats Party in Queens" on Sat, 28 Nov 2026.
 
 Level Astoria is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Level Astoria Nightclub 23-66 Steinway Street.
 
@@ -8,10 +8,10 @@ Level Astoria is a music venue in New York City listed on soundcheck. 1 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Motion Fridays Reloaded – Friday Night Party |  |
+| Sat, 28 Nov 2026 | AURA Saturdays - Hip Hop & Afrobeats Party in Queens |  |
 
 ## Address
 
 Level Astoria Nightclub 23-66 Steinway Street, New York City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/level-astoria/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/level-astoria/)*

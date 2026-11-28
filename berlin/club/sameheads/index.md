@@ -1,14 +1,13 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "HONEY TRAP" on Fri, 27 Nov 2026.
+Sameheads is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Have A Nice Day x Bite The Day with Idjut Boys, Sound Metaphors Djs and Spraoi Mór" on Sat, 28 Nov 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Amelia Holt, An-i, Andrea Zucca and Axelander and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including An-i, Andrea Zucca, Axelander and Chez de Milo and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | HONEY TRAP | Amelia Holt, NAP (MX), Seth Magoon, SiSi (2), ZDBT |
 | Sat, 28 Nov 2026 | Have A Nice Day x Bite The Day with Idjut Boys, Sound Metaphors Djs and Spraoi Mór | Idjut Boys, Sound Metaphors Djs, Spraoi Mór |
 | Thu, 3 Dec 2026 | A Cold Snap | An-i, Sam De La Rosa |
 | Fri, 4 Dec 2026 | ZMAR x Sameheads | Andrea Zucca |
@@ -22,4 +21,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

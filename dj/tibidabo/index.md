@@ -1,6 +1,6 @@
 # Tibi Dabo
 
-Tibi Dabo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
+Tibi Dabo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
 
 Tibi Dabo is a house and electro artist based in Spain, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 10 more. Often billed alongside Damian Lazarus, Liquid Earth and Bass Playah. Next up: Seaseaclub Barcelona, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Tibi Dabo is a house and electro artist based in Spain, with 47 gigs on soundche
 
 Damian Lazarus, Liquid Earth, Bass Playah
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*

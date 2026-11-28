@@ -1,6 +1,6 @@
 # Nimue
 
-Nimue is a House and Classical artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
+Nimue is a House and Classical artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
 
 Nimue is a house and classical artist based in Italy, with 23 gigs on soundcheck across Berlin, Guadalajara, Lisbon and Madrid and 1 more. Often billed alongside AB, DECO (MX) and Irena Stanisic. Next up: Tonal, Mexico City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Nimue is a house and classical artist based in Italy, with 23 gigs on soundcheck
 
 AB, DECO (MX), Irena Stanisic
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimue/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimue/)*

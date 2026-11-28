@@ -1,6 +1,6 @@
 # Andy Moya
 
-Andy Moya is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 5 Dec 2026.
+Andy Moya is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 5 Dec 2026.
 
 Andy Moya is a house and afro tech artist, with 5 gigs on soundcheck across Mexico City. Often billed alongside Alan M, Binaural and Coss Bocanegra. Next up: Bardo Speakeasy, Mexico City on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Andy Moya is a house and afro tech artist, with 5 gigs on soundcheck across Mexi
 
 Alan M, Binaural, Coss Bocanegra
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymoya/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymoya/)*

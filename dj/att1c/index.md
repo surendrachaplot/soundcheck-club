@@ -1,6 +1,6 @@
 # ATT1C
 
-ATT1C is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Chicago on Sat, 28 Nov 2026.
+ATT1C is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Chicago on Sat, 28 Nov 2026.
 
 ATT1C is a techno and trance artist based in United States of America, with 20 gigs on soundcheck across Chicago. Often billed alongside NANGOBI, dirtymoney and quade. Next up: TBA, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ATT1C is a techno and trance artist based in United States of America, with 20 g
 
 NANGOBI, dirtymoney, quade
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/att1c/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/att1c/)*

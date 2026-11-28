@@ -1,6 +1,6 @@
 # TT (2)
 
-TT (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Weetamix, Geneva on Sat, 5 Dec 2026.
+TT (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Weetamix, Geneva on Sat, 5 Dec 2026.
 
 TT is a house and deep house artist based in Switzerland, with 22 gigs on soundcheck across Geneva, Lausanne and Zurich. Often billed alongside Adolpho & Franky, Cora M. and DimSum. Next up: Weetamix, Geneva on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ TT is a house and deep house artist based in Switzerland, with 22 gigs on soundc
 
 Adolpho & Franky, Cora M., DimSum
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tt-sw/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tt-sw/)*

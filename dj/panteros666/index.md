@@ -1,14 +1,13 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 27 Nov 2026.
+Panteros666 is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Case à Chocs, Switzerland on Sat, 28 Nov 2026.
 
-Panteros666 is a trance and techno artist based in France, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Part Time Killer, Die Klar and TDJ. Next up: RSO.BERLIN, Berlin on Fri 27 Nov.
+Panteros666 is a trance and techno artist based in France, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Part Time Killer, Die Klar and TDJ. Next up: Case à Chocs, Switzerland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | Case à Chocs | Switzerland |
 | Fri, 4 Dec 2026 | Warehouse | Nantes |
 | Sat, 12 Dec 2026 | WDM | Hannover |
@@ -19,6 +18,7 @@ Panteros666 is a trance and techno artist based in France, with 112 gigs on soun
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Fri, 27 Nov 2026
 - The Queen Mary, Los Angeles · Fri, 20 Nov 2026
 - Chicago Social Club, Amsterdam · Fri, 23 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Wed, 21 Oct 2026
@@ -26,10 +26,9 @@ Panteros666 is a trance and techno artist based in France, with 112 gigs on soun
 - The Hifi Club, Leeds · Sat, 17 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
-- Smolna, Warsaw · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Part Time Killer, Die Klar, TDJ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*

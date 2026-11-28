@@ -1,6 +1,6 @@
 # SB – Space Between
 
-SB – Space Between is a music venue in Nürnberg with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "HERDING w/ julek ploski & LAMB.K305" on Sat, 28 Nov 2026.
+SB – Space Between is a music venue in Nürnberg with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "HERDING w/ julek ploski & LAMB.K305" on Sat, 28 Nov 2026.
 
 SB – Space Between is a music venue in Nürnberg listed on soundcheck. 2 upcoming gigs, with line-ups including julek ploski, LAMB.K305 and Ulf Herold. See dates, start times and who's playing. Steinbühler Tunnel 1, 90443 Nürnberg.
 
@@ -15,4 +15,4 @@ SB – Space Between is a music venue in Nürnberg listed on soundcheck. 2 upcom
 
 Steinbühler Tunnel 1, 90443 Nürnberg, Nürnberg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/sb-space-between/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/sb-space-between/)*

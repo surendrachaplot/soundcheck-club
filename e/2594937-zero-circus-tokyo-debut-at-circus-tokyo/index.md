@@ -1,6 +1,6 @@
 # Zero Circus Tokyo Debut at Circus Tokyo
 
-Zero Circus Tokyo Debut on Sat 6 Feb, Tokyo. 2 artists: Ryota and Zero (UK). Bass and Garage. See the line-up on soundcheck.
+Zero Circus Tokyo Debut on Sat 6 Feb, Tokyo. 3 artists: Coop (JP), Ryota and Zero (UK). Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Zero Circus Tokyo Debut on Sat 6 Feb, Tokyo. 2 artists: Ryota and Zero (UK). Bas
 
 ## Line-up
 
+- Coop (JP)
 - Ryota
 - Zero (UK)
 

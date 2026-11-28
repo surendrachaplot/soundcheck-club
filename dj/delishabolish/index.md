@@ -1,6 +1,6 @@
 # deLish / aboLish
 
-deLish / aboLish is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at St Anne's Parish Hall, Toronto on Sat, 5 Dec 2026.
+deLish / aboLish is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at St Anne's Parish Hall, Toronto on Sat, 5 Dec 2026.
 
 deLish / aboLish is a techno and tech house artist based in Canada, with 4 gigs on soundcheck across Toronto. Often billed alongside GRRLCRRSH, Venus in Foil and Athena. Next up: St Anne's Parish Hall, Toronto on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ deLish / aboLish is a techno and tech house artist based in Canada, with 4 gigs 
 
 GRRLCRRSH, Venus in Foil, Athena (2)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delishabolish/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delishabolish/)*

@@ -1,6 +1,6 @@
 # Boral Kibil
 
-Boral Kibil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Suma Han, Istanbul on Sat, 19 Dec 2026.
+Boral Kibil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Suma Han, Istanbul on Sat, 19 Dec 2026.
 
 Boral Kibil is a techno and house artist, with 7 gigs on soundcheck across Istanbul. Often billed alongside Emirhan Kacar, Alican and Atakan Uysal. Next up: Suma Han, Istanbul on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Boral Kibil is a techno and house artist, with 7 gigs on soundcheck across Istan
 
 Emirhan Kacar, Alican, Atakan Uysal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boralkibil/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boralkibil/)*

@@ -1,6 +1,6 @@
 # ZSZS
 
-ZSZS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+ZSZS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
 ZSZS is a house and techno artist based in Germany, with 9 gigs on soundcheck across Frankfurt and Munich. Often billed alongside Cosmic Cherry, Bliss Inc. and Maruwa. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ ZSZS is a house and techno artist based in Germany, with 9 gigs on soundcheck ac
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt · Fri, 27 Nov 2026
 - Legal, Munich · Sat, 14 Nov 2026
 - Tokonoma Club, Frankfurt · Fri, 6 Nov 2026
 - Tokonoma Club, Frankfurt · Fri, 16 Oct 2026
@@ -19,10 +20,9 @@ ZSZS is a house and techno artist based in Germany, with 9 gigs on soundcheck ac
 - Tokonoma Club, Frankfurt · Sat, 27 Jun 2026
 - Tokonoma Club, Frankfurt · Fri, 29 May 2026
 - Tokonoma Club, Frankfurt · Sat, 25 Apr 2026
-- Silbergold, Frankfurt · Fri, 5 Sept 2025
 
 ## Shares bills with
 
 Cosmic Cherry, Bliss Inc., Maruwa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zszs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zszs/)*

@@ -1,6 +1,6 @@
 # Riviani
 
-Riviani is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 1 Jan 2027.
+Riviani is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 1 Jan 2027.
 
 Riviani is a house and electro artist based in Spain, with 17 gigs on soundcheck across Barcelona, Madrid and Malaga. Often billed alongside Jorgge Decar, Andrés Sancho and Excenital. Next up: Studio Club Malaga, Malaga on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Riviani is a house and electro artist based in Spain, with 17 gigs on soundcheck
 
 Jorgge Decar, Andrés Sancho, Excenital
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riviani/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riviani/)*

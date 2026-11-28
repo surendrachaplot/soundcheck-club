@@ -1,14 +1,14 @@
 # Mística
 
-Mística is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Bodega 17 (Cll. 17 # 60B-48), Bogotá on Sat, 5 Dec 2026.
+Mística is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Bodega 17 (Cll. 17 # 68B-48), Bogotá on Sat, 5 Dec 2026.
 
-Mística is a club and techno artist based in Colombia, with 33 gigs on soundcheck across Bogotá and Medellin. Often billed alongside DJ Maybe, Didacta and Ritornelo. Next up: TBA - Bodega 17 (Cll. 17 # 60B-48), Bogotá on Sat 5 Dec.
+Mística is a club and techno artist based in Colombia, with 33 gigs on soundcheck across Bogotá and Medellin. Often billed alongside DJ Maybe, Didacta and Ritornelo. Next up: TBA - Bodega 17 (Cll. 17 # 68B-48), Bogotá on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | TBA - Bodega 17 (Cll. 17 # 60B-48) | Bogotá |
+| Sat, 5 Dec 2026 | TBA - Bodega 17 (Cll. 17 # 68B-48) | Bogotá |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Mística is a club and techno artist based in Colombia, with 33 gigs on soundche
 
 DJ Maybe, Didacta, Ritornelo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistica-co/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistica-co/)*

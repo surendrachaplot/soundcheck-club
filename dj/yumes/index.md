@@ -1,6 +1,6 @@
 # yumes
 
-yumes is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Débris, Tokyo on Sun, 29 Nov 2026.
+yumes is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Débris, Tokyo on Sun, 29 Nov 2026.
 
 yumes is a house and garage artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside DJ Flexure, Kamui Wada and Al Jones. Next up: Débris, Tokyo on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ yumes is a house and garage artist based in Japan, with 5 gigs on soundcheck acr
 
 DJ Flexure, Kamui Wada, Al Jones
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yumes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yumes/)*

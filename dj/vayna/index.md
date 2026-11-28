@@ -1,6 +1,6 @@
 # Vayna
 
-Vayna is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vektor - The Klub, Budapest on Sat, 5 Dec 2026.
+Vayna is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vektor - The Klub, Budapest on Sat, 5 Dec 2026.
 
 Vayna is a house and minimal artist based in Romania, with 13 gigs on soundcheck across Budapest. Often billed alongside Captain Knuckles, Antique (HU) and Sunny. Next up: Vektor - The Klub, Budapest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Vayna is a house and minimal artist based in Romania, with 13 gigs on soundcheck
 
 Captain Knuckles, Antique (HU), Sunny
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vayna/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vayna/)*

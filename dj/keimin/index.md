@@ -1,6 +1,6 @@
 # KEIMIN
 
-KEIMIN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at rake?raka?, Osaka on Sat, 28 Nov 2026.
+KEIMIN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at rake?raka?, Osaka on Sat, 28 Nov 2026.
 
 KEIMIN is a techno and house artist based in Japan, with 34 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Nao Nomura, Sonny Vercetti and yu-more. Next up: rake?raka?, Osaka on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ KEIMIN is a techno and house artist based in Japan, with 34 gigs on soundcheck a
 
 Nao Nomura, Sonny Vercetti, yu-more
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keimin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keimin/)*

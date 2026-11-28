@@ -1,6 +1,6 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Onlynumbers is a Techno and Hardcore artist with 17 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Onlynumbers is a techno and hardcore artist based in France, with 109 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 62 more. Often billed alongside NOVAH, KLOFAMA and Holy Priest. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -36,4 +36,4 @@ Onlynumbers is a techno and hardcore artist based in France, with 109 gigs on so
 
 NOVAH, KLOFAMA, Holy Priest
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

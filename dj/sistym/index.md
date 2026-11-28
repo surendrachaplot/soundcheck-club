@@ -1,6 +1,6 @@
 # Sistym
 
-Sistym is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Howler, Melbourne on Sun, 27 Dec 2026.
+Sistym is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Howler, Melbourne on Sun, 27 Dec 2026.
 
 Sistym is a drum & bass and dubstep artist based in Australia, with 30 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside safire, Stormn Norm and rita bass. Next up: Howler, Melbourne on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Sistym is a drum & bass and dubstep artist based in Australia, with 30 gigs on s
 
 safire, Stormn Norm, rita bass
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistym/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistym/)*

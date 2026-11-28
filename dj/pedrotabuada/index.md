@@ -1,13 +1,14 @@
 # Pedro Tabuada
 
-Pedro Tabuada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Maria Pistolas, Porto on Sat, 5 Dec 2026.
+Pedro Tabuada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Era uma vez no Porto, Porto on Wed, 2 Dec 2026.
 
-Pedro Tabuada is a house and techno artist based in Portugal, with 110 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Bikas, Carlos Regadas and AIKKO. Next up: Maria Pistolas, Porto on Sat 5 Dec.
+Pedro Tabuada is a house and techno artist based in Portugal, with 111 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Bikas, Carlos Regadas and AIKKO. Next up: Era uma vez no Porto, Porto on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Dec 2026 | Era uma vez no Porto | Porto |
 | Sat, 5 Dec 2026 | Maria Pistolas | Porto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pedro Tabuada is a house and techno artist based in Portugal, with 110 gigs on s
 
 Bikas, Carlos Regadas, AIKKO
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrotabuada/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrotabuada/)*

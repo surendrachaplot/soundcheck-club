@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SYNERGY 1" on Fri, 27 Nov 2026.
+Distillery is a music venue in Leipzig with 16 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "ELOTRANCE × DANCE 'N FRIENDS" on Sat, 28 Nov 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, with line-ups including 50PHIE, Aender, Aio and Alba Franch and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -8,7 +8,6 @@ Distillery is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | SYNERGY 1 | Heiner, Hye-Eun Kim, Traxx Jr |
 | Sat, 28 Nov 2026 | ELOTRANCE × DANCE 'N FRIENDS | 50PHIE, Andreas Eckhardt, CARGO (DE), DJ SeXex, DJ Sonnenbrand, DJ Zugzwang, Felix Schwarzenberger, I$A, Thomas Heinrich |
 | Sun, 29 Nov 2026 | STAUB + Rillendisco |  |
 | Fri, 4 Dec 2026 | DUALISM with DJ DRECKISCH, Butschi, Arman John | Alba Franch, Arman John, Butschi, DJ DRECKISCH, DJ Flink, Krash Cora, alemiko, dj twerking class |
@@ -18,9 +17,10 @@ Distillery is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, w
 | Fri, 18 Dec 2026 | LAST BASS MESS | Cuepric, Neonlight, YouDid, nea.cuajo |
 | Sat, 19 Dec 2026 | KOSMOS × LEIDER9 × Altinbas | Aender, Aio, Altinbas, CAMPA, GIANNA, Lisa de Lune, Moto Moto, V:SONNTAG, lisa luka, noxsonos |
 | Sat, 26 Dec 2026 | HOLY WOHNZIMMER | Cinthie, Templeton, Thomas Stieler, catjes |
+| Tue, 29 Dec 2026 | Subardo x Keep Hush | Amy Dabbs, BUKEZ FINEZT, Benski, Cleo AD, audite |
 
 ## Address
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

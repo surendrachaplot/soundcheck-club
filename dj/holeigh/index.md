@@ -1,6 +1,6 @@
 # HØLEIGH
 
-HØLEIGH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
+HØLEIGH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
 
 HØLEIGH is a techno and trance artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 16 more. Often billed alongside colell, AISHA and Azyr. Next up: renae, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ HØLEIGH is a techno and trance artist based in United Kingdom, with 61 gigs on 
 
 colell, AISHA, Azyr
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holeigh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holeigh/)*

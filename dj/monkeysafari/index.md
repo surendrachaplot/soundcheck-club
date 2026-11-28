@@ -1,6 +1,6 @@
 # Monkey Safari
 
-Monkey Safari is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 20 Dec 2026.
+Monkey Safari is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 20 Dec 2026.
 
 Monkey Safari is a house and deep house artist based in Germany, with 122 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 39 more. Often billed alongside Einmusik, Nora En Pure and Surreal Flight. Next up: Hotel Via, San Francisco/Oakland on Sun 20 Dec.
 
@@ -26,4 +26,4 @@ Monkey Safari is a house and deep house artist based in Germany, with 122 gigs o
 
 Einmusik, Nora En Pure, Surreal Flight
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*

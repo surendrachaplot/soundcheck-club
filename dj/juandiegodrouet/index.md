@@ -1,6 +1,6 @@
 # Juan Diego Drouet
 
-Juan Diego Drouet is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Café Engels, Berlin on Wed, 9 Dec 2026.
+Juan Diego Drouet is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Café Engels, Berlin on Wed, 9 Dec 2026.
 
 Juan Diego Drouet is a house and acid artist based in Ecuador, with 19 gigs on soundcheck across Berlin and Madrid. Often billed alongside Sean Gonzalez, Baroma and Culo Sucio. Next up: Café Engels, Berlin on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Juan Diego Drouet is a house and acid artist based in Ecuador, with 19 gigs on s
 
 Sean Gonzalez, Baroma, Culo Sucio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juandiegodrouet/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juandiegodrouet/)*

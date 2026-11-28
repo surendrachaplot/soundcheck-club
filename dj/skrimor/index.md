@@ -1,6 +1,6 @@
 # Skrimor
 
-Skrimor is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 9D9, Barcelona on Thu, 17 Dec 2026.
+Skrimor is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 9D9, Barcelona on Thu, 17 Dec 2026.
 
 Skrimor is a drum & bass and jungle artist based in Poland, with 12 gigs on soundcheck across Athens, Barcelona, Cologne and Dresden and 5 more. Often billed alongside Neonlight, Phace and Shmido. Next up: 9D9, Barcelona on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Skrimor is a drum & bass and jungle artist based in Poland, with 12 gigs on soun
 
 Neonlight, Phace, Shmido
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrimor/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrimor/)*

@@ -1,14 +1,15 @@
 # S3R4PH
 
-S3R4PH is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 23 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
+S3R4PH is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
 
-S3R4PH is a house and electro artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside Kazuki Sasaki(SYNERGISTIC), Acrocanthosaurus and BLUEMEW. Next up: Live Haus, Tokyo on Fri 4 Dec.
+S3R4PH is an electro and house artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside Kazuki Sasaki(SYNERGISTIC), Acrocanthosaurus and Andrew (TREKKIE TRAX). Next up: Live Haus, Tokyo on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Live Haus | Tokyo |
+| Thu, 10 Dec 2026 | Shinjuku Duusraa | Tokyo |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ S3R4PH is a house and electro artist based in Japan, with 3 gigs on soundcheck a
 
 ## Shares bills with
 
-Kazuki Sasaki(SYNERGISTIC), Acrocanthosaurus, BLUEMEW
+Kazuki Sasaki(SYNERGISTIC), Acrocanthosaurus, Andrew (TREKKIE TRAX)
 
-*Updated Mon, 23 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s3r4ph/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s3r4ph/)*

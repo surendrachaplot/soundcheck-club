@@ -1,6 +1,6 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sampol x OfStreets / Milla" on Fri, 4 Dec 2026.
+Sound Machine is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sampol x OfStreets / Milla" on Fri, 4 Dec 2026.
 
 Sound Machine is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Garcy, Roy Davis Jr, Sampol and Yogi. See dates, start times and who's playing. 178 Bathurst Street.
 
@@ -15,4 +15,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 2 upcoming gigs,
 
 178 Bathurst Street, Toronto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

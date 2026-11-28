@@ -1,6 +1,6 @@
 # 3ever
 
-3ever is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuchs2, Prague on Sat, 28 Nov 2026.
+3ever is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fuchs2, Prague on Sat, 28 Nov 2026.
 
 3ever is a techno and electro artist based in Slovakia, with 74 gigs on soundcheck across Bratislava and Prague. Often billed alongside Nina Farrina, SJ yellow and yo haan. Next up: Fuchs2, Prague on Sat 28 Nov.
 
@@ -26,4 +26,4 @@
 
 Nina Farrina, SJ yellow, yo haan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*

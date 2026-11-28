@@ -1,6 +1,6 @@
 # Kahl & Kæmena
 
-Kahl & Kæmena is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 12 Dec 2026.
+Kahl & Kæmena is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 12 Dec 2026.
 
 Kahl & Kæmena are a house and electronica duo based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, London and Milan and 5 more. Often billed alongside Ciao 3lla, Borella and ELIZEN THE EMPEROR. Next up: Klunkerkranich, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kahl & Kæmena are a house and electronica duo based in Germany, with 33 gigs on
 
 Ciao 3lla, Borella, ELIZEN THE EMPEROR
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahlkaemena/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kahlkaemena/)*

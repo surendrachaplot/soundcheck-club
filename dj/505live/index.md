@@ -1,6 +1,6 @@
 # 505 (Live)
 
-505 (Live) is a Jazz and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shibuya Club Ball, Tokyo on Sat, 28 Nov 2026.
+505 (Live) is a Jazz and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Shibuya Club Ball, Tokyo on Sat, 28 Nov 2026.
 
 505 (Live) is a jazz and ambient artist based in Germany, with 9 gigs on soundcheck across Berlin, Melbourne and Tokyo. Often billed alongside Mattia Prete, Nory Kimijima and Tonbo. Next up: Shibuya Club Ball, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@
 
 Mattia Prete, Nory Kimijima, Tonbo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/505live/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/505live/)*

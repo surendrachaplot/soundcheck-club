@@ -1,6 +1,6 @@
 # Rafael Delgado (ES)
 
-Rafael Delgado (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Wed, 23 Dec 2026.
+Rafael Delgado (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Macarena Club, Barcelona on Wed, 23 Dec 2026.
 
 Rafael Delgado (ES) is a house and techno artist based in Brazil, with 15 gigs on soundcheck across Barcelona and Lisbon. Often billed alongside Rod J, Omar M and joven. Next up: Macarena Club, Barcelona on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ Rafael Delgado (ES) is a house and techno artist based in Brazil, with 15 gigs o
 
 Rod J, Omar M, joven
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaeldelgadoes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaeldelgadoes/)*

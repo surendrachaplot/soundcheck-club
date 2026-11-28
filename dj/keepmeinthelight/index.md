@@ -1,6 +1,6 @@
 # Keep Me In The Light
 
-Keep Me In The Light is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pickle.BKK, Bangkok on Sat, 28 Nov 2026.
+Keep Me In The Light is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Pickle.BKK, Bangkok on Sat, 28 Nov 2026.
 
 Keep Me In The Light is a house and italo disco artist, with 6 gigs on soundcheck across Bangkok and Melbourne. Often billed alongside MJMA, Takamichi and Boys' Shorts. Next up: Pickle.BKK, Bangkok on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Keep Me In The Light is a house and italo disco artist, with 6 gigs on soundchec
 
 MJMA, Takamichi, Boys' Shorts
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepmeinthelight/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepmeinthelight/)*

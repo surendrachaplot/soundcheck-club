@@ -1,14 +1,13 @@
 # Rana Iravani
 
-Rana Iravani is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 333, New York City on Fri, 27 Nov 2026.
+Rana Iravani is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Green Room NYC, New York City on Sat, 28 Nov 2026.
 
-Rana Iravani is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Armii1n and Choukroun. Next up: TBA - 333, New York City on Fri 27 Nov.
+Rana Iravani is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Armii1n and Choukroun. Next up: Green Room NYC, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA - 333 | New York City |
 | Sat, 28 Nov 2026 | Green Room NYC | New York City |
 | Sat, 5 Dec 2026 | Paraiso Estereo | Miami |
 | Fri, 11 Dec 2026 | TBA - 52 Walker Street | New York City |
@@ -16,6 +15,7 @@ Rana Iravani is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- TBA - 333, New York City · Fri, 27 Nov 2026
 - H0L0, New York City · Wed, 25 Nov 2026
 - Brooklyn Pacha, New York City · Sat, 21 Nov 2026
 - MAD Radio NYC, New York City · Thu, 19 Nov 2026
@@ -23,10 +23,9 @@ Rana Iravani is a house and techno artist based in United States of America, wit
 - Green Room NYC, New York City · Sat, 14 Nov 2026
 - Refuge, New York City · Fri, 6 Nov 2026
 - Signal, New York City · Thu, 29 Oct 2026
-- Pacha New York, New York City · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Auphoria, Armii1n, Choukroun
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

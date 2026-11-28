@@ -1,6 +1,6 @@
 # Monterosso
 
-Monterosso is a Electro and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
+Monterosso is a Electro and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
 
 Monterosso is an electro and minimal techno artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Desuba, Ughe and Analog Disease. Next up: Starlane Pizza Bar, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Monterosso is an electro and minimal techno artist based in United Kingdom, with
 
 Desuba, Ughe, Analog Disease
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monterosso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monterosso/)*

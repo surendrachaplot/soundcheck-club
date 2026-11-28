@@ -1,18 +1,18 @@
 # SOHOE
 
-SOHOE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 27 Nov 2026.
+SOHOE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 19 Dec 2026.
 
-SOHOE is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Los Angeles and 1 more. Often billed alongside Stinny Stone, futurristic and Salzbauer. Next up: Lokschuppen Berlin, Berlin on Fri 27 Nov.
+SOHOE is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Los Angeles and 1 more. Often billed alongside Stinny Stone, futurristic and Salzbauer. Next up: Lokschuppen Berlin, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin · Fri, 27 Nov 2026
 - Tanzhaus West, Frankfurt · Fri, 23 Oct 2026
 - Lokschuppen Berlin, Berlin · Sat, 17 Oct 2026
 - Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
@@ -20,10 +20,9 @@ SOHOE is a techno and trance artist based in Germany, with 47 gigs on soundcheck
 - ://about blank, Berlin · Fri, 5 Jun 2026
 - Lokschuppen Berlin, Berlin · Sat, 30 May 2026
 - Lokschuppen Berlin, Berlin · Fri, 1 May 2026
-- TBA - Los Angeles, Los Angeles · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Stinny Stone, futurristic, Salzbauer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohoe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohoe/)*

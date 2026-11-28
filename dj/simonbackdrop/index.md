@@ -1,6 +1,6 @@
 # Simon (Backdrop)
 
-Simon (Backdrop) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 15 Jan 2027.
+Simon (Backdrop) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 15 Jan 2027.
 
 Simon (Backdrop) is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, Frankfurt, Paris and Rio De Janeiro and 3 more. Often billed alongside House Violence, Chika Luna and Craig Ouar. Next up: La Machine Du Moulin Rouge, Paris on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Simon (Backdrop) is a techno and house artist based in United Kingdom, with 16 g
 
 House Violence, Chika Luna, Craig Ouar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonbackdrop/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonbackdrop/)*

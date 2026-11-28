@@ -1,6 +1,6 @@
 # Lucas Abadi
 
-Lucas Abadi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at AMT, Berlin on Fri, 11 Dec 2026.
+Lucas Abadi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at AMT, Berlin on Fri, 11 Dec 2026.
 
 Lucas Abadi is a house and techno artist based in Argentina, with 10 gigs on soundcheck across Berlin. Often billed alongside Juan Ramos, BOYCA and Luigi Di Venere. Next up: AMT, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Lucas Abadi is a house and techno artist based in Argentina, with 10 gigs on sou
 
 Juan Ramos, BOYCA, Luigi Di Venere
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasabadi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasabadi/)*

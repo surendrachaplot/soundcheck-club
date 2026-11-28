@@ -1,6 +1,6 @@
 # Cuepric
 
-Cuepric is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery, Leipzig on Fri, 18 Dec 2026.
+Cuepric is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Distillery, Leipzig on Fri, 18 Dec 2026.
 
 Cuepric is a drum & bass and bass artist based in Germany, with 15 gigs on soundcheck across Dresden, Hamburg and Leipzig. Often billed alongside Relict, mag.darine and Dubbalot. Next up: Distillery, Leipzig on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Cuepric is a drum & bass and bass artist based in Germany, with 15 gigs on sound
 
 Relict, mag.darine, Dubbalot
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuepric/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuepric/)*

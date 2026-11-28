@@ -1,6 +1,6 @@
 # Andra (DE)
 
-Andra (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Baalsaal, Hamburg on Fri, 4 Dec 2026.
+Andra (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Baalsaal, Hamburg on Fri, 4 Dec 2026.
 
 Andra (DE) is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Blame Anthony, Butterhands and Thabo. Next up: Baalsaal, Hamburg on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Andra (DE) is a techno and house artist based in Germany, with 8 gigs on soundch
 
 Blame Anthony, Butterhands, Thabo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrade-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrade-de/)*

@@ -1,6 +1,6 @@
 # HKS97
 
-HKS97 is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
+HKS97 is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
 
 HKS97 is a downtempo and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Barbara Hofmann, Silva Rymd and Alice in Flames. Next up: ://about blank, Berlin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ HKS97 is a downtempo and techno artist based in Germany, with 14 gigs on soundch
 
 Barbara Hofmann, Silva Rymd, Alice in Flames
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hks97/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hks97/)*

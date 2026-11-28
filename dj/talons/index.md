@@ -1,6 +1,6 @@
 # Talons
 
-Talons is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Poolen, Copenhagen on Fri, 11 Dec 2026.
+Talons is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Poolen, Copenhagen on Fri, 11 Dec 2026.
 
 Talons is a house and techno artist based in Denmark, with 18 gigs on soundcheck across Berlin, Copenhagen and Vienna. Often billed alongside Main Phase, ELOQ and Alpha Tracks. Next up: Poolen, Copenhagen on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Talons is a house and techno artist based in Denmark, with 18 gigs on soundcheck
 
 Main Phase, ELOQ, Alpha Tracks
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talons/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talons/)*

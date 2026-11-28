@@ -1,6 +1,6 @@
 # Mac Declos (all night long) at KALT
 
-Mac Declos (all night long) at KALT on Sat 5 Dec, Strasbourg. 1 artist: Mac Declos. See the line-up on soundcheck.
+Mac Declos (all night long) at KALT on Sat 5 Dec, Strasbourg. 3 artists: ANNUN, Mac Declos and STU (FR). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Mac Declos (all night long) at KALT on Sat 5 Dec, Strasbourg. 1 artist: Mac Decl
 
 ## Line-up
 
+- ANNUN
 - Mac Declos
+- STU (FR)
 
 *Source: [soundcheck](https://soundcheck.club/e/2503988-mac-declos-all-night-long-at-kalt/)*

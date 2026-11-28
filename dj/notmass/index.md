@@ -1,6 +1,6 @@
 # Not Mass
 
-Not Mass is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Arca, Milan on Fri, 4 Dec 2026.
+Not Mass is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Arca, Milan on Fri, 4 Dec 2026.
 
 Not Mass is a techno and electro artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Milan and 1 more. Often billed alongside CP1, Hagva and GOEDEL. Next up: Arca, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Not Mass is a techno and electro artist based in Italy, with 28 gigs on soundche
 
 CP1, Hagva, GOEDEL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notmass/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notmass/)*

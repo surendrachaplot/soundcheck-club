@@ -1,6 +1,6 @@
 # Timstagram × Zischko invites at Distillery
 
-Timstagram × Zischko invites at Distillery on Sat 16 Jan, Leipzig. 6 artists: Gado Gado, Pandora, Soela and Timstagram and 2 more. Techno and House. See the line-up on soundcheck.
+Timstagram × Zischko invites at Distillery on Sat 16 Jan, Leipzig. 5 artists: Gado Gado, Soela, Timstagram and Zacharias and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Timstagram × Zischko invites at Distillery on Sat 16 Jan, Leipzig. 6 artists: G
 ## Line-up
 
 - Gado Gado
-- Pandora (1)
 - Soela
 - Timstagram
 - Zacharias

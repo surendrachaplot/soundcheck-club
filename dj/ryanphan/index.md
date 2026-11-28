@@ -1,8 +1,8 @@
 # Ryan Phan
 
-Ryan Phan is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, San Diego on Sat, 12 Dec 2026.
+Ryan Phan is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, San Diego on Sat, 12 Dec 2026.
 
-Ryan Phan is a house and minimal artist, with 4 gigs on soundcheck across San Diego. Often billed alongside ALKMST, AMZEL and Andër. Next up: TBA, San Diego on Sat 12 Dec.
+Ryan Phan is a house and minimal artist based in United States of America, with 4 gigs on soundcheck across San Diego. Often billed alongside ALKMST, AMZEL and Andër. Next up: TBA, San Diego on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Ryan Phan is a house and minimal artist, with 4 gigs on soundcheck across San Di
 
 ALKMST, AMZEL, Andër
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanphan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanphan/)*

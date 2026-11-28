@@ -1,6 +1,6 @@
 # Fátima
 
-Fátima is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
+Fátima is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tonal, Mexico City on Wed, 25 Nov 2026.
 
 Fátima is a house and tech house artist based in Mexico, with 35 gigs on soundcheck across Baltimore, Berlin, Mexico City and New York City and 2 more. Often billed alongside Late London, VYNX and branqueeno. Next up: Tonal, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Fátima is a house and tech house artist based in Mexico, with 35 gigs on soundc
 
 Late London, VYNX, branqueeno
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima-us/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima-us/)*

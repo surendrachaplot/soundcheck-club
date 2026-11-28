@@ -1,8 +1,8 @@
 # Tristan da Cunha
 
-Tristan da Cunha is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Tristan da Cunha is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
-Tristan da Cunha is a house and garage artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Brawther, Samuel Deep and Dungeon Meat. Next up: DRUMSHEDS, London on Sat 28 Nov.
+Tristan da Cunha is a house and garage artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Brawther, Samuel Deep and Dungeon Meat. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tristan da Cunha is a house and garage artist based in United Kingdom, with 111 
 | Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
 | Sat, 12 Dec 2026 | Gaswrx Birmingham | Birmingham |
 | Sat, 19 Dec 2026 | Amber's | Manchester |
+| Thu, 31 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Tristan da Cunha is a house and garage artist based in United Kingdom, with 111 
 
 Brawther, Samuel Deep, Dungeon Meat
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*

@@ -1,6 +1,6 @@
 # Tomi From Brockley
 
-Tomi From Brockley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
+Tomi From Brockley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
 
 Tomi From Brockley is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across London and Manchester. Often billed alongside Javan, Henk and kayja vu. Next up: renae, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Tomi From Brockley is a house and techno artist based in United Kingdom, with 17
 
 Javan, Henk, kayja vu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomifrombrockley/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomifrombrockley/)*

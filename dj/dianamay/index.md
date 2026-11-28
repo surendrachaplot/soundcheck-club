@@ -1,6 +1,6 @@
 # Diana May
 
-Diana May is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Insomnia, Berlin on Sat, 28 Nov 2026.
+Diana May is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Insomnia, Berlin on Sat, 28 Nov 2026.
 
 Diana May is a techno and psytrance artist based in Russia, with 72 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Frankie Flowerz, Daniel Boon and Basstronauten. Next up: Insomnia, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Diana May is a techno and psytrance artist based in Russia, with 72 gigs on soun
 
 Frankie Flowerz, Daniel Boon, Basstronauten
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*

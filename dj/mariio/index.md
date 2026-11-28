@@ -1,6 +1,6 @@
 # Mariio
 
-Mariio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 4 Dec 2026.
+Mariio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 4 Dec 2026.
 
 Mariio is a techno and house artist based in China, with 17 gigs on soundcheck across Beijing, Chengdu, Chongqing and Hong Kong and 3 more. Often billed alongside Jeff Chong, LIUYANG and OoLONG. Next up: Tempio del Futuro Perduto, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mariio is a techno and house artist based in China, with 17 gigs on soundcheck a
 
 Jeff Chong, LIUYANG, OoLONG (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariio/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariio/)*

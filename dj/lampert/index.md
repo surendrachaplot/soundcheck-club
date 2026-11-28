@@ -1,6 +1,6 @@
 # Lampert
 
-Lampert is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
+Lampert is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
 
 Lampert is a house artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside XANDER, Andy Catana and Chiara. Next up: SASS Music Club, Vienna on Mon 7 Dec.
 
@@ -24,4 +24,4 @@ Lampert is a house artist based in Austria, with 8 gigs on soundcheck across Vie
 
 XANDER, Andy Catana, Chiara
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lampert/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lampert/)*

@@ -1,6 +1,6 @@
 # duboisi
 
-duboisi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
+duboisi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 5 Dec 2026.
 
 duboisi is a house and disco artist based in Slovakia, with 45 gigs on soundcheck across Prague. Often billed alongside Wuss, Kirill Astra and uber_acid. Next up: Ankali & Planeta Za, Prague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ duboisi is a house and disco artist based in Slovakia, with 45 gigs on soundchec
 
 Wuss, Kirill Astra, uber_acid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duboisi/)*

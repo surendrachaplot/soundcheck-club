@@ -1,6 +1,6 @@
 # Casper (FIN)
 
-Casper (FIN) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
+Casper (FIN) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at UMI, Brussels on Fri, 1 Jan 2027.
 
 Casper (FIN) is a house and techno artist based in Finland, with 9 gigs on soundcheck across Bangkok, Brussels, Los Angeles and Osaka and 1 more. Often billed alongside Adi, DJ Rino and Liem. Next up: UMI, Brussels on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Casper (FIN) is a house and techno artist based in Finland, with 9 gigs on sound
 
 Adi, DJ Rino, Liem
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casper-fin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casper-fin/)*

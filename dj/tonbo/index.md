@@ -1,6 +1,6 @@
 # Tonbo
 
-Tonbo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at WOMB, Tokyo on Sat, 19 Dec 2026.
+Tonbo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at WOMB, Tokyo on Sat, 19 Dec 2026.
 
 Tonbo is a techno and house artist based in Japan, with 45 gigs on soundcheck across Bangkok, Berlin, Ho Chi Minh City and Kanto and 4 more. Often billed alongside Nory Kimijima, Sunga and REO MATSUMOTO. Next up: WOMB, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Tonbo is a techno and house artist based in Japan, with 45 gigs on soundcheck ac
 
 Nory Kimijima, Sunga, REO MATSUMOTO
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonbo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonbo/)*

@@ -1,6 +1,6 @@
 # MIA MIA
 
-MIA MIA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
+MIA MIA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
 MIA MIA is a techno and house artist based in Germany, with 29 gigs on soundcheck across Bratislava, Munich, Stuttgart and Vienna. Often billed alongside KAROLINA, Anni Herzer and FX-31. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MIA MIA is a techno and house artist based in Germany, with 29 gigs on soundchec
 
 KAROLINA, Anni Herzer, FX-31
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miamia/)*

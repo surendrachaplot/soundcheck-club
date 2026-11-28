@@ -1,6 +1,6 @@
 # Yoshi (DE)
 
-Yoshi (DE) is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
+Yoshi (DE) is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
 
 Yoshi (DE) is an electro and ebm artist based in Germany, with 32 gigs on soundcheck across Barcelona, Berlin, Bucharest and Milan and 2 more. Often billed alongside Sbri, Paty Vapor and Carlos GrabStein. Next up: TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Yoshi (DE) is an electro and ebm artist based in Germany, with 32 gigs on soundc
 
 Sbri, Paty Vapor, Carlos GrabStein
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreayoshi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreayoshi/)*

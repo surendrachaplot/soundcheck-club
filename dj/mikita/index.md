@@ -1,6 +1,6 @@
 # Mikita
 
-Mikita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at un club bonito, Mexico City on Thu, 3 Dec 2026.
+Mikita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at un club bonito, Mexico City on Thu, 3 Dec 2026.
 
 Mikita is a techno and house artist, with 23 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Portugal, Pablo Lara and Disco 86. Next up: un club bonito, Mexico City on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Mikita is a techno and house artist, with 23 gigs on soundcheck across Guadalaja
 
 Portugal, Pablo Lara, Disco 86
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikita/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikita/)*

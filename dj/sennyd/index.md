@@ -1,6 +1,6 @@
 # SENNY D
 
-SENNY D is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
+SENNY D is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
 
 SENNY D is a techno and house artist based in Japan, with 44 gigs on soundcheck across Tokyo. Often billed alongside Shogo Ito, YURI VALEN and Drunken Kong. Next up: WOMB, Tokyo on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ SENNY D is a techno and house artist based in Japan, with 44 gigs on soundcheck 
 
 Shogo Ito, YURI VALEN, Drunken Kong
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sennyd/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sennyd/)*

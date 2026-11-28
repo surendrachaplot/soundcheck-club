@@ -1,6 +1,6 @@
 # LUZIFA
 
-LUZIFA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 25 Club, Hamburg on Fri, 11 Dec 2026.
+LUZIFA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 25 Club, Hamburg on Fri, 11 Dec 2026.
 
 LUZIFA is a techno and house artist based in Germany, with 6 gigs on soundcheck across Hamburg. Often billed alongside Chris Mantanz, Dr Hobbs and Bass-T Vernunft. Next up: 25 Club, Hamburg on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ LUZIFA is a techno and house artist based in Germany, with 6 gigs on soundcheck 
 
 Chris Mantanz, Dr Hobbs, Bass-T Vernunft
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzifa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzifa/)*

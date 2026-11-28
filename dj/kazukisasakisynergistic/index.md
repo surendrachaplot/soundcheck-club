@@ -1,6 +1,6 @@
 # Kazuki Sasaki(SYNERGISTIC)
 
-Kazuki Sasaki(SYNERGISTIC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
+Kazuki Sasaki(SYNERGISTIC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
 
 Kazuki Sasaki(SYNERGISTIC) is a house and techno artist based in Japan, with 23 gigs on soundcheck across Tokyo. Often billed alongside Frankie $, OPTIMIST and VECSILLE. Next up: Live Haus, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kazuki Sasaki(SYNERGISTIC) is a house and techno artist based in Japan, with 23 
 
 Frankie $, OPTIMIST, VECSILLE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukisasakisynergistic/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukisasakisynergistic/)*

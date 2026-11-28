@@ -1,18 +1,18 @@
 # FØSS
 
-FØSS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Strand DC, Washington DC on Fri, 27 Nov 2026.
+FØSS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fame Club, Finland on Sat, 5 Dec 2026.
 
-FØSS is a techno and hardcore artist based in Canada, with 46 gigs on soundcheck across Antwerp, Barcelona, Bergen and Berlin and 14 more. Often billed alongside Dark Matter, Fenrick and B2. Next up: Strand DC, Washington DC on Fri 27 Nov.
+FØSS is a techno and hardcore artist based in Canada, with 46 gigs on soundcheck across Antwerp, Barcelona, Bergen and Berlin and 14 more. Often billed alongside Dark Matter, Fenrick and B2. Next up: Fame Club, Finland on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Strand DC | Washington DC |
 | Sat, 5 Dec 2026 | Fame Club | Finland |
 
 ## Recently played
 
+- Strand DC, Washington DC · Fri, 27 Nov 2026
 - The Brooklyn Monarch, New York City · Wed, 25 Nov 2026
 - The Brooklyn Monarch, New York City · Wed, 25 Nov 2026
 - M7 Club, Barcelona · Fri, 30 Oct 2026
@@ -20,10 +20,9 @@ FØSS is a techno and hardcore artist based in Canada, with 46 gigs on soundchec
 - Mia Mao, Paris · Fri, 2 Oct 2026
 - Garage Klub, Antwerp · Fri, 18 Sept 2026
 - Valsemøllen, Bergen · Sat, 1 Aug 2026
-- Decadance, Ghent · Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Dark Matter, Fenrick, B2 (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*

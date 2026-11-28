@@ -1,6 +1,6 @@
 # ERAM (BR)
 
-ERAM (BR) is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Crema Club, Sao Paulo on Sat, 12 Dec 2026.
+ERAM (BR) is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Crema Club, Sao Paulo on Sat, 12 Dec 2026.
 
 ERAM (BR) is a techno and baile funk artist, with 47 gigs on soundcheck across Barcelona, Berlin, Bristol and Buenos Aires and 11 more. Often billed alongside Ananda (BR), BADSISTA and Kontronatura. Next up: Crema Club, Sao Paulo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ERAM (BR) is a techno and baile funk artist, with 47 gigs on soundcheck across B
 
 Ananda (BR), BADSISTA, Kontronatura
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erambr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erambr/)*

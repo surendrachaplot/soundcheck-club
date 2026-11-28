@@ -1,6 +1,6 @@
 # Prince Charles
 
-Prince Charles is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Radar" on Sat, 5 Dec 2026.
+Prince Charles is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Radar" on Sat, 5 Dec 2026.
 
 Prince Charles is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Ana Molina, André Dancekowski, Black Loops and Blame Anthony and 2 more. See dates, start times and who's playing. Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Prince Charles is a music venue in Berlin listed on soundcheck. 3 upcoming gigs,
 
 Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*

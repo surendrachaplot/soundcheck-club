@@ -1,6 +1,6 @@
 # Northcote Theatre
 
-Northcote Theatre is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Defected Melbourne 2026" on Fri, 11 Dec 2026.
+Northcote Theatre is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Defected Melbourne 2026" on Fri, 11 Dec 2026.
 
 Northcote Theatre is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Aquenta, David Penn, Deepa and Soju Gang and 2 more. See dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
 
@@ -17,4 +17,4 @@ Northcote Theatre is a music venue in Melbourne listed on soundcheck. 4 upcoming
 
 216 High St, Northcote VIC 3070, Australia, Melbourne
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*

@@ -1,6 +1,6 @@
 # Keyser
 
-Keyser is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Wintercircus, Ghent on Sat, 19 Dec 2026.
+Keyser is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Wintercircus, Ghent on Sat, 19 Dec 2026.
 
 Keyser is a techno and trance artist based in Russia, with 29 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Ampe, trillosta and Helena Lauwaert. Next up: Club Wintercircus, Ghent on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Keyser is a techno and trance artist based in Russia, with 29 gigs on soundcheck
 
 Ampe, trillosta, Helena Lauwaert
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keyser/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keyser/)*

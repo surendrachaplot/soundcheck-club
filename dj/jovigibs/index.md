@@ -1,14 +1,15 @@
 # JOVIGIBS
 
-JOVIGIBS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Floyd, Miami on Sat, 28 Nov 2026.
+JOVIGIBS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Floyd, Miami on Sat, 28 Nov 2026.
 
-JOVIGIBS is a house and disco artist based in United States of America, with 39 gigs on soundcheck across Barcelona, Madrid, Mexico City and Miami. Often billed alongside Mutant Pete, True Vine and Bort. Next up: Floyd, Miami on Sat 28 Nov.
+JOVIGIBS is a house and disco artist based in United States of America, with 40 gigs on soundcheck across Barcelona, Madrid, Mexico City and Miami. Often billed alongside Mutant Pete, True Vine and Bort. Next up: Floyd, Miami on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Floyd | Miami |
+| Fri, 4 Dec 2026 | Mad Radio Miami | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JOVIGIBS is a house and disco artist based in United States of America, with 39 
 
 Mutant Pete, True Vine, Bort
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*

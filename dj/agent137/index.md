@@ -1,19 +1,19 @@
 # Agent 137
 
-Agent 137 is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Crown, New York City on Fri, 27 Nov 2026.
+Agent 137 is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Phoenix Landing, Boston on Thu, 3 Dec 2026.
 
-Agent 137 is a drum & bass and jungle artist based in United States of America, with 29 gigs on soundcheck across Boston, New York City, Philadelphia and Toronto and 1 more. Often billed alongside Dave Shichman, DJ Strife and Dieselboy. Next up: The Crown, New York City on Fri 27 Nov.
+Agent 137 is a drum & bass and jungle artist based in United States of America, with 29 gigs on soundcheck across Boston, New York City, Philadelphia and Toronto and 1 more. Often billed alongside Dave Shichman, DJ Strife and Dieselboy. Next up: Phoenix Landing, Boston on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Crown | New York City |
 | Thu, 3 Dec 2026 | Phoenix Landing | Boston |
 | Fri, 29 Jan 2027 | TBA - The Woodshop, Brooklyn | New-york-city |
 
 ## Recently played
 
+- The Crown, New York City · Fri, 27 Nov 2026
 - H0L0, New York City · Fri, 7 Aug 2026
 - H0L0, New York City · Fri, 17 Jul 2026
 - Cedar Creek Park, New York City · Sat, 4 Jul 2026
@@ -21,10 +21,9 @@ Agent 137 is a drum & bass and jungle artist based in United States of America, 
 - Elsewhere, New York City · Fri, 6 Feb 2026
 - TBA - 17 Meadow Street, Brooklyn (The Woodshop), New York City · Wed, 31 Dec 2025
 - Phoenix Landing, Boston · Thu, 18 Dec 2025
-- The Meadows, New York City · Sat, 13 Dec 2025
 
 ## Shares bills with
 
 Dave Shichman, DJ Strife, Dieselboy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agent137/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agent137/)*

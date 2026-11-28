@@ -1,6 +1,6 @@
 # Two Dots (FR)
 
-Two Dots (FR) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OXI, Berlin on Sat, 19 Dec 2026.
+Two Dots (FR) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at OXI, Berlin on Sat, 19 Dec 2026.
 
 Two Dots (FR) is a techno and trance artist based in France, with 15 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 3 more. Often billed alongside 25EMEHEURE, Amo (IT) and Bambounou. Next up: OXI, Berlin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Two Dots (FR) is a techno and trance artist based in France, with 15 gigs on sou
 
 25EMEHEURE, Amo (IT), Bambounou
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*

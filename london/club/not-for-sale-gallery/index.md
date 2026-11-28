@@ -1,6 +1,6 @@
 # Not For Sale Gallery
 
-Not For Sale Gallery is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Algha Works Transmissions - E3" on Sat, 28 Nov 2026.
+Not For Sale Gallery is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Algha Works Transmissions - E3" on Sat, 28 Nov 2026.
 
 Not For Sale Gallery is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Adriana Honey, Boruch, Braden and DJ SS and 2 more. See dates, start times and who's playing. 83 Smeed Road, Hackney Wick, E3 2NR.
 
@@ -22,4 +22,4 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 9 upcoming
 
 83 Smeed Road, Hackney Wick, E3 2NR, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*

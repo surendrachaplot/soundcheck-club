@@ -1,14 +1,16 @@
 # MT-V
 
-MT-V is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+MT-V is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
-MT-V is a house and trance artist based in Poland, with 43 gigs on soundcheck across Hamburg, Krakow and Warsaw. Often billed alongside Abrew, Kobayashkn and Easy Audio. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
+MT-V is a house and tech house artist based in Poland, with 45 gigs on soundcheck across Hamburg, Krakow and Warsaw. Often billed alongside Abrew, Kobayashkn and Easy Audio. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Kosmos Karoline | Hamburg |
+| Fri, 4 Dec 2026 | MONKEY LOVE | Warsaw |
+| Thu, 31 Dec 2026 | MONKEY LOVE | Warsaw |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ MT-V is a house and trance artist based in Poland, with 43 gigs on soundcheck ac
 
 Abrew, Kobayashkn, Easy Audio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mt-v/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mt-v/)*

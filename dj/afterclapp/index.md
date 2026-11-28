@@ -1,6 +1,6 @@
 # Afterclapp
 
-Afterclapp is a Electronica and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+Afterclapp is a Electronica and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 Afterclapp is an electronica and baile funk artist, with 8 gigs on soundcheck across Barcelona, Brazil, Dublin and London and 2 more. Often billed alongside Jaayology, AEREA and AmadoPeace. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ Afterclapp is an electronica and baile funk artist, with 8 gigs on soundcheck ac
 
 Jaayology, AEREA, AmadoPeace
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afterclapp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afterclapp/)*

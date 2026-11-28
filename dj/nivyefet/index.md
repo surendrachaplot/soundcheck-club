@@ -1,6 +1,6 @@
 # Niv Yefet
 
-Niv Yefet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gazebo, Stockholm on Sat, 28 Nov 2026.
+Niv Yefet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gazebo, Stockholm on Sat, 28 Nov 2026.
 
 Niv Yefet is a house and tech house artist based in France, with 16 gigs on soundcheck across Amsterdam, Ibiza, London and Miami and 3 more. Often billed alongside Guy Gerber, Ramyen and Saraga. Next up: Gazebo, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Niv Yefet is a house and tech house artist based in France, with 16 gigs on soun
 
 Guy Gerber, Ramyen, Saraga
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nivyefet/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nivyefet/)*

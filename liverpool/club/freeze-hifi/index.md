@@ -1,6 +1,6 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Centreforce & Lee Butler Presents: TOGETHER" on Sat, 28 Nov 2026.
+Freeze HiFi is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Centreforce & Lee Butler Presents: TOGETHER" on Sat, 28 Nov 2026.
 
 Freeze HiFi is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Beechy and Lee Butler. See dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
@@ -19,4 +19,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs,
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

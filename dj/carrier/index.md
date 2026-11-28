@@ -1,14 +1,13 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Unmute, Hanoi on Fri, 27 Nov 2026.
+Carrier is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at vurt., Seoul on Sat, 28 Nov 2026.
 
-Carrier is a techno and experimental artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Unmute, Hanoi on Fri 27 Nov.
+Carrier is a techno and experimental artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: vurt., Seoul on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Unmute | Hanoi |
 | Sat, 28 Nov 2026 | vurt. | Seoul |
 | Sat, 5 Dec 2026 | VENT | Tokyo |
 | Sat, 12 Dec 2026 | LAUT | Barcelona |
@@ -17,6 +16,7 @@ Carrier is a techno and experimental artist based in United Kingdom, with 91 gig
 
 ## Recently played
 
+- Unmute, Hanoi · Fri, 27 Nov 2026
 - Archa+, Prague · Fri, 20 Nov 2026
 - Macadam, Nantes · Fri, 30 Oct 2026
 - The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne · Thu, 15 Oct 2026
@@ -24,10 +24,9 @@ Carrier is a techno and experimental artist based in United Kingdom, with 91 gig
 - The Ground at Club Space, Miami · Fri, 2 Oct 2026
 - Knockdown Center, New York City · Sat, 26 Sept 2026
 - TRANSMISSION DC, Washington DC · Fri, 25 Sept 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

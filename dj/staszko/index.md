@@ -1,6 +1,6 @@
 # Staszko
 
-Staszko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 4 Dec 2026.
+Staszko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 4 Dec 2026.
 
 Staszko is a techno and industrial artist based in Germany, with 14 gigs on soundcheck across Gdansk, Hamburg and Wroclaw. Often billed alongside TRYPTAJ, SCHELLT and TZO. Next up: Uebel & Gefährlich, Hamburg on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Staszko is a techno and industrial artist based in Germany, with 14 gigs on soun
 
 TRYPTAJ, SCHELLT, TZO (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staszko/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staszko/)*

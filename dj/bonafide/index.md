@@ -1,6 +1,6 @@
 # Bona Fide
 
-Bona Fide is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 19 Dec 2026.
+Bona Fide is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 19 Dec 2026.
 
 Bona Fide is a techno and electronica artist, with 7 gigs on soundcheck across Antwerp, Buenos Aires, Dubai and Ghent and 1 more. Often billed alongside AVALON, Castor W. and Facundo Mohrr. Next up: Muziekcentrum Kinky Star, Ghent on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Bona Fide is a techno and electronica artist, with 7 gigs on soundcheck across A
 
 AVALON, Castor W., Facundo Mohrr
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonafide/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonafide/)*

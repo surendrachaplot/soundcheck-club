@@ -1,6 +1,6 @@
 # Mica Wagner
 
-Mica Wagner is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lula Club, Madrid on Sat, 28 Nov 2026.
+Mica Wagner is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lula Club, Madrid on Sat, 28 Nov 2026.
 
 Mica Wagner is a house and tech house artist based in Spain, with 38 gigs on soundcheck across Ibiza, Madrid and Philadelphia. Often billed alongside Mamba Nera, Álvaro Naive and Daya Dadlani. Next up: Lula Club, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mica Wagner is a house and tech house artist based in Spain, with 38 gigs on sou
 
 Mamba Nera, Álvaro Naive, Daya Dadlani
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micawagner/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micawagner/)*

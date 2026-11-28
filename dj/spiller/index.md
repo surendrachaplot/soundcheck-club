@@ -1,6 +1,6 @@
 # Spiller
 
-Spiller is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lanificio 159, Rome on Sat, 28 Nov 2026.
+Spiller is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lanificio 159, Rome on Sat, 28 Nov 2026.
 
 Spiller is a house and disco artist based in Italy, with 24 gigs on soundcheck across Bangkok, Copenhagen, Dubai and Ibiza and 14 more. Often billed alongside Dave Lee, Mousse T. and Curcio. Next up: Lanificio 159, Rome on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Spiller is a house and disco artist based in Italy, with 24 gigs on soundcheck a
 
 Dave Lee, Mousse T., Curcio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*

@@ -1,14 +1,13 @@
 # Nyra
 
-Nyra is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
+Nyra is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
-Nyra is a house and techno artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 22 more. Often billed alongside Amaliah, Chloé Caillet and DJ Cringey. Next up: NUMBER 90 LONDON, London on Fri 27 Nov.
+Nyra is a house and techno artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 22 more. Often billed alongside Amaliah, Chloé Caillet and DJ Cringey. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | NUMBER 90 LONDON | London |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Fri, 1 Jan 2027 | Bootshaus | Cologne |
 | Sat, 23 Jan 2027 | The System | Sheffield |
@@ -16,6 +15,7 @@ Nyra is a house and techno artist based in United Kingdom, with 68 gigs on sound
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Fri, 27 Nov 2026
 - Cabaret Voltaire, Edinburgh · Sat, 21 Nov 2026
 - La Cheetah Club, Glasgow · Fri, 20 Nov 2026
 - One Marylebone, London · Thu, 29 Oct 2026
@@ -23,10 +23,9 @@ Nyra is a house and techno artist based in United Kingdom, with 68 gigs on sound
 - Zinkbad Eventhalle, Zurich · Sat, 3 Oct 2026
 - objekt klein a, Dresden · Sat, 12 Sept 2026
 - Studio Club Malaga, Malaga · Fri, 11 Sept 2026
-- Maassilo, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Amaliah, Chloé Caillet, DJ Cringey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*

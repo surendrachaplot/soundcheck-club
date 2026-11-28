@@ -1,6 +1,6 @@
 # Hortense de Beauharnais
 
-Hortense de Beauharnais is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
+Hortense de Beauharnais is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
 
 Hortense de Beauharnais is a techno and trance artist based in France, with 24 gigs on soundcheck across Berlin, Bordeaux, Lausanne and Lille and 9 more. Often billed alongside uphoria, Blaame and Christie. Next up: Hidden, Manchester on Fri 1 Jan.
 
@@ -27,4 +27,4 @@ Hortense de Beauharnais is a techno and trance artist based in France, with 24 g
 
 uphoria, Blaame, Christie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hortensedebeauharnais/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hortensedebeauharnais/)*

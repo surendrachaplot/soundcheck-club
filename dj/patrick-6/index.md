@@ -1,6 +1,6 @@
 # Patrick (6)
 
-Patrick (6) is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bowie, Toronto on Sun, 27 Dec 2026.
+Patrick (6) is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bowie, Toronto on Sun, 27 Dec 2026.
 
 Patrick is a tech house and electronica artist based in Canada, with 8 gigs on soundcheck across Montreal and Toronto. Often billed alongside bbyboybleu, Patrick and DJ Christmas. Next up: Bowie, Toronto on Sun 27 Dec.
 
@@ -24,4 +24,4 @@ Patrick is a tech house and electronica artist based in Canada, with 8 gigs on s
 
 bbyboybleu, Patrick, DJ Christmas
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrick-6/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrick-6/)*

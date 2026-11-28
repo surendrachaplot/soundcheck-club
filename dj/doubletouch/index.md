@@ -1,14 +1,13 @@
 # Double Touch
 
-Double Touch is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Ivy, Sydney on Sat, 28 Nov 2026.
+Double Touch is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bourke Street Courtyard, Melbourne on Sun, 29 Nov 2026.
 
-Double Touch is a deep house and house artist based in Australia, with 52 gigs on soundcheck across Bali, Barcelona, Byron Bay and Chicago and 16 more. Often billed alongside Lee Burridge, Lost Desert and Tim Green. Next up: The Ivy, Sydney on Sat 28 Nov.
+Double Touch is a deep house and house artist based in Australia, with 52 gigs on soundcheck across Bali, Barcelona, Byron Bay and Chicago and 16 more. Often billed alongside Lee Burridge, Lost Desert and Tim Green. Next up: Bourke Street Courtyard, Melbourne on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Sun, 29 Nov 2026 | Bourke Street Courtyard | Melbourne |
 | Sun, 24 Jan 2027 | The River Hotel | Perth |
 
@@ -27,4 +26,4 @@ Double Touch is a deep house and house artist based in Australia, with 52 gigs o
 
 Lee Burridge, Lost Desert, Tim Green
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubletouch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubletouch/)*

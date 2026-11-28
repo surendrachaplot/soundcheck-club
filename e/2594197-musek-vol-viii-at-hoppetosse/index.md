@@ -1,6 +1,6 @@
 # Musek Vol. VIII at Hoppetosse
 
-Musek Vol. VIII at Hoppetosse on Sat 6 Feb, Berlin. 5 artists: Alex Neri, Danae, Hamsa and Ivan Iacobucci and 1 more. Progressive House and Electro. See the line-up on soundcheck.
+Musek Vol. VIII at Hoppetosse on Sat 6 Feb, Berlin. 5 artists: Alex Neri, DANAE, Hamsa and Ivan Iacobucci and 1 more. Progressive House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Musek Vol. VIII at Hoppetosse on Sat 6 Feb, Berlin. 5 artists: Alex Neri, Danae,
 ## Line-up
 
 - Alex Neri
-- Danae
+- DANAE
 - Hamsa
 - Ivan Iacobucci
 - KT

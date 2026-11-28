@@ -1,6 +1,6 @@
 # Hamatsuki
 
-Hamatsuki is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 333, New York City on Sat, 28 Nov 2026.
+Hamatsuki is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - 333, New York City on Sat, 28 Nov 2026.
 
 Hamatsuki is a house and techno artist based in Georgia, with 86 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Helsinki and 12 more. Often billed alongside Kvanchi, Sophie Phare and Kancheli. Next up: TBA - 333, New York City on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Hamatsuki is a house and techno artist based in Georgia, with 86 gigs on soundch
 
 Kvanchi, Sophie Phare, Kancheli
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamatsuki-ge/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamatsuki-ge/)*

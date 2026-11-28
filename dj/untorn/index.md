@@ -1,6 +1,6 @@
 # untorn
 
-untorn is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - East Vancouver, Vancouver on Fri, 4 Dec 2026.
+untorn is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - East Vancouver, Vancouver on Fri, 4 Dec 2026.
 
 untorn is a techno and minimal artist based in Canada, with 21 gigs on soundcheck across Vancouver. Often billed alongside kish, DJ Hockey and Bronsön. Next up: TBA - East Vancouver, Vancouver on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ untorn is a techno and minimal artist based in Canada, with 21 gigs on soundchec
 
 kish, DJ Hockey, Bronsön
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/untorn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/untorn/)*

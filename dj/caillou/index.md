@@ -1,6 +1,6 @@
 # Caillou
 
-Caillou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Fri, 11 Dec 2026.
+Caillou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Renate, Berlin on Fri, 11 Dec 2026.
 
 Caillou is a house and techno artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Brussels and Lausanne and 5 more. Often billed alongside Joshua Murphy, Paty Vapor and Acid Washed. Next up: Renate, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Caillou is a house and techno artist based in Germany, with 17 gigs on soundchec
 
 Joshua Murphy, Paty Vapor, Acid Washed
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*

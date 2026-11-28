@@ -1,6 +1,6 @@
 # Sivanesh
 
-Sivanesh is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sarab, Singapore on Sat, 28 Nov 2026.
+Sivanesh is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sarab, Singapore on Sat, 28 Nov 2026.
 
 Sivanesh is a house and techno artist based in Singapore, with 81 gigs on soundcheck across Bali, Bangladesh, Hanoi and Ho Chi Minh City and 4 more. Often billed alongside Miss Lil, James Selva and Bongomann. Next up: Sarab, Singapore on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Sivanesh is a house and techno artist based in Singapore, with 81 gigs on soundc
 
 Miss Lil, James Selva, Bongomann
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sivanesh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sivanesh/)*

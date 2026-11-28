@@ -1,6 +1,6 @@
 # sain†
 
-sain† is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at CHICO, Mexico City on Sat, 28 Nov 2026.
+sain† is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at CHICO, Mexico City on Sat, 28 Nov 2026.
 
 sain† is an electronica and club artist, with 5 gigs on soundcheck across Berlin, Dresden and Mexico City. Often billed alongside KALI., Alphonsine Koh and Abyss X. Next up: CHICO, Mexico City on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ sain† is an electronica and club artist, with 5 gigs on soundcheck across Berl
 
 KALI., Alphonsine Koh, Abyss X
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sain†/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sain†/)*

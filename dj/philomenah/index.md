@@ -1,6 +1,6 @@
 # philomenah
 
-philomenah is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Home Bar, Edinburgh on Sun, 27 Dec 2026.
+philomenah is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Home Bar, Edinburgh on Sun, 27 Dec 2026.
 
 philomenah is a post-punk and new wave artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh and London. Often billed alongside The Nightlark, Sacred Keys and Moth Girl. Next up: Home Bar, Edinburgh on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ philomenah is a post-punk and new wave artist based in United Kingdom, with 15 g
 
 The Nightlark, Sacred Keys, Moth Girl
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philomenah/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philomenah/)*

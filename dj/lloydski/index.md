@@ -1,6 +1,6 @@
 # Lloydski
 
-Lloydski is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 28 Nov 2026.
+Lloydski is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 28 Nov 2026.
 
 Lloydski is a house and disco artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Berlin, Brazil and Lisbon and 10 more. Often billed alongside Eli Escobar, Lauren Murada and Planet B. Next up: TBA - Los Angeles, Los Angeles on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Lloydski is a house and disco artist based in United States of America, with 77 
 
 Eli Escobar, Lauren Murada, Planet B
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydski/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydski/)*

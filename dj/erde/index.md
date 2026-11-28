@@ -1,6 +1,6 @@
 # Erde
 
-Erde is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Flux Istanbul, Istanbul on Fri, 4 Dec 2026.
+Erde is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Flux Istanbul, Istanbul on Fri, 4 Dec 2026.
 
 Erde is a techno and industrial artist based in Turkey, with 17 gigs on soundcheck across Istanbul. Often billed alongside ABEILLE, Belin and Ghed. Next up: Flux Istanbul, Istanbul on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Erde is a techno and industrial artist based in Turkey, with 17 gigs on soundche
 
 ABEILLE, Belin, Ghed
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erde/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erde/)*

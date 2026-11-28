@@ -1,6 +1,6 @@
 # Sala El Sol
 
-Sala El Sol is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Elements Cave: JvggedDoggie (All Night Long Bday) + Nixy + JayVi + Pulpix" on Wed, 2 Dec 2026.
+Sala El Sol is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Elements Cave: JvggedDoggie (All Night Long Bday) + Nixy + JayVi + Pulpix" on Wed, 2 Dec 2026.
 
 Sala El Sol is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including JAWS, JayVi, JvggedDoggie and Marcelo Demarco and 2 more. See dates, start times and who's playing. Calle Jardines 3, 28013 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Sala El Sol is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, wi
 
 Calle Jardines 3, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-el-sol/)*

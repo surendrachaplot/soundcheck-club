@@ -1,14 +1,13 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Fri, 27 Nov 2026.
+BØĘRY is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hangar 18, Netherlands on Sat, 28 Nov 2026.
 
-BØĘRY is a techno and hardcore artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 14 more. Often billed alongside Raxeller, LIEKS and BLNK. Next up: The Prospect Building, Bristol on Fri 27 Nov.
+BØĘRY is a techno and hardcore artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 14 more. Often billed alongside Raxeller, LIEKS and BLNK. Next up: Hangar 18, Netherlands on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 28 Nov 2026 | Hangar 18 | Netherlands |
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
 | Fri, 11 Dec 2026 | BASIS | Utrecht |
@@ -21,6 +20,7 @@ BØĘRY is a techno and hardcore artist based in Netherlands, with 35 gigs on so
 
 ## Recently played
 
+- The Prospect Building, Bristol · Fri, 27 Nov 2026
 - Palais 12 / Paleis 12 (ING Arena), Brussels · Sat, 7 Nov 2026
 - Maassilo, Rotterdam · Sat, 31 Oct 2026
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
@@ -28,10 +28,9 @@ BØĘRY is a techno and hardcore artist based in Netherlands, with 35 gigs on so
 - Club Vaag, Antwerp · Fri, 23 Oct 2026
 - Maassilo, Rotterdam · Sat, 10 Oct 2026
 - Hans Bunte Areal, Freiburg · Fri, 2 Oct 2026
-- Airport Würzburg, Nürnberg · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Raxeller, LIEKS, BLNK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

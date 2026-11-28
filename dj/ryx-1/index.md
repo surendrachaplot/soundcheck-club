@@ -1,6 +1,6 @@
 # RYX (1)
 
-RYX (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Monument031, Gothenburg on Fri, 25 Dec 2026.
+RYX (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Monument031, Gothenburg on Fri, 25 Dec 2026.
 
 RYX is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Bucharest, Cologne and Gothenburg and 7 more. Often billed alongside CÖLN, Badlokk and Neon Graveyard. Next up: TBA - Monument031, Gothenburg on Fri 25 Dec.
 
@@ -26,4 +26,4 @@ RYX is a techno and trance artist based in Germany, with 24 gigs on soundcheck a
 
 CÖLN, Badlokk, Neon Graveyard
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*

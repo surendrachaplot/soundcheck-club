@@ -1,14 +1,13 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Skream presented by Goldenvoice" on Fri, 27 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Local 500 & Public Works present: Function 500 with Pulse Finder" on Thu, 3 Dec 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including AGROPOL, Alkemiss Erika, Bryn Avery and Cali Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 upcoming gigs, with line-ups including AGROPOL, Alkemiss Erika, Bryn Avery and Cali Rose and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Skream presented by Goldenvoice | Skream |
 | Thu, 3 Dec 2026 | Local 500 & Public Works present: Function 500 with Pulse Finder | AGROPOL, DJ Panderer, Pulse Finder |
 | Fri, 4 Dec 2026 | GUY J (Open to Close) presented by Public Works, Safra, Konnekted, & SET | Bryn Avery, Guy J, Moheato, Torteline |
 | Sat, 5 Dec 2026 | Desert Dwellers presented by Public Works & Bicycle Day |  |
@@ -18,9 +17,10 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 
 | Sat, 12 Dec 2026 | Public Works & Stamina present: Metalheadz | DRS, Goldie, Jamal, Photek |
 | Sat, 12 Dec 2026 | Metalheadz: Goldie & Photek presented by Stamina & Public Works | DRS, Goldie, Photek |
 | Sat, 12 Dec 2026 | Santacon |  |
+| Fri, 18 Dec 2026 | Casa Tulum |  |
 
 ## Address
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

@@ -1,14 +1,13 @@
 # David Vunk
 
-David Vunk is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at EKKO, Utrecht on Fri, 27 Nov 2026.
+David Vunk is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 28 Nov 2026.
 
-David Vunk is a house and techno artist based in Netherlands, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Marsman, Afra and Anetha. Next up: EKKO, Utrecht on Fri 27 Nov.
+David Vunk is a house and techno artist based in Netherlands, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Marsman, Afra and Anetha. Next up: Het Sieraad, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | EKKO | Utrecht |
 | Sat, 28 Nov 2026 | Het Sieraad | Amsterdam |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 | Sun, 27 Dec 2026 | McChuills Music Bar | Glasgow |
@@ -17,6 +16,7 @@ David Vunk is a house and techno artist based in Netherlands, with 173 gigs on s
 
 ## Recently played
 
+- EKKO, Utrecht · Fri, 27 Nov 2026
 - Doka, Amsterdam · Sat, 31 Oct 2026
 - TILLATEC, Amsterdam · Sat, 24 Oct 2026
 - Skatecafe, Amsterdam · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ David Vunk is a house and techno artist based in Netherlands, with 173 gigs on s
 - Yamamori Tengu, Dublin · Fri, 9 Oct 2026
 - Café De Plak, Nijmegen · Sat, 3 Oct 2026
 - PIP Den Haag, The Hague · Sat, 12 Sept 2026
-- export, Rotterdam · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Marsman, Afra, Anetha
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*

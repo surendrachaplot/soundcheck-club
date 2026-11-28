@@ -1,6 +1,6 @@
 # kimryo
 
-kimryo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Daphnia, Osaka on Sat, 19 Dec 2026.
+kimryo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Daphnia, Osaka on Sat, 19 Dec 2026.
 
 kimryo is a techno and house artist based in Japan, with 35 gigs on soundcheck across Kyoto and Osaka. Often billed alongside kentaroshark, nap(JP) and rimi. Next up: Club Daphnia, Osaka on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ kimryo is a techno and house artist based in Japan, with 35 gigs on soundcheck a
 
 kentaroshark, nap(JP), rimi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimryo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimryo/)*

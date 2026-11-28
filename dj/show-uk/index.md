@@ -1,6 +1,6 @@
 # Show (UK)
 
-Show (UK) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at club asia, Tokyo on Sat, 28 Nov 2026.
+Show (UK) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at club asia, Tokyo on Sat, 28 Nov 2026.
 
 Show (UK) is a techno and hardcore artist based in United Kingdom, with 4 gigs on soundcheck across Austin, Munich and Tokyo. Often billed alongside B, Cottí Larje and DJ B2B. Next up: club asia, Tokyo on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Show (UK) is a techno and hardcore artist based in United Kingdom, with 4 gigs o
 
 B (379), Cottí Larje, DJ B2B
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/show-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/show-uk/)*

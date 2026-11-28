@@ -1,6 +1,6 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Castle, Kansai on Sat, 28 Nov 2026.
+kengotaki is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Castle, Kansai on Sat, 28 Nov 2026.
 
 kengotaki is a house and techno artist based in Japan, with 189 gigs on soundcheck across Kansai, Kyushu, Okinawa and Osaka and 2 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: The Castle, Kansai on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ kengotaki is a house and techno artist based in Japan, with 189 gigs on soundche
 
 r1ku, SAMO (JP), YUVIE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*

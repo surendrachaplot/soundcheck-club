@@ -1,8 +1,8 @@
 # Hugh Hardie
 
-Hugh Hardie is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Doornroosje, Nijmegen on Fri, 18 Dec 2026.
+Hugh Hardie is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Doornroosje, Nijmegen on Fri, 18 Dec 2026.
 
-Hugh Hardie is a drum & bass and jungle artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Austin, Barcelona and Denver and 13 more. Often billed alongside Etherwood, Solah and Degs. Next up: Doornroosje, Nijmegen on Fri 18 Dec.
+Hugh Hardie is a drum & bass and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Austin, Barcelona and Denver and 13 more. Often billed alongside Etherwood, Makoto and Solah. Next up: Doornroosje, Nijmegen on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hugh Hardie is a drum & bass and jungle artist based in United Kingdom, with 29 
 | --- | --- | --- |
 | Fri, 18 Dec 2026 | Doornroosje | Nijmegen |
 | Thu, 31 Dec 2026 | Circus Tokyo | Tokyo |
+| Thu, 31 Dec 2026 | Saloon | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Hugh Hardie is a drum & bass and jungle artist based in United Kingdom, with 29 
 
 ## Shares bills with
 
-Etherwood, Solah, Degs
+Etherwood, Makoto, Solah
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hughhardie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hughhardie/)*

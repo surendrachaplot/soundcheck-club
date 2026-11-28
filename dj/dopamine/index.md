@@ -1,8 +1,8 @@
 # Dopamine
 
-Dopamine is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
+Dopamine is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at White Bay Power Station, Sydney on Fri, 2 Apr 2027.
 
-Dopamine is a bass and dubstep artist, with 4 gigs on soundcheck across Atlanta, Bali and Sydney. Often billed alongside Demuja, Eyad and Freestylers. Next up: White Bay Power Station, Sydney on Fri 2 Apr.
+Dopamine is a bass and dubstep artist based in Australia, with 4 gigs on soundcheck across Atlanta, Bali and Sydney. Often billed alongside Demuja, Eyad and Freestylers. Next up: White Bay Power Station, Sydney on Fri 2 Apr.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Dopamine is a bass and dubstep artist, with 4 gigs on soundcheck across Atlanta,
 
 Demuja, Eyad, Freestylers
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dopamine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dopamine/)*

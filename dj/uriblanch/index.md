@@ -1,6 +1,6 @@
 # UriBlanch
 
-UriBlanch is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yellow House, Amsterdam on Fri, 4 Dec 2026.
+UriBlanch is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Yellow House, Amsterdam on Fri, 4 Dec 2026.
 
 UriBlanch is a house and minimal artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Niklas Becher, ANNASNEL and Lidia Lo. Next up: Yellow House, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ UriBlanch is a house and minimal artist based in Netherlands, with 10 gigs on so
 
 Niklas Becher, ANNASNEL, Lidia Lo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*

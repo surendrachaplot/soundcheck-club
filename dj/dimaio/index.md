@@ -1,6 +1,6 @@
 # Dimaio
 
-Dimaio is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 4 Dec 2026.
+Dimaio is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hangar48 Club, Madrid on Fri, 4 Dec 2026.
 
 Dimaio is a house and minimal artist based in Mexico, with 68 gigs on soundcheck across Barcelona, Bologna, Madrid and Mexico City and 1 more. Often billed alongside Nimean Sunset, Cinema Paradisco and RUJA. Next up: Hangar48 Club, Madrid on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Dimaio is a house and minimal artist based in Mexico, with 68 gigs on soundcheck
 
 Nimean Sunset, Cinema Paradisco, RUJA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaio/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaio/)*

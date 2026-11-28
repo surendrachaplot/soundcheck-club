@@ -1,6 +1,6 @@
 # Beibeilon
 
-Beibeilon is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Sun, 6 Dec 2026.
+Beibeilon is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at OIL Club, Shenzhen on Sun, 6 Dec 2026.
 
 Beibeilon is a club and techno artist based in China, with 90 gigs on soundcheck across Berlin, Chengdu, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside DJ 86, zzm and AntiSocialPrincess. Next up: OIL Club, Shenzhen on Sun 6 Dec.
 
@@ -28,4 +28,4 @@ Beibeilon is a club and techno artist based in China, with 90 gigs on soundcheck
 
 DJ 86, zzm (2), AntiSocialPrincess
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beibeilon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beibeilon/)*

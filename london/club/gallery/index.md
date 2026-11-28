@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "POPUP x CEL present: NIC B2B MATT (All Night Long)" on Fri, 27 Nov 2026.
+Gallery is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Magdalena at Gallery Club" on Sat, 28 Nov 2026.
 
 Gallery is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including &friends, Davide Del Vecchio, David Ferreira and Ellis Garner and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -8,8 +8,7 @@ Gallery is a music venue in London listed on soundcheck. 10 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | POPUP x CEL present: NIC B2B MATT (All Night Long) |  |
-| Sat, 28 Nov 2026 | HYPNOTIZED x MAGDALENA at Gallery LONDON , REDPOM, DUKUS, HARRIET CAMPBELL & VENERE | Magdalena (DE), VENERE |
+| Sat, 28 Nov 2026 | Magdalena at Gallery Club | Magdalena (DE), VENERE |
 | Thu, 3 Dec 2026 | Paradox Nexus: Rakim Under, Boogieboy, Kasumov  - Thursdays at Gallery | David Ferreira, Rakim Under |
 | Fri, 4 Dec 2026 | Gallery PRESENTS: Paul Oakenfold | Paul Oakenfold |
 | Fri, 4 Dec 2026 | HPLTC EOY Party |  |
@@ -18,9 +17,10 @@ Gallery is a music venue in London listed on soundcheck. 10 upcoming gigs, with 
 | Thu, 17 Dec 2026 | Paradox Nexus - Thursdays at Gallery |  |
 | Thu, 31 Dec 2026 | Gallery PRESENTS NYE |  |
 | Thu, 31 Dec 2026 | ETA 003… | Ellis Garner |
+| Sat, 23 Jan 2027 | Beyond Borders .:. Malta to London | Pocci |
 
 ## Address
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

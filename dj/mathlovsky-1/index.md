@@ -1,6 +1,6 @@
 # Mathlovsky
 
-Mathlovsky is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Muziekcentrum Kinky Star, Ghent on Fri, 29 Jan 2027.
+Mathlovsky is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Muziekcentrum Kinky Star, Ghent on Fri, 29 Jan 2027.
 
 Mathlovsky is a techno and industrial artist based in Belgium, with 9 gigs on soundcheck across Antwerp, Bristol, Ghent and Sheffield. Often billed alongside Bolt Ruin, Lolalita and Scheme Boy. Next up: Muziekcentrum Kinky Star, Ghent on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Mathlovsky is a techno and industrial artist based in Belgium, with 9 gigs on so
 
 Bolt Ruin, Lolalita, Scheme Boy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathlovsky-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathlovsky-1/)*

@@ -1,14 +1,13 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hometown Sound System: Prince Fatty & HORSEMAN" on Fri, 27 Nov 2026.
+The Art School is a music venue in Glasgow with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "DUB CLUB: Daddy Scotty & Hometown Sound System" on Thu, 3 Dec 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with line-ups including BCee, Dilemma, Egyptian Lover and Hometown Sound and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 6 upcoming gigs, with line-ups including BCee, Dilemma, Egyptian Lover and Hometown Sound and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Hometown Sound System: Prince Fatty & HORSEMAN | Hometown Sound, James Hometown, Prince Fatty |
 | Thu, 3 Dec 2026 | DUB CLUB: Daddy Scotty & Hometown Sound System | Hometown Sound |
 | Fri, 11 Dec 2026 | Pray To Good \\\ Winslow \\\ BCee \\\ T.R.A.C. | BCee, Dilemma (2), Winslow |
 | Thu, 17 Dec 2026 | DUB CLUB: Kebra Ethiopia (DJ Set) & Hometown Sound System | Hometown Sound, James Hometown |
@@ -20,4 +19,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

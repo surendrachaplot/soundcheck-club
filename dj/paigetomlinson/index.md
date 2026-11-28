@@ -1,14 +1,13 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Night Tales, London on Fri, 27 Nov 2026.
+Paige Tomlinson is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
 
-Paige Tomlinson is a house and techno artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Night Tales, London on Fri 27 Nov.
+Paige Tomlinson is a house and techno artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Lijm & Cultuur, Netherlands on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Night Tales | London |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
 | Sat, 28 Nov 2026 | Complex Maastricht | Netherlands |
 | Sun, 29 Nov 2026 | Sparty | Budapest |
@@ -23,6 +22,7 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 179 g
 
 ## Recently played
 
+- Night Tales, London · Fri, 27 Nov 2026
 - SWG3, Glasgow · Sat, 21 Nov 2026
 - SWG3, Glasgow · Sat, 21 Nov 2026
 - The Liquid Room, Edinburgh · Fri, 20 Nov 2026
@@ -30,10 +30,9 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 179 g
 - Radius, Chicago · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
 - Club Vinyl, Denver · Fri, 13 Nov 2026
-- 99 Scott Ave, New York City · Sat, 7 Nov 2026
 
 ## Shares bills with
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

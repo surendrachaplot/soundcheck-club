@@ -1,6 +1,6 @@
 # Deniz Kabu
 
-Deniz Kabu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
+Deniz Kabu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
 
 Deniz Kabu is a house and techno artist, with 11 gigs on soundcheck across Istanbul. Often billed alongside 19:26, Ash and Avangart Tabldot. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Deniz Kabu is a house and techno artist, with 11 gigs on soundcheck across Istan
 
 19:26, Ash, Avangart Tabldot
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denizkabu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denizkabu/)*

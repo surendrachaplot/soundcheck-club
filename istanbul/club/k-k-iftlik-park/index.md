@@ -1,6 +1,6 @@
 # KüçükÇiftlik Park
 
-KüçükÇiftlik Park is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Satori" on Fri, 4 Dec 2026.
+KüçükÇiftlik Park is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Satori" on Fri, 4 Dec 2026.
 
 KüçükÇiftlik Park is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Satori. See dates, start times and who's playing. Harbiye, Kadırgalar Cd. No:4, 34367 Şişli/İstanbul, Turkey.
 
@@ -14,4 +14,4 @@ KüçükÇiftlik Park is a music venue in Istanbul listed on soundcheck. 1 upcom
 
 Harbiye, Kadırgalar Cd. No:4, 34367 Şişli/İstanbul, Turkey, Istanbul
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/k-k-iftlik-park/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/k-k-iftlik-park/)*

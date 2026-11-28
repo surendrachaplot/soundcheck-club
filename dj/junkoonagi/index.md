@@ -1,6 +1,6 @@
 # JUNKO ONAGI
 
-JUNKO ONAGI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at club asia, Tokyo on Sat, 28 Nov 2026.
+JUNKO ONAGI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at club asia, Tokyo on Sat, 28 Nov 2026.
 
 JUNKO ONAGI is a techno and house artist based in Japan, with 57 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Louis Shannon, ALEXANDER M and Rickey Shannon. Next up: club asia, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ JUNKO ONAGI is a techno and house artist based in Japan, with 57 gigs on soundch
 
 Louis Shannon, ALEXANDER M, Rickey Shannon
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkoonagi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkoonagi/)*

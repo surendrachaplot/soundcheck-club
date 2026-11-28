@@ -1,6 +1,6 @@
 # CVRLXS CA
 
-CVRLXS CA is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - ENTITY poderes by Void Acostics, Madrid on Sat, 12 Dec 2026.
+CVRLXS CA is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - ENTITY poderes by Void Acostics, Madrid on Sat, 12 Dec 2026.
 
 CVRLXS CA is a techno artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside Aizikovic, Ania Bruster and Arlase. Next up: TBA - ENTITY poderes by Void Acostics, Madrid on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ CVRLXS CA is a techno artist based in Spain, with 6 gigs on soundcheck across Ma
 
 Aizikovic, Ania Bruster, Arlase
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrlxsca/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrlxsca/)*

@@ -1,6 +1,6 @@
 # Thornz
 
-Thornz is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Arena Torquay, West-wales on Fri, 4 Dec 2026.
+Thornz is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Arena Torquay, West-wales on Fri, 4 Dec 2026.
 
 Thornz is an electronic artist based in United Kingdom, with 4 gigs on soundcheck across Bristol, London and West Wales. Often billed alongside Bushbaby and Danny Rankin. Next up: Arena Torquay, West Wales on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Thornz is an electronic artist based in United Kingdom, with 4 gigs on soundchec
 
 Bushbaby, Danny Rankin
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thornz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thornz/)*

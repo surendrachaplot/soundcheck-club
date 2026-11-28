@@ -1,6 +1,6 @@
 # Nicol
 
-Nicol is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
+Nicol is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
 Nicol is a techno and house artist based in France, with 82 gigs on soundcheck across Berlin, Bordeaux, Dundee and Lyon and 3 more. Often billed alongside Ceyda Yagiz, Aubry and PEPIITA. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
@@ -14,6 +14,7 @@ Nicol is a techno and house artist based in France, with 82 gigs on soundcheck a
 
 ## Recently played
 
+- Cabaret Sauvage, Paris · Fri, 27 Nov 2026
 - Le point fort d'Aubervilliers, Paris · Sat, 14 Nov 2026
 - Glazart, Paris · Sun, 27 Sept 2026
 - La Station - Gare des Mines, Paris · Sun, 30 Aug 2026
@@ -21,10 +22,9 @@ Nicol is a techno and house artist based in France, with 82 gigs on soundcheck a
 - TBA, Marseille · Sun, 24 May 2026
 - Virage, Paris · Fri, 15 May 2026
 - Le Chapiteau - Marseille, Marseille · Sat, 25 Apr 2026
-- Le 211, Paris · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Ceyda Yagiz, Aubry, PEPIITA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicol/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicol/)*

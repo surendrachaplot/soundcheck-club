@@ -1,6 +1,6 @@
 # Nazo
 
-Nazo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Nazo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Nazo is a house and afro house artist based in Romania, with 6 gigs on soundcheck across Seattle and Sydney. Often billed alongside Nayiram, Aivilo and Cassette. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -22,4 +22,4 @@ Nazo is a house and afro house artist based in Romania, with 6 gigs on soundchec
 
 Nayiram, Aivilo, Cassette
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nazo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nazo/)*

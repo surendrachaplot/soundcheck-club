@@ -1,6 +1,6 @@
 # Fourward
 
-Fourward is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cross Club, Prague on Fri, 4 Dec 2026.
+Fourward is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cross Club, Prague on Fri, 4 Dec 2026.
 
 Fourward is a drum & bass and bass artist, with 4 gigs on soundcheck across Prague and Vienna. Often billed alongside Chris.SU, Ejdm and Nonalis. Next up: Cross Club, Prague on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Fourward is a drum & bass and bass artist, with 4 gigs on soundcheck across Prag
 
 Chris.SU, Ejdm, Nonalis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourward/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fourward/)*

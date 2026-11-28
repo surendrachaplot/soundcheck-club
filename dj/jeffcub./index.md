@@ -1,6 +1,6 @@
 # JEFF CUB.
 
-JEFF CUB. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sala Siroco, Madrid on Mon, 7 Dec 2026.
+JEFF CUB. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala Siroco, Madrid on Mon, 7 Dec 2026.
 
 JEFF CUB. is a techno and house artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside MEANA, JHONSON. and SVNZ.. Next up: Sala Siroco, Madrid on Mon 7 Dec.
 
@@ -21,4 +21,4 @@ JEFF CUB. is a techno and house artist based in Spain, with 5 gigs on soundcheck
 
 MEANA, JHONSON., SVNZ.
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffcub./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffcub./)*

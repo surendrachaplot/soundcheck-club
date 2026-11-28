@@ -1,20 +1,21 @@
 # Measure Divide
 
-Measure Divide is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Toronto on Fri, 27 Nov 2026.
+Measure Divide is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location, Toronto on Sat, 28 Nov 2026.
 
-Measure Divide is a techno and acid artist based in Pakistan, with 95 gigs on soundcheck across Berlin, Chicago, Detroit and Istanbul and 12 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: TBA, Toronto on Fri 27 Nov.
+Measure Divide is a techno and acid artist based in Pakistan, with 96 gigs on soundcheck across Berlin, Chicago, Detroit and Istanbul and 12 more. Often billed alongside AADJA, Circumscums and Darkova. Next up: TBA - Secret Location, Toronto on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA | Toronto |
+| Sat, 28 Nov 2026 | TBA - Secret Location | Toronto |
 | Sat, 5 Dec 2026 | TBA - Secret Location | Toronto |
 | Sat, 26 Dec 2026 | TBA - Secret Location | Toronto |
 | Sat, 23 Jan 2027 | Société des arts technologiques | Montreal |
 
 ## Recently played
 
+- TBA, Toronto · Fri, 27 Nov 2026
 - Standard Time, Toronto · Sat, 7 Nov 2026
 - Flux, Istanbul · Sat, 24 Oct 2026
 - Teritorija, Riga · Fri, 23 Oct 2026
@@ -22,10 +23,9 @@ Measure Divide is a techno and acid artist based in Pakistan, with 95 gigs on so
 - TBA - Green Room, Saskatchewan · Sat, 17 Oct 2026
 - TBA - Secret Location, Toronto · Sun, 11 Oct 2026
 - 131 Mccormack St, Toronto · Fri, 25 Sept 2026
-- TBA, Toronto · Sat, 5 Sept 2026
 
 ## Shares bills with
 
-AADJA, Circumscums, Vadim Khan
+AADJA, Circumscums, Darkova
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*

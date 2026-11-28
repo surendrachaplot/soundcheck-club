@@ -1,6 +1,6 @@
 # yu-more
 
-yu-more is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 29 Nov 2026.
+yu-more is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 29 Nov 2026.
 
 yu-more is a deep house and house artist based in Japan, with 187 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KONDO Mitsuo, Junki Akutagawa and aqtagawa. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ yu-more is a deep house and house artist based in Japan, with 187 gigs on soundc
 
 KONDO Mitsuo, Junki Akutagawa, aqtagawa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-more/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-more/)*

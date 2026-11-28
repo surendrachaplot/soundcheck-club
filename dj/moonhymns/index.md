@@ -1,6 +1,6 @@
 # Moon Hymns
 
-Moon Hymns is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Jama, Toronto on Fri, 18 Dec 2026.
+Moon Hymns is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Jama, Toronto on Fri, 18 Dec 2026.
 
 Moon Hymns is a minimal and ambient artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside Gil Masuda, John Kong and Julia Dickens. Next up: The Jama, Toronto on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Moon Hymns is a minimal and ambient artist based in Canada, with 24 gigs on soun
 
 Gil Masuda, John Kong, Julia Dickens
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonhymns/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonhymns/)*

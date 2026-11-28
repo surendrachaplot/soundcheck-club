@@ -1,6 +1,6 @@
 # Cardi-O
 
-Cardi-O is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Cheek, London on Sat, 12 Dec 2026.
+Cardi-O is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Cheek, London on Sat, 12 Dec 2026.
 
 Cardi-O is a house and deep house artist based in Germany, with 29 gigs on soundcheck across Berlin, Hamburg, London and Tbilisi. Often billed alongside Mystigrix, crydebleich and Daniel Mata. Next up: Club Cheek, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Cardi-O is a house and deep house artist based in Germany, with 29 gigs on sound
 
 Mystigrix, crydebleich, Daniel Mata
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*

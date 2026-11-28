@@ -1,14 +1,14 @@
 # Hedonist
 
-Hedonist is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+Hedonist is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Transformator, Wroclaw on Thu, 31 Dec 2026.
 
-Hedonist is a house and electronica artist based in Poland, with 26 gigs on soundcheck across Berlin, Glasgow, Poznan and Sydney and 2 more. Often billed alongside LuLu Malina, kEczuP and Glassz. Next up: Ciało, Wroclaw on Fri 13 Nov.
+Hedonist is a house and electronica artist based in Poland, with 27 gigs on soundcheck across Berlin, Glasgow, Poznan and Sydney and 2 more. Often billed alongside LuLu Malina, kEczuP and Glassz. Next up: Transformator, Wroclaw on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Ciało | Wroclaw |
+| Thu, 31 Dec 2026 | Transformator | Wroclaw |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Hedonist is a house and electronica artist based in Poland, with 26 gigs on soun
 
 LuLu Malina, kEczuP, Glassz
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hedonist/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hedonist/)*

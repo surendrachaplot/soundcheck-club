@@ -1,13 +1,14 @@
 # sellyourmania
 
-sellyourmania is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elysia, Basel on Sat, 19 Dec 2026.
+sellyourmania is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ILLUM, Shanghai on Sat, 5 Dec 2026.
 
-sellyourmania is a techno artist based in Switzerland, with 18 gigs on soundcheck across Basel, Beijing and Zurich. Often billed alongside Amygdala, Arutani and Nive. Next up: Elysia, Basel on Sat 19 Dec.
+sellyourmania is a techno and breakbeat artist based in Switzerland, with 19 gigs on soundcheck across Basel, Beijing, Shanghai and Zurich. Often billed alongside Amygdala, Arutani and Nive. Next up: ILLUM, Shanghai on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | ILLUM | Shanghai |
 | Sat, 19 Dec 2026 | Elysia | Basel |
 
 ## Recently played
@@ -25,4 +26,4 @@ sellyourmania is a techno artist based in Switzerland, with 18 gigs on soundchec
 
 Amygdala, Arutani, Nive
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sellyourmania/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sellyourmania/)*

@@ -1,14 +1,15 @@
 # Salma
 
-Salma is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ÆDEN, Berlin on Sat, 19 Dec 2026.
+Salma is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ÆDEN, Berlin on Sat, 19 Dec 2026.
 
-Salma is a bass and electro artist based in Tunisia, with 15 gigs on soundcheck across Berlin, Lyon and Madrid. Often billed alongside DumTak, FISK and Nayoo. Next up: ÆDEN, Berlin on Sat 19 Dec.
+Salma is a bass and electro artist based in Tunisia, with 16 gigs on soundcheck across Berlin, Lyon and Madrid. Often billed alongside Ahni, DumTak and FISK. Next up: ÆDEN, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | ÆDEN | Berlin |
+| Thu, 24 Dec 2026 | Crack Bellmer | Berlin |
 | Wed, 30 Dec 2026 | Panke | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ Salma is a bass and electro artist based in Tunisia, with 15 gigs on soundcheck 
 
 ## Shares bills with
 
-DumTak, FISK, Nayoo
+Ahni, DumTak, FISK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salma/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salma/)*

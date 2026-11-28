@@ -1,6 +1,6 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+Voigtmann is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
 Voigtmann is a house and tech house artist based in United Kingdom, with 206 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 42 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Voigtmann is a house and tech house artist based in United Kingdom, with 206 gig
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

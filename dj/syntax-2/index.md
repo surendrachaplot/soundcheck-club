@@ -1,19 +1,19 @@
 # Syntax (2)
 
-Syntax (2) is a Jungle and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Amber's, Manchester on Fri, 27 Nov 2026.
+Syntax (2) is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The White Hotel, Manchester on Sun, 29 Nov 2026.
 
-Syntax is a jungle and bass artist based in United Kingdom, with 63 gigs on soundcheck across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: Amber's, Manchester on Fri 27 Nov.
+Syntax is a jungle and bass artist based in United Kingdom, with 63 gigs on soundcheck across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: The White Hotel, Manchester on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Amber's | Manchester |
 | Sun, 29 Nov 2026 | The White Hotel | Manchester |
 | Fri, 18 Dec 2026 | Hidden | Manchester |
 
 ## Recently played
 
+- Amber's, Manchester · Fri, 27 Nov 2026
 - The DBA, Manchester · Fri, 30 Oct 2026
 - The Prospect Building, Bristol · Sat, 10 Oct 2026
 - The White Hotel, Manchester · Fri, 7 Aug 2026
@@ -21,10 +21,9 @@ Syntax is a jungle and bass artist based in United Kingdom, with 63 gigs on soun
 - Hidden, Manchester · Fri, 26 Jun 2026
 - Six Trees Bar And Kitchen Manchester, Manchester · Sat, 6 Jun 2026
 - Hidden, Manchester · Sat, 25 Apr 2026
-- Meraki, Liverpool · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Hanz, Samurai Breaks, Mandidextrous
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*

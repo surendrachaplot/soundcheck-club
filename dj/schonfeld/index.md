@@ -1,6 +1,6 @@
 # schönfeld
 
-schönfeld is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
+schönfeld is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Kater, Berlin on Thu, 31 Dec 2026.
 
 schönfeld is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Zarling, Dreimal T and degen. Next up: Kater, Berlin on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ schönfeld is a house and techno artist based in Germany, with 6 gigs on soundch
 
 Zarling, Dreimal T, degen
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schonfeld/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schonfeld/)*

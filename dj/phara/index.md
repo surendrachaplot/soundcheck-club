@@ -1,6 +1,6 @@
 # Phara
 
-Phara is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bassement, Madrid on Sat, 28 Nov 2026.
+Phara is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Bassement, Madrid on Sat, 28 Nov 2026.
 
 Phara is a techno and house artist based in Belgium, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: The Bassement, Madrid on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Phara is a techno and house artist based in Belgium, with 201 gigs on soundcheck
 
 Altinbas, Marie-Julie, Kr!z
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*

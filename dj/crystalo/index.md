@@ -1,19 +1,19 @@
 # Crystal O
 
-Crystal O is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+Crystal O is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Das Werk, Vienna on Fri, 18 Dec 2026.
 
-Crystal O is a techno and trance artist based in Austria, with 86 gigs on soundcheck across Berlin and Vienna. Often billed alongside Joey, KILIÅN and keha. Next up: KitKatClub, Berlin on Fri 27 Nov.
+Crystal O is a techno and trance artist based in Austria, with 86 gigs on soundcheck across Berlin and Vienna. Often billed alongside Joey, KILIÅN and keha. Next up: Das Werk, Vienna on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | KitKatClub | Berlin |
 | Fri, 18 Dec 2026 | Das Werk | Vienna |
 | Fri, 29 Jan 2027 | Grelle Forelle | Vienna |
 
 ## Recently played
 
+- KitKatClub, Berlin · Fri, 27 Nov 2026
 - Das Werk, Vienna · Sat, 14 Nov 2026
 - Das Werk, Vienna · Sat, 31 Oct 2026
 - Das Werk, Vienna · Fri, 9 Oct 2026
@@ -21,10 +21,9 @@ Crystal O is a techno and trance artist based in Austria, with 86 gigs on soundc
 - Gleis19, Vienna · Fri, 11 Sept 2026
 - Das Werk, Vienna · Fri, 28 Aug 2026
 - Das Werk, Vienna · Fri, 14 Aug 2026
-- Lokschuppen Berlin, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Joey (2), KILIÅN, keha
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalo/)*

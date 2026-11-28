@@ -1,6 +1,6 @@
 # Ogmaz
 
-Ogmaz is a Progressive House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sonorama, Medellin on Sat, 28 Nov 2026.
+Ogmaz is a Progressive House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sonorama, Medellin on Sat, 28 Nov 2026.
 
 Ogmaz is a progressive house and afro house artist based in Colombia, with 38 gigs on soundcheck across Medellin. Often billed alongside Briska, Najeys and JOIE. Next up: Sonorama, Medellin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ogmaz is a progressive house and afro house artist based in Colombia, with 38 gi
 
 Briska, Najeys, JOIE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmaz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmaz/)*

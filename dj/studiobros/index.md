@@ -1,6 +1,6 @@
 # Studio Bros
 
-Studio Bros is a Afro House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Maldito Amor, Santiago on Sat, 12 Dec 2026.
+Studio Bros is a Afro House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Maldito Amor, Santiago on Sat, 12 Dec 2026.
 
 Studio Bros is an afro house and electronica artist based in Portugal, with 23 gigs on soundcheck across Amsterdam, Lisbon, London and Madrid and 3 more. Often billed alongside DJ Lilocox, AfroKillerz and Magic Beatz. Next up: TBA - Maldito Amor, Santiago on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Studio Bros is an afro house and electronica artist based in Portugal, with 23 g
 
 DJ Lilocox, AfroKillerz, Magic Beatz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobros/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobros/)*

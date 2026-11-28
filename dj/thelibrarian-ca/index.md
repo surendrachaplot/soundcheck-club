@@ -1,6 +1,6 @@
 # The Librarian (CA)
 
-The Librarian (CA) is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Location With Ticket, Denver on Sat, 5 Dec 2026.
+The Librarian (CA) is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Location With Ticket, Denver on Sat, 5 Dec 2026.
 
 The Librarian (CA) is a bass and techno artist based in Canada, with 17 gigs on soundcheck across Auckland, Berlin, Denver and San Diego and 3 more. Often billed alongside Mood Change, Max Ulis and Michael Red. Next up: TBA - Location With Ticket, Denver on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ The Librarian (CA) is a bass and techno artist based in Canada, with 17 gigs on 
 
 Mood Change, Max Ulis, Michael Red
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thelibrarian-ca/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thelibrarian-ca/)*

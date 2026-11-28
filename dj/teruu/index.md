@@ -1,6 +1,6 @@
 # Teruu
 
-Teruu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Numm, Tokyo on Sat, 5 Dec 2026.
+Teruu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Numm, Tokyo on Sat, 5 Dec 2026.
 
 Teruu is a house and techno artist based in Japan, with 43 gigs on soundcheck across Hanoi, Ho Chi Minh City, Kyoto and Tokyo. Often billed alongside Karlo, Kenyu and Jeremy Cheung. Next up: Numm, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Teruu is a house and techno artist based in Japan, with 43 gigs on soundcheck ac
 
 Karlo, Kenyu, Jeremy Cheung
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teruu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teruu/)*

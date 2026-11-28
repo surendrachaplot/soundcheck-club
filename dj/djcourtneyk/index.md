@@ -1,6 +1,6 @@
 # DJ Courtney K
 
-DJ Courtney K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sleepwalk, New York City on Fri, 18 Dec 2026.
+DJ Courtney K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sleepwalk, New York City on Fri, 18 Dec 2026.
 
 DJ Courtney K is a house and techno artist based in United States of America, with 25 gigs on soundcheck across New York City and Tampa Bay. Often billed alongside LADYLIZBK, Pjay and Todd Fatjo. Next up: Sleepwalk, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DJ Courtney K is a house and techno artist based in United States of America, wi
 
 LADYLIZBK, Pjay, Todd Fatjo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcourtneyk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcourtneyk/)*

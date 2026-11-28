@@ -1,6 +1,6 @@
 # Aumnï
 
-Aumnï is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Knockdown Center, New-york-city on Sat, 6 Feb 2027.
+Aumnï is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Knockdown Center, New-york-city on Sat, 6 Feb 2027.
 
 Aumnï is a club and experimental artist based in United States of America, with 11 gigs on soundcheck across Atlanta, Charlotte and New York City. Often billed alongside DJ Extraa, BABY COUSIN TAY TAY and EQ Why. Next up: Knockdown Center, New York City on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Aumnï is a club and experimental artist based in United States of America, with
 
 DJ Extraa, BABY COUSIN TAY TAY, EQ Why
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aumnï/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aumnï/)*

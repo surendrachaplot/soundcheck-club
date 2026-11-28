@@ -1,6 +1,6 @@
 # LEXI (BE)
 
-LEXI (BE) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
+LEXI (BE) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ausgang Plaza, Montreal on Thu, 3 Dec 2026.
 
 LEXI (BE) is a techno and tech house artist based in Belgium, with 23 gigs on soundcheck across Antwerp, Brussels, Ghent and Krakow and 5 more. Often billed alongside Auk., GUTIERREZ and Makoveev. Next up: Ausgang Plaza, Montreal on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ LEXI (BE) is a techno and tech house artist based in Belgium, with 23 gigs on so
 
 Auk., GUTIERREZ, Makoveev
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-be/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-be/)*

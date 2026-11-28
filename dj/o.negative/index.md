@@ -1,6 +1,6 @@
 # o.negative
 
-o.negative is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
+o.negative is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bene Bene, Milan on Sat, 28 Nov 2026.
 
 o.negative is a house and club artist based in United States of America, with 18 gigs on soundcheck across Milan and New York City. Often billed alongside ethereal.mvp, kyxm and martine. Next up: Bene Bene, Milan on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ o.negative is a house and club artist based in United States of America, with 18
 
 ethereal.mvp, kyxm, martine (5)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.negative/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.negative/)*

@@ -1,18 +1,18 @@
 # Orphx
 
-Orphx is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at essaim, Paris on Fri, 27 Nov 2026.
+Orphx is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Orphx is a techno and industrial artist based in Canada, with 37 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 17 more. Often billed alongside Adam X, Ancient Methods and Regis. Next up: essaim, Paris on Fri 27 Nov.
+Orphx is a techno and industrial artist based in Canada, with 37 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 17 more. Often billed alongside Adam X, Ancient Methods and Regis. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | essaim | Paris |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 
+- essaim, Paris · Fri, 27 Nov 2026
 - TBA, Hamilton · Fri, 2 Oct 2026
 - Church of the Holy Trinity, Toronto · Sat, 12 Sept 2026
 - Brutal Mx, Mexico City · Fri, 5 Jun 2026
@@ -20,10 +20,9 @@ Orphx is a techno and industrial artist based in Canada, with 37 gigs on soundch
 - Drugstore Beograd, Belgrade · Fri, 8 May 2026
 - Les Tres Xemeneies, Barcelona · Thu, 4 Dec 2025
 - Tangent Gallery, Detroit · Sat, 1 Nov 2025
-- Paradiso, Amsterdam · Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Adam X, Ancient Methods, Regis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orphx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orphx/)*

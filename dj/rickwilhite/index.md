@@ -1,19 +1,19 @@
 # Rick Wilhite
 
-Rick Wilhite is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Northern Lights Lounge, Detroit on Fri, 27 Nov 2026.
+Rick Wilhite is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Los Angeles on Sat, 12 Dec 2026.
 
-Rick Wilhite is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Chicago and 7 more. Often billed alongside Delano Smith, Bruce Bailey and Jesse Cory. Next up: Northern Lights Lounge, Detroit on Fri 27 Nov.
+Rick Wilhite is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Chicago and 7 more. Often billed alongside Delano Smith, Bruce Bailey and Jesse Cory. Next up: TBA, Los Angeles on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Northern Lights Lounge | Detroit |
 | Sat, 12 Dec 2026 | TBA | Los Angeles |
 | Sat, 2 Jan 2027 | TBA - Secret Location | Detroit |
 
 ## Recently played
 
+- Northern Lights Lounge, Detroit · Fri, 27 Nov 2026
 - Woodbridge Pub, Detroit · Mon, 9 Nov 2026
 - Standard Time, Toronto · Sat, 24 Oct 2026
 - Flash, Washington DC · Fri, 25 Sept 2026
@@ -21,10 +21,9 @@ Rick Wilhite is a house and techno artist based in United States of America, wit
 - Third Street Bar, Detroit · Sun, 30 Aug 2026
 - Nowadays, New York City · Sat, 22 Aug 2026
 - Northern Lights Lounge, Detroit · Sat, 27 Jun 2026
-- Spot Lite Detroit, Detroit · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Delano Smith, Bruce Bailey, Jesse Cory
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*

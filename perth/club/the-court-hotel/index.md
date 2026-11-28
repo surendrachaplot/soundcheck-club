@@ -1,6 +1,6 @@
 # The Court Hotel
 
-The Court Hotel is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Dusky" on Sun, 3 Jan 2027.
+The Court Hotel is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Dusky" on Sun, 3 Jan 2027.
 
 The Court Hotel is a music venue in Perth listed on soundcheck. 3 upcoming gigs, with line-ups including Doorly, Dusky, Freestylers and Greg Packer and 2 more. See dates, start times and who's playing. 50 Beaufort St Perth WA 6000.
 
@@ -16,4 +16,4 @@ The Court Hotel is a music venue in Perth listed on soundcheck. 3 upcoming gigs,
 
 50 Beaufort St Perth WA 6000, Perth
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-court-hotel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-court-hotel/)*

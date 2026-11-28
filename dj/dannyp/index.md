@@ -1,6 +1,6 @@
 # Danny P
 
-Danny P is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at block., Dublin on Sat, 26 Dec 2026.
+Danny P is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at block., Dublin on Sat, 26 Dec 2026.
 
 Danny P is an electronica and house artist based in United Kingdom, with 8 gigs on soundcheck across Dublin, Ibiza, Liverpool and London and 2 more. Often billed alongside Caleb Laurenson, DJ Cosworth and Oldboy. Next up: block., Dublin on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ Danny P is an electronica and house artist based in United Kingdom, with 8 gigs 
 
 Caleb Laurenson, DJ Cosworth, Oldboy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*

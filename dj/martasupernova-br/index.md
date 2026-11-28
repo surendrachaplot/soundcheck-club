@@ -1,14 +1,14 @@
 # Marta Supernova
 
-Marta Supernova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TRAUMA, Rio de Janeiro on Fri, 20 Nov 2026.
+Marta Supernova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rua da Alfândega, 50, Rio de Janeiro on Fri, 11 Dec 2026.
 
-Marta Supernova is a house and techno artist based in Brazil, with 52 gigs on soundcheck across Mannheim, Rio de Janeiro and Sao Paulo. Often billed alongside Leo Janeiro, Eli Iwasa and The Checkup. Next up: TRAUMA, Rio de Janeiro on Fri 20 Nov.
+Marta Supernova is a house and techno artist based in Brazil, with 53 gigs on soundcheck across Mannheim, Rio de Janeiro and Sao Paulo. Often billed alongside Leo Janeiro, Eli Iwasa and The Checkup. Next up: Rua da Alfândega, 50, Rio de Janeiro on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TRAUMA | Rio de Janeiro |
+| Fri, 11 Dec 2026 | Rua da Alfândega, 50 | Rio de Janeiro |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Marta Supernova is a house and techno artist based in Brazil, with 52 gigs on so
 
 Leo Janeiro, Eli Iwasa, The Checkup
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martasupernova-br/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martasupernova-br/)*

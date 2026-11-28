@@ -1,6 +1,6 @@
 # Javier de la Vega
 
-Javier de la Vega is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 5 Dec 2026.
+Javier de la Vega is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 5 Dec 2026.
 
 Javier de la Vega is a house and club artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside La Vega, Taranco and YVER. Next up: Hangar48 Club, Madrid on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Javier de la Vega is a house and club artist based in Spain, with 7 gigs on soun
 
 La Vega, Taranco, YVER
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javierdelavega/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javierdelavega/)*

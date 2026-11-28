@@ -1,6 +1,6 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SLIC presents: CLUB ORIGINS with JAXX TMS, Femdelic, Nissa Carrington" on Sat, 28 Nov 2026.
+Golden Pudel Club is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SLIC presents: CLUB ORIGINS with JAXX TMS, Femdelic, Nissa Carrington" on Sat, 28 Nov 2026.
 
 Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including 0megavybe, Alas, beccs and Bennet (DE) and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
@@ -20,4 +20,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming g
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

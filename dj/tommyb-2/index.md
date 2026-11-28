@@ -1,6 +1,6 @@
 # TommyB (2)
 
-TommyB (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
+TommyB (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 5 Dec 2026.
 
 TommyB is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Sievert Serviert, cell1 and DJ Spaßgetränk. Next up: PKH Warehouse, Berlin on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ TommyB is a techno and house artist based in Germany, with 5 gigs on soundcheck 
 
 Sievert Serviert, cell1, DJ Spaßgetränk
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyb-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyb-2/)*

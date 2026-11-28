@@ -1,6 +1,6 @@
 # Laylit at Elsewhere
 
-Laylit at Elsewhere on Fri 4 Dec, New York City. 7 artists: $EJ, BRiAN, Dornika and Mansaf Mama and 3 more. See the line-up on soundcheck.
+Laylit at Elsewhere on Fri 4 Dec, New York City. 6 artists: $EJ, BRiAN, Dornika and Mansaf Mama and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,5 @@ Laylit at Elsewhere on Fri 4 Dec, New York City. 7 artists: $EJ, BRiAN, Dornika 
 - Mansaf Mama
 - MNSA
 - Nadim Maghzal
-- SANA (US)
 
 *Source: [soundcheck](https://soundcheck.club/e/2547796-laylit-at-elsewhere/)*

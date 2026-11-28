@@ -1,6 +1,6 @@
 # Rayvano
 
-Rayvano is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Garage Noord, Amsterdam on Thu, 3 Dec 2026.
+Rayvano is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Garage Noord, Amsterdam on Thu, 3 Dec 2026.
 
 Rayvano is a techno and ghetto tech artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside TRANZ, HÅKK and BR!NK. Next up: Garage Noord, Amsterdam on Thu 3 Dec.
 
@@ -22,4 +22,4 @@ Rayvano is a techno and ghetto tech artist based in Netherlands, with 6 gigs on 
 
 TRANZ, HÅKK, BR!NK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayvano/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayvano/)*

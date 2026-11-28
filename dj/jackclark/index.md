@@ -1,6 +1,6 @@
 # Jack Clark
 
-Jack Clark is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 25 Dec 2026.
+Jack Clark is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 25 Dec 2026.
 
 Jack Clark is a house and minimal artist based in Australia, with 27 gigs on soundcheck across Berlin and Milan. Often billed alongside Scoopsi, Annina and Papa K. Next up: Crack Bellmer, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Jack Clark is a house and minimal artist based in Australia, with 27 gigs on sou
 
 Scoopsi, Annina, Papa K
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackclark/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackclark/)*

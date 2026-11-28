@@ -1,14 +1,13 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sound Canteen with Baroć" on Fri, 27 Nov 2026.
+Orangerie Neukölln is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Behind the Groove with Bijon, Saulo & Friends" on Sat, 28 Nov 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including aaandscha, Adri Alibi, Baroć and Bijon and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including aaandscha, Adri Alibi, Bijon and charli/e and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Sound Canteen with Baroć | Baroć |
 | Sat, 28 Nov 2026 | Behind the Groove with Bijon, Saulo & Friends | Bijon, DJ Sanni, Jimmy Potts |
 | Thu, 3 Dec 2026 | Naked Grapes with MYKI | MYKI |
 | Thu, 10 Dec 2026 | Naked Grapes with charli/e | charli/e |
@@ -22,4 +21,4 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 9 upcoming 
 
 Schierker Str. 8, 12051 Berlin, Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*

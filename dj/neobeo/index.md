@@ -1,14 +1,15 @@
 # Neobeo
 
-Neobeo is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 4 Dec 2026.
+Neobeo is a Deep House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 4 Dec 2026.
 
-Neobeo is a deep house and downtempo artist based in Germany, with 74 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Doron, James Rod and Lotte Ahoi. Next up: Crack Bellmer, Berlin on Fri 4 Dec.
+Neobeo is a deep house and downtempo artist based in Germany, with 75 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Doron, James Rod and Lotte Ahoi. Next up: Crack Bellmer, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Crack Bellmer | Berlin |
+| Fri, 11 Dec 2026 | BABY01 | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Neobeo is a deep house and downtempo artist based in Germany, with 74 gigs on so
 
 Doron, James Rod, Lotte Ahoi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neobeo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neobeo/)*

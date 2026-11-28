@@ -1,14 +1,14 @@
 # Ebicake
 
-Ebicake is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at KitKatClub, Berlin on Wed, 25 Nov 2026.
+Ebicake is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Prisma, Berlin on Tue, 22 Dec 2026.
 
-Ebicake is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Fredsn, LOVRA and Sebastian Strootmann. Next up: KitKatClub, Berlin on Wed 25 Nov.
+Ebicake is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Fredsn, KÜRÜF and LOVRA. Next up: Prisma, Berlin on Tue 22 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | KitKatClub | Berlin |
+| Tue, 22 Dec 2026 | Prisma | Berlin |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Ebicake is a techno and house artist based in Germany, with 13 gigs on soundchec
 
 ## Shares bills with
 
-Fredsn, LOVRA, Sebastian Strootmann
+Fredsn, KÜRÜF, LOVRA
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*

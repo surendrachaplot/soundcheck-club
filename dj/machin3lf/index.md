@@ -1,17 +1,18 @@
 # Machin3lf
 
-Machin3lf is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at TBA - Secret Warehouse, Baltimore on Sat, 14 Nov 2026.
+Machin3lf is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - SECRET, Washington DC on Fri, 8 Jan 2027.
 
-Machin3lf is a techno and psytrance artist based in United States of America, with 7 gigs on soundcheck across Baltimore. Often billed alongside Pogsta, Kae2 and N3urodegenerate. Next up: TBA - Secret Warehouse, Baltimore on Sat 14 Nov.
+Machin3lf is a techno and psytrance artist based in United States of America, with 8 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Pogsta, Kae2 and N3urodegenerate. Next up: TBA - SECRET, Washington DC on Fri 8 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Secret Warehouse | Baltimore |
+| Fri, 8 Jan 2027 | TBA - SECRET | Washington DC |
 
 ## Recently played
 
+- TBA - Secret Warehouse, Baltimore · Sat, 14 Nov 2026
 - TBA - Announced Day of On Socials, Baltimore · Fri, 23 Oct 2026
 - TBA - Secret Location, Baltimore · Sat, 10 Oct 2026
 - TBA - Secret Location, Baltimore · Sat, 19 Sept 2026
@@ -23,4 +24,4 @@ Machin3lf is a techno and psytrance artist based in United States of America, wi
 
 Pogsta, Kae2, N3urodegenerate
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machin3lf/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machin3lf/)*

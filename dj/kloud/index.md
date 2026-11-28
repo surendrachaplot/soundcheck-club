@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Grand Boston, Boston on Thu, 17 Dec 2026.
+KLOUD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Grand Boston, Boston on Thu, 17 Dec 2026.
 
 KLOUD is a techno and trance artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 47 more. Often billed alongside Kander, Lola Cerise and I Hate Models. Next up: The Grand Boston, Boston on Thu 17 Dec.
 
@@ -27,4 +27,4 @@ KLOUD is a techno and trance artist based in United States of America, with 95 g
 
 Kander, Lola Cerise, I Hate Models
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

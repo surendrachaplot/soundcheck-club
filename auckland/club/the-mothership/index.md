@@ -1,14 +1,13 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Defected Auckland 2026" on Sat, 28 Nov 2026.
+The Mothership is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Defected Auckland 2026" on Sat, 28 Nov 2026.
 
-The Mothership is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, with line-ups including Guy J and Sam Divine. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
+The Mothership is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Guy J and Sam Divine. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Defected Auckland 2026 | Sam Divine |
 | Sat, 28 Nov 2026 | Defected Auckland 2026 | Sam Divine |
 | Sat, 12 Dec 2026 | tHE DOSE |  |
 | Thu, 31 Dec 2026 | Don't Call Me ANTHEMS |  |
@@ -18,4 +17,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 5 upcoming gig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

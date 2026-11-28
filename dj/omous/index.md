@@ -1,18 +1,18 @@
 # OMO (US)
 
-OMO (US) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Amplify, Detroit on Fri, 27 Nov 2026.
+OMO (US) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 4 Dec 2026.
 
-OMO (US) is a techno and experimental artist based in United States of America, with 30 gigs on soundcheck across Detroit. Often billed alongside Kuuma, RETCON and Seanni B. Next up: Amplify, Detroit on Fri 27 Nov.
+OMO (US) is a techno and experimental artist based in United States of America, with 30 gigs on soundcheck across Detroit. Often billed alongside Kuuma, RETCON and Seanni B. Next up: Moondog Cafe, Detroit on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Amplify | Detroit |
 | Fri, 4 Dec 2026 | Moondog Cafe | Detroit |
 
 ## Recently played
 
+- Amplify, Detroit · Fri, 27 Nov 2026
 - TBA, Detroit · Fri, 23 Oct 2026
 - TBA - Secret Location, Detroit · Fri, 9 Oct 2026
 - Jobstoppers, Detroit · Sun, 30 Aug 2026
@@ -20,10 +20,9 @@ OMO (US) is a techno and experimental artist based in United States of America, 
 - Paris Bar, Detroit · Sat, 11 Jul 2026
 - Jobstoppers, Detroit · Sun, 24 May 2026
 - TBA, Detroit · Sun, 24 May 2026
-- TBA - Secret Location, Detroit · Sat, 23 May 2026
 
 ## Shares bills with
 
 Kuuma, RETCON, Seanni B
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*

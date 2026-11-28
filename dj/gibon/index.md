@@ -1,6 +1,6 @@
 # Fibon
 
-Fibon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Smolna, Warsaw on Sun, 29 Nov 2026.
+Fibon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Smolna, Warsaw on Sun, 29 Nov 2026.
 
 Fibon is a house and techno artist based in Poland, with 17 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside Piotr Ho, BBN and 2HOT2PLAY. Next up: Smolna, Warsaw on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Fibon is a house and techno artist based in Poland, with 17 gigs on soundcheck a
 
 Piotr Ho, BBN (1), 2HOT2PLAY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gibon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gibon/)*

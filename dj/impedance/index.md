@@ -1,6 +1,6 @@
 # Impedance
 
-Impedance is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+Impedance is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
 Impedance is a techno and electronica artist based in Serbia, with 38 gigs on soundcheck across Athens, Belgrade, Berlin and Lausanne and 2 more. Often billed alongside Lollipop Janosz, .Paragon and Filip Xavi. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Impedance is a techno and electronica artist based in Serbia, with 38 gigs on so
 
 Lollipop Janosz, .Paragon, Filip Xavi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/impedance/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/impedance/)*

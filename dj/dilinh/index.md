@@ -1,18 +1,18 @@
 # Di Linh
 
-Di Linh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mirage, Hanoi on Fri, 27 Nov 2026.
+Di Linh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Factory 47, Hanoi on Sat, 28 Nov 2026.
 
-Di Linh is a techno and house artist based in Vietnam, with 141 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 17 more. Often billed alongside TaoFu, Ouissam and CONG. Next up: Mirage, Hanoi on Fri 27 Nov.
+Di Linh is a techno and house artist based in Vietnam, with 141 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 17 more. Often billed alongside TaoFu, Ouissam and CONG. Next up: Factory 47, Hanoi on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Mirage | Hanoi |
 | Sat, 28 Nov 2026 | Factory 47 | Hanoi |
 
 ## Recently played
 
+- Mirage, Hanoi · Fri, 27 Nov 2026
 - TBA - Goodtime Burger 108 De La Thanh, Hanoi · Sat, 14 Nov 2026
 - The Observatory, Ho-chi-minh-city · Thu, 29 Oct 2026
 - Pisco Bar, Kuala Lumpur · Sat, 24 Oct 2026
@@ -20,10 +20,9 @@ Di Linh is a techno and house artist based in Vietnam, with 141 gigs on soundche
 - Five Eggs Coffee, Hanoi · Sat, 17 Oct 2026
 - Factory 47, Hanoi · Fri, 9 Oct 2026
 - TBA - goodtime burger restaurant , Hanoi · Thu, 17 Sept 2026
-- Factory 47, Hanoi · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 TaoFu, Ouissam, CONG
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*

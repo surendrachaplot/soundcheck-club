@@ -1,6 +1,6 @@
 # Taylor Taylor (NL)
 
-Taylor Taylor (NL) is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 5 Dec 2026.
+Taylor Taylor (NL) is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 5 Dec 2026.
 
 Taylor Taylor (NL) is a house and acid artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam and Liverpool. Often billed alongside RoomToo, Sheps and mckelv. Next up: Waterhouse Studios, Amsterdam on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Taylor Taylor (NL) is a house and acid artist based in United Kingdom, with 32 g
 
 RoomToo, Sheps, mckelv
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortaylor/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortaylor/)*

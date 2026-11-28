@@ -1,6 +1,6 @@
 # Suzerquia
 
-Suzerquia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
+Suzerquia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
 
 Suzerquia is a house and minimal artist, with 5 gigs on soundcheck across Medellin. Often billed alongside Salvador Hören, D. Zubiria and Federico Torres. Next up: Yolo Hostel, Medellin on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ Suzerquia is a house and minimal artist, with 5 gigs on soundcheck across Medell
 
 Salvador Hören, D. Zubiria, Federico Torres
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzerquia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzerquia/)*

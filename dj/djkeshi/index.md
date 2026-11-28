@@ -1,6 +1,6 @@
 # DJ Keshi
 
-DJ Keshi is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Celeste, Vienna on Sat, 28 Nov 2026.
+DJ Keshi is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Celeste, Vienna on Sat, 28 Nov 2026.
 
 DJ Keshi is a bass and experimental artist based in Austria, with 26 gigs on soundcheck across Vienna. Often billed alongside Thao, neon.kotze and yarx. Next up: Celeste, Vienna on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ DJ Keshi is a bass and experimental artist based in Austria, with 26 gigs on sou
 
 Thao, neon.kotze, yarx
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeshi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeshi/)*

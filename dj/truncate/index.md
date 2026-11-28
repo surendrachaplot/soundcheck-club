@@ -1,14 +1,15 @@
 # Truncate
 
-Truncate is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - New warehouse, San Francisco/Oakland on Sat, 12 Dec 2026.
+Truncate is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - New warehouse, San Francisco/Oakland on Sat, 12 Dec 2026.
 
-Truncate is a techno and house artist based in United States of America, with 168 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 51 more. Often billed alongside Drumcell, DJ Hyperactive and Ben Sims. Next up: TBA - New warehouse, San Francisco/Oakland on Sat 12 Dec.
+Truncate is a techno and house artist based in United States of America, with 169 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 51 more. Often billed alongside Drumcell, DJ Hyperactive and Ben Sims. Next up: TBA - New warehouse, San Francisco/Oakland on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | TBA - New warehouse | San Francisco/Oakland |
+| Fri, 15 Jan 2027 | TBA - DTLA | Los Angeles |
 | Fri, 12 Feb 2027 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Truncate is a techno and house artist based in United States of America, with 16
 
 Drumcell, DJ Hyperactive, Ben Sims
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

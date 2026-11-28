@@ -1,6 +1,6 @@
 # Snej
 
-Snej is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jalousy, Brussels on Thu, 31 Dec 2026.
+Snej is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Jalousy, Brussels on Thu, 31 Dec 2026.
 
 Snej is an electro and minimal artist, with 26 gigs on soundcheck across Barcelona and Brussels. Often billed alongside PHIL, KAYU and Kappen. Next up: Jalousy, Brussels on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Snej is an electro and minimal artist, with 26 gigs on soundcheck across Barcelo
 
 PHIL (5), KAYU, Kappen
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snej-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snej-2/)*

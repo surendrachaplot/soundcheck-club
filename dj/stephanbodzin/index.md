@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 10 Jan 2027.
+Stephan Bodzin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 10 Jan 2027.
 
 Stephan Bodzin is a techno and house artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside Luna Semara, Mind Against and Kevin de Vries. Next up: Parque Ciudad Empresarial, Santiago on Sun 10 Jan.
 
@@ -25,4 +25,4 @@ Stephan Bodzin is a techno and house artist based in Germany, with 131 gigs on s
 
 Luna Semara, Mind Against, Kevin de Vries
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

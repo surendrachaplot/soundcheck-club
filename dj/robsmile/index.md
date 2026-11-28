@@ -1,6 +1,6 @@
 # Rob Smile
 
-Rob Smile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 27 Nov 2026.
+Rob Smile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 27 Nov 2026.
 
 Rob Smile is a house and techno artist, with 6 gigs on soundcheck across Prague. Often billed alongside Schwing, Soulkate and Dilby. Next up: Music Club Pulse 22, Prague on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Rob Smile is a house and techno artist, with 6 gigs on soundcheck across Prague.
 
 ## Recently played
 
+- Music Club Pulse 22, Prague · Fri, 27 Nov 2026
 - Bukanyr Boat, Prague · Sat, 8 Feb 2025
 - Czech Boat, Prague · Sat, 20 Jul 2024
 - Bukanyr Boat, Prague · Sat, 20 Jul 2024
@@ -22,4 +23,4 @@ Rob Smile is a house and techno artist, with 6 gigs on soundcheck across Prague.
 
 Schwing, Soulkate, Dilby
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robsmile/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robsmile/)*

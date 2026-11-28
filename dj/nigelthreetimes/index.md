@@ -1,6 +1,6 @@
 # NIGELTHREETIMES
 
-NIGELTHREETIMES is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
+NIGELTHREETIMES is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
 
 NIGELTHREETIMES is a house and techno artist based in United States of America, with 81 gigs on soundcheck across Chubu, Miami, New Orleans and New York City and 3 more. Often billed alongside Andrew Devlin, Jubilee and No Sir. Next up: 88block, Tokyo on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ NIGELTHREETIMES is a house and techno artist based in United States of America, 
 
 Andrew Devlin, Jubilee, No Sir
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelthreetimes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelthreetimes/)*

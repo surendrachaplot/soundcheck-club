@@ -1,6 +1,6 @@
 # Izzy Bolt
 
-Izzy Bolt is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The DBA, Manchester on Sat, 19 Dec 2026.
+Izzy Bolt is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The DBA, Manchester on Sat, 19 Dec 2026.
 
 Izzy Bolt is a hardcore and techno artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Liverpool and Manchester. Often billed alongside FKA Hardcore, FOULMOUTH and Princess Elf Bar. Next up: The DBA, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Izzy Bolt is a hardcore and techno artist based in United Kingdom, with 23 gigs 
 
 FKA Hardcore, FOULMOUTH, Princess Elf Bar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzybolt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzybolt/)*

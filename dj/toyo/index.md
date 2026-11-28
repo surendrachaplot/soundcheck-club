@@ -1,6 +1,6 @@
 # TOYO
 
-TOYO is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Numm, Tokyo on Thu, 10 Dec 2026.
+TOYO is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Numm, Tokyo on Thu, 10 Dec 2026.
 
 TOYO is a house and disco artist based in Japan, with 56 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KDT, Ryuichi and Andre McLeod. Next up: Numm, Tokyo on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ TOYO is a house and disco artist based in Japan, with 56 gigs on soundcheck acro
 
 KDT, Ryuichi, Andre McLeod
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toyo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toyo/)*

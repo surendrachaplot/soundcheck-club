@@ -1,14 +1,13 @@
 # Say No More Madrid
 
-Say No More Madrid is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Makèz & freedomB - Club Night" on Fri, 27 Nov 2026.
+Say No More Madrid is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Javier Ferreira + SIMOLAPS + JGR + Jay Luna - Club Night" on Sat, 28 Nov 2026.
 
-Say No More Madrid is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Arnau Obiols, freedomB, Javier Ferreira and Jay Luna and 2 more. See dates, start times and who's playing. Gran Vía, 11, Centro, 28013 Madrid.
+Say No More Madrid is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Arnau Obiols, Javier Ferreira, Jay Luna and JGR (CH) and 2 more. See dates, start times and who's playing. Gran Vía, 11, Centro, 28013 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Makèz & freedomB - Club Night | Makèz, freedomB |
 | Sat, 28 Nov 2026 | Javier Ferreira + SIMOLAPS + JGR + Jay Luna - Club Night | JGR (CH), Javier Ferreira, Jay Luna, SIMOLAPS |
 | Thu, 3 Dec 2026 | Lulú Showcase - Club Night |  |
 | Fri, 4 Dec 2026 | Tom Trago & Arnau Obiols - Club Night | Arnau Obiols, Tom Trago |
@@ -19,4 +18,4 @@ Say No More Madrid is a music venue in Madrid listed on soundcheck. 6 upcoming g
 
 Gran Vía, 11, Centro, 28013 Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*

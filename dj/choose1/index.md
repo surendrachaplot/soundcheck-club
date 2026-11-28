@@ -1,6 +1,6 @@
 # choose1
 
-choose1 is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Egg London, London on Sat, 12 Dec 2026.
+choose1 is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Sat, 12 Dec 2026.
 
 choose1 is a tech house and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Slipstream, HangryRacoon and Slencho. Next up: Egg London, London on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ choose1 is a tech house and house artist based in United Kingdom, with 5 gigs on
 
 Slipstream, HangryRacoon, Slencho
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choose1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choose1/)*

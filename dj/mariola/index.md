@@ -1,6 +1,6 @@
 # Mariola
 
-Mariola is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Uczulenie, Wroclaw on Fri, 18 Dec 2026.
+Mariola is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Uczulenie, Wroclaw on Fri, 18 Dec 2026.
 
 Mariola is a techno and bass artist based in Poland, with 10 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside DJ SHOUT, TBH and Alegria. Next up: Uczulenie, Wroclaw on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mariola is a techno and bass artist based in Poland, with 10 gigs on soundcheck 
 
 DJ SHOUT, TBH, Alegria
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariola/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariola/)*

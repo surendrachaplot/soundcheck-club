@@ -1,13 +1,14 @@
 # Francis FF
 
-Francis FF is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Francis FF is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Golden Gate, Berlin on Fri, 11 Dec 2026.
 
-Francis FF is a house and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Ciao 3lla, TraumaMia and Carlo Bonanza. Next up: Kater, Berlin on Sat 12 Dec.
+Francis FF is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Ciao 3lla, TraumaMia and Carlo Bonanza. Next up: Golden Gate, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Golden Gate | Berlin |
 | Sat, 12 Dec 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Francis FF is a house and techno artist based in Germany, with 25 gigs on soundc
 
 Ciao 3lla, TraumaMia, Carlo Bonanza
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francisff/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francisff/)*

@@ -1,6 +1,6 @@
 # BarOn
 
-BarOn is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Menefreghista" on Fri, 4 Dec 2026.
+BarOn is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Menefreghista" on Fri, 4 Dec 2026.
 
 BarOn is a music venue in Turin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ BarOn is a music venue in Turin listed on soundcheck. 1 upcoming gig. See dates,
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Menefreghista |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/baron/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/baron/)*

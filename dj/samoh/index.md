@@ -1,6 +1,6 @@
 # SAMOH
 
-SAMOH is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at export, Rotterdam on Sat, 19 Dec 2026.
+SAMOH is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at export, Rotterdam on Sat, 19 Dec 2026.
 
 SAMOH is a techno and acid artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Nantes and 2 more. Often billed alongside Comrade Winston, HyperLili and Locus Error. Next up: export, Rotterdam on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ SAMOH is a techno and acid artist based in Netherlands, with 23 gigs on soundche
 
 Comrade Winston, HyperLili, Locus Error
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samoh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samoh/)*

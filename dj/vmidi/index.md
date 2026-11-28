@@ -1,6 +1,6 @@
 # v midi
 
-v midi is a Electro and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+v midi is a Electro and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 v midi is an electro and experimental artist based in Belgium, with 5 gigs on soundcheck across Brussels. Often billed alongside Emma Caers, Nina Welch and Sixsixsixties. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ v midi is an electro and experimental artist based in Belgium, with 5 gigs on so
 
 ## Recently played
 
+- UMI, Brussels · Fri, 27 Nov 2026
 - House of Growfunding, Brussels · Fri, 18 Sept 2026
 - LEO, Brussels · Fri, 3 Apr 2026
 - ASIAT Park, Brussels · Sat, 14 Mar 2026
@@ -21,4 +22,4 @@ v midi is an electro and experimental artist based in Belgium, with 5 gigs on so
 
 Emma Caers, Nina Welch, Sixsixsixties
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vmidi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vmidi/)*

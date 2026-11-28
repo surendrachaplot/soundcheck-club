@@ -1,6 +1,6 @@
 # Toledo
 
-Toledo is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Outline, Mexico City on Wed, 25 Nov 2026.
+Toledo is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Outline, Mexico City on Wed, 25 Nov 2026.
 
 Toledo is a house and deep house artist based in Mexico, with 26 gigs on soundcheck across Buenos Aires, Madrid and Mexico City. Often billed alongside Barreto, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Outline, Mexico City on Wed 25 Nov.
 
@@ -29,4 +29,4 @@ Toledo is a house and deep house artist based in Mexico, with 26 gigs on soundch
 
 Barreto, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toledo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toledo/)*

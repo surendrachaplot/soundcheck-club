@@ -1,13 +1,14 @@
 # Baldo
 
-Baldo is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Fri, 18 Dec 2026.
+Baldo is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Madrid on Sat, 5 Dec 2026.
 
-Baldo is a house and acid artist based in Spain, with 96 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Benjamin Fröhlich, Felipe Valenzuela and Al Jones. Next up: Hoppetosse, Berlin on Fri 18 Dec.
+Baldo is a house and acid artist based in Spain, with 97 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Benjamin Fröhlich, Felipe Valenzuela and Al Jones. Next up: TBA, Madrid on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | TBA | Madrid |
 | Fri, 18 Dec 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Baldo is a house and acid artist based in Spain, with 96 gigs on soundcheck acro
 
 Benjamin Fröhlich, Felipe Valenzuela, Al Jones
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

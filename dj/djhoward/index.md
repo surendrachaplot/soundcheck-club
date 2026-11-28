@@ -1,6 +1,6 @@
 # DJ Howard
 
-DJ Howard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Patat BCN, Barcelona on Sat, 5 Dec 2026.
+DJ Howard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Patat BCN, Barcelona on Sat, 5 Dec 2026.
 
 DJ Howard is a house and tech house artist based in Spain, with 20 gigs on soundcheck across Barcelona. Often billed alongside DJ DMG, bankrow and ARGAN. Next up: Patat BCN, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Howard is a house and tech house artist based in Spain, with 20 gigs on sound
 
 DJ DMG, bankrow, ARGAN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*

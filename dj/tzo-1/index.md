@@ -1,6 +1,6 @@
 # TZO (1)
 
-TZO (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
+TZO (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
 
 TZO is a techno and industrial artist based in Germany, with 28 gigs on soundcheck across Hamburg. Often billed alongside KIM AHLF, MANTIS and TRYPTAJ. Next up: Beat Boutique, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ TZO is a techno and industrial artist based in Germany, with 28 gigs on soundche
 
 KIM AHLF, MANTIS, TRYPTAJ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*

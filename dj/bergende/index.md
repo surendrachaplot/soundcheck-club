@@ -1,6 +1,6 @@
 # Bergen (DE)
 
-Bergen (DE) is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at JAKI, Cologne on Thu, 31 Dec 2026.
+Bergen (DE) is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at JAKI, Cologne on Thu, 31 Dec 2026.
 
 Bergen (DE) is a deep house and tech house artist based in Germany, with 6 gigs on soundcheck across Cologne and Düsseldorf. Often billed alongside Anna Cainelli, Arninho and DJ PLUS PLUS. Next up: JAKI, Cologne on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Bergen (DE) is a deep house and tech house artist based in Germany, with 6 gigs 
 
 Anna Cainelli, Arninho, DJ PLUS PLUS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bergende/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bergende/)*

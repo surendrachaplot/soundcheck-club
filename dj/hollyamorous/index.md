@@ -1,6 +1,6 @@
 # Hollyamorous
 
-Hollyamorous is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at renae, Manchester on Thu, 3 Dec 2026.
+Hollyamorous is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at renae, Manchester on Thu, 3 Dec 2026.
 
 Hollyamorous is a trance and pop artist based in United Kingdom, with 12 gigs on soundcheck across Glasgow, Leeds and Manchester. Often billed alongside chlo333e, Anop and Princess Elf Bar. Next up: renae, Manchester on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Hollyamorous is a trance and pop artist based in United Kingdom, with 12 gigs on
 
 chlo333e, Anop, Princess Elf Bar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hollyamorous/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hollyamorous/)*

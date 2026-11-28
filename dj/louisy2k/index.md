@@ -1,6 +1,6 @@
 # Louis y2k
 
-Louis y2k is a Minimal and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
+Louis y2k is a Minimal and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Parque de las Ciencias, Puerto-rico on Sat, 5 Dec 2026.
 
 Louis y2k is a minimal and club artist, with 4 gigs on soundcheck across New York City, Puerto Rico and Rio de Janeiro. Often billed alongside Dj Logo, Payola and Audio. Next up: Parque de las Ciencias, Puerto Rico on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Louis y2k is a minimal and club artist, with 4 gigs on soundcheck across New Yor
 
 Dj Logo, Payola, Audio
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisy2k/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisy2k/)*

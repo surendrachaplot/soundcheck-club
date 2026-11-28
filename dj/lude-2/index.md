@@ -1,6 +1,6 @@
 # Lude (2)
 
-Lude (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Kulture, Strasbourg on Fri, 4 Dec 2026.
+Lude (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Kulture, Strasbourg on Fri, 4 Dec 2026.
 
 Lude is a techno and electro artist based in France, with 14 gigs on soundcheck across Strasbourg. Often billed alongside Justine Maze, Zhar and Wolves. Next up: La Kulture, Strasbourg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lude is a techno and electro artist based in France, with 14 gigs on soundcheck 
 
 Justine Maze, Zhar, Wolves (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lude-2/)*

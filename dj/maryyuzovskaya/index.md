@@ -1,6 +1,6 @@
 # Mary Yuzovskaya
 
-Mary Yuzovskaya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 525 Se Pine st., Portland on Sat, 5 Dec 2026.
+Mary Yuzovskaya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - 525 Se Pine st., Portland on Sat, 5 Dec 2026.
 
 Mary Yuzovskaya is a techno and house artist, with 105 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 33 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: TBA - 525 Se Pine st., Portland on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Mary Yuzovskaya is a techno and house artist, with 105 gigs on soundcheck across
 
 Amotik, Delano Legito, Altinbas
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*

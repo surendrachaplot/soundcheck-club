@@ -1,14 +1,13 @@
 # Geary Avenue Warehouse Project
 
-Geary Avenue Warehouse Project is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FROSTLINE 007 – Techno/Tech-House Rave" on Fri, 27 Nov 2026.
+Geary Avenue Warehouse Project is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "FULL VOLUME 5" on Fri, 4 Dec 2026.
 
-Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including KILL 9 1, Maul and R4TS. See dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
+Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including KILL 9 1, Maul and R4TS. See dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | FROSTLINE 007 – Techno/Tech-House Rave |  |
 | Fri, 4 Dec 2026 | FULL VOLUME 5 |  |
 | Fri, 11 Dec 2026 | Amber Long - A Nirvana Events Experince |  |
 | Fri, 18 Dec 2026 | Rave Project 002 - A NIGHT OF UNDERGROUND ELECTRONIC MUSIC |  |
@@ -18,4 +17,4 @@ Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck.
 
 209 Geary Ave, Toronto, ON, M6H2C1, Toronto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/geary-avenue-warehouse-project/)*

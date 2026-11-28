@@ -1,6 +1,6 @@
 # Nina GGG
 
-Nina GGG is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Magno, Madrid on Fri, 1 Jan 2027.
+Nina GGG is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Magno, Madrid on Fri, 1 Jan 2027.
 
 Nina GGG is a techno and electronica artist based in Colombia, with 18 gigs on soundcheck across Barcelona, Bogotá, Madrid and Milan and 1 more. Often billed alongside TOM CHIESA, Rubén Secaduras and FUKCNORMAL. Next up: Club Magno, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Nina GGG is a techno and electronica artist based in Colombia, with 18 gigs on s
 
 TOM CHIESA, Rubén Secaduras, FUKCNORMAL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaggg/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaggg/)*

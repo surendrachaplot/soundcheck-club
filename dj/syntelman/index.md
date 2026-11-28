@@ -1,6 +1,6 @@
 # Syntelman
 
-Syntelman is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 28 Nov 2026.
+Syntelman is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 28 Nov 2026.
 
 Syntelman is an electro and techno artist based in Romania, with 8 gigs on soundcheck across Brussels and Bucharest. Often billed alongside Paul Popa, Mianda and Teodor Ghita. Next up: Platforma Wolff, Bucharest on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Syntelman is an electro and techno artist based in Romania, with 8 gigs on sound
 
 Paul Popa, Mianda, Teodor Ghita
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syntelman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syntelman/)*

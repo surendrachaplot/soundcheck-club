@@ -1,6 +1,6 @@
 # Doruk
 
-Doruk is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 4 Dec 2026.
+Doruk is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 4 Dec 2026.
 
 Doruk is a house and tech house artist, with 26 gigs on soundcheck across Budapest and Istanbul. Often billed alongside Marc Gonen, Baban and Black Batu. Next up: Minimüzikhol, Istanbul on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Doruk is a house and tech house artist, with 26 gigs on soundcheck across Budape
 
 Marc Gonen, Baban, Black Batu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doruk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doruk/)*

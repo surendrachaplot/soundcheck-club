@@ -1,6 +1,6 @@
 # Unveiled
 
-Unveiled is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sleepy & Boo" on Sat, 28 Nov 2026.
+Unveiled is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sleepy & Boo" on Sat, 28 Nov 2026.
 
 Unveiled is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including ASMOT, Luna Mar, Pablo Fierro and Sleepy & Boo. See dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
 
@@ -17,4 +17,4 @@ Unveiled is a music venue in New York City listed on soundcheck. 4 upcoming gigs
 
 94 n 13th st, brooklyn, NY 11249, New York City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*

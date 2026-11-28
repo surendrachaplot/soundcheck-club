@@ -1,6 +1,6 @@
 # Jeanie Crystal
 
-Jeanie Crystal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bethnal Green Workingmen's Club, London on Sat, 28 Nov 2026.
+Jeanie Crystal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bethnal Green Workingmen's Club, London on Sat, 28 Nov 2026.
 
 Jeanie Crystal is a house and techno artist, with 11 gigs on soundcheck across London. Often billed alongside Cassine, JOE AKA and Bethan. Next up: Bethnal Green Workingmen's Club, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jeanie Crystal is a house and techno artist, with 11 gigs on soundcheck across L
 
 Cassine, JOE AKA, Bethan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeaniecrystal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeaniecrystal/)*

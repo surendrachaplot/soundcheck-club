@@ -1,6 +1,6 @@
 # Frederik Tollund
 
-Frederik Tollund is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
+Frederik Tollund is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 5 Dec 2026.
 
 Frederik Tollund is a techno and house artist based in Denmark, with 45 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Helsinki and 3 more. Often billed alongside Carlo & Selma, Lucky Lube and Selma. Next up: Den Anden Side, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Frederik Tollund is a techno and house artist based in Denmark, with 45 gigs on 
 
 Carlo & Selma, Lucky Lube, Selma
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederiktollund/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederiktollund/)*

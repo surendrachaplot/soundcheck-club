@@ -1,13 +1,14 @@
 # Miruna Ghica
 
-Miruna Ghica is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
+Miruna Ghica is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Joshua Brooks, Manchester on Thu, 31 Dec 2026.
 
-Miruna Ghica is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 4 more. Often billed alongside Darius Syrossian, Kellie Allen and Dale Hart. Next up: TBA - Otherways Site, Mallorca, Mallorca on Fri 30 Apr.
+Miruna Ghica is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 4 more. Often billed alongside Darius Syrossian, Kellie Allen and Dale Hart. Next up: Joshua Brooks, Manchester on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Joshua Brooks | Manchester |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
@@ -25,4 +26,4 @@ Miruna Ghica is a house and tech house artist based in United Kingdom, with 14 g
 
 Darius Syrossian, Kellie Allen, Dale Hart
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*

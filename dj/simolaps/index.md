@@ -1,6 +1,6 @@
 # SIMOLAPS
 
-SIMOLAPS is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Social Hub Madrid, Madrid on Sat, 28 Nov 2026.
+SIMOLAPS is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Social Hub Madrid, Madrid on Sat, 28 Nov 2026.
 
 SIMOLAPS is a house and electronica artist based in Spain, with 2 gigs on soundcheck across Madrid. Often billed alongside Ellich, JGR (CH) and JZzz. Next up: The Social Hub Madrid, Madrid on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ SIMOLAPS is a house and electronica artist based in Spain, with 2 gigs on soundc
 
 Ellich, JGR (CH), JZzz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simolaps/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simolaps/)*

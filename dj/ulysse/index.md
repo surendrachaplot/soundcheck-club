@@ -1,6 +1,6 @@
 # Ulysse
 
-Ulysse is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
+Ulysse is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Jumbi, London on Thu, 31 Dec 2026.
 
 Ulysse is a techno and garage artist based in France, with 9 gigs on soundcheck across London, Paris and Zurich. Often billed alongside Adiba, Alessandro Miranda and Amy Cutter. Next up: Jumbi, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ulysse is a techno and garage artist based in France, with 9 gigs on soundcheck 
 
 Adiba, Alessandro Miranda, Amy Cutter
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*

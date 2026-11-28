@@ -1,6 +1,6 @@
 # Markie
 
-Markie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Markie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Markie is a house and techno artist based in United States of America, with 11 gigs on soundcheck across Los Angeles, San Francisco/Oakland and Thailand. Often billed alongside Jeno, MILANA and Kudeki. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Markie is a house and techno artist based in United States of America, with 11 g
 
 Jeno, MILANA, Kudeki
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markie/)*

@@ -1,6 +1,6 @@
 # Souon Day Time Party at TBA - Secret Location
 
-Souon Day Time Party at TBA - Secret Location on Sun 13 Dec, Berlin. 4 artists: Juan Neira, Marco Bellacozza, Mila and Skipson. House and Minimal. See the line-up on soundcheck.
+Souon Day Time Party at TBA - Secret Location on Sun 13 Dec, Berlin. 4 artists: Juan Neira, Marco Bellacozza, Mila and Skipson. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

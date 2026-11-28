@@ -1,6 +1,6 @@
 # Paul Cahill
 
-Paul Cahill is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Underdog, Cardiff on Sat, 30 Jan 2027.
+Paul Cahill is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Underdog, Cardiff on Sat, 30 Jan 2027.
 
 Paul Cahill is a house and electronica artist, with 5 gigs on soundcheck across Cardiff. Often billed alongside Hawsey, Sister Sesh and Lubi J. Next up: The Underdog, Cardiff on Sat 30 Jan.
 
@@ -21,4 +21,4 @@ Paul Cahill is a house and electronica artist, with 5 gigs on soundcheck across 
 
 Hawsey, Sister Sesh, Lubi J
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcahill/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcahill/)*

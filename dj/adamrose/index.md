@@ -1,14 +1,14 @@
 # Adam Rose
 
-Adam Rose is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at TBA - Secret Location, Los Angeles on Fri, 20 Nov 2026.
+Adam Rose is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 15 Jan 2027.
 
-Adam Rose is a house and tech house artist based in United States of America, with 53 gigs on soundcheck across Dublin, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Krane, Halo Varga and MR GREEEG. Next up: TBA - Secret Location, Los Angeles on Fri 20 Nov.
+Adam Rose is a house and tech house artist based in United States of America, with 54 gigs on soundcheck across Dublin, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Krane, HALO and MR GREEEG. Next up: TBA - DTLA, Los Angeles on Fri 15 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA - Secret Location | Los Angeles |
+| Fri, 15 Jan 2027 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Adam Rose is a house and tech house artist based in United States of America, wi
 
 ## Shares bills with
 
-Krane, Halo Varga, MR GREEEG
+Krane, HALO, MR GREEEG
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrose/)*

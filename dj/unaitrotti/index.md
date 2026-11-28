@@ -1,14 +1,13 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bassement, Madrid on Fri, 27 Nov 2026.
+Unai Trotti is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 28 Nov 2026.
 
-Unai Trotti is a techno and house artist based in United Kingdom, with 194 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 62 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: The Bassement, Madrid on Fri 27 Nov.
+Unai Trotti is a techno and house artist based in United Kingdom, with 194 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 62 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Ministerium Club, Lisbon on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Bassement | Madrid |
 | Sat, 28 Nov 2026 | Ministerium Club | Lisbon |
 | Sat, 5 Dec 2026 | Club Tunnel | Serbia |
 | Sat, 12 Dec 2026 | Spook Club | Valencia |
@@ -20,9 +19,11 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 194 gigs 
 | Fri, 29 Jan 2027 | The Yard | Manchester |
 | Fri, 19 Feb 2027 | Kapsule | Liverpool |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- The Bassement, Madrid · Fri, 27 Nov 2026
 - FOLD, London · Sat, 21 Nov 2026
 - TBA -  SECRET LOCATION, Rome · Sat, 14 Nov 2026
 - Le Trabendo, Paris · Fri, 13 Nov 2026
@@ -30,10 +31,9 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 194 gigs 
 - WOMB, Tokyo · Sat, 24 Oct 2026
 - Circus Osaka, Osaka · Fri, 23 Oct 2026
 - Final, Taipei · Sat, 17 Oct 2026
-- Hertz, Seoul · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Z@p, Vass, Junki Inoue
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

@@ -1,14 +1,13 @@
 # Gapclub
 
-Gapclub is a music venue in Chengdu with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MO RAVE x GAXXXXXP pres. XIDI Asia Tour" on Fri, 27 Nov 2026.
+Gapclub is a music venue in Chengdu with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "IMHAPPY End of Year Shows, Chengdu" on Sat, 28 Nov 2026.
 
-Gapclub is a music venue in Chengdu listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Gapclub is a music venue in Chengdu listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | MO RAVE x GAXXXXXP pres. XIDI Asia Tour |  |
 | Sat, 28 Nov 2026 | IMHAPPY End of Year Shows, Chengdu |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/gapclub/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/gapclub/)*

@@ -1,6 +1,6 @@
 # Maike Depas
 
-Maike Depas is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at De Plas, Belgium on Fri, 14 May 2027.
+Maike Depas is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at De Plas, Belgium on Fri, 14 May 2027.
 
 Maike Depas is a techno artist based in Italy, with 7 gigs on soundcheck across Belgium, Bologna, Milan and Tokyo. Often billed alongside ANKKH, ABYSS 369 and Dandy M. Next up: De Plas, Belgium on Fri 14 May.
 
@@ -23,4 +23,4 @@ Maike Depas is a techno artist based in Italy, with 7 gigs on soundcheck across 
 
 ANKKH, ABYSS 369, Dandy M
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maikedepas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maikedepas/)*

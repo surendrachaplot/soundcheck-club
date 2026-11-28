@@ -1,14 +1,13 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Robbie Doherty" on Fri, 27 Nov 2026.
+NX Newcastle is a music venue in Newcastle with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Hot Creations" on Sat, 28 Nov 2026.
 
-NX Newcastle is a music venue in Newcastle listed on soundcheck. 12 upcoming gigs, with line-ups including D.O.D., DREAD MC, Ellie Scougall and Fabio and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
+NX Newcastle is a music venue in Newcastle listed on soundcheck. 11 upcoming gigs, with line-ups including D.O.D., DREAD MC, Ellie Scougall and Fabio and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Robbie Doherty | Robbie Doherty |
 | Sat, 28 Nov 2026 | Hot Creations | FIFI FORTE, Lee Foss, Richy Ahmed |
 | Sat, 28 Nov 2026 | Dreamworx - All Day 'old school' Clubbing In Newcastle |  |
 | Fri, 4 Dec 2026 | D.O.D | D.O.D., Ellie Scougall, Nadia Summer, Solardo |
@@ -18,9 +17,10 @@ NX Newcastle is a music venue in Newcastle listed on soundcheck. 12 upcoming gig
 | Fri, 18 Dec 2026 | Schak | Schak |
 | Fri, 18 Dec 2026 | Schak | Schak |
 | Sat, 26 Dec 2026 | Bass Jamz Boxing Day Special |  |
+| Fri, 12 Feb 2027 | Paul Van Dyk | Paul Van Dyk |
 
 ## Address
 
 Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom, Newcastle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*

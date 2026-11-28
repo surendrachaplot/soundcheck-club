@@ -1,6 +1,6 @@
 # King Virgo
 
-King Virgo is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
+King Virgo is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
 
 King Virgo is a club and ghetto tech artist based in United States of America, with 5 gigs on soundcheck across Houston, New Orleans and New York City. Often billed alongside HYPERFEMME, Nyah Cami and 1morning. Next up: Boondocks, Houston on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ King Virgo is a club and ghetto tech artist based in United States of America, w
 
 ## Recently played
 
+- Boondocks, Houston · Fri, 27 Nov 2026
 - Paragon, New York City · Fri, 20 Nov 2026
 - Siberia, New Orleans · Sat, 14 Nov 2026
 - Bossa Nova Civic Club, New York City · Sat, 31 Oct 2026
@@ -21,4 +22,4 @@ King Virgo is a club and ghetto tech artist based in United States of America, w
 
 HYPERFEMME, Nyah Cami, 1morning
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingvirgo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingvirgo/)*

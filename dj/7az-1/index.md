@@ -1,6 +1,6 @@
 # 7AZ (1)
 
-7AZ (1) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 821 Runnymede Rd, Toronto on Sat, 9 Jan 2027.
+7AZ (1) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 821 Runnymede Rd, Toronto on Sat, 9 Jan 2027.
 
 7AZ is a techno and hardcore artist based in Canada, with 7 gigs on soundcheck across Amsterdam, Montreal and Toronto. Often billed alongside 333CXT, Aegis and FennX. Next up: 821 Runnymede Rd, Toronto on Sat 9 Jan.
 
@@ -23,4 +23,4 @@
 
 333CXT, Aegis, FennX
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7az-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7az-1/)*

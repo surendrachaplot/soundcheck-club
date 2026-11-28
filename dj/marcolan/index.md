@@ -1,6 +1,6 @@
 # Marcolan
 
-Marcolan is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 5 Dec 2026.
+Marcolan is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 5 Dec 2026.
 
 Marcolan is a baile funk and afrobeat artist based in Portugal, with 34 gigs on soundcheck across Barcelona, Lisbon, Milan and Porto. Often billed alongside Maribell, GAVI and C0linas. Next up: El Pumarejo Barcelona, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Marcolan is a baile funk and afrobeat artist based in Portugal, with 34 gigs on 
 
 Maribell, GAVI, C0linas
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolan/)*

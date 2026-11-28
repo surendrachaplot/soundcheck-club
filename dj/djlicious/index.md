@@ -1,6 +1,6 @@
 # Dj Licious
 
-Dj Licious is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Charlatan, Ghent on Fri, 4 Dec 2026.
+Dj Licious is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Charlatan, Ghent on Fri, 4 Dec 2026.
 
 Dj Licious is a techno and industrial artist based in Belgium, with 41 gigs on soundcheck across Amsterdam, Antwerp, Chicago and Ghent and 1 more. Often billed alongside DJ Flesh_Bot, DJ Sprite and Anarchotech. Next up: Charlatan, Ghent on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Dj Licious is a techno and industrial artist based in Belgium, with 41 gigs on s
 
 DJ Flesh_Bot, DJ Sprite, Anarchotech
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlicious/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlicious/)*

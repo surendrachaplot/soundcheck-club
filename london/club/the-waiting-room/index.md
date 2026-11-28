@@ -1,8 +1,8 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Hardmatter: Late Sessions with Beeches, Genese, Ca$hetta, and fam" on Sat, 28 Nov 2026.
+The Waiting Room is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Hardmatter: Late Sessions with Beeches, Genese, Ca$hetta, and fam" on Sat, 28 Nov 2026.
 
-The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Beeches, Calla, Genese and JVXTA and 2 more. See dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
+The Waiting Room is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Beeches, Calla, Genese and JVXTA and 2 more. See dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
 ## What's on
 
@@ -12,9 +12,10 @@ The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gig
 | Fri, 4 Dec 2026 | Tripsitter x Plasticity Records | Calla, Terraflow |
 | Sat, 5 Dec 2026 | A Night in Paradise: A Tribute to Larry Levan |  |
 | Fri, 18 Dec 2026 | Sewelltide Ball |  |
+| Fri, 26 Feb 2027 | Tor (Live) + Special Guests | Tor (6) |
 
 ## Address
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

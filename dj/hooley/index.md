@@ -1,6 +1,6 @@
 # Hooley
 
-Hooley is a Ambient and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Holding Patterns, Leeds on Sat, 2 Jan 2027.
+Hooley is a Ambient and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Holding Patterns, Leeds on Sat, 2 Jan 2027.
 
 Hooley is an ambient and dub techno artist based in United Kingdom, with 20 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside Simon Scott, Slacky [Space Ritual] and Ana K Miller. Next up: Holding Patterns, Leeds on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Hooley is an ambient and dub techno artist based in United Kingdom, with 20 gigs
 
 Simon Scott, Slacky [Space Ritual], Ana K Miller
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*

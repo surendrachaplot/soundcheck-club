@@ -1,6 +1,6 @@
 # schwabe
 
-schwabe is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dim, Belgrade on Thu, 31 Dec 2026.
+schwabe is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Dim, Belgrade on Thu, 31 Dec 2026.
 
 schwabe is a downtempo and house artist based in Serbia, with 35 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Ali Guney, Kӣr and Mimi. Next up: Dim, Belgrade on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ schwabe is a downtempo and house artist based in Serbia, with 35 gigs on soundch
 
 Ali Guney, Kӣr, Mimi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwabe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwabe/)*

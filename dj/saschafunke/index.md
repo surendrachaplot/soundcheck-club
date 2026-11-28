@@ -1,6 +1,6 @@
 # Sascha Funke
 
-Sascha Funke is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Silencio, Paris on Sat, 28 Nov 2026.
+Sascha Funke is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Silencio, Paris on Sat, 28 Nov 2026.
 
 Sascha Funke is a techno and electro artist based in Germany, with 19 gigs on soundcheck across Berlin, Bucharest, Cologne and Miami and 6 more. Often billed alongside Denis Stockhausen, Fantastic Twins and Michael Mayer. Next up: Silencio, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sascha Funke is a techno and electro artist based in Germany, with 19 gigs on so
 
 Denis Stockhausen, Fantastic Twins, Michael Mayer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saschafunke/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saschafunke/)*

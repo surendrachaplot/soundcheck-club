@@ -1,6 +1,6 @@
 # Shebanese à la Kater at Kater
 
-Shebanese à la Kater on Thu 10 Dec, Berlin. 3 artists: der Ackermann, HANNAHHANSEN and TRVS25. Techno and House. See the line-up on soundcheck.
+Shebanese à la Kater on Thu 10 Dec, Berlin. 3 artists: der Ackermann, HANNAHHANSEN and Steve Challier. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ Shebanese à la Kater on Thu 10 Dec, Berlin. 3 artists: der Ackermann, HANNAHHAN
 
 - der Ackermann
 - HANNAHHANSEN
-- TRVS25
+- Steve Challier
 
 *Source: [soundcheck](https://soundcheck.club/e/2578163-shebanese-la-kater-at-kater/)*

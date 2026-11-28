@@ -1,8 +1,8 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Locomotive Disco - Disco, House & Dancefloor Classics" on Sat, 28 Nov 2026.
+Oslo Hackney is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Locomotive Disco - Disco, House & Dancefloor Classics" on Sat, 28 Nov 2026.
 
-Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Albi., CHARLIE POWELL, Custard Soup and Fredd Mann and 2 more. See dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
+Oslo Hackney is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Albi., CHARLIE POWELL, Custard Soup and Fredd Mann and 2 more. See dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Oslo Hackney is a music venue in London listed on soundcheck. 6 upcoming gigs, w
 | Thu, 10 Dec 2026 | Oslo Social Club |  |
 | Sat, 12 Dec 2026 | Mas Que Nada & Friends - Xmas Party | Albi., CHARLIE POWELL, Custard Soup, Fredd Mann, Leena Punks, Lewys Jones, Mas Que Nada Brothers, Mocks & Murph, Monaghan |
 | Thu, 24 Dec 2026 | Oslo Social Club |  |
+| Sat, 27 Feb 2027 | System Olympia (Live) | System Olympia |
 
 ## Address
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

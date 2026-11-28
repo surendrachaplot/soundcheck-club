@@ -1,6 +1,6 @@
 # Vin Sol
 
-Vin Sol is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Dec 2026.
+Vin Sol is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Dec 2026.
 
 Vin Sol is a house and disco artist based in United States of America, with 14 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Brown Amy, Five and Bored Lord. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Vin Sol is a house and disco artist based in United States of America, with 14 g
 
 Brown Amy, Five, Bored Lord
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinsol/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinsol/)*

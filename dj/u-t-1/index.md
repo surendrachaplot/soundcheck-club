@@ -1,6 +1,6 @@
 # U-T
 
-U-T is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Solfa, Tokyo on Sat, 28 Nov 2026.
+U-T is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Solfa, Tokyo on Sat, 28 Nov 2026.
 
 U-T is a house and techno artist based in Japan, with 74 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside AMANE, Gonno and LEFTOLD. Next up: Solfa, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ U-T is a house and techno artist based in Japan, with 74 gigs on soundcheck acro
 
 AMANE, Gonno, LEFTOLD
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-t-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-t-1/)*

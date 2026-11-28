@@ -1,6 +1,6 @@
 # DJ dood
 
-DJ dood is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 18 Dec 2026.
+DJ dood is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 18 Dec 2026.
 
 DJ dood is a house and techno artist based in Canada, with 46 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Max Ulis, Lerma and Dane. Next up: Biltmore Cabaret, Vancouver on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ DJ dood is a house and techno artist based in Canada, with 46 gigs on soundcheck
 
 Max Ulis, Lerma, Dane
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*

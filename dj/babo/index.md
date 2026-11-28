@@ -1,14 +1,14 @@
 # Babo
 
-Babo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Carrer del Rosselló, 265, Barcelona on Sat, 28 Nov 2026.
+Babo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at MR Porter Barcelona, Barcelona on Sat, 28 Nov 2026.
 
-Babo is a tech house and house artist based in Spain, with 42 gigs on soundcheck across Barcelona. Often billed alongside BRU ON, Mario Chicoli and Mastro Sally. Next up: TBA - Carrer del Rosselló, 265, Barcelona on Sat 28 Nov.
+Babo is a tech house and house artist based in Spain, with 42 gigs on soundcheck across Barcelona. Often billed alongside BRU ON, Mario Chicoli and Mastro Sally. Next up: MR Porter Barcelona, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | TBA - Carrer del Rosselló, 265 | Barcelona |
+| Sat, 28 Nov 2026 | MR Porter Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Babo is a tech house and house artist based in Spain, with 42 gigs on soundcheck
 
 BRU ON, Mario Chicoli, Mastro Sally
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*

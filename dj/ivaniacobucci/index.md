@@ -1,6 +1,6 @@
 # Ivan Iacobucci
 
-Ivan Iacobucci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Sat, 6 Feb 2027.
+Ivan Iacobucci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Sat, 6 Feb 2027.
 
 Ivan Iacobucci is a house and techno artist based in Germany, with 41 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 17 more. Often billed alongside Stella Fiore, Dino and Francesco Farfa. Next up: Hoppetosse, Berlin on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Ivan Iacobucci is a house and techno artist based in Germany, with 41 gigs on so
 
 Stella Fiore, Dino (2), Francesco Farfa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*

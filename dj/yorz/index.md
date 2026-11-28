@@ -1,6 +1,6 @@
 # Yorz
 
-Yorz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Astron Club, Athens on Sat, 19 Dec 2026.
+Yorz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Astron Club, Athens on Sat, 19 Dec 2026.
 
 Yorz is an electro and techno artist based in Greece, with 41 gigs on soundcheck across Athens. Often billed alongside Piece of Kate, IMPVLSIV and .Fro.. Next up: Astron Club, Athens on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Yorz is an electro and techno artist based in Greece, with 41 gigs on soundcheck
 
 Piece of Kate, IMPVLSIV, .Fro.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yorz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yorz/)*

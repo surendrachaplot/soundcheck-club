@@ -1,6 +1,6 @@
 # Dynamo Dreesen
 
-Dynamo Dreesen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paloma, Berlin on Sat, 12 Dec 2026.
+Dynamo Dreesen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Paloma, Berlin on Sat, 12 Dec 2026.
 
 Dynamo Dreesen is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin and Oslo. Often billed alongside Finn Johannsen, SVN and DJ Sotofett. Next up: Paloma, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Dynamo Dreesen is a techno and house artist based in Germany, with 10 gigs on so
 
 Finn Johannsen, SVN, DJ Sotofett
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamodreesen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamodreesen/)*

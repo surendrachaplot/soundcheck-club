@@ -1,14 +1,13 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Slumber Party: Griffin Maxwell Brooks & ilykimchi" on Fri, 27 Nov 2026.
+House of Yes is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Curiouser & Curiouser: Felix Da Housecat, L3Ni, Peter Napoli" on Sat, 28 Nov 2026.
 
-House of Yes is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Alice Iguchi, Catz 'N Dogz, Dantiez and Eelke Kleijn and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Alice Iguchi, Catz 'N Dogz, Dantiez and Eelke Kleijn and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Slumber Party: Griffin Maxwell Brooks & ilykimchi | Griffin Maxwell Brooks |
 | Sat, 28 Nov 2026 | Curiouser & Curiouser: Felix Da Housecat, L3Ni, Peter Napoli | Felix Da Housecat, L3Ni, Peter Napoli |
 | Fri, 4 Dec 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 | Sat, 5 Dec 2026 | Snow Ball: Eelke Kleijn (LiVE), Alice Iguchi & Sanvero | Alice Iguchi, Eelke Kleijn |
@@ -20,4 +19,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 7 upcoming 
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

@@ -1,6 +1,6 @@
 # Baba Sketch
 
-Baba Sketch is a Electro and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at renae, Manchester on Thu, 3 Dec 2026.
+Baba Sketch is a Electro and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at renae, Manchester on Thu, 3 Dec 2026.
 
 Baba Sketch is an electro and dubstep artist based in United Kingdom, with 20 gigs on soundcheck across Manchester. Often billed alongside Princess Elf Bar, Turbo Shandy and Anop. Next up: renae, Manchester on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Baba Sketch is an electro and dubstep artist based in United Kingdom, with 20 gi
 
 Princess Elf Bar, Turbo Shandy, Anop
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babasketch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babasketch/)*

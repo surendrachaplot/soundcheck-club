@@ -1,6 +1,6 @@
 # laurele2n
 
-laurele2n is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Boat - Le Sonic, Lyon on Sat, 28 Nov 2026.
+laurele2n is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Boat - Le Sonic, Lyon on Sat, 28 Nov 2026.
 
 laurele2n is a techno and acid artist based in France, with 14 gigs on soundcheck across Lyon and Strasbourg. Often billed alongside Chuimix, Farah and Nav. Next up: Boat - Le Sonic, Lyon on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ laurele2n is a techno and acid artist based in France, with 14 gigs on soundchec
 
 Chuimix, Farah (2), Nav (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurele2n/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurele2n/)*

@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Partiboi69 pres. Life Extension: Partiboi69 / Juicy Romance / Gerardo Niva" on Sat, 28 Nov 2026.
+Mondo is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Partiboi69 pres. Life Extension: Partiboi69 / Juicy Romance / Gerardo Niva" on Sat, 28 Nov 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Argia, Daria Kolosova, Dixon and DJ Gigola and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with li
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

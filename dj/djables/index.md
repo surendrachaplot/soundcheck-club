@@ -1,6 +1,6 @@
 # DJABLÈS
 
-DJABLÈS is a UK Funky and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Haggerston, London on Fri, 4 Dec 2026.
+DJABLÈS is a UK Funky and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Haggerston, London on Fri, 4 Dec 2026.
 
 DJABLÈS is an uk funky and ghetto tech artist based in France, with 9 gigs on soundcheck across London. Often billed alongside Ana Isabela, London Hatred and Almass Badat. Next up: The Haggerston, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJABLÈS is an uk funky and ghetto tech artist based in France, with 9 gigs on s
 
 Ana Isabela, London Hatred, Almass Badat
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djables/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djables/)*

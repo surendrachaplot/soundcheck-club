@@ -1,6 +1,6 @@
 # cruz ctrl
 
-cruz ctrl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
+cruz ctrl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
 
 cruz ctrl is a techno and house artist based in United States of America, with 24 gigs on soundcheck across London and New York City. Often billed alongside Ben Zo, xxarlando and Dio Garcia. Next up: DRUMSHEDS, London on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ cruz ctrl is a techno and house artist based in United States of America, with 2
 
 Ben Zo, xxarlando, Dio Garcia
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzctrl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzctrl/)*

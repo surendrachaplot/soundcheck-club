@@ -1,6 +1,6 @@
 # core-d
 
-core-d is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Transformator, Wroclaw on Sat, 5 Dec 2026.
+core-d is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Transformator, Wroclaw on Sat, 5 Dec 2026.
 
 core-d is a hardcore and techno artist based in Poland, with 14 gigs on soundcheck across Poznan, Prague, Warsaw and Wroclaw. Often billed alongside Maryolkah, Flex Pistols and acheless. Next up: Transformator, Wroclaw on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ core-d is a hardcore and techno artist based in Poland, with 14 gigs on soundche
 
 Maryolkah, Flex Pistols, acheless
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/core-d/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/core-d/)*

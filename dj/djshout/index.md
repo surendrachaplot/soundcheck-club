@@ -1,6 +1,6 @@
 # DJ SHOUT
 
-DJ SHOUT is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
+DJ SHOUT is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
 
 DJ SHOUT is a bass and techno artist based in Poland, with 21 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside TBH, szczupakola and Mariola. Next up: SCHRON, Poznan on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ DJ SHOUT is a bass and techno artist based in Poland, with 21 gigs on soundcheck
 
 TBH, szczupakola, Mariola
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshout/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshout/)*

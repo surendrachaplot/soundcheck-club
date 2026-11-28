@@ -1,6 +1,6 @@
 # Indigo
 
-Indigo is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Eiger Studios, Leeds on Fri, 18 Dec 2026.
+Indigo is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Eiger Studios, Leeds on Fri, 18 Dec 2026.
 
 Indigo is a garage and bass artist based in United Kingdom, with 27 gigs on soundcheck across Athens, Bordeaux, Bristol and Frankfurt and 7 more. Often billed alongside 90z, Thomas Tesla and Ziggy. Next up: Eiger Studios, Leeds on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Indigo is a garage and bass artist based in United Kingdom, with 27 gigs on soun
 
 90z, Thomas Tesla, Ziggy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indigo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indigo/)*

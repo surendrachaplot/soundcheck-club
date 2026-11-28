@@ -1,14 +1,13 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Rødhåd is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
-Rødhåd is a techno and house artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 81 more. Often billed alongside Ben Klock, Fadi Mohem and JakoJako. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Rødhåd is a techno and house artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 81 more. Often billed alongside Ben Klock, Fadi Mohem and JakoJako. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | Smolna | Warsaw |
 | Fri, 11 Dec 2026 | LA Frecuencia Violeta | Cali |
@@ -23,6 +22,7 @@ Rødhåd is a techno and house artist based in Germany, with 263 gigs on soundch
 
 ## Recently played
 
+- Ace*Mission, Los Angeles · Fri, 27 Nov 2026
 - RADION, Amsterdam · Fri, 20 Nov 2026
 - Fuse, Brussels · Sat, 7 Nov 2026
 - The Bassement, Madrid · Sun, 1 Nov 2026
@@ -30,10 +30,9 @@ Rødhåd is a techno and house artist based in Germany, with 263 gigs on soundch
 - Soul SKG, Thessaloniki · Fri, 30 Oct 2026
 - Paradiso, Amsterdam · Sat, 24 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
-- Sugarfactory, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Ben Klock, Fadi Mohem, JakoJako
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

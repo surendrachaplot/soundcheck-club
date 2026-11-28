@@ -1,6 +1,6 @@
 # Justin Strauss
 
-Justin Strauss is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Refuge, New York City on Sun, 29 Nov 2026.
+Justin Strauss is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Refuge, New York City on Sun, 29 Nov 2026.
 
 Justin Strauss is a house and electro artist based in United States of America, with 195 gigs on soundcheck across Belfast, Berlin, Bogotá and Boston and 16 more. Often billed alongside Amelia Holt, Andi and Eli Escobar. Next up: Refuge, New York City on Sun 29 Nov.
 
@@ -29,4 +29,4 @@ Justin Strauss is a house and electro artist based in United States of America, 
 
 Amelia Holt, Andi, Eli Escobar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*

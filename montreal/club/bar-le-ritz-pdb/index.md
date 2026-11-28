@@ -1,6 +1,6 @@
 # Bar Le Ritz PDB
 
-Bar Le Ritz PDB is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ACID DREAMS [100% vinyl + live set]" on Sat, 12 Dec 2026.
+Bar Le Ritz PDB is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "ACID DREAMS [100% vinyl + live set]" on Sat, 12 Dec 2026.
 
 Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Deep n Acid and DJ InYourFace. See dates, start times and who's playing. 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2.
 
@@ -15,4 +15,4 @@ Bar Le Ritz PDB is a music venue in Montreal listed on soundcheck. 2 upcoming gi
 
 179 Rue Jean-Talon-Ouest, Montréal H2R 2X2, Montreal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-le-ritz-pdb/)*

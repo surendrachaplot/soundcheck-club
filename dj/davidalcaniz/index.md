@@ -1,6 +1,6 @@
 # David Alcaniz
 
-David Alcaniz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+David Alcaniz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
 David Alcaniz is a techno and house artist based in Canada, with 17 gigs on soundcheck across Vancouver. Often billed alongside DK PAU, POPU and Behrad Tehrani. Next up: TBA, Vancouver on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ David Alcaniz is a techno and house artist based in Canada, with 17 gigs on soun
 
 DK PAU, POPU, Behrad Tehrani
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidalcaniz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidalcaniz/)*

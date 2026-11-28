@@ -1,6 +1,6 @@
 # Theodore Kittens
 
-Theodore Kittens is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rocket Bar, Adelaide on Fri, 18 Dec 2026.
+Theodore Kittens is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rocket Bar, Adelaide on Fri, 18 Dec 2026.
 
 Theodore Kittens is a garage and techno artist based in Australia, with 34 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside Dancespace, BANO (AU) and La Lani. Next up: Rocket Bar, Adelaide on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Theodore Kittens is a garage and techno artist based in Australia, with 34 gigs 
 
 Dancespace, BANO (AU), La Lani
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theodorekittens/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theodorekittens/)*

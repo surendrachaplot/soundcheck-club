@@ -1,14 +1,13 @@
 # Two More Years
 
-Two More Years is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Element presents SHO & Friends - FREE Entry" on Fri, 27 Nov 2026.
+Two More Years is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Late Night Disco & Friends presents: Disco's In The Name" on Sat, 28 Nov 2026.
 
-Two More Years is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Another George, Beechy, boogielou and dAydREaM and 2 more. See dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
+Two More Years is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Another George, Beechy, boogielou and dAydREaM and 2 more. See dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Element presents SHO & Friends - FREE Entry | KREED., Radley (UK), Sho (UK) |
 | Sat, 28 Nov 2026 | Late Night Disco & Friends presents: Disco's In The Name | Daydream Disco, Flat Earth Disco, Late Night Disco, Sue From HR, The London Disco Society, dAydREaM |
 | Sat, 12 Dec 2026 | The 12 Hours Of Disco - Late Night Disco & Friends | Another George, Beechy, Haruka (UK), Late Night Disco, Munby, Perdiem, boogielou |
 | Sat, 19 Dec 2026 | Two More Years: Xmas Party (Free Entry, House & Disco) | Mr James |
@@ -18,4 +17,4 @@ Two More Years is a music venue in London listed on soundcheck. 5 upcoming gigs,
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

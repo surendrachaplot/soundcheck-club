@@ -1,14 +1,13 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Kiko x Abercrombie Pres. BASHKKA [DE] & JakoJako [DE]" on Fri, 27 Nov 2026.
+Abercrombie Hotel is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SUN SIGNS [LAUNCH PARTY]" on Sat, 28 Nov 2026.
 
-Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Ali Bilal, Ari Kiko, BASHKKA and Eoin DJ and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
+Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 10 upcoming gigs, with line-ups including Ali Bilal, Eoin DJ, Helena Hauff and Hidden Spheres and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Kiko x Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] | Ari Kiko, BASHKKA, JakoJako |
 | Sat, 28 Nov 2026 | SUN SIGNS [LAUNCH PARTY] | Eoin DJ, Sasha Milani, Unprotected Success |
 | Sat, 28 Nov 2026 | THE AFTERS — MANNING OPEN AIR AFTERPARTY |  |
 | Fri, 4 Dec 2026 | unfurling feat. Olivia Mendez [FRA] | Olivia Mendez |
@@ -18,9 +17,10 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming g
 | Sat, 12 Dec 2026 | Abercrombie Pres. Hidden Spheres [UK] | Hidden Spheres |
 | Sat, 12 Dec 2026 | Jawani 4eva - Sydney (Rooftop) |  |
 | Fri, 18 Dec 2026 | PASTEL x Abercrombie Pres. Wata Igarashi [Jap] | Mozz, Wata Igarashi |
+| Sat, 9 Jan 2027 | CHARADES x Abercrombie Pres. Helena Hauff [DE] | Helena Hauff, U-Khan |
 
 ## Address
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

@@ -1,6 +1,6 @@
 # Ben Hemsley
 
-Ben Hemsley is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sub Club, Glasgow on Sun, 6 Dec 2026.
+Ben Hemsley is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sub Club, Glasgow on Sun, 6 Dec 2026.
 
 Ben Hemsley is a trance and techno artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Sub Club, Glasgow on Sun 6 Dec.
 
@@ -27,4 +27,4 @@ Ben Hemsley is a trance and techno artist based in United Kingdom, with 179 gigs
 
 KETTAMA, Hannah Laing, Kyle Starkey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*

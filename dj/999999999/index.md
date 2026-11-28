@@ -1,14 +1,13 @@
 # 999999999
 
-999999999 is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Elastica, Vilnius on Fri, 27 Nov 2026.
+999999999 is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
-999999999 is a techno and acid artist based in Italy, with 331 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 95 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: Elastica, Vilnius on Fri 27 Nov.
+999999999 is a techno and acid artist based in Italy, with 331 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 95 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: Fabrik, Madrid on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Elastica | Vilnius |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 18 Dec 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 19 Dec 2026 | TBA - Los Angeles | Los Angeles |
@@ -20,6 +19,7 @@
 
 ## Recently played
 
+- Elastica, Vilnius · Fri, 27 Nov 2026
 - Espacio Riesco Expo Centre, Santiago · Sat, 21 Nov 2026
 - TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi · Sat, 14 Nov 2026
 - Bootshaus, Cologne · Sat, 7 Nov 2026
@@ -27,10 +27,9 @@
 - Gold Bar Hangar, California · Fri, 30 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Eventhalle Bern, Bern · Sat, 24 Oct 2026
-- DRUMSHEDS, London · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 I Hate Models, Charlie Sparks, Clara Cuvé
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

@@ -1,6 +1,6 @@
 # ANYA (2)
 
-ANYA (2) is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
+ANYA (2) is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rhum Tavern, London on Sat, 13 Feb 2027.
 
 ANYA is a trance and house artist based in Luxembourg, with 17 gigs on soundcheck across Barcelona, Lisbon and London. Often billed alongside Gee Beat, CLANDESTINE and Abas. Next up: Rhum Tavern, London on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ ANYA is a trance and house artist based in Luxembourg, with 17 gigs on soundchec
 
 Gee Beat, CLANDESTINE (2), Abas
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anya-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anya-2/)*

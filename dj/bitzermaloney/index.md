@@ -1,6 +1,6 @@
 # Bitzer Maloney
 
-Bitzer Maloney is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Talleyrand, Manchester on Sat, 19 Dec 2026.
+Bitzer Maloney is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Talleyrand, Manchester on Sat, 19 Dec 2026.
 
 Bitzer Maloney is an acid and techno artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 4 more. Often billed alongside Schuttle, Jorg Kuning and Jane Fitz. Next up: The Talleyrand, Manchester on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Bitzer Maloney is an acid and techno artist based in United Kingdom, with 50 gig
 
 Schuttle, Jorg Kuning, Jane Fitz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bitzermaloney/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bitzermaloney/)*

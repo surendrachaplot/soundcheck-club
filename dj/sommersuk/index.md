@@ -1,6 +1,6 @@
 # SOMMERS (UK)
 
-SOMMERS (UK) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at CÉ LA VI, London on Sat, 12 Dec 2026.
+SOMMERS (UK) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at CÉ LA VI, London on Sat, 12 Dec 2026.
 
 SOMMERS (UK) is a house and afro house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Lisbon, London and Stockholm. Often billed alongside RORY KITE, DREIAN and Florenzo Hiäät. Next up: CÉ LA VI, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SOMMERS (UK) is a house and afro house artist based in United Kingdom, with 19 g
 
 RORY KITE, DREIAN, Florenzo Hiäät
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sommersuk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sommersuk/)*

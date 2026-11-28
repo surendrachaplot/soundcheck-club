@@ -1,13 +1,14 @@
 # Terrible
 
-Terrible is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Deutsche Kinemathek, Berlin on Sat, 19 Dec 2026.
+Terrible is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ikii, Berlin on Tue, 15 Dec 2026.
 
-Terrible is a techno and experimental artist based in Germany, with 13 gigs on soundcheck across Berlin, Paris and Vienna. Often billed alongside Clé, Der Würfler and Eiger Nordwand. Next up: Deutsche Kinemathek, Berlin on Sat 19 Dec.
+Terrible is a techno and experimental artist based in Germany, with 14 gigs on soundcheck across Berlin, Paris and Vienna. Often billed alongside Clé, Der Würfler and Eiger Nordwand. Next up: Ikii, Berlin on Tue 15 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 15 Dec 2026 | Ikii | Berlin |
 | Sat, 19 Dec 2026 | Deutsche Kinemathek | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Terrible is a techno and experimental artist based in Germany, with 13 gigs on s
 
 Clé, Der Würfler, Eiger Nordwand
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrible/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terrible/)*

@@ -1,6 +1,6 @@
 # Quicksticks
 
-Quicksticks is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Capers Thornbury, Melbourne on Sat, 5 Dec 2026.
+Quicksticks is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Capers Thornbury, Melbourne on Sat, 5 Dec 2026.
 
 Quicksticks is a house and disco artist, with 9 gigs on soundcheck across Melbourne. Often billed alongside Larry Quicksticks, Mothafunk and Afrodisiac. Next up: Capers Thornbury, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Quicksticks is a house and disco artist, with 9 gigs on soundcheck across Melbou
 
 Larry Quicksticks, Mothafunk, Afrodisiac
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quicksticks/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quicksticks/)*

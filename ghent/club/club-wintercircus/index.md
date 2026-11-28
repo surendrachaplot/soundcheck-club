@@ -1,6 +1,6 @@
 # Club Wintercircus
 
-Club Wintercircus is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FROM DUSK TILL DAWN x CLOSER - VINYL ONLY" on Sat, 12 Dec 2026.
+Club Wintercircus is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "FROM DUSK TILL DAWN x CLOSER - VINYL ONLY" on Sat, 12 Dec 2026.
 
 Club Wintercircus is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Helena Lauwaert, Keyser, Pongo and Skream and 2 more. See dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
 
@@ -18,4 +18,4 @@ Club Wintercircus is a music venue in Ghent listed on soundcheck. 5 upcoming gig
 
 Miriam Makebaplein 2, 9000 Gent, Ghent
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*

@@ -1,6 +1,6 @@
 # Gigios
 
-Gigios is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+Gigios is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 Gigios is a house and acid artist based in Brazil, with 64 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Carrot Green, Craig Ouar and Giu Nunez. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Gigios is a house and acid artist based in Brazil, with 64 gigs on soundcheck ac
 
 Carrot Green, Craig Ouar, Giu Nunez
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigios/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gigios/)*

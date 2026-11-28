@@ -1,6 +1,6 @@
 # Sixten Baars
 
-Sixten Baars is a Tech House and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gazebo, Stockholm on Sat, 28 Nov 2026.
+Sixten Baars is a Tech House and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gazebo, Stockholm on Sat, 28 Nov 2026.
 
 Sixten Baars is a tech house and industrial artist, with 5 gigs on soundcheck across Mexico City and Stockholm. Often billed alongside Hedda Stenberg, Mira and Britta Arnold. Next up: Gazebo, Stockholm on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Sixten Baars is a tech house and industrial artist, with 5 gigs on soundcheck ac
 
 Hedda Stenberg, Mira, Britta Arnold
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtenbaars/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtenbaars/)*

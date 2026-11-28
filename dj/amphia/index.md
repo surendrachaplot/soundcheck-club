@@ -1,6 +1,6 @@
 # Amphia
 
-Amphia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+Amphia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
 Amphia is a techno and house artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 4 more. Often billed alongside Gloria Rose, MarcelDune and ANNĒ. Next up: Renate, Berlin on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Amphia is a techno and house artist based in Spain, with 45 gigs on soundcheck a
 
 Gloria Rose, MarcelDune, ANNĒ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*

@@ -1,6 +1,6 @@
 # Firebunny
 
-Firebunny is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at SILO, New York City on Sat, 9 Jan 2027.
+Firebunny is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at SILO, New York City on Sat, 9 Jan 2027.
 
 Firebunny is a techno and industrial artist based in United States of America, with 36 gigs on soundcheck across Boston, New York City, Philadelphia and Toronto and 1 more. Often billed alongside Nikitaurech, Paradøx and VIDA LIBRE. Next up: SILO, New York City on Sat 9 Jan.
 
@@ -26,4 +26,4 @@ Firebunny is a techno and industrial artist based in United States of America, w
 
 Nikitaurech, Paradøx, VIDA LIBRE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/firebunny/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/firebunny/)*

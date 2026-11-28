@@ -1,6 +1,6 @@
 # Ovid
 
-Ovid is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jupiter Disco, New York City on Sun, 6 Dec 2026.
+Ovid is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Jupiter Disco, New York City on Sun, 6 Dec 2026.
 
 Ovid is a techno and bass artist based in United States of America, with 32 gigs on soundcheck across Dublin, Miami, New York City and Osaka and 6 more. Often billed alongside Janus Rose, Benbo and DJ DEADNAME. Next up: Jupiter Disco, New York City on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Ovid is a techno and bass artist based in United States of America, with 32 gigs
 
 Janus Rose, Benbo, DJ DEADNAME
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ovid/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ovid/)*

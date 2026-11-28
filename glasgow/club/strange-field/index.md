@@ -1,6 +1,6 @@
 # Strange Field
 
-Strange Field is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "[CANCELLED] Lamb" on Thu, 10 Dec 2026.
+Strange Field is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "[CANCELLED] Lamb" on Thu, 10 Dec 2026.
 
 Strange Field is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including ACHIRĀ, Craggyland, CU-SITH and manu_facturer and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Strange Field is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs,
 | Fri, 11 Dec 2026 | Vessel | ACHIRĀ, slyn |
 | Sat, 12 Dec 2026 | *Spill* |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/strange-field/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/strange-field/)*

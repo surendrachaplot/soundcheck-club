@@ -1,6 +1,6 @@
 # Hostmigrate
 
-Hostmigrate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Greyhound, London on Sun, 13 Dec 2026.
+Hostmigrate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Greyhound, London on Sun, 13 Dec 2026.
 
 Hostmigrate is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Adela, Benebe and Drastic Shuffle. Next up: The Greyhound, London on Sun 13 Dec.
 
@@ -21,4 +21,4 @@ Hostmigrate is a techno and house artist based in United Kingdom, with 5 gigs on
 
 Adela, Benebe, Drastic Shuffle
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hostmigrate/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hostmigrate/)*

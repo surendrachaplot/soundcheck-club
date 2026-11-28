@@ -1,6 +1,6 @@
 # Magic Stick
 
-Magic Stick is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Thiccc Thursdays on the Alley Deck feat. LucyV" on Thu, 3 Dec 2026.
+Magic Stick is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Thiccc Thursdays on the Alley Deck feat. LucyV" on Thu, 3 Dec 2026.
 
 Magic Stick is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Danny Avila, Darude, Dillon Francis and Ely Oaks and 2 more. See dates, start times and who's playing. 4120-4140 Woodward Avenue; Detroit, MI 48201; United States.
 
@@ -21,4 +21,4 @@ Magic Stick is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, w
 
 4120-4140 Woodward Avenue; Detroit, MI 48201; United States, Detroit
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*

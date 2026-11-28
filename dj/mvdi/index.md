@@ -1,6 +1,6 @@
 # mvdi
 
-mvdi is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Supermarket, Zurich on Sat, 2 Jan 2027.
+mvdi is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Supermarket, Zurich on Sat, 2 Jan 2027.
 
 mvdi is a techno and acid artist based in Switzerland, with 30 gigs on soundcheck across Bern and Zurich. Often billed alongside Patrik Widmer, Meraki and AREA ØNE. Next up: Supermarket, Zurich on Sat 2 Jan.
 
@@ -27,4 +27,4 @@ mvdi is a techno and acid artist based in Switzerland, with 30 gigs on soundchec
 
 Patrik Widmer, Meraki (3), AREA ØNE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvdi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvdi/)*

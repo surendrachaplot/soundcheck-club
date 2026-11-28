@@ -1,6 +1,6 @@
 # Mobilat Club
 
-Mobilat Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Rave InToxication Agency Night 7.0" on Sat, 5 Dec 2026.
+Mobilat Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Rave InToxication Agency Night 7.0" on Sat, 5 Dec 2026.
 
 Mobilat Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs, with line-ups including GAAAS. See dates, start times and who's playing. Salzstrasse 27; 74076 Heilbronn.
 
@@ -15,4 +15,4 @@ Mobilat Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs
 
 Salzstrasse 27; 74076 Heilbronn, Stuttgart
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/mobilat-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/mobilat-club/)*

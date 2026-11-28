@@ -1,6 +1,6 @@
 # Nedda Sou
 
-Nedda Sou is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doka, Amsterdam on Sat, 16 Jan 2027.
+Nedda Sou is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Doka, Amsterdam on Sat, 16 Jan 2027.
 
 Nedda Sou is a house and disco artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Suze Ijó, Charmaine and DTM Funk. Next up: Doka, Amsterdam on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Nedda Sou is a house and disco artist based in Netherlands, with 57 gigs on soun
 
 Suze Ijó, Charmaine, DTM Funk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neddasou/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neddasou/)*

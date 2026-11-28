@@ -1,6 +1,6 @@
 # Nebula Estudio
 
-Nebula Estudio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Deseo BS AS, Buenos Aires on Thu, 24 Dec 2026.
+Nebula Estudio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Deseo BS AS, Buenos Aires on Thu, 24 Dec 2026.
 
 Nebula Estudio is a house and tech house artist based in Argentina, with 10 gigs on soundcheck across Buenos Aires. Often billed alongside Loïc, Manu Barcelo and Melania Wonder. Next up: Deseo BS AS, Buenos Aires on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Nebula Estudio is a house and tech house artist based in Argentina, with 10 gigs
 
 Loïc, Manu Barcelo, Melania Wonder
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebulaestudio/)*

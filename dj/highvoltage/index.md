@@ -1,6 +1,6 @@
 # HIGHVØLTAGE
 
-HIGHVØLTAGE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bramley Social, Liverpool on Sat, 19 Dec 2026.
+HIGHVØLTAGE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Bramley Social, Liverpool on Sat, 19 Dec 2026.
 
 HIGHVØLTAGE is a techno and hardcore artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Glasgow, Ibiza and Limerick and 9 more. Often billed alongside ØC, Andrew Cairns and Arzan. Next up: The Bramley Social, Liverpool on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ HIGHVØLTAGE is a techno and hardcore artist based in United Kingdom, with 23 gi
 
 ØC, Andrew Cairns, Arzan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highvoltage/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highvoltage/)*

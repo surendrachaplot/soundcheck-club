@@ -1,10 +1,10 @@
 # Milkshake, Ministry Of Sound - London's Biggest Student Night at Ministry Of Sound
 
-Milkshake, Ministry Of Sound - London's Biggest Student Night on Tue 1 Dec, London. See the line-up on soundcheck.
+Milkshake, Ministry Of Sound - London's Biggest Student Night on Mon 30 Nov, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 1 Dec 2026 |
+| Date | Mon, 30 Nov 2026 |
 | Venue | Ministry Of Sound |
 | City | London |
 

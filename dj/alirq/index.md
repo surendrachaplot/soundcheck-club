@@ -1,6 +1,6 @@
 # ali rq
 
-ali rq is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at smartbar, Chicago on Wed, 16 Dec 2026.
+ali rq is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at smartbar, Chicago on Wed, 16 Dec 2026.
 
 ali rq is a club and techno artist based in United States of America, with 51 gigs on soundcheck across Barcelona, Berlin, Chicago and London and 9 more. Often billed alongside 10cust, Cannelle and Eurohead. Next up: smartbar, Chicago on Wed 16 Dec.
 
@@ -27,4 +27,4 @@ ali rq is a club and techno artist based in United States of America, with 51 gi
 
 10cust, Cannelle, Eurohead
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*

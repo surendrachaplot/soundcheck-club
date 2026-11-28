@@ -1,6 +1,6 @@
 # Lui (6)
 
-Lui (6) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at WOMB, Tokyo on Wed, 2 Dec 2026.
+Lui (6) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at WOMB, Tokyo on Wed, 2 Dec 2026.
 
 Lui is a house and techno artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside Samo, Kasumisty and kengotaki. Next up: WOMB, Tokyo on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ Lui is a house and techno artist based in Japan, with 15 gigs on soundcheck acro
 
 Samo, Kasumisty, kengotaki
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*

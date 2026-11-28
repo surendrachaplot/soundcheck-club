@@ -1,6 +1,6 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at FVTVR, Paris on Fri, 11 Dec 2026.
+Marie Montexier is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at FVTVR, Paris on Fri, 11 Dec 2026.
 
 Marie Montexier is a techno and house artist based in Germany, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 71 more. Often billed alongside DVS1, Ryan Elliott and BASHKKA. Next up: FVTVR, Paris on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ Marie Montexier is a techno and house artist based in Germany, with 241 gigs on 
 
 DVS1, Ryan Elliott, BASHKKA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

@@ -1,6 +1,6 @@
 # Akufen
 
-Akufen is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at XuXa, Austin on Fri, 11 Dec 2026.
+Akufen is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at XuXa, Austin on Fri, 11 Dec 2026.
 
 Akufen is a house and minimal artist based in Canada, with 12 gigs on soundcheck across Austin, Berlin, Bucharest and London and 1 more. Often billed alongside Ohm Hourani, Claire and Foehn & Jerome. Next up: XuXa, Austin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Akufen is a house and minimal artist based in Canada, with 12 gigs on soundcheck
 
 Ohm Hourani, Claire, Foehn & Jerome
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akufen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akufen/)*

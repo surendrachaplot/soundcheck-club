@@ -1,6 +1,6 @@
 # Rob Pearson
 
-Rob Pearson is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Movers, Nottingham on Sat, 28 Nov 2026.
+Rob Pearson is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Movers, Nottingham on Sat, 28 Nov 2026.
 
 Rob Pearson is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across Barcelona, Brighton, Leeds and London and 3 more. Often billed alongside PAS (UK), Donton and TriForm. Next up: Movers, Nottingham on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Rob Pearson is a tech house and house artist based in United Kingdom, with 19 gi
 
 PAS (UK), Donton, TriForm
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robpearson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robpearson/)*

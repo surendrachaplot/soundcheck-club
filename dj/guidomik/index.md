@@ -1,6 +1,6 @@
 # Guidomik
 
-Guidomik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Casa Amante Club, Madrid on Mon, 7 Dec 2026.
+Guidomik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Casa Amante Club, Madrid on Mon, 7 Dec 2026.
 
 Guidomik is a house and techno artist based in Argentina, with 52 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Tucu (Tucu), Alexis mayer and Djen. Next up: Casa Amante Club, Madrid on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ Guidomik is a house and techno artist based in Argentina, with 52 gigs on soundc
 
 Tucu (Tucu), Alexis mayer, Djen
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guidomik/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guidomik/)*

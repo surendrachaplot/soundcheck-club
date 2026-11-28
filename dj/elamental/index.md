@@ -1,6 +1,6 @@
 # ELA MENTAL
 
-ELA MENTAL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at XeX, San Francisco/Oakland on Sat, 12 Dec 2026.
+ELA MENTAL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at XeX, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 ELA MENTAL is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across San Francisco/Oakland. Often billed alongside CASPII, JustJovani and Just Tosh. Next up: XeX, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ ELA MENTAL is a techno and trance artist based in United States of America, with
 
 CASPII, JustJovani, Just Tosh
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elamental/)*

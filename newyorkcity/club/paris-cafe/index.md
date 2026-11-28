@@ -1,6 +1,6 @@
 # Paris Cafe
 
-Paris Cafe is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Paris Cafe NYE27" on Thu, 31 Dec 2026.
+Paris Cafe is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Paris Cafe NYE27" on Thu, 31 Dec 2026.
 
 Paris Cafe is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Paris Cafe is a music venue in New York City listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Paris Cafe NYE27 |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paris-cafe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paris-cafe/)*

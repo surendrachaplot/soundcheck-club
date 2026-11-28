@@ -1,6 +1,6 @@
 # Marli
 
-Marli is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 28 Nov 2026.
+Marli is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 28 Nov 2026.
 
 Marli is a house and techno artist based in Australia, with 72 gigs on soundcheck across Amsterdam, Auckland, Berlin and Madrid and 3 more. Often billed alongside Ricky Nord, Emma Moon and Hannah D. Next up: Sub Club Melbourne, Melbourne on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Marli is a house and techno artist based in Australia, with 72 gigs on soundchec
 
 Ricky Nord, Emma Moon, Hannah D
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marli/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marli/)*

@@ -1,8 +1,8 @@
 # Reka
 
-Reka is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Atemporal, Berlin on Wed, 2 Dec 2026.
+Reka is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Atemporal, Berlin on Wed, 2 Dec 2026.
 
-Reka is a techno and ebm artist based in Spain, with 47 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Phase Fatale, Unhuman and Bloody Mary. Next up: Atemporal, Berlin on Wed 2 Dec.
+Reka is a techno and ebm artist based in Spain, with 48 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Phase Fatale, Unhuman and Bloody Mary. Next up: Atemporal, Berlin on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Reka is a techno and ebm artist based in Spain, with 47 gigs on soundcheck acros
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | Atemporal | Berlin |
 | Sat, 5 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |
+| Thu, 24 Dec 2026 | Astron Club | Athens |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Reka is a techno and ebm artist based in Spain, with 47 gigs on soundcheck acros
 
 Phase Fatale, Unhuman, Bloody Mary
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reka/)*

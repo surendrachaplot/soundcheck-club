@@ -1,6 +1,6 @@
 # Mocks & Murph
 
-Mocks & Murph is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
+Mocks & Murph is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
 
 Mocks & Murph are a house and techno duo based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside CHARLIE POWELL, Mas Que Nada Brothers and Albi.. Next up: Oslo Hackney, London on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Mocks & Murph are a house and techno duo based in United Kingdom, with 4 gigs on
 
 CHARLIE POWELL, Mas Que Nada Brothers, Albi.
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocksmurph/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mocksmurph/)*

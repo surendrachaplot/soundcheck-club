@@ -1,6 +1,6 @@
 # Jesse Boyd
 
-Jesse Boyd is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Glamorama, Melbourne on Sat, 28 Nov 2026.
+Jesse Boyd is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Glamorama, Melbourne on Sat, 28 Nov 2026.
 
 Jesse Boyd is a house and techno artist, with 47 gigs on soundcheck across Melbourne and Sydney. Often billed alongside FRISCO (AUS), KELLY TEE and Cara Murphy. Next up: Glamorama, Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jesse Boyd is a house and techno artist, with 47 gigs on soundcheck across Melbo
 
 FRISCO (AUS), KELLY TEE, Cara Murphy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseboyd/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseboyd/)*

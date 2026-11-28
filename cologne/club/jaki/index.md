@@ -1,14 +1,13 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "JAKI presents: Spöki & auflinks" on Fri, 27 Nov 2026.
+JAKI is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Tom-Tom Discotec presents: KAÏMAK – Balkan Oriental Grooves" on Sat, 28 Nov 2026.
 
-JAKI is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including 11:68PM, Ada Luvv, Bergen (DE) and Candy Jones and 2 more. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
+JAKI is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including 11:68PM, Ada Luvv, Bergen (DE) and Candy Jones and 2 more. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | JAKI presents: Spöki & auflinks |  |
 | Sat, 28 Nov 2026 | Tom-Tom Discotec presents: KAÏMAK – Balkan Oriental Grooves | Kosta Kostov |
 | Fri, 4 Dec 2026 | Hyperlove Birthday Night with Slaymira, DJ ASS TITS, juno.j | DJ ASS TITS, Slaymira, juno.j |
 | Sat, 5 Dec 2026 | Acid Kebap meets Tom Tom Discotec |  |
@@ -21,4 +20,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

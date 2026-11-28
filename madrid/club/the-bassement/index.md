@@ -1,14 +1,13 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "JAZZY at BASSMNT CLUB hosted by ROOTS : Francesco Del Garda" on Fri, 27 Nov 2026.
+The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Laster Club presents Dasha Rush, Phara & Laia B2B Liszt" on Sat, 28 Nov 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Adriana Lopez, AEREA, Ana Alves and Ania Bruster and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Adriana Lopez, AEREA, Ana Alves and Ania Bruster and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | JAZZY at BASSMNT CLUB hosted by ROOTS : Francesco Del Garda | Francesco Del Garda, Unai Trotti |
 | Sat, 28 Nov 2026 | Laster Club presents Dasha Rush, Phara & Laia B2B Liszt | Dasha Rush, Laia, Liszt, Phara |
 | Fri, 4 Dec 2026 | ONGOING presents DJ Angel, Estella Boersma, Luxi Villar & Ania Bruster | Ania Bruster, DJ ANGEL (fr), Estella Boersma, Luxi Villar |
 | Sat, 5 Dec 2026 | DORP pres Calvin Clarke |  |
@@ -18,9 +17,10 @@ The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 | Sat, 12 Dec 2026 | Laster Club presents Philippa Pacho, Stef Mendesidis Live & SHADOW HRYM | Philippa Pacho, Shadow Hrym (ES), Stef Mendesidis |
 | Sat, 19 Dec 2026 | BSMT LIVE pres. Nic Fanciulli All Night Long | Nic Fanciulli |
 | Fri, 1 Jan 2027 | Laster Club presents NEW YEAR'S DAY curated by Oscar Mulero | Adriana Lopez, Dasha Rush, Luigi Tozzi, Oscar Mulero, Roll Dann, Steffi |
+| Sat, 2 Jan 2027 | BSMT LIVE pres. Richie Hawtin | Richie Hawtin |
 
 ## Address
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

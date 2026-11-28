@@ -1,14 +1,15 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "BRAINCELL LASERTAG" on Sat, 28 Nov 2026.
+TBA - DTLA is a music venue in Los Angeles with 13 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "BRAINCELL LASERTAG" on Sat, 28 Nov 2026.
 
-TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 11 upcoming gigs, with line-ups including Ali Farahani, Alima Lee, AMORAL and BHAOUNCEOUT and 2 more. See dates, start times and who's playing.
+TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 13 upcoming gigs, with line-ups including Adam Rose, Adult Hits, Ali Farahani and Alima Lee and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | BRAINCELL LASERTAG | Honeydü, Jake Mora, Nikki Nair, fm.gh0st |
+| Sat, 28 Nov 2026 | CLOSER x TECHTONIK present THERMAL with Buchecha (LA Debut) | Buchecha, LONZO (2), TOKEONETOKA |
 | Fri, 4 Dec 2026 | bodyshop | FASHION (US), John Bryars, Katie Rex |
 | Sat, 5 Dec 2026 | CVNTROL FREAK | Cowboy Blvck, EthicalDrvgs, Majick |
 | Sat, 5 Dec 2026 | HANDS ON YOUR HIPS |  |
@@ -17,6 +18,5 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 11 upcoming gig
 | Sat, 12 Dec 2026 | T4T WRESTLING X Trans*cendent Present: T4T Combat Rave | BHAOUNCEOUT, VILENA |
 | Sat, 12 Dec 2026 | STRAIGHT FORME: Peachlyfe (LIVE), Dangerous Rose, Josh Steers, John Bryars | Dangerous Rose, John Bryars, Josh Steers, Peachlyfe |
 | Sat, 12 Dec 2026 | Eternal Bliss | Alima Lee, Kelman Duran, Kilbourne, Nguzunguzu, SOLTERA, stud1nt |
-| Sat, 19 Dec 2026 | Momentive presents: DLR feat. MC Gusto | DLR, Litha, MC Gusto |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

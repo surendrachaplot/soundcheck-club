@@ -1,6 +1,6 @@
 # Andrew Cairns
 
-Andrew Cairns is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
+Andrew Cairns is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
 
 Andrew Cairns is a techno and hardcore artist based in Ireland, with 37 gigs on soundcheck across Antwerp, Belfast, Budapest and Cardiff and 8 more. Often billed alongside Jason Cluff, Jezza & Jod and blk.. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Andrew Cairns is a techno and hardcore artist based in Ireland, with 37 gigs on 
 
 Jason Cluff, Jezza & Jod, blk.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewcairns/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewcairns/)*

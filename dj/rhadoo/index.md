@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
+Rhadoo is a Minimal and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Estadio Fray Nano , Mexico City on Sat, 28 Nov 2026.
 
 Rhadoo is a minimal and house artist based in Romania, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Raresh and Cap. Next up: TBA - Estadio Fray Nano , Mexico City on Sat 28 Nov.
 
@@ -35,4 +35,4 @@ Rhadoo is a minimal and house artist based in Romania, with 202 gigs on soundche
 
 Petre Inspirescu, Raresh, Cap
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

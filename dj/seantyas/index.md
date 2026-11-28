@@ -1,6 +1,6 @@
 # Sean Tyas
 
-Sean Tyas is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Byblos Beach Pattaya, Bangkok on Sun, 31 Jan 2027.
+Sean Tyas is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Byblos Beach Pattaya, Bangkok on Sun, 31 Jan 2027.
 
 Sean Tyas is a trance and techno artist based in Switzerland, with 20 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Chicago and 12 more. Often billed alongside Billy Gillies, Giuseppe Ottaviani and Infected Mushroom. Next up: TBA - Byblos Beach Pattaya, Bangkok on Sun 31 Jan.
 
@@ -25,4 +25,4 @@ Sean Tyas is a trance and techno artist based in Switzerland, with 20 gigs on so
 
 Billy Gillies, Giuseppe Ottaviani, Infected Mushroom
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seantyas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seantyas/)*

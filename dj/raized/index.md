@@ -1,6 +1,6 @@
 # Raized
 
-Raized is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sonorama, Medellin on Sun, 29 Nov 2026.
+Raized is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sonorama, Medellin on Sun, 29 Nov 2026.
 
 Raized is a tech house and house artist based in Colombia, with 112 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Matheo Velez, Spini and Camilo Do Santos. Next up: Sonorama, Medellin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Raized is a tech house and house artist based in Colombia, with 112 gigs on soun
 
 Matheo Velez, Spini, Camilo Do Santos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raized/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raized/)*

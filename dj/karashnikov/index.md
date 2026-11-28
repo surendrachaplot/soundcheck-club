@@ -1,19 +1,19 @@
 # Karashnikov
 
-Karashnikov is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Brown Alley, Melbourne on Fri, 27 Nov 2026.
+Karashnikov is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Flinders, Sydney on Sat, 28 Nov 2026.
 
-Karashnikov is a techno and industrial artist based in Finland, with 22 gigs on soundcheck across Antwerp, Brussels, Budapest and Dublin and 11 more. Often billed alongside Angel Karel, Brojski and LiXaa. Next up: Brown Alley, Melbourne on Fri 27 Nov.
+Karashnikov is a techno and industrial artist based in Finland, with 22 gigs on soundcheck across Antwerp, Brussels, Budapest and Dublin and 11 more. Often billed alongside Angel Karel, Brojski and LiXaa. Next up: The Flinders, Sydney on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Brown Alley | Melbourne |
 | Sat, 28 Nov 2026 | The Flinders | Sydney |
 | Fri, 4 Dec 2026 | The Flinders | Sydney |
 
 ## Recently played
 
+- Brown Alley, Melbourne · Fri, 27 Nov 2026
 - LA Rítmica Club, Valencia · Fri, 2 Oct 2026
 - The Flinders, Sydney · Fri, 10 Jul 2026
 - 74 Hall, Istanbul · Wed, 27 May 2026
@@ -21,10 +21,9 @@ Karashnikov is a techno and industrial artist based in Finland, with 22 gigs on 
 - Playhaus, Krakow · Sat, 6 Dec 2025
 - The Grand Social, Dublin · Sat, 5 Jul 2025
 - TBA - DTLA, Los Angeles · Fri, 2 May 2025
-- TBA - 74 HALL, Istanbul · Tue, 22 Apr 2025
 
 ## Shares bills with
 
 Angel Karel, Brojski, LiXaa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karashnikov/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karashnikov/)*

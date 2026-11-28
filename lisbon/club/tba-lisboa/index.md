@@ -1,14 +1,13 @@
 # TBA - Lisboa
 
-TBA - Lisboa is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ANDCO" on Fri, 27 Nov 2026.
+TBA - Lisboa is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "MOODIE Invites Dana Kuehr & Mimi" on Fri, 4 Dec 2026.
 
-TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Andion, Billi, Dana Kuehr and Dj Danifox and 2 more. See dates, start times and who's playing. To Be Announced.
+TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Andion, Billi, Dana Kuehr and Dj Danifox and 2 more. See dates, start times and who's playing. To Be Announced.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | ANDCO |  |
 | Fri, 4 Dec 2026 | MOODIE Invites Dana Kuehr & Mimi | Andion, Dana Kuehr, Mimi (4), Simonee |
 | Sat, 19 Dec 2026 | 5 Years of Between | Billi, Dj Danifox, Francisca Urbano, Garçon, Guigas, Mia Cecille, Nuvem, Sofia Kuster, Stckman |
 | Thu, 31 Dec 2026 | 1/4 Escuro NYE 2027 | Laura Hasagun, Marcal, Phara, Rene Wise |
@@ -17,4 +16,4 @@ TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, w
 
 To Be Announced, Lisbon
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-lisboa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-lisboa/)*

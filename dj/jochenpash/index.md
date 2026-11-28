@@ -1,6 +1,6 @@
 # Jochen Pash
 
-Jochen Pash is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kowalski, Stuttgart on Sat, 5 Dec 2026.
+Jochen Pash is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Kowalski, Stuttgart on Sat, 5 Dec 2026.
 
 Jochen Pash is a house and afro house artist based in Germany, with 20 gigs on soundcheck across Munich and Stuttgart. Often billed alongside Merissa Mahilaa, AMÉMÉ and Black Circle. Next up: Kowalski, Stuttgart on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Jochen Pash is a house and afro house artist based in Germany, with 20 gigs on s
 
 Merissa Mahilaa, AMÉMÉ, Black Circle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenpash/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenpash/)*

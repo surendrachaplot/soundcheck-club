@@ -1,6 +1,6 @@
 # spellbound
 
-spellbound is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
+spellbound is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
 
 spellbound is a techno and breakbeat artist, with 4 gigs on soundcheck across Bangkok, Sydney and Thailand. Often billed alongside April, Chris Munky and DJ Casper. Next up: TBA, Sydney on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ spellbound is a techno and breakbeat artist, with 4 gigs on soundcheck across Ba
 
 April, Chris Munky, DJ Casper
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spellbound/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spellbound/)*

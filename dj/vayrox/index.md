@@ -1,6 +1,6 @@
 # VAYROX
 
-VAYROX is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
+VAYROX is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
 
 VAYROX is an industrial and techno artist based in Bulgaria, with 12 gigs on soundcheck across Berlin and Sofia. Often billed alongside KASSIS, GØBLIN and ARLECIN. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ VAYROX is an industrial and techno artist based in Bulgaria, with 12 gigs on sou
 
 KASSIS, GØBLIN, ARLECIN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vayrox/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vayrox/)*

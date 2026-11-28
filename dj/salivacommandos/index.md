@@ -1,6 +1,6 @@
 # Saliva Commandos
 
-Saliva Commandos is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tisane, Connecticut on Fri, 4 Dec 2026.
+Saliva Commandos is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tisane, Connecticut on Fri, 4 Dec 2026.
 
 Saliva Commandos is a house and afro house artist based in United States of America, with 15 gigs on soundcheck across Connecticut, Los Angeles, Miami and New York City and 1 more. Often billed alongside Bryan Peroni, Scotty Boy and DJ Mark Brickman. Next up: Tisane, Connecticut on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Saliva Commandos is a house and afro house artist based in United States of Amer
 
 Bryan Peroni, Scotty Boy, DJ Mark Brickman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salivacommandos/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salivacommandos/)*

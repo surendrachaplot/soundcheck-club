@@ -1,6 +1,6 @@
 # Takis DK
 
-Takis DK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Oddity Club, Athens on Fri, 11 Dec 2026.
+Takis DK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Oddity Club, Athens on Fri, 11 Dec 2026.
 
 Takis DK is a techno and house artist based in Greece, with 40 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Mágafas, Sirod and Dom K. Next up: Oddity Club, Athens on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Takis DK is a techno and house artist based in Greece, with 40 gigs on soundchec
 
 Mágafas, Sirod, Dom K
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takisdk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takisdk/)*

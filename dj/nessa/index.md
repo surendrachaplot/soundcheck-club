@@ -1,6 +1,6 @@
 # Nessa
 
-Nessa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
+Nessa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 11 Dec 2026.
 
 Nessa is a house and afro house artist, with 5 gigs on soundcheck across Athens, Barcelona and New York City. Often billed alongside Adon, Akalex and Andrea Arias. Next up: Razzmatazz, Barcelona on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Nessa is a house and afro house artist, with 5 gigs on soundcheck across Athens,
 
 Adon, Akalex, Andrea Arias
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nessa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nessa/)*

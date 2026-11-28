@@ -1,6 +1,6 @@
 # Sober (1)
 
-Sober (1) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at shyboy hifi, Dallas/Fort Worth on Sat, 28 Nov 2026.
+Sober (1) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at shyboy hifi, Dallas/Fort Worth on Sat, 28 Nov 2026.
 
 Sober is a house and acid artist based in United States of America, with 11 gigs on soundcheck across Antwerp, Dallas/Fort Worth, Ghent and Tokyo. Often billed alongside Anubis, Proxy and sandix. Next up: shyboy hifi, Dallas/Fort Worth on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sober is a house and acid artist based in United States of America, with 11 gigs
 
 Anubis, Proxy, sandix
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sober-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sober-1/)*

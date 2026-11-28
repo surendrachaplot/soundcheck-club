@@ -1,6 +1,6 @@
 # Arsenal Mikebe
 
-Arsenal Mikebe is a Experimental and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Hasard Ludique, Paris on Thu, 10 Dec 2026.
+Arsenal Mikebe is a Experimental and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Hasard Ludique, Paris on Thu, 10 Dec 2026.
 
 Arsenal Mikebe is an experimental and amapiano artist based in Uganda, with 17 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 8 more. Often billed alongside Mad Professor, DjRUM and DJ Travella. Next up: Le Hasard Ludique, Paris on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Arsenal Mikebe is an experimental and amapiano artist based in Uganda, with 17 g
 
 Mad Professor, DjRUM, DJ Travella
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*

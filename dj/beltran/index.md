@@ -1,6 +1,6 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Space Miami, Miami on Wed, 2 Dec 2026.
+Beltran is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Space Miami, Miami on Wed, 2 Dec 2026.
 
 Beltran is a house and tech house artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 34 more. Often billed alongside Ben Sterling, Carlita and Prospa. Next up: Club Space Miami, Miami on Wed 2 Dec.
 
@@ -35,4 +35,4 @@ Beltran is a house and tech house artist based in United States of America, with
 
 Ben Sterling, Carlita, Prospa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

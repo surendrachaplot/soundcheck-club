@@ -1,6 +1,6 @@
 # TRS (3)
 
-TRS (3) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
+TRS (3) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 TRS is an ambient and experimental artist based in Spain, with 12 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Just Claudia, EYRA and Pépe. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ TRS is an ambient and experimental artist based in Spain, with 12 gigs on soundc
 
 Just Claudia, EYRA, Pépe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trs-3/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trs-3/)*

@@ -1,19 +1,19 @@
 # Zitto
 
-Zitto is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Stockholm on Fri, 27 Nov 2026.
+Zitto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bassiani, Tbilisi on Sat, 5 Dec 2026.
 
-Zitto is a techno and house artist based in Georgia, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside Kvanchi, Kancheli and Ndrx. Next up: TBA, Stockholm on Fri 27 Nov.
+Zitto is a techno and house artist based in Georgia, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside Kvanchi, Kancheli and Ndrx. Next up: Bassiani, Tbilisi on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA | Stockholm |
 | Sat, 5 Dec 2026 | Bassiani | Tbilisi |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
+- TBA, Stockholm · Fri, 27 Nov 2026
 - Bassiani, Tbilisi · Sat, 21 Nov 2026
 - Bassiani, Tbilisi · Fri, 9 Oct 2026
 - Bassiani, Tbilisi · Fri, 11 Sept 2026
@@ -21,10 +21,9 @@ Zitto is a techno and house artist based in Georgia, with 82 gigs on soundcheck 
 - Bassiani, Tbilisi · Sat, 8 Aug 2026
 - Bassiani, Tbilisi · Fri, 31 Jul 2026
 - CLUB RAUM, Amsterdam · Sat, 18 Jul 2026
-- Bassiani, Tbilisi · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Kvanchi, Kancheli, Ndrx
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*

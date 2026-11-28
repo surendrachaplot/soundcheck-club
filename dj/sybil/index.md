@@ -1,6 +1,6 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 11 Dec 2026.
+Sybil is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 11 Dec 2026.
 
 Sybil is a techno and trance artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside .VRIL, BASHKKA and Kia (AU). Next up: Sala Upload Barcelona, Barcelona on Fri 11 Dec.
 
@@ -30,4 +30,4 @@ Sybil is a techno and trance artist based in United Kingdom, with 144 gigs on so
 
 .VRIL, BASHKKA, Kia (AU)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

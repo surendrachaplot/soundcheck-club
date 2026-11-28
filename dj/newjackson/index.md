@@ -1,6 +1,6 @@
 # New Jackson
 
-New Jackson is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pygmalion, Dublin on Thu, 31 Dec 2026.
+New Jackson is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Pygmalion, Dublin on Thu, 31 Dec 2026.
 
 New Jackson is a house and ambient artist based in Ireland, with 23 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 1 more. Often billed alongside Rory Sweeney, Tr One and Aeron. Next up: Pygmalion, Dublin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ New Jackson is a house and ambient artist based in Ireland, with 23 gigs on soun
 
 Rory Sweeney, Tr One, Aeron
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newjackson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newjackson/)*

@@ -1,6 +1,6 @@
 # Rudy Zigliara
 
-Rudy Zigliara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Madame Claude, Berlin on Fri, 11 Dec 2026.
+Rudy Zigliara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Madame Claude, Berlin on Fri, 11 Dec 2026.
 
 Rudy Zigliara is a house and techno artist based in France, with 19 gigs on soundcheck across Berlin and Paris. Often billed alongside doctor doms, Roots. and Caldii. Next up: Madame Claude, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Rudy Zigliara is a house and techno artist based in France, with 19 gigs on soun
 
 doctor doms, Roots., Caldii
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*

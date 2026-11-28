@@ -1,6 +1,6 @@
 # Tube (2)
 
-Tube (2) is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Domus Brickell Park, Miami on Fri, 11 Dec 2026.
+Tube (2) is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Domus Brickell Park, Miami on Fri, 11 Dec 2026.
 
 Tube is a techno and reggaeton artist based in Colombia, with 16 gigs on soundcheck across Bogotá, Miami and New York City. Often billed alongside 8888, Brenda (COL) and Coyado. Next up: Domus Brickell Park, Miami on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Tube is a techno and reggaeton artist based in Colombia, with 16 gigs on soundch
 
 8888, Brenda (COL), Coyado
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tube-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tube-2/)*

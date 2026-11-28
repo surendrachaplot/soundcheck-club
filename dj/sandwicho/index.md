@@ -1,6 +1,6 @@
 # Sandwicho
 
-Sandwicho is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at M7 Club, Barcelona on Sat, 5 Dec 2026.
+Sandwicho is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at M7 Club, Barcelona on Sat, 5 Dec 2026.
 
 Sandwicho is a techno and trance artist based in Spain, with 42 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 4 more. Often billed alongside Ozzwald, Cobb Douglas and JRG. Next up: M7 Club, Barcelona on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sandwicho is a techno and trance artist based in Spain, with 42 gigs on soundche
 
 Ozzwald, Cobb Douglas, JRG
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*

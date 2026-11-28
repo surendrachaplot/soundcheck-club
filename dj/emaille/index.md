@@ -1,6 +1,6 @@
 # EMAILLE
 
-EMAILLE is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
+EMAILLE is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ://about blank, Berlin on Sun, 29 Nov 2026.
 
 EMAILLE is a techno and ambient artist based in Germany, with 7 gigs on soundcheck across Berlin, Dresden and Hannover. Often billed alongside Eliseo Adri, 4NOUK and Amo (IT). Next up: ://about blank, Berlin on Sun 29 Nov.
 
@@ -23,4 +23,4 @@ EMAILLE is a techno and ambient artist based in Germany, with 7 gigs on soundche
 
 Eliseo Adri, 4NOUK, Amo (IT)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emaille/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emaille/)*

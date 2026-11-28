@@ -1,6 +1,6 @@
 # STAFFY
 
-STAFFY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+STAFFY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 STAFFY is a techno and trance artist based in Australia, with 28 gigs on soundcheck across Amsterdam, Manchester, Melbourne and Sao Paulo and 1 more. Often billed alongside HIJCKD, Gabriella Spritz and Allen Cedano. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ STAFFY is a techno and trance artist based in Australia, with 28 gigs on soundch
 
 ## Recently played
 
+- Lardner Park, Melbourne · Fri, 27 Nov 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
 - Revolver Upstairs, Melbourne · Sun, 20 Sept 2026
@@ -19,10 +20,9 @@ STAFFY is a techno and trance artist based in Australia, with 28 gigs on soundch
 - Plaza Hotel Sydney, Sydney · Sat, 17 Jan 2026
 - Oxford Art Factory, Sydney · Sat, 8 Nov 2025
 - Turbo422, Melbourne · Sat, 11 Oct 2025
-- Turbo422, Melbourne · Sat, 26 Jul 2025
 
 ## Shares bills with
 
 HIJCKD, Gabriella Spritz, Allen Cedano
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staffy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staffy/)*

@@ -1,6 +1,6 @@
 # DJ Dommis
 
-DJ Dommis is a House and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Philadelphia Museum of Art, Philadelphia on Fri, 27 Nov 2026.
+DJ Dommis is a House and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Philadelphia Museum of Art, Philadelphia on Fri, 27 Nov 2026.
 
 DJ Dommis is a house and funk / soul artist based in United States of America, with 50 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Delish, Matthew Law and Rob Paine. Next up: Philadelphia Museum of Art, Philadelphia on Fri 27 Nov.
 
@@ -15,6 +15,7 @@ DJ Dommis is a house and funk / soul artist based in United States of America, w
 
 ## Recently played
 
+- Philadelphia Museum of Art, Philadelphia · Fri, 27 Nov 2026
 - Philadelphia Museum of Art, Philadelphia · Fri, 20 Nov 2026
 - Bastet, Philadelphia · Fri, 30 Oct 2026
 - Philadelphia Museum of Art, Philadelphia · Fri, 30 Oct 2026
@@ -22,10 +23,9 @@ DJ Dommis is a house and funk / soul artist based in United States of America, w
 - Philadelphia Museum of Art, Philadelphia · Fri, 16 Oct 2026
 - Trestle Inn, Philadelphia · Sat, 3 Oct 2026
 - Margolis Music Lounge, Philadelphia · Sat, 22 Aug 2026
-- North Bowl, Philadelphia · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 DJ Delish, Matthew Law, Rob Paine
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*

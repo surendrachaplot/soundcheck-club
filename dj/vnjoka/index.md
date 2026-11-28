@@ -1,6 +1,6 @@
 # Vnjoka
 
-Vnjoka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KHIDI, Tbilisi on Sat, 12 Dec 2026.
+Vnjoka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at KHIDI, Tbilisi on Sat, 12 Dec 2026.
 
 Vnjoka is a techno and house artist based in Georgia, with 33 gigs on soundcheck across Cologne, Dortmund / Essen and Tbilisi. Often billed alongside Boyd Schidt, Lilith. and Sevda. Next up: KHIDI, Tbilisi on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Vnjoka is a techno and house artist based in Georgia, with 33 gigs on soundcheck
 
 Boyd Schidt, Lilith., Sevda
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnjoka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnjoka/)*

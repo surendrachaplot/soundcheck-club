@@ -1,6 +1,6 @@
 # Felix Fleer
 
-Felix Fleer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nummer zu Platz, Bielefeld on Fri, 25 Dec 2026.
+Felix Fleer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Nummer zu Platz, Bielefeld on Fri, 25 Dec 2026.
 
 Felix Fleer is a techno and house artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Bielefeld and Brussels and 5 more. Often billed alongside Jonas Landwehr, Ahmet Sisman and .VRIL. Next up: Nummer zu Platz, Bielefeld on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Felix Fleer is a techno and house artist based in Germany, with 17 gigs on sound
 
 Jonas Landwehr, Ahmet Sisman, .VRIL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixfleer/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixfleer/)*

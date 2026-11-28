@@ -1,6 +1,6 @@
 # Leo Cologna
 
-Leo Cologna is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OHM, Berlin on Sat, 12 Dec 2026.
+Leo Cologna is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at OHM, Berlin on Sat, 12 Dec 2026.
 
 Leo Cologna is a techno and experimental artist based in Germany, with 10 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Dj Iryna, CONCEPTUAL and Claudio PRC. Next up: OHM, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Leo Cologna is a techno and experimental artist based in Germany, with 10 gigs o
 
 Dj Iryna, CONCEPTUAL, Claudio PRC
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leocologna/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leocologna/)*

@@ -1,6 +1,6 @@
 # Judas Du
 
-Judas Du is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 18 Dec 2026.
+Judas Du is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 18 Dec 2026.
 
 Judas Du is a house and electro artist based in United Kingdom, with 25 gigs on soundcheck across Manchester. Often billed alongside The Taxidermist, Chafik and Chafik Bali. Next up: Piccadilly Central, Manchester on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Judas Du is a house and electro artist based in United Kingdom, with 25 gigs on 
 
 The Taxidermist, Chafik, Chafik Bali
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judasdu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judasdu/)*

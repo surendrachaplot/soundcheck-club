@@ -1,14 +1,13 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sissi's Friday w/ Elias Mazian, Hausplant, Maat Soundsystem & peaces" on Fri, 27 Nov 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sissi's 5YA" on Sat, 28 Nov 2026.
 
-SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Bass Toast, Boris Coelman, CaMi and Elias Mazian and 2 more. See dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
+SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Bass Toast, Boris Coelman, CaMi and Garnett and 2 more. See dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Sissi's Friday w/ Elias Mazian, Hausplant, Maat Soundsystem & peaces | Elias Mazian, Faedro, Maysa Chahbari |
 | Sat, 28 Nov 2026 | Sissi's 5YA |  |
 | Fri, 4 Dec 2026 | Toy Tonics | Stump Valley |
 | Sat, 5 Dec 2026 | Connection art invites Ghetto funk & Steppin into tomorrow | Lucas Benjamin, Mo Wrights, Polli Panda, Rob Manga |
@@ -22,4 +21,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 9 upcoming
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

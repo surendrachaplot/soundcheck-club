@@ -1,14 +1,13 @@
 # Bloom
 
-Bloom is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Amnesia, Bangkok on Thu, 26 Nov 2026.
+Bloom is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
-Bloom is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Belfast and 6 more. Often billed alongside Giantsiam, Manymaur and A Hundred Drums. Next up: Amnesia, Bangkok on Thu 26 Nov.
+Bloom is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Belfast and 6 more. Often billed alongside Giantsiam, Manymaur and A Hundred Drums. Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | Amnesia | Bangkok |
 | Fri, 23 Apr 2027 | Central Florida Fairgrounds | Florida |
 
 ## Recently played
@@ -26,4 +25,4 @@ Bloom is a house and techno artist based in United Kingdom, with 16 gigs on soun
 
 Giantsiam, Manymaur, A Hundred Drums
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*

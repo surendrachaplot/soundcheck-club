@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "The Final High Hoops at The White Hotel (12 Hour Party)" on Fri, 27 Nov 2026.
+The White Hotel is a music venue in Manchester with 30 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Principe Manchester: Marfox / Nidia / Lycox / E8" on Sat, 28 Nov 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 30 upcoming gigs, with line-ups including Fastlove, aalice, Afrodeutsche and Aiden Francis and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 30 upcoming gigs, with line-ups including aalice, Afrodeutsche, Alliyah Enyo and Anna Gray and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Final High Hoops at The White Hotel (12 Hour Party) | Aiden Francis, Angel D'lite, Fastlove, Marcos (HH/FQR), Merve, Midland |
 | Sat, 28 Nov 2026 | Principe Manchester: Marfox / Nidia / Lycox / E8 |  |
 | Sun, 29 Nov 2026 | gyrofield (live) / Yyre (live) / Syntax | Syntax (2), Yyre, gyrofield |
 | Thu, 3 Dec 2026 | Jawnino / Chamber 45 / Rosabella Allen | Jawnino |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 30 upcoming
 | Sun, 6 Dec 2026 | PAYROLL: The Leaving Do | Chilly, Hanz |
 | Tue, 8 Dec 2026 | Self: Soft Machinery For Rain [Alliyah Enyo, Jem Shearer & Viktoria Szaboova] | Alliyah Enyo, Jem Shearer |
 | Thu, 10 Dec 2026 | life is beautiful presents: live at The White Hotel, Manchester | Bianca Scout, KD22LR, Lolina |
+| Fri, 11 Dec 2026 | Sustain-Release: Aurora Halal & Vlada | Aurora Halal, Vlada |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

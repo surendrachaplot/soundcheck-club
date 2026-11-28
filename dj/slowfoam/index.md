@@ -1,6 +1,6 @@
 # Slowfoam
 
-Slowfoam is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cosmos Campolide, Lisbon on Fri, 4 Dec 2026.
+Slowfoam is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cosmos Campolide, Lisbon on Fri, 4 Dec 2026.
 
 Slowfoam is an experimental and ambient artist based in United States of America, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 7 more. Often billed alongside Conna Haraway, slyn and Avsluta. Next up: Cosmos Campolide, Lisbon on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Slowfoam is an experimental and ambient artist based in United States of America
 
 Conna Haraway, slyn, Avsluta
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*

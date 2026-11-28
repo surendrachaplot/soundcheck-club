@@ -1,18 +1,18 @@
 # kwality
 
-kwality is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at BARDO, Milan on Thu, 26 Nov 2026.
+kwality is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
-kwality is a bass and dub artist based in Italy, with 5 gigs on soundcheck across London and Milan. Often billed alongside DNN, Ormeye and AMANDA LEAN. Next up: BARDO, Milan on Thu 26 Nov.
+kwality is a bass and dub artist based in Italy, with 5 gigs on soundcheck across London and Milan. Often billed alongside DNN, Ormeye and AMANDA LEAN. Next up: The Garden Tisno, London on Thu 22 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 26 Nov 2026 | BARDO | Milan |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
+- BARDO, Milan · Thu, 26 Nov 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 20 Nov 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 25 Sept 2026
 - Bluesquare, Milan · Sat, 6 Jun 2026
@@ -21,4 +21,4 @@ kwality is a bass and dub artist based in Italy, with 5 gigs on soundcheck acros
 
 DNN, Ormeye, AMANDA LEAN
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwality/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwality/)*

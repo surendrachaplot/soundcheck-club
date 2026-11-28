@@ -1,6 +1,6 @@
 # Mark Grusane
 
-Mark Grusane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 1point4hertz, Toronto on Thu, 31 Dec 2026.
+Mark Grusane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 1point4hertz, Toronto on Thu, 31 Dec 2026.
 
 Mark Grusane is a house and disco artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Antwerp, Austin and Baltimore and 17 more. Often billed alongside Brett Johnson, Scott Zacharias and CTRLZORA. Next up: 1point4hertz, Toronto on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mark Grusane is a house and disco artist based in United States of America, with
 
 Brett Johnson, Scott Zacharias, CTRLZORA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*

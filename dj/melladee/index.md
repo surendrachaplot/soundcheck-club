@@ -1,14 +1,14 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Mella Dee is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 28 Nov 2026.
 
-Mella Dee is a house and techno artist based in United Kingdom, with 180 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Mella Dee is a house and techno artist based in United Kingdom, with 181 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Saoirse, Reeshy and Samuel Deep. Next up: NUMBER 90 LONDON, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 28 Nov 2026 | NUMBER 90 LONDON | London |
 | Fri, 4 Dec 2026 | The Loft | Manchester |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
@@ -20,6 +20,7 @@ Mella Dee is a house and techno artist based in United Kingdom, with 180 gigs on
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 27 Nov 2026
 - Peddler Warehouse, Sheffield · Sun, 8 Nov 2026
 - The Cause, London · Sat, 7 Nov 2026
 - The Cause, London · Sun, 1 Nov 2026
@@ -27,10 +28,9 @@ Mella Dee is a house and techno artist based in United Kingdom, with 180 gigs on
 - Ouseburn Garden, Newcastle · Sat, 31 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - BRET, Amsterdam · Wed, 21 Oct 2026
-- Circuit, South-east · Sat, 17 Oct 2026
 
 ## Shares bills with
 
-Saoirse, Reeshy, Locklead
+Saoirse, Reeshy, Samuel Deep
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

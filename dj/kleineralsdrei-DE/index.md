@@ -1,6 +1,6 @@
 # kleineralsdrei
 
-kleineralsdrei is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at M-BIA, Berlin on Sat, 28 Nov 2026.
+kleineralsdrei is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M-BIA, Berlin on Sat, 28 Nov 2026.
 
 kleineralsdrei is a trance and techno artist, with 4 gigs on soundcheck across Berlin. Often billed alongside AVF, DJ YumYum and John Kotti. Next up: M-BIA, Berlin on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ kleineralsdrei is a trance and techno artist, with 4 gigs on soundcheck across B
 
 AVF (1), DJ YumYum, John Kotti
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kleineralsdrei-DE/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kleineralsdrei-DE/)*

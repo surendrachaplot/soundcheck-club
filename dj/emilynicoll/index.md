@@ -1,6 +1,6 @@
 # Emily Nicoll
 
-Emily Nicoll is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Toronto on Sat, 12 Dec 2026.
+Emily Nicoll is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Toronto on Sat, 12 Dec 2026.
 
 Emily Nicoll is a techno and house artist based in Canada, with 14 gigs on soundcheck across Berlin and Toronto. Often billed alongside 747, Measure Divide and Circumscums. Next up: TBA, Toronto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Emily Nicoll is a techno and house artist based in Canada, with 14 gigs on sound
 
 747, Measure Divide, Circumscums
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilynicoll/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilynicoll/)*

@@ -1,6 +1,6 @@
 # illillillillill
 
-illillillillill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Drugstore Beograd, Belgrade on Thu, 31 Dec 2026.
+illillillillill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Drugstore Beograd, Belgrade on Thu, 31 Dec 2026.
 
 illillillillill is a techno and house artist based in Serbia, with 31 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside tsola, Matej Rusmir and Impedance. Next up: Drugstore Beograd, Belgrade on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ illillillillill is a techno and house artist based in Serbia, with 31 gigs on so
 
 tsola, Matej Rusmir, Impedance
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illillillillill/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illillillillill/)*

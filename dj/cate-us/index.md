@@ -1,6 +1,6 @@
 # Cate.
 
-Cate. is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Uproar Lounge, Washington DC on Fri, 4 Dec 2026.
+Cate. is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Uproar Lounge, Washington DC on Fri, 4 Dec 2026.
 
 Cate. is a techno and minimal techno artist based in United States of America, with 6 gigs on soundcheck across Washington DC. Often billed alongside Factory Reset, Juana and MAXIMILIANO (US). Next up: Uproar Lounge, Washington DC on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Cate. is a techno and minimal techno artist based in United States of America, w
 
 Factory Reset, Juana, MAXIMILIANO (US)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cate-us/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cate-us/)*

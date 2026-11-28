@@ -1,6 +1,6 @@
 # Severino
 
-Severino is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 26 Dec 2026.
+Severino is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 26 Dec 2026.
 
 Severino is a house and disco artist based in United Kingdom, with 52 gigs on soundcheck across Athens, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Horse Meat Disco, Luke Howard and James Hillard. Next up: Lux Fragil, Lisbon on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Severino is a house and disco artist based in United Kingdom, with 52 gigs on so
 
 Horse Meat Disco, Luke Howard, James Hillard
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/severino/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/severino/)*

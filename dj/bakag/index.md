@@ -1,6 +1,6 @@
 # Baka G
 
-Baka G is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Loft, Manchester on Fri, 12 Feb 2027.
+Baka G is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Loft, Manchester on Fri, 12 Feb 2027.
 
 Baka G is a house and disco artist based in Belgium, with 55 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 11 more. Often billed alongside Crowd Control, Maggy Smiss and Cinthie. Next up: The Loft, Manchester on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ Baka G is a house and disco artist based in Belgium, with 55 gigs on soundcheck 
 
 Crowd Control, Maggy Smiss, Cinthie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bakag/)*

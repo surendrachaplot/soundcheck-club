@@ -1,6 +1,6 @@
 # KANCIAK
 
-KANCIAK is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Narocz 13, Warsaw on Fri, 4 Dec 2026.
+KANCIAK is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Narocz 13, Warsaw on Fri, 4 Dec 2026.
 
 KANCIAK is a bass and breakbeat artist based in Poland, with 28 gigs on soundcheck across Tbilisi and Warsaw. Often billed alongside m0nagenda, Apostolov and aura (PL). Next up: Narocz 13, Warsaw on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ KANCIAK is a bass and breakbeat artist based in Poland, with 28 gigs on soundche
 
 m0nagenda, Apostolov, aura (PL)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanciak/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanciak/)*

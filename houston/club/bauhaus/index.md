@@ -1,15 +1,13 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Darude - Hype Tour 2026" on Fri, 27 Nov 2026.
+Bauhaus is a music venue in Houston with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "AHMED SPINS" on Sat, 28 Nov 2026.
 
-Bauhaus is a music venue in Houston listed on soundcheck. 12 upcoming gigs, with line-ups including Ape Drums, Darude, Deeper Purpose and Ferry Corsten and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
+Bauhaus is a music venue in Houston listed on soundcheck. 10 upcoming gigs, with line-ups including Ape Drums, Deeper Purpose, Ferry Corsten and Gene Farris and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Darude - Hype Tour 2026 | Darude |
-| Fri, 27 Nov 2026 | Groovesgiving (Doors 10am) [Free with Rsvp] | Madou |
 | Sat, 28 Nov 2026 | AHMED SPINS |  |
 | Fri, 4 Dec 2026 | Gene Farris | Gene Farris |
 | Sat, 5 Dec 2026 | FOVOS: North America Tour |  |
@@ -18,9 +16,11 @@ Bauhaus is a music venue in Houston listed on soundcheck. 12 upcoming gigs, with
 | Sat, 19 Dec 2026 | Ferry Corsten | Ferry Corsten |
 | Sat, 26 Dec 2026 | Ape Drums | Ape Drums |
 | Fri, 22 Jan 2027 | Mellizos |  |
+| Fri, 12 Feb 2027 | JERRO: Are You Listening? Tour | JERRO |
+| Fri, 19 Feb 2027 | Romain Garcia | Romain Garcia |
 
 ## Address
 
 1803 Pease St, Houston, TX 77003, US, Houston
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*

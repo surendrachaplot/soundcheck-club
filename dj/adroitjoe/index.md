@@ -1,6 +1,6 @@
 # Adroit Joe
 
-Adroit Joe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at MUA Haus Seoul, Seoul on Sat, 28 Nov 2026.
+Adroit Joe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at MUA Haus Seoul, Seoul on Sat, 28 Nov 2026.
 
 Adroit Joe is a house and deep house artist based in South Korea, with 55 gigs on soundcheck across Seoul and South Korea. Often billed alongside Pingpong (KR), Funkin Cat and Bagagee Viphex13. Next up: MUA Haus Seoul, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Adroit Joe is a house and deep house artist based in South Korea, with 55 gigs o
 
 Pingpong (KR), Funkin Cat, Bagagee Viphex13
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adroitjoe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adroitjoe/)*

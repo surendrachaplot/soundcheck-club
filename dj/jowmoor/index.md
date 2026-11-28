@@ -1,6 +1,6 @@
 # Jow Moor
 
-Jow Moor is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sun, 29 Nov 2026.
+Jow Moor is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sun, 29 Nov 2026.
 
 Jow Moor is a techno and tech house artist based in Spain, with 74 gigs on soundcheck across Amsterdam, Barcelona, Hamburg and Ibiza and 1 more. Often billed alongside o.robles, Felipe O and Frutis. Next up: The Supermercat Gotico, Barcelona on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Jow Moor is a techno and tech house artist based in Spain, with 74 gigs on sound
 
 o.robles, Felipe O, Frutis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jowmoor/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jowmoor/)*

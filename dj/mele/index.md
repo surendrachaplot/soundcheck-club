@@ -1,13 +1,14 @@
 # Melé
 
-Melé is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SILO, New York City on Fri, 1 Jan 2027.
+Melé is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ZeyZey, Miami on Fri, 4 Dec 2026.
 
-Melé is a house and tech house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 35 more. Often billed alongside Eats Everything, Sam Divine and Olive F. Next up: SILO, New York City on Fri 1 Jan.
+Melé is a house and tech house artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 35 more. Often billed alongside Eats Everything, Sam Divine and Olive F. Next up: ZeyZey, Miami on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | ZeyZey | Miami |
 | Fri, 1 Jan 2027 | SILO | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Melé is a house and tech house artist based in United Kingdom, with 132 gigs on
 
 Eats Everything, Sam Divine, Olive F
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

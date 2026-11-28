@@ -1,6 +1,6 @@
 # PRISKILLA
 
-PRISKILLA is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
+PRISKILLA is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Underground SF, San Francisco/Oakland on Wed, 2 Dec 2026.
 
 PRISKILLA is a bass and electro artist based in United States of America, with 9 gigs on soundcheck across San Francisco/Oakland. Often billed alongside day astro, jaag (US) and murphey. Next up: Underground SF, San Francisco/Oakland on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ PRISKILLA is a bass and electro artist based in United States of America, with 9
 
 day astro, jaag (US), murphey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priskilla/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priskilla/)*

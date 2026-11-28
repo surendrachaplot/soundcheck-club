@@ -1,6 +1,6 @@
 # Aldea Club
 
-Aldea Club is a music venue in Bratislava with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "C:rcle & Friends w. C:rcle, Liia, Subrain & More" on Fri, 4 Dec 2026.
+Aldea Club is a music venue in Bratislava with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "C:rcle & Friends w. C:rcle, Liia, Subrain & More" on Fri, 4 Dec 2026.
 
 Aldea Club is a music venue in Bratislava listed on soundcheck. 5 upcoming gigs, with line-ups including Denes Toth, Dominik Gehringer, Johan Gielen and LIIA and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Aldea Club is a music venue in Bratislava listed on soundcheck. 5 upcoming gigs,
 | Fri, 18 Dec 2026 | Disconnect w. Blurred Movement, Mvtthew, Dajana & More | NIGHT BOORHA |
 | Thu, 31 Dec 2026 | NYE w. Dominik Gehringer, Makepeace, Rafaell & Y:I | Dominik Gehringer, Makepeace |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/aldea-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/aldea-club/)*

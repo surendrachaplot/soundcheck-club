@@ -1,6 +1,6 @@
 # Bida Sarô
 
-Bida Sarô is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at A.Tela, Sao-paulo on Thu, 4 Nov 2027.
+Bida Sarô is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at A.Tela, Sao-paulo on Thu, 4 Nov 2027.
 
 Bida Sarô is a house and techno artist based in Brazil, with 43 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Kabulom, EVEHIVE and Paulete Lindacelva. Next up: A.Tela, Sao Paulo on Thu 4 Nov.
 
@@ -25,4 +25,4 @@ Bida Sarô is a house and techno artist based in Brazil, with 43 gigs on soundch
 
 Kabulom, EVEHIVE, Paulete Lindacelva
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bidasaro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bidasaro/)*

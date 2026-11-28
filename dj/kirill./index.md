@@ -1,6 +1,6 @@
 # Kirill.
 
-Kirill. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 18 Dec 2026.
+Kirill. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bulbul Berlin, Berlin on Fri, 18 Dec 2026.
 
 Kirill. is a house and minimal artist based in Hungary, with 14 gigs on soundcheck across Berlin, Budapest and Ljubljana. Often billed alongside Electric Boutique, Legit Trip and Lost in Details. Next up: Bulbul Berlin, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Kirill. is a house and minimal artist based in Hungary, with 14 gigs on soundche
 
 Electric Boutique, Legit Trip, Lost in Details
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill./)*

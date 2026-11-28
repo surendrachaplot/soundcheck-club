@@ -1,6 +1,6 @@
 # VTSS
 
-VTSS is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+VTSS is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 VTSS is a techno and house artist based in Poland, with 205 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 70 more. Often billed alongside I Hate Models, Patrick Mason and KI/KI. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -16,6 +16,7 @@ VTSS is a techno and house artist based in Poland, with 205 gigs on soundcheck a
 
 ## Recently played
 
+- Lardner Park, Melbourne · Fri, 27 Nov 2026
 - Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - The Concourse Project, Austin · Sat, 14 Nov 2026
 - The Concourse Project, Austin · Fri, 13 Nov 2026
@@ -23,10 +24,9 @@ VTSS is a techno and house artist based in Poland, with 205 gigs on soundcheck a
 - D! Club, Lausanne · Fri, 23 Oct 2026
 - Club Space Miami, Miami · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- Jasna 1, Warsaw · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 I Hate Models, Patrick Mason, KI/KI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

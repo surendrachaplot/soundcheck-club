@@ -1,6 +1,6 @@
 # Antony K
 
-Antony K is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dusty Munky Bar, Cyprus on Sat, 5 Dec 2026.
+Antony K is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Dusty Munky Bar, Cyprus on Sat, 5 Dec 2026.
 
 Antony K is an electronic artist based in Cyprus, with 5 gigs on soundcheck across Berlin and Cyprus. Often billed alongside ION (CY), Kosta Kritikos and AWEN. Next up: Dusty Munky Bar, Cyprus on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Antony K is an electronic artist based in Cyprus, with 5 gigs on soundcheck acro
 
 ION (CY), Kosta Kritikos, AWEN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonyk/)*

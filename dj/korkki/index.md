@@ -1,6 +1,6 @@
 # Korkki
 
-Korkki is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Le Romandie, Lausanne on Sat, 28 Nov 2026.
+Korkki is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Romandie, Lausanne on Sat, 28 Nov 2026.
 
 Korkki is a techno and breakbeat artist based in Switzerland, with 5 gigs on soundcheck across Geneva and Lausanne. Often billed alongside 0megavybe, Braises de Velours and Dj Schnake. Next up: Le Romandie, Lausanne on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Korkki is a techno and breakbeat artist based in Switzerland, with 5 gigs on sou
 
 0megavybe, Braises de Velours, Dj Schnake
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korkki/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korkki/)*

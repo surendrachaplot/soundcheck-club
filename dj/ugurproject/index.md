@@ -1,6 +1,6 @@
 # Ugur Project
 
-Ugur Project is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Suma Han, Istanbul on Fri, 11 Dec 2026.
+Ugur Project is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Suma Han, Istanbul on Fri, 11 Dec 2026.
 
 Ugur Project is a house and techno artist based in Turkey, with 21 gigs on soundcheck across Amsterdam and Istanbul. Often billed alongside Alan Cutt, BUSSI and CARBONE BLACK. Next up: Suma Han, Istanbul on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ugur Project is a house and techno artist based in Turkey, with 21 gigs on sound
 
 Alan Cutt, BUSSI, CARBONE BLACK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurproject/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurproject/)*

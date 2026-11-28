@@ -1,6 +1,6 @@
 # Andy Hart
 
-Andy Hart is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Miscellania, Melbourne on Sun, 20 Dec 2026.
+Andy Hart is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Miscellania, Melbourne on Sun, 20 Dec 2026.
 
 Andy Hart is a house and techno artist based in Australia, with 37 gigs on soundcheck across Berlin, Melbourne, Mexico City and Tokyo and 1 more. Often billed alongside Alex Albrecht, Pjenné and Myles Mac. Next up: Miscellania, Melbourne on Sun 20 Dec.
 
@@ -27,4 +27,4 @@ Andy Hart is a house and techno artist based in Australia, with 37 gigs on sound
 
 Alex Albrecht, Pjenné, Myles Mac
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*

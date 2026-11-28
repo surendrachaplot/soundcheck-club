@@ -1,6 +1,6 @@
 # Violeta
 
-Violeta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Corner, Miami on Sat, 5 Dec 2026.
+Violeta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Corner, Miami on Sat, 5 Dec 2026.
 
 Violeta is a techno and house artist based in United States of America, with 37 gigs on soundcheck across Los Angeles and Miami. Often billed alongside Spice Crime, KUJO (US) and PROLETAR. Next up: The Corner, Miami on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Violeta is a techno and house artist based in United States of America, with 37 
 
 Spice Crime, KUJO (US), PROLETAR
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violeta/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violeta/)*

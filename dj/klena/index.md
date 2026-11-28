@@ -1,6 +1,6 @@
 # KLENA
 
-KLENA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MODULE, Copenhagen on Fri, 4 Dec 2026.
+KLENA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MODULE, Copenhagen on Fri, 4 Dec 2026.
 
 KLENA is a techno and house artist based in Spain, with 4 gigs on soundcheck across Copenhagen. Often billed alongside Sakena Ali, AZADÎ and Biesmans. Next up: MODULE, Copenhagen on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ KLENA is a techno and house artist based in Spain, with 4 gigs on soundcheck acr
 
 Sakena Ali, AZADÎ, Biesmans
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klena/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klena/)*

@@ -1,6 +1,6 @@
 # David Löhlein at KALT
 
-David Löhlein at KALT on Sat 19 Dec, Strasbourg. 1 artist: David Löhlein. See the line-up on soundcheck.
+David Löhlein at KALT on Sat 19 Dec, Strasbourg. 4 artists: Chill (FR), David Löhlein, MORSURE and Zhar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ David Löhlein at KALT on Sat 19 Dec, Strasbourg. 1 artist: David Löhlein. See 
 
 ## Line-up
 
+- Chill (FR)
 - David Löhlein
+- MORSURE
+- Zhar
 
 *Source: [soundcheck](https://soundcheck.club/e/2503978-david-l-hlein-at-kalt/)*

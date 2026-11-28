@@ -1,6 +1,6 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Inner West Warehouse, Sydney on Sat, 5 Dec 2026.
+Eden Burns is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Inner West Warehouse, Sydney on Sat, 5 Dec 2026.
 
 Eden Burns is a house and tech house artist based in New Zealand, with 63 gigs on soundcheck across Auckland, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Nice Girl, Adriana and Christopher Tubbs. Next up: TBA - Inner West Warehouse, Sydney on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Eden Burns is a house and tech house artist based in New Zealand, with 63 gigs o
 
 Nice Girl, Adriana (1), Christopher Tubbs
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

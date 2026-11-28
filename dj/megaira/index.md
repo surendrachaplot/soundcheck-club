@@ -1,6 +1,6 @@
 # Megaira
 
-Megaira is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+Megaira is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 Megaira is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Florelle, alemiko and DJ Henk. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Megaira is a trance and techno artist based in Germany, with 13 gigs on soundche
 
 Florelle, alemiko, DJ Henk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megaira/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megaira/)*

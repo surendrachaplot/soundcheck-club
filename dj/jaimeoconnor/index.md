@@ -1,6 +1,6 @@
 # Jaime O'Connor
 
-Jaime O'Connor is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at X Private Club, Madrid on Thu, 24 Dec 2026.
+Jaime O'Connor is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at X Private Club, Madrid on Thu, 24 Dec 2026.
 
 Jaime O'Connor is a tech house and house artist based in Spain, with 4 gigs on soundcheck across Madrid. Often billed alongside Rams, Alex Warp and DPAZ. Next up: X Private Club, Madrid on Thu 24 Dec.
 
@@ -20,4 +20,4 @@ Jaime O'Connor is a tech house and house artist based in Spain, with 4 gigs on s
 
 Rams, Alex Warp, DPAZ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimeoconnor/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimeoconnor/)*

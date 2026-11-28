@@ -1,6 +1,6 @@
 # Matthieu P
 
-Matthieu P is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Fitzroy, Berlin on Sat, 19 Dec 2026.
+Matthieu P is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fitzroy, Berlin on Sat, 19 Dec 2026.
 
 Matthieu P is a house and techno artist based in Germany, with 4 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside DE FEO, ADNS and Aria Santillana. Next up: Fitzroy, Berlin on Sat 19 Dec.
 
@@ -20,4 +20,4 @@ Matthieu P is a house and techno artist based in Germany, with 4 gigs on soundch
 
 DE FEO, ADNS, Aria Santillana
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieup/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieup/)*

@@ -1,6 +1,6 @@
 # Against the Grain LIVE at Bob & Barbara's at Bob and Barbara’s Lounge
 
-Against the Grain LIVE at Bob & Barbara's at Bob and Barbara’s Lounge on Mon 30 Nov, Philadelphia. 1 artist: Diamond Girl. Deep House and Funk / Soul. See the line-up on soundcheck.
+Against the Grain LIVE at Bob & Barbara's at Bob and Barbara’s Lounge on Mon 30 Nov, Philadelphia. 2 artists: Diamond Girl and DJ Joe Kiss. Deep House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Against the Grain LIVE at Bob & Barbara's at Bob and Barbara’s Lounge on Mon 3
 ## Line-up
 
 - Diamond Girl
+- DJ Joe Kiss
 
 *Source: [soundcheck](https://soundcheck.club/e/2594911-against-the-grain-live-at-bob-barbara-s-at-bob-and-barbara-s/)*

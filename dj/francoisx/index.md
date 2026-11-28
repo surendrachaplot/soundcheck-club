@@ -1,6 +1,6 @@
 # François X
 
-François X is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
+François X is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 5 Dec 2026.
 
 François X is a techno and house artist based in France, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 56 more. Often billed alongside Elise Massoni, Hashashin and Akua. Next up: RSO.BERLIN, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ François X is a techno and house artist based in France, with 162 gigs on sound
 
 Elise Massoni, Hashashin, Akua
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisx/)*

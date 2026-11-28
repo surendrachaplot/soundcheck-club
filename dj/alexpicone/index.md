@@ -1,6 +1,6 @@
 # Alex Picone
 
-Alex Picone is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Mon, 28 Dec 2026.
+Alex Picone is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Macarena Club, Barcelona on Mon, 28 Dec 2026.
 
 Alex Picone is a house and tech house artist based in Italy, with 68 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 14 more. Often billed alongside Desyn, Nick (IT) and Miki. Next up: Macarena Club, Barcelona on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Alex Picone is a house and tech house artist based in Italy, with 68 gigs on sou
 
 Desyn, Nick (IT), Miki
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpicone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpicone/)*

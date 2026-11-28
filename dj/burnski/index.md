@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Madam, Amsterdam on Sun, 6 Dec 2026.
+Burnski is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Madam, Amsterdam on Sun, 6 Dec 2026.
 
 Burnski is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Locklead and Sidney Charles. Next up: Madam, Amsterdam on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Burnski is a house and tech house artist based in United Kingdom, with 73 gigs o
 
 Kepler, Locklead, Sidney Charles
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

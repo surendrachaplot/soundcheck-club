@@ -1,14 +1,15 @@
 # ARGO (HU)
 
-ARGO (HU) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Heavy Budapest, Budapest on Sat, 28 Nov 2026.
+ARGO (HU) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Heavy Budapest, Budapest on Sat, 28 Nov 2026.
 
-ARGO (HU) is a tech house and house artist based in Hungary, with 6 gigs on soundcheck across Budapest. Often billed alongside sqto, VMLAVT CAESAR and AIRKEY. Next up: Heavy Budapest, Budapest on Sat 28 Nov.
+ARGO (HU) is a tech house and house artist based in Hungary, with 7 gigs on soundcheck across Budapest. Often billed alongside sqto, VMLAVT CAESAR and AIRKEY. Next up: Heavy Budapest, Budapest on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Heavy Budapest | Budapest |
+| Sat, 5 Dec 2026 | Kek Lo Budapest | Budapest |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ ARGO (HU) is a tech house and house artist based in Hungary, with 6 gigs on soun
 
 sqto, VMLAVT CAESAR, AIRKEY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argohu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argohu/)*

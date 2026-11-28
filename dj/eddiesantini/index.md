@@ -1,6 +1,6 @@
 # Eddie Santini
 
-Eddie Santini is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+Eddie Santini is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
 Eddie Santini is a techno and acid artist based in Canada, with 20 gigs on soundcheck across Amsterdam, Krakow, London and Toronto and 1 more. Often billed alongside Fizch, C-Star and Behrad Tehrani. Next up: TBA, Vancouver on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Eddie Santini is a techno and acid artist based in Canada, with 20 gigs on sound
 
 Fizch, C-Star, Behrad Tehrani
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiesantini/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiesantini/)*

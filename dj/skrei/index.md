@@ -1,6 +1,6 @@
 # Skrei
 
-Skrei is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Neue Zukunft, Berlin on Sun, 31 Jan 2027.
+Skrei is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Neue Zukunft, Berlin on Sun, 31 Jan 2027.
 
 Skrei is a techno and experimental artist based in Germany, with 9 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Vū, Erosive and Camilla Tarantino. Next up: Neue Zukunft, Berlin on Sun 31 Jan.
 
@@ -25,4 +25,4 @@ Skrei is a techno and experimental artist based in Germany, with 9 gigs on sound
 
 Vū, Erosive, Camilla Tarantino
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrei/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrei/)*

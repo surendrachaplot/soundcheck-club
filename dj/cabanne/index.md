@@ -1,6 +1,6 @@
 # Cabanne
 
-Cabanne is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 28 Nov 2026.
+Cabanne is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 28 Nov 2026.
 
 Cabanne is a house and minimal artist based in France, with 78 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: Frankhan Selectist, Istanbul on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Cabanne is a house and minimal artist based in France, with 78 gigs on soundchec
 
 Rhadoo, Lowris, Cesar Merveille
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cabanne/)*

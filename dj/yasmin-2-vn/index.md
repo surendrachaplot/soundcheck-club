@@ -1,6 +1,6 @@
 # YASMIN (2)
 
-YASMIN (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 12 Dec 2026.
+YASMIN (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 12 Dec 2026.
 
 YASMIN is a techno and house artist based in Vietnam, with 84 gigs on soundcheck across Bangkok, Brighton, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside Chi Min, DJ Ouch! and Goss. Next up: Luu Bar, Ho Chi Minh City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ YASMIN is a techno and house artist based in Vietnam, with 84 gigs on soundcheck
 
 Chi Min, DJ Ouch!, Goss
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin-2-vn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin-2-vn/)*

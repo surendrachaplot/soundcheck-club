@@ -1,6 +1,6 @@
 # Acicular
 
-Acicular is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 12 Dec 2026.
+Acicular is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 12 Dec 2026.
 
 Acicular is a hardcore and techno artist, with 5 gigs on soundcheck across Ghent. Often billed alongside Cierk du Nuit, Drinko and Man Outta Space. Next up: Muziekcentrum Kinky Star, Ghent on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Acicular is a hardcore and techno artist, with 5 gigs on soundcheck across Ghent
 
 Cierk du Nuit, Drinko, Man Outta Space
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acicular/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acicular/)*

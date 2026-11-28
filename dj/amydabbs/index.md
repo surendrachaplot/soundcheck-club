@@ -1,14 +1,15 @@
 # Amy Dabbs
 
-Amy Dabbs is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
+Amy Dabbs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
 
-Amy Dabbs is a house and techno artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 13 more. Often billed alongside Ady Toledano, Vio PRG and Juan Ramos. Next up: Renate, Berlin on Sat 12 Dec.
+Amy Dabbs is a house and techno artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 14 more. Often billed alongside Ady Toledano, Vio PRG and Juan Ramos. Next up: Renate, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Renate | Berlin |
+| Tue, 29 Dec 2026 | Distillery | Leipzig |
 | Thu, 31 Dec 2026 | Renate | Berlin |
 | Fri, 8 Jan 2027 | WDM | Hannover |
 
@@ -27,4 +28,4 @@ Amy Dabbs is a house and techno artist based in United Kingdom, with 91 gigs on 
 
 Ady Toledano, Vio PRG, Juan Ramos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amydabbs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amydabbs/)*

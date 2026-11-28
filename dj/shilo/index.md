@@ -1,6 +1,6 @@
 # Shilo
 
-Shilo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cova, Hamburg on Thu, 31 Dec 2026.
+Shilo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Cova, Hamburg on Thu, 31 Dec 2026.
 
 Shilo is a trance and techno artist based in Germany, with 25 gigs on soundcheck across Berlin and Hamburg. Often billed alongside CHICHO, Pamadii and Alexej. Next up: La Cova, Hamburg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Shilo is a trance and techno artist based in Germany, with 25 gigs on soundcheck
 
 CHICHO, Pamadii, Alexej
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shilo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shilo/)*

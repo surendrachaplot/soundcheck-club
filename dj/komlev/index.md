@@ -1,14 +1,15 @@
 # KOMLEV
 
-KOMLEV is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Apotheke, Los Angeles on Sun, 29 Nov 2026.
+KOMLEV is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Apotheke, Los Angeles on Sun, 29 Nov 2026.
 
-KOMLEV is a house and deep house artist based in Ukraine, with 7 gigs on soundcheck across Los Angeles. Often billed alongside Stepushin, nanaceba and Aaron Paar. Next up: Apotheke, Los Angeles on Sun 29 Nov.
+KOMLEV is a house and deep house artist based in Ukraine, with 8 gigs on soundcheck across Los Angeles. Often billed alongside Stepushin, nanaceba and Aaron Paar. Next up: Apotheke, Los Angeles on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Apotheke | Los Angeles |
+| Fri, 15 Jan 2027 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ KOMLEV is a house and deep house artist based in Ukraine, with 7 gigs on soundch
 
 Stepushin, nanaceba, Aaron Paar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/komlev/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/komlev/)*

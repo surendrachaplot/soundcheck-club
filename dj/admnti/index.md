@@ -1,14 +1,15 @@
 # ADMNTi
 
-ADMNTi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
+ADMNTi is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
-ADMNTi is a house and tech house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 10 more. Often billed alongside Just Jam, Laidlaw and PACH. Next up: DRUMSHEDS, London on Sat 28 Nov.
+ADMNTi is a house and tech house artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 10 more. Often billed alongside Just Jam, Laidlaw and PACH. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
+| Sat, 28 Nov 2026 | NUMBER 90 LONDON | London |
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
@@ -26,4 +27,4 @@ ADMNTi is a house and tech house artist based in United Kingdom, with 65 gigs on
 
 Just Jam, Laidlaw, PACH
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*

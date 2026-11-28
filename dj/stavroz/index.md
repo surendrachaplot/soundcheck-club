@@ -1,6 +1,6 @@
 # Stavroz
 
-Stavroz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kollektivet Livet Bar & Scen, Stockholm on Sat, 20 Feb 2027.
+Stavroz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Kollektivet Livet Bar & Scen, Stockholm on Sat, 20 Feb 2027.
 
 Stavroz is a house and electronica artist based in Belgium, with 68 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 23 more. Often billed alongside Mira, Lola Bozzano and Myd. Next up: Kollektivet Livet Bar & Scen, Stockholm on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Stavroz is a house and electronica artist based in Belgium, with 68 gigs on soun
 
 Mira, Lola Bozzano, Myd
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*

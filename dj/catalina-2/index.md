@@ -1,6 +1,6 @@
 # Catalina (2)
 
-Catalina (2) is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Post Bar, Helsinki on Fri, 11 Dec 2026.
+Catalina (2) is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Post Bar, Helsinki on Fri, 11 Dec 2026.
 
 Catalina is an electronica and electro artist based in Argentina, with 5 gigs on soundcheck across Barcelona and Helsinki. Often billed alongside COULIN, Ana Alves and Bojak. Next up: Post Bar, Helsinki on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Catalina is an electronica and electro artist based in Argentina, with 5 gigs on
 
 COULIN, Ana Alves, Bojak
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina-2/)*

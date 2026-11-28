@@ -1,6 +1,6 @@
 # House Gospel Choir
 
-House Gospel Choir is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Black Pit Farm Estate, South-east on Fri, 30 Jul 2027.
+House Gospel Choir is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Black Pit Farm Estate, South-east on Fri, 30 Jul 2027.
 
 House Gospel Choir is a house and funk / soul artist based in United Kingdom, with 24 gigs on soundcheck across Birmingham, Edinburgh, Glasgow and Ibiza and 5 more. Often billed alongside Craig Charles, Dimitri From Paris and Ell Murphy. Next up: Black Pit Farm Estate, South East on Fri 30 Jul.
 
@@ -25,4 +25,4 @@ House Gospel Choir is a house and funk / soul artist based in United Kingdom, wi
 
 Craig Charles, Dimitri From Paris, Ell Murphy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housegospelchoir/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housegospelchoir/)*

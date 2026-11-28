@@ -1,13 +1,14 @@
 # Aslan Venom
 
-Aslan Venom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
+Aslan Venom is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Renate, Berlin on Fri, 11 Dec 2026.
 
-Aslan Venom is a techno and house artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Einfach Taffo, Marc Eisenberg and Better Call Paul. Next up: TBA - instagram | telegram: @klangsubstanz, Berlin on Sat 12 Dec.
+Aslan Venom is a techno and house artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Einfach Taffo, Marc Eisenberg and Better Call Paul. Next up: Renate, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Renate | Berlin |
 | Sat, 12 Dec 2026 | TBA - instagram / telegram: @klangsubstanz | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aslan Venom is a techno and house artist based in Germany, with 12 gigs on sound
 
 Einfach Taffo, Marc Eisenberg, Better Call Paul
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aslanvenom/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aslanvenom/)*

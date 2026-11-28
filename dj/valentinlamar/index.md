@@ -1,6 +1,6 @@
 # Valentin Lamar
 
-Valentin Lamar is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jupiter Disco, New York City on Sun, 27 Dec 2026.
+Valentin Lamar is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Jupiter Disco, New York City on Sun, 27 Dec 2026.
 
 Valentin Lamar is a house and dub techno artist based in United States of America, with 58 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Adam R, JLMR and esoe. Next up: Jupiter Disco, New York City on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Valentin Lamar is a house and dub techno artist based in United States of Americ
 
 Adam R, JLMR, esoe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinlamar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinlamar/)*

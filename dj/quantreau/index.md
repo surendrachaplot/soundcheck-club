@@ -1,6 +1,6 @@
 # Quantreau
 
-Quantreau is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
+Quantreau is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Honey's, New York City on Sat, 28 Nov 2026.
 
 Quantreau is a house and deep house artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside DJ Fang, K.mal and D.D. Curry. Next up: Honey's, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Quantreau is a house and deep house artist based in United States of America, wi
 
 DJ Fang, K.mal, D.D. Curry
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quantreau/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quantreau/)*

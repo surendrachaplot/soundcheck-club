@@ -1,6 +1,6 @@
 # MISHSQUISH
 
-MISHSQUISH is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
+MISHSQUISH is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Sydney on Sat, 12 Dec 2026.
 
 MISHSQUISH is a techno and drum & bass artist based in Australia, with 5 gigs on soundcheck across Sydney. Often billed alongside Ashlea Milinkovic, Atilla the Hunni and Bex. Next up: TBA, Sydney on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ MISHSQUISH is a techno and drum & bass artist based in Australia, with 5 gigs on
 
 Ashlea Milinkovic, Atilla the Hunni, Bex
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishsquish/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishsquish/)*

@@ -1,6 +1,6 @@
 # DJ Pabloma Blanca
 
-DJ Pabloma Blanca is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Absturz, Leipzig on Fri, 11 Dec 2026.
+DJ Pabloma Blanca is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Absturz, Leipzig on Fri, 11 Dec 2026.
 
 DJ Pabloma Blanca is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Leipzig. Often billed alongside DJ Bürgergeld, parallelprocess and Blank Vision. Next up: Absturz, Leipzig on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DJ Pabloma Blanca is a trance and techno artist based in Germany, with 14 gigs o
 
 DJ Bürgergeld, parallelprocess, Blank Vision
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpablomablanca/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpablomablanca/)*

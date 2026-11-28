@@ -1,6 +1,6 @@
 # Sistek
 
-Sistek is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sowa Power Station, Boston on Thu, 31 Dec 2026.
+Sistek is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sowa Power Station, Boston on Thu, 31 Dec 2026.
 
 Sistek is an afro house and house artist, with 42 gigs on soundcheck across Barcelona, Basel, Berlin and Boston and 21 more. Often billed alongside Chelina Manuhutu, ARODES and Cristoph. Next up: Sowa Power Station, Boston on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Sistek is an afro house and house artist, with 42 gigs on soundcheck across Barc
 
 Chelina Manuhutu, ARODES, Cristoph
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*

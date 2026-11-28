@@ -1,6 +1,6 @@
 # Ka Nalu
 
-Ka Nalu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 15 Jan 2027.
+Ka Nalu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 15 Jan 2027.
 
 Ka Nalu is a house and techno artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside nik-ey, A For Alpha and AMORAL. Next up: Shelter Amsterdam, Amsterdam on Fri 15 Jan.
 
@@ -21,4 +21,4 @@ Ka Nalu is a house and techno artist based in Netherlands, with 5 gigs on soundc
 
 nik-ey, A For Alpha, AMORAL
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanalu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanalu/)*

@@ -1,6 +1,6 @@
 # Minh (2)
 
-Minh (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 12 Dec 2026.
+Minh (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 12 Dec 2026.
 
 Minh is a techno and house artist based in Vietnam, with 16 gigs on soundcheck across Beijing, Hanoi, Ho Chi Minh City and Shenzhen. Often billed alongside LIUYANG, ANNSOLO and Anh Vy. Next up: Luu Bar, Ho Chi Minh City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Minh is a techno and house artist based in Vietnam, with 16 gigs on soundcheck a
 
 LIUYANG, ANNSOLO, Anh Vy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minh-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minh-2/)*

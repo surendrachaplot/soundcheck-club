@@ -1,6 +1,6 @@
 # Zeph Miles
 
-Zeph Miles is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Onyx (E1), London on Sat, 19 Dec 2026.
+Zeph Miles is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Onyx (E1), London on Sat, 19 Dec 2026.
 
 Zeph Miles is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Bristol and London. Often billed alongside Acolyte, Anny (UK) and Kaizah. Next up: Onyx (E1), London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Zeph Miles is a drum & bass and jungle artist based in United Kingdom, with 18 g
 
 Acolyte, Anny (UK), Kaizah
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zephmiles/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zephmiles/)*

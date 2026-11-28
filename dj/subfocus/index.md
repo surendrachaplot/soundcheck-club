@@ -1,6 +1,6 @@
 # Sub Focus
 
-Sub Focus is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Brno Exhibition Centre, Brno on Sat, 4 Dec 2027.
+Sub Focus is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Brno Exhibition Centre, Brno on Sat, 4 Dec 2027.
 
 Sub Focus is a drum & bass and bass artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 40 more. Often billed alongside Culture Shock, Dimension and Hedex. Next up: Brno Exhibition Centre, Brno on Sat 4 Dec.
 
@@ -25,4 +25,4 @@ Sub Focus is a drum & bass and bass artist based in United Kingdom, with 84 gigs
 
 Culture Shock, Dimension, Hedex
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*

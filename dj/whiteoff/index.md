@@ -1,6 +1,6 @@
 # WHITE OFF
 
-WHITE OFF is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Amnesia Milano, Milan on Sat, 5 Dec 2026.
+WHITE OFF is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Amnesia Milano, Milan on Sat, 5 Dec 2026.
 
 WHITE OFF is a house and tech house artist based in Italy, with 7 gigs on soundcheck across Milan and Nice. Often billed alongside Archie Hamilton, CLELIA and Cuartero. Next up: Amnesia Milano, Milan on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ WHITE OFF is a house and tech house artist based in Italy, with 7 gigs on soundc
 
 Archie Hamilton, CLELIA, Cuartero
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteoff/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteoff/)*

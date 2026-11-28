@@ -1,6 +1,6 @@
 # Baroma
 
-Baroma is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bredouille, Berlin on Sat, 5 Dec 2026.
+Baroma is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bredouille, Berlin on Sat, 5 Dec 2026.
 
 Baroma is a house and electronica artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Juan Diego Drouet, Sean Gonzalez and DJMZK. Next up: Bredouille, Berlin on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Baroma is a house and electronica artist based in Germany, with 7 gigs on soundc
 
 Juan Diego Drouet, Sean Gonzalez, DJMZK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baroma/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baroma/)*

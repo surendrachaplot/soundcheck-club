@@ -1,6 +1,6 @@
 # Orazio Rispo
 
-Orazio Rispo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at H0L0, New York City on Sat, 28 Nov 2026.
+Orazio Rispo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at H0L0, New York City on Sat, 28 Nov 2026.
 
 Orazio Rispo is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Naples, New York City and Paris. Often billed alongside O.BEE, Maksim and Shvili. Next up: H0L0, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Orazio Rispo is a house and techno artist based in United States of America, wit
 
 O.BEE, Maksim, Shvili
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oraziorispo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oraziorispo/)*

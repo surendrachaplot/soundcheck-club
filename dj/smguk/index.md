@@ -1,8 +1,8 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stealth, Nottingham on Fri, 4 Dec 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Stealth, Nottingham on Fri, 4 Dec 2026.
 
-SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Leipzig, London and Madrid and 8 more. Often billed alongside Waeys, Simula and Calyx. Next up: Stealth, Nottingham on Fri 4 Dec.
+SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 16 gigs on soundcheck across Brighton, Bristol, Leipzig and London and 9 more. Often billed alongside Simula, Waeys and Jakes. Next up: Stealth, Nottingham on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 15 gig
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Stealth | Nottingham |
 | Sat, 5 Dec 2026 | Mia Mao | Paris |
+| Fri, 29 Jan 2027 | Quarters | Brighton |
 | Sat, 6 Feb 2027 | The Cause | London |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
@@ -26,6 +27,6 @@ SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 15 gig
 
 ## Shares bills with
 
-Waeys, Simula, Calyx
+Simula, Waeys, Jakes
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

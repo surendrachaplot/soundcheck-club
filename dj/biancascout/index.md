@@ -1,6 +1,6 @@
 # Bianca Scout
 
-Bianca Scout is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Hotel, Manchester on Thu, 10 Dec 2026.
+Bianca Scout is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The White Hotel, Manchester on Thu, 10 Dec 2026.
 
 Bianca Scout is an experimental and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 11 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: The White Hotel, Manchester on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Bianca Scout is an experimental and electronica artist based in United Kingdom, 
 
 Rainy Miller, 2K88, Lauren Duffus
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*

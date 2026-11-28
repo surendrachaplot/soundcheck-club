@@ -1,20 +1,20 @@
 # Lino Fuso
 
-Lino Fuso is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at E1, London on Fri, 27 Nov 2026.
+Lino Fuso is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
 
-Lino Fuso is a techno and tech house artist based in Italy, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: E1, London on Fri 27 Nov.
+Lino Fuso is a techno and tech house artist based in Italy, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: Common Ground, Naples on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | E1 | London |
 | Sat, 28 Nov 2026 | Common Ground | Naples |
 | Thu, 25 Feb 2027 | City Hall | Barcelona |
 | Sat, 26 Jun 2027 | TBA - Secret Location (Madrid) | Madrid |
 
 ## Recently played
 
+- E1, London · Fri, 27 Nov 2026
 - TBA - FREQUENZA 79, Naples · Sat, 31 Oct 2026
 - John Doe, Amsterdam · Sun, 25 Oct 2026
 - E1, London · Fri, 23 Oct 2026
@@ -22,10 +22,9 @@ Lino Fuso is a techno and tech house artist based in Italy, with 76 gigs on soun
 - Weekend, Berlin · Fri, 17 Jul 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 3 Jul 2026
 - E1, London · Sat, 27 Jun 2026
-- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Cambric, Alex Sharp, ADRIANNA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*

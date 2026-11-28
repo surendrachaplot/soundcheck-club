@@ -1,6 +1,6 @@
 # Adrien Calvet
 
-Adrien Calvet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Goya Social Club, Madrid on Fri, 11 Dec 2026.
+Adrien Calvet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Goya Social Club, Madrid on Fri, 11 Dec 2026.
 
 Adrien Calvet is a house and techno artist based in France, with 59 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 24 more. Often billed alongside Occibel, Emi Ömar and HearThug. Next up: Goya Social Club, Madrid on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Adrien Calvet is a house and techno artist based in France, with 59 gigs on soun
 
 Occibel, Emi Ömar, HearThug
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*

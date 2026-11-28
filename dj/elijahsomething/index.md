@@ -1,6 +1,6 @@
 # Elijah Something
 
-Elijah Something is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Elijah Something is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Elijah Something is a house and techno artist based in Australia, with 56 gigs on soundcheck across Amsterdam, Bali, Beijing and Byron Bay and 7 more. Often billed alongside Cassette, Caleb Jackson and Litmus. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -10,7 +10,7 @@ Elijah Something is a house and techno artist based in Australia, with 56 gigs o
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
-| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
+| Sat, 27 Feb 2027 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Elijah Something is a house and techno artist based in Australia, with 56 gigs o
 
 Cassette, Caleb Jackson, Litmus
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*

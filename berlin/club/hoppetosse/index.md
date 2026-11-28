@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Betriebsfeier" on Fri, 27 Nov 2026.
+Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Betriebsfeier" on Fri, 27 Nov 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including 3RDV, KT, Ace Vision and Adi (CO) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wi
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

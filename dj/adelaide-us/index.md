@@ -1,6 +1,6 @@
 # Adelaide (1)
 
-Adelaide (1) is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
+Adelaide (1) is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
 
 Adelaide is a club and afrobeat artist based in United States of America, with 6 gigs on soundcheck across Boston and New York City. Often billed alongside Christinathesaintt, zzzzach and Alexandr. Next up: Paragon, New York City on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Adelaide is a club and afrobeat artist based in United States of America, with 6
 
 Christinathesaintt, zzzzach, Alexandr
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelaide-us/)*

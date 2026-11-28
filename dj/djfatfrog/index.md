@@ -1,6 +1,6 @@
 # DJ Fat Frog
 
-DJ Fat Frog is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
+DJ Fat Frog is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 DJ Fat Frog is a jungle and house artist based in United States of America, with 44 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside satandoll, dj 5spice and AG. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DJ Fat Frog is a jungle and house artist based in United States of America, with
 
 satandoll, dj 5spice, AG (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfatfrog/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfatfrog/)*

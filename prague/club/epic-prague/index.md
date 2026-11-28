@@ -1,6 +1,6 @@
 # Epic Prague
 
-Epic Prague is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Erasmus Winter Party" on Wed, 2 Dec 2026.
+Epic Prague is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Erasmus Winter Party" on Wed, 2 Dec 2026.
 
 Epic Prague is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including Dimitri K and Yoshiko. See dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
 
@@ -15,4 +15,4 @@ Epic Prague is a music venue in Prague listed on soundcheck. 2 upcoming gigs, wi
 
 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia, Prague
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*

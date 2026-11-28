@@ -1,14 +1,13 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 20 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Horse Meat Disco is a House and Disco artist with 19 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Amber's, Manchester on Sat, 28 Nov 2026.
 
-Horse Meat Disco is a house and disco artist based in United Kingdom, with 432 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 67 more. Often billed alongside Luke Howard, Severino and James Hillard. Next up: Verbier, Switzerland on Fri 20 Nov.
+Horse Meat Disco is a house and disco artist based in United Kingdom, with 432 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 67 more. Often billed alongside Luke Howard, Severino and James Hillard. Next up: Amber's, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 28 Nov 2026 | Amber's | Manchester |
 | Sun, 29 Nov 2026 | The Eagle | London |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
@@ -20,6 +19,7 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 432 g
 | Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 | Fri, 1 Jan 2027 | Patterns | Brighton |
 | Sun, 3 Jan 2027 | Museu do Amanhã | Rio de Janeiro |
+| Sat, 16 Jan 2027 | MAD Club Live | Miami |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 432 g
 
 Luke Howard, Severino, James Hillard
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

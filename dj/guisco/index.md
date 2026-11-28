@@ -1,6 +1,6 @@
 # Guisco
 
-Guisco is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
+Guisco is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
 
 Guisco is a deep house and house artist, with 27 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Joanna K, Remsess and Triad (Es). Next up: M7 Club, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Guisco is a deep house and house artist, with 27 gigs on soundcheck across Barce
 
 Joanna K, Remsess, Triad (Es)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guisco/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guisco/)*

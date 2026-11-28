@@ -1,6 +1,6 @@
 # Swanky NOD
 
-Swanky NOD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
+Swanky NOD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
 Swanky NOD is a techno and house artist based in Germany, with 13 gigs on soundcheck across Stuttgart and Vienna. Often billed alongside ATNIL, MIA MIA and KAROLINA. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Swanky NOD is a techno and house artist based in Germany, with 13 gigs on soundc
 
 ATNIL, MIA MIA, KAROLINA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swankynod/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swankynod/)*

@@ -1,6 +1,6 @@
 # Always Late
 
-Always Late is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Crust Basement, Athens on Sat, 28 Nov 2026.
+Always Late is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Crust Basement, Athens on Sat, 28 Nov 2026.
 
 Always Late is a house and minimal artist based in Greece, with 72 gigs on soundcheck across Amsterdam, Athens, Bucharest and Greece and 2 more. Often billed alongside Jonn, Cap and Priku. Next up: Crust Basement, Athens on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Always Late is a house and minimal artist based in Greece, with 72 gigs on sound
 
 Jonn, Cap, Priku
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alwayslate/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alwayslate/)*

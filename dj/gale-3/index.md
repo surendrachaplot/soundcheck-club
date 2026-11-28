@@ -1,6 +1,6 @@
 # Gale (3)
 
-Gale (3) is a Industrial and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Laboratorio Octogon, Madrid on Fri, 11 Dec 2026.
+Gale (3) is a Industrial and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Laboratorio Octogon, Madrid on Fri, 11 Dec 2026.
 
 Gale is an industrial and hardcore artist based in Spain, with 4 gigs on soundcheck across Madrid. Often billed alongside Abraxas, Dragoş and KITAE. Next up: Laboratorio Octogon, Madrid on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Gale is an industrial and hardcore artist based in Spain, with 4 gigs on soundch
 
 Abraxas, Dragoş, KITAE
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gale-3/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gale-3/)*

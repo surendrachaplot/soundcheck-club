@@ -1,6 +1,6 @@
 # Camillo (2)
 
-Camillo (2) is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bonnefooi, Brussels on Fri, 18 Dec 2026.
+Camillo (2) is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bonnefooi, Brussels on Fri, 18 Dec 2026.
 
 Camillo is an electronica and club artist based in Italy, with 7 gigs on soundcheck across Barcelona, Brussels, Milan and Rome. Often billed alongside Chris Ferreira, DAISY and Dana Kuehr. Next up: Bonnefooi, Brussels on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Camillo is an electronica and club artist based in Italy, with 7 gigs on soundch
 
 Chris Ferreira, DAISY, Dana Kuehr
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo-2/)*

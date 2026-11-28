@@ -1,0 +1,15 @@
+# DRS & Friends Live at The Jazz Cafe
+
+DRS & Friends Live at The Jazz Cafe on Sat 5 Dec, London. 1 artist: DRS. Drum & Bass and Hip-Hop. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 5 Dec 2026 |
+| Venue | The Jazz Cafe |
+| City | London |
+
+## Line-up
+
+- DRS
+
+*Source: [soundcheck](https://soundcheck.club/e/2542117-drs-friends-live-at-the-jazz-cafe/)*

@@ -1,6 +1,6 @@
 # The Orb
 
-The Orb is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Joule, Osaka on Fri, 25 Dec 2026.
+The Orb is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Joule, Osaka on Fri, 25 Dec 2026.
 
 The Orb is an electronica and house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Athens, Bratislava and Brighton and 9 more. Often billed alongside Young Marco, Abdullah Miniawy and Anz. Next up: Joule, Osaka on Fri 25 Dec.
 
@@ -26,4 +26,4 @@ The Orb is an electronica and house artist based in United Kingdom, with 26 gigs
 
 Young Marco, Abdullah Miniawy, Anz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theorb/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theorb/)*

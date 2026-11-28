@@ -1,6 +1,6 @@
 # Petit Biscuit
 
-Petit Biscuit is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Plage De Torcy, Paris on Sun, 16 May 2027.
+Petit Biscuit is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Plage De Torcy, Paris on Sun, 16 May 2027.
 
 Petit Biscuit is a house and ambient artist based in France, with 11 gigs on soundcheck across Byron Bay, Indonesia, Los Angeles and Melbourne and 5 more. Often billed alongside 2HOT2PLAY, Acid Arab and Alycia Bezgo. Next up: Plage De Torcy, Paris on Sun 16 May.
 
@@ -25,4 +25,4 @@ Petit Biscuit is a house and ambient artist based in France, with 11 gigs on sou
 
 2HOT2PLAY, Acid Arab, Alycia Bezgo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*

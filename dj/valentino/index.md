@@ -1,6 +1,6 @@
 # Valentino
 
-Valentino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vino Disco, Montreal on Fri, 18 Dec 2026.
+Valentino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vino Disco, Montreal on Fri, 18 Dec 2026.
 
 Valentino is a techno and house artist based in Switzerland, with 14 gigs on soundcheck across Barcelona, Guadalajara, Hamburg and Ibiza and 5 more. Often billed alongside Indira Paganotto, pasci and CamelPhat. Next up: Vino Disco, Montreal on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Valentino is a techno and house artist based in Switzerland, with 14 gigs on sou
 
 Indira Paganotto, pasci, CamelPhat
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentino/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentino/)*

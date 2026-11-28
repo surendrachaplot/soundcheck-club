@@ -1,6 +1,6 @@
 # leisure fm
 
-leisure fm is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
+leisure fm is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
 
 leisure fm is an experimental and club artist based in Poland, with 12 gigs on soundcheck across London. Often billed alongside Conrad Pack, Gábor Lázár and Harietta. Next up: TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu 18 Feb.
 
@@ -26,4 +26,4 @@ leisure fm is an experimental and club artist based in Poland, with 12 gigs on s
 
 Conrad Pack, Gábor Lázár, Harietta
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leisurefm/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leisurefm/)*

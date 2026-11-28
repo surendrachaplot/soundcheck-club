@@ -1,14 +1,15 @@
 # Melania Wonder
 
-Melania Wonder is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SPOT SECRETO, Santiago on Sat, 28 Nov 2026.
+Melania Wonder is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - SPOT SECRETO, Santiago on Sat, 28 Nov 2026.
 
-Melania Wonder is a techno and house artist based in Argentina, with 55 gigs on soundcheck across Berlin, Buenos Aires, Mexico City and Santiago and 1 more. Often billed alongside Katalina Schwarz, NSPERGER and Elias Deepman. Next up: TBA - SPOT SECRETO, Santiago on Sat 28 Nov.
+Melania Wonder is a techno and house artist based in Argentina, with 56 gigs on soundcheck across Berlin, Buenos Aires, Mexico City and Santiago and 1 more. Often billed alongside Katalina Schwarz, NSPERGER and Elias Deepman. Next up: TBA - SPOT SECRETO, Santiago on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA - SPOT SECRETO | Santiago |
+| Fri, 4 Dec 2026 | Club 1 | Santiago |
 | Sun, 6 Dec 2026 | Parque Ciudad Empresarial | Santiago |
 
 ## Recently played
@@ -26,4 +27,4 @@ Melania Wonder is a techno and house artist based in Argentina, with 55 gigs on 
 
 Katalina Schwarz, NSPERGER, Elias Deepman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*

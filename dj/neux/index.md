@@ -1,6 +1,6 @@
 # NEUX
 
-NEUX is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
+NEUX is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
 NEUX is a techno and tech house artist based in Georgia, with 95 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 27 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ NEUX is a techno and tech house artist based in Georgia, with 95 gigs on soundch
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

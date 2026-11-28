@@ -1,20 +1,20 @@
 # Fischmonger
 
-Fischmonger is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 27 Nov 2026.
+Fischmonger is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 4 Dec 2026.
 
-Fischmonger is a techno and hardcore artist based in China, with 66 gigs on soundcheck across Amsterdam, Beijing, Berlin and Freiburg and 8 more. Often billed alongside SHU, Meguru and PRYMARA. Next up: Reactor Shanghai, Shanghai on Fri 27 Nov.
+Fischmonger is a techno and hardcore artist based in China, with 66 gigs on soundcheck across Amsterdam, Beijing, Berlin and Freiburg and 8 more. Often billed alongside SHU, Meguru and PRYMARA. Next up: Tempio del Futuro Perduto, Milan on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Reactor Shanghai | Shanghai |
 | Fri, 4 Dec 2026 | Tempio del Futuro Perduto | Milan |
 | Sat, 5 Dec 2026 | Alte Kaserne | Zurich |
 | Wed, 16 Dec 2026 | nachbar | Amsterdam |
 
 ## Recently played
 
+- Reactor Shanghai, Shanghai · Fri, 27 Nov 2026
 - Abyss Shanghai, Shanghai · Sat, 7 Nov 2026
 - Reactor Shanghai, Shanghai · Sat, 24 Oct 2026
 - Abyss Shanghai, Shanghai · Sat, 17 Oct 2026
@@ -22,10 +22,9 @@ Fischmonger is a techno and hardcore artist based in China, with 66 gigs on soun
 - Mushroom, Hong Kong · Sat, 15 Aug 2026
 - OIL Club, Shenzhen · Fri, 14 Aug 2026
 - Abyss Shanghai, Shanghai · Sat, 8 Aug 2026
-- Abyss Shanghai, Shanghai · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 SHU (2), Meguru, PRYMARA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*

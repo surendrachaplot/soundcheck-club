@@ -1,6 +1,6 @@
 # Shakti (US)
 
-Shakti (US) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elektricity, Detroit on Fri, 11 Dec 2026.
+Shakti (US) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Elektricity, Detroit on Fri, 11 Dec 2026.
 
 Shakti (US) is a techno and industrial artist based in United States of America, with 6 gigs on soundcheck across Detroit. Often billed alongside Remnant, Augustus Williams and Brent Shay. Next up: Elektricity, Detroit on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Shakti (US) is a techno and industrial artist based in United States of America,
 
 Remnant, Augustus Williams, Brent Shay
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-us/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-us/)*

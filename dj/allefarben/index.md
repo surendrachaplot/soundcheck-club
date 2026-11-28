@@ -1,6 +1,6 @@
 # Alle Farben
 
-Alle Farben is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MÄX, Zurich on Sat, 5 Dec 2026.
+Alle Farben is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MÄX, Zurich on Sat, 5 Dec 2026.
 
 Alle Farben is a techno and tech house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Bangkok and Basel and 13 more. Often billed alongside Noel Holler, LOVRA and Lahos. Next up: MÄX, Zurich on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Alle Farben is a techno and tech house artist based in Germany, with 48 gigs on 
 
 Noel Holler, LOVRA, Lahos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*

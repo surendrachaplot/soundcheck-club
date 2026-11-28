@@ -1,6 +1,6 @@
 # Joey Lightbulb
 
-Joey Lightbulb is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Corner Hotel, Melbourne on Fri, 18 Dec 2026.
+Joey Lightbulb is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Corner Hotel, Melbourne on Fri, 18 Dec 2026.
 
 Joey Lightbulb is a house and disco artist based in Australia, with 17 gigs on soundcheck across Melbourne. Often billed alongside Alan Braxe, Amber Ferraro and Anz. Next up: The Corner Hotel, Melbourne on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Joey Lightbulb is a house and disco artist based in Australia, with 17 gigs on s
 
 Alan Braxe, Amber Ferraro, Anz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylightbulb/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylightbulb/)*

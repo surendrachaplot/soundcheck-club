@@ -1,6 +1,6 @@
 # Nepōmuk
 
-Nepōmuk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+Nepōmuk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
 Nepōmuk is a techno and house artist based in Germany, with 21 gigs on soundcheck across Belgrade, Berlin, Bratislava and Cologne and 5 more. Often billed alongside Melchiorr, IZZYA and Punktmidi. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Nepōmuk is a techno and house artist based in Germany, with 21 gigs on soundche
 
 Melchiorr, IZZYA, Punktmidi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk5/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk5/)*

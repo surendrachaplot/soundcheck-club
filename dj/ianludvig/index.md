@@ -1,6 +1,6 @@
 # Ian Ludvig
 
-Ian Ludvig is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Sala Groove, Madrid on Sat, 12 Dec 2026.
+Ian Ludvig is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala Groove, Madrid on Sat, 12 Dec 2026.
 
 Ian Ludvig is a house and deep house artist, with 5 gigs on soundcheck across Dublin and Madrid. Often billed alongside Joey Daniel, Maik Miroux and Pablo Santos. Next up: Sala Groove, Madrid on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Ian Ludvig is a house and deep house artist, with 5 gigs on soundcheck across Du
 
 Joey Daniel, Maik Miroux, Pablo Santos
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianludvig/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianludvig/)*

@@ -1,6 +1,6 @@
 # Jesse Calosso
 
-Jesse Calosso is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fabrik, Madrid on Sat, 2 Jan 2027.
+Jesse Calosso is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fabrik, Madrid on Sat, 2 Jan 2027.
 
 Jesse Calosso is a tech house and house artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Barcelona, Boston and Bucharest and 17 more. Often billed alongside Jean Pierre, The Martinez Brothers and AJ Christou. Next up: Fabrik, Madrid on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Jesse Calosso is a tech house and house artist based in United States of America
 
 Jean Pierre, The Martinez Brothers, AJ Christou
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessecalosso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessecalosso/)*

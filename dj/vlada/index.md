@@ -1,6 +1,6 @@
 # Vlada
 
-Vlada is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ring, Seoul on Sat, 28 Nov 2026.
+Vlada is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ring, Seoul on Sat, 28 Nov 2026.
 
 Vlada is a techno and house artist based in Russia, with 228 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 66 more. Often billed alongside Vaahzer, Kia (AU) and Aurora Halal. Next up: Ring, Seoul on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Vlada is a techno and house artist based in Russia, with 228 gigs on soundcheck 
 
 Vaahzer, Kia (AU), Aurora Halal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

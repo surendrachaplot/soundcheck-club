@@ -1,6 +1,6 @@
 # LATO
 
-LATO is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Glove That Fits, London on Sat, 5 Dec 2026.
+LATO is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Glove That Fits, London on Sat, 5 Dec 2026.
 
 LATO is a techno and industrial artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Glasgow and London. Often billed alongside ADRIAN LECA, Ting Run Run and ISO YSO. Next up: The Glove That Fits, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ LATO is a techno and industrial artist based in United Kingdom, with 18 gigs on 
 
 ADRIAN LECA, Ting Run Run, ISO YSO
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lato/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lato/)*

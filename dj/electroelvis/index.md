@@ -1,6 +1,6 @@
 # Electro Elvis
 
-Electro Elvis is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Old Blue Last, London on Sat, 19 Dec 2026.
+Electro Elvis is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Old Blue Last, London on Sat, 19 Dec 2026.
 
 Electro Elvis is an acid and electro artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Radioactive Man, ARA-U and Mark Broom. Next up: The Old Blue Last, London on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Electro Elvis is an acid and electro artist based in United Kingdom, with 5 gigs
 
 Radioactive Man, ARA-U, Mark Broom
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electroelvis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electroelvis/)*

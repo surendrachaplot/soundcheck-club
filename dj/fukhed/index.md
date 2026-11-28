@@ -1,14 +1,14 @@
 # FUKHED
 
-FUKHED is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mudgeeraba Showground, Gold-coast on Sun, 27 Feb 2028.
+FUKHED is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mudgeeraba Showground, Gold-coast on Sat, 27 Feb 2027.
 
-FUKHED is a techno and house artist based in Australia, with 65 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Berlin and 14 more. Often billed alongside dameeeela, SPFDJ and cera. Next up: Mudgeeraba Showground, Gold Coast on Sun 27 Feb.
+FUKHED is a techno and house artist based in Australia, with 65 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Berlin and 14 more. Often billed alongside dameeeela, SPFDJ and cera. Next up: Mudgeeraba Showground, Gold Coast on Sat 27 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
+| Sat, 27 Feb 2027 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ FUKHED is a techno and house artist based in Australia, with 65 gigs on soundche
 
 dameeeela, SPFDJ, cera
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*

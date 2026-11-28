@@ -1,6 +1,6 @@
 # Stenny
 
-Stenny is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+Stenny is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
 Stenny is a techno and house artist based in Italy, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Stenny is a techno and house artist based in Italy, with 141 gigs on soundcheck 
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

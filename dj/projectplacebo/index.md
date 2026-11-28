@@ -1,6 +1,6 @@
 # Project Placebo
 
-Project Placebo is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 4 Dec 2026.
+Project Placebo is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Central Sector Tirana, Tirana on Fri, 4 Dec 2026.
 
 Project Placebo is a techno and minimal techno artist based in Albania, with 11 gigs on soundcheck across Barcelona and Tirana. Often billed alongside On.play, Emilio Arias and FENIM0RE. Next up: Central Sector Tirana, Tirana on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Project Placebo is a techno and minimal techno artist based in Albania, with 11 
 
 On.play, Emilio Arias, FENIM0RE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/projectplacebo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/projectplacebo/)*

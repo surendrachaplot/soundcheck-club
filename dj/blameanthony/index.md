@@ -1,13 +1,14 @@
 # Blame Anthony
 
-Blame Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Prince Charles, Berlin on Thu, 31 Dec 2026.
+Blame Anthony is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Golden Gate, Berlin on Sat, 12 Dec 2026.
 
-Blame Anthony is a house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Thabo, Butterhands and Thalo Santana. Next up: Prince Charles, Berlin on Thu 31 Dec.
+Blame Anthony is a house and techno artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Thabo, Butterhands and Thalo Santana. Next up: Golden Gate, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Golden Gate | Berlin |
 | Thu, 31 Dec 2026 | Prince Charles | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Blame Anthony is a house and techno artist based in United Kingdom, with 14 gigs
 
 Thabo, Butterhands, Thalo Santana
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*

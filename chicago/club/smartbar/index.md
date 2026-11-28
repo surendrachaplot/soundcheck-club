@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Flowers of Romance feat. DVS1 - Justin Aulis Long" on Fri, 27 Nov 2026.
+smartbar is a music venue in Chicago with 15 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Mushroom Jazz feat. Mark Farina - DJ Heather - Michael Serafini" on Sat, 28 Nov 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming gigs, with line-ups including ali rq, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 15 upcoming gigs, with line-ups including ali rq, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Flowers of Romance feat. DVS1 - Justin Aulis Long | DVS1, Justin Aulis Long |
 | Sat, 28 Nov 2026 | Mushroom Jazz feat. Mark Farina - DJ Heather - Michael Serafini | DJ Heather, Mark Farina, Michael Serafini |
 | Sun, 29 Nov 2026 | Queen! feat. Derrick Carter - Michael Serafini - Shaun J Wright | Derrick Carter, Michael Serafini, Shaun J. Wright |
 | Fri, 4 Dec 2026 | Ø [Phase] - Brenda - Drés | Brenda, Drés, Ø [Phase] |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming gigs, wit
 | Sat, 12 Dec 2026 | Diamond Formation x Flow State feat. Cashu - livwutang - Ariel Zetina | Ariel Zetina, Cashu, livwutang |
 | Sun, 13 Dec 2026 | Queen! feat. DJ Miss Parker - Michael Serafini - Shaun J Wright | DJ Miss Parker, Michael Serafini, Shaun J. Wright |
 | Wed, 16 Dec 2026 | deadAir 5 feat. Jane Remover - By Storm - Kuru - Heavensouls - ali rq (DJ Set) | Jane Remover, Kuru, ali rq |
+| Thu, 17 Dec 2026 | FULL BODY SOUND | Ariel Zetina, Glamour Cadaver |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

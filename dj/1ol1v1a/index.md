@@ -1,6 +1,6 @@
 # 1ol1v1a
 
-1ol1v1a is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Reforesters Laboratory, New York City on Sat, 5 Dec 2026.
+1ol1v1a is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Reforesters Laboratory, New York City on Sat, 5 Dec 2026.
 
 1ol1v1a is a techno and ambient artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside R-DNA, SEDENTARY and masha latte. Next up: Reforesters Laboratory, New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@
 
 R-DNA, SEDENTARY, masha latte
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ol1v1a/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1ol1v1a/)*

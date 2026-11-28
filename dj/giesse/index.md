@@ -1,6 +1,6 @@
 # Giesse
 
-Giesse is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Arca, Milan on Fri, 4 Dec 2026.
+Giesse is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Arca, Milan on Fri, 4 Dec 2026.
 
 Giesse is an experimental and dub techno artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 6 more. Often billed alongside Flux By Uchiha, Hans Arsen and Katatonic Silentio. Next up: Arca, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Giesse is an experimental and dub techno artist based in Italy, with 32 gigs on 
 
 Flux By Uchiha, Hans Arsen, Katatonic Silentio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giesse/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giesse/)*

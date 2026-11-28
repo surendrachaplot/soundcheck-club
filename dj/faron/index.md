@@ -1,18 +1,18 @@
 # faron
 
-faron is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+faron is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
 
-faron is a bass and techno artist based in Poland, with 69 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Some Guest, iffi and Richie Beige. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
+faron is a bass and techno artist based in Poland, with 69 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Some Guest, iffi and Richie Beige. Next up: K-Bar Powiśle, Warsaw on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | K-Bar Powiśle | Warsaw |
 | Sat, 28 Nov 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played
 
+- K-Bar Powiśle, Warsaw · Fri, 27 Nov 2026
 - underiolo, Warsaw · Fri, 6 Nov 2026
 - Narocz 13, Warsaw · Sat, 31 Oct 2026
 - K-Bar Powiśle, Warsaw · Fri, 30 Oct 2026
@@ -20,10 +20,9 @@ faron is a bass and techno artist based in Poland, with 69 gigs on soundcheck ac
 - Sekta Selekta, Krakow · Wed, 7 Oct 2026
 - K-Bar Powiśle, Warsaw · Sat, 3 Oct 2026
 - Jasna 1, Warsaw · Sat, 12 Sept 2026
-- Plażówka Saska, Warsaw · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Some Guest, iffi, Richie Beige
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*

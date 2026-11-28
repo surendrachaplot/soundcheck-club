@@ -1,6 +1,6 @@
 # SDN (1)
 
-SDN (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Basic Club, Naples on Mon, 7 Dec 2026.
+SDN (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Basic Club, Naples on Mon, 7 Dec 2026.
 
 SDN is a techno and electronica artist based in Italy, with 18 gigs on soundcheck across Florence and Naples. Often billed alongside Rebecca Delle Piane, DJ Plant Texture and Octave One. Next up: Basic Club, Naples on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ SDN is a techno and electronica artist based in Italy, with 18 gigs on soundchec
 
 Rebecca Delle Piane, DJ Plant Texture, Octave One
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sdn-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sdn-1/)*

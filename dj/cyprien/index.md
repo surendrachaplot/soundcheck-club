@@ -1,6 +1,6 @@
 # Cyprien
 
-Cyprien is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Gold Diamond, Strasbourg on Sat, 5 Dec 2026.
+Cyprien is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Gold Diamond, Strasbourg on Sat, 5 Dec 2026.
 
 Cyprien is an electro and electronica artist based in France, with 6 gigs on soundcheck across East, New York City and Strasbourg. Often billed alongside FTFL, Rostøm and Sam White. Next up: TBA - Gold Diamond, Strasbourg on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Cyprien is an electro and electronica artist based in France, with 6 gigs on sou
 
 FTFL, Rostøm, Sam White
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyprien/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyprien/)*

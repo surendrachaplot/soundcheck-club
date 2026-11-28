@@ -1,6 +1,6 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Good Room, New York City on Sat, 28 Nov 2026.
+shekdash is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Good Room, New York City on Sat, 28 Nov 2026.
 
 shekdash is a techno and club artist based in United States of America, with 99 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 18 more. Often billed alongside Tromac, Dj Nico and DJ SWISHA. Next up: Good Room, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ shekdash is a techno and club artist based in United States of America, with 99 
 
 Tromac, Dj Nico, DJ SWISHA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

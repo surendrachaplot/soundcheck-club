@@ -1,6 +1,6 @@
 # Krust
 
-Krust is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bongo Club, Edinburgh on Fri, 4 Dec 2026.
+Krust is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Bongo Club, Edinburgh on Fri, 4 Dec 2026.
 
 Krust is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Birmingham, Brighton, Bristol and Edinburgh and 5 more. Often billed alongside Jumping Jack Frost, Bryan Gee and DJ Die. Next up: The Bongo Club, Edinburgh on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Krust is a drum & bass and jungle artist based in United Kingdom, with 40 gigs o
 
 Jumping Jack Frost, Bryan Gee, DJ Die
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krust/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krust/)*

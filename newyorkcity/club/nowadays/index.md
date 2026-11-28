@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie" on Fri, 27 Nov 2026.
+Nowadays is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "livwutang All Night" on Sat, 28 Nov 2026.
 
-Nowadays is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie | AceMo, Princess Peggie, Swami Sound |
 | Sat, 28 Nov 2026 | livwutang All Night | livwutang |
 | Sat, 28 Nov 2026 | SanDia: Family Affair with Bendito, Jeremy Giros, Kata, Miss Gypsy | /KATA/, Bendito, Jeremy Giros, Miss Gypsy |
 | Sun, 29 Nov 2026 | Theo Parrish All Day | Theo Parrish |
@@ -18,9 +17,10 @@ Nowadays is a music venue in New York City listed on soundcheck. 19 upcoming gig
 | Thu, 10 Dec 2026 | Palestine Forever and DJs Against Apartheid present: Thawra ثورة | ARCHANGEL (US), Loris, Myyuh, Nanoos, Omar Ahmad, Relaxer |
 | Fri, 11 Dec 2026 | Antal All Night | Antal |
 | Sat, 12 Dec 2026 | Nonstop: Avalon Emerson, Darwin, gyrofield, MZ3, Priori, Tiga, x3butterfly | Avalon Emerson, Darwin, Mz3 (1), Priori, Tiga, gyrofield, x3butterfly |
+| Sat, 12 Dec 2026 | Synth Library NYC Celebrates 5 Years - A Benefit Fundraiser | 8ULENTINA, AceMo, Andi, Antenes, DJ Haram, Heidi Sabertooth, Rage.inald, cry$cross |
 
 ## Address
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

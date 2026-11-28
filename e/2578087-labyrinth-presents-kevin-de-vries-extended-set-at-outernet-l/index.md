@@ -1,6 +1,6 @@
 # Labyrinth presents: Kevin de Vries (Extended Set) at Outernet Live
 
-Labyrinth presents: Kevin de Vries (Extended Set) at Outernet Live on Fri 26 Feb, London. 3 artists: Carina Lawrence, Kevin de Vries and Linska. See the line-up on soundcheck.
+Labyrinth presents: Kevin de Vries (Extended Set) at Outernet Live on Fri 26 Feb, London. 3 artists: Carina Lawrence, Kevin de Vries and Linska. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

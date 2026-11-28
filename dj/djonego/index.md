@@ -1,6 +1,6 @@
 # DJ One Go
 
-DJ One Go is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+DJ One Go is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
 DJ One Go is a latin bass and bass artist, with 16 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Supersonyc, Onix and Sinxstxsia. Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ DJ One Go is a latin bass and bass artist, with 16 gigs on soundcheck across Gua
 
 Supersonyc, Onix, Sinxstxsia
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djonego/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djonego/)*

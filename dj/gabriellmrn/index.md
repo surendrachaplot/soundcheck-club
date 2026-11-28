@@ -1,6 +1,6 @@
 # Gabriel LMRN
 
-Gabriel LMRN is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Malaga Sin City, Milan on Sun, 6 Dec 2026.
+Gabriel LMRN is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Malaga Sin City, Milan on Sun, 6 Dec 2026.
 
 Gabriel LMRN is a techno artist, with 12 gigs on soundcheck across Milan. Often billed alongside Sciorty, Soft Planet and Mark Wark. Next up: Malaga Sin City, Milan on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Gabriel LMRN is a techno artist, with 12 gigs on soundcheck across Milan. Often 
 
 Sciorty, Soft Planet, Mark Wark
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellmrn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellmrn/)*

@@ -1,6 +1,6 @@
 # Patrick Gibin
 
-Patrick Gibin is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Karmakoma, Belgrade on Fri, 4 Dec 2026.
+Patrick Gibin is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Karmakoma, Belgrade on Fri, 4 Dec 2026.
 
 Patrick Gibin is a house and funk / soul artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Volcov, Kaidi Tatham and Craig White. Next up: Karmakoma, Belgrade on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Patrick Gibin is a house and funk / soul artist based in Italy, with 27 gigs on 
 
 Volcov, Kaidi Tatham, Craig White
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*

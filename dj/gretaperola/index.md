@@ -1,6 +1,6 @@
 # Greta Perola
 
-Greta Perola is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+Greta Perola is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
 Greta Perola is a house and techno artist based in Germany, with 13 gigs on soundcheck across Cologne, Dortmund / Essen and Münster. Often billed alongside Krackk, Medea and Poetter. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Greta Perola is a house and techno artist based in Germany, with 13 gigs on soun
 
 Krackk, Medea, Poetter
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaperola/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaperola/)*

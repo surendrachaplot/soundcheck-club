@@ -1,8 +1,8 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
+DJ SEXSTASY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Gotec, Karlsruhe on Sat, 28 Nov 2026.
 
-DJ SEXSTASY is a techno and trance artist based in Brazil, with 54 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and GI.O. Next up: Gotec, Karlsruhe on Sat 28 Nov.
+DJ SEXSTASY is a techno and trance artist based in Brazil, with 55 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and GI.O. Next up: Gotec, Karlsruhe on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 54 gigs on sound
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Gotec | Karlsruhe |
 | Fri, 4 Dec 2026 | AMT | Berlin |
+| Fri, 11 Dec 2026 | Toekomstmuziek | Amsterdam |
 | Sat, 19 Dec 2026 | La Cova | Hamburg |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Fri, 1 Jan 2027 | Bootshaus | Cologne |
@@ -29,4 +30,4 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 54 gigs on sound
 
 Rishka, Towicz, GI.O
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

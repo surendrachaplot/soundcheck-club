@@ -1,6 +1,6 @@
 # Avalon Hollywood
 
-Avalon Hollywood is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "UNRESTRICTED" on Sat, 28 Nov 2026.
+Avalon Hollywood is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "UNRESTRICTED" on Sat, 28 Nov 2026.
 
 Avalon Hollywood is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Babayaga, Blerry, ETRA and Fish56Octagon and 2 more. See dates, start times and who's playing. 1735 Vine Street, Hollywood, CA 90028.
 
@@ -17,4 +17,4 @@ Avalon Hollywood is a music venue in Los Angeles listed on soundcheck. 4 upcomin
 
 1735 Vine Street, Hollywood, CA 90028, Los Angeles
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*

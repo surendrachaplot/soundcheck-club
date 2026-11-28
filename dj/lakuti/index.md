@@ -1,14 +1,13 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sama, Tbilisi on Fri, 27 Nov 2026.
+Lakuti is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Dec 2026.
 
-Lakuti is a house and techno artist based in United Kingdom, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Sama, Tbilisi on Fri 27 Nov.
+Lakuti is a house and techno artist based in United Kingdom, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Sama | Tbilisi |
 | Fri, 4 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 | Sat, 26 Dec 2026 | Tikal Praia Bar | Brazil |
@@ -19,6 +18,7 @@ Lakuti is a house and techno artist based in United Kingdom, with 226 gigs on so
 
 ## Recently played
 
+- Sama, Tbilisi · Fri, 27 Nov 2026
 - Lark, Berlin · Sat, 14 Nov 2026
 - TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo · Fri, 6 Nov 2026
 - Signal, New York City · Sun, 1 Nov 2026
@@ -26,10 +26,9 @@ Lakuti is a house and techno artist based in United Kingdom, with 226 gigs on so
 - Tangent Gallery, Detroit · Fri, 30 Oct 2026
 - TBA, Chicago · Fri, 30 Oct 2026
 - San Francisco Belle Hornblower, San Francisco/Oakland · Sun, 25 Oct 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

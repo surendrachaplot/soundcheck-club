@@ -1,18 +1,18 @@
 # Luis Tischer
 
-Luis Tischer is a Dub Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Unter Deck, Munich on Fri, 27 Nov 2026.
+Luis Tischer is a Dub Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at LEO, Brussels on Sun, 6 Dec 2026.
 
-Luis Tischer is a dub techno and breakbeat artist based in Germany, with 9 gigs on soundcheck across Berlin, Brussels and Munich. Often billed alongside Vroomfondel, Scherfe and DJ Fart in the Club. Next up: Unter Deck, Munich on Fri 27 Nov.
+Luis Tischer is a dub techno and breakbeat artist based in Germany, with 9 gigs on soundcheck across Berlin, Brussels and Munich. Often billed alongside Vroomfondel, Scherfe and DJ Fart in the Club. Next up: LEO, Brussels on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Unter Deck | Munich |
 | Sun, 6 Dec 2026 | LEO | Brussels |
 
 ## Recently played
 
+- Unter Deck, Munich · Fri, 27 Nov 2026
 - ZIRKA, Munich · Fri, 25 Sept 2026
 - Unter Deck, Munich · Sat, 23 May 2026
 - Renate, Berlin · Thu, 5 Feb 2026
@@ -25,4 +25,4 @@ Luis Tischer is a dub techno and breakbeat artist based in Germany, with 9 gigs 
 
 Vroomfondel, Scherfe, DJ Fart in the Club
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luistischer/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luistischer/)*

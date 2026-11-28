@@ -1,6 +1,6 @@
 # DJ SYNC
 
-DJ SYNC is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Congregation Detroit, Detroit on Sat, 5 Dec 2026.
+DJ SYNC is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Congregation Detroit, Detroit on Sat, 5 Dec 2026.
 
 DJ SYNC is a house and afro house artist based in United States of America, with 24 gigs on soundcheck across Detroit and Washington DC. Often billed alongside Rachael Parker, LYTSKIN DAVE and Bruce Bailey. Next up: The Congregation Detroit, Detroit on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DJ SYNC is a house and afro house artist based in United States of America, with
 
 Rachael Parker, LYTSKIN DAVE, Bruce Bailey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsync-us/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsync-us/)*

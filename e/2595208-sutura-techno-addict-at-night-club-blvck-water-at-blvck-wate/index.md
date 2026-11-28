@@ -1,0 +1,17 @@
+# 'sutura' TECHNO ADDICT at Night Club Blvck Water at Blvck Water
+
+'sutura' TECHNO ADDICT at Night Club Blvck Water on Sat 28 Nov, Osaka. 3 artists: amor (JP), dyn (JP) and ZAGUN. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 28 Nov 2026 |
+| Venue | Blvck Water |
+| City | Osaka |
+
+## Line-up
+
+- amor (JP)
+- dyn (JP)
+- ZAGUN
+
+*Source: [soundcheck](https://soundcheck.club/e/2595208-sutura-techno-addict-at-night-club-blvck-water-at-blvck-wate/)*

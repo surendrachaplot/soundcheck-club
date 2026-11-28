@@ -1,14 +1,15 @@
 # KikiDontCry
 
-KikiDontCry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cross Club, Prague on Fri, 11 Dec 2026.
+KikiDontCry is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cross Club, Prague on Fri, 11 Dec 2026.
 
-KikiDontCry is a techno and house artist based in Czech Republic, with 10 gigs on soundcheck across Prague. Often billed alongside Ansea, BARRA and 2NDRA. Next up: Cross Club, Prague on Fri 11 Dec.
+KikiDontCry is a techno and house artist based in Czech Republic, with 11 gigs on soundcheck across Czech Republic and Prague. Often billed alongside Ansea, BARRA and elcabron. Next up: Cross Club, Prague on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Cross Club | Prague |
+| Fri, 18 Dec 2026 | Club Watt | Czech-republic |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ KikiDontCry is a techno and house artist based in Czech Republic, with 10 gigs o
 
 ## Shares bills with
 
-Ansea, BARRA, 2NDRA
+Ansea, BARRA, elcabron
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikidontcry/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kikidontcry/)*

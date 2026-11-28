@@ -1,6 +1,6 @@
 # Krackk
 
-Krackk is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
+Krackk is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Schrotty, Cologne on Sat, 28 Nov 2026.
 
 Krackk is a techno and trance artist based in Germany, with 132 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 12 more. Often billed alongside Robin Tasi, Amilli and DJ Autobahn. Next up: Schrotty, Cologne on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Krackk is a techno and trance artist based in Germany, with 132 gigs on soundche
 
 Robin Tasi, Amilli, DJ Autobahn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*

@@ -1,6 +1,6 @@
 # Stalownia
 
-Stalownia is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "krakd x Stalownia" on Fri, 4 Dec 2026.
+Stalownia is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "krakd x Stalownia" on Fri, 4 Dec 2026.
 
 Stalownia is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Stalownia is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See 
 | Fri, 4 Dec 2026 | krakd x Stalownia |  |
 | Sat, 5 Dec 2026 | ☆ WLW DYKEMAS PARTY ☆ |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/stalownia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/stalownia/)*

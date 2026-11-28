@@ -1,24 +1,25 @@
 # DART
 
-DART is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Night Tales, London on Fri, 27 Nov 2026.
+DART is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sparty, Budapest on Sun, 29 Nov 2026.
 
-DART is a techno and house artist based in Ireland, with 124 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: Night Tales, London on Fri 27 Nov.
+DART is a techno and house artist based in Ireland, with 125 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: Sparty, Budapest on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Night Tales | London |
 | Sun, 29 Nov 2026 | Sparty | Budapest |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Sun, 3 Jan 2027 | The Ivy | Sydney |
+| Fri, 29 Jan 2027 | Index | Dublin |
 | Sun, 7 Feb 2027 | Thuishaven | Amsterdam |
 | Sat, 13 Feb 2027 | The Limelight | Belfast |
 
 ## Recently played
 
+- Night Tales, London · Fri, 27 Nov 2026
 - Thuishaven, Amsterdam · Sun, 22 Nov 2026
 - TBA - Matilo Park, Rotterdam · Sat, 21 Nov 2026
 - Sub Club, Glasgow · Sun, 15 Nov 2026
@@ -26,10 +27,9 @@ DART is a techno and house artist based in Ireland, with 124 gigs on soundcheck 
 - Macadam, Nantes · Tue, 10 Nov 2026
 - Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - Lofi, Amsterdam · Sat, 24 Oct 2026
-- RAWFACTORY, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Kyle Starkey, Ben Hemsley, NewTone
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

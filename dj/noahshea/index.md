@@ -1,6 +1,6 @@
 # NoahShea
 
-NoahShea is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Bain, New York City on Fri, 4 Dec 2026.
+NoahShea is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Bain, New York City on Fri, 4 Dec 2026.
 
 NoahShea is an electronic artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside DANILO BRACA, vikmatic and 2Tall. Next up: Le Bain, New York City on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ NoahShea is an electronic artist based in United States of America, with 8 gigs 
 
 DANILO BRACA, vikmatic, 2Tall
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshea/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshea/)*

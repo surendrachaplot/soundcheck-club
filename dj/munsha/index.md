@@ -1,6 +1,6 @@
 # Munsha
 
-Munsha is a Drone and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Neue Zukunft, Berlin on Sun, 31 Jan 2027.
+Munsha is a Drone and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Neue Zukunft, Berlin on Sun, 31 Jan 2027.
 
 Munsha is a drone and ambient artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Fennesz, KLEA and Martin Long. Next up: Neue Zukunft, Berlin on Sun 31 Jan.
 
@@ -22,4 +22,4 @@ Munsha is a drone and ambient artist based in Germany, with 6 gigs on soundcheck
 
 Fennesz, KLEA, Martin Long
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munsha/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munsha/)*

@@ -1,6 +1,6 @@
 # Soma Oue
 
-Soma Oue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Daikanyama ORD., Tokyo on Tue, 29 Dec 2026.
+Soma Oue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Daikanyama ORD., Tokyo on Tue, 29 Dec 2026.
 
 Soma Oue is a techno and house artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside 80KIDZ, AHREUM and Bart Skils. Next up: Daikanyama ORD., Tokyo on Tue 29 Dec.
 
@@ -20,4 +20,4 @@ Soma Oue is a techno and house artist based in Japan, with 4 gigs on soundcheck 
 
 80KIDZ, AHREUM, Bart Skils
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somaoue/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somaoue/)*

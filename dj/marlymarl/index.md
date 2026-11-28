@@ -1,6 +1,6 @@
 # Marly Marl
 
-Marly Marl is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Swan, London on Sat, 12 Dec 2026.
+Marly Marl is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The White Swan, London on Sat, 12 Dec 2026.
 
 Marly Marl is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Bristol and London. Often billed alongside Kenny Ken, Nicky Blackmarket and Bryan Gee. Next up: The White Swan, London on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Marly Marl is a drum & bass and jungle artist based in United Kingdom, with 18 g
 
 Kenny Ken, Nicky Blackmarket, Bryan Gee
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*

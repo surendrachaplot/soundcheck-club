@@ -1,6 +1,6 @@
 # Zohr
 
-Zohr is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cache Cache, London on Sat, 28 Nov 2026.
+Zohr is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cache Cache, London on Sat, 28 Nov 2026.
 
 Zohr is a house and deep house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside DJ Harmee, Houdinyx and SURJAL. Next up: Cache Cache, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Zohr is a house and deep house artist based in United Kingdom, with 11 gigs on s
 
 DJ Harmee, Houdinyx, SURJAL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zohr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zohr/)*

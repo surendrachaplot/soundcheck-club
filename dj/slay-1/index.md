@@ -1,6 +1,6 @@
 # Slay (1)
 
-Slay (1) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
+Slay (1) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
 
 Slay is a drum & bass and bass artist based in United Kingdom, with 5 gigs on soundcheck across Bristol and Manchester. Often billed alongside dogger, foxi and Chimpo. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 13 Feb.
 
@@ -21,4 +21,4 @@ Slay is a drum & bass and bass artist based in United Kingdom, with 5 gigs on so
 
 dogger, foxi, Chimpo
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slay-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slay-1/)*

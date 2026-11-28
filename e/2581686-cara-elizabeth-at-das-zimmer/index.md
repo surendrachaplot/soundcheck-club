@@ -1,6 +1,6 @@
 # Cara Elizabeth at Das Zimmer
 
-Cara Elizabeth at Das Zimmer on Fri 26 Feb, Mannheim. 1 artist: Cara Elizabeth. See the line-up on soundcheck.
+Cara Elizabeth at Das Zimmer on Fri 26 Feb, Mannheim. 1 artist: Cara Elizabeth. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

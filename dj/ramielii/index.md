@@ -1,6 +1,6 @@
 # Ramiel II
 
-Ramiel II is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 12 Dec 2026.
+Ramiel II is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bardo Speakeasy, Mexico City on Sat, 12 Dec 2026.
 
 Ramiel II is a techno and trance artist based in Mexico, with 24 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Cabe, NAHAN and Gohtobi. Next up: Bardo Speakeasy, Mexico City on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Ramiel II is a techno and trance artist based in Mexico, with 24 gigs on soundch
 
 Cabe, NAHAN, Gohtobi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramielii/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramielii/)*

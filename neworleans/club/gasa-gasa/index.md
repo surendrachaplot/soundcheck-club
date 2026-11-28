@@ -1,6 +1,6 @@
 # Gasa Gasa
 
-Gasa Gasa is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "KYPERPOP" on Sun, 29 Nov 2026.
+Gasa Gasa is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "KYPERPOP" on Sun, 29 Nov 2026.
 
 Gasa Gasa is a music venue in New Orleans listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gasa Gasa is a music venue in New Orleans listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | KYPERPOP |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/gasa-gasa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/gasa-gasa/)*

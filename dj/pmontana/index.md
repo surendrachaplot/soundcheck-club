@@ -1,6 +1,6 @@
 # P Montana
 
-P Montana is a Amapiano and Afrobeats artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministry Of Sound, London on Fri, 11 Dec 2026.
+P Montana is a Amapiano and Afrobeats artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ministry Of Sound, London on Fri, 11 Dec 2026.
 
 P Montana is an amapiano and afrobeats artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London. Often billed alongside Larizzle, Groovin Rue and HARUNA. Next up: Ministry Of Sound, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ P Montana is an amapiano and afrobeats artist based in United Kingdom, with 9 gi
 
 Larizzle, Groovin Rue, HARUNA (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pmontana/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pmontana/)*

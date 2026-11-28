@@ -1,6 +1,6 @@
 # Myrtle
 
-Myrtle is a Bass and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 11 Dec 2026.
+Myrtle is a Bass and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sneaky Pete's, Edinburgh on Fri, 11 Dec 2026.
 
 Myrtle is a bass and grime artist based in United Kingdom, with 14 gigs on soundcheck across Edinburgh. Often billed alongside Buckfast Barbie, Lara Sinclair and ZO3. Next up: Sneaky Pete's, Edinburgh on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Myrtle is a bass and grime artist based in United Kingdom, with 14 gigs on sound
 
 Buckfast Barbie, Lara Sinclair, ZO3 (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myrtle/)*

@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Toff in Town, Melbourne on Thu, 31 Dec 2026.
+Mothafunk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Toff in Town, Melbourne on Thu, 31 Dec 2026.
 
 Mothafunk is a house and disco artist based in United States of America, with 76 gigs on soundcheck across Chicago, Los Angeles, Melbourne and New York City and 1 more. Often billed alongside Zjoso, Chris NG and Kgomotso. Next up: The Toff in Town, Melbourne on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Mothafunk is a house and disco artist based in United States of America, with 76
 
 Zjoso, Chris NG, Kgomotso
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

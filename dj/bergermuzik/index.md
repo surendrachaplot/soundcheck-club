@@ -1,6 +1,6 @@
 # Berger Muzik
 
-Berger Muzik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cigale, Buenos Aires on Tue, 1 Dec 2026.
+Berger Muzik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Cigale, Buenos Aires on Tue, 1 Dec 2026.
 
 Berger Muzik is a techno and house artist based in Argentina, with 218 gigs on soundcheck across Buenos Aires and Santiago. Often billed alongside Ella Anzoise, May Mc Laren and Fuocco. Next up: La Cigale, Buenos Aires on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Berger Muzik is a techno and house artist based in Argentina, with 218 gigs on s
 
 Ella Anzoise, May Mc Laren, Fuocco
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*

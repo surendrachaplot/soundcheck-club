@@ -1,6 +1,6 @@
 # Kasun (AU)
 
-Kasun (AU) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Kasun (AU) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 Kasun (AU) is an electro and techno artist based in Australia, with 4 gigs on soundcheck across Canberra and Melbourne. Often billed alongside Kia (AU), Andy Martin and Aashofteh. Next up: TBA - Djargurd Wurrong Country (Bookaar, Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -20,4 +20,4 @@ Kasun (AU) is an electro and techno artist based in Australia, with 4 gigs on so
 
 Kia (AU), Andy Martin, Aashofteh
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasun-au/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasun-au/)*

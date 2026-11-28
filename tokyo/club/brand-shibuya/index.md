@@ -1,14 +1,13 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MIRAGE -FEMALE DJS PARTY-" on Fri, 27 Nov 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "BRAND NIGHT" on Sat, 28 Nov 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including KENJI FURUYA, Krankent and ksd6700. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including KENJI FURUYA, Krankent and ksd6700. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | MIRAGE -FEMALE DJS PARTY- |  |
 | Sat, 28 Nov 2026 | BRAND NIGHT | KENJI FURUYA |
 | Sun, 29 Nov 2026 | Groovy |  |
 | Mon, 30 Nov 2026 | SHIBUYA FREE BOOTH OPEN DECK & BAR |  |
@@ -18,4 +17,4 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, w
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

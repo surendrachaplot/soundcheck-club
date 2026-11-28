@@ -1,6 +1,6 @@
 # Phrex
 
-Phrex is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kauz, Zurich on Fri, 4 Dec 2026.
+Phrex is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Kauz, Zurich on Fri, 4 Dec 2026.
 
 Phrex is a bass and dub artist based in Switzerland, with 20 gigs on soundcheck across Basel, Berlin, Ghent and Lausanne and 2 more. Often billed alongside Koodoo, Azu Tiwaline and CRi. Next up: Kauz, Zurich on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Phrex is a bass and dub artist based in Switzerland, with 20 gigs on soundcheck 
 
 Koodoo, Azu Tiwaline, CRi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phrex-ch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phrex-ch/)*

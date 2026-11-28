@@ -1,6 +1,6 @@
 # CIAN__
 
-CIAN__ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Belfast on Sat, 19 Dec 2026.
+CIAN__ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Belfast on Sat, 19 Dec 2026.
 
 CIAN__ is a techno and house artist based in United Kingdom, with 19 gigs on soundcheck across Belfast. Often billed alongside Sophie, Body Clinic and IndeniaL. Next up: TBA, Belfast on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ CIAN__ is a techno and house artist based in United Kingdom, with 19 gigs on sou
 
 Sophie (2), Body Clinic, IndeniaL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cian__/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cian__/)*

@@ -1,6 +1,6 @@
 # Bontan
 
-Bontan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
+Bontan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Historic Virginia Key Beach Park, Miami on Thu, 3 Dec 2026.
 
 Bontan is a house and tech house artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 34 more. Often billed alongside Jamie Jones, AMÉMÉ and Archie Hamilton. Next up: Historic Virginia Key Beach Park, Miami on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Bontan is a house and tech house artist based in United Kingdom, with 127 gigs o
 
 Jamie Jones, AMÉMÉ, Archie Hamilton
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*

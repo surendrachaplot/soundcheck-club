@@ -1,6 +1,6 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 35 Millimetri, South on Sat, 5 Dec 2026.
+Jamie 3:26 is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 35 Millimetri, South on Sat, 5 Dec 2026.
 
 Jamie 3:26 is a house and disco artist based in United States of America, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: 35 Millimetri, South on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 
 Young Pulse, Dimitri From Paris, Melvo Baptiste
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

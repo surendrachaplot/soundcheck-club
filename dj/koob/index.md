@@ -1,6 +1,6 @@
 # KOOB
 
-KOOB is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 8 Dec 2026.
+KOOB is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 8 Dec 2026.
 
 KOOB is a club and ghetto tech artist based in United States of America, with 13 gigs on soundcheck across Berlin, Connecticut, Dublin and Frankfurt and 3 more. Often billed alongside NATALIA., CMD+JAZMINE and Petal. Next up: Bossa Nova Civic Club, New York City on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ KOOB is a club and ghetto tech artist based in United States of America, with 13
 
 NATALIA., CMD+JAZMINE, Petal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*

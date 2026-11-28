@@ -1,6 +1,6 @@
-# neomeo presents at vurt.
+# neomeo presents 悪魔の沼 at vurt.
 
-neomeo presents at vurt. on Sat 19 Dec, Seoul. 2 artists: SUNA and Zeemen. Techno and Downtempo. See the line-up on soundcheck.
+neomeo presents 悪魔の沼 at vurt. on Sat 19 Dec, Seoul. 4 artists: Compuma, Dr. Nishimura, SUNA and Zeemen. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ neomeo presents at vurt. on Sat 19 Dec, Seoul. 2 artists: SUNA and Zeemen. Techn
 
 ## Line-up
 
+- Compuma
+- Dr. Nishimura
 - SUNA
 - Zeemen
 

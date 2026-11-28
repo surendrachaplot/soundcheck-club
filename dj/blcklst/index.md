@@ -1,6 +1,6 @@
 # BLCKLST
 
-BLCKLST is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mood Ring, New York City on Sun, 6 Dec 2026.
+BLCKLST is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mood Ring, New York City on Sun, 6 Dec 2026.
 
 BLCKLST is a drum & bass and jungle artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside DJ Nope, DJ eh and Remniqe. Next up: Mood Ring, New York City on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ BLCKLST is a drum & bass and jungle artist based in United States of America, wi
 
 DJ Nope, DJ eh, Remniqe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blcklst/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blcklst/)*

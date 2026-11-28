@@ -1,6 +1,6 @@
 # Zacharias
 
-Zacharias is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery, Leipzig on Sat, 16 Jan 2027.
+Zacharias is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Distillery, Leipzig on Sat, 16 Jan 2027.
 
 Zacharias is a techno and house artist based in Germany, with 16 gigs on soundcheck across Dubai, Leipzig and London. Often billed alongside Zischko, Nienein and Siggi Petrol. Next up: Distillery, Leipzig on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Zacharias is a techno and house artist based in Germany, with 16 gigs on soundch
 
 Zischko, Nienein, Siggi Petrol
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zacharias/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zacharias/)*

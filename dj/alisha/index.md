@@ -1,14 +1,13 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Index, Dublin on Fri, 27 Nov 2026.
+ALISHA is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Concourse Project, Austin on Thu, 3 Dec 2026.
 
-ALISHA is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 34 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Index, Dublin on Fri 27 Nov.
+ALISHA is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 34 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: The Concourse Project, Austin on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Index | Dublin |
 | Thu, 3 Dec 2026 | The Concourse Project | Austin |
 | Fri, 12 Feb 2027 | SWG3 | Glasgow |
 | Fri, 19 Feb 2027 | Das Zimmer | Mannheim |
@@ -18,6 +17,7 @@ ALISHA is a house and tech house artist based in United Kingdom, with 191 gigs o
 
 ## Recently played
 
+- Index, Dublin · Fri, 27 Nov 2026
 - Outernet Live, London · Fri, 20 Nov 2026
 - Duel Club, Naples · Fri, 13 Nov 2026
 - Mint XL, Leeds · Sat, 7 Nov 2026
@@ -25,10 +25,9 @@ ALISHA is a house and tech house artist based in United Kingdom, with 191 gigs o
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Kadinsky Cafe, Amsterdam · Sat, 24 Oct 2026
 - Kadinsky Cafe, Amsterdam · Wed, 21 Oct 2026
-- Marcfait, Amsterdam · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 East End Dubs, Jamie Jones, Max Dean
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

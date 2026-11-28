@@ -1,8 +1,8 @@
 # Photobastei
 
-Photobastei is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sleep In" on Sat, 28 Nov 2026.
+Photobastei is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sleep In" on Sat, 28 Nov 2026.
 
-Photobastei is a music venue in Zurich listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Photobastei is a music venue in Zurich listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
@@ -10,5 +10,6 @@ Photobastei is a music venue in Zurich listed on soundcheck. 2 upcoming gigs. Se
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Sleep In |  |
 | Sat, 5 Dec 2026 | Echoes from Venus: Mutual Frequencies |  |
+| Fri, 11 Dec 2026 | IRON MAYHEM & BAND Live in Concert & Music Video Premiere |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/photobastei/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/photobastei/)*

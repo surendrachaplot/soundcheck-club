@@ -1,6 +1,6 @@
 # Layzie
 
-Layzie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tell Me, Sofia on Sat, 28 Nov 2026.
+Layzie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tell Me, Sofia on Sat, 28 Nov 2026.
 
 Layzie is a techno and house artist based in Serbia, with 20 gigs on soundcheck across Belgrade, Budapest, Chongqing and Hanoi and 1 more. Often billed alongside Cosmic G, Nemax and .Paragon. Next up: Tell Me, Sofia on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Layzie is a techno and house artist based in Serbia, with 20 gigs on soundcheck 
 
 Cosmic G, Nemax, .Paragon
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/layzie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/layzie/)*

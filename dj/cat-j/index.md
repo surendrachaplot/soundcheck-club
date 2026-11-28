@@ -1,6 +1,6 @@
 # Cat-J
 
-Cat-J is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kalif Storch, Erfurt on Fri, 4 Dec 2026.
+Cat-J is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Kalif Storch, Erfurt on Fri, 4 Dec 2026.
 
 Cat-J is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Dresden, Erfurt and Hamburg and 2 more. Often billed alongside Cara Elizabeth, Meta Chrom and Millie Forsberg. Next up: Kalif Storch, Erfurt on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Cat-J is a trance and techno artist based in Germany, with 10 gigs on soundcheck
 
 Cara Elizabeth, Meta Chrom, Millie Forsberg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cat-j/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cat-j/)*

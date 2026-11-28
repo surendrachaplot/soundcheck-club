@@ -1,6 +1,6 @@
 # Epifanix
 
-Epifanix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Suma Han, Istanbul on Sat, 5 Dec 2026.
+Epifanix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Suma Han, Istanbul on Sat, 5 Dec 2026.
 
 Epifanix is a techno and industrial artist based in Turkey, with 21 gigs on soundcheck across Istanbul and Tbilisi. Often billed alongside Inf3ris, 2TAL and VRDS. Next up: Suma Han, Istanbul on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Epifanix is a techno and industrial artist based in Turkey, with 21 gigs on soun
 
 Inf3ris, 2TAL, VRDS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*

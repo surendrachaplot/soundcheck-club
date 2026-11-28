@@ -1,6 +1,6 @@
 # Alice Youngling
 
-Alice Youngling is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
+Alice Youngling is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Roots Audiophile Café, Barcelona on Sat, 28 Nov 2026.
 
 Alice Youngling is a house and progressive house artist based in Switzerland, with 132 gigs on soundcheck across Barcelona, Lausanne, London and Paris and 2 more. Often billed alongside Andrea Love, Cabana and Jo Kazan. Next up: Roots Audiophile Café, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alice Youngling is a house and progressive house artist based in Switzerland, wi
 
 Andrea Love, Cabana, Jo Kazan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyoungling/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyoungling/)*

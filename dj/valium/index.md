@@ -1,6 +1,6 @@
 # Valium
 
-Valium is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Flat HiFi Bar, Madrid on Sat, 5 Dec 2026.
+Valium is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Flat HiFi Bar, Madrid on Sat, 5 Dec 2026.
 
 Valium is a house and tech house artist based in Spain, with 30 gigs on soundcheck across Barcelona, Madrid, Rome and Valencia. Often billed alongside DISTORT (ES), Juguete and nBlueMoney. Next up: Flat HiFi Bar, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Valium is a house and tech house artist based in Spain, with 30 gigs on soundche
 
 DISTORT (ES), Juguete, nBlueMoney
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*

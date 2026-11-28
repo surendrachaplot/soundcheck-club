@@ -1,6 +1,6 @@
 # Audiojack
 
-Audiojack is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Harbor Island, San Diego on Thu, 31 Dec 2026.
+Audiojack is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Harbor Island, San Diego on Thu, 31 Dec 2026.
 
 Audiojack is a house and tech house artist based in United Kingdom, with 25 gigs on soundcheck across Adelaide, Auckland, Barcelona and Berlin and 11 more. Often billed alongside Black Coffee, DJ Tennis and Damian Lazarus. Next up: Harbor Island, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Audiojack is a house and tech house artist based in United Kingdom, with 25 gigs
 
 Black Coffee, DJ Tennis, Damian Lazarus
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiojack/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiojack/)*

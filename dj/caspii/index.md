@@ -1,6 +1,6 @@
 # CASPII
 
-CASPII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at XeX, San Francisco/Oakland on Sat, 12 Dec 2026.
+CASPII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at XeX, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 CASPII is a techno and trance artist based in United States of America, with 11 gigs on soundcheck across San Francisco/Oakland. Often billed alongside ELA MENTAL, Suanni and Lil Laurie. Next up: XeX, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ CASPII is a techno and trance artist based in United States of America, with 11 
 
 ELA MENTAL, Suanni, Lil Laurie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caspii/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caspii/)*

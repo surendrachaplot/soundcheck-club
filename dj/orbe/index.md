@@ -1,14 +1,13 @@
 # ORBE
 
-ORBE is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 27 Nov 2026.
+ORBE is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at FOLD, London on Sat, 5 Dec 2026.
 
-ORBE is a techno and house artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 35 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: Studio Club Malaga, Malaga on Fri 27 Nov.
+ORBE is a techno and house artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 35 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: FOLD, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 5 Dec 2026 | FOLD | London |
 | Sat, 12 Dec 2026 | Tresor / Globus | Berlin |
 | Thu, 31 Dec 2026 | Studio Club Malaga | Malaga |
@@ -19,6 +18,7 @@ ORBE is a techno and house artist based in Spain, with 100 gigs on soundcheck ac
 
 ## Recently played
 
+- Studio Club Malaga, Malaga · Fri, 27 Nov 2026
 - TBA - TRXX WRHS, Minneapolis-st-paul · Sat, 21 Nov 2026
 - public records, New York City · Fri, 20 Nov 2026
 - Studio Club Malaga, Malaga · Sat, 31 Oct 2026
@@ -26,10 +26,9 @@ ORBE is a techno and house artist based in Spain, with 100 gigs on soundcheck ac
 - RADION, Amsterdam · Sat, 24 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
-- Studio Club Malaga, Malaga · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Psyk, Fadi Mohem, MARRØN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*

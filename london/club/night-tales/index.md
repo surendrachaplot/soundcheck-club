@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 33 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Night Tales: Paige Tomlinson, DART, Entasia" on Fri, 27 Nov 2026.
+Night Tales is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "A Day with Dimitri From Paris" on Sat, 28 Nov 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including 1-800 GIRLS, A Guy Called Gerald, Andy Luff and Ant TC1 and 2 more. See dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -8,7 +8,6 @@ Night Tales is a music venue in London listed on soundcheck. 33 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Night Tales: Paige Tomlinson, DART, Entasia | DART, Entasia, Paige Tomlinson |
 | Sat, 28 Nov 2026 | A Day with Dimitri From Paris | Dimitri From Paris |
 | Sat, 28 Nov 2026 | Night Tales: Special Guest TBA [All Night Long] |  |
 | Sat, 28 Nov 2026 | Origins: 1-800 GIRLS [All Night Long] | 1-800 GIRLS |
@@ -18,9 +17,10 @@ Night Tales is a music venue in London listed on soundcheck. 33 upcoming gigs, w
 | Sat, 5 Dec 2026 | Hannah Wants x counter culture - London | Dominique Danielle, Hannah Wants, Shimrise, TABZ |
 | Fri, 11 Dec 2026 | Night Tales: Dave Lee [All Night Long] | Dave Lee |
 | Sat, 12 Dec 2026 | Paraiso Disco with Tigerbalm: House, Disco, Classics | Tigerbalm |
+| Sat, 12 Dec 2026 | Highr: A New Chapter Begins |  |
 
 ## Address
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

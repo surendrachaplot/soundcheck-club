@@ -1,6 +1,6 @@
 # Martha Pinel
 
-Martha Pinel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+Martha Pinel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 Martha Pinel is a house and disco artist based in Brazil, with 66 gigs on soundcheck across Amsterdam, Berlin, Brazil and Copenhagen and 8 more. Often billed alongside Paco Cabana, Pino Henrique Pedra and Kapote. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Martha Pinel is a house and disco artist based in Brazil, with 66 gigs on soundc
 
 Paco Cabana, Pino Henrique Pedra, Kapote
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marthapinel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marthapinel/)*

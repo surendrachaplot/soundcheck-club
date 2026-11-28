@@ -1,6 +1,6 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Outer Heaven, New York City on Thu, 10 Dec 2026.
+Eric Duncan is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Outer Heaven, New York City on Thu, 10 Dec 2026.
 
 Eric Duncan is a house and disco artist based in United States of America, with 72 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 25 more. Often billed alongside FFAN, Craig Ouar and Monkey Timers. Next up: Outer Heaven, New York City on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Eric Duncan is a house and disco artist based in United States of America, with 
 
 FFAN, Craig Ouar, Monkey Timers
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*

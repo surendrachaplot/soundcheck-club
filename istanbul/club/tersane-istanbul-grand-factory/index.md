@@ -1,6 +1,6 @@
 # Tersane Istanbul Grand Factory
 
-Tersane Istanbul Grand Factory is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Valeron - Tersane Istanbul" on Fri, 12 Feb 2027.
+Tersane Istanbul Grand Factory is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Valeron - Tersane Istanbul" on Fri, 12 Feb 2027.
 
 Tersane Istanbul Grand Factory is a music venue in Istanbul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Kasımpaşa, Tersane İstanbul, Haliç Camii Kebir Mahallesi Taşkızak, Tersane Cd. No:5, 34440 Beyoğlu/İstanbul, Türkiye.
 
@@ -14,4 +14,4 @@ Tersane Istanbul Grand Factory is a music venue in Istanbul listed on soundcheck
 
 Kasımpaşa, Tersane İstanbul, Haliç Camii Kebir Mahallesi Taşkızak, Tersane Cd. No:5, 34440 Beyoğlu/İstanbul, Türkiye, Istanbul
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/tersane-istanbul-grand-factory/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/tersane-istanbul-grand-factory/)*

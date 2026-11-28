@@ -1,6 +1,6 @@
 # Max Coletto
 
-Max Coletto is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
+Max Coletto is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Los Angeles on Sat, 28 Nov 2026.
 
 Max Coletto is a house and minimal artist based in United States of America, with 26 gigs on soundcheck across Los Angeles, New York City, Orange County and Seattle and 1 more. Often billed alongside Enzo Muro, Hazy and Ray Kash. Next up: TBA, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Max Coletto is a house and minimal artist based in United States of America, wit
 
 Enzo Muro, Hazy, Ray Kash
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcoletto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcoletto/)*

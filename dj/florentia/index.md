@@ -1,6 +1,6 @@
 # FLORENTIA
 
-FLORENTIA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at XOYO, London on Thu, 31 Dec 2026.
+FLORENTIA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at XOYO, London on Thu, 31 Dec 2026.
 
 FLORENTIA is a house and tech house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Central and Ibiza and 7 more. Often billed alongside Arielle Free, GW Harrison and Jamie Jones. Next up: XOYO, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ FLORENTIA is a house and tech house artist based in United Kingdom, with 44 gigs
 
 Arielle Free, GW Harrison, Jamie Jones
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florentia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florentia/)*

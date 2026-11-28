@@ -1,6 +1,6 @@
 # Soho House Hong Kong
 
-Soho House Hong Kong is a music venue in Hong Kong with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Rewind presents Dor Danino & TRIPL" on Sat, 28 Nov 2026.
+Soho House Hong Kong is a music venue in Hong Kong with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Rewind presents Dor Danino & TRIPL" on Sat, 28 Nov 2026.
 
 Soho House Hong Kong is a music venue in Hong Kong listed on soundcheck. 3 upcoming gigs, with line-ups including 1908, DJ Fabsabs, Dor Danino and Fold and 2 more. See dates, start times and who's playing. 33 Des Voeux Rd W, Sheung Wan.
 
@@ -16,4 +16,4 @@ Soho House Hong Kong is a music venue in Hong Kong listed on soundcheck. 3 upcom
 
 33 Des Voeux Rd W, Sheung Wan, Hong Kong
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/soho-house-hong-kong/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/soho-house-hong-kong/)*

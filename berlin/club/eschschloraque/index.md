@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "M&Ms — born in the club, raised among friends" on Fri, 27 Nov 2026.
+Eschschloraque is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Beatschuppen meets Beat Bag (Hamburg / Molotow)" on Sat, 28 Nov 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Bial HClap and MissVergnügen. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Bial HClap and MissVergnügen. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | M&Ms — born in the club, raised among friends |  |
 | Sat, 28 Nov 2026 | Beatschuppen meets Beat Bag (Hamburg / Molotow) |  |
 | Wed, 2 Dec 2026 | Weird Tunes for Winter | MissVergnügen |
 | Fri, 4 Dec 2026 | Vinyltrottel |  |
@@ -23,4 +22,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

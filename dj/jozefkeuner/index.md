@@ -1,6 +1,6 @@
 # Józef Keuner
 
-Józef Keuner is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Crackhouse, Gdansk on Sat, 12 Dec 2026.
+Józef Keuner is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Crackhouse, Gdansk on Sat, 12 Dec 2026.
 
 Józef Keuner is a techno and trance artist, with 88 gigs on soundcheck across Gdansk, Krakow, Poznan and Warsaw and 1 more. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: Crackhouse, Gdansk on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Józef Keuner is a techno and trance artist, with 88 gigs on soundcheck across G
 
 VRAXX, ERNST (UA), SCHELLT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*

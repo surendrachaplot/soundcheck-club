@@ -1,8 +1,8 @@
 # Christa K
 
-Christa K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at frachtkante, Berlin on Sat, 28 Nov 2026.
+Christa K is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at frachtkante, Berlin on Sat, 28 Nov 2026.
 
-Christa K is a house and techno artist based in Germany, with 71 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 1 more. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: frachtkante, Berlin on Sat 28 Nov.
+Christa K is a house and techno artist based in Germany, with 72 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 1 more. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: frachtkante, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Christa K is a house and techno artist based in Germany, with 71 gigs on soundch
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | frachtkante | Berlin |
 | Sat, 28 Nov 2026 | TBA | Berlin |
+| Thu, 3 Dec 2026 | Golden Gate | Berlin |
 | Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Christa K is a house and techno artist based in Germany, with 71 gigs on soundch
 
 ATTA (GER), groovyjuri, DJ SPORTSCHUH
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*

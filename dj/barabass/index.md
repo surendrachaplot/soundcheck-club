@@ -1,6 +1,6 @@
 # Barabass
 
-Barabass is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Barabass is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 Barabass is a tech house and house artist based in Germany, with 9 gigs on soundcheck across Hamburg. Often billed alongside Mwaah, Punching Polly and gemue. Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ Barabass is a tech house and house artist based in Germany, with 9 gigs on sound
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 27 Nov 2026
 - Südpol, Hamburg · Fri, 10 Jul 2026
 - Turtur, Hamburg · Fri, 27 Mar 2026
 - Hafenklang, Hamburg · Sat, 13 Dec 2025
@@ -25,4 +26,4 @@ Barabass is a tech house and house artist based in Germany, with 9 gigs on sound
 
 Mwaah, Punching Polly, gemue
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barabass/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barabass/)*

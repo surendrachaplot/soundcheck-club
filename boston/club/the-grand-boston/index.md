@@ -1,14 +1,13 @@
 # The Grand Boston
 
-The Grand Boston is a music venue in Boston with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Avello" on Fri, 27 Nov 2026.
+The Grand Boston is a music venue in Boston with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Dre Sinatra" on Sat, 28 Nov 2026.
 
-The Grand Boston is a music venue in Boston listed on soundcheck. 9 upcoming gigs, with line-ups including bradeazy, GRAVEDGR and KLOUD. See dates, start times and who's playing. 58 Seaport Blvd Suite 300, Boston, MA 02210.
+The Grand Boston is a music venue in Boston listed on soundcheck. 8 upcoming gigs, with line-ups including bradeazy, GRAVEDGR and KLOUD. See dates, start times and who's playing. 58 Seaport Blvd Suite 300, Boston, MA 02210.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Avello |  |
 | Sat, 28 Nov 2026 | Dre Sinatra |  |
 | Thu, 17 Dec 2026 | KLOUD | KLOUD |
 | Fri, 18 Dec 2026 | GorillaT |  |
@@ -22,4 +21,4 @@ The Grand Boston is a music venue in Boston listed on soundcheck. 9 upcoming gig
 
 58 Seaport Blvd Suite 300, Boston, MA 02210, Boston
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*

@@ -1,6 +1,6 @@
 # Left/Right
 
-Left/Right is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Location With Ticket, Denver on Sat, 5 Dec 2026.
+Left/Right is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Location With Ticket, Denver on Sat, 5 Dec 2026.
 
 Left/Right is a breakbeat and garage artist based in United States of America, with 17 gigs on soundcheck across Austin, Dallas/Fort Worth, Denver and Los Angeles and 3 more. Often billed alongside Choopsie, DSQISE and canary yellow. Next up: TBA - Location With Ticket, Denver on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Left/Right is a breakbeat and garage artist based in United States of America, w
 
 Choopsie, DSQISE, canary yellow
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leftright/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leftright/)*

@@ -1,6 +1,6 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jungle Hollywood, Los Angeles on Sat, 12 Dec 2026.
+DJ Colette is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Jungle Hollywood, Los Angeles on Sat, 12 Dec 2026.
 
 DJ Colette is a house and deep house artist based in United States of America, with 87 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 13 more. Often billed alongside DJ Heather, DJ Dazy and Diz. Next up: Jungle Hollywood, Los Angeles on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ DJ Colette is a house and deep house artist based in United States of America, w
 
 DJ Heather, DJ Dazy, Diz (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

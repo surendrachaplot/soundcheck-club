@@ -1,6 +1,6 @@
 # Keishaboy
 
-Keishaboy is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
+Keishaboy is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 Keishaboy is a jungle and drum & bass artist based in United States of America, with 48 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside SOBA, M27 and Nobel Filth. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Keishaboy is a jungle and drum & bass artist based in United States of America, 
 
 SOBA, M27 (1), Nobel Filth
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keishaboy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keishaboy/)*

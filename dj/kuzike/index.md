@@ -1,6 +1,6 @@
 # kuzike
 
-kuzike is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - Secret Location (Col. Roma), Mexico City on Sat, 19 Dec 2026.
+kuzike is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location (Col. Roma), Mexico City on Sat, 19 Dec 2026.
 
 kuzike is a techno and acid artist based in Mexico, with 4 gigs on soundcheck across Mexico City. Often billed alongside AAAA, Alby Esc and Ann García. Next up: TBA - Secret Location (Col. Roma), Mexico City on Sat 19 Dec.
 
@@ -20,4 +20,4 @@ kuzike is a techno and acid artist based in Mexico, with 4 gigs on soundcheck ac
 
 AAAA, Alby Esc, Ann García
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzike/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzike/)*

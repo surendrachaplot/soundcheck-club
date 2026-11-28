@@ -1,6 +1,6 @@
 # Javier Bähr
 
-Javier Bähr is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Legal, Munich on Sat, 5 Dec 2026.
+Javier Bähr is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Legal, Munich on Sat, 5 Dec 2026.
 
 Javier Bähr is a house and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Robin Koch, LEZARDS and Max Israel. Next up: Legal, Munich on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Javier Bähr is a house and tech house artist based in Germany, with 17 gigs on 
 
 Robin Koch, LEZARDS, Max Israel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javierbahr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javierbahr/)*

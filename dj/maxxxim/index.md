@@ -1,6 +1,6 @@
 # MaXXXim
 
-MaXXXim is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
+MaXXXim is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
 
 MaXXXim is a bass and experimental artist based in United Kingdom, with 7 gigs on soundcheck across London and Tokyo. Often billed alongside Alix Perez, Amor Ante and Anna Morgan. Next up: Circus Tokyo, Tokyo on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ MaXXXim is a bass and experimental artist based in United Kingdom, with 7 gigs o
 
 Alix Perez, Amor Ante, Anna Morgan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxim/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxim/)*

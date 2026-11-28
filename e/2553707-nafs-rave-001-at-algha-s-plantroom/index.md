@@ -1,6 +1,6 @@
 # Nafs rave 001 at Algha's Plantroom
 
-Nafs rave 001 at Algha's Plantroom on Sun 29 Nov, London. 3 artists: 3MR., Loris and Veil. Techno and Electronica. See the line-up on soundcheck.
+Nafs rave 001 at Algha's Plantroom on Sun 29 Nov, London. 4 artists: 3MR., Anahita Shamsaei, Loris and Veil. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Nafs rave 001 at Algha's Plantroom on Sun 29 Nov, London. 3 artists: 3MR., Loris
 ## Line-up
 
 - 3MR.
+- Anahita Shamsaei
 - Loris
 - Veil
 

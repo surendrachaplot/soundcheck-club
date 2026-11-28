@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9" on Fri, 27 Nov 2026.
+Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Nina Farrina INVITES Henning Baer ☆ Adamatron ☆ 3ever" on Sat, 28 Nov 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 2NDRA, 3ever, Adamatron and Auryn and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including 2NDRA, 3ever, Adamatron and Auryn and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9 | ESTER., Prison Religion, tmk (CZ) |
 | Sat, 28 Nov 2026 | Nina Farrina INVITES Henning Baer ☆ Adamatron ☆ 3ever | 3ever, Adamatron, Henning Baer, Nina Farrina |
 | Fri, 4 Dec 2026 | House Of Eden | 2NDRA, DJames (2), Electro rite, Kewu, NEUWERTH, Niotech, PAY2PLAY, RiVid, SJ yellow, XENEA LUMRA, tmk (CZ) |
 | Sat, 5 Dec 2026 | Zlomená Scéna presents: Overview Music | Calyx, DjBadshape, Kyrist, Skantia |
@@ -23,4 +22,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with l
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

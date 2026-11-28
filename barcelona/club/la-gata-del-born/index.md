@@ -1,6 +1,6 @@
 # La Gata del Born
 
-La Gata del Born is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sin Sync Showcase" on Fri, 27 Nov 2026.
+La Gata del Born is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sin Sync Showcase" on Fri, 27 Nov 2026.
 
 La Gata del Born is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including DjBruxism and Mr. Fruty. See dates, start times and who's playing. Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona.
 
@@ -15,4 +15,4 @@ La Gata del Born is a music venue in Barcelona listed on soundcheck. 2 upcoming 
 
 Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona, Barcelona
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-gata-del-born/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-gata-del-born/)*

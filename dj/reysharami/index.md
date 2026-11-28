@@ -1,6 +1,6 @@
 # Reysha Rami
 
-Reysha Rami is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elsewhere, New York City on Fri, 11 Dec 2026.
+Reysha Rami is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Elsewhere, New York City on Fri, 11 Dec 2026.
 
 Reysha Rami is a techno and club artist based in United States of America, with 9 gigs on soundcheck across Glasgow, Los Angeles, Manchester and New York City and 4 more. Often billed alongside Shane Thomas, flirty800 and 9-System. Next up: Elsewhere, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Reysha Rami is a techno and club artist based in United States of America, with 
 
 Shane Thomas, flirty800, 9-System
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reysharami/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reysharami/)*

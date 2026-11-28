@@ -1,14 +1,13 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Mahmut Orhan is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Warehouse ZRH, Switzerland on Sat, 5 Dec 2026.
 
-Mahmut Orhan is a house and afro house artist based in Turkey, with 145 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside ARODES, Shimza and Adriatique. Next up: TBA, Buenos Aires on Fri 20 Nov.
+Mahmut Orhan is a house and afro house artist based in Turkey, with 145 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside ARODES, Shimza and Adriatique. Next up: Warehouse ZRH, Switzerland on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 5 Dec 2026 | Warehouse ZRH | Switzerland |
 | Wed, 9 Dec 2026 | Zorlu Performans Sanatları Merkezi | Istanbul |
 | Sat, 19 Dec 2026 | White Bay Power Station | Sydney |
@@ -31,4 +30,4 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 145 gigs on 
 
 ARODES, Shimza, Adriatique
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

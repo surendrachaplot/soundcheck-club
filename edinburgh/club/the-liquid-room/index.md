@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FLY House Heads: Job de Jong b2b Dennis Quin ANL" on Sat, 12 Dec 2026.
+The Liquid Room is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "FLY House Heads: Job de Jong b2b Dennis Quin ANL" on Sat, 12 Dec 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Ben Hemsley, Dennis Quin and Job de Jong. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -15,4 +15,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 2 upcoming g
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

@@ -1,6 +1,6 @@
 # Jack Mensah
 
-Jack Mensah is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 18 Dec 2026.
+Jack Mensah is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 18 Dec 2026.
 
 Jack Mensah is a garage and jungle artist based in United Kingdom, with 7 gigs on soundcheck across Berlin and London. Often billed alongside DJ Perception, Harry Luda and Lady Passion. Next up: Starlane Pizza Bar, London on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Jack Mensah is a garage and jungle artist based in United Kingdom, with 7 gigs o
 
 DJ Perception, Harry Luda, Lady Passion
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmensah/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmensah/)*

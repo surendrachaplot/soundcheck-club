@@ -1,6 +1,6 @@
 # Nile Fee
 
-Nile Fee is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Say No More Madrid, Madrid on Mon, 7 Dec 2026.
+Nile Fee is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Say No More Madrid, Madrid on Mon, 7 Dec 2026.
 
 Nile Fee is a house and electronica artist based in Spain, with 51 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside John Heaven, Daniel 2000 and Marcelo Pantani. Next up: Say No More Madrid, Madrid on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ Nile Fee is a house and electronica artist based in Spain, with 51 gigs on sound
 
 John Heaven, Daniel 2000, Marcelo Pantani
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*

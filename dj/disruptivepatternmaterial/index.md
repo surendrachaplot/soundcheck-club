@@ -1,6 +1,6 @@
 # Disruptive Pattern Material
 
-Disruptive Pattern Material is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 5 Dec 2026.
+Disruptive Pattern Material is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sub Club Melbourne, Melbourne on Sat, 5 Dec 2026.
 
 Disruptive Pattern Material is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Detroit, Melbourne and Sydney. Often billed alongside Matt Radovich, April Kerry and Chiara Kickdrum. Next up: Sub Club Melbourne, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Disruptive Pattern Material is a techno and house artist based in United States 
 
 Matt Radovich, April Kerry, Chiara Kickdrum
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disruptivepatternmaterial/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disruptivepatternmaterial/)*

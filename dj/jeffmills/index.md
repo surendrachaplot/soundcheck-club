@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
+Jeff Mills is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
 Jeff Mills is a techno and house artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 71 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
@@ -31,4 +31,4 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

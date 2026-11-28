@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "OVERDRIVE PRESENTS: BAILE F**K VOL. 006 with BGZ" on Sun, 29 Nov 2026.
+EQ San Diego is a music venue in San Diego with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "OVERDRIVE PRESENTS: BAILE F**K VOL. 006 with BGZ" on Sun, 29 Nov 2026.
 
 EQ San Diego is a music venue in San Diego listed on soundcheck. 8 upcoming gigs, with line-ups including Baby Jane, Bastion (US), Damian Kuro and Dianthe and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -21,4 +21,4 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 8 upcoming gigs
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

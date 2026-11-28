@@ -1,6 +1,6 @@
 # Mosher
 
-Mosher is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Egg London, London on Sat, 26 Dec 2026.
+Mosher is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Sat, 26 Dec 2026.
 
 Mosher is a techno and acid artist based in Argentina, with 29 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Guadalajara and 6 more. Often billed alongside Sebastian Mora, Diana May and Patrick Scuro. Next up: Egg London, London on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Mosher is a techno and acid artist based in Argentina, with 29 gigs on soundchec
 
 Sebastian Mora, Diana May, Patrick Scuro
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*

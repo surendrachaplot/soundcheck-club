@@ -1,6 +1,6 @@
 # PRIMIT
 
-PRIMIT is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bolero, Seoul on Sat, 28 Nov 2026.
+PRIMIT is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bolero, Seoul on Sat, 28 Nov 2026.
 
 PRIMIT is a techno and electro artist based in South Korea, with 64 gigs on soundcheck across Seoul. Often billed alongside Honn, AVALON and Apachi. Next up: Bolero, Seoul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ PRIMIT is a techno and electro artist based in South Korea, with 64 gigs on soun
 
 Honn, AVALON, Apachi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/primit-4/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/primit-4/)*

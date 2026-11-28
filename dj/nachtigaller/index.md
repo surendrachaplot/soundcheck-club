@@ -1,6 +1,6 @@
 # Nachtigaller
 
-Nachtigaller is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Slaktkyrkan, Stockholm on Sat, 28 Nov 2026.
+Nachtigaller is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Slaktkyrkan, Stockholm on Sat, 28 Nov 2026.
 
 Nachtigaller is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Basel, Berlin, Cologne and Dortmund / Essen and 9 more. Often billed alongside In Furcht, Obscure Shape and A.N.I.. Next up: Slaktkyrkan, Stockholm on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Nachtigaller is a techno and trance artist based in Germany, with 33 gigs on sou
 
 In Furcht, Obscure Shape, A.N.I.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigaller/)*

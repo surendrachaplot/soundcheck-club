@@ -1,6 +1,6 @@
 # 96zen
 
-96zen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 4 Dec 2026.
+96zen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vektor - The Klub, Budapest on Fri, 4 Dec 2026.
 
 96zen is a techno and trance artist based in Hungary, with 22 gigs on soundcheck across Budapest. Often billed alongside Valenthin, CRIME and Paralich. Next up: Vektor - The Klub, Budapest on Fri 4 Dec.
 
@@ -25,4 +25,4 @@
 
 Valenthin, CRIME, Paralich
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*

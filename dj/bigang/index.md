@@ -1,6 +1,6 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Hotel, Manchester on Sun, 27 Dec 2026.
+Big Ang is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The White Hotel, Manchester on Sun, 27 Dec 2026.
 
 Big Ang is a bass and garage artist based in United Kingdom, with 54 gigs on soundcheck across Bristol, Leeds, London and Manchester and 4 more. Often billed alongside Jamie Duggan, Silva Bumpa and Phatworld. Next up: The White Hotel, Manchester on Sun 27 Dec.
 
@@ -26,4 +26,4 @@ Big Ang is a bass and garage artist based in United Kingdom, with 54 gigs on sou
 
 Jamie Duggan, Silva Bumpa, Phatworld
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*

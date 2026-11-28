@@ -1,6 +1,6 @@
 # Empro
 
-Empro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Empro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
 Empro is a techno and house artist based in Germany, with 66 gigs on soundcheck across Berlin, Lausanne, Leipzig and Munich and 1 more. Often billed alongside Coco, Leon Licht and Stan Starry. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ Empro is a techno and house artist based in Germany, with 66 gigs on soundcheck 
 
 ## Recently played
 
+- Hoppetosse, Berlin · Fri, 27 Nov 2026
 - Hoppetosse, Berlin · Fri, 11 Sept 2026
 - Bahnwärter Thiel, Munich · Fri, 19 Jun 2026
 - Golden Flamingo, Berlin · Sat, 13 Jun 2026
@@ -20,10 +21,9 @@ Empro is a techno and house artist based in Germany, with 66 gigs on soundcheck 
 - Hoppetosse, Berlin · Fri, 15 May 2026
 - Hoppetosse, Berlin · Fri, 13 Mar 2026
 - Golden Gate, Berlin · Thu, 5 Mar 2026
-- Badehaus Berlin, Berlin · Sun, 1 Mar 2026
 
 ## Shares bills with
 
 Coco, Leon Licht, Stan Starry
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/empro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/empro/)*

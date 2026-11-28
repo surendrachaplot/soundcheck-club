@@ -1,15 +1,13 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Trym & Greg Willen" on Fri, 27 Nov 2026.
+Gate Milano is a music venue in Milan with 17 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "BISCOTTO: Héctor Oaks" on Fri, 4 Dec 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including AEREA, Amygdala, Anetha and Angerfist and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 17 upcoming gigs, with line-ups including AEREA, Amygdala, Anetha and Angerfist and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Trym & Greg Willen | Flaiv Đarkø, Trym |
-| Fri, 27 Nov 2026 | 180BPM |  |
 | Fri, 4 Dec 2026 | BISCOTTO: Héctor Oaks | Héctor Oaks, Ivan Carbone, NOVZE |
 | Mon, 7 Dec 2026 | PLASMA: Clara Cuvé & William Luck | ANKKH, Clara Cuvé, William Luck |
 | Mon, 7 Dec 2026 | ARKÔRE: Hardbounce • Early Hardstyle • Old School Hardcore | Sick Boy |
@@ -18,9 +16,11 @@ Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming gigs, wi
 | Sat, 12 Dec 2026 | Novocaine+: Beste Hira | Beste Hira, MISERIA, RIBLX |
 | Fri, 18 Dec 2026 | Ben Klock & Ignez | ARMANDO, Ben Klock, Ignez |
 | Sat, 26 Dec 2026 | Angerfist | Angerfist, Gianni Di Bernardo |
+| Tue, 5 Jan 2027 | Nicole Moudaber & Anna Tur | Anna Tur, Nicole Moudaber |
+| Fri, 15 Jan 2027 | VERBIND: FJAAK | Exergic, FJAAK, Judy (ES) |
 
 ## Address
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

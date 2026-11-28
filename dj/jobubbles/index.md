@@ -1,6 +1,6 @@
 # Jo Bubbles
 
-Jo Bubbles is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Timebar, Stockholm on Sat, 28 Nov 2026.
+Jo Bubbles is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Timebar, Stockholm on Sat, 28 Nov 2026.
 
 Jo Bubbles is a house and disco artist based in Sweden, with 15 gigs on soundcheck across Berlin, Gothenburg and Stockholm. Often billed alongside TONOTOPI, ANDI A. and ATTA (GER). Next up: Timebar, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jo Bubbles is a house and disco artist based in Sweden, with 15 gigs on soundche
 
 TONOTOPI, ANDI A., ATTA (GER)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobubbles/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jobubbles/)*

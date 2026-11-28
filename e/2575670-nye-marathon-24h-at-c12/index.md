@@ -16,7 +16,7 @@ NYE MARATHON 24H at C12 on Fri 1 Jan, Brussels. 18 artists: Aroh, Azo, Clara D a
 - Disjoli
 - Initial Code
 - JEKKAMAÏ
-- KŌMA (3)
+- KŌMA
 - LOV (2)
 - Maemm
 - MARRØN

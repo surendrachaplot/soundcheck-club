@@ -1,6 +1,6 @@
 # T-Total
 
-T-Total is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Mash House, Edinburgh on Sat, 28 Nov 2026.
+T-Total is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Mash House, Edinburgh on Sat, 28 Nov 2026.
 
 T-Total is a club and experimental artist based in United Kingdom, with 11 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Buckfast Barbie, al gu and Sweet Philly. Next up: The Mash House, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ T-Total is a club and experimental artist based in United Kingdom, with 11 gigs 
 
 Buckfast Barbie, al gu, Sweet Philly
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t-total/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t-total/)*

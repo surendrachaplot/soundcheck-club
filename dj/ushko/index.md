@@ -1,6 +1,6 @@
 # Ushko
 
-Ushko is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
+Ushko is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
 
 Ushko is a club and experimental artist based in United Kingdom, with 35 gigs on soundcheck across Brighton, Glasgow, London and Manchester. Often billed alongside Slayphex Twins, Moa Pillar and HIKIING. Next up: The Greyhound, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ushko is a club and experimental artist based in United Kingdom, with 35 gigs on
 
 Slayphex Twins, Moa Pillar, HIKIING
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ushko/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ushko/)*

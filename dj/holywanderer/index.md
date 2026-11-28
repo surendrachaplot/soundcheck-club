@@ -1,6 +1,6 @@
 # Holywanderer
 
-Holywanderer is a EBM and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
+Holywanderer is a EBM and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
 
 Holywanderer is an ebm and electro artist, with 14 gigs on soundcheck across Berlin. Often billed alongside Heshumi, doctor doms and nuarrrrr. Next up: TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Holywanderer is an ebm and electro artist, with 14 gigs on soundcheck across Ber
 
 Heshumi, doctor doms, nuarrrrr
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*

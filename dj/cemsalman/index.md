@@ -1,6 +1,6 @@
 # Cem Salman
 
-Cem Salman is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Suma Han, Istanbul on Sat, 12 Dec 2026.
+Cem Salman is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Suma Han, Istanbul on Sat, 12 Dec 2026.
 
 Cem Salman is a techno and club artist, with 6 gigs on soundcheck across Istanbul. Often billed alongside Murat Uncuoglu, Phallen and Alican. Next up: Suma Han, Istanbul on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Cem Salman is a techno and club artist, with 6 gigs on soundcheck across Istanbu
 
 Murat Uncuoglu, Phallen, Alican
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cemsalman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cemsalman/)*

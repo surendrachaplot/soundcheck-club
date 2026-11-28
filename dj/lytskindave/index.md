@@ -1,6 +1,6 @@
 # LYTSKIN DAVE
 
-LYTSKIN DAVE is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Congregation Detroit, Detroit on Sat, 5 Dec 2026.
+LYTSKIN DAVE is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Congregation Detroit, Detroit on Sat, 5 Dec 2026.
 
 LYTSKIN DAVE is a house and deep house artist, with 10 gigs on soundcheck across Detroit. Often billed alongside Rachael Parker, DJ SYNC and Bruce Bailey. Next up: The Congregation Detroit, Detroit on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ LYTSKIN DAVE is a house and deep house artist, with 10 gigs on soundcheck across
 
 Rachael Parker, DJ SYNC, Bruce Bailey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lytskindave/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lytskindave/)*

@@ -1,6 +1,6 @@
 # Gubwubs
 
-Gubwubs is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Gubwubs is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Gubwubs is a house and progressive house artist based in Philippines, with 15 gigs on soundcheck across Ho Chi Minh City, Manila, Seoul and Thailand and 1 more. Often billed alongside ThirstKid, Limsum and BadKiss. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Gubwubs is a house and progressive house artist based in Philippines, with 15 gi
 
 ThirstKid, Limsum, BadKiss
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gubwubs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gubwubs/)*

@@ -1,14 +1,15 @@
 # Alyne
 
-Alyne is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Odonien, Cologne on Sat, 5 Dec 2026.
+Alyne is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Odonien, Cologne on Sat, 5 Dec 2026.
 
-Alyne is a techno and tech house artist based in Germany, with 56 gigs on soundcheck across Berlin, Cologne, Malmo and Nürnberg and 1 more. Often billed alongside tim|bre, justUS and Molekularmusik. Next up: Odonien, Cologne on Sat 5 Dec.
+Alyne is a techno and tech house artist based in Germany, with 57 gigs on soundcheck across Berlin, Cologne, Malmo and Nürnberg and 1 more. Often billed alongside tim|bre, justUS and Molekularmusik. Next up: Odonien, Cologne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Odonien | Cologne |
+| Sat, 26 Dec 2026 | Insomnia | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alyne is a techno and tech house artist based in Germany, with 56 gigs on soundc
 
 tim|bre, justUS, Molekularmusik
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyne-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyne-de/)*

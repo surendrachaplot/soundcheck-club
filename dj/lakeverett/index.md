@@ -1,6 +1,6 @@
 # LAKEVERETT
 
-LAKEVERETT is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+LAKEVERETT is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 LAKEVERETT is a house and disco artist, with 5 gigs on soundcheck across San Francisco/Oakland and Seattle. Often billed alongside Papa Xanny, 3kelves and ALEX GOODCAT. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -21,4 +21,4 @@ LAKEVERETT is a house and disco artist, with 5 gigs on soundcheck across San Fra
 
 Papa Xanny, 3kelves, ALEX GOODCAT
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakeverett/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakeverett/)*

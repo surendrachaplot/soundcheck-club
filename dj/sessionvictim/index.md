@@ -1,6 +1,6 @@
 # Session Victim
 
-Session Victim is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Jazz Cafe, London on Fri, 11 Dec 2026.
+Session Victim is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Jazz Cafe, London on Fri, 11 Dec 2026.
 
 Session Victim is a house and disco artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Brussels and Detroit and 26 more. Often billed alongside Luca Olivotto, Marie Lung and Nephews. Next up: The Jazz Cafe, London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Session Victim is a house and disco artist based in Germany, with 75 gigs on sou
 
 Luca Olivotto, Marie Lung, Nephews
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*

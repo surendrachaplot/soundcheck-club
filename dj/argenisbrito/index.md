@@ -1,6 +1,6 @@
 # Argenis Brito
 
-Argenis Brito is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Topazdeluxe, Monterrey on Sat, 28 Nov 2026.
+Argenis Brito is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Topazdeluxe, Monterrey on Sat, 28 Nov 2026.
 
 Argenis Brito is a house and minimal artist based in Venezuela, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 12 more. Often billed alongside Dandy Jack, Nils Ohrmann and Bastard Love. Next up: Topazdeluxe, Monterrey on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Argenis Brito is a house and minimal artist based in Venezuela, with 50 gigs on 
 
 Dandy Jack, Nils Ohrmann, Bastard Love
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*

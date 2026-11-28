@@ -1,6 +1,6 @@
 # Robin Ordell
 
-Robin Ordell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
+Robin Ordell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
 
 Robin Ordell is a house and techno artist based in France, with 53 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 17 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: Starlane Pizza Bar, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Robin Ordell is a house and techno artist based in France, with 53 gigs on sound
 
 Olita (UK), Sam Bangura, Greg Brockmann
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*

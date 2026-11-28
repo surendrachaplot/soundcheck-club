@@ -1,6 +1,6 @@
 # Jay Fase
 
-Jay Fase is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Folklor, Lausanne on Sat, 5 Dec 2026.
+Jay Fase is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Folklor, Lausanne on Sat, 5 Dec 2026.
 
 Jay Fase is a house and techno artist based in Switzerland, with 34 gigs on soundcheck across Amsterdam, Beijing, Geneva and Ibiza and 5 more. Often billed alongside Evan Preston, Animal Trainer and Bedouin. Next up: Folklor, Lausanne on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Jay Fase is a house and techno artist based in Switzerland, with 34 gigs on soun
 
 Evan Preston, Animal Trainer, Bedouin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfase/)*

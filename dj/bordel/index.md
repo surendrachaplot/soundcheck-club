@@ -1,8 +1,8 @@
 # BORDEL!
 
-BORDEL! is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at China Star Restaurant, Antwerp on Thu, 31 Dec 2026.
+BORDEL! is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at China Star Restaurant, Antwerp on Thu, 31 Dec 2026.
 
-BORDEL! is a house and disco artist, with 15 gigs on soundcheck across Antwerp. Often billed alongside John Noseda, Oko Stellar and Thang. Next up: China Star Restaurant, Antwerp on Thu 31 Dec.
+BORDEL! is a house and disco artist based in Belgium, with 15 gigs on soundcheck across Antwerp. Often billed alongside John Noseda, Oko Stellar and Thang. Next up: China Star Restaurant, Antwerp on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BORDEL! is a house and disco artist, with 15 gigs on soundcheck across Antwerp. 
 
 John Noseda, Oko Stellar, Thang
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bordel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bordel/)*

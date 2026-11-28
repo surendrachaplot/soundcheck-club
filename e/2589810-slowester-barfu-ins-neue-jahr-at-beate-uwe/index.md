@@ -1,6 +1,6 @@
-# SLOWESTER /// barfuß ins neue Jahr at Beate Uwe
+# SLOWESTER /// Barfuß ins neue Jahr at Beate Uwe
 
-SLOWESTER /// barfuß ins neue Jahr at Beate Uwe on Thu 31 Dec, Berlin. 4 artists: anahï, doob, Janoma and Seyde. Deep House and Downtempo. See the line-up on soundcheck.
+SLOWESTER /// Barfuß ins neue Jahr at Beate Uwe on Thu 31 Dec, Berlin. 4 artists: anahï, doob, Janoma and Seyde. Deep House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

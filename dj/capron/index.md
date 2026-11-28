@@ -1,6 +1,6 @@
 # Capron
 
-Capron is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cruise Terminal Rotterdam, Rotterdam on Sat, 26 Dec 2026.
+Capron is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cruise Terminal Rotterdam, Rotterdam on Sat, 26 Dec 2026.
 
 Capron is a house and tech house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Barcelona, London and Rotterdam and 1 more. Often billed alongside Stef Davidse, AAT (NL) and ACA (YU). Next up: Cruise Terminal Rotterdam, Rotterdam on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Capron is a house and tech house artist based in Netherlands, with 29 gigs on so
 
 Stef Davidse, AAT (NL), ACA (YU)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capron/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capron/)*

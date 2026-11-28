@@ -1,6 +1,6 @@
 # MICKY XOV
 
-MICKY XOV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
+MICKY XOV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
 
 MICKY XOV is a techno and hardcore artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside ASHTREY, Ivicore and TEDESCO. Next up: The Greyhound, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ MICKY XOV is a techno and hardcore artist based in United Kingdom, with 16 gigs 
 
 ASHTREY, Ivicore, TEDESCO
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyxov/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyxov/)*

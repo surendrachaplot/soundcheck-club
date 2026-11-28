@@ -1,14 +1,13 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Amochi + Kiki + Saladdin + Mr.Silver (DJ-Set)" on Fri, 27 Nov 2026.
+Madame Claude is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "DJ NIGHT with Lyndon Lewis" on Sat, 28 Nov 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Corrado Maria De Santis, doctor doms, Dominique and Kiki and 2 more. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Corrado Maria De Santis, doctor doms, Dominique and Lyndon Lewis and 2 more. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Amochi + Kiki + Saladdin + Mr.Silver (DJ-Set) | Kiki |
 | Sat, 28 Nov 2026 | DJ NIGHT with Lyndon Lewis | Lyndon Lewis |
 | Mon, 30 Nov 2026 | Experimontag: sic + Vittoria Assembri + Follia + Manuel Carbone (DJ-Set) | Manuel Carbone |
 | Thu, 3 Dec 2026 | STOMP | Paulina Panik |
@@ -18,9 +17,10 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 12 upcoming gigs,
 | Fri, 11 Dec 2026 | Flip-Flap | Rudy Zigliara, doctor doms |
 | Sat, 12 Dec 2026 | DJ NIGHT with Dominique | Dominique (2) |
 | Mon, 14 Dec 2026 | Experimontag: Hannes Buder & The Italian Brotherhood + Ombra + Kapno & Alexz Grieco + POKO COX | Ombra, POKO COX |
+| Thu, 17 Dec 2026 | SHORTIES FILMS SCREENING #31 + Tony Garagist (DJ-Set) |  |
 
 ## Address
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

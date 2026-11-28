@@ -1,14 +1,14 @@
 # krawallin
 
-krawallin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 10 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+krawallin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Prisma, Berlin on Tue, 8 Dec 2026.
 
-krawallin is a techno and trance artist based in Austria, with 4 gigs on soundcheck across Berlin. Often billed alongside Roots., ALLES ATZIG and AR Keetman. Next up: Sensorium, Berlin on Fri 20 Nov.
+krawallin is a techno and house artist based in Austria, with 4 gigs on soundcheck across Berlin. Often billed alongside Roots., ALLES ATZIG and AR Keetman. Next up: Prisma, Berlin on Tue 8 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Sensorium | Berlin |
+| Tue, 8 Dec 2026 | Prisma | Berlin |
 
 ## Recently played
 
@@ -20,4 +20,4 @@ krawallin is a techno and trance artist based in Austria, with 4 gigs on soundch
 
 Roots., ALLES ATZIG, AR Keetman
 
-*Updated Tue, 10 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallin/)*

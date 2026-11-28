@@ -1,6 +1,6 @@
 # Shishmish
 
-Shishmish is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at StudioB7, Munich on Thu, 31 Dec 2026.
+Shishmish is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at StudioB7, Munich on Thu, 31 Dec 2026.
 
 Shishmish is a techno and minimal techno artist based in Germany, with 8 gigs on soundcheck across Munich. Often billed alongside SASHTY, Marcel Dusk and Dykstra. Next up: StudioB7, Munich on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Shishmish is a techno and minimal techno artist based in Germany, with 8 gigs on
 
 SASHTY, Marcel Dusk, Dykstra
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shishmish/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shishmish/)*

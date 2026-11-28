@@ -1,18 +1,17 @@
 # Stoked&stoned
 
-Stoked&stoned is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ducked and Dive" on Fri, 27 Nov 2026.
+Stoked&stoned is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "venn invites...Occibel" on Sat, 28 Nov 2026.
 
-Stoked&stoned is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Botermelk, Mignon, Nolove and Occibel and 2 more. See dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
+Stoked&stoned is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including DJ Botermelk, Mignon, Occibel and YESL. See dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ducked and Dive | Mignon (2), Nolove, Sebibadboy, Youngseok |
 | Sat, 28 Nov 2026 | venn invites...Occibel | DJ Botermelk, Mignon (2), Occibel, YESL |
 
 ## Address
 
 Seoul, Yongsan District, Daesagwan-ro, 72 2F, Seoul
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*

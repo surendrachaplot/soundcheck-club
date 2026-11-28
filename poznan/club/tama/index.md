@@ -1,14 +1,13 @@
 # Tama
 
-Tama is a music venue in Poznan with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ɴᴇᴡ ᴀɢᴇ: Bad Boombox" on Fri, 27 Nov 2026.
+Tama is a music venue in Poznan with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "RAVEDRON: VORTEK'S" on Sat, 28 Nov 2026.
 
-Tama is a music venue in Poznan listed on soundcheck. 6 upcoming gigs, with line-ups including AeN, Angerfist, Bad Boombox and BOBAIO and 2 more. See dates, start times and who's playing. Niezłomnych 2, 61-001 Poznań.
+Tama is a music venue in Poznan listed on soundcheck. 5 upcoming gigs, with line-ups including Angerfist, BOBAIO, Caniche and DAX J and 2 more. See dates, start times and who's playing. Niezłomnych 2, 61-001 Poznań.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | ɴᴇᴡ ᴀɢᴇ: Bad Boombox | AeN, Bad Boombox, Theviacya |
 | Sat, 28 Nov 2026 | RAVEDRON: VORTEK'S | Stara |
 | Fri, 4 Dec 2026 | Tama: Ely Oaks // SOLD OUT | Ely Oaks, Kubok, Mambi Dexter |
 | Fri, 18 Dec 2026 | Obsession: Kobosil - TASSERY - Caniche | Caniche, Kobosil, TASSERY |
@@ -19,4 +18,4 @@ Tama is a music venue in Poznan listed on soundcheck. 6 upcoming gigs, with line
 
 Niezłomnych 2, 61-001 Poznań, Poznan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/tama/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/tama/)*

@@ -1,6 +1,6 @@
 # Duserock
 
-Duserock is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Duserock is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Duserock is a house and disco artist based in United States of America, with 42 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Phleck, DJ Cira and Julius Papp. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Duserock is a house and disco artist based in United States of America, with 42 
 
 Phleck, DJ Cira, Julius Papp
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duserock/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duserock/)*

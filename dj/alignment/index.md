@@ -1,6 +1,6 @@
 # Alignment
 
-Alignment is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Nordstern, Basel on Sat, 28 Nov 2026.
+Alignment is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Nordstern, Basel on Sat, 28 Nov 2026.
 
 Alignment is a techno and house artist based in Germany, with 265 gigs on soundcheck across Amsterdam, Andorra, Antwerp and Athens and 85 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Nordstern, Basel on Sat 28 Nov.
 
@@ -34,4 +34,4 @@ Alignment is a techno and house artist based in Germany, with 265 gigs on soundc
 
 Shlømo, Basswell, DYEN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

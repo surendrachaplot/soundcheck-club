@@ -1,14 +1,14 @@
 # 999ADJ
 
-999ADJ is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mahjong Bar, Toronto on Wed, 2 Dec 2026.
+999ADJ is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Mahjong Bar, Toronto on Thu, 3 Dec 2026.
 
-999ADJ is a techno and club artist based in Canada, with 119 gigs on soundcheck across Chicago, Detroit, Montreal and New York City and 3 more. Often billed alongside SEXMP3, JIYNX and TJ Traxx. Next up: Mahjong Bar, Toronto on Wed 2 Dec.
+999ADJ is a techno and club artist based in Canada, with 119 gigs on soundcheck across Chicago, Detroit, Montreal and New York City and 3 more. Often billed alongside SEXMP3, JIYNX and TJ Traxx. Next up: Mahjong Bar, Toronto on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Dec 2026 | Mahjong Bar | Toronto |
+| Thu, 3 Dec 2026 | Mahjong Bar | Toronto |
 | Fri, 4 Dec 2026 | The Jama | Toronto |
 | Sat, 12 Dec 2026 | Bar Datcha | Montreal |
 
@@ -27,4 +27,4 @@
 
 SEXMP3, JIYNX, TJ Traxx
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*

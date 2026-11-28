@@ -1,6 +1,6 @@
 # Shinsuke Goto
 
-Shinsuke Goto is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Enter Shibuya, Tokyo on Mon, 7 Dec 2026.
+Shinsuke Goto is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Enter Shibuya, Tokyo on Mon, 7 Dec 2026.
 
 Shinsuke Goto is a techno and house artist based in Japan, with 185 gigs on soundcheck across Bangkok, Berlin, Düsseldorf and Ho Chi Minh City and 10 more. Often billed alongside Mari Sakurai, YUTA and DJ Yazi. Next up: Enter Shibuya, Tokyo on Mon 7 Dec.
 
@@ -29,4 +29,4 @@ Shinsuke Goto is a techno and house artist based in Japan, with 185 gigs on soun
 
 Mari Sakurai, YUTA, DJ Yazi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinsukegoto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinsukegoto/)*

@@ -1,6 +1,6 @@
 # FX-31
 
-FX-31 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
+FX-31 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
 FX-31 is a techno and house artist based in Austria, with 26 gigs on soundcheck across Berlin, Bratislava, Leipzig and Stuttgart and 1 more. Often billed alongside KAROLINA, NESS T and KRAWALLBARBIE. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ FX-31 is a techno and house artist based in Austria, with 26 gigs on soundcheck 
 
 KAROLINA, NESS T, KRAWALLBARBIE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fx-31/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fx-31/)*

@@ -1,6 +1,6 @@
 # Mesqit
 
-Mesqit is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Sat, 26 Dec 2026.
+Mesqit is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gare Porto, Porto on Sat, 26 Dec 2026.
 
 Mesqit is a drum & bass and electronica artist based in Portugal, with 7 gigs on soundcheck across Barcelona and Porto. Often billed alongside CASH FROM HASH, NOIA and Akira. Next up: Gare Porto, Porto on Sat 26 Dec.
 
@@ -23,4 +23,4 @@ Mesqit is a drum & bass and electronica artist based in Portugal, with 7 gigs on
 
 CASH FROM HASH, NOIA, Akira
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesqit/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesqit/)*

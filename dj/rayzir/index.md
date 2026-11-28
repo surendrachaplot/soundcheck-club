@@ -1,6 +1,6 @@
 # Rayzir
 
-Rayzir is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Toffler, Rotterdam on Fri, 18 Dec 2026.
+Rayzir is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Toffler, Rotterdam on Fri, 18 Dec 2026.
 
 Rayzir is a house and tech house artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 6 more. Often billed alongside Benny Rodrigues, Karim Soliman and MENESIX. Next up: Toffler, Rotterdam on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Rayzir is a house and tech house artist based in Netherlands, with 75 gigs on so
 
 Benny Rodrigues, Karim Soliman, MENESIX
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayzir/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayzir/)*

@@ -1,8 +1,8 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "PomPEPS at Toekomstmuziek" on Sat, 28 Nov 2026.
+Toekomstmuziek is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "PomPEPS at Toekomstmuziek" on Sat, 28 Nov 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Audiofools, Children of Valis, Christoph Cham and Daniël and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Audiofools, Caelestis, Children of Valis and Christoph Cham and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 11 upcoming g
 | Fri, 4 Dec 2026 | ROOTED | Christoph Cham, LGNA, Soof, VITTAO, ilse dorine |
 | Sat, 5 Dec 2026 | 15 Years Of Vantara Vichitra Records | Audiofools |
 | Fri, 11 Dec 2026 | Omnibus with Jutta, Noah Lopes, Zeldenrust + the collective | Daniël, Voss, Zeldenrust, no:attitude |
+| Fri, 11 Dec 2026 | CONVERGENCE | DJ SEXSTASY, Spikey Lee, TEKNA |
 | Sat, 12 Dec 2026 | De Nachtkring | Children of Valis, RXS (2), jannah |
 | Sun, 13 Dec 2026 | Artemis presents: Amstel Emo |  |
 | Thu, 31 Dec 2026 | HNDRD FataMorganisch |  |
 | Fri, 8 Jan 2027 | Break Protocol #3 | DJ Crystal Bitch, Daniel Englisch, Masha Wordpress |
-| Sat, 16 Jan 2027 | Entropía |  |
 
 ## Address
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

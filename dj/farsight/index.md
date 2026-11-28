@@ -1,6 +1,6 @@
 # Farsight
 
-Farsight is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 28 Jan 2027.
+Farsight is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 28 Jan 2027.
 
 Farsight is a techno and bass artist based in United States of America, with 104 gigs on soundcheck across Atlanta, Austin, Baltimore and Beijing and 17 more. Often billed alongside RITCHRD, nonsuit and DJ JUANNY. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 28 Jan.
 
@@ -25,4 +25,4 @@ Farsight is a techno and bass artist based in United States of America, with 104
 
 RITCHRD, nonsuit, DJ JUANNY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farsight/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farsight/)*

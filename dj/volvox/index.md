@@ -1,6 +1,6 @@
 # Volvox
 
-Volvox is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - New warehouse, San Francisco/Oakland on Sat, 12 Dec 2026.
+Volvox is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - New warehouse, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 Volvox is a techno and house artist based in United States of America, with 180 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 57 more. Often billed alongside Elli Acula, Boris and Ellen Allien. Next up: TBA - New warehouse, San Francisco/Oakland on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Volvox is a techno and house artist based in United States of America, with 180 
 
 Elli Acula, Boris, Ellen Allien
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*

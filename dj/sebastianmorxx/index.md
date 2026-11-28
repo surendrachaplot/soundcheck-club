@@ -1,6 +1,6 @@
 # Sebastian Morxx
 
-Sebastian Morxx is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Sebastian Morxx is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Sebastian Morxx is a house and techno artist based in Colombia, with 8 gigs on soundcheck across Miami and Singapore. Often billed alongside AMPRS&ND, Adam Beyer and Alley Kay. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -24,4 +24,4 @@ Sebastian Morxx is a house and techno artist based in Colombia, with 8 gigs on s
 
 AMPRS&ND, Adam Beyer, Alley Kay
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmorxx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmorxx/)*

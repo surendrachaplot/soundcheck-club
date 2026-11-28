@@ -1,6 +1,6 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Andi is a EBM and Italo Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Andi is an ebm and italo disco artist based in United States of America, with 239 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 23 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: The Cause, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Andi is an ebm and italo disco artist based in United States of America, with 23
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

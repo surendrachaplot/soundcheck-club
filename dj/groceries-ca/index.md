@@ -1,6 +1,6 @@
 # Groceries
 
-Groceries is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Datcha, Montreal on Sat, 12 Dec 2026.
+Groceries is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bar Datcha, Montreal on Sat, 12 Dec 2026.
 
 Groceries is a house and electro artist based in Canada, with 9 gigs on soundcheck across Montreal. Often billed alongside Jordan Gardner, 999ADJ and Ficilio. Next up: Bar Datcha, Montreal on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Groceries is a house and electro artist based in Canada, with 9 gigs on soundche
 
 Jordan Gardner, 999ADJ, Ficilio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groceries-ca/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groceries-ca/)*

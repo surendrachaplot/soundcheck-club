@@ -1,6 +1,6 @@
 # Peak Sports Bar
 
-Peak Sports Bar is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Peak Distruction" on Sat, 5 Dec 2026.
+Peak Sports Bar is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Peak Distruction" on Sat, 5 Dec 2026.
 
 Peak Sports Bar is a music venue in Sheffield listed on soundcheck. 1 upcoming gig, with line-ups including Tommy Badman. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Peak Sports Bar is a music venue in Sheffield listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Peak Distruction | Tommy Badman |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/peak-sports-bar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/peak-sports-bar/)*

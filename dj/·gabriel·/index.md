@@ -1,6 +1,6 @@
 # ·gabriel·
 
-·gabriel· is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 3 Dec 2026.
+·gabriel· is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 3 Dec 2026.
 
 ·gabriel· is a house and club artist based in Italy, with 8 gigs on soundcheck across Berlin. Often billed alongside AR Keetman, Luca de Michieli and Toin Cruise. Next up: Bulbul Berlin, Berlin on Thu 3 Dec.
 
@@ -24,4 +24,4 @@
 
 AR Keetman, Luca de Michieli, Toin Cruise
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/·gabriel·/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/·gabriel·/)*

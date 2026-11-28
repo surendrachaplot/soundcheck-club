@@ -1,6 +1,6 @@
 # John-E
 
-John-E is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Harbour Music Shelter, Lisbon on Sun, 29 Nov 2026.
+John-E is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Harbour Music Shelter, Lisbon on Sun, 29 Nov 2026.
 
 John-E is a techno and house artist based in Portugal, with 100 gigs on soundcheck across Lisbon. Often billed alongside Gear, Kokeshi and Bernardo Vaz. Next up: Harbour Music Shelter, Lisbon on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ John-E is a techno and house artist based in Portugal, with 100 gigs on soundche
 
 Gear, Kokeshi, Bernardo Vaz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/john-e/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/john-e/)*

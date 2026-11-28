@@ -1,6 +1,6 @@
 # Sidney Myer Music Bowl
 
-Sidney Myer Music Bowl is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "New Year's At The Bowl" on Thu, 31 Dec 2026.
+Sidney Myer Music Bowl is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "New Year's At The Bowl" on Thu, 31 Dec 2026.
 
 Sidney Myer Music Bowl is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Aline Brooklyn, Adriana, CC:DISCO! and Claire O'Brien and 2 more. See dates, start times and who's playing. 21 Linlithgow Ave; Melbourne, VIC 3004; Australia.
 
@@ -15,4 +15,4 @@ Sidney Myer Music Bowl is a music venue in Melbourne listed on soundcheck. 2 upc
 
 21 Linlithgow Ave; Melbourne, VIC 3004; Australia, Melbourne
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sidney-myer-music-bowl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sidney-myer-music-bowl/)*

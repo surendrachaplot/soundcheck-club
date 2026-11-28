@@ -1,6 +1,6 @@
 # DJ PHATS
 
-DJ PHATS is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 18 Dec 2026.
+DJ PHATS is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 18 Dec 2026.
 
 DJ PHATS is a footwork and house artist, with 8 gigs on soundcheck across Chicago and Detroit. Often billed alongside DJ Slugo, Traxman and DJ Clent. Next up: Lincoln Factory, Detroit on Fri 18 Dec.
 
@@ -24,4 +24,4 @@ DJ PHATS is a footwork and house artist, with 8 gigs on soundcheck across Chicag
 
 DJ Slugo, Traxman, DJ Clent
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphats/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djphats/)*

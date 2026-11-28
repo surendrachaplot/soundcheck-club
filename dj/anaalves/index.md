@@ -1,6 +1,6 @@
 # Ana Alves
 
-Ana Alves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
+Ana Alves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 5 Dec 2026.
 
 Ana Alves is a techno and house artist based in Spain, with 78 gigs on soundcheck across Barcelona, Berlin, Bucharest and London and 1 more. Often billed alongside Hayden F, Lola Kay and MRIYA. Next up: Razzmatazz, Barcelona on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Ana Alves is a techno and house artist based in Spain, with 78 gigs on soundchec
 
 Hayden F, Lola Kay, MRIYA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*

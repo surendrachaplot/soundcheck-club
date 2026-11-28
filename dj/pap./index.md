@@ -1,6 +1,6 @@
 # Pap.
 
-Pap. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Apéro Club, San Francisco/Oakland on Thu, 31 Dec 2026.
+Pap. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Apéro Club, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Pap. is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Los Angeles, Mexico City and San Francisco/Oakland. Often billed alongside AGROPOL, DJ Panderer and John Glass. Next up: Apéro Club, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Pap. is a house and techno artist based in United States of America, with 28 gig
 
 AGROPOL, DJ Panderer, John Glass
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pap./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pap./)*

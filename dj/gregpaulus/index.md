@@ -1,6 +1,6 @@
 # Greg Paulus
 
-Greg Paulus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Refuge, New York City on Thu, 31 Dec 2026.
+Greg Paulus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Refuge, New York City on Thu, 31 Dec 2026.
 
 Greg Paulus is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Berlin, Cleveland, Detroit and Miami and 1 more. Often billed alongside Kiyoshi, Chuwee and Morgan. Next up: Refuge, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Greg Paulus is a house and techno artist based in United States of America, with
 
 Kiyoshi, Chuwee, Morgan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregpaulus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregpaulus/)*

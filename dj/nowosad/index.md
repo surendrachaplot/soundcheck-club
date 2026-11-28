@@ -1,14 +1,15 @@
 # Nowosad
 
-Nowosad is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
+Nowosad is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
 
-Nowosad is a house and electro artist based in Poland, with 40 gigs on soundcheck across Berlin, Warsaw and Wroclaw. Often billed alongside Jellin, Easy Audio and uiava. Next up: Ciało, Wroclaw on Fri 11 Dec.
+Nowosad is a house and tech house artist based in Poland, with 41 gigs on soundcheck across Berlin, Warsaw and Wroclaw. Often billed alongside Jellin, Easy Audio and Schmeltzer. Next up: Ciało, Wroclaw on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Ciało | Wroclaw |
+| Thu, 31 Dec 2026 | MONKEY LOVE | Warsaw |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nowosad is a house and electro artist based in Poland, with 40 gigs on soundchec
 
 ## Shares bills with
 
-Jellin, Easy Audio, uiava
+Jellin, Easy Audio, Schmeltzer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*

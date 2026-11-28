@@ -1,6 +1,6 @@
 # Destt
 
-Destt is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Panama, Amsterdam on Sat, 2 Jan 2027.
+Destt is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Panama, Amsterdam on Sat, 2 Jan 2027.
 
 Destt is a techno and hardcore artist based in Portugal, with 9 gigs on soundcheck across Amsterdam and Lisbon. Often billed alongside Kafox, VLB and BigT. Next up: Panama, Amsterdam on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Destt is a techno and hardcore artist based in Portugal, with 9 gigs on soundche
 
 Kafox, VLB (1), BigT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/destt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/destt/)*

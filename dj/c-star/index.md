@@ -1,13 +1,14 @@
 # C-Star
 
-C-Star is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+C-Star is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Skylight Warehouse, Vancouver on Fri, 11 Dec 2026.
 
-C-Star is a techno and house artist based in Canada, with 93 gigs on soundcheck across Calgary, Cleveland, Toronto and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: TBA, Vancouver on Sat 26 Dec.
+C-Star is a techno and house artist based in Canada, with 94 gigs on soundcheck across Calgary, Cleveland, Toronto and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: Skylight Warehouse, Vancouver on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Skylight Warehouse | Vancouver |
 | Sat, 26 Dec 2026 | TBA | Vancouver |
 
 ## Recently played
@@ -25,4 +26,4 @@ C-Star is a techno and house artist based in Canada, with 93 gigs on soundcheck 
 
 DK PAU, Behrad Tehrani, Fizch
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c-star/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c-star/)*

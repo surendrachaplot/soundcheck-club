@@ -1,13 +1,14 @@
 # Luca (4)
 
-Luca (4) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Luca (4) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Sat, 5 Dec 2026.
 
-Luca is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Auckland, Barcelona, Berlin and Brussels and 9 more. Often billed alongside IGGY, RIHO ASAEDA and monielu.h. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
+Luca is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Auckland, Barcelona, Berlin and Brussels and 10 more. Often billed alongside IGGY, RIHO ASAEDA and monielu.h. Next up: CGM - Club Giovanile Milano, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | CGM - Club Giovanile Milano | Milan |
 | Tue, 29 Dec 2026 | Matakanarama Festival Site | Auckland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Luca is a house and techno artist based in United States of America, with 17 gig
 
 IGGY, RIHO ASAEDA, monielu.h
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luca-4/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luca-4/)*

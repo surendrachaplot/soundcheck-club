@@ -1,6 +1,6 @@
 # P Jam
 
-P Jam is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
+P Jam is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Kizuna, London on Fri, 18 Dec 2026.
 
 P Jam is a grime and dubstep artist, with 5 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside Boylan, Trends and D.O.K. Next up: Kizuna, London on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ P Jam is a grime and dubstep artist, with 5 gigs on soundcheck across Amsterdam,
 
 Boylan, Trends, D.O.K
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjam/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjam/)*

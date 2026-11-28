@@ -1,6 +1,6 @@
 # The Hefker Girl
 
-The Hefker Girl is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 24 Jan 2027.
+The Hefker Girl is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 24 Jan 2027.
 
 The Hefker Girl is a house and dub techno artist based in United States of America, with 29 gigs on soundcheck across New York City. Often billed alongside Valentin Lamar, J. Mordechai and ALIKHAN. Next up: Bossa Nova Civic Club, New York City on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ The Hefker Girl is a house and dub techno artist based in United States of Ameri
 
 Valentin Lamar, J. Mordechai, ALIKHAN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*

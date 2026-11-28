@@ -1,6 +1,6 @@
 # Leanne Wright
 
-Leanne Wright is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Palais, London on Sat, 20 Feb 2027.
+Leanne Wright is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Palais, London on Sat, 20 Feb 2027.
 
 Leanne Wright is a house and funk / soul artist based in United Kingdom, with 35 gigs on soundcheck across London. Often billed alongside MarshmeLLo, Zakia and Aqwea. Next up: Palais, London on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Leanne Wright is a house and funk / soul artist based in United Kingdom, with 35
 
 MarshmeLLo, Zakia, Aqwea
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leannewright/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leannewright/)*

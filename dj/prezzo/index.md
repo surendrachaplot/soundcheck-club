@@ -1,6 +1,6 @@
 # Prezzo
 
-Prezzo is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jupiter Disco, New York City on Sat, 19 Dec 2026.
+Prezzo is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Jupiter Disco, New York City on Sat, 19 Dec 2026.
 
 Prezzo is a house and jazz artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside UMA DJ, Boat Neck and Fabiola. Next up: Jupiter Disco, New York City on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Prezzo is a house and jazz artist based in United States of America, with 5 gigs
 
 UMA DJ, Boat Neck, Fabiola
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prezzo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prezzo/)*

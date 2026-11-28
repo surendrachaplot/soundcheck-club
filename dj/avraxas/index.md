@@ -1,6 +1,6 @@
 # Avraxas
 
-Avraxas is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at City Hall, Barcelona on Thu, 24 Dec 2026.
+Avraxas is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at City Hall, Barcelona on Thu, 24 Dec 2026.
 
 Avraxas is a techno artist based in Spain, with 23 gigs on soundcheck across Barcelona. Often billed alongside Lucho (VE), Nordaze and Apokä. Next up: City Hall, Barcelona on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Avraxas is a techno artist based in Spain, with 23 gigs on soundcheck across Bar
 
 Lucho (VE), Nordaze, Apokä
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avraxas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avraxas/)*

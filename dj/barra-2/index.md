@@ -1,6 +1,6 @@
 # BARRA
 
-BARRA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 27 Nov 2026.
+BARRA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Music Club Pulse 22, Prague on Fri, 27 Nov 2026.
 
 BARRA is a techno and electro artist based in Czech Republic, with 5 gigs on soundcheck across Bratislava and Prague. Often billed alongside Ansea, KikiDontCry and EL!SE. Next up: Music Club Pulse 22, Prague on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ BARRA is a techno and electro artist based in Czech Republic, with 5 gigs on sou
 
 ## Recently played
 
+- Music Club Pulse 22, Prague · Fri, 27 Nov 2026
 - Radost Music Club, Bratislava · Sat, 17 Oct 2026
 - Holešovická Tržnice, Prague · Sat, 27 Jun 2026
 - Music Club Pulse 22, Prague · Fri, 27 Feb 2026
@@ -21,4 +22,4 @@ BARRA is a techno and electro artist based in Czech Republic, with 5 gigs on sou
 
 Ansea, KikiDontCry, EL!SE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barra-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barra-2/)*

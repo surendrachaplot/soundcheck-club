@@ -1,6 +1,6 @@
 # Alexander Aurel
 
-Alexander Aurel is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 5 Dec 2026.
+Alexander Aurel is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 5 Dec 2026.
 
 Alexander Aurel is a tech house and techno artist based in Germany, with 24 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Jermaine Dotson, Merissa Mahilaa and Chasing Kurt. Next up: Tanzhaus West, Frankfurt on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Alexander Aurel is a tech house and techno artist based in Germany, with 24 gigs
 
 Jermaine Dotson, Merissa Mahilaa, Chasing Kurt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderaurel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderaurel/)*

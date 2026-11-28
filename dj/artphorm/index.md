@@ -1,6 +1,6 @@
 # Artphorm
 
-Artphorm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Thu, 31 Dec 2026.
+Artphorm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Salon Daomé, Montreal on Thu, 31 Dec 2026.
 
 Artphorm is a house and techno artist based in Egypt, with 16 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside Dimitry, Lara Bee and MightyKat. Next up: Salon Daomé, Montreal on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Artphorm is a house and techno artist based in Egypt, with 16 gigs on soundcheck
 
 Dimitry, Lara Bee, MightyKat
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artphorm/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artphorm/)*

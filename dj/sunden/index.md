@@ -1,6 +1,6 @@
 # Sunden
 
-Sunden is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 18 Dec 2026.
+Sunden is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 18 Dec 2026.
 
 Sunden is an ambient and acid artist based in United Kingdom, with 11 gigs on soundcheck across Chicago, Ljubljana and London. Often billed alongside Medallion Man, Charlie Boy Manson and Rommek. Next up: Channel Zero, Ljubljana on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sunden is an ambient and acid artist based in United Kingdom, with 11 gigs on so
 
 Medallion Man, Charlie Boy Manson, Rommek
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunden/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunden/)*

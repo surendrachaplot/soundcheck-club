@@ -1,6 +1,6 @@
 # Josephine Wedekind
 
-Josephine Wedekind is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Josephine Wedekind is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
 Josephine Wedekind is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin, Hamburg, Leipzig and Stockholm and 1 more. Often billed alongside Lilian Stark, HypoGeo and Sika Akis. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Josephine Wedekind is a techno and trance artist based in Germany, with 26 gigs 
 
 ## Recently played
 
+- Hoppetosse, Berlin · Fri, 27 Nov 2026
 - PKH Warehouse, Berlin · Sat, 10 Oct 2026
 - Funkhaus Berlin, Berlin · Sat, 16 May 2026
 - Funkhaus Berlin, Berlin · Fri, 15 May 2026
@@ -19,10 +20,9 @@ Josephine Wedekind is a techno and trance artist based in Germany, with 26 gigs 
 - Hoppetosse, Berlin · Fri, 21 Nov 2025
 - Void Club, Berlin · Fri, 7 Nov 2025
 - WUEST - Pittlerwerke, Leipzig · Sat, 12 Jul 2025
-- OST, Berlin · Fri, 4 Apr 2025
 
 ## Shares bills with
 
 Lilian Stark, HypoGeo, Sika Akis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinewedekind/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinewedekind/)*

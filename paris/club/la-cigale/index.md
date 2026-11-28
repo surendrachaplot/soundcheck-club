@@ -1,18 +1,19 @@
 # La Cigale
 
-La Cigale is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Jersey" on Wed, 13 Jan 2027.
+La Cigale is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Jersey" on Wed, 13 Jan 2027.
 
-La Cigale is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Jersey. See dates, start times and who's playing. 120 boulevard Rochechouart; 75018; Paris; France.
+La Cigale is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Jersey. See dates, start times and who's playing. 120 boulevard Rochechouart; 75018; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 13 Jan 2027 | Jersey | Jersey |
+| Thu, 14 Jan 2027 | Jersey | Jersey |
 | Tue, 26 Jan 2027 | Pi Ja Ma |  |
 
 ## Address
 
 120 boulevard Rochechouart; 75018; Paris; France, Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cigale/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cigale/)*

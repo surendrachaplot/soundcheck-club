@@ -1,20 +1,21 @@
 # Romare
 
-Romare is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala Villanos, Madrid on Fri, 27 Nov 2026.
+Romare is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 15 Jan 2027.
 
-Romare is a house and electronica artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 28 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Sala Villanos, Madrid on Fri 27 Nov.
+Romare is a house and electronica artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 28 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Cabaret Sauvage, Paris on Fri 15 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Sala Villanos | Madrid |
 | Fri, 15 Jan 2027 | Cabaret Sauvage | Paris |
 | Sat, 6 Feb 2027 | The Independent | San-francisco-oakland |
 | Wed, 10 Feb 2027 | Fox Cabaret | Vancouver |
+| Fri, 26 Feb 2027 | Le Poisson Rouge | New York City |
 
 ## Recently played
 
+- Sala Villanos, Madrid · Fri, 27 Nov 2026
 - Band on the Wall, Manchester · Thu, 5 Nov 2026
 - Belgrave Music Hall, Leeds · Thu, 29 Oct 2026
 - Fidelity Studio, Dublin · Fri, 23 Oct 2026
@@ -22,10 +23,9 @@ Romare is a house and electronica artist based in United Kingdom, with 86 gigs o
 - Sneaky Pete's, Edinburgh · Sun, 18 Oct 2026
 - The Berkeley Suite, Glasgow · Sat, 17 Oct 2026
 - Gretchen, Berlin · Sat, 3 Oct 2026
-- Phonox, London · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Nightmares on Wax, Tamati, Tarzsa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*

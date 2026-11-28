@@ -1,8 +1,8 @@
 # Surreal Flight
 
-Surreal Flight is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 5 Dec 2026.
+Surreal Flight is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 5 Dec 2026.
 
-Surreal Flight is a deep house and house artist based in United States of America, with 95 gigs on soundcheck across Miami. Often billed alongside Facundo Mohrr, Jessy Nimni and Monkey Safari. Next up: Do Not Sit On The Furniture, Miami on Sat 5 Dec.
+Surreal Flight is a deep house and house artist based in United States of America, with 96 gigs on soundcheck across Miami. Often billed alongside Jessy Nimni, Facundo Mohrr and Monkey Safari. Next up: Do Not Sit On The Furniture, Miami on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Surreal Flight is a deep house and house artist based in United States of Americ
 | Sat, 5 Dec 2026 | Do Not Sit On The Furniture | Miami |
 | Fri, 18 Dec 2026 | Do Not Sit On The Furniture | Miami |
 | Thu, 31 Dec 2026 | Do Not Sit On The Furniture | Miami |
+| Sat, 30 Jan 2027 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Surreal Flight is a deep house and house artist based in United States of Americ
 
 ## Shares bills with
 
-Facundo Mohrr, Jessy Nimni, Monkey Safari
+Jessy Nimni, Facundo Mohrr, Monkey Safari
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surrealflight/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surrealflight/)*

@@ -1,19 +1,19 @@
 # Eva Crystaltips
 
-Eva Crystaltips is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
+Eva Crystaltips is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
 
-Eva Crystaltips is a house and disco artist based in France, with 93 gigs on soundcheck across Berlin, Edinburgh, Hamburg and Leipzig and 2 more. Often billed alongside Luca Olivotto, Quadrakey and Nephews. Next up: Renate, Berlin on Fri 27 Nov.
+Eva Crystaltips is a house and disco artist based in France, with 93 gigs on soundcheck across Berlin, Edinburgh, Hamburg and Leipzig and 2 more. Often billed alongside Luca Olivotto, Quadrakey and Nephews. Next up: OXI, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Renate | Berlin |
 | Sat, 5 Dec 2026 | OXI | Berlin |
 | Thu, 31 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
+- Renate, Berlin · Fri, 27 Nov 2026
 - OXI, Berlin · Sat, 7 Nov 2026
 - OXI, Berlin · Sat, 3 Oct 2026
 - OXI, Berlin · Sat, 5 Sept 2026
@@ -21,10 +21,9 @@ Eva Crystaltips is a house and disco artist based in France, with 93 gigs on sou
 - Kater, Berlin · Sat, 20 Jun 2026
 - Golden Gate, Berlin · Fri, 19 Jun 2026
 - Club der Visionaere, Berlin · Wed, 17 Jun 2026
-- OXI, Berlin · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Luca Olivotto, Quadrakey, Nephews
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evacrystaltips/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evacrystaltips/)*

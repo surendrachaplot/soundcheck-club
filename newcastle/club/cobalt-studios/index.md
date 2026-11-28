@@ -1,14 +1,13 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Harness - Queer Rave with Immy" on Fri, 27 Nov 2026.
+Cobalt Studios is a music venue in Newcastle with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Cassini presents: Raphael Carrau" on Sat, 28 Nov 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 9 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and Immy and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 8 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and Kian OK and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Harness - Queer Rave with Immy | Immy |
 | Sat, 28 Nov 2026 | Cassini presents: Raphael Carrau | Raphael Carrau |
 | Sun, 29 Nov 2026 | DIY Electronic Music Day, Open Decks, Record Fair |  |
 | Fri, 4 Dec 2026 | Carl H B2B Richard Gregory All Night Long | Carl H, Richard Gregory |
@@ -22,4 +21,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 9 upcoming gi
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

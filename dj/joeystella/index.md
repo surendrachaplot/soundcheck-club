@@ -1,6 +1,6 @@
 # Joey Stella
 
-Joey Stella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
+Joey Stella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
 
 Joey Stella is a techno and house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Liverpool and 3 more. Often billed alongside Twelve Seven, Sylvia (ES) and Linkan Ray. Next up: renae, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Joey Stella is a techno and house artist based in United Kingdom, with 39 gigs o
 
 Twelve Seven, Sylvia (ES), Linkan Ray
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeystella/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeystella/)*

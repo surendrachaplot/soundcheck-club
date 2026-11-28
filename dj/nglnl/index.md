@@ -1,6 +1,6 @@
 # NGL (NL)
 
-NGL (NL) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Vaag, Antwerp on Sat, 5 Dec 2026.
+NGL (NL) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Vaag, Antwerp on Sat, 5 Dec 2026.
 
 NGL (NL) is a techno and industrial artist, with 8 gigs on soundcheck across Antwerp, Belfast, Cologne and Glasgow and 3 more. Often billed alongside LOOKY, Andrew Cairns and Cassa Cristano. Next up: Club Vaag, Antwerp on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ NGL (NL) is a techno and industrial artist, with 8 gigs on soundcheck across Ant
 
 LOOKY, Andrew Cairns, Cassa Cristano
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*

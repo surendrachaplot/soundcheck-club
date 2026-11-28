@@ -1,6 +1,6 @@
 # Anina
 
-Anina is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Island, Bristol on Sat, 5 Dec 2026.
+Anina is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Island, Bristol on Sat, 5 Dec 2026.
 
 Anina is a techno and bass artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Bristol, Brussels and London and 4 more. Often billed alongside Clarity, Pessimist and i-sha. Next up: The Island, Bristol on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Anina is a techno and bass artist based in United Kingdom, with 34 gigs on sound
 
 Clarity, Pessimist, i-sha
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anina/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anina/)*

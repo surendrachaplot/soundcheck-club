@@ -1,13 +1,14 @@
 # Bonzai Bonner
 
-Bonzai Bonner is a House and Italo Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The DBA, Manchester on Fri, 11 Dec 2026.
+Bonzai Bonner is a House and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Roses of Elagabalus, London on Sat, 28 Nov 2026.
 
-Bonzai Bonner is a house and italo disco artist based in United Kingdom, with 82 gigs on soundcheck across Belfast, Berlin, Cambodia and Dublin and 7 more. Often billed alongside Anna Gram, Katiee.eem and LEZZER QUEST. Next up: The DBA, Manchester on Fri 11 Dec.
+Bonzai Bonner is a house and italo disco artist based in United Kingdom, with 83 gigs on soundcheck across Belfast, Berlin, Cambodia and Dublin and 7 more. Often billed alongside Anna Gram, Katiee.eem and LEZZER QUEST. Next up: The Roses of Elagabalus, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The Roses of Elagabalus | London |
 | Fri, 11 Dec 2026 | The DBA | Manchester |
 | Sat, 12 Dec 2026 | La Cheetah Club | Glasgow |
 | Sun, 27 Dec 2026 | McChuills Music Bar | Glasgow |
@@ -30,4 +31,4 @@ Bonzai Bonner is a house and italo disco artist based in United Kingdom, with 82
 
 Anna Gram, Katiee.eem, LEZZER QUEST
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*

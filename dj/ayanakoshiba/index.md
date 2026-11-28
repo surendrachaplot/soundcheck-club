@@ -1,6 +1,6 @@
 # AYANA KOSHIBA
 
-AYANA KOSHIBA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
+AYANA KOSHIBA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at WOMB, Tokyo on Sat, 28 Nov 2026.
 
 AYANA KOSHIBA is a techno and industrial artist based in Japan, with 25 gigs on soundcheck across Tokyo. Often billed alongside EMILIO, VÏVÏ and uuu7. Next up: WOMB, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ AYANA KOSHIBA is a techno and industrial artist based in Japan, with 25 gigs on 
 
 EMILIO (3), VÏVÏ, uuu7
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanakoshiba/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanakoshiba/)*

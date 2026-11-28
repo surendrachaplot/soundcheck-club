@@ -1,6 +1,6 @@
 # C.LYYA
 
-C.LYYA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gallery22, Berlin on Fri, 11 Dec 2026.
+C.LYYA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gallery22, Berlin on Fri, 11 Dec 2026.
 
 C.LYYA is a house and electro artist based in France, with 21 gigs on soundcheck across Berlin and Paris. Often billed alongside Flabaire, GGGG and Mad Rey. Next up: Gallery22, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ C.LYYA is a house and electro artist based in France, with 21 gigs on soundcheck
 
 Flabaire, GGGG, Mad Rey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*

@@ -1,6 +1,6 @@
 # Vava (1)
 
-Vava (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Atno, Budapest on Sat, 28 Nov 2026.
+Vava (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Atno, Budapest on Sat, 28 Nov 2026.
 
 Vava is a techno and house artist based in Hungary, with 13 gigs on soundcheck across Budapest. Often billed alongside Kiuz, Pizza Amore and ZSÁGER BALÁZS. Next up: Atno, Budapest on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Vava is a techno and house artist based in Hungary, with 13 gigs on soundcheck a
 
 Kiuz, Pizza Amore, ZSÁGER BALÁZS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*

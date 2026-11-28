@@ -1,14 +1,13 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "FLASHBACK w. Thomas Schumacher" on Fri, 27 Nov 2026.
+Grelle Forelle is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Step Forward pres. Eargasmgod" on Fri, 4 Dec 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including Anna Ullrich, BOHO, Crazy Sonic and Crystal O and 2 more. See dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Anna Ullrich, BOHO, Crazy Sonic and Crystal O and 2 more. See dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | FLASHBACK w. Thomas Schumacher |  |
 | Fri, 4 Dec 2026 | Step Forward pres. Eargasmgod | Anna Ullrich, EARGASM GOD |
 | Sat, 5 Dec 2026 | Techno Entgleist | BOHO, Nakadia |
 | Fri, 11 Dec 2026 | Zuckerwatt with ELLEN ALLIEN -  < Grelle Forelle | Crazy Sonic, Ellen Allien, Fabian Hofer (2), Purrdition |
@@ -21,4 +20,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming gigs,
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

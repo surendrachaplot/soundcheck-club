@@ -1,6 +1,6 @@
 # SupaDupaBlackBoyFly
 
-SupaDupaBlackBoyFly is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jupiter Disco, New York City on Thu, 17 Dec 2026.
+SupaDupaBlackBoyFly is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Jupiter Disco, New York City on Thu, 17 Dec 2026.
 
 SupaDupaBlackBoyFly is a disco and house artist, with 6 gigs on soundcheck across New York City. Often billed alongside diedforthis, Cosmo (NY) and DEBONAIR. Next up: Jupiter Disco, New York City on Thu 17 Dec.
 
@@ -22,4 +22,4 @@ SupaDupaBlackBoyFly is a disco and house artist, with 6 gigs on soundcheck acros
 
 diedforthis, Cosmo (NY), DEBONAIR
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supadupablackboyfly/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supadupablackboyfly/)*

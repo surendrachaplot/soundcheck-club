@@ -1,13 +1,14 @@
 # MAHA
 
-MAHA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Garage Nord, Hannover on Sat, 5 Dec 2026.
+MAHA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at WDM, Hannover on Sat, 28 Nov 2026.
 
-MAHA is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hannover and 1 more. Often billed alongside Tarkan, Alex Tho and Leskus. Next up: Garage Nord, Hannover on Sat 5 Dec.
+MAHA is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hannover and 1 more. Often billed alongside Tarkan, Alex Tho and Leskus. Next up: WDM, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | WDM | Hannover |
 | Sat, 5 Dec 2026 | Garage Nord | Hannover |
 
 ## Recently played
@@ -25,4 +26,4 @@ MAHA is a techno and trance artist based in Germany, with 20 gigs on soundcheck 
 
 Tarkan, Alex Tho, Leskus
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maha/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maha/)*

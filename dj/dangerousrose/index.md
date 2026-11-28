@@ -1,14 +1,13 @@
 # Dangerous Rose
 
-Dangerous Rose is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Los Angeles on Fri, 27 Nov 2026.
+Dangerous Rose is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Green Room NYC, New York City on Fri, 11 Dec 2026.
 
-Dangerous Rose is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: TBA, Los Angeles on Fri 27 Nov.
+Dangerous Rose is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside Makadsi, FASHION (US) and Memphy. Next up: Green Room NYC, New York City on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA | Los Angeles |
 | Fri, 11 Dec 2026 | Green Room NYC | New York City |
 | Fri, 11 Dec 2026 | Good Room | New York City |
 | Sat, 12 Dec 2026 | TBA - DTLA | Los Angeles |
@@ -17,6 +16,7 @@ Dangerous Rose is a techno and house artist based in United States of America, w
 
 ## Recently played
 
+- TBA, Los Angeles · Fri, 27 Nov 2026
 - Elsewhere, New York City · Sun, 1 Nov 2026
 - Xanadu, New York City · Fri, 30 Oct 2026
 - Unveiled, New York City · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ Dangerous Rose is a techno and house artist based in United States of America, w
 - The Ground at Club Space, Miami · Fri, 18 Sept 2026
 - Club Rawhide, New York City · Sat, 12 Sept 2026
 - TBA, Los Angeles · Sat, 22 Aug 2026
-- Club NYX, Amsterdam · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Makadsi, FASHION (US), Memphy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dangerousrose/)*

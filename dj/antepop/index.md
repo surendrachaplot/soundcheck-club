@@ -1,6 +1,6 @@
 # Antepop
 
-Antepop is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Inverted Audio Record Store, London on Sat, 28 Nov 2026.
+Antepop is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Inverted Audio Record Store, London on Sat, 28 Nov 2026.
 
 Antepop is a deep house and dub techno artist based in United Kingdom, with 29 gigs on soundcheck across London. Often billed alongside Mihail, Daniel. and Dying in Beauty. Next up: Inverted Audio Record Store, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Antepop is a deep house and dub techno artist based in United Kingdom, with 29 g
 
 Mihail, Daniel., Dying in Beauty
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antepop/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antepop/)*

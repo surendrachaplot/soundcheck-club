@@ -1,6 +1,6 @@
 # Dorian Concept
 
-Dorian Concept is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
+Dorian Concept is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
 
 Dorian Concept is an ambient and experimental artist based in Austria, with 8 gigs on soundcheck across Amsterdam, Austria, Berlin and Dublin and 3 more. Often billed alongside DJ Ebhardy, ABADIR and Abdullah Miniawy. Next up: Dom im Berg, Austria on Thu 4 Mar.
 
@@ -24,4 +24,4 @@ Dorian Concept is an ambient and experimental artist based in Austria, with 8 gi
 
 DJ Ebhardy, ABADIR, Abdullah Miniawy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianconcept/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianconcept/)*

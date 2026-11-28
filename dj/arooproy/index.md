@@ -1,6 +1,6 @@
 # Aroop Roy
 
-Aroop Roy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
+Aroop Roy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Various Venues, London on Sat, 1 May 2027.
 
 Aroop Roy is a house and disco artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Mr Scruff, Melvo Baptiste and LEV (UK). Next up: Various Venues, London on Sat 1 May.
 
@@ -25,4 +25,4 @@ Aroop Roy is a house and disco artist based in United Kingdom, with 101 gigs on 
 
 Mr Scruff, Melvo Baptiste, LEV (UK)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*

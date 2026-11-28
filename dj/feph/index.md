@@ -1,6 +1,6 @@
 # feph
 
-feph is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Under Club, Buenos Aires on Sat, 28 Nov 2026.
+feph is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Under Club, Buenos Aires on Sat, 28 Nov 2026.
 
 feph is a techno and electronica artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Boston, Buenos Aires and Miami. Often billed alongside Mr. Tron, Souls Departed and Artime. Next up: Under Club, Buenos Aires on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ feph is a techno and electronica artist based in United States of America, with 
 
 Mr. Tron, Souls Departed, Artime
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feph/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feph/)*

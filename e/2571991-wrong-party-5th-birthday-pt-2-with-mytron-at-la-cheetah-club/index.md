@@ -1,6 +1,6 @@
 # Wrong Party! 5th Birthday Pt.2 with Mytron at La Cheetah Club
 
-Wrong Party! 5th Birthday Pt.2 with Mytron at La Cheetah Club on Sat 5 Dec, Glasgow. 4 artists: GK Machine, Illogical Operator, Mytron and Wrong Party!. Electro and Acid. See the line-up on soundcheck.
+Wrong Party! 5th Birthday Pt.2 with Mytron at La Cheetah Club on Sat 5 Dec, Glasgow. 4 artists: GK Machine, Illogical Operator, Mytron and Wrong Party!. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

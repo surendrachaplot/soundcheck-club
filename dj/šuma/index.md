@@ -1,6 +1,6 @@
 # Šuma
 
-Šuma is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at B-SIDE, Warsaw on Fri, 11 Dec 2026.
+Šuma is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at B-SIDE, Warsaw on Fri, 11 Dec 2026.
 
 Šuma is an electronica and techno artist based in Belarus, with 17 gigs on soundcheck across Barcelona, Berlin, Dresden and Tbilisi and 2 more. Often billed alongside Jasakar, BUDZKO and Ilya Gurin-Babayeu. Next up: B-SIDE, Warsaw on Fri 11 Dec.
 
@@ -25,4 +25,4 @@
 
 Jasakar, BUDZKO, Ilya Gurin-Babayeu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/šuma/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/šuma/)*

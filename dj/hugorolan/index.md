@@ -1,6 +1,6 @@
 # Hugo Rolan
 
-Hugo Rolan is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lanna Club, North on Sat, 26 Dec 2026.
+Hugo Rolan is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lanna Club, North on Sat, 26 Dec 2026.
 
 Hugo Rolan is a bass and electro artist based in Spain, with 10 gigs on soundcheck across Madrid, Marseille, North and Porto. Often billed alongside Hoax Believers, Jheal and Adriana Lopez. Next up: Lanna Club, North on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Hugo Rolan is a bass and electro artist based in Spain, with 10 gigs on soundche
 
 Hoax Believers, Jheal, Adriana Lopez
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorolan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorolan/)*

@@ -1,6 +1,6 @@
 # Twelve Seven
 
-Twelve Seven is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
+Twelve Seven is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at renae, Manchester on Sat, 19 Dec 2026.
 
 Twelve Seven is a techno and house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Joey Stella, HØLEIGH and Sylvia (ES). Next up: renae, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Twelve Seven is a techno and house artist based in United Kingdom, with 40 gigs 
 
 Joey Stella, HØLEIGH, Sylvia (ES)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveseven/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveseven/)*

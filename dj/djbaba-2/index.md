@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Gravière, Geneva on Fri, 4 Dec 2026.
+Dj Babatr is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at La Gravière, Geneva on Fri, 4 Dec 2026.
 
 Dj Babatr is a techno and house artist based in Venezuela, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 29 more. Often billed alongside Ruiseñor, Dj Deep RH and Batu. Next up: La Gravière, Geneva on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Dj Babatr is a techno and house artist based in Venezuela, with 115 gigs on soun
 
 Ruiseñor, Dj Deep RH, Batu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

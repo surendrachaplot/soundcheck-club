@@ -1,6 +1,6 @@
 # KATHARSIS X // Special Underground Rave // OverdosedBerlin at TBA - secret Location via Telegram 
 
-KATHARSIS X // Special Underground Rave // OverdosedBerlin at TBA - secret Location via Telegram  on Sat 12 Dec, Berlin. 9 artists: Amorelie, ClubSubbe, Dj Andi and JUWLZ and 5 more. Trance and Techno. See the line-up on soundcheck.
+KATHARSIS X // Special Underground Rave // OverdosedBerlin at TBA - secret Location via Telegram  on Sat 12 Dec, Berlin. 10 artists: Amorelie, ClubSubbe, Dj Andi and JUWLZ and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ KATHARSIS X // Special Underground Rave // OverdosedBerlin at TBA - secret Locat
 - JUWLZ
 - k4mi
 - LNRD
+- Overkillmel
 - SashKa
 - Thielking
 - Trash Bandit

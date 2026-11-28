@@ -1,6 +1,6 @@
 # BORLEY
 
-BORLEY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at People's Leisure Club, Edinburgh on Thu, 3 Dec 2026.
+BORLEY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at People's Leisure Club, Edinburgh on Thu, 3 Dec 2026.
 
 BORLEY is a house and techno artist based in United Kingdom, with 31 gigs on soundcheck across Edinburgh and Leeds. Often billed alongside PASO, Mixfits and ARWEN. Next up: People's Leisure Club, Edinburgh on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ BORLEY is a house and techno artist based in United Kingdom, with 31 gigs on sou
 
 PASO, Mixfits (2), ARWEN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borley/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borley/)*

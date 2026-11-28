@@ -1,6 +1,6 @@
 # Kugel
 
-Kugel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
+Kugel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
 
 Kugel is a techno and house artist based in South Korea, with 196 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Ho Chi Minh City and 11 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: MIDNIGHT EAST, Tokyo on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Kugel is a techno and house artist based in South Korea, with 196 gigs on soundc
 
 Sunday Lee, RTRP, Gumi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*

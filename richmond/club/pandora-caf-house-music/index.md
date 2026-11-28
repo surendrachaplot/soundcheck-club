@@ -1,14 +1,13 @@
 # Pandora Café & House Music
 
-Pandora Café & House Music is a music venue in Richmond with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Latin House Night #5" on Fri, 27 Nov 2026.
+Pandora Café & House Music is a music venue in Richmond with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Enamour #1" on Sat, 28 Nov 2026.
 
-Pandora Café & House Music is a music venue in Richmond listed on soundcheck. 2 upcoming gigs, with line-ups including Enamour. See dates, start times and who's playing.
+Pandora Café & House Music is a music venue in Richmond listed on soundcheck. 1 upcoming gig, with line-ups including Enamour. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Latin House Night #5 |  |
 | Sat, 28 Nov 2026 | Enamour #1 | Enamour |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/pandora-caf-house-music/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/pandora-caf-house-music/)*

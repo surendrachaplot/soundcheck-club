@@ -1,6 +1,6 @@
 # GOGO (3)
 
-GOGO (3) is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Aisotope Lounge, Tokyo on Fri, 18 Dec 2026.
+GOGO (3) is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Aisotope Lounge, Tokyo on Fri, 18 Dec 2026.
 
 GOGO is a techno and pop artist based in Germany, with 5 gigs on soundcheck across Berlin, New York City and Tokyo. Often billed alongside DJ B2B, Luis Fernando and AI. Next up: Aisotope Lounge, Tokyo on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ GOGO is a techno and pop artist based in Germany, with 5 gigs on soundcheck acro
 
 DJ B2B, Luis Fernando, AI (10)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gogo-3/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gogo-3/)*

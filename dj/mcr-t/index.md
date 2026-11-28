@@ -1,14 +1,13 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Roxy, Prague on Fri, 27 Nov 2026.
+MCR-T is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-MCR-T is a techno and house artist based in Germany, with 310 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 76 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Roxy, Prague on Fri 27 Nov.
+MCR-T is a techno and house artist based in Germany, with 310 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 76 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Roxy | Prague |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sun, 29 Nov 2026 | Re:mise | Berlin |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
@@ -23,6 +22,7 @@ MCR-T is a techno and house artist based in Germany, with 310 gigs on soundcheck
 
 ## Recently played
 
+- Roxy, Prague · Fri, 27 Nov 2026
 - TBA - Brussels, Brussels · Sat, 21 Nov 2026
 - Fuse, Brussels · Sat, 21 Nov 2026
 - Hangaren, Copenhagen · Fri, 20 Nov 2026
@@ -30,10 +30,9 @@ MCR-T is a techno and house artist based in Germany, with 310 gigs on soundcheck
 - Blank Site, Seoul · Fri, 6 Nov 2026
 - Tokonoma Club, Frankfurt · Fri, 30 Oct 2026
 - Amp, Münster · Sat, 24 Oct 2026
-- H7 Warehouse, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

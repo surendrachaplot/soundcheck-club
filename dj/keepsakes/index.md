@@ -1,18 +1,18 @@
 # Keepsakes
 
-Keepsakes is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 27 Nov 2026.
+Keepsakes is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Galaxy Bar, Christchurch on Fri, 11 Dec 2026.
 
-Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 26 more. Often billed alongside The Rat, Ebb and Inverse Element. Next up: Drugstore Beograd, Belgrade on Fri 27 Nov.
+Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 26 more. Often billed alongside The Rat, Ebb and Inverse Element. Next up: Galaxy Bar, Christchurch on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Drugstore Beograd | Belgrade |
 | Fri, 11 Dec 2026 | Galaxy Bar | Christchurch |
 
 ## Recently played
 
+- Drugstore Beograd, Belgrade · Fri, 27 Nov 2026
 - Tresor / Globus, Berlin · Mon, 23 Nov 2026
 - D2, Aberdeen · Sat, 21 Nov 2026
 - EXIT Glasgow, Glasgow · Fri, 20 Nov 2026
@@ -20,10 +20,9 @@ Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on
 - Avalon Cafe Bermondsey, London · Sat, 7 Nov 2026
 - TBA - SECRET LOCATION, Belfast · Sat, 31 Oct 2026
 - TBA - SECRET LOCATION BT7, Belfast · Sat, 31 Oct 2026
-- OXI, Berlin · Tue, 13 Oct 2026
 
 ## Shares bills with
 
 The Rat, Ebb (1), Inverse Element
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

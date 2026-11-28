@@ -1,6 +1,6 @@
 # Max Blumen
 
-Max Blumen is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Zimmermanns, Cologne on Fri, 11 Dec 2026.
+Max Blumen is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Zimmermanns, Cologne on Fri, 11 Dec 2026.
 
 Max Blumen is a techno and progressive house artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne and Stuttgart. Often billed alongside Liho, scheffka and Aio. Next up: Club Zimmermanns, Cologne on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Max Blumen is a techno and progressive house artist based in Germany, with 32 gi
 
 Liho, scheffka, Aio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxblumen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxblumen/)*

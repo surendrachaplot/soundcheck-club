@@ -1,6 +1,6 @@
 # Amotik
 
-Amotik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+Amotik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
 Amotik is a techno and house artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 52 more. Often billed alongside Lea Occhi, Answer Code Request and Ne/Re/A. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Amotik is a techno and house artist based in United Kingdom, with 156 gigs on so
 
 Lea Occhi, Answer Code Request, Ne/Re/A
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

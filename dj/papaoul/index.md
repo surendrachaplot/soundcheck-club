@@ -1,14 +1,14 @@
 # Papaoul
 
-Papaoul is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ninety One, London on Sat, 28 Nov 2026.
+Papaoul is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 91 Brick Lane, London on Sat, 28 Nov 2026.
 
-Papaoul is a latin bass and reggaeton artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Bushbby, CXLI and AUKA. Next up: Ninety One, London on Sat 28 Nov.
+Papaoul is a latin bass and reggaeton artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Bushbby, CXLI and AUKA. Next up: 91 Brick Lane, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Ninety One | London |
+| Sat, 28 Nov 2026 | 91 Brick Lane | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Papaoul is a latin bass and reggaeton artist based in United Kingdom, with 25 gi
 
 Bushbby, CXLI, AUKA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papaoul/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papaoul/)*

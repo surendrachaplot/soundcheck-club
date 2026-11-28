@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Freitag mit Fab Massimo" on Fri, 27 Nov 2026.
+Bahnwärter Thiel is a music venue in Munich with 13 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Samstag mit Matija" on Sat, 28 Nov 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming gigs, with line-ups including 9LALEY, ÆNN, Alex Volta and ANASTASÍA and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 13 upcoming gigs, with line-ups including 9LALEY, ÆNN, Alex Volta and ANASTASÍA and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Freitag mit Fab Massimo | Concentio, Fab Massimo, Gizmo, SILSAN, eira haul |
 | Sat, 28 Nov 2026 | Samstag mit Matija | seboro |
 | Sat, 28 Nov 2026 | Ragazzi Weihnachtsmarkt Rave | JERRO, valera |
 | Thu, 3 Dec 2026 | 135+ mit Uhrwerk der Nacht & Vortex Underground |  |
@@ -18,9 +17,10 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 14 upcoming g
 | Thu, 10 Dec 2026 | 135+ mit 1 CB & Psyfuck | S K Y, pnk pnthr |
 | Fri, 11 Dec 2026 | Freitag mit Konfusia | Konfusia, SILSAN, Tala Berg |
 | Sat, 12 Dec 2026 | Samstag mit Franca | Franca, Leika |
+| Thu, 17 Dec 2026 | 135+ mit Nuketekk & Tanzwut Kollektiv | Overload |
 
 ## Address
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

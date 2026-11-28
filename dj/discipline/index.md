@@ -1,6 +1,6 @@
 # DISCIPLINE
 
-DISCIPLINE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Fri, 29 Jan 2027.
+DISCIPLINE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at OIL Club, Shenzhen on Fri, 29 Jan 2027.
 
 DISCIPLINE is a techno and hardcore artist based in China, with 60 gigs on soundcheck across Bangkok, Beijing, Chongqing and Hong Kong and 3 more. Often billed alongside PRYMARA, DJ GOGA and DJ EBP. Next up: OIL Club, Shenzhen on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ DISCIPLINE is a techno and hardcore artist based in China, with 60 gigs on sound
 
 PRYMARA, DJ GOGA, DJ EBP
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discipline/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discipline/)*

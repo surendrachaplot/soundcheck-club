@@ -1,6 +1,6 @@
 # Uus Laine
 
-Uus Laine is a music venue in Tallinn with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Laine Klubiöö: adobeprincess (US)" on Fri, 4 Dec 2026.
+Uus Laine is a music venue in Tallinn with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Laine Klubiöö: adobeprincess (US)" on Fri, 4 Dec 2026.
 
 Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming gigs, with line-ups including adobeprincess, Ahadadream, Dharma Doom and digidaria and 2 more. See dates, start times and who's playing. Vana-Kalamaja 1 Tallinn, Estonia.
 
@@ -17,4 +17,4 @@ Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming gigs, wit
 
 Vana-Kalamaja 1 Tallinn, Estonia, Tallinn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*

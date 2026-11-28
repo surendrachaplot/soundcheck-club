@@ -1,6 +1,6 @@
 # Vorteks
 
-Vorteks is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Transbordeur, Lyon on Sat, 23 Jan 2027.
+Vorteks is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Transbordeur, Lyon on Sat, 23 Jan 2027.
 
 Vorteks is a techno and hardcore artist based in France, with 20 gigs on soundcheck across Berlin, Budapest, Cologne and Dresden and 13 more. Often billed alongside DeGuzman, Sköne and Cara Elizabeth. Next up: Le Transbordeur, Lyon on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Vorteks is a techno and hardcore artist based in France, with 20 gigs on soundch
 
 DeGuzman, Sköne, Cara Elizabeth
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks/)*

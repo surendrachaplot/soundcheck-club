@@ -1,6 +1,6 @@
 # Paulina (2)
 
-Paulina (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Pamela Club, Paris on Sat, 5 Dec 2026.
+Paulina (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Pamela Club, Paris on Sat, 5 Dec 2026.
 
 Paulina is a techno and house artist based in France, with 6 gigs on soundcheck across Berlin, Paris and Zurich. Often billed alongside Amina, Cheriii and DJ Luv You. Next up: Pamela Club, Paris on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Paulina is a techno and house artist based in France, with 6 gigs on soundcheck 
 
 Amina, Cheriii, DJ Luv You
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulina-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulina-2/)*

@@ -1,14 +1,15 @@
 # miAs
 
-miAs is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kater, Berlin on Fri, 4 Dec 2026.
+miAs is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Kater, Berlin on Fri, 4 Dec 2026.
 
-miAs is a house and tech house artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Basel, Berlin and Hamburg. Often billed alongside Peter Schumann, Sascha Cawa and Sven Dohse. Next up: Kater, Berlin on Fri 4 Dec.
+miAs is a house and tech house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Basel, Berlin and Hamburg. Often billed alongside Peter Schumann, Sascha Cawa and Sven Dohse. Next up: Kater, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Kater | Berlin |
+| Fri, 11 Dec 2026 | BABY01 | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ miAs is a house and tech house artist based in Germany, with 42 gigs on soundche
 
 Peter Schumann, Sascha Cawa, Sven Dohse
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mias/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mias/)*

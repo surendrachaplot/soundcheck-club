@@ -1,6 +1,6 @@
 # DJ ATTENTION
 
-DJ ATTENTION is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Danger Danger, New-york-city on Sat, 5 Dec 2026.
+DJ ATTENTION is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Danger Danger, New-york-city on Sat, 5 Dec 2026.
 
 DJ ATTENTION is a techno and pop artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside grunge mum, elle xxo and Crush Club. Next up: Danger Danger, New York City on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DJ ATTENTION is a techno and pop artist based in United States of America, with 
 
 grunge mum, elle xxo, Crush Club
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djattention/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djattention/)*

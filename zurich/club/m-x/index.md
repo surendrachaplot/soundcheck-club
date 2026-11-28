@@ -1,14 +1,13 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Pencil All Night Long" on Fri, 27 Nov 2026.
+MÄX is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Daft Funk Live – Zurich" on Sat, 28 Nov 2026.
 
-MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including 1luu, 2HOT2PLAY, Alle Farben and andris and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
+MÄX is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 1luu, 2HOT2PLAY, Alle Farben and andris and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Pencil All Night Long | PENCIL |
 | Sat, 28 Nov 2026 | Daft Funk Live – Zurich | Daft Funk Live |
 | Fri, 4 Dec 2026 | Techno to Trance with 2HOT2PLAY | 2HOT2PLAY, Dekerim, Feta Felice, Tanja Alison |
 | Sat, 5 Dec 2026 | Alle Farben - Club Tour | Alle Farben |
@@ -18,9 +17,10 @@ MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with lin
 | Sat, 26 Dec 2026 | X-MAS Cardio Session with NEGITIV | GCOD, Megix, NEGITIV |
 | Thu, 31 Dec 2026 | New Year's RE:BACK | 1luu, BINA, Cortez (2), DJ Henk, KAïA (2), Megix, Nhū, PENCIL |
 | Fri, 15 Jan 2027 | Closer with Ely Oaks | Ely Oaks |
+| Sat, 16 Jan 2027 | Subset with Wilkinson // Zurich | Wilkinson |
 
 ## Address
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

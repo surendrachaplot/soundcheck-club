@@ -1,6 +1,6 @@
 # Sophie McAlister
 
-Sophie McAlister is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NT's Loft, London on Sat, 12 Dec 2026.
+Sophie McAlister is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at NT's Loft, London on Sat, 12 Dec 2026.
 
 Sophie McAlister is a house and techno artist based in Australia, with 79 gigs on soundcheck across Adelaide, Amsterdam, Bali and Berlin and 8 more. Often billed alongside Bertie, Bradley Zero and Moopie. Next up: NT's Loft, London on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Sophie McAlister is a house and techno artist based in Australia, with 79 gigs o
 
 Bertie, Bradley Zero, Moopie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiemcalister/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiemcalister/)*

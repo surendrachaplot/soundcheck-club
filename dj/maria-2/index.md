@@ -1,6 +1,6 @@
 # Maria
 
-Maria is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hootananny Brixton, London on Thu, 10 Dec 2026.
+Maria is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hootananny Brixton, London on Thu, 10 Dec 2026.
 
 Maria is a drum & bass and trance artist based in Germany, with 12 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 6 more. Often billed alongside TILDA, Bakey and OS:MAN. Next up: Hootananny Brixton, London on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Maria is a drum & bass and trance artist based in Germany, with 12 gigs on sound
 
 TILDA (2), Bakey, OS:MAN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maria-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maria-2/)*

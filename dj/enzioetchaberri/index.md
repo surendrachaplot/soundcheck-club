@@ -1,6 +1,6 @@
 # Enzio Etchaberri
 
-Enzio Etchaberri is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
+Enzio Etchaberri is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
 
 Enzio Etchaberri is a house and techno artist, with 66 gigs on soundcheck across Bangkok, Barcelona, Basel and Berlin and 12 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Paloma, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Enzio Etchaberri is a house and techno artist, with 66 gigs on soundcheck across
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*

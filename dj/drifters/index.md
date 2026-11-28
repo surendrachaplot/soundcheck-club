@@ -1,6 +1,6 @@
 # Drifters
 
-Drifters is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 11 Dec 2026.
+Drifters is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 11 Dec 2026.
 
 Drifters is a techno and trance artist based in Australia, with 9 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ekkel, Hamatsuki and Jek (US). Next up: Carousel Bar & Ballroom, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Drifters is a techno and trance artist based in Australia, with 9 gigs on soundc
 
 Ekkel, Hamatsuki, Jek (US)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drifters/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drifters/)*

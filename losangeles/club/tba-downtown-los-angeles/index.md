@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sirens x Roam: Anniversary Edition" on Fri, 4 Dec 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sirens x Roam: Anniversary Edition" on Fri, 4 Dec 2026.
 
 TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Federico Daiup, Gabbs, Gilbert0 and Ian Llorens and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck.
 | Thu, 31 Dec 2026 | Midnight Lovers NYE/NYD |  |
 | Fri, 22 Jan 2027 | Certified Groovers: Gabbs | Gabbs |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

@@ -1,6 +1,6 @@
 # Matt Lecler
 
-Matt Lecler is a Bass and Grime artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 4 Dec 2026.
+Matt Lecler is a Bass and Grime artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 4 Dec 2026.
 
 Matt Lecler is a bass and grime artist based in Italy, with 3 gigs on soundcheck across Tokyo. Often billed alongside 478, Andrew (TREKKIE TRAX) and Carpainter. Next up: Circus Tokyo, Tokyo on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Matt Lecler is a bass and grime artist based in Italy, with 3 gigs on soundcheck
 
 478 (1), Andrew (TREKKIE TRAX), Carpainter
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattlecler/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattlecler/)*

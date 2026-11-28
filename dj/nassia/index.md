@@ -1,6 +1,6 @@
 # NÁSSIA
 
-NÁSSIA is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+NÁSSIA is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 NÁSSIA is a trance and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Brandenburg and Leipzig. Often billed alongside BENITO (DE), .Cheka and ARPL. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ NÁSSIA is a trance and techno artist based in Germany, with 6 gigs on soundchec
 
 BENITO (DE), .Cheka, ARPL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nassia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nassia/)*

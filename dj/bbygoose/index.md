@@ -1,6 +1,6 @@
 # BBY GOOSE
 
-BBY GOOSE is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Plaza Camden, London on Sat, 30 Jan 2027.
+BBY GOOSE is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Plaza Camden, London on Sat, 30 Jan 2027.
 
 BBY GOOSE is a trance and techno artist based in United Kingdom, with 11 gigs on soundcheck across Bristol, Cardiff, Leeds and London. Often billed alongside ROWANA, ASHTYLR and Amy Wiles. Next up: Plaza Camden, London on Sat 30 Jan.
 
@@ -26,4 +26,4 @@ BBY GOOSE is a trance and techno artist based in United Kingdom, with 11 gigs on
 
 ROWANA, ASHTYLR, Amy Wiles
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbygoose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbygoose/)*

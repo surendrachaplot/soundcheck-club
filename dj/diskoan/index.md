@@ -1,8 +1,8 @@
 # Diskoan
 
-Diskoan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala ART, Madrid on Sat, 5 Dec 2026.
+Diskoan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala ART, Madrid on Sat, 5 Dec 2026.
 
-Diskoan is a techno and house artist based in Spain, with 59 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Marcos in Dub, Josephine and -nico-. Next up: Sala ART, Madrid on Sat 5 Dec.
+Diskoan is a techno and house artist based in Spain, with 59 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Marcos in Dub, Josephine (ES) and -nico-. Next up: Sala ART, Madrid on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Diskoan is a techno and house artist based in Spain, with 59 gigs on soundcheck 
 
 ## Shares bills with
 
-Marcos in Dub, Josephine, -nico-
+Marcos in Dub, Josephine (ES), -nico-
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoan/)*

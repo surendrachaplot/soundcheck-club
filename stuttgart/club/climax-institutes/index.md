@@ -1,15 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Powerhouse: Raphael Dincsoy (all night long)" on Fri, 27 Nov 2026.
+Climax-Institutes is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "GROOVE SENSATION" on Sat, 28 Nov 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Adi Dassler, Ben Hille, E-PUNK and Kate no Sleep and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, with line-ups including Adi Dassler, Ben Hille, E-PUNK and Kate no Sleep and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Powerhouse: Raphael Dincsoy (all night long) |  |
-| Fri, 27 Nov 2026 | POWERHOUSE | Raphael Dincsoy |
 | Sat, 28 Nov 2026 | GROOVE SENSATION | Michael Clash Gottschalk |
 | Thu, 3 Dec 2026 | THURSDAZE | Tyson Rodenfeld |
 | Fri, 4 Dec 2026 | VIBRATION |  |
@@ -22,4 +20,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

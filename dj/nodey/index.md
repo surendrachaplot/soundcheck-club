@@ -1,6 +1,6 @@
 # Nodey
 
-Nodey is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
+Nodey is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rever Mixology & Lounge, Ho Chi Minh City on Sat, 28 Nov 2026.
 
 Nodey is a techno and club artist based in Vietnam, with 36 gigs on soundcheck across Hanoi, Ho Chi Minh City, Los Angeles and Paris and 1 more. Often billed alongside Goss, Phát Paris and Chi Min. Next up: Rever Mixology & Lounge, Ho Chi Minh City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nodey is a techno and club artist based in Vietnam, with 36 gigs on soundcheck a
 
 Goss, Phát Paris, Chi Min
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nodey/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nodey/)*

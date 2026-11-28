@@ -1,6 +1,6 @@
 # Hurtado
 
-Hurtado is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Powered by Void Acoustics, Madrid on Fri, 1 Jan 2027.
+Hurtado is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Powered by Void Acoustics, Madrid on Fri, 1 Jan 2027.
 
 Hurtado is a techno and industrial artist based in Spain, with 26 gigs on soundcheck across Barcelona, Berlin, Bratislava and Hong Kong and 7 more. Often billed alongside DAHRAXT, 3.14 and Liza Aikin. Next up: TBA - Powered by Void Acoustics, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Hurtado is a techno and industrial artist based in Spain, with 26 gigs on soundc
 
 DAHRAXT, 3.14, Liza Aikin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hurtado/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hurtado/)*

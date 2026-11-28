@@ -1,15 +1,13 @@
 # Little Rockers
 
-Little Rockers is a music venue in Okinawa with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "YORU JUKE 9th Anniversary × Nekon Records" on Fri, 27 Nov 2026.
+Little Rockers is a music venue in Okinawa with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "KOTOZUKE" on Sat, 28 Nov 2026.
 
-Little Rockers is a music venue in Okinawa listed on soundcheck. 4 upcoming gigs, with line-ups including 女子JUKE楽坊, K-Tanaka, POiSON GiRL FRiEND and TEACHI. See dates, start times and who's playing. SO Makishi Bld 4F, Makishi 1-20-13, NAHA-Shi, Okinawa 900-0013.
+Little Rockers is a music venue in Okinawa listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. SO Makishi Bld 4F, Makishi 1-20-13, NAHA-Shi, Okinawa 900-0013.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | YORU JUKE 9th Anniversary × Nekon Records | K-Tanaka, POiSON GiRL FRiEND, TEACHI, 女子JUKE楽坊 |
-| Fri, 27 Nov 2026 | 夜JUKE -9th ANNIVERSARY- | POiSON GiRL FRiEND |
 | Sat, 28 Nov 2026 | KOTOZUKE |  |
 | Sun, 29 Nov 2026 | Nice & Slo |  |
 
@@ -17,4 +15,4 @@ Little Rockers is a music venue in Okinawa listed on soundcheck. 4 upcoming gigs
 
 SO Makishi Bld 4F, Makishi 1-20-13, NAHA-Shi, Okinawa 900-0013, Okinawa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/little-rockers/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/little-rockers/)*

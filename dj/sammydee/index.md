@@ -1,6 +1,6 @@
 # Sammy Dee
 
-Sammy Dee is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sonnenraum, Berlin on Fri, 4 Dec 2026.
+Sammy Dee is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sonnenraum, Berlin on Fri, 4 Dec 2026.
 
 Sammy Dee is a house and minimal artist based in Germany, with 61 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 16 more. Often billed alongside Zip, Foehn & Jerome and A Guy Called Gerald. Next up: Sonnenraum, Berlin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Sammy Dee is a house and minimal artist based in Germany, with 61 gigs on soundc
 
 Zip, Foehn & Jerome, A Guy Called Gerald
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydee/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydee/)*

@@ -1,6 +1,6 @@
 # Mark Ernestus
 
-Mark Ernestus is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Open Ground, Wuppertal on Thu, 31 Dec 2026.
+Mark Ernestus is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Open Ground, Wuppertal on Thu, 31 Dec 2026.
 
 Mark Ernestus is a dub techno and dub artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: Open Ground, Wuppertal on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mark Ernestus is a dub techno and dub artist based in Germany, with 38 gigs on s
 
 CCL, Objekt, Arthur (DE)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*

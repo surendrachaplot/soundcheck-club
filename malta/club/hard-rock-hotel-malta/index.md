@@ -1,6 +1,6 @@
 # Hard Rock Hotel Malta
 
-Hard Rock Hotel Malta is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "EXCLUSIVE NEW YEAR'S EVE PARTY - HARD ROCK HOTEL MALTA" on Thu, 31 Dec 2026.
+Hard Rock Hotel Malta is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "EXCLUSIVE NEW YEAR'S EVE PARTY - HARD ROCK HOTEL MALTA" on Thu, 31 Dec 2026.
 
 Hard Rock Hotel Malta is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including ANT Mifsud and MIZAK. See dates, start times and who's playing. Tr. il-Profs. W. Ganado, San Ġiljan.
 
@@ -14,4 +14,4 @@ Hard Rock Hotel Malta is a music venue in Malta listed on soundcheck. 1 upcoming
 
 Tr. il-Profs. W. Ganado, San Ġiljan, Malta
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hard-rock-hotel-malta/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hard-rock-hotel-malta/)*

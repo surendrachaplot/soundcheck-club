@@ -1,6 +1,6 @@
 # Hackmarkt
 
-Hackmarkt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Koara, Tokyo on Sun, 29 Nov 2026.
+Hackmarkt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Koara, Tokyo on Sun, 29 Nov 2026.
 
 Hackmarkt is a techno and house artist based in Japan, with 166 gigs on soundcheck across Tokyo. Often billed alongside junkie babe, LiaRako and tuzuRa. Next up: Koara, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Hackmarkt is a techno and house artist based in Japan, with 166 gigs on soundche
 
 junkie babe, LiaRako, tuzuRa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hackmarkt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hackmarkt/)*

@@ -1,6 +1,6 @@
 # Marcey99
 
-Marcey99 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
+Marcey99 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
 
 Marcey99 is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside The Blackmailer, Damien Barthet and Heepmann. Next up: ://about blank, Berlin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Marcey99 is a techno and trance artist based in Germany, with 11 gigs on soundch
 
 The Blackmailer, Damien Barthet (2), Heepmann
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcey99/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcey99/)*

@@ -1,6 +1,6 @@
 # Trym at The Concourse Project
 
-Trym at The Concourse Project on Sat 5 Dec, Austin. 1 artist: Trym. See the line-up on soundcheck.
+Trym at The Concourse Project on Sat 5 Dec, Austin. 3 artists: CLAWZ, LAMMER and Trym. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Trym at The Concourse Project on Sat 5 Dec, Austin. 1 artist: Trym. See the line
 
 ## Line-up
 
+- CLAWZ
+- LAMMER
 - Trym
 
 *Source: [soundcheck](https://soundcheck.club/e/2557146-trym-at-the-concourse-project/)*

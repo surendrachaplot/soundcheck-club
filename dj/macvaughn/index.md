@@ -1,6 +1,6 @@
 # Mac Vaughn
 
-Mac Vaughn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Mac Vaughn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Mac Vaughn is a techno and house artist, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Ryan Michael Robbins, GlittrCat and Kelly Verse. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Mac Vaughn is a techno and house artist, with 12 gigs on soundcheck across San F
 
 Ryan Michael Robbins, GlittrCat, Kelly Verse
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macvaughn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macvaughn/)*

@@ -1,13 +1,14 @@
 # Ayy Den
 
-Ayy Den is a Club and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at renae, Manchester on Fri, 18 Dec 2026.
+Ayy Den is a Club and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Stage and Radio, Manchester on Fri, 11 Dec 2026.
 
-Ayy Den is a club and uk funky artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Bristol, Glasgow and Leeds and 6 more. Often billed alongside Bok Bok, Charlie Boy Manson and DANCING WITH STANLEY. Next up: renae, Manchester on Fri 18 Dec.
+Ayy Den is a club and uk funky artist based in United Kingdom, with 39 gigs on soundcheck across Barcelona, Bristol, Glasgow and Leeds and 6 more. Often billed alongside Adele Tondu, Bok Bok and Charlie Boy Manson. Next up: Stage and Radio, Manchester on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Stage and Radio | Manchester |
 | Fri, 18 Dec 2026 | renae | Manchester |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ayy Den is a club and uk funky artist based in United Kingdom, with 38 gigs on s
 
 ## Shares bills with
 
-Bok Bok, Charlie Boy Manson, DANCING WITH STANLEY
+Adele Tondu, Bok Bok, Charlie Boy Manson
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayyden/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayyden/)*

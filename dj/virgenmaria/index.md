@@ -1,6 +1,6 @@
 # Virgen Maria
 
-Virgen Maria is a Pop and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
+Virgen Maria is a Pop and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
 
 Virgen Maria is a pop and reggaeton artist based in Spain, with 32 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Naive Supreme, Hundred Tauro and Alvva. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Virgen Maria is a pop and reggaeton artist based in Spain, with 32 gigs on sound
 
 Naive Supreme, Hundred Tauro, Alvva
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virgenmaria/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/virgenmaria/)*

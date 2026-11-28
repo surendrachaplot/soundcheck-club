@@ -1,18 +1,18 @@
 # Soulastico
 
-Soulastico is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Ghent (multi-venue), Ghent on Fri, 27 Nov 2026.
+Soulastico is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Capital, Antwerp on Thu, 31 Dec 2026.
 
-Soulastico is a house and disco artist based in Belgium, with 26 gigs on soundcheck across Antwerp, Barcelona, Brussels and Ghent and 2 more. Often billed alongside Bibi Seck, Geheimzinnig Soundsystem and John Noseda. Next up: TBA - Ghent (multi-venue), Ghent on Fri 27 Nov.
+Soulastico is a house and disco artist based in Belgium, with 26 gigs on soundcheck across Antwerp, Barcelona, Brussels and Ghent and 2 more. Often billed alongside Bibi Seck, Geheimzinnig Soundsystem and John Noseda. Next up: Club Capital, Antwerp on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA - Ghent (multi-venue) | Ghent |
 | Thu, 31 Dec 2026 | Club Capital | Antwerp |
 
 ## Recently played
 
+- TBA - Ghent (multi-venue), Ghent · Fri, 27 Nov 2026
 - Konijnenwei, Antwerp · Sat, 29 Aug 2026
 - Djoon, Paris · Fri, 24 Jul 2026
 - TRAUM, Antwerp · Sat, 4 Jul 2026
@@ -20,10 +20,9 @@ Soulastico is a house and disco artist based in Belgium, with 26 gigs on soundch
 - Boeienweide Linkeroever, Antwerp · Sat, 9 May 2026
 - TRAUM, Antwerp · Sat, 11 Apr 2026
 - Plein Publiek, Brussels · Fri, 19 Dec 2025
-- Hangar48 Club, Madrid · Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Bibi Seck, Geheimzinnig Soundsystem, John Noseda
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulastico/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulastico/)*

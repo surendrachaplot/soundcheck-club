@@ -1,6 +1,6 @@
 # Francesca Heart
 
-Francesca Heart is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Umbo, Zurich on Sun, 29 Nov 2026.
+Francesca Heart is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Umbo, Zurich on Sun, 29 Nov 2026.
 
 Francesca Heart is an electronica and ambient artist based in Italy, with 14 gigs on soundcheck across Berlin, Bologna, Lisbon and Los Angeles and 4 more. Often billed alongside DJ Python, Fukinsei and Amnesia Scanner. Next up: Umbo, Zurich on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Francesca Heart is an electronica and ambient artist based in Italy, with 14 gig
 
 DJ Python, Fukinsei, Amnesia Scanner
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescaheart/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescaheart/)*

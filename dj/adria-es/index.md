@@ -1,6 +1,6 @@
 # Adria (ES)
 
-Adria (ES) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
+Adria (ES) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
 
 Adria (ES) is a house and electro artist based in Spain, with 140 gigs on soundcheck across Barcelona, Bucharest, Ibiza and Lisbon and 3 more. Often billed alongside Pau Rosés, Vince Void and Alex Garcia. Next up: Seaseaclub Barcelona, Barcelona on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ Adria (ES) is a house and electro artist based in Spain, with 140 gigs on soundc
 
 Pau Rosés, Vince Void, Alex Garcia (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adria-es/)*

@@ -1,6 +1,6 @@
 # Simone Venanzi
 
-Simone Venanzi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Electronic Music Division Rome, Rome on Wed, 2 Dec 2026.
+Simone Venanzi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Electronic Music Division Rome, Rome on Wed, 2 Dec 2026.
 
 Simone Venanzi is a house and club artist based in Germany, with 6 gigs on soundcheck across Rome. Often billed alongside Lorenzo Dada, Andrea Saba and DIANA. Next up: Electronic Music Division Rome, Rome on Wed 2 Dec.
 
@@ -22,4 +22,4 @@ Simone Venanzi is a house and club artist based in Germany, with 6 gigs on sound
 
 Lorenzo Dada, Andrea Saba, DIANA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonevenanzi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonevenanzi/)*

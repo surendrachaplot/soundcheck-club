@@ -1,6 +1,6 @@
 # Bertie
 
-Bertie is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Miscellania, Melbourne on Wed, 9 Dec 2026.
+Bertie is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Miscellania, Melbourne on Wed, 9 Dec 2026.
 
 Bertie is a house and club artist based in Australia, with 66 gigs on soundcheck across Amsterdam, London, Melbourne and Munich and 2 more. Often billed alongside Baby G, DAWS and BELLA (NL). Next up: Miscellania, Melbourne on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Bertie is a house and club artist based in Australia, with 66 gigs on soundcheck
 
 Baby G, DAWS, BELLA (NL)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bertie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bertie/)*

@@ -1,6 +1,6 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "PIXELATE MANCHESTER KANDI KINGDOM" on Fri, 4 Dec 2026.
+Gorilla is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "PIXELATE MANCHESTER KANDI KINGDOM" on Fri, 4 Dec 2026.
 
 Gorilla is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Anop, blo rida, Compulsive Leia and RUBY RAWR. See dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
@@ -15,4 +15,4 @@ Gorilla is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, wi
 
 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom, Manchester
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*

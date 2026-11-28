@@ -1,6 +1,6 @@
 # Jaayology
 
-Jaayology is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+Jaayology is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 Jaayology is a jazz and funk / soul artist based in Brazil, with 54 gigs on soundcheck across Bangkok, Barcelona, Brazil and Chicago and 6 more. Often billed alongside Fred Guzzo, Camilo Miranda and Discos Baratos. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Jaayology is a jazz and funk / soul artist based in Brazil, with 54 gigs on soun
 
 Fred Guzzo, Camilo Miranda, Discos Baratos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaayology/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaayology/)*

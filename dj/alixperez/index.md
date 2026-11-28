@@ -1,14 +1,15 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
+Alix Perez is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Tokyo, Tokyo on Thu, 31 Dec 2026.
 
-Alix Perez is a drum & bass and bass artist based in United Kingdom, with 65 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 31 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Circus Tokyo, Tokyo on Thu 31 Dec.
+Alix Perez is a drum & bass and bass artist based in United Kingdom, with 66 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 31 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Circus Tokyo, Tokyo on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Circus Tokyo | Tokyo |
+| Thu, 31 Dec 2026 | Saloon | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alix Perez is a drum & bass and bass artist based in United Kingdom, with 65 gig
 
 SP:MC, Cesco, Visages
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

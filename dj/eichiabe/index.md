@@ -1,14 +1,15 @@
 # Eichi Abe
 
-Eichi Abe is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Saloon, Tokyo on Wed, 9 Dec 2026.
+Eichi Abe is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Saloon, Tokyo on Wed, 9 Dec 2026.
 
-Eichi Abe is a techno and electronica artist based in Japan, with 115 gigs on soundcheck across Beijing, Chengdu, Hanoi and Ho Chi Minh City and 8 more. Often billed alongside JUN INAGAWA, ecec and WAGAHAI IS NEKO. Next up: Saloon, Tokyo on Wed 9 Dec.
+Eichi Abe is a techno and electronica artist based in Japan, with 116 gigs on soundcheck across Beijing, Chengdu, Hanoi and Ho Chi Minh City and 8 more. Often billed alongside JUN INAGAWA, ecec and WAGAHAI IS NEKO. Next up: Saloon, Tokyo on Wed 9 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 9 Dec 2026 | Saloon | Tokyo |
+| Fri, 11 Dec 2026 | Enter Shibuya | Tokyo |
 | Sat, 12 Dec 2026 | Cube | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ Eichi Abe is a techno and electronica artist based in Japan, with 115 gigs on so
 
 JUN INAGAWA, ecec, WAGAHAI IS NEKO
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eichiabe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eichiabe/)*

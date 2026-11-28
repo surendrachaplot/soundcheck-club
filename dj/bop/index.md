@@ -1,14 +1,15 @@
 # Bop
 
-Bop is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bruk, Manchester on Sat, 28 Nov 2026.
+Bop is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bruk, Manchester on Sat, 28 Nov 2026.
 
-Bop is a drum & bass and jungle artist based in Russia, with 29 gigs on soundcheck across Amsterdam, Berlin, Brighton and Brussels and 2 more. Often billed alongside Synkro, London Elektricity and Nu:Tone. Next up: Bruk, Manchester on Sat 28 Nov.
+Bop is a drum & bass and jungle artist based in Russia, with 30 gigs on soundcheck across Amsterdam, Berlin, Brighton and Brussels and 2 more. Often billed alongside Synkro, London Elektricity and Nu:Tone. Next up: Bruk, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Bruk | Manchester |
+| Sat, 5 Dec 2026 | Panke | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bop is a drum & bass and jungle artist based in Russia, with 29 gigs on soundche
 
 Synkro, London Elektricity, Nu:Tone
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bop/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bop/)*

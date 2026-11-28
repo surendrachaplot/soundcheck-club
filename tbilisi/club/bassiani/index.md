@@ -1,14 +1,13 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Delsin: 30 Years Anniversary" on Fri, 27 Nov 2026.
+Bassiani is a music venue in Tbilisi with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Horoom – Sat, 28.11.2026" on Sat, 28 Nov 2026.
 
-Bassiani is a music venue in Tbilisi listed on soundcheck. 10 upcoming gigs, with line-ups including 98dots, Amelia Holt, Amir and ATEQ and 2 more. See dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
+Bassiani is a music venue in Tbilisi listed on soundcheck. 9 upcoming gigs, with line-ups including 98dots, Amelia Holt, ATEQ and Beka Wu and 2 more. See dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Delsin: 30 Years Anniversary | Amir (1), HVL, Kraumur, Kvanchi, STERAC, Tasha, Volodymyr Gnatenko, nthng |
 | Sat, 28 Nov 2026 | Horoom – Sat, 28.11.2026 | Cobert, Dito, HerShe, Roman Flügel |
 | Fri, 4 Dec 2026 | Bassiani – Horoom – Fri, 04.12.2026 | Beka Wu, Chami, DJ Nobu, Function, Hamatsuki, Jen Cardini, Kancheli, Sophie Phare |
 | Sat, 5 Dec 2026 | Horoom x Honey Trap: Amelia Holt, ninasupsa, Second Contact, Zitto | Amelia Holt, Second Contact, Zitto, ninasupsa |
@@ -23,4 +22,4 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 10 upcoming gigs, wit
 
 Tsereteli street 2 , Tbilisi, Georgia, Tbilisi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*

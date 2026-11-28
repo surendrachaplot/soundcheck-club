@@ -1,13 +1,14 @@
 # BOA (1)
 
-BOA (1) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Panama, Amsterdam on Fri, 18 Dec 2026.
+BOA (1) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 93 Feet East, London on Fri, 11 Dec 2026.
 
-BOA is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 1 more. Often billed alongside Olly Brady, Philip Ackowsky and SAM PHONIC. Next up: Panama, Amsterdam on Fri 18 Dec.
+BOA is a tech house and house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 1 more. Often billed alongside Olly Brady, Philip Ackowsky and SAM PHONIC. Next up: 93 Feet East, London on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | 93 Feet East | London |
 | Fri, 18 Dec 2026 | Panama | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ BOA is a tech house and house artist based in United Kingdom, with 19 gigs on so
 
 Olly Brady, Philip Ackowsky, SAM PHONIC
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*

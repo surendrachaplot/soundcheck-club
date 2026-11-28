@@ -1,8 +1,8 @@
 # Gloria Rose
 
-Gloria Rose is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 28 Nov 2026.
+Gloria Rose is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 28 Nov 2026.
 
-Gloria Rose is a techno and house artist based in France, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 7 more. Often billed alongside Amphia, Nina Pixina and RayRay. Next up: EXIT Glasgow, Glasgow on Sat 28 Nov.
+Gloria Rose is a techno and house artist based in France, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 8 more. Often billed alongside Amphia, Nina Pixina and RayRay. Next up: EXIT Glasgow, Glasgow on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gloria Rose is a techno and house artist based in France, with 60 gigs on soundc
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | EXIT Glasgow | Glasgow |
 | Mon, 7 Dec 2026 | Tresor / Globus | Berlin |
+| Fri, 11 Dec 2026 | La Station - Gare des Mines | Paris |
 | Thu, 31 Dec 2026 | fabric | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Gloria Rose is a techno and house artist based in France, with 60 gigs on soundc
 
 Amphia, Nina Pixina, RayRay
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*

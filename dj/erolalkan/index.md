@@ -1,6 +1,6 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Document, Bristol on Fri, 4 Dec 2026.
+Erol Alkan is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Document, Bristol on Fri, 4 Dec 2026.
 
 Erol Alkan is a house and techno artist based in United Kingdom, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 40 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Document, Bristol on Fri 4 Dec.
 
@@ -30,4 +30,4 @@ Erol Alkan is a house and techno artist based in United Kingdom, with 147 gigs o
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

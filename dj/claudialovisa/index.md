@@ -1,17 +1,18 @@
 # Claudia Lovisa
 
-Claudia Lovisa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. Next at Mødular., Cape Town on Fri, 20 Nov 2026.
+Claudia Lovisa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ColorBox Studios, Cape Town on Sat, 26 Dec 2026.
 
-Claudia Lovisa is a house and minimal artist based in Spain, with 6 gigs on soundcheck across Cape Town. Often billed alongside Michael Sutton, 2lani The Warrior and Anthea Scholtz. Next up: Mødular., Cape Town on Fri 20 Nov.
+Claudia Lovisa is a house and minimal artist based in Spain, with 7 gigs on soundcheck across Cape Town. Often billed alongside Michael Sutton, 2lani The Warrior and Anthea Scholtz. Next up: ColorBox Studios, Cape Town on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Mødular. | Cape Town |
+| Sat, 26 Dec 2026 | ColorBox Studios | Cape Town |
 
 ## Recently played
 
+- Mødular., Cape Town · Fri, 20 Nov 2026
 - Mødular., Cape Town · Tue, 3 Nov 2026
 - Mødular., Cape Town · Fri, 23 Oct 2026
 - Halo, Cape Town · Sat, 3 Oct 2026
@@ -22,4 +23,4 @@ Claudia Lovisa is a house and minimal artist based in Spain, with 6 gigs on soun
 
 Michael Sutton, 2lani The Warrior, Anthea Scholtz
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialovisa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialovisa/)*

@@ -1,6 +1,6 @@
 # Daniel Paul
 
-Daniel Paul is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tausend, Berlin on Wed, 2 Dec 2026.
+Daniel Paul is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tausend, Berlin on Wed, 2 Dec 2026.
 
 Daniel Paul is a house and disco artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside phazer, Ed Herbst and Audio Werner. Next up: Tausend, Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Daniel Paul is a house and disco artist based in Germany, with 9 gigs on soundch
 
 phazer, Ed Herbst, Audio Werner
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpaul/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpaul/)*

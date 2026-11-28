@@ -1,6 +1,6 @@
 # Wood Street Bear
 
-Wood Street Bear is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Charles Webster" on Sun, 29 Nov 2026.
+Wood Street Bear is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Charles Webster" on Sun, 29 Nov 2026.
 
 Wood Street Bear is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Charles Webster and Macca.. See dates, start times and who's playing. 135 Wood Street, London E17 9HG.
 
@@ -15,4 +15,4 @@ Wood Street Bear is a music venue in London listed on soundcheck. 2 upcoming gig
 
 135 Wood Street, London E17 9HG, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/wood-street-bear/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/wood-street-bear/)*

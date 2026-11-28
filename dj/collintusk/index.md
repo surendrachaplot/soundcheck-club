@@ -1,6 +1,6 @@
 # Collin Tusk
 
-Collin Tusk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dabadaba, North on Sat, 5 Dec 2026.
+Collin Tusk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Dabadaba, North on Sat, 5 Dec 2026.
 
 Collin Tusk is a techno and house artist based in United Kingdom, with 2 gigs on soundcheck across London and North. Often billed alongside De La Reef and Elysium Waves. Next up: Dabadaba, North on Sat 5 Dec.
 
@@ -15,4 +15,4 @@ Collin Tusk is a techno and house artist based in United Kingdom, with 2 gigs on
 
 De La Reef, Elysium Waves
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/collintusk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/collintusk/)*

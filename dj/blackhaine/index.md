@@ -1,6 +1,6 @@
 # Blackhaine
 
-Blackhaine is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Dome, London on Thu, 25 Mar 2027.
+Blackhaine is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Dome, London on Thu, 25 Mar 2027.
 
 Blackhaine is an experimental and hip-hop artist based in United Kingdom, with 19 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 7 more. Often billed alongside Loraine James, Space Afrika and Blawan. Next up: The Dome, London on Thu 25 Mar.
 
@@ -25,4 +25,4 @@ Blackhaine is an experimental and hip-hop artist based in United Kingdom, with 1
 
 Loraine James, Space Afrika, Blawan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*

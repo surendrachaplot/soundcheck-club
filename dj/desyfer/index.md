@@ -1,6 +1,6 @@
 # Desyfer
 
-Desyfer is a Minimal Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
+Desyfer is a Minimal Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Black Sea Coast Beach, Romania on Fri, 18 Jun 2027.
 
 Desyfer is a minimal techno and progressive house artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 1 more. Often billed alongside P.O.U, Alex Iovita and Ben:Rodd. Next up: Black Sea Coast Beach, Romania on Fri 18 Jun.
 
@@ -22,4 +22,4 @@ Desyfer is a minimal techno and progressive house artist based in United Kingdom
 
 P.O.U, Alex Iovita, Ben:Rodd
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desyfer/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desyfer/)*

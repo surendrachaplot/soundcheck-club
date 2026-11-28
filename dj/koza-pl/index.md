@@ -1,6 +1,6 @@
 # KoZa
 
-KoZa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at club asia, Tokyo on Sat, 19 Dec 2026.
+KoZa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at club asia, Tokyo on Sat, 19 Dec 2026.
 
 KoZa is a techno and house artist based in Poland, with 46 gigs on soundcheck across Tokyo and Warsaw. Often billed alongside Mabu, HANICZ and KEVS. Next up: club asia, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ KoZa is a techno and house artist based in Poland, with 46 gigs on soundcheck ac
 
 Mabu, HANICZ, KEVS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koza-pl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koza-pl/)*

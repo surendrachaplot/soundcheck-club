@@ -1,17 +1,18 @@
 # Baso
 
-Baso is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 14 Nov 2026. Next at Hertz, Seoul on Sat, 14 Nov 2026.
+Baso is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at teller, Seoul on Fri, 4 Dec 2026.
 
-Baso is a house and club artist based in Argentina, with 16 gigs on soundcheck across Bali and Seoul. Often billed alongside Acidwork, Jucid and Soyo. Next up: Hertz, Seoul on Sat 14 Nov.
+Baso is a house and club artist based in Argentina, with 17 gigs on soundcheck across Bali and Seoul. Often billed alongside Acidwork, Jucid and Lyumin. Next up: teller, Seoul on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Hertz | Seoul |
+| Fri, 4 Dec 2026 | teller | Seoul |
 
 ## Recently played
 
+- Hertz, Seoul · Sat, 14 Nov 2026
 - Paper, Seoul · Sat, 7 Nov 2026
 - Paper, Seoul · Sat, 17 Oct 2026
 - Hertz, Seoul · Sat, 10 Oct 2026
@@ -19,10 +20,9 @@ Baso is a house and club artist based in Argentina, with 16 gigs on soundcheck a
 - Nué Seoul, Seoul · Sat, 5 Sept 2026
 - Paper, Seoul · Sun, 16 Aug 2026
 - Hertz, Seoul · Fri, 14 Aug 2026
-- Hertz, Seoul · Fri, 24 Jul 2026
 
 ## Shares bills with
 
-Acidwork, Jucid, Soyo
+Acidwork, Jucid, Lyumin
 
-*Updated Sat, 14 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baso/)*

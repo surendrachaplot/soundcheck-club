@@ -1,6 +1,6 @@
 # The Divine
 
-The Divine is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 18 Nov 2026. The next is "j'ai laissé mes seins à paris" on Thu, 19 Nov 2026.
+The Divine is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "DYKONIC B*TCH" on Fri, 29 Jan 2027.
 
 The Divine is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ The Divine is a music venue in London listed on soundcheck. 1 upcoming gig. See 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | j'ai laissé mes seins à paris |  |
+| Fri, 29 Jan 2027 | DYKONIC B*TCH |  |
 
-*Updated Wed, 18 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-divine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-divine/)*

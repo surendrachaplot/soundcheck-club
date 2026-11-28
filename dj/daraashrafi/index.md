@@ -1,6 +1,6 @@
 # Dara Ashrafi
 
-Dara Ashrafi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Los Angeles on Sun, 29 Nov 2026.
+Dara Ashrafi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Los Angeles on Sun, 29 Nov 2026.
 
 Dara Ashrafi is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Casska, Adrian Reyes and Annika Wolfe. Next up: TBA, Los Angeles on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Dara Ashrafi is a techno and house artist based in United States of America, wit
 
 Casska, Adrian Reyes, Annika Wolfe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daraashrafi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daraashrafi/)*

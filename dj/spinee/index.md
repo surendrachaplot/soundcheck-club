@@ -1,6 +1,6 @@
 # SPINEE
 
-SPINEE is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
+SPINEE is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Greyhound, London on Thu, 31 Dec 2026.
 
 SPINEE is a club and trance artist based in United Kingdom, with 27 gigs on soundcheck across Barcelona, Berlin, Budapest and Leeds and 3 more. Often billed alongside DJ Fingerblast, Peggy Viennetta and Trancey Beaker. Next up: The Greyhound, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ SPINEE is a club and trance artist based in United Kingdom, with 27 gigs on soun
 
 DJ Fingerblast, Peggy Viennetta, Trancey Beaker
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinee/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spinee/)*

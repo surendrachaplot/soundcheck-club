@@ -1,14 +1,13 @@
 # Cici Park
 
-Cici Park is a music venue in Chongqing with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Phantom Overdrive｜幻速巨擎" on Fri, 27 Nov 2026.
+Cici Park is a music venue in Chongqing with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "DARTH PHADER China Tour 2026" on Sat, 28 Nov 2026.
 
-Cici Park is a music venue in Chongqing listed on soundcheck. 7 upcoming gigs, with line-ups including Kongsent, Paul Lution, Sanwan30k and Sunyoung and 1 more. See dates, start times and who's playing. Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）.
+Cici Park is a music venue in Chongqing listed on soundcheck. 6 upcoming gigs, with line-ups including Kongsent, Paul Lution, Sunyoung and Yang Bing. See dates, start times and who's playing. Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Phantom Overdrive｜幻速巨擎 | Sanwan30k |
 | Sat, 28 Nov 2026 | DARTH PHADER China Tour 2026 |  |
 | Fri, 4 Dec 2026 | 赤色闪电 RED LIGHTNING |  |
 | Sat, 12 Dec 2026 | Sagittarius Cosmos｜射手座小宇宙 | Kongsent, Sunyoung, Yang Bing |
@@ -20,4 +19,4 @@ Cici Park is a music venue in Chongqing listed on soundcheck. 7 upcoming gigs, w
 
 Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）, Chongqing
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*

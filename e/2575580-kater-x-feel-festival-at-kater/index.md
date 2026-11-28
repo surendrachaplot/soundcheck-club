@@ -1,6 +1,6 @@
 # Kater x Feel Festival at Kater
 
-Kater x Feel Festival on Sat 19 Dec, Berlin. 16 artists: ALKARLINE, Almost Famous, Annyrock and ATTA (GER) and 12 more. Trance and House. See the line-up on soundcheck.
+Kater x Feel Festival on Sat 19 Dec, Berlin. 21 artists: ALKARLINE, Almost Famous, Annyrock and ATTA (GER) and 17 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,10 +18,15 @@ Kater x Feel Festival on Sat 19 Dec, Berlin. 16 artists: ALKARLINE, Almost Famou
 - Catz 'N Dogz
 - costaphilly
 - Discopapi
+- Dj Norma
 - ENNIO
+- Esther Silex
 - fbi (1)
+- Greta Spark
+- Hannie Phi
 - KONZ
 - KVLR
+- Maruwa
 - MATHILDA (2)
 - Sabu!
 - The Jakob Sister

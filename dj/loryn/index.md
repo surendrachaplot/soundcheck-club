@@ -1,6 +1,6 @@
 # Loryn
 
-Loryn is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
+Loryn is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
 Loryn is a house and electronica artist based in United States of America, with 10 gigs on soundcheck across Berlin, Hamburg and Paris. Often billed alongside Automatic Writing, Baccus and DJ Steaw. Next up: Mia Mao, Paris on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Loryn is a house and electronica artist based in United States of America, with 
 
 Automatic Writing, Baccus, DJ Steaw
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loryn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loryn/)*

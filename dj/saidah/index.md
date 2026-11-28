@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Telegraph Building, Belfast on Sat, 28 Nov 2026.
+SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Telegraph Building, Belfast on Sat, 28 Nov 2026.
 
 SAIDAH is a house and garage artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Austin and Australian Capital Territory and 26 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: The Telegraph Building, Belfast on Sat 28 Nov.
 
@@ -35,4 +35,4 @@ SAIDAH is a house and garage artist based in Netherlands, with 130 gigs on sound
 
 Diffrent, Benwal, Sam Alfred
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

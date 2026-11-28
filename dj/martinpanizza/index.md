@@ -1,6 +1,6 @@
 # Martin Panizza
 
-Martin Panizza is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cigale, Buenos Aires on Tue, 1 Dec 2026.
+Martin Panizza is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Cigale, Buenos Aires on Tue, 1 Dec 2026.
 
 Martin Panizza is a techno and tech house artist based in Uruguay, with 10 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Edinburgh and 3 more. Often billed alongside Bubba Brothers, Eddy Romero and Frink. Next up: La Cigale, Buenos Aires on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Martin Panizza is a techno and tech house artist based in Uruguay, with 10 gigs 
 
 Bubba Brothers, Eddy Romero, Frink
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinpanizza/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinpanizza/)*

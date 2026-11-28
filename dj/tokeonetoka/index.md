@@ -1,14 +1,14 @@
 # TOKEONETOKA
 
-TOKEONETOKA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Closer Private Warehouse, Los Angeles on Sat, 28 Nov 2026.
+TOKEONETOKA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 28 Nov 2026.
 
-TOKEONETOKA is a techno and acid artist based in United States of America, with 28 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside JAQ.XS, Lady Afrodisiac and ARP8. Next up: Closer Private Warehouse, Los Angeles on Sat 28 Nov.
+TOKEONETOKA is a techno and acid artist based in United States of America, with 28 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside JAQ.XS, Lady Afrodisiac and ARP8. Next up: TBA - DTLA, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Closer Private Warehouse | Los Angeles |
+| Sat, 28 Nov 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ TOKEONETOKA is a techno and acid artist based in United States of America, with 
 
 JAQ.XS, Lady Afrodisiac, ARP8
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokeonetoka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokeonetoka/)*

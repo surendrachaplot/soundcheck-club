@@ -1,6 +1,6 @@
 # Debora Kessler
 
-Debora Kessler is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Amboss Rampe, Zurich on Fri, 4 Dec 2026.
+Debora Kessler is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Amboss Rampe, Zurich on Fri, 4 Dec 2026.
 
 Debora Kessler is a house and electronica artist based in Spain, with 26 gigs on soundcheck across Barcelona and Zurich. Often billed alongside whereisvero, Ronny Grauer and Son of Son. Next up: Amboss Rampe, Zurich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Debora Kessler is a house and electronica artist based in Spain, with 26 gigs on
 
 whereisvero, Ronny Grauer, Son of Son
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deborakessler/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deborakessler/)*

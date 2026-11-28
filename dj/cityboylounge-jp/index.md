@@ -1,6 +1,6 @@
 # CityBoyLounge
 
-CityBoyLounge is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at flo Soakin, Osaka on Fri, 4 Dec 2026.
+CityBoyLounge is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at flo Soakin, Osaka on Fri, 4 Dec 2026.
 
 CityBoyLounge is a house and club artist based in Japan, with 42 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ko Yang (JP), Alex Albrecht and SEIJI. Next up: flo Soakin, Osaka on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ CityBoyLounge is a house and club artist based in Japan, with 42 gigs on soundch
 
 Ko Yang (JP), Alex Albrecht, SEIJI (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboylounge-jp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboylounge-jp/)*

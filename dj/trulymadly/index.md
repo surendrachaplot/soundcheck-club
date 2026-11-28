@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane São Paulo, Sao Paulo on Fri, 11 Dec 2026.
+Truly Madly is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane São Paulo, Sao Paulo on Fri, 11 Dec 2026.
 
 Truly Madly is a house and techno artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 43 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: Starlane São Paulo, Sao Paulo on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ Truly Madly is a house and techno artist based in United Kingdom, with 160 gigs 
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

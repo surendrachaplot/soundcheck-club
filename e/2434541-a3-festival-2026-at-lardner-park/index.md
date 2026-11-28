@@ -21,7 +21,7 @@ A3 Festival 2026 at Lardner Park on Fri 27 Nov, Melbourne. 53 artists: AKEYLAH, 
 - DINA
 - DJ ALI
 - DJ Luv You
-- dozie (uk)
+- dozie
 - Ed Kent
 - Gumm
 - Hannah D

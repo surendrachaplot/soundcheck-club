@@ -1,6 +1,6 @@
 # Primal
 
-Primal is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Eiger Studios, Leeds on Fri, 18 Dec 2026.
+Primal is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Eiger Studios, Leeds on Fri, 18 Dec 2026.
 
 Primal is a jungle and drum & bass artist, with 5 gigs on soundcheck across Leeds, London, Tokyo and Wroclaw. Often billed alongside AAMEE, Acolyte and Aura. Next up: Eiger Studios, Leeds on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Primal is a jungle and drum & bass artist, with 5 gigs on soundcheck across Leed
 
 AAMEE, Acolyte, Aura
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/primal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/primal/)*

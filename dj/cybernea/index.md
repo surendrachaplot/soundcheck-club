@@ -1,6 +1,6 @@
 # Cybernea
 
-Cybernea is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Video Club, Bogotá on Sat, 28 Nov 2026.
+Cybernea is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Video Club, Bogotá on Sat, 28 Nov 2026.
 
 Cybernea is a techno and electro artist based in Colombia, with 17 gigs on soundcheck across Barcelona, Bogotá and Medellin. Often billed alongside rodkoral, Andrea Arias and DJ Mashu. Next up: Video Club, Bogotá on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cybernea is a techno and electro artist based in Colombia, with 17 gigs on sound
 
 rodkoral, Andrea Arias, DJ Mashu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cybernea/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cybernea/)*

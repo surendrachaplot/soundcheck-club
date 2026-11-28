@@ -1,6 +1,6 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Cloud 9 Sound System - Winter Party" on Sat, 28 Nov 2026.
+La Nau is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Cloud 9 Sound System - Winter Party" on Sat, 28 Nov 2026.
 
 La Nau is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Breixo Martinez, K A I, Ricky Gamez and ronni and 1 more. See dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
@@ -16,4 +16,4 @@ La Nau is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with
 
 Carrer d'Àlaba, 30, 08005 Barcelona, Barcelona
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*

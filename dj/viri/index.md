@@ -1,6 +1,6 @@
 # VIRI$$
 
-VIRI$$ is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ormside Projects, London on Fri, 11 Dec 2026.
+VIRI$$ is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ormside Projects, London on Fri, 11 Dec 2026.
 
 VIRI$$ is a club and afrobeat artist based in United Kingdom, with 26 gigs on soundcheck across Cape Town and London. Often billed alongside Ab.Diablo, WAAW and Imaniii. Next up: Ormside Projects, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ VIRI$$ is a club and afrobeat artist based in United Kingdom, with 26 gigs on so
 
 Ab.Diablo, WAAW, Imaniii
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viri/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viri/)*

@@ -1,14 +1,13 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DJ Spiral - THE BOX ROOM - 4 Hour Vinyl Set" on Fri, 27 Nov 2026.
+The Racket Space is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Racket Space presents: Skeptic & MUCKANIKS" on Sat, 28 Nov 2026.
 
-The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gigs, with line-ups including Alexander Skancke, Billy Spike Iland, DECADANCE and DEVEGILI and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
+The Racket Space is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, with line-ups including Alexander Skancke, Billy Spike Iland, DECADANCE and DEVEGILI and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | DJ Spiral - THE BOX ROOM - 4 Hour Vinyl Set |  |
 | Sat, 28 Nov 2026 | Racket Space presents: Skeptic & MUCKANIKS | MUCKANIKS, Skeptic |
 | Fri, 4 Dec 2026 | Psychedelic Gaff 10 Years | JuliosMap |
 | Sat, 5 Dec 2026 | Shed | Billy Spike Iland, Shed |
@@ -18,9 +17,10 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gi
 | Sat, 19 Dec 2026 | DOT presents: Hard Techno Night |  |
 | Sat, 2 Jan 2027 | echoes presents: Truly Madly | Emma Kearns, Truly Madly |
 | Fri, 8 Jan 2027 | Dance For Womens Aid |  |
+| Fri, 15 Jan 2027 | dpnotic: Winter Edition | DECADANCE, DEVEGILI, F.HOLLOW |
 
 ## Address
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

@@ -1,6 +1,6 @@
 # Mastering Black
 
-Mastering Black is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Ampere, Antwerp on Thu, 31 Dec 2026.
+Mastering Black is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ampere, Antwerp on Thu, 31 Dec 2026.
 
 Mastering Black is a techno and ambient artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Antwerp and London. Often billed alongside Richie Hawtin, ANNĒ and APRS. Next up: Ampere, Antwerp on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ Mastering Black is a techno and ambient artist based in Netherlands, with 5 gigs
 
 Richie Hawtin, ANNĒ, APRS
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masteringblack/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masteringblack/)*

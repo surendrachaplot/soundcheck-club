@@ -1,6 +1,6 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "A Boogie After Party" on Sat, 28 Nov 2026.
+Future Nightlife is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "A Boogie After Party" on Sat, 28 Nov 2026.
 
 Future Nightlife is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Cedric Gervais and Rafael Cerato. See dates, start times and who's playing. 570 Queen Street West.
 
@@ -19,4 +19,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 6 upcoming gi
 
 570 Queen Street West, Toronto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

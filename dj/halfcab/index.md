@@ -1,6 +1,6 @@
 # Halfcab
 
-Halfcab is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Tue, 9 Feb 2027.
+Halfcab is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Museu do Amanhã, Rio de Janeiro on Tue, 9 Feb 2027.
 
 Halfcab is a house and tech house artist based in Brazil, with 30 gigs on soundcheck across Amsterdam, Brazil, Liverpool and Malta and 3 more. Often billed alongside Mochakk, Solarce Brothers and Denis Sulta. Next up: Museu do Amanhã, Rio de Janeiro on Tue 9 Feb.
 
@@ -25,4 +25,4 @@ Halfcab is a house and tech house artist based in Brazil, with 30 gigs on soundc
 
 Mochakk, Solarce Brothers, Denis Sulta
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*

@@ -1,6 +1,6 @@
 # CASH FROM HASH
 
-CASH FROM HASH is a Baile Funk and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Sat, 26 Dec 2026.
+CASH FROM HASH is a Baile Funk and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gare Porto, Porto on Sat, 26 Dec 2026.
 
 CASH FROM HASH is a baile funk and hard drum artist based in Portugal, with 13 gigs on soundcheck across Barcelona, Edinburgh, Lisbon and Porto. Often billed alongside NOIA, Juvenil Angústia and Mesqit. Next up: Gare Porto, Porto on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ CASH FROM HASH is a baile funk and hard drum artist based in Portugal, with 13 g
 
 NOIA, Juvenil Angústia, Mesqit
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cashfromhash/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cashfromhash/)*

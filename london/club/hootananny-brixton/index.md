@@ -1,8 +1,8 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "20 Years of Blah Records" on Sat, 28 Nov 2026.
+Hootananny Brixton is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "20 Years of Blah Records" on Sat, 28 Nov 2026.
 
-Hootananny Brixton is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including A.N.T, alterum, Boxer and DJ BinBag and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
+Hootananny Brixton is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including A.N.T, alterum, Boxer and DJ BinBag and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 4 upcoming g
 | Fri, 4 Dec 2026 | Hang The DJs present: Hard, Fast & Horny | DJ BinBag, Hang The DJs, Lobsta B, Slayphex Twins, alterum |
 | Thu, 10 Dec 2026 | Jungle Bells: Free Xmas Rave | A.N.T, INSECT CRUSHA, LMajor, Maria, OS:MAN, TILDA (2) |
 | Sat, 12 Dec 2026 | Brixton Bass: Christmas Cracker | Boxer, DJ Brockie, DJ Rap, Funsta, Jumping Jack Frost, LowQui, Moose, Mrs Magoo, Rufus |
+| Sat, 27 Feb 2027 | Saint Lukez (Extended Vinyl Set) | Maria Hanlon, Saint Lukez |
 
 ## Address
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

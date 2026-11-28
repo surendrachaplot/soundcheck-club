@@ -1,13 +1,14 @@
 # Da Gremlin
 
-Da Gremlin is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at export, Rotterdam on Sat, 23 Jan 2027.
+Da Gremlin is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sektor Evolution, Dresden on Sat, 28 Nov 2026.
 
-Da Gremlin is a hardcore and gabber artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Gysèle, HyperLili and Jorn Liefdeshuis. Next up: export, Rotterdam on Sat 23 Jan.
+Da Gremlin is a hardcore and gabber artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Dresden, Rotterdam and The Hague and 1 more. Often billed alongside Gysèle, HyperLili and Jorn Liefdeshuis. Next up: Sektor Evolution, Dresden on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Sektor Evolution | Dresden |
 | Sat, 23 Jan 2027 | export | Rotterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Da Gremlin is a hardcore and gabber artist based in Netherlands, with 9 gigs on 
 
 Gysèle, HyperLili, Jorn Liefdeshuis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dagremlin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dagremlin/)*

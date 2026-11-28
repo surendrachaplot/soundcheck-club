@@ -1,6 +1,6 @@
 # Dj Raw (MX)
 
-Dj Raw (MX) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Vista, Mexico City on Wed, 25 Nov 2026.
+Dj Raw (MX) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Vista, Mexico City on Wed, 25 Nov 2026.
 
 Dj Raw (MX) is a house and downtempo artist based in Mexico, with 48 gigs on soundcheck across Barcelona, Lisbon, London and Mexico City and 5 more. Often billed alongside Nico Jean, Ritmonzón and Miss Voltaghe. Next up: La Vista, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Dj Raw (MX) is a house and downtempo artist based in Mexico, with 48 gigs on sou
 
 Nico Jean, Ritmonzón, Miss Voltaghe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djraw-mx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djraw-mx/)*

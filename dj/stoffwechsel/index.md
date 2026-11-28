@@ -1,17 +1,18 @@
 # Støffwechsel
 
-Støffwechsel is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. Next at M-BIA, Berlin on Sat, 21 Nov 2026.
+Støffwechsel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M-BIA, Berlin on Thu, 31 Dec 2026.
 
-Støffwechsel is a trance and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside MØABEAT, ALICA RØUGH and John Kotti. Next up: M-BIA, Berlin on Sat 21 Nov.
+Støffwechsel is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside MØABEAT, ALICA RØUGH and Daora. Next up: M-BIA, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | M-BIA | Berlin |
+| Thu, 31 Dec 2026 | M-BIA | Berlin |
 
 ## Recently played
 
+- M-BIA, Berlin · Sat, 21 Nov 2026
 - M-BIA, Berlin · Sat, 7 Nov 2026
 - M-BIA, Berlin · Fri, 9 Oct 2026
 - M-BIA, Berlin · Fri, 21 Aug 2026
@@ -20,6 +21,6 @@ Støffwechsel is a trance and techno artist based in Germany, with 6 gigs on sou
 
 ## Shares bills with
 
-MØABEAT, ALICA RØUGH, John Kotti
+MØABEAT, ALICA RØUGH, Daora
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffwechsel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffwechsel/)*

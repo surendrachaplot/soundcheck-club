@@ -1,14 +1,13 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuse, Brussels on Fri, 27 Nov 2026.
+Iman Janes is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Crackhouse, Gdansk on Sat, 28 Nov 2026.
 
-Iman Janes is a techno and tech house artist based in France, with 34 gigs on soundcheck across Berlin, Bratislava, Brussels and Dortmund / Essen and 9 more. Often billed alongside KALTBLUME, Sicion and Alarico. Next up: Fuse, Brussels on Fri 27 Nov.
+Iman Janes is a techno and tech house artist based in France, with 34 gigs on soundcheck across Berlin, Bratislava, Brussels and Dortmund / Essen and 9 more. Often billed alongside KALTBLUME, Sicion and Alarico. Next up: Crackhouse, Gdansk on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Fuse | Brussels |
 | Sat, 28 Nov 2026 | Crackhouse | Gdansk |
 | Fri, 4 Dec 2026 | Flux Istanbul | Istanbul |
 | Fri, 30 Apr 2027 | Else | Berlin |
@@ -16,6 +15,7 @@ Iman Janes is a techno and tech house artist based in France, with 34 gigs on so
 
 ## Recently played
 
+- Fuse, Brussels · Fri, 27 Nov 2026
 - AMT, Berlin · Sat, 21 Nov 2026
 - Magasins Généraux, Paris · Sat, 14 Nov 2026
 - Uebel & Gefährlich, Hamburg · Fri, 23 Oct 2026
@@ -23,10 +23,9 @@ Iman Janes is a techno and tech house artist based in France, with 34 gigs on so
 - ÆDEN, Berlin · Thu, 1 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
 - TBA - 92390 Villeneuve-la-Garenne, France, Paris · Sat, 29 Aug 2026
-- Fvtvr, Paris · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 KALTBLUME, Sicion, Alarico
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

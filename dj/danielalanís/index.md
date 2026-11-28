@@ -1,6 +1,6 @@
 # Daniel Alanís
 
-Daniel Alanís is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fünk, Mexico City on Thu, 10 Dec 2026.
+Daniel Alanís is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fünk, Mexico City on Thu, 10 Dec 2026.
 
 Daniel Alanís is a techno and house artist based in Mexico, with 14 gigs on soundcheck across Ghent, Mexico City and Montreal. Often billed alongside Yentl., Majo Villalobos and Maseriche. Next up: Fünk, Mexico City on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Daniel Alanís is a techno and house artist based in Mexico, with 14 gigs on sou
 
 Yentl., Majo Villalobos, Maseriche
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielalanís/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielalanís/)*

@@ -1,6 +1,6 @@
 # Rotational
 
-Rotational is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Skatecafe, Amsterdam on Sat, 5 Dec 2026.
+Rotational is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Skatecafe, Amsterdam on Sat, 5 Dec 2026.
 
 Rotational is a bass and dub artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 6 more. Often billed alongside Tash LC, Bclip and Cinnaman. Next up: Skatecafe, Amsterdam on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Rotational is a bass and dub artist based in Netherlands, with 24 gigs on soundc
 
 Tash LC, Bclip, Cinnaman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*

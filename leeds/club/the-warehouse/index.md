@@ -1,14 +1,13 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DJ Q: All Night Long" on Fri, 27 Nov 2026.
+The Warehouse is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "ATRIP, DJ BORING, DJ Seinfeld + Charlotte Ord" on Sat, 28 Nov 2026.
 
-The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including Alan Fitzpatrick, Andy C, ATRIP and blk. and 2 more. See dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
+The Warehouse is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Alan Fitzpatrick, Andy C, ATRIP and blk. and 2 more. See dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | DJ Q: All Night Long | DJ Q |
 | Sat, 28 Nov 2026 | ATRIP, DJ BORING, DJ Seinfeld + Charlotte Ord | ATRIP, Charlotte Ord, DJ BORING, DJ Seinfeld |
 | Sat, 28 Nov 2026 | Menno Solo UK Reunion - Digital Society Leeds | Menno De Jong |
 | Fri, 4 Dec 2026 | Andy C | Andy C, Harriet Jaxxon, Hoax (UK) |
@@ -22,4 +21,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, w
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

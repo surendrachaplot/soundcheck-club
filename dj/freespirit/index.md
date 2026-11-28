@@ -1,6 +1,6 @@
 # Freespirit
 
-Freespirit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dojo Boutique Club, Budapest on Fri, 4 Dec 2026.
+Freespirit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Dojo Boutique Club, Budapest on Fri, 4 Dec 2026.
 
 Freespirit is a house and afro house artist based in Greece, with 37 gigs on soundcheck across Amsterdam, Athens, Budapest and Frankfurt and 1 more. Often billed alongside DJ Freespirit, Alex Wann and Claptone. Next up: Dojo Boutique Club, Budapest on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Freespirit is a house and afro house artist based in Greece, with 37 gigs on sou
 
 DJ Freespirit, Alex Wann, Claptone
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freespirit/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freespirit/)*

@@ -1,6 +1,6 @@
 # CHARLIE POWELL
 
-CHARLIE POWELL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
+CHARLIE POWELL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
 
 CHARLIE POWELL is a house and techno artist based in United Kingdom, with 8 gigs on soundcheck across Ibiza, London and Nottingham. Often billed alongside Mas Que Nada Brothers, Mocks & Murph and 2fox. Next up: Oslo Hackney, London on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ CHARLIE POWELL is a house and techno artist based in United Kingdom, with 8 gigs
 
 Mas Que Nada Brothers, Mocks & Murph, 2fox
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliepowell/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charliepowell/)*

@@ -1,6 +1,6 @@
 # face*
 
-face* is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+face* is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 face* is a techno and house artist based in Germany, with 60 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Antoine Baiser, Surreal (DE) and Marco Baskind. Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ face* is a techno and house artist based in Germany, with 60 gigs on soundcheck 
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 27 Nov 2026
 - Jonny Knüppel, Berlin · Sat, 3 Oct 2026
 - Helgoländer Allee, Hamburg · Sat, 29 Aug 2026
 - Südpol, Hamburg · Sat, 25 Jul 2026
@@ -19,10 +20,9 @@ face* is a techno and house artist based in Germany, with 60 gigs on soundcheck 
 - Südpol, Hamburg · Fri, 5 Jun 2026
 - Kulturhaus 73, Hamburg · Sat, 14 Feb 2026
 - Südpol, Hamburg · Fri, 13 Feb 2026
-- Südpol, Hamburg · Sat, 3 Jan 2026
 
 ## Shares bills with
 
 Antoine Baiser, Surreal (DE), Marco Baskind
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/face-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/face-de/)*

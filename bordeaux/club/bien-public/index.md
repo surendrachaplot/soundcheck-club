@@ -1,6 +1,6 @@
 # Bien Public
 
-Bien Public is a music venue in Bordeaux with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "¡Club Sauvage Part 3: Bien Public with Dave 'Love' Lee / Tonno Disko / Donna Gibson" on Sat, 28 Nov 2026.
+Bien Public is a music venue in Bordeaux with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "¡Club Sauvage Part 3: Bien Public with Dave 'Love' Lee / Tonno Disko / Donna Gibson" on Sat, 28 Nov 2026.
 
 Bien Public is a music venue in Bordeaux listed on soundcheck. 5 upcoming gigs, with line-ups including Bambi (FR), Beatrice M., Cinthie and Donna Gibson and 2 more. See dates, start times and who's playing. 68 quai Deschamps.
 
@@ -18,4 +18,4 @@ Bien Public is a music venue in Bordeaux listed on soundcheck. 5 upcoming gigs, 
 
 68 quai Deschamps, Bordeaux
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bordeaux/club/bien-public/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bordeaux/club/bien-public/)*

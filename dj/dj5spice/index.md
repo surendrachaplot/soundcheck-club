@@ -1,6 +1,6 @@
 # dj 5spice
 
-dj 5spice is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
+dj 5spice is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 dj 5spice is a club and footwork artist based in United States of America, with 21 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside DJ Fat Frog, satandoll and AG. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ dj 5spice is a club and footwork artist based in United States of America, with 
 
 DJ Fat Frog, satandoll, AG (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj5spice/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj5spice/)*

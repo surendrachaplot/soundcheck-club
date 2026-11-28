@@ -1,6 +1,6 @@
 # GRVYWRLD
 
-GRVYWRLD is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blindspot*, Bucharest on Sat, 19 Dec 2026.
+GRVYWRLD is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Blindspot*, Bucharest on Sat, 19 Dec 2026.
 
 GRVYWRLD is a techno and hardcore artist based in Romania, with 18 gigs on soundcheck across Bucharest, Lisbon, Malta and New York City and 1 more. Often billed alongside Philip Ackowsky, Clast and Sitra Akhra. Next up: Blindspot*, Bucharest on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ GRVYWRLD is a techno and hardcore artist based in Romania, with 18 gigs on sound
 
 Philip Ackowsky, Clast, Sitra Akhra
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grvywrld/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grvywrld/)*

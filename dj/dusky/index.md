@@ -1,14 +1,13 @@
 # Dusky
 
-Dusky is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at World Headquarters, Newcastle on Fri, 27 Nov 2026.
+Dusky is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Phonox, London on Sat, 28 Nov 2026.
 
-Dusky is a house and techno artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: World Headquarters, Newcastle on Fri 27 Nov.
+Dusky is a house and techno artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: Phonox, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | World Headquarters | Newcastle |
 | Sat, 28 Nov 2026 | Phonox | London |
 | Fri, 4 Dec 2026 | The Limelight | Belfast |
 | Sat, 12 Dec 2026 | TBA | Los Angeles |
@@ -20,9 +19,11 @@ Dusky is a house and techno artist based in United Kingdom, with 117 gigs on sou
 | Fri, 1 Jan 2027 | The Arts Factory Byron Bay | Byron Bay |
 | Sat, 2 Jan 2027 | ark (Melb) | Melbourne |
 | Sun, 3 Jan 2027 | The Court Hotel | Perth |
+| Sun, 3 Jan 2027 | The Court Hotel | Perth |
 
 ## Recently played
 
+- World Headquarters, Newcastle · Fri, 27 Nov 2026
 - Phonox, London · Sat, 21 Nov 2026
 - Phonox, London · Sat, 14 Nov 2026
 - Culture Box, Copenhagen · Fri, 13 Nov 2026
@@ -30,10 +31,9 @@ Dusky is a house and techno artist based in United Kingdom, with 117 gigs on sou
 - Phonox, London · Sat, 7 Nov 2026
 - Faith in Strangers, South-east · Sat, 7 Nov 2026
 - Sacré, Paris · Fri, 6 Nov 2026
-- Patterns, Brighton · Sat, 31 Oct 2026
 
 ## Shares bills with
 
 Dan Shake, Denham Audio, Ella Knight
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

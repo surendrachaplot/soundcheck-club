@@ -1,14 +1,13 @@
 # Harry Shotta
 
-Harry Shotta is a Drum & Bass and Jungle artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at FORGE, Sheffield on Fri, 27 Nov 2026.
+Harry Shotta is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
-Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside IC3, Logan D and Eksman. Next up: FORGE, Sheffield on Fri 27 Nov.
+Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside IC3, Logan D and Eksman. Next up: Lab11, Birmingham on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | FORGE | Sheffield |
 | Sat, 28 Nov 2026 | Lab11 | Birmingham |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | Electric Brixton | London |
@@ -23,6 +22,7 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67
 
 ## Recently played
 
+- FORGE, Sheffield · Fri, 27 Nov 2026
 - Warehouse Elementenstraat, Amsterdam · Sat, 21 Nov 2026
 - TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam · Fri, 20 Nov 2026
 - Albert Hall, Manchester · Sat, 14 Nov 2026
@@ -30,10 +30,9 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 67
 - Fire, London · Sat, 26 Sept 2026
 - Depot, Cardiff · Sat, 19 Sept 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
-- Eutopia Whs, London · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 IC3, Logan D, Eksman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*

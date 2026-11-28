@@ -1,6 +1,6 @@
 # mamba.exe
 
-mamba.exe is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 4 Dec 2026.
+mamba.exe is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 4 Dec 2026.
 
 mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 46 gigs on soundcheck across London, Manchester and Nottingham. Often billed alongside FOULMOUTH, Plan T and Korzi. Next up: Cupra City Garage Manchester, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 46 gi
 
 FOULMOUTH, Plan T, Korzi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamba.exe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamba.exe/)*

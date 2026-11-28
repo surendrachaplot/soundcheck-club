@@ -1,6 +1,6 @@
 # CLELIA
 
-CLELIA is a Minimal and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tunnel, Milan on Fri, 11 Dec 2026.
+CLELIA is a Minimal and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tunnel, Milan on Fri, 11 Dec 2026.
 
 CLELIA is a minimal and acid artist based in Italy, with 16 gigs on soundcheck across Brussels, Geneva, Milan and Sheffield. Often billed alongside Massi Rocket, ABYSS 369 and Alessandro Reale. Next up: Tunnel, Milan on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ CLELIA is a minimal and acid artist based in Italy, with 16 gigs on soundcheck a
 
 Massi Rocket, ABYSS 369, Alessandro Reale
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clelia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clelia/)*

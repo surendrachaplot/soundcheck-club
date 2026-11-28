@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Fax Party" on Sat, 28 Nov 2026.
+Spanners is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Fax Party" on Sat, 28 Nov 2026.
 
 Spanners is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Chris SSG, Joe Hart, Scott Fraser and Yewen Jin. See dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -17,4 +17,4 @@ Spanners is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

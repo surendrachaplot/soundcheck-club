@@ -1,6 +1,6 @@
 # Souleiman
 
-Souleiman is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Masada, Milan on Sat, 9 Jan 2027.
+Souleiman is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Masada, Milan on Sat, 9 Jan 2027.
 
 Souleiman is a techno artist based in Belgium, with 32 gigs on soundcheck across Antwerp, Brussels, Ghent and Milan. Often billed alongside Sonhan, Fais Le Beau and Marie-Julie. Next up: Masada, Milan on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Souleiman is a techno artist based in Belgium, with 32 gigs on soundcheck across
 
 Sonhan, Fais Le Beau, Marie-Julie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*

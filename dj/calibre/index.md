@@ -1,6 +1,6 @@
 # Calibre
 
-Calibre is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Open Ground, North-rhine-westphalia on Sat, 6 Feb 2027.
+Calibre is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Open Ground, North-rhine-westphalia on Sat, 6 Feb 2027.
 
 Calibre is a drum & bass and jungle artist based in Ireland, with 58 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Belfast and 18 more. Often billed alongside SP:MC, Break and Darwin. Next up: Open Ground, North Rhine Westphalia on Sat 6 Feb.
 
@@ -27,4 +27,4 @@ Calibre is a drum & bass and jungle artist based in Ireland, with 58 gigs on sou
 
 SP:MC, Break, Darwin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calibre/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calibre/)*

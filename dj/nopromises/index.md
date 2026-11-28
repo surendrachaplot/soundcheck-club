@@ -1,6 +1,6 @@
 # No Promises
 
-No Promises is a Ghetto Tech and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 26 Dec 2026.
+No Promises is a Ghetto Tech and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 26 Dec 2026.
 
 No Promises is a ghetto tech and club artist based in United States of America, with 21 gigs on soundcheck across New York City. Often billed alongside purp, Bodegaparty and Honey Bun. Next up: Bossa Nova Civic Club, New York City on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ No Promises is a ghetto tech and club artist based in United States of America, 
 
 purp, Bodegaparty, Honey Bun
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nopromises/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nopromises/)*

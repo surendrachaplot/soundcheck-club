@@ -1,6 +1,6 @@
 # Unison
 
-Unison is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Funke, Ghent on Thu, 3 Dec 2026.
+Unison is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Funke, Ghent on Thu, 3 Dec 2026.
 
 Unison is a house and disco artist based in Spain, with 16 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Timmerman, gguusstt and AliA. Next up: Funke, Ghent on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Unison is a house and disco artist based in Spain, with 16 gigs on soundcheck ac
 
 Timmerman, gguusstt, AliA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unison/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unison/)*

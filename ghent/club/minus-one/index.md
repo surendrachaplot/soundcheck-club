@@ -1,6 +1,6 @@
 # Minus One
 
-Minus One is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Reggae Ram Dance #5" on Fri, 4 Dec 2026.
+Minus One is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Reggae Ram Dance #5" on Fri, 4 Dec 2026.
 
 Minus One is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including LEGNA and TEKKO. See dates, start times and who's playing. Opgeëistenlaan 455; Gent 9000; Belgium.
 
@@ -17,4 +17,4 @@ Minus One is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with 
 
 Opgeëistenlaan 455; Gent 9000; Belgium, Ghent
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/minus-one/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/minus-one/)*

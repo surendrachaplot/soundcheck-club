@@ -1,6 +1,6 @@
 # TOT (BR)
 
-TOT (BR) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 11 Dec 2026.
+TOT (BR) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 11 Dec 2026.
 
 TOT (BR) is a house and minimal artist based in Brazil, with 11 gigs on soundcheck across Barcelona, Berlin, London and Marseille and 1 more. Often billed alongside Gartzzea, Silat Beksi and 100hz. Next up: Starlane Pizza Bar, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ TOT (BR) is a house and minimal artist based in Brazil, with 11 gigs on soundche
 
 Gartzzea, Silat Beksi, 100hz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*

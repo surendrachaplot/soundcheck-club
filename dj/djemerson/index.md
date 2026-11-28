@@ -1,6 +1,6 @@
 # DJ Emerson
 
-DJ Emerson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Wed, 30 Dec 2026.
+DJ Emerson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at KitKatClub, Berlin on Wed, 30 Dec 2026.
 
 DJ Emerson is a techno and house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 1 more. Often billed alongside DJ Jordan, Grace Thompson and Millie Forsberg. Next up: KitKatClub, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ DJ Emerson is a techno and house artist based in Germany, with 22 gigs on soundc
 
 DJ Jordan, Grace Thompson, Millie Forsberg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djemerson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djemerson/)*

@@ -1,6 +1,6 @@
 # Lemarie
 
-Lemarie is a Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Berlin on Sat, 12 Dec 2026.
+Lemarie is a Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Berlin on Sat, 12 Dec 2026.
 
 Lemarie is a techno artist based in Spain, with 17 gigs on soundcheck across Barcelona, Berlin, Milan and Valencia. Often billed alongside Red Rooms, Justine Perry and Paula Koski. Next up: TBA, Berlin on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Lemarie is a techno artist based in Spain, with 17 gigs on soundcheck across Bar
 
 Red Rooms, Justine Perry, Paula Koski
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemarie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemarie/)*

@@ -1,14 +1,13 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Amp, Münster on Fri, 27 Nov 2026.
+Trancemaster Krause is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 47 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Amp, Münster on Fri 27 Nov.
+Trancemaster Krause is a techno and trance artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 47 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Amp | Münster |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Fri, 4 Dec 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
@@ -20,6 +19,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 246 gig
 
 ## Recently played
 
+- Amp, Münster · Fri, 27 Nov 2026
 - Lokschuppen Berlin, Berlin · Wed, 18 Nov 2026
 - Hans Bunte Areal, Freiburg · Sat, 14 Nov 2026
 - Kassablanca, Jena · Fri, 13 Nov 2026
@@ -27,10 +27,9 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 246 gig
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Thuishaven, Amsterdam · Sun, 25 Oct 2026
 - The Bulldog Palace, Amsterdam · Sat, 24 Oct 2026
-- Oosterbar, Amsterdam · Wed, 21 Oct 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

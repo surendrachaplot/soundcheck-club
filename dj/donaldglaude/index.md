@@ -1,6 +1,6 @@
 # Donald Glaude
 
-Donald Glaude is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Buzzworks, San Francisco/Oakland on Fri, 1 Jan 2027.
+Donald Glaude is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Buzzworks, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Donald Glaude is a house and tech house artist based in United States of America, with 30 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Miami and 8 more. Often billed alongside DJ Garth, Megalina and Terry Jasinto. Next up: Buzzworks, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Donald Glaude is a house and tech house artist based in United States of America
 
 DJ Garth, Megalina, Terry Jasinto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*

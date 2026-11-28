@@ -1,6 +1,6 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 4 Dec 2026.
+Anil Aras is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 4 Dec 2026.
 
 Anil Aras is a house and tech house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 16 more. Often billed alongside M-High, Dennis Quin and Prunk. Next up: Bajes Amsterdam, Amsterdam on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Anil Aras is a house and tech house artist based in Netherlands, with 88 gigs on
 
 M-High, Dennis Quin, Prunk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*

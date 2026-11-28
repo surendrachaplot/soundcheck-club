@@ -1,6 +1,6 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
+DJ AYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Dec 2026.
 
 DJ AYA is a techno and house artist based in Switzerland, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DJ Fuckoff, DJ Gigola and Aaron Blau. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ DJ AYA is a techno and house artist based in Switzerland, with 200 gigs on sound
 
 DJ Fuckoff, DJ Gigola, Aaron Blau
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*

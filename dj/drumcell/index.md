@@ -1,6 +1,6 @@
 # Drumcell
 
-Drumcell is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Vibehaus ATX, Austin on Sat, 5 Dec 2026.
+Drumcell is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Vibehaus ATX, Austin on Sat, 5 Dec 2026.
 
 Drumcell is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Austin, Bali and Basel and 18 more. Often billed alongside Truncate, Max Gardner and Speedy J. Next up: Vibehaus ATX, Austin on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Drumcell is a techno and house artist based in United States of America, with 67
 
 Truncate, Max Gardner, Speedy J
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcell/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcell/)*

@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+D.Dan is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-D.Dan is a techno and house artist based in United States of America, with 240 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+D.Dan is a techno and house artist based in United States of America, with 240 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Descent | Boston |
@@ -23,6 +22,7 @@ D.Dan is a techno and house artist based in United States of America, with 240 g
 
 ## Recently played
 
+- Ace*Mission, Los Angeles · Fri, 27 Nov 2026
 - Bassiani, Tbilisi · Fri, 20 Nov 2026
 - FOLD, London · Sat, 14 Nov 2026
 - Turbina, Budapest · Fri, 13 Nov 2026
@@ -30,10 +30,9 @@ D.Dan is a techno and house artist based in United States of America, with 240 g
 - ELYSIUM SEVILLA, South · Fri, 6 Nov 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
-- VENT, Tokyo · Sun, 11 Oct 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

@@ -1,6 +1,6 @@
 # GAKUTO(TOKYO)
 
-GAKUTO(TOKYO) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shibuya Oiran, Tokyo on Sun, 27 Dec 2026.
+GAKUTO(TOKYO) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Shibuya Oiran, Tokyo on Sun, 27 Dec 2026.
 
 GAKUTO(TOKYO) is a techno and house artist based in Japan, with 20 gigs on soundcheck across Chongqing, Kyoto, Osaka and Tokyo. Often billed alongside Tui, ceza and AKIRA  FLAMMA. Next up: Shibuya Oiran, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ GAKUTO(TOKYO) is a techno and house artist based in Japan, with 20 gigs on sound
 
 Tui (1), ceza, AKIRA  FLAMMA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gakutotokyo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gakutotokyo/)*

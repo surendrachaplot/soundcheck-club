@@ -1,6 +1,6 @@
 # ECHO DAFT
 
-ECHO DAFT is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Secret Jungle - Hirikatiya, Sri-lanka on Sat, 28 Nov 2026.
+ECHO DAFT is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Secret Jungle - Hirikatiya, Sri-lanka on Sat, 28 Nov 2026.
 
 ECHO DAFT is a techno and progressive house artist based in Sri Lanka, with 4 gigs on soundcheck across Melbourne and Sri Lanka. Often billed alongside KRYPTONE, Kasper Koman and Patrice Bäumel. Next up: Secret Jungle - Hirikatiya, Sri Lanka on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ ECHO DAFT is a techno and progressive house artist based in Sri Lanka, with 4 gi
 
 KRYPTONE, Kasper Koman, Patrice Bäumel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echodaft/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echodaft/)*

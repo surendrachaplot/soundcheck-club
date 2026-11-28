@@ -1,6 +1,6 @@
 # DJ Nervoso
 
-DJ Nervoso is a Kuduro and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 5 Dec 2026.
+DJ Nervoso is a Kuduro and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 5 Dec 2026.
 
 DJ Nervoso is a kuduro and experimental artist based in Portugal, with 11 gigs on soundcheck across Brussels, Lisbon and Porto. Often billed alongside Dj Danifox, DJ Maboku and DJ Marfox. Next up: Lux Fragil, Lisbon on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Nervoso is a kuduro and experimental artist based in Portugal, with 11 gigs o
 
 Dj Danifox, DJ Maboku, DJ Marfox
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnervoso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnervoso/)*

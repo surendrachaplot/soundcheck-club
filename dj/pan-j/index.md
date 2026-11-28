@@ -1,6 +1,6 @@
 # Pan-J
 
-Pan-J is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
+Pan-J is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
 
 Pan-J is a house and minimal techno artist based in Tunisia, with 11 gigs on soundcheck across Barcelona, Berlin, Lisbon and Marseille and 3 more. Often billed alongside HearThug, DJ Senc and Emine. Next up: TBA, Tunisia on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Pan-J is a house and minimal techno artist based in Tunisia, with 11 gigs on sou
 
 ## Recently played
 
+- TBA, Tunisia · Fri, 27 Nov 2026
 - One Resort, Tunisia · Thu, 5 Nov 2026
 - Crack Bellmer, Berlin · Sat, 23 May 2026
 - arkaoda Berlin, Berlin · Fri, 22 May 2026
@@ -19,10 +20,9 @@ Pan-J is a house and minimal techno artist based in Tunisia, with 11 gigs on sou
 - TBA - Paris, Paris · Sat, 13 Dec 2025
 - Secret Location Vienna, Vienna · Fri, 16 May 2025
 - TBA - 138 Av. Pierre Mendès France, 13008 Marseille., Marseille · Sun, 20 Apr 2025
-- Praia Irmão, Lisbon · Fri, 5 Jul 2024
 
 ## Shares bills with
 
 HearThug, DJ Senc, Emine (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-j/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-j/)*

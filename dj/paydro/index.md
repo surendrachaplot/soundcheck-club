@@ -1,6 +1,6 @@
 # Paydro
 
-Paydro is a House and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Jago, London on Fri, 18 Dec 2026.
+Paydro is a House and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Jago, London on Fri, 18 Dec 2026.
 
 Paydro is a house and uk funky artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Sonny Lee, KAZIA and chrs apula. Next up: The Jago, London on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Paydro is a house and uk funky artist based in United Kingdom, with 12 gigs on s
 
 Sonny Lee, KAZIA, chrs apula
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paydro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paydro/)*

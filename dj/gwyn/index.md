@@ -1,6 +1,6 @@
 # Gwyn
 
-Gwyn is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
+Gwyn is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
 
 Gwyn is a techno and psytrance artist based in Australia, with 17 gigs on soundcheck across Auckland, Melbourne and Sydney. Often billed alongside Sian Ramirez, Shepz and VORPAL. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Gwyn is a techno and psytrance artist based in Australia, with 17 gigs on soundc
 
 Sian Ramirez, Shepz, VORPAL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwyn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwyn/)*

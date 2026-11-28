@@ -1,14 +1,15 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Prysm Nightclub, Chicago on Thu, 31 Dec 2026.
+Marco Strous is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Prysm Nightclub, Chicago on Thu, 31 Dec 2026.
 
-Marco Strous is a tech house and house artist based in Portugal, with 45 gigs on soundcheck across Austin, Boston, Chicago and Dallas/Fort Worth and 15 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Prysm Nightclub, Chicago on Thu 31 Dec.
+Marco Strous is a tech house and house artist based in Portugal, with 46 gigs on soundcheck across Austin, Boston, Chicago and Dallas/Fort Worth and 15 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Prysm Nightclub, Chicago on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Prysm Nightclub | Chicago |
+| Sat, 2 Jan 2027 | Audio SF | San Francisco/Oakland |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
@@ -27,4 +28,4 @@ Marco Strous is a tech house and house artist based in Portugal, with 45 gigs on
 
 Chris Lake, MPH (1), Jackie Hollander
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

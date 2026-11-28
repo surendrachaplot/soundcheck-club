@@ -1,6 +1,6 @@
 # The Bird
 
-The Bird is a music venue in Perth with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NEST FM POST PRIDE RECOVERY PARTY" on Sun, 29 Nov 2026.
+The Bird is a music venue in Perth with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "NEST FM POST PRIDE RECOVERY PARTY" on Sun, 29 Nov 2026.
 
 The Bird is a music venue in Perth listed on soundcheck. 5 upcoming gigs, with line-ups including Burna, EPHACY, Hally and Livvy Ratbag and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ The Bird is a music venue in Perth listed on soundcheck. 5 upcoming gigs, with l
 | Sat, 26 Dec 2026 | Pleasure Principle x zipless Boxing Day |  |
 | Mon, 28 Dec 2026 | HYDE PARK HIFI x FORGE x PRIMAL RHYTHM @THE BIRD COURTYARD | Burna, Hally, Nathaara, YESNA |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-bird/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-bird/)*

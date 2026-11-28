@@ -1,6 +1,6 @@
 # Vicky.P
 
-Vicky.P is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Carmo Rooftop, Lisbon on Sat, 28 Nov 2026.
+Vicky.P is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Carmo Rooftop, Lisbon on Sat, 28 Nov 2026.
 
 Vicky.P is a house and deep house artist, with 29 gigs on soundcheck across Lisbon, Porto and Rio de Janeiro. Often billed alongside Sheri Vari, Godi Osegueda and Inês Duarte. Next up: Carmo Rooftop, Lisbon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vicky.P is a house and deep house artist, with 29 gigs on soundcheck across Lisb
 
 Sheri Vari, Godi Osegueda, Inês Duarte
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicky.p/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicky.p/)*

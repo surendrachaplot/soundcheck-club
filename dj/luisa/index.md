@@ -1,8 +1,8 @@
 # Luisa
 
-Luisa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 4 Dec 2026.
+Luisa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 4 Dec 2026.
 
-Luisa is a techno and house artist based in Portugal, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: 宀 Club, Hong Kong on Fri 4 Dec.
+Luisa is a techno and house artist based in Portugal, with 113 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: 宀 Club, Hong Kong on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luisa is a techno and house artist based in Portugal, with 112 gigs on soundchec
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | 宀 Club | Hong Kong |
 | Sun, 13 Dec 2026 | Mitsuki | Tokyo |
+| Sat, 19 Dec 2026 | teller | Seoul |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -27,4 +28,4 @@ Luisa is a techno and house artist based in Portugal, with 112 gigs on soundchec
 
 Solid-Funk, Worm Class, Cruz (PT)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*

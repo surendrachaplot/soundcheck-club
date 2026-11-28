@@ -1,6 +1,6 @@
 # Elliott Leeson
 
-Elliott Leeson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at M.O.T, London on Sat, 13 Feb 2027.
+Elliott Leeson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M.O.T, London on Sat, 13 Feb 2027.
 
 Elliott Leeson is a house and disco artist based in United Kingdom, with 4 gigs on soundcheck across London and Newcastle. Often billed alongside Hotline Howard, Bill Brewster and Frank Broughton. Next up: M.O.T, London on Sat 13 Feb.
 
@@ -20,4 +20,4 @@ Elliott Leeson is a house and disco artist based in United Kingdom, with 4 gigs 
 
 Hotline Howard, Bill Brewster, Frank Broughton
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottleeson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottleeson/)*

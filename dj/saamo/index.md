@@ -1,6 +1,6 @@
 # SAAMO
 
-SAAMO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
+SAAMO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rollberg26, Berlin on Fri, 11 Dec 2026.
 
 SAAMO is a techno and tech house artist based in Germany, with 6 gigs on soundcheck across Berlin and Newcastle. Often billed alongside NYCTO, ESSMEE and FACONTI. Next up: Rollberg26, Berlin on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ SAAMO is a techno and tech house artist based in Germany, with 6 gigs on soundch
 
 NYCTO, ESSMEE, FACONTI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saamo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saamo/)*

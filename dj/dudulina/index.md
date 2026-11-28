@@ -1,6 +1,6 @@
 # Dudulina
 
-Dudulina is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
+Dudulina is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
 
 Dudulina is a techno and tech house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Julka, KIVII and ChéRebel. Next up: Sensorium, Berlin on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Dudulina is a techno and tech house artist based in Germany, with 4 gigs on soun
 
 Julka (2), KIVII, ChéRebel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudulina/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudulina/)*

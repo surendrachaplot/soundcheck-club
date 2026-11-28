@@ -1,6 +1,6 @@
 # Separat
 
-Separat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at JAKI, Cologne on Fri, 18 Dec 2026.
+Separat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at JAKI, Cologne on Fri, 18 Dec 2026.
 
 Separat is a house and techno artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 3 more. Often billed alongside skyra, Mariami and AMSL. Next up: JAKI, Cologne on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Separat is a house and techno artist based in Germany, with 25 gigs on soundchec
 
 skyra, Mariami, AMSL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*

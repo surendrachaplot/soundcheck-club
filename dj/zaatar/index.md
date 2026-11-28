@@ -1,6 +1,6 @@
 # Zaatar
 
-Zaatar is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hippodrome Parilly, Lyon on Thu, 31 Dec 2026.
+Zaatar is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hippodrome Parilly, Lyon on Thu, 31 Dec 2026.
 
 Zaatar is an ebm and techno artist based in Morocco, with 76 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Jen Cardini, Arabian Panther and Pablo Bozzi. Next up: Hippodrome Parilly, Lyon on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Zaatar is an ebm and techno artist based in Morocco, with 76 gigs on soundcheck 
 
 Jen Cardini, Arabian Panther, Pablo Bozzi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*

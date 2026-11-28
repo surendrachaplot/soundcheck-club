@@ -1,6 +1,6 @@
 # eves120
 
-eves120 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
+eves120 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
 
 eves120 is a house and techno artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 3 more. Often billed alongside Sarah Mezentseva, hardi and Silberhauch. Next up: objekt klein a, Dresden on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ eves120 is a house and techno artist based in Germany, with 33 gigs on soundchec
 
 Sarah Mezentseva, hardi, Silberhauch
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*

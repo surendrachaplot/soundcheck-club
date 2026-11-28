@@ -1,6 +1,6 @@
 # MVGRI
 
-MVGRI is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 4 Dec 2026.
+MVGRI is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 4 Dec 2026.
 
 MVGRI is a techno and industrial artist based in Spain, with 25 gigs on soundcheck across Athens, Barcelona, Berlin and East and 3 more. Often billed alongside ERØXX, Anna Jevills and Jan Krøw. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ MVGRI is a techno and industrial artist based in Spain, with 25 gigs on soundche
 
 ERØXX, Anna Jevills, Jan Krøw
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvgri/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvgri/)*

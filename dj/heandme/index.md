@@ -1,13 +1,14 @@
 # HeAndMe
 
-HeAndMe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 11 Dec 2026.
+HeAndMe is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Sanctuary, Milan on Fri, 4 Dec 2026.
 
-HeAndMe is a house and deep house artist based in Spain, with 21 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ivan Pugliares, Samm (BE) and Pole Position. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 11 Dec.
+HeAndMe is a house and deep house artist based in Spain, with 22 gigs on soundcheck across Barcelona, Madrid and Milan. Often billed alongside Ivan Pugliares, Samm (BE) and Pole Position. Next up: The Sanctuary, Milan on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | The Sanctuary | Milan |
 | Fri, 11 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ HeAndMe is a house and deep house artist based in Spain, with 21 gigs on soundch
 
 Ivan Pugliares, Samm (BE), Pole Position
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*

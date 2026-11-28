@@ -1,6 +1,6 @@
 # Ylia
 
-Ylia is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doggy Klœb, Malaga on Thu, 31 Dec 2026.
+Ylia is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Doggy Klœb, Malaga on Thu, 31 Dec 2026.
 
 Ylia is a house and electronica artist based in Spain, with 29 gigs on soundcheck across Barcelona, Madrid, Malaga and Rome and 3 more. Often billed alongside Lucient, Phran and Jeff Mills. Next up: Doggy Klœb, Malaga on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ylia is a house and electronica artist based in Spain, with 29 gigs on soundchec
 
 Lucient, Phran, Jeff Mills
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ylia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ylia/)*

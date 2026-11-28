@@ -1,6 +1,6 @@
 # Seven sins
 
-Seven sins is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Thu, 17 Dec 2026.
+Seven sins is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at KitKatClub, Berlin on Thu, 17 Dec 2026.
 
 Seven sins is a techno and electro artist based in Italy, with 23 gigs on soundcheck across Berlin, Milan and Turin. Often billed alongside Emiliano Comollo, Luce Clandestina and Ben-Ur. Next up: KitKatClub, Berlin on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Seven sins is a techno and electro artist based in Italy, with 23 gigs on soundc
 
 Emiliano Comollo, Luce Clandestina, Ben-Ur
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevensins/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevensins/)*

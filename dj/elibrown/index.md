@@ -1,6 +1,6 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Eli Brown is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 Eli Brown is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Atlanta and 56 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -28,4 +28,4 @@ Eli Brown is a techno and house artist based in United Kingdom, with 172 gigs on
 
 Adam Beyer, John Summit, Anfisa Letyago
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*

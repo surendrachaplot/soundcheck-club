@@ -1,6 +1,6 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at LA Frecuencia Violeta, Cali on Fri, 11 Dec 2026.
+Sam Paganini is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at LA Frecuencia Violeta, Cali on Fri, 11 Dec 2026.
 
 Sam Paganini is a techno and house artist based in Italy, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Len Faki, Adiel and Indira Paganotto. Next up: LA Frecuencia Violeta, Cali on Fri 11 Dec.
 
@@ -30,4 +30,4 @@ Sam Paganini is a techno and house artist based in Italy, with 131 gigs on sound
 
 Len Faki, Adiel, Indira Paganotto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

@@ -1,6 +1,6 @@
 # Foro Costanera Norte (FCN)
 
-Foro Costanera Norte (FCN) is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Korolova pres. Captive Soul at FCN by Hïst Entertainment" on Sun, 6 Dec 2026.
+Foro Costanera Norte (FCN) is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "CANCELLED - Korolova pres. Captive Soul at FCN by Hïst Entertainment" on Sun, 6 Dec 2026.
 
 Foro Costanera Norte (FCN) is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Korolova. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Foro Costanera Norte (FCN) is a music venue in Buenos Aires listed on soundcheck
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 6 Dec 2026 | Korolova pres. Captive Soul at FCN by Hïst Entertainment | Korolova |
+| Sun, 6 Dec 2026 | CANCELLED - Korolova pres. Captive Soul at FCN by Hïst Entertainment | Korolova |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/foro-costanera-norte-fcn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/foro-costanera-norte-fcn/)*

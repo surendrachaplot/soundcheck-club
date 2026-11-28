@@ -1,6 +1,6 @@
 # Raymond V
 
-Raymond V is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
+Raymond V is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Renate, Berlin on Sat, 12 Dec 2026.
 
 Raymond V is a techno and house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 1 more. Often billed alongside Slumber, Alba Heidari and Freddy K. Next up: Renate, Berlin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Raymond V is a techno and house artist based in Italy, with 28 gigs on soundchec
 
 Slumber, Alba Heidari, Freddy K
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raymondv/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raymondv/)*

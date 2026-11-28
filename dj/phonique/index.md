@@ -1,6 +1,6 @@
 # Phonique
 
-Phonique is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Thu, 24 Dec 2026.
+Phonique is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Thu, 24 Dec 2026.
 
 Phonique is a house and techno artist based in Germany, with 74 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Dresden and 9 more. Often billed alongside Diogo Accioly, Misha Svirid and Fairplay. Next up: Hoppetosse, Berlin on Thu 24 Dec.
 
@@ -26,4 +26,4 @@ Phonique is a house and techno artist based in Germany, with 74 gigs on soundche
 
 Diogo Accioly, Misha Svirid, Fairplay
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phonique/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phonique/)*

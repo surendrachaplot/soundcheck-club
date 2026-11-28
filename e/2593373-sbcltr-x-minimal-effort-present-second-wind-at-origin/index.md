@@ -1,6 +1,6 @@
 # SBCLTR x MINIMAL EFFORT present Second Wind at ORIGIN
 
-SBCLTR x MINIMAL EFFORT present Second Wind at ORIGIN on Sat 2 Jan, Los Angeles. 3 artists: JAMIIE, Lee Burridge and RY X. See the line-up on soundcheck.
+SBCLTR x MINIMAL EFFORT present Second Wind at ORIGIN on Sat 2 Jan, Los Angeles. 4 artists: JAMIIE, Lauren Nikohl, Lee Burridge and RY X. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SBCLTR x MINIMAL EFFORT present Second Wind at ORIGIN on Sat 2 Jan, Los Angeles.
 ## Line-up
 
 - JAMIIE
+- Lauren Nikohl
 - Lee Burridge
 - RY X
 

@@ -1,6 +1,6 @@
 # Eline (BE)
 
-Eline (BE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
+Eline (BE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
 
 Eline (BE) is a house and techno artist based in Belgium, with 33 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 3 more. Often billed alongside Courtesy, Lola Haro and r.omy. Next up: Fitzroy, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Eline (BE) is a house and techno artist based in Belgium, with 33 gigs on soundc
 
 Courtesy, Lola Haro, r.omy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*

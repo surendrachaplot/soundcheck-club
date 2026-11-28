@@ -1,14 +1,13 @@
 # HAAi
 
-HAAi is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+HAAi is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-HAAi is a house and techno artist based in Australia, with 242 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 72 more. Often billed alongside salute, Chloé Caillet and DJ BORING. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+HAAi is a house and techno artist based in Australia, with 243 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 72 more. Often billed alongside salute, Chloé Caillet and DJ BORING. Next up: The Great Northern, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 28 Nov 2026 | The Great Northern | San Francisco/Oakland |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
@@ -20,9 +19,11 @@ HAAi is a house and techno artist based in Australia, with 242 gigs on soundchec
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
 | Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
 | Sat, 30 Jan 2027 | Q35 WAREHOUSE | Turin |
+| Sat, 6 Feb 2027 | Hidden | Manchester |
 
 ## Recently played
 
+- Ace*Mission, Los Angeles · Fri, 27 Nov 2026
 - Depot Mayfield, Manchester · Sat, 21 Nov 2026
 - Concorde 2, Brighton · Fri, 20 Nov 2026
 - EartH, London · Sat, 31 Oct 2026
@@ -30,10 +31,9 @@ HAAi is a house and techno artist based in Australia, with 242 gigs on soundchec
 - Athens Conservatoire - Ωδείον Αθηνών, Athens · Sun, 25 Oct 2026
 - RAWFACTORY, Amsterdam · Fri, 23 Oct 2026
 - The Loft Amsterdam, Amsterdam · Thu, 22 Oct 2026
-- Refuge, New York City · Sun, 18 Oct 2026
 
 ## Shares bills with
 
 salute, Chloé Caillet, DJ BORING
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

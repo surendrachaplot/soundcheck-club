@@ -1,6 +1,6 @@
 # Matt Rudnicki
 
-Matt Rudnicki is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Piękny Pies, Krakow on Fri, 4 Dec 2026.
+Matt Rudnicki is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Piękny Pies, Krakow on Fri, 4 Dec 2026.
 
 Matt Rudnicki is a house and deep house artist based in Poland, with 32 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Djaa (PL), MATVOICE and Robek. Next up: Piękny Pies, Krakow on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Matt Rudnicki is a house and deep house artist based in Poland, with 32 gigs on 
 
 Djaa (PL), MATVOICE, Robek
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattrudnicki/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattrudnicki/)*

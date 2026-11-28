@@ -1,6 +1,6 @@
 # zacattacq
 
-zacattacq is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+zacattacq is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 zacattacq is a garage and house artist based in Australia, with 18 gigs on soundcheck across Adelaide, Australian Capital Territory, Brisbane and Canberra and 5 more. Often billed alongside Ned Bennett, William Kiss and Baron Von Trax. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -10,8 +10,8 @@ zacattacq is a garage and house artist based in Australia, with 18 gigs on sound
 | --- | --- | --- |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Sat, 27 Feb 2027 | Thoroughbred Park | Australian-capital-territory |
+| Sat, 27 Feb 2027 | Mudgeeraba Showground | Gold-coast |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
-| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ zacattacq is a garage and house artist based in Australia, with 18 gigs on sound
 
 Ned Bennett, William Kiss, Baron Von Trax
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zacattacq/)*

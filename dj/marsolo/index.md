@@ -1,14 +1,13 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Marsolo is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DRUMSHEDS, London on Sat, 28 Nov 2026.
 
-Marsolo is a house and tech house artist based in Netherlands, with 173 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
+Marsolo is a house and tech house artist based in Netherlands, with 173 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: DRUMSHEDS, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Concorde 2 | Brighton |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
@@ -20,9 +19,11 @@ Marsolo is a house and tech house artist based in Netherlands, with 173 gigs on 
 | Fri, 15 Jan 2027 | Les Enfants Brillants | Barcelona |
 | Fri, 29 Jan 2027 | Prysm Nightclub | Chicago |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
+| Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 27 Nov 2026
 - Monarch, San Francisco/Oakland · Fri, 20 Nov 2026
 - Antwerp Expo, Antwerp · Fri, 13 Nov 2026
 - GASHOUDER, Amsterdam · Sun, 25 Oct 2026
@@ -30,10 +31,9 @@ Marsolo is a house and tech house artist based in Netherlands, with 173 gigs on 
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Shelter Amsterdam, Amsterdam · Wed, 21 Oct 2026
 - Floyd, Miami · Sat, 17 Oct 2026
-- Mana Wynwood, Miami · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Jamback, Josh Baker, L.P. Rhythm
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

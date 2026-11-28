@@ -1,6 +1,6 @@
 # Sabrina Hawk
 
-Sabrina Hawk is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Legal, Munich on Sat, 5 Dec 2026.
+Sabrina Hawk is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Legal, Munich on Sat, 5 Dec 2026.
 
 Sabrina Hawk is a tech house and minimal artist based in Germany, with 45 gigs on soundcheck across Berlin, Hamburg, Munich and Stuttgart. Often billed alongside Louisianaha, Jojo Vice and Kongusto. Next up: Legal, Munich on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sabrina Hawk is a tech house and minimal artist based in Germany, with 45 gigs o
 
 Louisianaha, Jojo Vice, Kongusto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*

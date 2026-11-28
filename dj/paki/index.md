@@ -1,6 +1,6 @@
 # Paki
 
-Paki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Flat HiFi Bar, Madrid on Fri, 18 Dec 2026.
+Paki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Flat HiFi Bar, Madrid on Fri, 18 Dec 2026.
 
 Paki is a house and techno artist based in Italy, with 16 gigs on soundcheck across Hong Kong, Madrid, Osaka and Turin. Often billed alongside Saint Bernard, Palimpseste and DJ Anthony2. Next up: Flat HiFi Bar, Madrid on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Paki is a house and techno artist based in Italy, with 16 gigs on soundcheck acr
 
 Saint Bernard, Palimpseste, DJ Anthony2
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paki/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paki/)*

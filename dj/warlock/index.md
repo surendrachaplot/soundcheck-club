@@ -1,6 +1,6 @@
 # Warlock
 
-Warlock is a Jungle and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at SET Social, London on Sat, 28 Nov 2026.
+Warlock is a Jungle and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at SET Social, London on Sat, 28 Nov 2026.
 
 Warlock is a jungle and breakbeat artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: SET Social, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Warlock is a jungle and breakbeat artist based in United Kingdom, with 54 gigs o
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warlock/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/warlock/)*

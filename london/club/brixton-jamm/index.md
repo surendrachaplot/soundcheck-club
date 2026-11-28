@@ -1,14 +1,13 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Bad Habits: DJs play Harry Styles, Olivia Rodrigo, & more" on Fri, 27 Nov 2026.
+Brixton Jamm is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Deck-Cember Jamm" on Thu, 3 Dec 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Aries, Beezo, Benny Page and Bladerunner and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Aries, Beezo, Benny Page and Bladerunner and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Bad Habits: DJs play Harry Styles, Olivia Rodrigo, & more |  |
 | Thu, 3 Dec 2026 | Deck-Cember Jamm | BrassTooth, MC Kie |
 | Fri, 4 Dec 2026 | LAJU - Juls & Larizzle XMAS Special | Juls, Larizzle |
 | Sat, 5 Dec 2026 | Jungle Cakes: Christmas Dubplate Special | Aries, Benny Page, Bladerunner, Deekline, G-Class, Kelvin 373, Killa P, Millz, Navigator |
@@ -18,9 +17,10 @@ Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, 
 | Sat, 12 Dec 2026 | UCOJ: Secret Santa part II | DJ Brockie, Funsta, Harry Shotta, Nicky Blackmarket, Remarc, The Ragga Twins, Uncle Dugs |
 | Sat, 12 Dec 2026 | Slow Jamm: Friendsmas Special |  |
 | Thu, 17 Dec 2026 | Moshi Rave - The Nightmare Before Christmas | dreamloader |
+| Sat, 19 Dec 2026 | Jungle Splash | DJ SS, Potential Badboy, Randoma, Scuffed, The Ragga Twins, Tianna Franxx |
 
 ## Address
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

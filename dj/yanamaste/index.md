@@ -1,8 +1,8 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Yanamaste is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Yanamaste is a techno and house artist based in Georgia, with 279 gigs on soundcheck across Alicante, Amsterdam, Athens and Atlanta and 81 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
+Yanamaste is a techno and house artist based in Georgia, with 280 gigs on soundcheck across Alicante, Amsterdam, Athens and Atlanta and 81 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Yanamaste is a techno and house artist based in Georgia, with 279 gigs on soundc
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

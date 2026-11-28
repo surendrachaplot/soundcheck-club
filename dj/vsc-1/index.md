@@ -1,6 +1,6 @@
 # VSC (1)
 
-VSC (1) is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+VSC (1) is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 VSC is a bass and dub artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Berlin and Rome. Often billed alongside Mantis (IT), Her Nice Too and Prest. Next up: TBA, Rome on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ VSC is a bass and dub artist based in Italy, with 19 gigs on soundcheck across A
 
 Mantis (IT), Her Nice Too, Prest
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vsc-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vsc-1/)*

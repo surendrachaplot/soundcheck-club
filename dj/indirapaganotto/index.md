@@ -1,14 +1,13 @@
 # Indira Paganotto
 
-Indira Paganotto is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Indira Paganotto is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
-Indira Paganotto is a techno and house artist based in Spain, with 233 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 68 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: TBA, Buenos Aires on Fri 20 Nov.
+Indira Paganotto is a techno and house artist based in Spain, with 233 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 68 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 | Thu, 31 Dec 2026 | D-EDGE | Sao Paulo |
@@ -30,4 +29,4 @@ Indira Paganotto is a techno and house artist based in Spain, with 233 gigs on s
 
 Joseph Capriati, Patrick Mason, Nico Moreno
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*

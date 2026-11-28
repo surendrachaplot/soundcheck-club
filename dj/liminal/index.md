@@ -1,6 +1,6 @@
 # Liminal
 
-Liminal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 12 Dec 2026.
+Liminal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 12 Dec 2026.
 
 Liminal is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Berlin, Detroit, Guadalajara and Malaga. Often billed alongside .hisham, Tylr and hypemelo. Next up: Studio Club Malaga, Malaga on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Liminal is a techno and house artist based in United States of America, with 11 
 
 .hisham, Tylr, hypemelo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liminal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liminal/)*

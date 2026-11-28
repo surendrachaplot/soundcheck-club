@@ -1,6 +1,6 @@
 # GIRLS ON DECKS
 
-GIRLS ON DECKS is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at M7 Club, Barcelona on Sat, 28 Nov 2026.
+GIRLS ON DECKS is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M7 Club, Barcelona on Sat, 28 Nov 2026.
 
 GIRLS ON DECKS is an electronica and techno artist based in Spain, with 4 gigs on soundcheck across Barcelona. Often billed alongside KX CHR, SuttleK and Adviro. Next up: M7 Club, Barcelona on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ GIRLS ON DECKS is an electronica and techno artist based in Spain, with 4 gigs o
 
 KX CHR, SuttleK, Adviro
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsondecks/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsondecks/)*

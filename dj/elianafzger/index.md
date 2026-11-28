@@ -1,6 +1,6 @@
 # Elia Nafzger
 
-Elia Nafzger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Doka, Amsterdam on Fri, 4 Dec 2026.
+Elia Nafzger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Doka, Amsterdam on Fri, 4 Dec 2026.
 
 Elia Nafzger is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 10 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Doka, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Elia Nafzger is a house and techno artist based in United Kingdom, with 55 gigs 
 
 Desuba, Andrei Ciubuc, Zach G
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*

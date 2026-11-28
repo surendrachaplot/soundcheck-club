@@ -1,6 +1,6 @@
 # Gabba
 
-Gabba is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Mon, 28 Dec 2026.
+Gabba is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Macarena Club, Barcelona on Mon, 28 Dec 2026.
 
 Gabba is an electronic artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside .cosm, Alex Picone and Artuccio. Next up: Macarena Club, Barcelona on Mon 28 Dec.
 
@@ -22,4 +22,4 @@ Gabba is an electronic artist, with 6 gigs on soundcheck across Barcelona. Often
 
 .cosm, Alex Picone, Artuccio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabba/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabba/)*

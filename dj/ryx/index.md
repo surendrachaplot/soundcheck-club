@@ -1,8 +1,8 @@
 # RY X
 
-RY X is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 2 Jan 2027.
+RY X is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 2 Jan 2027.
 
-RY X is an electronica and house artist based in Australia, with 50 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Dixon, Jimi Jules and Carlita. Next up: ORIGIN, Los Angeles on Sat 2 Jan.
+RY X is a house and electronica artist based in Australia, with 50 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Dixon, Jimi Jules and Carlita. Next up: ORIGIN, Los Angeles on Sat 2 Jan.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ RY X is an electronica and house artist based in Australia, with 50 gigs on soun
 
 Dixon, Jimi Jules, Carlita
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*

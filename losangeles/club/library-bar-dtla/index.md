@@ -1,17 +1,18 @@
 # Library Bar Dtla
 
-Library Bar Dtla is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "frenz Part 1 - Record Release: Escalator / Seasons / Natural Rhythm" on Sat, 5 Dec 2026.
+Library Bar Dtla is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "frenz Part 1 - Record Release: Escalator / Seasons / Natural Rhythm" on Sat, 5 Dec 2026.
 
-Library Bar Dtla is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Gil Tamazyan. See dates, start times and who's playing. 630 W 6th St, Los Angeles, CA 90017.
+Library Bar Dtla is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Aali Rehman, Emil Toledo and Gil Tamazyan. See dates, start times and who's playing. 630 W 6th St, Los Angeles, CA 90017.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | frenz Part 1 - Record Release: Escalator / Seasons / Natural Rhythm | Gil Tamazyan |
+| Sat, 12 Dec 2026 | Integrate | Aali Rehman, Emil Toledo |
 
 ## Address
 
 630 W 6th St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/library-bar-dtla/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/library-bar-dtla/)*

@@ -1,18 +1,18 @@
 # DJ Love
 
-DJ Love is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Fri, 27 Nov 2026.
+DJ Love is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bastet, Philadelphia on Sat, 5 Dec 2026.
 
-DJ Love is a club and techno artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 9 more. Often billed alongside Aletha, Emerald and BLUMITSU. Next up: OIL Club, Shenzhen on Fri 27 Nov.
+DJ Love is a club and techno artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 9 more. Often billed alongside Aletha, Emerald and BLUMITSU. Next up: Bastet, Philadelphia on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | OIL Club | Shenzhen |
 | Sat, 5 Dec 2026 | Bastet | Philadelphia |
 
 ## Recently played
 
+- OIL Club, Shenzhen · Fri, 27 Nov 2026
 - Warehouse on Watts, Philadelphia · Sat, 24 Oct 2026
 - Umbria Arts, Philadelphia · Sat, 24 Oct 2026
 - La Station - Gare des Mines, Paris · Fri, 2 Oct 2026
@@ -20,10 +20,9 @@ DJ Love is a club and techno artist based in United States of America, with 25 g
 - TBA - Heaps Normal Health Club, Sydney · Fri, 12 Jun 2026
 - Pillbox Beijing, Beijing · Fri, 22 May 2026
 - Parallel, Amsterdam · Sat, 14 Feb 2026
-- The Cause, London · Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Aletha, Emerald, BLUMITSU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlove/)*

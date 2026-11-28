@@ -1,6 +1,6 @@
 # Marques Wyatt
 
-Marques Wyatt is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Los Angeles on Sat, 12 Dec 2026.
+Marques Wyatt is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Los Angeles on Sat, 12 Dec 2026.
 
 Marques Wyatt is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 5 more. Often billed alongside Ray Kash, Zach Walker and Doc Martin. Next up: TBA, Los Angeles on Sat 12 Dec.
 
@@ -28,4 +28,4 @@ Marques Wyatt is a house and deep house artist based in United States of America
 
 Ray Kash, Zach Walker, Doc Martin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marqueswyatt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marqueswyatt/)*

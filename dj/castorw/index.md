@@ -1,6 +1,6 @@
 # Castor W.
 
-Castor W. is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at B21, Brussels on Sat, 28 Nov 2026.
+Castor W. is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at B21, Brussels on Sat, 28 Nov 2026.
 
 Castor W. is a jungle and drum & bass artist based in Belgium, with 19 gigs on soundcheck across Brussels and Ghent. Often billed alongside Castor, Jaquarius and Adrien d'Elzius. Next up: B21, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Castor W. is a jungle and drum & bass artist based in Belgium, with 19 gigs on s
 
 Castor, Jaquarius, Adrien d'Elzius
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castorw/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castorw/)*

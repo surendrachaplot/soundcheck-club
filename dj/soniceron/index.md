@@ -1,6 +1,6 @@
 # Soni Ceron
 
-Soni Ceron is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 25 Nov 2026.
+Soni Ceron is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 25 Nov 2026.
 
 Soni Ceron is a house and deep house artist based in Mexico, with 37 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Danesholme, Valeriana and papa jazz. Next up: ROCA HIFI, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Soni Ceron is a house and deep house artist based in Mexico, with 37 gigs on sou
 
 Danesholme, Valeriana, papa jazz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soniceron/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soniceron/)*

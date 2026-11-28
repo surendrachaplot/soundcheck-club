@@ -1,6 +1,6 @@
 # KLAU (6)
 
-KLAU (6) is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Parcería, Madrid on Sun, 29 Nov 2026.
+KLAU (6) is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at La Parcería, Madrid on Sun, 29 Nov 2026.
 
 KLAU is an electronica and house artist based in Spain, with 11 gigs on soundcheck across Madrid, Malaga and Marseille. Often billed alongside Miqui Brightside, Neeiv and TSVI. Next up: La Parcería, Madrid on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ KLAU is an electronica and house artist based in Spain, with 11 gigs on soundche
 
 Miqui Brightside, Neeiv, TSVI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klau-6/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klau-6/)*

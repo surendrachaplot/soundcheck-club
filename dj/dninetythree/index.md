@@ -1,6 +1,6 @@
 # DNINETYTHREE
 
-DNINETYTHREE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at TBA - Location With Ticket, Denver on Fri, 11 Dec 2026.
+DNINETYTHREE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Location With Ticket, Denver on Fri, 11 Dec 2026.
 
 DNINETYTHREE is a techno and industrial artist, with 5 gigs on soundcheck across Denver. Often billed alongside Clara Cuvé, Kyle Kerns and Michelle Sparks. Next up: TBA - Location With Ticket, Denver on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ DNINETYTHREE is a techno and industrial artist, with 5 gigs on soundcheck across
 
 Clara Cuvé, Kyle Kerns, Michelle Sparks
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dninetythree/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dninetythree/)*

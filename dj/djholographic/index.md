@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Nocturne, Chicago on Sun, 29 Nov 2026.
+DJ Holographic is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Nocturne, Chicago on Sun, 29 Nov 2026.
 
 DJ Holographic is a house and techno artist based in United States of America, with 249 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Le Nocturne, Chicago on Sun 29 Nov.
 
@@ -31,4 +31,4 @@ DJ Holographic is a house and techno artist based in United States of America, w
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

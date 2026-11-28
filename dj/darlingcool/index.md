@@ -1,6 +1,6 @@
 # Darling Cool
 
-Darling Cool is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Culture, Washington DC on Sat, 19 Dec 2026.
+Darling Cool is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Culture, Washington DC on Sat, 19 Dec 2026.
 
 Darling Cool is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, New York City, Philadelphia and Richmond and 2 more. Often billed alongside Chriz Javey, Joogmac and 2theT. Next up: Culture, Washington DC on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Darling Cool is a house and deep house artist based in United States of America,
 
 Chriz Javey, Joogmac, 2theT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darlingcool/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darlingcool/)*

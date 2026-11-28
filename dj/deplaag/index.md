@@ -1,6 +1,6 @@
 # De Plaag
 
-De Plaag is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Melkweg, Amsterdam on Sat, 28 Nov 2026.
+De Plaag is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Melkweg, Amsterdam on Sat, 28 Nov 2026.
 
 De Plaag is a techno and hip-hop artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Antwerp, Rotterdam and The Hague. Often billed alongside ANXHELA, Alloctone and BLNK. Next up: Melkweg, Amsterdam on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ De Plaag is a techno and hip-hop artist based in Netherlands, with 7 gigs on sou
 
 ANXHELA, Alloctone, BLNK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deplaag/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deplaag/)*

@@ -1,6 +1,6 @@
 # Cricky Lyttle
 
-Cricky Lyttle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Titanic Distillers, Belfast on Sat, 28 Nov 2026.
+Cricky Lyttle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Titanic Distillers, Belfast on Sat, 28 Nov 2026.
 
 Cricky Lyttle is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Belfast, Dublin and London. Often billed alongside Blark, Ryan Dallas and Nez. Next up: Titanic Distillers, Belfast on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cricky Lyttle is a techno and house artist based in United Kingdom, with 23 gigs
 
 Blark, Ryan Dallas, Nez
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crickylyttle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crickylyttle/)*

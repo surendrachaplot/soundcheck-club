@@ -1,6 +1,6 @@
 # Diome
 
-Diome is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tendance, Prague on Sat, 28 Nov 2026.
+Diome is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tendance, Prague on Sat, 28 Nov 2026.
 
 Diome is a house and club artist based in Czech Republic, with 34 gigs on soundcheck across Prague. Often billed alongside Cubik, Da Moon and Pavel Aeling. Next up: Tendance, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Diome is a house and club artist based in Czech Republic, with 34 gigs on soundc
 
 Cubik, Da Moon, Pavel Aeling
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diome/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diome/)*

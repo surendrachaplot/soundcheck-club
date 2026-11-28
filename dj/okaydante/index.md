@@ -1,6 +1,6 @@
 # Okaydante
 
-Okaydante is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Okaydante is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Okaydante is a techno and house artist based in Philippines, with 5 gigs on soundcheck across Hanoi, Ho Chi Minh City and Thailand. Often billed alongside CONG, Di Linh and OMOLOKO. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ Okaydante is a techno and house artist based in Philippines, with 5 gigs on soun
 
 CONG, Di Linh, OMOLOKO
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okaydante/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okaydante/)*

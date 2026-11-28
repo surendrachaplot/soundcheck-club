@@ -1,6 +1,6 @@
 # Two Thou
 
-Two Thou is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atemporal, Berlin on Fri, 4 Dec 2026.
+Two Thou is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Atemporal, Berlin on Fri, 4 Dec 2026.
 
 Two Thou is a house artist, with 10 gigs on soundcheck across Berlin and New York City. Often billed alongside Adam Cooke, Arnav and Autre. Next up: Atemporal, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Two Thou is a house artist, with 10 gigs on soundcheck across Berlin and New Yor
 
 Adam Cooke, Arnav, Autre
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twothou/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/twothou/)*

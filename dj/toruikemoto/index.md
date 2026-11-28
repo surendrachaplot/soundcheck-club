@@ -1,6 +1,6 @@
 # Toru Ikemoto
 
-Toru Ikemoto is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Astoria, Turin on Fri, 4 Dec 2026.
+Toru Ikemoto is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Astoria, Turin on Fri, 4 Dec 2026.
 
 Toru Ikemoto is a techno and house artist based in Japan, with 37 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Dortmund / Essen and 12 more. Often billed alongside DJ HI-C, TENO and DJ MARIA.. Next up: Astoria, Turin on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Toru Ikemoto is a techno and house artist based in Japan, with 37 gigs on soundc
 
 DJ HI-C, TENO, DJ MARIA.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*

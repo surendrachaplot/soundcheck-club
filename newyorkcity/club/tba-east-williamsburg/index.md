@@ -1,6 +1,6 @@
 # TBA - East Williamsburg
 
-TBA - East Williamsburg is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Golden Record NYC presents tINI b2b Anthea, Ciel & CYCLO BONNETTE" on Fri, 4 Dec 2026.
+TBA - East Williamsburg is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Golden Record NYC presents tINI b2b Anthea, Ciel & CYCLO BONNETTE" on Fri, 4 Dec 2026.
 
 TBA - East Williamsburg is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Anthea, Armii1n, Ciel and CYCLO BONETTE and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - East Williamsburg is a music venue in New York City listed on soundcheck. 
 | Sat, 12 Dec 2026 | Golden Record NYC x Sights and Sounds present Make A Dance | Armii1n, Make A Dance, Omer Mil |
 | Thu, 31 Dec 2026 | Golden Record NYC NYE-NYD 2027 |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-east-williamsburg/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-east-williamsburg/)*

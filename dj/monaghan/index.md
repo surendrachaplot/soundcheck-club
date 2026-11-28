@@ -1,6 +1,6 @@
 # Monaghan
 
-Monaghan is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
+Monaghan is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Oslo Hackney, London on Sat, 12 Dec 2026.
 
 Monaghan is a jungle and drum & bass artist, with 12 gigs on soundcheck across Bristol, Leeds, Liverpool and London. Often billed alongside Mas Que Nada Brothers, Fez the Kid and Janaway. Next up: Oslo Hackney, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Monaghan is a jungle and drum & bass artist, with 12 gigs on soundcheck across B
 
 Mas Que Nada Brothers, Fez the Kid, Janaway
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monaghan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monaghan/)*

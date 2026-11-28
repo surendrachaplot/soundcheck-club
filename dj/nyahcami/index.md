@@ -1,6 +1,6 @@
 # Nyah Cami
 
-Nyah Cami is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
+Nyah Cami is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Boondocks, Houston on Fri, 27 Nov 2026.
 
 Nyah Cami is a club and ghetto tech artist based in United States of America, with 19 gigs on soundcheck across Atlanta, Houston, New Orleans and New York City. Often billed alongside JAGU4R, Amarji King and Divine Interface. Next up: Boondocks, Houston on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Nyah Cami is a club and ghetto tech artist based in United States of America, wi
 
 ## Recently played
 
+- Boondocks, Houston · Fri, 27 Nov 2026
 - Siberia, New Orleans · Sat, 14 Nov 2026
 - TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta · Sat, 31 Oct 2026
 - TBA - El Sotano, Atlanta · Thu, 15 Oct 2026
@@ -19,10 +20,9 @@ Nyah Cami is a club and ghetto tech artist based in United States of America, wi
 - Hart Bar, New York City · Fri, 18 Sept 2026
 - Jupiter Disco, New York City · Wed, 9 Sept 2026
 - TBA, Atlanta · Thu, 18 Jun 2026
-- Lore, Atlanta · Fri, 22 May 2026
 
 ## Shares bills with
 
 JAGU4R, Amarji King, Divine Interface
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*

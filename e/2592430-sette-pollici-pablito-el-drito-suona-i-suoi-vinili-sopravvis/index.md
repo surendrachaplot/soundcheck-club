@@ -1,11 +1,11 @@
-# Sette pollici - Pablito el Drito suona i suoi vinili sopravvissuti ai jukebox e mangiadischi at TBA - Salumeria del design - via Cecilio Stazio 18 - Milano
+# Sette pollici - Pablito el Drito suona i suoi vinili sopravvissuti ai jukebox e mangiadischi at Salumeria del design
 
-Sette pollici - Pablito el Drito suona i suoi vinili sopravvissuti ai jukebox e mangiadischi at TBA - Salumeria del design - via Cecilio Stazio 18 - Milano on Thu 3 Dec, Milan. 1 artist: Pablito el Drito. Pop and Electronica. See the line-up on soundcheck.
+Sette pollici - Pablito el Drito suona i suoi vinili sopravvissuti ai jukebox e mangiadischi at Salumeria del design on Thu 3 Dec, Milan. 1 artist: Pablito el Drito. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 3 Dec 2026 |
-| Venue | TBA - Salumeria del design - via Cecilio Stazio 18 - Milano |
+| Venue | Salumeria del design |
 | City | Milan |
 
 ## Line-up

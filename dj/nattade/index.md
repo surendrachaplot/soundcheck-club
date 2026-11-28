@@ -1,6 +1,6 @@
 # NATTA (DE)
 
-NATTA (DE) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hafenklang, Hamburg on Fri, 11 Dec 2026.
+NATTA (DE) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hafenklang, Hamburg on Fri, 11 Dec 2026.
 
 NATTA (DE) is a techno and hardcore artist based in Germany, with 4 gigs on soundcheck across Hamburg. Often billed alongside Frank Rayo, Alina Viktoria and BREITBAND. Next up: Hafenklang, Hamburg on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ NATTA (DE) is a techno and hardcore artist based in Germany, with 4 gigs on soun
 
 Frank Rayo, Alina Viktoria, BREITBAND
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nattade/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nattade/)*

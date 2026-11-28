@@ -1,6 +1,6 @@
 # DJ Spice
 
-DJ Spice is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
+DJ Spice is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
 
 DJ Spice is a techno and house artist based in Denmark, with 37 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DRABER666, Jonas Tuk and Ryan Dank. Next up: Tap1, Copenhagen on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ DJ Spice is a techno and house artist based in Denmark, with 37 gigs on soundche
 
 DRABER666, Jonas Tuk, Ryan Dank (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspice/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspice/)*

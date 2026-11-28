@@ -1,6 +1,6 @@
 # Danny Grisa
 
-Danny Grisa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Air Conditioned Lounge, San Diego on Sat, 28 Nov 2026.
+Danny Grisa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Air Conditioned Lounge, San Diego on Sat, 28 Nov 2026.
 
 Danny Grisa is a house and deep house artist based in United States of America, with 7 gigs on soundcheck across San Diego. Often billed alongside Matthew Brian, Megalina and DJ Dazy. Next up: The Air Conditioned Lounge, San Diego on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Danny Grisa is a house and deep house artist based in United States of America, 
 
 Matthew Brian, Megalina, DJ Dazy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygrisa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygrisa/)*

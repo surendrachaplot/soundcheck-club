@@ -1,6 +1,6 @@
 # Muski
 
-Muski is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
+Muski is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Groove Gardens, Malta on Sun, 29 Nov 2026.
 
 Muski is a techno artist based in Malta, with 4 gigs on soundcheck across Malta. Often billed alongside Gordon Flash, Patient (MT) and Ashibane. Next up: Groove Gardens, Malta on Sun 29 Nov.
 
@@ -20,4 +20,4 @@ Muski is a techno artist based in Malta, with 4 gigs on soundcheck across Malta.
 
 Gordon Flash, Patient (MT), Ashibane
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muski/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muski/)*

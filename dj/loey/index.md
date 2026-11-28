@@ -1,6 +1,6 @@
 # Loey
 
-Loey is a Hip-Hop and Footwork artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Final, Taipei on Fri, 4 Dec 2026.
+Loey is a Hip-Hop and Footwork artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Final, Taipei on Fri, 4 Dec 2026.
 
 Loey is a hip-hop and footwork artist based in Taiwan, with 33 gigs on soundcheck across Seoul and Taipei. Often billed alongside Tsui, AP-C and Elinnn. Next up: Final, Taipei on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Loey is a hip-hop and footwork artist based in Taiwan, with 33 gigs on soundchec
 
 Tsui, AP-C, Elinnn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loey/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loey/)*

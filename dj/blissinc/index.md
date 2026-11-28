@@ -1,6 +1,6 @@
 # Bliss Inc.
 
-Bliss Inc. is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+Bliss Inc. is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
 Bliss Inc. is a house and trance artist, with 55 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brussels and 18 more. Often billed alongside DJ TEETH, Maruwa and TPR (DE). Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Bliss Inc. is a house and trance artist, with 55 gigs on soundcheck across Adela
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt · Fri, 27 Nov 2026
 - Legal, Munich · Sat, 14 Nov 2026
 - Woodlands, Hannover · Sat, 22 Aug 2026
 - Tokonoma Club, Frankfurt · Wed, 3 Jun 2026
@@ -19,10 +20,9 @@ Bliss Inc. is a house and trance artist, with 55 gigs on soundcheck across Adela
 - Tokonoma Club, Frankfurt · Thu, 30 Apr 2026
 - nachbar, Amsterdam · Fri, 17 Apr 2026
 - Tokonoma Club, Frankfurt · Fri, 30 Jan 2026
-- TBA - 2.5hrs north from Sydney, Sydney · Fri, 12 Dec 2025
 
 ## Shares bills with
 
 DJ TEETH, Maruwa, TPR (DE)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blissinc/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blissinc/)*

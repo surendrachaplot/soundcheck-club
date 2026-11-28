@@ -1,6 +1,6 @@
 # Poor Toms Oltra
 
-Poor Toms Oltra is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Yang Thai" on Sun, 29 Nov 2026.
+Poor Toms Oltra is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Yang Thai" on Sun, 29 Nov 2026.
 
 Poor Toms Oltra is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including DJ JNETT, Killian, Marcellus Pittman and Shuko. See dates, start times and who's playing. Building 3/10 Brompton St, Marrickville NSW 2204.
 
@@ -15,4 +15,4 @@ Poor Toms Oltra is a music venue in Sydney listed on soundcheck. 2 upcoming gigs
 
 Building 3/10 Brompton St, Marrickville NSW 2204, Sydney
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/poor-toms-oltra/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/poor-toms-oltra/)*

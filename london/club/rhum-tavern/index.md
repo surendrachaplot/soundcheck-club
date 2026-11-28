@@ -1,6 +1,6 @@
 # Rhum Tavern
 
-Rhum Tavern is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "The Oasis: Valentine's with the Pirates" on Sat, 13 Feb 2027.
+Rhum Tavern is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "The Oasis: Valentine's with the Pirates" on Sat, 13 Feb 2027.
 
 Rhum Tavern is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including 2Doters, ANYA, DASHA (UK) and Mez and 1 more. See dates, start times and who's playing. 48 Margaret Street, W1W 8SE, London, Uk.
 
@@ -14,4 +14,4 @@ Rhum Tavern is a music venue in London listed on soundcheck. 1 upcoming gig, wit
 
 48 Margaret Street, W1W 8SE, London, Uk, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rhum-tavern/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rhum-tavern/)*

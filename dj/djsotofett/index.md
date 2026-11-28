@@ -1,6 +1,6 @@
 # DJ Sotofett
 
-DJ Sotofett is a Dub and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
+DJ Sotofett is a Dub and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
 
 DJ Sotofett is a dub and house artist based in Norway, with 95 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 30 more. Often billed alongside LNS, DJ Fett Burger and Ireen Amnes. Next up: Circolo Amelia, Milan on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ DJ Sotofett is a dub and house artist based in Norway, with 95 gigs on soundchec
 
 LNS, DJ Fett Burger, Ireen Amnes
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*

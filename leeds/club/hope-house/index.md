@@ -1,15 +1,13 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "PUSH JAZZ DANCE - Hope House GALLERY - FRIDAY 27th NOV 6pm" on Fri, 27 Nov 2026.
+Hope House is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "ALEA" on Sat, 28 Nov 2026.
 
-Hope House is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including Asa Tate, Bradley Zero, DJ Sotofett and Pete Melba and 1 more. See dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
+Hope House is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Sotofett. See dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | PUSH JAZZ DANCE - Hope House GALLERY - FRIDAY 27th NOV 6pm | Tina Edwards |
-| Fri, 27 Nov 2026 | Rhythm Section: Asa Tate, Bradley Zero, Pete Melba & The Reutrn of She | Asa Tate, Bradley Zero, Pete Melba |
 | Sat, 28 Nov 2026 | ALEA |  |
 | Thu, 3 Dec 2026 | daddies LIVE - Hope House GALLERY |  |
 | Fri, 4 Dec 2026 | Cosmic Slop |  |
@@ -19,4 +17,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

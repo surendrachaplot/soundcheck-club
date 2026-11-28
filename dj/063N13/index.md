@@ -1,6 +1,6 @@
 # 063N13
 
-063N13 is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
+063N13 is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
 
 063N13 is a house and afro house artist, with 13 gigs on soundcheck across Bangkok, Mexico City, New York City and Tokyo. Often billed alongside NIGELTHREETIMES, Rosewater Daughter and KATIMI AI. Next up: 88block, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@
 
 NIGELTHREETIMES, Rosewater Daughter, KATIMI AI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/063N13/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/063N13/)*

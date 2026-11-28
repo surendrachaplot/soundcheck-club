@@ -1,6 +1,6 @@
 # CARAVEL
 
-CARAVEL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Maze Venue, Cyprus on Sat, 26 Dec 2026.
+CARAVEL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Maze Venue, Cyprus on Sat, 26 Dec 2026.
 
 CARAVEL is a techno and industrial artist based in France, with 142 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: Maze Venue, Cyprus on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ CARAVEL is a techno and industrial artist based in France, with 142 gigs on soun
 
 Tham, Cassie Raptor, KØZLØV
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*

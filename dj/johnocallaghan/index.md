@@ -1,6 +1,6 @@
 # John O'Callaghan
 
-John O'Callaghan is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Warsaw, New York City on Sat, 5 Dec 2026.
+John O'Callaghan is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Warsaw, New York City on Sat, 5 Dec 2026.
 
 John O'Callaghan is a trance and techno artist based in Ireland, with 35 gigs on soundcheck across Bangkok, Bristol, Buenos Aires and Chicago and 15 more. Often billed alongside Aly & Fila, Paul Van Dyk and Cosmic Gate. Next up: Warsaw, New York City on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ John O'Callaghan is a trance and techno artist based in Ireland, with 35 gigs on
 
 Aly & Fila, Paul Van Dyk, Cosmic Gate
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*

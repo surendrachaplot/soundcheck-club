@@ -1,6 +1,6 @@
 # VORPAL
 
-VORPAL is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
+VORPAL is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
 
 VORPAL is a techno and psytrance artist based in Australia, with 19 gigs on soundcheck across Berlin, Canberra, Melbourne and Sydney. Often billed alongside Shepz, Sian Ramirez and Gwyn. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ VORPAL is a techno and psytrance artist based in Australia, with 19 gigs on soun
 
 Shepz, Sian Ramirez, Gwyn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorpal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorpal/)*

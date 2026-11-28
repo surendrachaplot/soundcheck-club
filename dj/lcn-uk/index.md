@@ -1,6 +1,6 @@
 # LCN
 
-LCN is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The DBA, Manchester on Sat, 19 Dec 2026.
+LCN is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The DBA, Manchester on Sat, 19 Dec 2026.
 
 LCN is a bass and techno artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Blawan, FAFF and DJ Stingray 313. Next up: The DBA, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ LCN is a bass and techno artist based in United Kingdom, with 92 gigs on soundch
 
 Blawan, FAFF, DJ Stingray 313
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lcn-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lcn-uk/)*

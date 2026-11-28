@@ -1,6 +1,6 @@
 # John Karam
 
-John Karam is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 18 Dec 2026.
+John Karam is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 18 Dec 2026.
 
 John Karam is a minimal and house artist based in Lebanon, with 29 gigs on soundcheck across Barcelona. Often billed alongside Bttologic, Gera and Daescu. Next up: 303 Audiophile Bar, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ John Karam is a minimal and house artist based in Lebanon, with 29 gigs on sound
 
 Bttologic, Gera (3), Daescu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkaram/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkaram/)*

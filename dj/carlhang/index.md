@@ -1,6 +1,6 @@
 # Carl Hang
 
-Carl Hang is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
+Carl Hang is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at objekt klein a, Dresden on Sat, 28 Nov 2026.
 
 Carl Hang is a house and ghetto tech artist based in Germany, with 110 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 10 more. Often billed alongside Wall Ra, DJ Business and Multifun. Next up: objekt klein a, Dresden on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Carl Hang is a house and ghetto tech artist based in Germany, with 110 gigs on s
 
 Wall Ra, DJ Business (2), Multifun
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhang/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhang/)*

@@ -1,6 +1,6 @@
 # Jeff Sorkowitz
 
-Jeff Sorkowitz is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Ground at Club Space, Miami on Sun, 27 Dec 2026.
+Jeff Sorkowitz is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Ground at Club Space, Miami on Sun, 27 Dec 2026.
 
 Jeff Sorkowitz is a tech house and minimal artist based in United States of America, with 29 gigs on soundcheck across Boston, Chicago, London and Los Angeles and 6 more. Often billed alongside Artslaves, Mike Morrisey and Barnesey. Next up: The Ground at Club Space, Miami on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Jeff Sorkowitz is a tech house and minimal artist based in United States of Amer
 
 Artslaves, Mike Morrisey, Barnesey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffsorkowitz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffsorkowitz/)*

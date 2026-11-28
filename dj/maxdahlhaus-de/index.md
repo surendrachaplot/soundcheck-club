@@ -1,6 +1,6 @@
 # Max Dahlhaus
 
-Max Dahlhaus is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
+Max Dahlhaus is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 29 Jan 2027.
 
 Max Dahlhaus is a techno and experimental artist, with 10 gigs on soundcheck across Beijing, Berlin, Chengdu and Hong Kong and 3 more. Often billed alongside 1TA, Amotken and B E N N. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Max Dahlhaus is a techno and experimental artist, with 10 gigs on soundcheck acr
 
 1TA (1), Amotken, B E N N
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdahlhaus-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdahlhaus-de/)*

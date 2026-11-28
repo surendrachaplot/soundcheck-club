@@ -1,6 +1,6 @@
 # Inbal
 
-Inbal is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Inbal is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Inbal is a house and disco artist based in United States of America, with 61 gigs on soundcheck across Austin, Berlin, Detroit and Guadalajara and 9 more. Often billed alongside Rimaye, Terence Tabeau and Will Renuart. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Inbal is a house and disco artist based in United States of America, with 61 gig
 
 Rimaye, Terence Tabeau, Will Renuart
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*

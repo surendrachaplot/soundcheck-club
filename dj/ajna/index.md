@@ -1,6 +1,6 @@
 # AJNA
 
-AJNA is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Outernet Live, London on Fri, 11 Dec 2026.
+AJNA is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Outernet Live, London on Fri, 11 Dec 2026.
 
 AJNA is a house and afro house artist based in Belgium, with 47 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 17 more. Often billed alongside Samm (BE), Maxi Meraki and Samm. Next up: Outernet Live, London on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ AJNA is a house and afro house artist based in Belgium, with 47 gigs on soundche
 
 Samm (BE), Maxi Meraki, Samm
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*

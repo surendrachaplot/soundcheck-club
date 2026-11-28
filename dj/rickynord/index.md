@@ -1,6 +1,6 @@
 # Ricky Nord
 
-Ricky Nord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at New Guernica, Melbourne on Fri, 18 Dec 2026.
+Ricky Nord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at New Guernica, Melbourne on Fri, 18 Dec 2026.
 
 Ricky Nord is a techno and house artist based in Australia, with 57 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Mabel and Hannah D. Next up: New Guernica, Melbourne on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ricky Nord is a techno and house artist based in Australia, with 57 gigs on soun
 
 Charlotte Rooney, Mabel, Hannah D
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*

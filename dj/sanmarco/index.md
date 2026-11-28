@@ -1,6 +1,6 @@
 # San Marco
 
-San Marco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 5 Dec 2026.
+San Marco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 5 Dec 2026.
 
 San Marco is a house and techno artist based in Switzerland, with 11 gigs on soundcheck across Amsterdam, Athens, Melbourne and Sao Paulo and 1 more. Often billed alongside Ajele, Juli Lee and Kalabrese. Next up: Abbots Yard, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ San Marco is a house and techno artist based in Switzerland, with 11 gigs on sou
 
 Ajele, Juli Lee, Kalabrese
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanmarco/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanmarco/)*

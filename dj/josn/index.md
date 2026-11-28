@@ -1,6 +1,6 @@
 # JOSN.
 
-JOSN. is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Legal, Munich on Fri, 4 Dec 2026.
+JOSN. is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Legal, Munich on Fri, 4 Dec 2026.
 
 JOSN. is a house artist, with 10 gigs on soundcheck across Munich. Often billed alongside Barbara Preisinger, Bonjour Ben and Children of Valis. Next up: Legal, Munich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ JOSN. is a house artist, with 10 gigs on soundcheck across Munich. Often billed 
 
 Barbara Preisinger, Bonjour Ben, Children of Valis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josn/)*

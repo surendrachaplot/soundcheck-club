@@ -1,19 +1,19 @@
 # Seimei
 
-Seimei is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
+Seimei is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Kuni House, Kanto on Sat, 28 Nov 2026.
 
-Seimei is a techno and bass artist based in Japan, with 129 gigs on soundcheck across Baltimore, Chengdu, Kanto and Kyoto and 5 more. Often billed alongside Carpainter, Andrew (TREKKIE TRAX) and Guchon. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
+Seimei is a techno and bass artist based in Japan, with 129 gigs on soundcheck across Baltimore, Chengdu, Kanto and Kyoto and 5 more. Often billed alongside Carpainter, Andrew (TREKKIE TRAX) and Guchon. Next up: Kuni House, Kanto on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | ZEROTOKYO | Tokyo |
 | Sat, 28 Nov 2026 | Kuni House | Kanto |
 | Fri, 4 Dec 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
+- ZEROTOKYO, Tokyo · Fri, 27 Nov 2026
 - club asia, Tokyo · Sat, 21 Nov 2026
 - Under Deer Lounge, Tokyo · Sat, 24 Oct 2026
 - Under Deer Lounge, Tokyo · Sat, 24 Oct 2026
@@ -21,10 +21,9 @@ Seimei is a techno and bass artist based in Japan, with 129 gigs on soundcheck a
 - ZEROTOKYO, Tokyo · Sat, 10 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 2 Oct 2026
 - Homage Brewing, Los Angeles · Sat, 26 Sept 2026
-- Enter Shibuya, Tokyo · Mon, 21 Sept 2026
 
 ## Shares bills with
 
 Carpainter, Andrew (TREKKIE TRAX), Guchon
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seimei/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seimei/)*

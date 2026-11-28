@@ -1,14 +1,13 @@
 # deep creep
 
-deep creep is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
+deep creep is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Sydney on Sun, 29 Nov 2026.
 
-deep creep is a techno and house artist based in United States of America, with 116 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Berlin and 21 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
+deep creep is a techno and house artist based in United States of America, with 116 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Berlin and 21 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: TBA, Sydney on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Sun, 29 Nov 2026 | TBA | Sydney |
 | Thu, 31 Dec 2026 | Nowadays | New York City |
 | Sat, 15 May 2027 | Het Twiske | Amsterdam |
@@ -28,4 +27,4 @@ deep creep is a techno and house artist based in United States of America, with 
 
 DJ Fart in the Club, Amelia Holt, Aurora Halal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*

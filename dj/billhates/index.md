@@ -1,6 +1,6 @@
 # Bill Hates
 
-Bill Hates is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 3 Dec 2026.
+Bill Hates is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 3 Dec 2026.
 
 Bill Hates is a tech house and deep house artist based in Venezuela, with 91 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid. Often billed alongside ROGGIERO G, XAVI RABARTE and HANIE. Next up: 303 Audiophile Bar, Barcelona on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Bill Hates is a tech house and deep house artist based in Venezuela, with 91 gig
 
 ROGGIERO G, XAVI RABARTE, HANIE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*

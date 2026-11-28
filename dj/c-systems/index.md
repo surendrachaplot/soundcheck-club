@@ -1,6 +1,6 @@
 # C-systems
 
-C-systems is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 93 Feet East, London on Sat, 5 Dec 2026.
+C-systems is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 93 Feet East, London on Sat, 5 Dec 2026.
 
 C-systems is a trance and progressive house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, London and Los Angeles. Often billed alongside Sago, DJMrB and Thiago Genez. Next up: 93 Feet East, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ C-systems is a trance and progressive house artist based in United Kingdom, with
 
 Sago, DJMrB, Thiago Genez
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c-systems/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c-systems/)*

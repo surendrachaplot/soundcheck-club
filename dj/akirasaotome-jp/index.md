@@ -1,6 +1,6 @@
 # Akira Saotome
 
-Akira Saotome is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mago, Chubu on Tue, 29 Dec 2026.
+Akira Saotome is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mago, Chubu on Tue, 29 Dec 2026.
 
 Akira Saotome is a minimal and minimal techno artist based in Japan, with 6 gigs on soundcheck across Chubu, Osaka, Seoul and Tokyo. Often billed alongside Yoske, DJ SPOT and AOKI takamasa. Next up: Mago, Chubu on Tue 29 Dec.
 
@@ -22,4 +22,4 @@ Akira Saotome is a minimal and minimal techno artist based in Japan, with 6 gigs
 
 Yoske, DJ SPOT, AOKI takamasa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akirasaotome-jp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akirasaotome-jp/)*

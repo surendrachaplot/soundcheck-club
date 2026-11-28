@@ -1,6 +1,6 @@
 # Save P
 
-Save P is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
+Save P is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
 
 Save P is an electro and techno artist based in Italy, with 12 gigs on soundcheck across Brighton and London. Often billed alongside Ughe, Analog Disease and Desuba. Next up: Starlane Pizza Bar, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Save P is an electro and techno artist based in Italy, with 12 gigs on soundchec
 
 Ughe, Analog Disease, Desuba
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/save-p/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/save-p/)*

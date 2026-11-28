@@ -1,18 +1,18 @@
 # Syndrolin
 
-Syndrolin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 119, Berlin on Fri, 27 Nov 2026.
+Syndrolin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ://about blank, Berlin on Fri, 11 Dec 2026.
 
-Syndrolin is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Young-G, Denise Rabe and Candice Blonde. Next up: 119, Berlin on Fri 27 Nov.
+Syndrolin is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Young-G, Denise Rabe and Candice Blonde. Next up: ://about blank, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | 119 | Berlin |
 | Fri, 11 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
+- 119, Berlin · Fri, 27 Nov 2026
 - Spartacus Potsdam, Berlin · Fri, 6 Nov 2026
 - ://about blank, Berlin · Fri, 22 May 2026
 - Tresor / Globus, Berlin · Mon, 30 Mar 2026
@@ -25,4 +25,4 @@ Syndrolin is a techno and trance artist based in Germany, with 9 gigs on soundch
 
 Young-G, Denise Rabe, Candice Blonde
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syndrolin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syndrolin/)*

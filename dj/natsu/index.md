@@ -1,6 +1,6 @@
 # Natsu
 
-Natsu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 17 Dec 2026.
+Natsu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 17 Dec 2026.
 
 Natsu is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg, Los Angeles and Strasbourg and 1 more. Often billed alongside JØSH., Malvadisco and NOIA. Next up: Bulbul Berlin, Berlin on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Natsu is a house and techno artist based in Germany, with 27 gigs on soundcheck 
 
 JØSH., Malvadisco, NOIA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsu/)*

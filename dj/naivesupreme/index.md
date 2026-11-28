@@ -1,6 +1,6 @@
 # Naive Supreme
 
-Naive Supreme is a Hardcore and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
+Naive Supreme is a Hardcore and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 4 Dec 2026.
 
 Naive Supreme is a hardcore and reggaeton artist based in Spain, with 26 gigs on soundcheck across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Virgen Maria, Hundred Tauro and Dirti Larita. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Naive Supreme is a hardcore and reggaeton artist based in Spain, with 26 gigs on
 
 Virgen Maria, Hundred Tauro, Dirti Larita
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naivesupreme/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naivesupreme/)*

@@ -1,19 +1,19 @@
 # KYVU
 
-KYVU is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Edge Seoul, Seoul on Fri, 27 Nov 2026.
+KYVU is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Atdge Seoul, Seoul on Tue, 1 Dec 2026.
 
-KYVU is a minimal and techno artist based in South Korea, with 44 gigs on soundcheck across Seoul. Often billed alongside Yeji, Hwiah and Seo Youngcha. Next up: The Edge Seoul, Seoul on Fri 27 Nov.
+KYVU is a minimal and techno artist based in South Korea, with 44 gigs on soundcheck across Seoul. Often billed alongside Yeji, Hwiah and Seo Youngcha. Next up: Atdge Seoul, Seoul on Tue 1 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Edge Seoul | Seoul |
 | Tue, 1 Dec 2026 | Atdge Seoul | Seoul |
 | Fri, 25 Dec 2026 | Atdge Seoul | Seoul |
 
 ## Recently played
 
+- The Edge Seoul, Seoul · Fri, 27 Nov 2026
 - Atdge Seoul, Seoul · Wed, 18 Nov 2026
 - Volnost, Seoul · Fri, 13 Nov 2026
 - Nué Seoul, Seoul · Thu, 12 Nov 2026
@@ -21,10 +21,9 @@ KYVU is a minimal and techno artist based in South Korea, with 44 gigs on soundc
 - Evening, Seoul · Fri, 6 Nov 2026
 - Volnost, Seoul · Sat, 31 Oct 2026
 - Volnost, Seoul · Sat, 24 Oct 2026
-- Volnost, Seoul · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Yeji, Hwiah, Seo Youngcha
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyvu-sk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyvu-sk/)*

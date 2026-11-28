@@ -1,6 +1,6 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at essaim, Paris on Sat, 5 Dec 2026.
+Decoder is a Techno and Minimal Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at essaim, Paris on Sat, 5 Dec 2026.
 
 Decoder is a techno and minimal techno artist based in United States of America, with 114 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 45 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: essaim, Paris on Sat 5 Dec.
 
@@ -30,4 +30,4 @@ Decoder is a techno and minimal techno artist based in United States of America,
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

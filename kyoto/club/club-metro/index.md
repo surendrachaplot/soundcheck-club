@@ -1,15 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 28 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MICHAEL MONROE JAPAN TOUR 2026" on Fri, 27 Nov 2026.
+Club Metro is a music venue in Kyoto with 26 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 in Kyoto" on Sat, 28 Nov 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 28 upcoming gigs, with line-ups including DJ Krush, DJ Masda, HINOTO and Hisashi Aochi and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 26 upcoming gigs, with line-ups including DJ Krush, DJ Masda, HINOTO and Hisashi Aochi and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | MICHAEL MONROE JAPAN TOUR 2026 |  |
-| Fri, 27 Nov 2026 | DIAMONDS ARE FOREVER presents MOCKNOMY Ⅱ |  |
 | Sat, 28 Nov 2026 | DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 in Kyoto | DJ Krush, Howie B |
 | Sat, 28 Nov 2026 | DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 in Kyoto | DJ Krush, Howie B |
 | Sun, 29 Nov 2026 | Penguinmarket Records 20th Anniversary｜KYOTO | Masaki Tamura |
@@ -18,9 +16,11 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 28 upcoming gigs, wit
 | Sat, 5 Dec 2026 | 0番線と夜明け前 2ndアルバム「出町柳アイロニー」レコ発ツアー |  |
 | Sat, 5 Dec 2026 | BONG BROS RECORDS PRESENTS BORN FREE 15th ANNIVERSARY |  |
 | Sun, 6 Dec 2026 | 京都バー武内でクリスマス |  |
+| Thu, 10 Dec 2026 | Japaradiso! -Japanese Disko & City Pop Experience- | Ryoma Sasaki |
+| Fri, 11 Dec 2026 | DEN-EN 2nd year anniversary×DJ Masda | DJ Masda, Tui (1) |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

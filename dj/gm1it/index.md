@@ -1,6 +1,6 @@
 # GM1 (IT)
 
-GM1 (IT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 19 Dec 2026.
+GM1 (IT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 19 Dec 2026.
 
 GM1 (IT) is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ GM1 (IT) is a techno and trance artist based in Germany, with 35 gigs on soundch
 
 Hanne B, Amo (IT), 4NOUK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gm1it/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gm1it/)*

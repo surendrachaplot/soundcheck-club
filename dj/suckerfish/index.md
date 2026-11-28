@@ -1,6 +1,6 @@
 # Suckerfish
 
-Suckerfish is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fade Street Studios, Dublin on Sat, 19 Dec 2026.
+Suckerfish is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fade Street Studios, Dublin on Sat, 19 Dec 2026.
 
 Suckerfish is a progressive house and house artist based in Ireland, with 8 gigs on soundcheck across Dublin. Often billed alongside Bronwyn., DIEBYVEG and RHYTHMICK. Next up: Fade Street Studios, Dublin on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Suckerfish is a progressive house and house artist based in Ireland, with 8 gigs
 
 Bronwyn., DIEBYVEG, RHYTHMICK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suckerfish/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suckerfish/)*

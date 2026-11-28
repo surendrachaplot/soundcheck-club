@@ -1,6 +1,6 @@
 # rEmPiT g0dDe$$
 
-rEmPiT g0dDe$$ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Apotheka, Manila on Thu, 3 Dec 2026.
+rEmPiT g0dDe$$ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Apotheka, Manila on Thu, 3 Dec 2026.
 
 rEmPiT g0dDe$$ is a techno and experimental artist based in Malaysia, with 44 gigs on soundcheck across Bangkok, Barcelona, Berlin and Ho Chi Minh City and 12 more. Often billed alongside Metamoksha, LnHD and Cloudy Ku. Next up: Apotheka, Manila on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ rEmPiT g0dDe$$ is a techno and experimental artist based in Malaysia, with 44 gi
 
 Metamoksha, LnHD, Cloudy Ku
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rempitg0ddess/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rempitg0ddess/)*

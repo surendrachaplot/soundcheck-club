@@ -1,6 +1,6 @@
 # Momo Trosman
 
-Momo Trosman is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
+Momo Trosman is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Uruguay on Mon, 21 Dec 2026.
 
 Momo Trosman is a house and tech house artist based in Argentina, with 112 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 31 more. Often billed alongside Franco Cinelli, Gulp and Felipe Valenzuela. Next up: TBA, Uruguay on Mon 21 Dec.
 
@@ -27,4 +27,4 @@ Momo Trosman is a house and tech house artist based in Argentina, with 112 gigs 
 
 Franco Cinelli, Gulp, Felipe Valenzuela
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*

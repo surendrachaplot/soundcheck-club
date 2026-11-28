@@ -1,6 +1,6 @@
 # Red Eye
 
-Red Eye is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Miscellania, Melbourne on Sun, 6 Dec 2026.
+Red Eye is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Miscellania, Melbourne on Sun, 6 Dec 2026.
 
 Red Eye is a drum & bass and techno artist based in United States of America, with 20 gigs on soundcheck across Bangkok, Chicago, Dallas/Fort Worth and Melbourne. Often billed alongside LXYN, NENEIA and POKOLENIE MIKROZAYMOV. Next up: Miscellania, Melbourne on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Red Eye is a drum & bass and techno artist based in United States of America, wi
 
 LXYN, NENEIA, POKOLENIE MIKROZAYMOV
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redeye/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redeye/)*

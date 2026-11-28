@@ -1,14 +1,13 @@
 # The Limelight
 
-The Limelight is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SHINE -- Sam Alfred" on Fri, 27 Nov 2026.
+The Limelight is a music venue in Belfast with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SHINE -- Sasha" on Sat, 28 Nov 2026.
 
-The Limelight is a music venue in Belfast listed on soundcheck. 9 upcoming gigs, with line-ups including CADZOW, CAOIMHE, Conor Schmtz and DART and 2 more. See dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
+The Limelight is a music venue in Belfast listed on soundcheck. 8 upcoming gigs, with line-ups including CADZOW, CAOIMHE, Conor Schmtz and DART and 2 more. See dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | SHINE -- Sam Alfred | Sam Alfred |
 | Sat, 28 Nov 2026 | SHINE -- Sasha | Sasha |
 | Fri, 4 Dec 2026 | SHINE -- Dusky [VENUE UPGRADE] | Dusky |
 | Fri, 11 Dec 2026 | SHINE -- OMAR+ | Jordan Villa, Omar+ |
@@ -22,4 +21,4 @@ The Limelight is a music venue in Belfast listed on soundcheck. 9 upcoming gigs,
 
 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom, Belfast
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*

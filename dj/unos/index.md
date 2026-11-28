@@ -1,6 +1,6 @@
 # UNOS
 
-UNOS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Wintercircus, Ghent on Fri, 18 Dec 2026.
+UNOS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Wintercircus, Ghent on Fri, 18 Dec 2026.
 
 UNOS is a house and disco artist based in Belgium, with 62 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside Fais Le Beau, Zouzibabe and She The DJ. Next up: Club Wintercircus, Ghent on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ UNOS is a house and disco artist based in Belgium, with 62 gigs on soundcheck ac
 
 Fais Le Beau, Zouzibabe, She The DJ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*

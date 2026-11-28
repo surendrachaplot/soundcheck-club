@@ -1,6 +1,6 @@
 # 1520
 
-1520 is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Time Flies presents Vera, Dana Kuehr, Super Venus" on Fri, 27 Nov 2026.
+1520 is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Time Flies presents Vera, Dana Kuehr, Super Venus" on Fri, 27 Nov 2026.
 
 1520 is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Blason, Dana Kuehr, Ethan. and Only Juan and 2 more. See dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
 
@@ -15,4 +15,4 @@
 
 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY, Manchester
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*

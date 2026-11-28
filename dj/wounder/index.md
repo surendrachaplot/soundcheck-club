@@ -1,6 +1,6 @@
 # Wounder
 
-Wounder is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
+Wounder is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
 
 Wounder is a club and experimental artist, with 18 gigs on soundcheck across Berlin, London, Manchester and Vienna. Often billed alongside Crimson Chaos, Kamixlo and Madjestic Kasual. Next up: Vespers Club, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Wounder is a club and experimental artist, with 18 gigs on soundcheck across Ber
 
 Crimson Chaos, Kamixlo, Madjestic Kasual
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*

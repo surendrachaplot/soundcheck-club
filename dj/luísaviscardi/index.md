@@ -1,6 +1,6 @@
 # Luísa Viscardi
 
-Luísa Viscardi is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ephigenia, Sao Paulo on Sat, 5 Dec 2026.
+Luísa Viscardi is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ephigenia, Sao Paulo on Sat, 5 Dec 2026.
 
 Luísa Viscardi is a hip-hop and house artist, with 10 gigs on soundcheck across Copenhagen and Sao Paulo. Often billed alongside Tamenpi, DJ Nuts and Lys Ventura. Next up: Ephigenia, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Luísa Viscardi is a hip-hop and house artist, with 10 gigs on soundcheck across
 
 Tamenpi, DJ Nuts, Lys Ventura
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luísaviscardi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luísaviscardi/)*

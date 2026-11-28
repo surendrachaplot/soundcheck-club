@@ -1,8 +1,8 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
+Oppidan is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
-Oppidan is a garage and house artist based in United Kingdom, with 164 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
+Oppidan is a garage and house artist based in United Kingdom, with 166 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Oppidan is a garage and house artist based in United Kingdom, with 164 gigs on s
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
+| Fri, 8 Jan 2027 | Circus Osaka | Osaka |
+| Sat, 9 Jan 2027 | Circus Tokyo | Tokyo |
 | Sat, 16 Jan 2027 | Panorama Studio | Ho Chi Minh City |
 | Fri, 22 Jan 2027 | Mirage | Hanoi |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
@@ -34,4 +36,4 @@ Oppidan is a garage and house artist based in United Kingdom, with 164 gigs on s
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

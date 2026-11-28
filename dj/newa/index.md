@@ -1,6 +1,6 @@
 # Newa
 
-Newa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
+Newa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Newa is a techno and house artist based in Georgia, with 142 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 26 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: RSO.BERLIN, Berlin on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Newa is a techno and house artist based in Georgia, with 142 gigs on soundcheck 
 
 Kancheli, Ndrx, Kvanchi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*

@@ -1,6 +1,6 @@
 # FEMMI
 
-FEMMI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
+FEMMI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Cause, London on Sat, 5 Dec 2026.
 
 FEMMI is a trance and techno artist based in Belgium, with 16 gigs on soundcheck across Antwerp, Brussels, Ghent and London. Often billed alongside AM.I, JIPSEY and Daan Schoonvliet. Next up: The Cause, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ FEMMI is a trance and techno artist based in Belgium, with 16 gigs on soundcheck
 
 AM.I, JIPSEY, Daan Schoonvliet
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femmi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femmi/)*

@@ -1,14 +1,15 @@
 # Ludviq
 
-Ludviq is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Freedonia, Barcelona on Sat, 28 Nov 2026.
+Ludviq is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Freedonia, Barcelona on Sat, 28 Nov 2026.
 
-Ludviq is a house and acid artist based in Mexico, with 66 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 5 more. Often billed alongside Heinech, sergione and Intruso. Next up: Freedonia, Barcelona on Sat 28 Nov.
+Ludviq is a house and acid artist based in Mexico, with 67 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 5 more. Often billed alongside Heinech, sergione and Intruso. Next up: Freedonia, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Freedonia | Barcelona |
+| Sat, 5 Dec 2026 | TBA | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ludviq is a house and acid artist based in Mexico, with 66 gigs on soundcheck ac
 
 Heinech, sergione, Intruso
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*

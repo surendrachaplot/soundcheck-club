@@ -1,6 +1,6 @@
 # Derrick May hosted by EAR\WAX at Q35 WAREHOUSE
 
-Derrick May hosted by EAR\WAX at Q35 WAREHOUSE on Sat 19 Dec, Turin. 1 artist: Derrick May. See the line-up on soundcheck.
+Derrick May hosted by EAR\WAX at Q35 WAREHOUSE on Sat 19 Dec, Turin. 1 artist: Derrick May. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

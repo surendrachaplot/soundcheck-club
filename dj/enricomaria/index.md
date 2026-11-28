@@ -1,6 +1,6 @@
 # Enrico Maria
 
-Enrico Maria is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Crew Bar Meta, Naples on Sun, 29 Nov 2026.
+Enrico Maria is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Crew Bar Meta, Naples on Sun, 29 Nov 2026.
 
 Enrico Maria is a house and tech house artist based in Italy, with 14 gigs on soundcheck across Barcelona and Naples. Often billed alongside Carlo Martino, Joshua (IT) and VNP. Next up: Crew Bar Meta, Naples on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Enrico Maria is a house and tech house artist based in Italy, with 14 gigs on so
 
 Carlo Martino, Joshua (IT), VNP
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricomaria/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricomaria/)*

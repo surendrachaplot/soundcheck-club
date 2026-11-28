@@ -1,6 +1,6 @@
 # e/tape
 
-e/tape is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
+e/tape is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
 
 e/tape is an ambient and experimental artist, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 9 more. Often billed alongside Francesco Del Garda, Melina Serser and O.BEE. Next up: KREUZWERK, Berlin on Sat 6 Feb.
 
@@ -26,4 +26,4 @@ e/tape is an ambient and experimental artist, with 32 gigs on soundcheck across 
 
 Francesco Del Garda, Melina Serser, O.BEE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etape/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etape/)*

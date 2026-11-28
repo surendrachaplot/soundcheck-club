@@ -1,6 +1,6 @@
 # Mihnea Rog
 
-Mihnea Rog is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 19 Dec 2026.
+Mihnea Rog is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Guesthouse, Bucharest on Sat, 19 Dec 2026.
 
 Mihnea Rog is a house and techno artist based in Romania, with 25 gigs on soundcheck across Bucharest, Greece, London and Milan and 2 more. Often billed alongside Cap, DumitrEscu and BILA. Next up: Club Guesthouse, Bucharest on Sat 19 Dec.
 
@@ -27,4 +27,4 @@ Mihnea Rog is a house and techno artist based in Romania, with 25 gigs on soundc
 
 Cap, DumitrEscu, BILA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*

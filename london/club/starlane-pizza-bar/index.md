@@ -1,14 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Law Abiding Citizen - Harold Heath & More" on Fri, 27 Nov 2026.
+Starlane Pizza Bar is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "U.K Hun? presents: DJ Perception b2b Sykik, Mystic Matt, DANCE PROTOCOL" on Sat, 28 Nov 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including 100hz, Analog Disease, Andrea Giudice and Brenen and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including 100hz, Analog Disease, Andrea Giudice and Brenen and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Law Abiding Citizen - Harold Heath & More |  |
 | Sat, 28 Nov 2026 | U.K Hun? presents: DJ Perception b2b Sykik, Mystic Matt, DANCE PROTOCOL | DANCE PROTOCOL, DJ Perception, Nicky Sahota |
 | Sat, 28 Nov 2026 | Auditory with Muster Men — Star Lane Pizza Bar | Brenen, Calla, Muster Men, Myles Apps, Rhys Dyer, Wilba |
 | Fri, 4 Dec 2026 | RED FOX x ROUND ABOUT w/ Terry Francis, Trixie & Dig This | Dig This, IZZY (UK), Luke Alexander, PR Department, Terry Francis, Too Raw, Trixie (UK) |
@@ -18,9 +17,10 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 13 upcoming 
 | Sat, 12 Dec 2026 | Communion Grooves | Liam Hibbert |
 | Fri, 18 Dec 2026 | Moodswing Records presents | DJ Perception, Dr. Zoot, Harry Luda, Jack Mensah, Jeremy Sylvester, Lady Passion |
 | Sat, 19 Dec 2026 | JFF vol.7 1st Anniversary 24h Marathon | Analog Disease, Bruno Schmidt, Darush, Desuba, Jayar, Matteo Manzini, Monterosso, Richard Gregory, Robin Ordell, Samir Chani, Save P, Timoti, Ughe, Willow |
+| Sat, 19 Dec 2026 | In The Canopy - 2nd Birthday  |  |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

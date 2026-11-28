@@ -1,6 +1,6 @@
 # SEIGI.
 
-SEIGI. is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Another Dimension, Tokyo on Sat, 13 Feb 2027.
+SEIGI. is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Another Dimension, Tokyo on Sat, 13 Feb 2027.
 
 SEIGI. is a hardcore and techno artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside HiroHiro, ATMK and Lance (JP). Next up: Another Dimension, Tokyo on Sat 13 Feb.
 
@@ -21,4 +21,4 @@ SEIGI. is a hardcore and techno artist based in Japan, with 5 gigs on soundcheck
 
 HiroHiro, ATMK, Lance (JP)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seigi./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seigi./)*

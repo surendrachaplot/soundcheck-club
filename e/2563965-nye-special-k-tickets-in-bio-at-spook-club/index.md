@@ -1,6 +1,6 @@
 # NYE Special-k (tickets in bio) at Spook Club
 
-NYE Special-k (tickets in bio) at Spook Club on Thu 31 Dec, Valencia. 18 artists: Blanch, Caballeri, Camiel Daamen and Elena Megi and 14 more. Minimal and Dub Techno. See the line-up on soundcheck.
+NYE Special-k (tickets in bio) at Spook Club on Thu 31 Dec, Valencia. 19 artists: Blanch, Caballeri, Camiel Daamen and Elena Megi and 15 more. Minimal and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ NYE Special-k (tickets in bio) at Spook Club on Thu 31 Dec, Valencia. 18 artists
 - Felipe Valenzuela
 - Fran.cis
 - KATIA (ES)
+- Koseki
 - Ladrillovitz
 - Lazystep
 - Not A Headliner

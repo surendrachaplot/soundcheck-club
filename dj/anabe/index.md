@@ -1,6 +1,6 @@
 # ANABE
 
-ANABE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+ANABE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 ANABE is a house and tech house artist based in New Zealand, with 4 gigs on soundcheck across Auckland. Often billed alongside Cameron Morris, Goldtooth and AROHA. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -20,4 +20,4 @@ ANABE is a house and tech house artist based in New Zealand, with 4 gigs on soun
 
 Cameron Morris, Goldtooth, AROHA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabe/)*

@@ -1,6 +1,6 @@
 # HAYATE
 
-HAYATE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Enter Shibuya, Tokyo on Mon, 30 Nov 2026.
+HAYATE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Enter Shibuya, Tokyo on Mon, 30 Nov 2026.
 
 HAYATE is a techno and house artist based in Japan, with 69 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside SOUND BRAIN, JUN INAGAWA and MoEPiKA. Next up: Enter Shibuya, Tokyo on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ HAYATE is a techno and house artist based in Japan, with 69 gigs on soundcheck a
 
 SOUND BRAIN, JUN INAGAWA, MoEPiKA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayate/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayate/)*

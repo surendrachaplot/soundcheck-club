@@ -1,6 +1,6 @@
 # nicop.exe
 
-nicop.exe is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Prisma, Berlin on Thu, 10 Dec 2026.
+nicop.exe is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Prisma, Berlin on Thu, 10 Dec 2026.
 
 nicop.exe is a techno artist based in Argentina, with 5 gigs on soundcheck across Barcelona and Berlin. Often billed alongside ALRHA, Störung and Babylon Whore. Next up: Prisma, Berlin on Thu 10 Dec.
 
@@ -21,4 +21,4 @@ nicop.exe is a techno artist based in Argentina, with 5 gigs on soundcheck acros
 
 ALRHA, Störung, Babylon Whore
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicop.exe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicop.exe/)*

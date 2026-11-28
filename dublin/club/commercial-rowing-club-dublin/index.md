@@ -1,6 +1,6 @@
 # Commercial Rowing Club Dublin
 
-Commercial Rowing Club Dublin is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Club Comfort Fur Convention 26'" on Fri, 18 Dec 2026.
+Commercial Rowing Club Dublin is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Club Comfort Fur Convention 26'" on Fri, 18 Dec 2026.
 
 Commercial Rowing Club Dublin is a music venue in Dublin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Longmeadows, Islandbridge, Dublin 8, D08 E9W6.
 
@@ -15,4 +15,4 @@ Commercial Rowing Club Dublin is a music venue in Dublin listed on soundcheck. 2
 
 Longmeadows, Islandbridge, Dublin 8, D08 E9W6, Dublin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/commercial-rowing-club-dublin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/commercial-rowing-club-dublin/)*

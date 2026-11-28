@@ -1,20 +1,20 @@
 # Dig This
 
-Dig This is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Hackney Wick - Secret Location, London on Fri, 27 Nov 2026.
+Dig This is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 4 Dec 2026.
 
-Dig This is a house and electro artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 9 more. Often billed alongside Ben Pugh, Aerofunk and Tarde Loco. Next up: TBA - Hackney Wick - Secret Location, London on Fri 27 Nov.
+Dig This is a house and electro artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 9 more. Often billed alongside Ben Pugh, Aerofunk and Tarde Loco. Next up: Starlane Pizza Bar, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TBA - Hackney Wick - Secret Location | London |
 | Fri, 4 Dec 2026 | Starlane Pizza Bar | London |
 | Thu, 31 Dec 2026 | Gaffe | London |
 | Fri, 29 Jan 2027 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
 
+- TBA - Hackney Wick - Secret Location, London · Fri, 27 Nov 2026
 - Eastern Bloc Records, Manchester · Fri, 6 Nov 2026
 - Eastern Bloc Records, Manchester · Fri, 25 Sept 2026
 - Amber's, Manchester · Sat, 1 Aug 2026
@@ -22,10 +22,9 @@ Dig This is a house and electro artist based in United Kingdom, with 73 gigs on 
 - Soup, Manchester · Fri, 26 Jun 2026
 - TBA, Los Angeles · Sat, 13 Jun 2026
 - MAD Radio NYC, New York City · Thu, 11 Jun 2026
-- Kapsule, Liverpool · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Ben Pugh, Aerofunk, Tarde Loco
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*

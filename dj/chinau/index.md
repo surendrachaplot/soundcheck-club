@@ -1,6 +1,6 @@
 # Chinau
 
-Chinau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
+Chinau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
 Chinau is a house and disco artist based in France, with 88 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and East and 8 more. Often billed alongside Larry G, Knuckle G and Dielli. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Chinau is a house and disco artist based in France, with 88 gigs on soundcheck a
 
 ## Recently played
 
+- Cabaret Sauvage, Paris · Fri, 27 Nov 2026
 - Sigurd CPH, Copenhagen · Sat, 21 Nov 2026
 - L'Ostra Club, East · Sat, 14 Nov 2026
 - La Java, Paris · Sat, 24 Oct 2026
@@ -19,10 +20,9 @@ Chinau is a house and disco artist based in France, with 88 gigs on soundcheck a
 - Djoon, Paris · Fri, 11 Sept 2026
 - Badaboum, Paris · Sat, 1 Aug 2026
 - Sacré, Paris · Fri, 26 Jun 2026
-- Djoon, Paris · Fri, 22 May 2026
 
 ## Shares bills with
 
 Larry G, Knuckle G, Dielli
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinau/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chinau/)*

@@ -1,6 +1,6 @@
 # Industry City
 
-Industry City is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "AGAPĒ WINTER FESTIVAL" on Fri, 19 Feb 2027.
+Industry City is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "AGAPĒ WINTER FESTIVAL" on Fri, 19 Feb 2027.
 
 Industry City is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Ben Klock, Cara Elizabeth, davyboi and Diossa and 2 more. See dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
 
@@ -14,4 +14,4 @@ Industry City is a music venue in New York City listed on soundcheck. 1 upcoming
 
 220 36th Street, Brooklyn, NY 11232, USA, New York City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*

@@ -1,6 +1,6 @@
 # Kader Grad Kodeljevo
 
-Kader Grad Kodeljevo is a music venue in Ljubljana with 1 upcoming gig listed on soundcheck as of Sat, 21 Nov 2026. The next is "Frekvenca x Diskölöka - Hangout" on Sat, 21 Nov 2026.
+Kader Grad Kodeljevo is a music venue in Ljubljana with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Vouk je Nazaj" on Thu, 31 Dec 2026.
 
 Kader Grad Kodeljevo is a music venue in Ljubljana listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Kader Grad Kodeljevo is a music venue in Ljubljana listed on soundcheck. 1 upcom
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Frekvenca x Diskölöka - Hangout |  |
+| Thu, 31 Dec 2026 | Vouk je Nazaj |  |
 
-*Updated Sat, 21 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/kader-grad-kodeljevo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/kader-grad-kodeljevo/)*

@@ -1,14 +1,13 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Cloudy is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
-Cloudy is a techno and trance artist based in Germany, with 271 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 76 more. Often billed alongside Adrian Mills, KUKO and Serafina. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Cloudy is a techno and trance artist based in Germany, with 271 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 76 more. Often billed alongside Adrian Mills, KUKO and Serafina. Next up: Fabrik, Madrid on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Thu, 10 Dec 2026 | Index | Dublin |
 | Fri, 11 Dec 2026 | The Telegraph Building | Belfast |
@@ -22,6 +21,7 @@ Cloudy is a techno and trance artist based in Germany, with 271 gigs on soundche
 
 ## Recently played
 
+- Ace*Mission, Los Angeles · Fri, 27 Nov 2026
 - Komplexo Tempo, Sao Paulo · Sat, 21 Nov 2026
 - Espacio Riesco Expo Centre, Santiago · Sat, 21 Nov 2026
 - Native Beach Club, Buenos Aires · Fri, 20 Nov 2026
@@ -29,10 +29,9 @@ Cloudy is a techno and trance artist based in Germany, with 271 gigs on soundche
 - Bernexpo Halle, Bern · Sat, 31 Oct 2026
 - Gotec, Karlsruhe · Fri, 30 Oct 2026
 - The Loft Amsterdam, Amsterdam · Sun, 25 Oct 2026
-- Afas Live, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Adrian Mills, KUKO, Serafina
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

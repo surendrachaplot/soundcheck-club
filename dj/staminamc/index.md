@@ -1,6 +1,6 @@
 # Stamina MC
 
-Stamina MC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
+Stamina MC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
 
 Stamina MC is a drum & bass and jungle artist based in United Kingdom, with 33 gigs on soundcheck across Adelaide, Bali, Birmingham and Brighton and 10 more. Often billed alongside Bryan Gee, DJ Marky and Shy FX. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Stamina MC is a drum & bass and jungle artist based in United Kingdom, with 33 g
 
 Bryan Gee, DJ Marky, Shy FX
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staminamc/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staminamc/)*

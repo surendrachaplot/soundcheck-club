@@ -1,6 +1,6 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Uber Eats Music Hall, Berlin on Sat, 28 Nov 2026.
+Schrotthagen is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Uber Eats Music Hall, Berlin on Sat, 28 Nov 2026.
 
 Schrotthagen is a techno and trance artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bavaria and 25 more. Often billed alongside A.N.I., PRADA2000 and Paraçek. Next up: Uber Eats Music Hall, Berlin on Sat 28 Nov.
 
@@ -32,4 +32,4 @@ Schrotthagen is a techno and trance artist based in Germany, with 68 gigs on sou
 
 A.N.I., PRADA2000, Paraçek
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

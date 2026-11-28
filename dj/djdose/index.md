@@ -1,6 +1,6 @@
 # DJ Dose
 
-DJ Dose is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Slot, Hamburg on Fri, 4 Dec 2026.
+DJ Dose is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Slot, Hamburg on Fri, 4 Dec 2026.
 
 DJ Dose is a tech house and techno artist, with 17 gigs on soundcheck across Hamburg, Leipzig and Nürnberg. Often billed alongside Antoine Baiser, Marco Baskind and face*. Next up: Slot, Hamburg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ Dose is a tech house and techno artist, with 17 gigs on soundcheck across Ham
 
 Antoine Baiser, Marco Baskind, face*
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdose/)*

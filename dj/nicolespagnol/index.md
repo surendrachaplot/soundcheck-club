@@ -1,14 +1,15 @@
 # Nicole Spagnol
 
-Nicole Spagnol is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat, 5 Dec 2026.
+Nicole Spagnol is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat, 5 Dec 2026.
 
-Nicole Spagnol is a house and tech house artist based in Brazil, with 45 gigs on soundcheck across Dublin and Galway. Often billed alongside Soulnezz, SOUZAC and Cam Roberts. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat 5 Dec.
+Nicole Spagnol is a house and tech house artist based in Brazil, with 46 gigs on soundcheck across Dublin and Galway. Often billed alongside Soulnezz, SOUZAC and Cam Roberts. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Bad Bobs (Rooftop Terrace), Temple Bar | Dublin |
+| Fri, 11 Dec 2026 | The Grand Social | Dublin |
 | Sat, 19 Dec 2026 | Pygmalion | Dublin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Nicole Spagnol is a house and tech house artist based in Brazil, with 45 gigs on
 
 Soulnezz, SOUZAC, Cam Roberts
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolespagnol/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolespagnol/)*

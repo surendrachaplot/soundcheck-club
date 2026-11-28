@@ -1,6 +1,6 @@
 # TECHNODOLL
 
-TECHNODOLL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cruise Gallery, Minneapolis/St Paul on Fri, 11 Dec 2026.
+TECHNODOLL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cruise Gallery, Minneapolis/St Paul on Fri, 11 Dec 2026.
 
 TECHNODOLL is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Minneapolis/St Paul. Often billed alongside Jamila, DJ Eve and Dazzle. Next up: Cruise Gallery, Minneapolis/St Paul on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ TECHNODOLL is a techno and house artist based in United States of America, with 
 
 Jamila, DJ Eve, Dazzle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technodoll/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technodoll/)*

@@ -1,6 +1,6 @@
 # Clock Factory
 
-Clock Factory is a music venue in Bristol with 18 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sigma presents: Country Greaze" on Sat, 28 Nov 2026.
+Clock Factory is a music venue in Bristol with 18 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sigma presents: Country Greaze" on Sat, 28 Nov 2026.
 
 Clock Factory is a music venue in Bristol listed on soundcheck. 18 upcoming gigs, with line-ups including Amelia Leigh, Black Eye, Carasel and Culprate and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -23,4 +23,4 @@ Clock Factory is a music venue in Bristol listed on soundcheck. 18 upcoming gigs
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/clock-factory/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/clock-factory/)*

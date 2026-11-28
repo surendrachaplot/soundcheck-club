@@ -1,6 +1,6 @@
 # Norris Da Boss Windross
 
-Norris Da Boss Windross is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Hotel, Manchester on Sun, 27 Dec 2026.
+Norris Da Boss Windross is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The White Hotel, Manchester on Sun, 27 Dec 2026.
 
 Norris Da Boss Windross is a house and garage artist based in United Kingdom, with 21 gigs on soundcheck across London and Manchester. Often billed alongside MC Creed, DJ Listener and MC DT. Next up: The White Hotel, Manchester on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Norris Da Boss Windross is a house and garage artist based in United Kingdom, wi
 
 MC Creed, DJ Listener, MC DT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norrisdabosswindross/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norrisdabosswindross/)*

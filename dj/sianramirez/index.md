@@ -1,6 +1,6 @@
 # Sian Ramirez
 
-Sian Ramirez is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
+Sian Ramirez is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 20 Feb 2027.
 
 Sian Ramirez is a techno and psytrance artist based in Australia, with 15 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Gwyn, Shepz and VORPAL. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Sian Ramirez is a techno and psytrance artist based in Australia, with 15 gigs o
 
 Gwyn, Shepz, VORPAL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sianramirez/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sianramirez/)*

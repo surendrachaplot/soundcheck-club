@@ -1,14 +1,13 @@
 # Félicie
 
-Félicie is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
+Félicie is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
 
-Félicie is a techno and industrial artist based in Netherlands, with 118 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Cleric, Daria Kolosova and KlangKuenstler. Next up: Liquid Club, Malta on Fri 27 Nov.
+Félicie is a techno and industrial artist based in Netherlands, with 118 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Cleric, Daria Kolosova and KlangKuenstler. Next up: MUENZE, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Liquid Club | Malta |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 5 Dec 2026 | Barraca | Valencia |
 | Sat, 12 Dec 2026 | Valsemøllen | Bergen |
@@ -17,6 +16,7 @@ Félicie is a techno and industrial artist based in Netherlands, with 118 gigs o
 
 ## Recently played
 
+- Liquid Club, Malta · Fri, 27 Nov 2026
 - The Bassement, Madrid · Fri, 20 Nov 2026
 - Forge, Bucharest · Sat, 7 Nov 2026
 - Warehouse Elementenstraat, Amsterdam · Sun, 25 Oct 2026
@@ -24,10 +24,9 @@ Félicie is a techno and industrial artist based in Netherlands, with 118 gigs o
 - Zenith - Die Kulturhalle, Munich · Sat, 12 Sept 2026
 - Estância Alto da Serra, Sao Paulo · Sat, 22 Aug 2026
 - Zürichsee, Zurich · Sat, 8 Aug 2026
-- Life Park, Istanbul · Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Cleric, Daria Kolosova, KlangKuenstler
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*

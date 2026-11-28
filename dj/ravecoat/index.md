@@ -1,6 +1,6 @@
 # ravecoat
 
-ravecoat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Alphaville, New York City on Sat, 19 Dec 2026.
+ravecoat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Alphaville, New York City on Sat, 19 Dec 2026.
 
 ravecoat is a house and techno artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside measuring cups, KT//GRL and dj onetwo. Next up: Alphaville, New York City on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ ravecoat is a house and techno artist based in United States of America, with 8 
 
 measuring cups, KT//GRL, dj onetwo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravecoat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravecoat/)*

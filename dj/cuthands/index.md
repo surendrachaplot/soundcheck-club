@@ -1,6 +1,6 @@
 # Cut Hands
 
-Cut Hands is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 4 Dec 2026.
+Cut Hands is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 4 Dec 2026.
 
 Cut Hands is an electronic artist based in United Kingdom, with 4 gigs on soundcheck across Barcelona, Budapest, Lisbon and Vienna. Often billed alongside Curbside Lambsear, Mika Oki and RNXRX. Next up: Lux Fragil, Lisbon on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Cut Hands is an electronic artist based in United Kingdom, with 4 gigs on soundc
 
 Curbside Lambsear, Mika Oki, RNXRX
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuthands/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cuthands/)*

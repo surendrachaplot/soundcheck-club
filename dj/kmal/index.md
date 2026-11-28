@@ -1,6 +1,6 @@
 # K.mal
 
-K.mal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jupiter Disco, New York City on Fri, 11 Dec 2026.
+K.mal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Jupiter Disco, New York City on Fri, 11 Dec 2026.
 
 K.mal is a house and techno artist based in United States of America, with 14 gigs on soundcheck across London and New York City. Often billed alongside DJ Fang, Quantreau and D.D. Curry. Next up: Jupiter Disco, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ K.mal is a house and techno artist based in United States of America, with 14 gi
 
 DJ Fang, Quantreau, D.D. Curry
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmal/)*

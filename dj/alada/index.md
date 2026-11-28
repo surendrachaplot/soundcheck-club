@@ -1,6 +1,6 @@
 # Alada
 
-Alada is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 90mil, Berlin on Sat, 5 Dec 2026.
+Alada is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 90mil, Berlin on Sat, 5 Dec 2026.
 
 Alada is a techno and bass artist, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside XD Erica, Slim Soledad and Dj Saliva. Next up: 90mil, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Alada is a techno and bass artist, with 40 gigs on soundcheck across Amsterdam, 
 
 XD Erica, Slim Soledad, Dj Saliva
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alada/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alada/)*

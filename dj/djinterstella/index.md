@@ -1,6 +1,6 @@
 # DJ Interstella
 
-DJ Interstella is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
+DJ Interstella is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - SECRET LOCATION, Hannover on Fri, 25 Dec 2026.
 
 DJ Interstella is a house and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Dresden, Hannover and Leipzig. Often billed alongside Brandyy, Session Restore and dxrvo. Next up: TBA - SECRET LOCATION, Hannover on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ DJ Interstella is a house and techno artist based in Germany, with 16 gigs on so
 
 Brandyy, Session Restore, dxrvo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djinterstella/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djinterstella/)*

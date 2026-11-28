@@ -1,8 +1,8 @@
 # Courtney Bailey
 
-Courtney Bailey is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Solace, Melbourne on Sat, 28 Nov 2026.
+Courtney Bailey is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Solace, Melbourne on Sat, 28 Nov 2026.
 
-Courtney Bailey is a house and techno artist based in Japan, with 86 gigs on soundcheck across Amsterdam, Bali, Berlin and Boston and 19 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: Solace, Melbourne on Sat 28 Nov.
+Courtney Bailey is a house and techno artist based in Japan, with 87 gigs on soundcheck across Amsterdam, Bali, Berlin and Boston and 20 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: Solace, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Courtney Bailey is a house and techno artist based in Japan, with 86 gigs on sou
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Solace | Melbourne |
 | Sat, 12 Dec 2026 | Yulli's Brews | Sydney |
+| Thu, 31 Dec 2026 | TBA - Dailes Theatre | Latvia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Courtney Bailey is a house and techno artist based in Japan, with 86 gigs on sou
 
 Tornado Wallace, FFAN, Sound Metaphors Djs
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*

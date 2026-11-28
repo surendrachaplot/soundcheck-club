@@ -1,6 +1,6 @@
 # Fengshui
 
-Fengshui is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
+Fengshui is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
 
 Fengshui is a techno and club artist based in China, with 45 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside Warmchainss, BetaLava and Nebulae. Next up: OIL Club, Shenzhen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Fengshui is a techno and club artist based in China, with 45 gigs on soundcheck 
 
 Warmchainss, BetaLava, Nebulae
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fengshui/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fengshui/)*

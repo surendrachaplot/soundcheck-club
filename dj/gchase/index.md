@@ -1,6 +1,6 @@
 # G CHASE
 
-G CHASE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 93 Feet East, London on Thu, 31 Dec 2026.
+G CHASE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 93 Feet East, London on Thu, 31 Dec 2026.
 
 G CHASE is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, London and Malta. Often billed alongside Mazos, HARTY and Gracey Grey. Next up: 93 Feet East, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ G CHASE is a house and tech house artist based in United Kingdom, with 14 gigs o
 
 Mazos, HARTY, Gracey Grey
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gchase/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gchase/)*

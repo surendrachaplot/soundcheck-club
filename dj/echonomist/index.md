@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dojo Boutique Club, Budapest on Sat, 28 Nov 2026.
+Echonomist is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Dojo Boutique Club, Budapest on Sat, 28 Nov 2026.
 
 Echonomist is a house and techno artist based in Greece, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside Jenia Tarsol, Denis Horvat and Avangart Tabldot. Next up: Dojo Boutique Club, Budapest on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Echonomist is a house and techno artist based in Greece, with 152 gigs on soundc
 
 Jenia Tarsol, Denis Horvat, Avangart Tabldot
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

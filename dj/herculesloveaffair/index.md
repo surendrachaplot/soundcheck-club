@@ -1,13 +1,14 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Palais Mascotte, Zurich on Sat, 19 Dec 2026.
+Hercules & Love Affair is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ZeyZey, Miami on Thu, 3 Dec 2026.
 
-Hercules & Love Affair are a house and disco duo based in United States of America, with 80 gigs on soundcheck across Athens, Atlanta, Bali and Bangkok and 38 more. Often billed alongside HAAi, COBRAH and Horse Meat Disco. Next up: Palais Mascotte, Zurich on Sat 19 Dec.
+Hercules & Love Affair are a house and disco duo based in United States of America, with 81 gigs on soundcheck across Athens, Atlanta, Bali and Bangkok and 38 more. Often billed alongside HAAi, COBRAH and Horse Meat Disco. Next up: ZeyZey, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | ZeyZey | Miami |
 | Sat, 19 Dec 2026 | Palais Mascotte | Zurich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hercules & Love Affair are a house and disco duo based in United States of Ameri
 
 HAAi, COBRAH, Horse Meat Disco
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*

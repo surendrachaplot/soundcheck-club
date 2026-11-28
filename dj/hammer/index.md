@@ -1,6 +1,6 @@
 # Hammer
 
-Hammer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Vista, Mexico City on Wed, 25 Nov 2026.
+Hammer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at La Vista, Mexico City on Wed, 25 Nov 2026.
 
 Hammer is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, Belfast, Boston and Brisbane and 17 more. Often billed alongside Bicep, CAOIMHE and Colin Perkins. Next up: La Vista, Mexico City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Hammer is a house and techno artist based in United Kingdom, with 62 gigs on sou
 
 Bicep, CAOIMHE, Colin Perkins
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*

@@ -1,6 +1,6 @@
 # Tsukuyomi
 
-Tsukuyomi is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KHIDI, Tbilisi on Sat, 12 Dec 2026.
+Tsukuyomi is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at KHIDI, Tbilisi on Sat, 12 Dec 2026.
 
 Tsukuyomi is a techno and drum & bass artist based in Georgia, with 26 gigs on soundcheck across Ljubljana, Prague and Tbilisi. Often billed alongside Boyd Schidt, MSTN and Lilith.. Next up: KHIDI, Tbilisi on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Tsukuyomi is a techno and drum & bass artist based in Georgia, with 26 gigs on s
 
 Boyd Schidt, MSTN, Lilith.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsukuyomi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsukuyomi/)*

@@ -1,6 +1,6 @@
 # Peter Paasch
 
-Peter Paasch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hafenklang, Hamburg on Sat, 5 Dec 2026.
+Peter Paasch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hafenklang, Hamburg on Sat, 5 Dec 2026.
 
 Peter Paasch is a house and tech house artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Antoine Baiser, Barabass and Marco Baskind. Next up: Hafenklang, Hamburg on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Peter Paasch is a house and tech house artist based in Germany, with 8 gigs on s
 
 Antoine Baiser, Barabass, Marco Baskind
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpaasch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpaasch/)*

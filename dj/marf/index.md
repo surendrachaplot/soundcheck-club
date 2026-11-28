@@ -1,6 +1,6 @@
 # Marf
 
-Marf is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Casa Amante Club, Madrid on Mon, 7 Dec 2026.
+Marf is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Casa Amante Club, Madrid on Mon, 7 Dec 2026.
 
 Marf is a house and tech house artist based in Spain, with 20 gigs on soundcheck across Madrid. Often billed alongside Guidomik, Tucu (Tucu) and Andrés Mokk. Next up: Casa Amante Club, Madrid on Mon 7 Dec.
 
@@ -26,4 +26,4 @@ Marf is a house and tech house artist based in Spain, with 20 gigs on soundcheck
 
 Guidomik, Tucu (Tucu), Andrés Mokk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marf/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marf/)*

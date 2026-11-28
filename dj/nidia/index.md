@@ -1,6 +1,6 @@
 # Nídia
 
-Nídia is a Kuduro and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M.O.T, London on Sun, 29 Nov 2026.
+Nídia is a Kuduro and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M.O.T, London on Sun, 29 Nov 2026.
 
 Nídia is a kuduro and experimental artist based in France, with 68 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Baltimore and 20 more. Often billed alongside DJ Firmeza, DJ Marfox and Valentina Magaletti. Next up: M.O.T, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Nídia is a kuduro and experimental artist based in France, with 68 gigs on soun
 
 DJ Firmeza, DJ Marfox, Valentina Magaletti
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*

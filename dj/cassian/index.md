@@ -1,6 +1,6 @@
 # Cassian
 
-Cassian is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Cassian is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
 Cassian is a techno and house artist based in Australia, with 150 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 41 more. Often billed alongside Tale Of Us, Kevin de Vries and Mathame. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Cassian is a techno and house artist based in Australia, with 150 gigs on soundc
 
 Tale Of Us, Kevin de Vries, Mathame
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*

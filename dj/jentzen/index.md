@@ -1,6 +1,6 @@
 # Jentzen
 
-Jentzen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at XOYO, London on Fri, 1 Jan 2027.
+Jentzen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at XOYO, London on Fri, 1 Jan 2027.
 
 Jentzen is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Bristol, Glasgow and Ibiza and 6 more. Often billed alongside Josh Baker, Local Dub and Paddy Lee. Next up: XOYO, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Jentzen is a house and tech house artist based in United Kingdom, with 40 gigs o
 
 Josh Baker, Local Dub, Paddy Lee
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jentzen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jentzen/)*

@@ -1,6 +1,6 @@
 # Conor Brophy
 
-Conor Brophy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 12 Dec 2026.
+Conor Brophy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Waterhouse Studios, Amsterdam on Sat, 12 Dec 2026.
 
 Conor Brophy is a house and techno artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside Jorge Gamarra, Ika (GE) and Max TA. Next up: Waterhouse Studios, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Conor Brophy is a house and techno artist based in United Kingdom, with 33 gigs 
 
 Jorge Gamarra, Ika (GE), Max TA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conorbrophy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conorbrophy/)*

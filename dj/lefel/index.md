@@ -1,6 +1,6 @@
 # Lefel
 
-Lefel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
+Lefel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
 
 Lefel is a house and minimal artist based in Colombia, with 31 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Salvador Hören, Hören and incipiens. Next up: Yolo Hostel, Medellin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Lefel is a house and minimal artist based in Colombia, with 31 gigs on soundchec
 
 Salvador Hören, Hören, incipiens
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefel/)*

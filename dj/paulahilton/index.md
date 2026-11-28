@@ -1,8 +1,8 @@
 # Paula Hilton
 
-Paula Hilton is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cassiopeia, Berlin on Sat, 28 Nov 2026.
+Paula Hilton is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cassiopeia, Berlin on Sat, 28 Nov 2026.
 
-Paula Hilton is a techno and house artist based in Germany, with 99 gigs on soundcheck across Bangkok, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Ele Luz, Sabura and Leon Licht. Next up: Cassiopeia, Berlin on Sat 28 Nov.
+Paula Hilton is a techno and house artist based in Germany, with 100 gigs on soundcheck across Bangkok, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Ele Luz, Sabura and Leon Licht. Next up: Cassiopeia, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paula Hilton is a techno and house artist based in Germany, with 99 gigs on soun
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Cassiopeia | Berlin |
 | Fri, 4 Dec 2026 | KitKatClub | Berlin |
+| Sat, 26 Dec 2026 | Insomnia | Berlin |
 | Sat, 13 Feb 2027 | Z-Bau | Nürnberg |
 
 ## Recently played
@@ -27,4 +28,4 @@ Paula Hilton is a techno and house artist based in Germany, with 99 gigs on soun
 
 Ele Luz, Sabura, Leon Licht
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahilton/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahilton/)*

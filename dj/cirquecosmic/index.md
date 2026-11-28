@@ -1,6 +1,6 @@
 # Cirque Cosmic
 
-Cirque Cosmic is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Sat, 19 Dec 2026.
+Cirque Cosmic is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Salon Daomé, Montreal on Sat, 19 Dec 2026.
 
 Cirque Cosmic is a house and tech house artist based in Canada, with 23 gigs on soundcheck across Montreal, New York City and Quebec City. Often billed alongside Flleur, Badgalquirit and Bodegaparty. Next up: Salon Daomé, Montreal on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Cirque Cosmic is a house and tech house artist based in Canada, with 23 gigs on 
 
 Flleur, Badgalquirit, Bodegaparty
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*

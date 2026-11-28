@@ -1,6 +1,6 @@
 # Lorenzo Mancino
 
-Lorenzo Mancino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 9 Dec 2026.
+Lorenzo Mancino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 9 Dec 2026.
 
 Lorenzo Mancino is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Kim Valmount, ISHAPE and Ponygirl. Next up: Lokschuppen Berlin, Berlin on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Lorenzo Mancino is a techno and trance artist based in Germany, with 22 gigs on 
 
 Kim Valmount, ISHAPE, Ponygirl
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomancino/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomancino/)*

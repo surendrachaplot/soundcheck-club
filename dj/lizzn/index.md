@@ -1,6 +1,6 @@
 # LIZZN
 
-LIZZN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Cassiopeia, Berlin on Sat, 28 Nov 2026.
+LIZZN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Cassiopeia, Berlin on Sat, 28 Nov 2026.
 
 LIZZN is a house and techno artist based in Germany, with 86 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 6 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: Cassiopeia, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ LIZZN is a house and techno artist based in Germany, with 86 gigs on soundcheck 
 
 Ana Cover, Ligal Tamir, justUS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*

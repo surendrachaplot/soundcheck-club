@@ -1,6 +1,6 @@
 # Carmen Baía
 
-Carmen Baía is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 9 Dec 2026.
+Carmen Baía is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 9 Dec 2026.
 
 Carmen Baía is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Jamie Gunn, Robbie and T.D. Slider. Next up: The Berkeley Suite, Glasgow on Wed 9 Dec.
 
@@ -26,4 +26,4 @@ Carmen Baía is a house and techno artist based in United Kingdom, with 86 gigs 
 
 Jamie Gunn, Robbie, T.D. Slider
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*

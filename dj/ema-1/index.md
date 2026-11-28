@@ -1,6 +1,6 @@
 # EMA (1)
 
-EMA (1) is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 28 Nov 2026.
+EMA (1) is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 28 Nov 2026.
 
 EMA is a bass and techno artist based in Ireland, with 120 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 33 more. Often billed alongside Darwin, Beatrice M. and Mia Koden. Next up: Yamamori Tengu, Dublin on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ EMA is a bass and techno artist based in Ireland, with 120 gigs on soundcheck ac
 
 Darwin, Beatrice M., Mia Koden
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ema-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ema-1/)*

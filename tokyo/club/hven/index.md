@@ -1,6 +1,6 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Popoff Kitchen MAKANAI まかない" on Sat, 28 Nov 2026.
+HVEN is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Popoff Kitchen MAKANAI まかない" on Sat, 28 Nov 2026.
 
 HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including DSKE, Kikiorix, Kirill Shapovalov and Masaya and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
@@ -20,4 +20,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

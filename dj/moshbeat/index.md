@@ -1,6 +1,6 @@
 # MOSHBEAT
 
-MOSHBEAT is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 2ten, Athens on Sat, 28 Nov 2026.
+MOSHBEAT is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 2ten, Athens on Sat, 28 Nov 2026.
 
 MOSHBEAT is a techno and acid artist based in Greece, with 83 gigs on soundcheck across Athens and Berlin. Often billed alongside Plagger, TYPEO and Human Cruelty. Next up: 2ten, Athens on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MOSHBEAT is a techno and acid artist based in Greece, with 83 gigs on soundcheck
 
 Plagger, TYPEO (3), Human Cruelty
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moshbeat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moshbeat/)*

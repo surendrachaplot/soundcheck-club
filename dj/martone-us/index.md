@@ -1,6 +1,6 @@
 # Martone (US)
 
-Martone (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Raven Tower, Houston on Sat, 28 Nov 2026.
+Martone (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Raven Tower, Houston on Sat, 28 Nov 2026.
 
 Martone (US) is a techno and house artist, with 9 gigs on soundcheck across Dallas/Fort Worth and Houston. Often billed alongside BL/6, Truncate and Angelo V.. Next up: TBA - Raven Tower, Houston on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Martone (US) is a techno and house artist, with 9 gigs on soundcheck across Dall
 
 BL/6, Truncate, Angelo V.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martone-us/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martone-us/)*

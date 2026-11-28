@@ -1,6 +1,6 @@
 # esarneri
 
-esarneri is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 16 Dec 2026.
+esarneri is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 16 Dec 2026.
 
 esarneri is a house artist, with 4 gigs on soundcheck across Milan, Paris, Rio de Janeiro and Tokyo. Often billed alongside Bästos (FR). Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 16 Dec.
 
@@ -20,4 +20,4 @@ esarneri is a house artist, with 4 gigs on soundcheck across Milan, Paris, Rio d
 
 Bästos (FR)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esarneri/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esarneri/)*

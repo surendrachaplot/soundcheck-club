@@ -1,6 +1,6 @@
 # Luke Howard
 
-Luke Howard is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 26 Dec 2026.
+Luke Howard is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 26 Dec 2026.
 
 Luke Howard is a disco and house artist, with 41 gigs on soundcheck across Berlin, Bristol, Lisbon and London and 2 more. Often billed alongside Horse Meat Disco, James Hillard and Severino. Next up: Lux Fragil, Lisbon on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Luke Howard is a disco and house artist, with 41 gigs on soundcheck across Berli
 
 Horse Meat Disco, James Hillard, Severino
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehoward/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehoward/)*

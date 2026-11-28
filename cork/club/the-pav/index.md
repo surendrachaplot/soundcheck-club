@@ -1,6 +1,6 @@
 # The Pav
 
-The Pav is a music venue in Cork with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "EndUp" on Fri, 4 Dec 2026.
+The Pav is a music venue in Cork with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "EndUp" on Fri, 4 Dec 2026.
 
 The Pav is a music venue in Cork listed on soundcheck. 2 upcoming gigs, with line-ups including BONZ. See dates, start times and who's playing. 13 Carey's Lane, Cork.
 
@@ -15,4 +15,4 @@ The Pav is a music venue in Cork listed on soundcheck. 2 upcoming gigs, with lin
 
 13 Carey's Lane, Cork, Cork
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cork/club/the-pav/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/cork/club/the-pav/)*

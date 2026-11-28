@@ -1,6 +1,6 @@
 # Duane Powell
 
-Duane Powell is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Nocturne, Chicago on Sat, 12 Dec 2026.
+Duane Powell is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Nocturne, Chicago on Sat, 12 Dec 2026.
 
 Duane Powell is a deep house and house artist based in United States of America, with 39 gigs on soundcheck across Chicago, Detroit, New York City and Washington DC. Often billed alongside Quicktastic, Terry Hunter and Adorio. Next up: Le Nocturne, Chicago on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Duane Powell is a deep house and house artist based in United States of America,
 
 Quicktastic, Terry Hunter, Adorio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duanepowell/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duanepowell/)*

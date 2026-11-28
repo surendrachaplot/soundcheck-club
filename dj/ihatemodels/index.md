@@ -1,14 +1,13 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+I Hate Models is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Kompass Klub, Ghent on Sat, 28 Nov 2026.
 
-I Hate Models is a techno and house artist based in France, with 334 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 96 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: TBA, Buenos Aires on Fri 20 Nov.
+I Hate Models is a techno and house artist based in France, with 334 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 96 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: Kompass Klub, Ghent on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 28 Nov 2026 | Kompass Klub | Ghent |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Fri, 4 Dec 2026 | Tap1 | Copenhagen |
@@ -20,6 +19,7 @@ I Hate Models is a techno and house artist based in France, with 334 gigs on sou
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
+| Fri, 19 Mar 2027 | Barclays | Thuringia |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist based in France, with 334 gigs on sou
 
 999999999, Nico Moreno, Charlie Sparks
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

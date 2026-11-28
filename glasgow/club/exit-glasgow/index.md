@@ -1,14 +1,13 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Elegia X EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay" on Fri, 27 Nov 2026.
+EXIT Glasgow is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "EXIT CLUB" on Sat, 28 Nov 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 3rdcrush, Adrian Skiba, Angel Negrin and Bake and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including 3rdcrush, Adrian Skiba, Angel Negrin and Bake and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Elegia X EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay | Conor Thomas, Faux Naif, JayJay, Veronica Vasicka |
 | Sat, 28 Nov 2026 | EXIT CLUB | 3rdcrush, Gloria Rose, HUNTRESS |
 | Thu, 3 Dec 2026 | Supertouch 7-11 w/ K Wata [live], Vague Pure Affection [live], 3rdcrush[dj] + performances | 3rdcrush, K Wata |
 | Fri, 4 Dec 2026 | $HOTTA RAVE | KD22LR, Nusheen, Tom Boogizm |
@@ -18,9 +17,10 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs,
 | Fri, 18 Dec 2026 | Luna Roja with Adrian Skiba, LAZLO, iluna, Ángel Negrín & hubey | Adrian Skiba, Angel Negrin, LAZLO, hubey, iluna |
 | Sat, 19 Dec 2026 | Never Forever presents: Skee Mask + C-Frame & Feena + Residents  | C Frame, Feena, Skee Mask |
 | Thu, 31 Dec 2026 | EXIT CLUB: Hogmanay |  |
+| Fri, 1 Jan 2027 | EXIT x HEALTHY New Years Day |  |
 
 ## Address
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

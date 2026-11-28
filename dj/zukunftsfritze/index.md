@@ -1,6 +1,6 @@
 # Zukunftsfritze
 
-Zukunftsfritze is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 4 Dec 2026.
+Zukunftsfritze is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 4 Dec 2026.
 
 Zukunftsfritze is a trance and techno artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside MILANCHOLIE, DJ Jetset and senaitstar. Next up: Humboldthain Club, Berlin on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Zukunftsfritze is a trance and techno artist based in Germany, with 23 gigs on s
 
 MILANCHOLIE, DJ Jetset, senaitstar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zukunftsfritze/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zukunftsfritze/)*

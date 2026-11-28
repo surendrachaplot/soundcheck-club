@@ -1,6 +1,6 @@
 # John Paynter
 
-John Paynter is a Acid and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sat, 12 Dec 2026.
+John Paynter is a Acid and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sat, 12 Dec 2026.
 
 John Paynter is an acid and downtempo artist based in United Kingdom, with 64 gigs on soundcheck across Birmingham, Glasgow, Ibiza and Leeds and 3 more. Often billed alongside Roya Brehl, Electric Gigi and Andrew Devine. Next up: Outlaws Yacht Club, Leeds on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ John Paynter is an acid and downtempo artist based in United Kingdom, with 64 gi
 
 Roya Brehl, Electric Gigi, Andrew Devine
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnpaynter/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnpaynter/)*

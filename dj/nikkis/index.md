@@ -1,14 +1,15 @@
 # Nikki S
 
-Nikki S is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Basing House, London on Sat, 19 Dec 2026.
+Nikki S is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Basing House, London on Sat, 19 Dec 2026.
 
-Nikki S is a psytrance and techno artist based in Australia, with 11 gigs on soundcheck across Auckland, London, Manchester and Sheffield and 1 more. Often billed alongside FlibbertiGibbet, Psibindi and DoubKore. Next up: Basing House, London on Sat 19 Dec.
+Nikki S is a psytrance and techno artist based in Australia, with 12 gigs on soundcheck across Auckland, London, Manchester and Sheffield and 1 more. Often billed alongside DoubKore, FlibbertiGibbet and Psibindi. Next up: Basing House, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Basing House | London |
+| Sat, 27 Feb 2027 | Distillery N17 | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nikki S is a psytrance and techno artist based in Australia, with 11 gigs on sou
 
 ## Shares bills with
 
-FlibbertiGibbet, Psibindi, DoubKore
+DoubKore, FlibbertiGibbet, Psibindi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkis/)*

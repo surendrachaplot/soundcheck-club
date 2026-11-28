@@ -1,14 +1,15 @@
 # K Wata
 
-K Wata is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at EXIT Glasgow, Glasgow on Thu, 3 Dec 2026.
+K Wata is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at EXIT Glasgow, Glasgow on Thu, 3 Dec 2026.
 
-K Wata is a techno and bass artist based in United States of America, with 72 gigs on soundcheck across Barcelona, Beijing, Central and Chengdu and 22 more. Often billed alongside Enayet, Simisea and rrao. Next up: EXIT Glasgow, Glasgow on Thu 3 Dec.
+K Wata is a techno and bass artist based in United States of America, with 73 gigs on soundcheck across Barcelona, Beijing, Central and Chengdu and 23 more. Often billed alongside Enayet, Simisea and rrao. Next up: EXIT Glasgow, Glasgow on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | EXIT Glasgow | Glasgow |
+| Fri, 4 Dec 2026 | Jolene | Copenhagen |
 | Fri, 11 Dec 2026 | Casabanchel | Madrid |
 | Sat, 12 Dec 2026 | Razzmatazz | Barcelona |
 
@@ -27,4 +28,4 @@ K Wata is a techno and bass artist based in United States of America, with 72 gi
 
 Enayet, Simisea, rrao
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*

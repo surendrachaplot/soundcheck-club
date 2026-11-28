@@ -1,6 +1,6 @@
 # Nova SD
 
-Nova SD is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Timmy Trumpet" on Thu, 31 Dec 2026.
+Nova SD is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Timmy Trumpet" on Thu, 31 Dec 2026.
 
 Nova SD is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, with line-ups including hhunter, Kayzo and Maddix. See dates, start times and who's playing. 454 Sixth Ave, San Diego, CA 92101.
 
@@ -19,4 +19,4 @@ Nova SD is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, wit
 
 454 Sixth Ave, San Diego, CA 92101, San Diego
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/nova-sd/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/nova-sd/)*

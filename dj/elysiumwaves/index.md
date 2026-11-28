@@ -1,6 +1,6 @@
 # Elysium Waves
 
-Elysium Waves is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Cellar, London on Fri, 18 Dec 2026.
+Elysium Waves is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cellar, London on Fri, 18 Dec 2026.
 
 Elysium Waves is a house and techno artist based in Greece, with 4 gigs on soundcheck across London. Often billed alongside Collin Tusk, DDERHAM and De La Reef. Next up: Cellar, London on Fri 18 Dec.
 
@@ -20,4 +20,4 @@ Elysium Waves is a house and techno artist based in Greece, with 4 gigs on sound
 
 Collin Tusk, DDERHAM, De La Reef
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elysiumwaves/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elysiumwaves/)*

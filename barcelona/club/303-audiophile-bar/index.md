@@ -1,14 +1,13 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "303 pres Mihai Pol - Bttologic - Vennegur" on Fri, 27 Nov 2026.
+303 Audiophile Bar is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Taunt x Oblivium at 303" on Sat, 28 Nov 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Alex Garcia, Alice Caroline, Andrea Love and Andre Buljat and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Garcia, Alice Caroline, Andrea Love and Andre Buljat and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | 303 pres Mihai Pol - Bttologic - Vennegur | Bttologic, Mihai Pol, Vennegur |
 | Sat, 28 Nov 2026 | Taunt x Oblivium at 303 | MO-OB, Nathan Godro, Nicola Brusegan |
 | Thu, 3 Dec 2026 | Just Modular at 303 | Bill Hates, Blanali, LIESPANA, Selten, Yalu |
 | Fri, 4 Dec 2026 | HAAS Records showcase at 303 | Andrea Love, Downtown Sai, Max Haas |
@@ -18,9 +17,10 @@
 | Fri, 11 Dec 2026 | Tonomat Records Showcase pres Dragos Ilici & Prichindel at 303 | Dragos Ilici, Prichindel |
 | Sat, 12 Dec 2026 | 303 pres. DELASFLORES - CMYK - Vince Void - Alex Garcia | Alex Garcia (2), CMYK, DELASFLORES, Vince Void |
 | Fri, 18 Dec 2026 | El Bassline pres. Silat Beksi & PiNG at 303 | John Karam, PiNG (UK), Silat Beksi |
+| Sat, 19 Dec 2026 | Mirador invite Récré à son at 303 |  |
 
 ## Address
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

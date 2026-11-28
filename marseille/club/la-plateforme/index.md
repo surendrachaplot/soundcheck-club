@@ -1,6 +1,6 @@
 # La Plateforme
 
-La Plateforme is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Le Block - Schlass All Night Long" on Sat, 28 Nov 2026.
+La Plateforme is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Le Block - Schlass All Night Long" on Sat, 28 Nov 2026.
 
 La Plateforme is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, with line-ups including BenzØ, Wolk and William Luck. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ La Plateforme is a music venue in Marseille listed on soundcheck. 3 upcoming gig
 | Thu, 31 Dec 2026 | PH4 Records présente NO ESCAPE NYE THE GRAND FINAL | BenzØ, Wolk |
 | Sat, 9 Jan 2027 | 2359 | William Luck |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-plateforme/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-plateforme/)*

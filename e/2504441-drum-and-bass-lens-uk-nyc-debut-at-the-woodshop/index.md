@@ -1,6 +1,6 @@
 # DRUM AND BASS LENS (UK) NYC DEBUT at The Woodshop
 
-DRUM AND BASS LENS (UK) NYC DEBUT at The Woodshop on Thu 10 Dec, New York City. 3 artists: Lens, Samantha DaSilva and Ultra DNB. Drum & Bass and Jungle. See the line-up on soundcheck.
+DRUM AND BASS LENS (UK) NYC DEBUT at The Woodshop on Thu 10 Dec, New York City. 4 artists: Davy Wreck, Lens, Samantha DaSilva and Ultra DNB. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DRUM AND BASS LENS (UK) NYC DEBUT at The Woodshop on Thu 10 Dec, New York City. 
 
 ## Line-up
 
+- Davy Wreck
 - Lens (2)
 - Samantha DaSilva
 - Ultra DNB

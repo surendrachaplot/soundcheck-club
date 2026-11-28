@@ -1,6 +1,6 @@
 # Tension
 
-Tension is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Those Who Dance, Lisbon on Sat, 5 Dec 2026.
+Tension is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Those Who Dance, Lisbon on Sat, 5 Dec 2026.
 
 Tension is a trance and psytrance artist based in Germany, with 6 gigs on soundcheck across Bangkok, Lisbon, London and Vancouver. Often billed alongside Forest (PL), Jack the Jackal and Marist. Next up: Those Who Dance, Lisbon on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Tension is a trance and psytrance artist based in Germany, with 6 gigs on soundc
 
 Forest (PL), Jack the Jackal, Marist
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tension/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tension/)*

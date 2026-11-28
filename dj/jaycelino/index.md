@@ -1,6 +1,6 @@
 # Jay Celino
 
-Jay Celino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
+Jay Celino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
 
 Jay Celino is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Glasgow and London. Often billed alongside Ferrie, Murphy and Babyccino. Next up: Saints of Ingram, Glasgow on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Jay Celino is a house and techno artist based in United Kingdom, with 30 gigs on
 
 Ferrie, Murphy, Babyccino
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycelino/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycelino/)*

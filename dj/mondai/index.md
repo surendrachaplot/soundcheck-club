@@ -1,6 +1,6 @@
 # Mondai
 
-Mondai is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Venue Info Will Be Sent To Ticketholders, Chicago on Sun, 17 Jan 2027.
+Mondai is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Venue Info Will Be Sent To Ticketholders, Chicago on Sun, 17 Jan 2027.
 
 Mondai is a house and club artist based in United States of America, with 36 gigs on soundcheck across Baltimore, Chicago, Detroit and New York City. Often billed alongside EDEN BEKELE, Zillion and Bodegaparty. Next up: TBA - Venue Info Will Be Sent To Ticketholders, Chicago on Sun 17 Jan.
 
@@ -25,4 +25,4 @@ Mondai is a house and club artist based in United States of America, with 36 gig
 
 EDEN BEKELE, Zillion, Bodegaparty
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mondai/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mondai/)*

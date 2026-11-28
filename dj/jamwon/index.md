@@ -1,6 +1,6 @@
 # JAMWON
 
-JAMWON is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atdge Seoul, Seoul on Fri, 4 Dec 2026.
+JAMWON is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Atdge Seoul, Seoul on Fri, 4 Dec 2026.
 
 JAMWON is a house and disco artist based in South Korea, with 17 gigs on soundcheck across Seoul. Often billed alongside Gio (KR), Moso and RTRP. Next up: Atdge Seoul, Seoul on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ JAMWON is a house and disco artist based in South Korea, with 17 gigs on soundch
 
 Gio (KR), Moso, RTRP
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamwon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamwon/)*

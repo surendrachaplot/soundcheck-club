@@ -1,6 +1,6 @@
 # SAEED
 
-SAEED is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Sun, 29 Nov 2026.
+SAEED is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bootshaus, Cologne on Sun, 29 Nov 2026.
 
 SAEED is a techno and progressive house artist based in Germany, with 12 gigs on soundcheck across Berlin, Brussels and Cologne. Often billed alongside Thomas M, A.N.I. and LeoSkiDj. Next up: Bootshaus, Cologne on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ SAEED is a techno and progressive house artist based in Germany, with 12 gigs on
 
 Thomas M, A.N.I., LeoSkiDj
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saeed/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saeed/)*

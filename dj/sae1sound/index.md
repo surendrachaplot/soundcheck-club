@@ -1,6 +1,6 @@
 # Sae1sound
 
-Sae1sound is a Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fire, London on Sat, 12 Dec 2026.
+Sae1sound is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fire, London on Sat, 12 Dec 2026.
 
 Sae1sound is a tech house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside fTronic, Benebe and Jamie Ardor. Next up: Fire, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sae1sound is a tech house artist based in United Kingdom, with 14 gigs on soundc
 
 fTronic, Benebe, Jamie Ardor
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sae1sound/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sae1sound/)*

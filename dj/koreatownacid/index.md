@@ -1,6 +1,6 @@
 # Korea Town Acid
 
-Korea Town Acid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macel Studios, Toronto on Sun, 3 Jan 2027.
+Korea Town Acid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Macel Studios, Toronto on Sun, 3 Jan 2027.
 
 Korea Town Acid is a techno and house artist based in South Korea, with 70 gigs on soundcheck across Hong Kong, Lyon, Montreal and New York City and 5 more. Often billed alongside Eejungmi, JIALING and SINAHILL. Next up: Macel Studios, Toronto on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ Korea Town Acid is a techno and house artist based in South Korea, with 70 gigs 
 
 Eejungmi, JIALING, SINAHILL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*

@@ -1,6 +1,6 @@
 # Betamax_
 
-Betamax_ is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
+Betamax_ is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
 
 Betamax_ is a techno and club artist based in Spain, with 8 gigs on soundcheck across Madrid and Stockholm. Often billed alongside Pablo Ruizgalan, Babu and Borja S. Next up: Under Bron, Stockholm on Fri 18 Dec.
 
@@ -24,4 +24,4 @@ Betamax_ is a techno and club artist based in Spain, with 8 gigs on soundcheck a
 
 Pablo Ruizgalan, Babu, Borja S
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betamax_/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betamax_/)*

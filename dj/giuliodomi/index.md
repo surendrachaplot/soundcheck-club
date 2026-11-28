@@ -1,6 +1,6 @@
 # Giulio Domi
 
-Giulio Domi is a Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Amnesia Milano, Milan on Sat, 12 Dec 2026.
+Giulio Domi is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Amnesia Milano, Milan on Sat, 12 Dec 2026.
 
 Giulio Domi is a tech house artist based in Italy, with 12 gigs on soundcheck across Milan. Often billed alongside Simon Ricci, AIN'T GEORGE and ALDAVE. Next up: Amnesia Milano, Milan on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Giulio Domi is a tech house artist based in Italy, with 12 gigs on soundcheck ac
 
 Simon Ricci, AIN'T GEORGE, ALDAVE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliodomi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliodomi/)*

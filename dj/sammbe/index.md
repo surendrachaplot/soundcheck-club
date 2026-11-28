@@ -1,6 +1,6 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Playa Leone, Morocco on Sat, 19 Dec 2026.
+Samm (BE) is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Playa Leone, Morocco on Sat, 19 Dec 2026.
 
 Samm (BE) is a house and afro house artist based in Belgium, with 66 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside AJNA, ARODES and Adriatique. Next up: Playa Leone, Morocco on Sat 19 Dec.
 
@@ -28,4 +28,4 @@ Samm (BE) is a house and afro house artist based in Belgium, with 66 gigs on sou
 
 AJNA, ARODES, Adriatique
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

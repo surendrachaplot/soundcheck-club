@@ -1,6 +1,6 @@
 # Golf Clap
 
-Golf Clap is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Harbor Island, San Diego on Thu, 31 Dec 2026.
+Golf Clap is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Harbor Island, San Diego on Thu, 31 Dec 2026.
 
 Golf Clap is a house and tech house artist, with 22 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Atish, Audiojack and Bendito. Next up: Harbor Island, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Golf Clap is a house and tech house artist, with 22 gigs on soundcheck across Au
 
 Atish, Audiojack, Bendito
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golfclap/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/golfclap/)*

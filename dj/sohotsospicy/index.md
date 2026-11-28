@@ -1,6 +1,6 @@
 # sohotsospicy
 
-sohotsospicy is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Planet Wax, London on Sat, 12 Dec 2026.
+sohotsospicy is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Planet Wax, London on Sat, 12 Dec 2026.
 
 sohotsospicy is a footwork and club artist based in Ireland, with 24 gigs on soundcheck across Berlin, Brighton, Dublin and London and 1 more. Often billed alongside CRAIC DAVID, Big Dope P and Seb (Tropical Waste). Next up: Planet Wax, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ sohotsospicy is a footwork and club artist based in Ireland, with 24 gigs on sou
 
 CRAIC DAVID, Big Dope P, Seb (Tropical Waste)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*

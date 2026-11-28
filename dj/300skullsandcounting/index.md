@@ -1,14 +1,15 @@
 # 300SkullsAndCounting
 
-300SkullsAndCounting is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Sat, 28 Nov 2026.
+300SkullsAndCounting is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Copenhagen Contemporary, Copenhagen on Sat, 28 Nov 2026.
 
-300SkullsAndCounting is an experimental and bass artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 4 more. Often billed alongside Shoplifting, Valeria Litvakov and Bassvictim. Next up: Copenhagen Contemporary, Copenhagen on Sat 28 Nov.
+300SkullsAndCounting is an experimental and electronica artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 4 more. Often billed alongside Shoplifting, Valeria Litvakov and Bassvictim. Next up: Copenhagen Contemporary, Copenhagen on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Copenhagen Contemporary | Copenhagen |
+| Fri, 11 Dec 2026 | Maxim Gorki Theater | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Shoplifting, Valeria Litvakov, Bassvictim
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/300skullsandcounting/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/300skullsandcounting/)*

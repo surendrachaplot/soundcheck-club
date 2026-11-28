@@ -1,6 +1,6 @@
 # Ballhaus Berlin
 
-Ballhaus Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Drei Haselnüsse für Hosenadler" on Sun, 20 Dec 2026.
+Ballhaus Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "BALLHAUS: Drei Haselnüsse für Hosenadler w/ Franco Winter & Kuba" on Sun, 20 Dec 2026.
 
 Ballhaus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Hosenadler. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Ballhaus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Dec 2026 | Drei Haselnüsse für Hosenadler | Hosenadler |
+| Sun, 20 Dec 2026 | BALLHAUS: Drei Haselnüsse für Hosenadler w/ Franco Winter & Kuba | Hosenadler |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ballhaus-berlin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ballhaus-berlin/)*

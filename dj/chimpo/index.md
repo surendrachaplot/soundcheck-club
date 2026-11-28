@@ -1,6 +1,6 @@
 # Chimpo
 
-Chimpo is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Beaver Works, Leeds on Thu, 31 Dec 2026.
+Chimpo is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Beaver Works, Leeds on Thu, 31 Dec 2026.
 
 Chimpo is a drum & bass and jungle artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Belfast, Birmingham and Brighton and 13 more. Often billed alongside Rich Reason, Chunky and DJ Flight. Next up: Beaver Works, Leeds on Thu 31 Dec.
 
@@ -29,4 +29,4 @@ Chimpo is a drum & bass and jungle artist based in United Kingdom, with 113 gigs
 
 Rich Reason, Chunky, DJ Flight
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*

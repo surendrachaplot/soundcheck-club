@@ -1,6 +1,6 @@
 # DJ Klitbait
 
-DJ Klitbait is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Deaf Institute, Manchester on Fri, 18 Dec 2026.
+DJ Klitbait is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Deaf Institute, Manchester on Fri, 18 Dec 2026.
 
 DJ Klitbait is a disco and house artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside DJ Scissher, Jess Rose and Kate Meyher. Next up: The Deaf Institute, Manchester on Fri 18 Dec.
 
@@ -24,4 +24,4 @@ DJ Klitbait is a disco and house artist based in United Kingdom, with 8 gigs on 
 
 DJ Scissher, Jess Rose, Kate Meyher
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djklitbait/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djklitbait/)*

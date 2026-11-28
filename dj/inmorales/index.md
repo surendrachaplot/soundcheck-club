@@ -1,6 +1,6 @@
 # Inmorales
 
-Inmorales is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 29 Nov 2026.
+Inmorales is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 29 Nov 2026.
 
 Inmorales is a house and techno artist based in Colombia, with 10 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Benny (El Rio Hostel), Adi (CO) and Alejandro Bernal. Next up: El Rio Hostel, Colombia on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Inmorales is a house and techno artist based in Colombia, with 10 gigs on soundc
 
 Benny (El Rio Hostel), Adi (CO), Alejandro Bernal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inmorales/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inmorales/)*

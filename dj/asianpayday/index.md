@@ -1,6 +1,6 @@
 # ASIANPAYDAY
 
-ASIANPAYDAY is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nyapi, Seoul on Thu, 24 Dec 2026.
+ASIANPAYDAY is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Nyapi, Seoul on Thu, 24 Dec 2026.
 
 ASIANPAYDAY is a disco and house artist based in South Korea, with 14 gigs on soundcheck across Seoul. Often billed alongside Cozyhoon, Imogene and Hamos. Next up: Nyapi, Seoul on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ ASIANPAYDAY is a disco and house artist based in South Korea, with 14 gigs on so
 
 Cozyhoon, Imogene, Hamos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asianpayday/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asianpayday/)*

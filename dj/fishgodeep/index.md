@@ -1,6 +1,6 @@
 # Fish Go Deep
 
-Fish Go Deep is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at After Dark, Bristol on Sat, 28 Nov 2026.
+Fish Go Deep is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at After Dark, Bristol on Sat, 28 Nov 2026.
 
 Fish Go Deep is a house and disco artist, with 11 gigs on soundcheck across Bristol, Cork, Dublin and Liverpool and 1 more. Often billed alongside Cailín, Connect and Dean Sherry. Next up: After Dark, Bristol on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Fish Go Deep is a house and disco artist, with 11 gigs on soundcheck across Bris
 
 Cailín, Connect, Dean Sherry
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fishgodeep/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fishgodeep/)*

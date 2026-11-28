@@ -1,14 +1,14 @@
 # Pablito el Drito
 
-Pablito el Drito is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Salumeria del design - via Cecilio Stazio 18 - Milano, Milan on Thu, 3 Dec 2026.
+Pablito el Drito is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Salumeria del design, Milan on Thu, 3 Dec 2026.
 
-Pablito el Drito is a techno and electro artist based in Italy, with 20 gigs on soundcheck across Bologna, Florence, Milan and Rome and 1 more. Often billed alongside Andrea Benedetti, D'Arcangelo and Lory D. Next up: TBA - Salumeria del design - via Cecilio Stazio 18 - Milano, Milan on Thu 3 Dec.
+Pablito el Drito is a techno and electro artist based in Italy, with 20 gigs on soundcheck across Bologna, Florence, Milan and Rome and 1 more. Often billed alongside Andrea Benedetti, D'Arcangelo and Lory D. Next up: Salumeria del design, Milan on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Dec 2026 | TBA - Salumeria del design - via Cecilio Stazio 18 - Milano | Milan |
+| Thu, 3 Dec 2026 | Salumeria del design | Milan |
 | Sun, 20 Dec 2026 | THC MILANO | Milan |
 
 ## Recently played
@@ -26,4 +26,4 @@ Pablito el Drito is a techno and electro artist based in Italy, with 20 gigs on 
 
 Andrea Benedetti, D'Arcangelo, Lory D
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*

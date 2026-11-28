@@ -1,6 +1,6 @@
 # Kohra
 
-Kohra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 28 Nov 2026.
+Kohra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Sat, 28 Nov 2026.
 
 Kohra is a techno and trance artist, with 19 gigs on soundcheck across Bangkok, Berlin, Bristol and Hong Kong and 9 more. Often billed alongside Sunju Hargun, Inner Zone and James Selva. Next up: Pisco Bar, Kuala Lumpur on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kohra is a techno and trance artist, with 19 gigs on soundcheck across Bangkok, 
 
 Sunju Hargun, Inner Zone, James Selva
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohra/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohra/)*

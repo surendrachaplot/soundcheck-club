@@ -1,6 +1,6 @@
 # Fangs Disco Club: Office Christmas Party at People's Leisure Club
 
-Fangs Disco Club: Office Christmas Party at People's Leisure Club on Sat 12 Dec, Edinburgh. 2 artists: Davie Miller and Jacuzzi General. Acid and Electronica. See the line-up on soundcheck.
+Fangs Disco Club: Office Christmas Party at People's Leisure Club on Sat 12 Dec, Edinburgh. 4 artists: Davie Miller, Jacuzzi General, Lara Sinclair and WOE is us. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ Fangs Disco Club: Office Christmas Party at People's Leisure Club on Sat 12 Dec,
 
 - Davie Miller
 - Jacuzzi General
+- Lara Sinclair
+- WOE is us
 
 *Source: [soundcheck](https://soundcheck.club/e/2590617-fangs-disco-club-office-christmas-party-at-people-s-leisure/)*

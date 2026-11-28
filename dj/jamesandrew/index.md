@@ -1,6 +1,6 @@
 # James Andrew
 
-James Andrew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
+James Andrew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
 
 James Andrew is a house and techno artist based in United Kingdom, with 49 gigs on soundcheck across Barcelona, Bogotá, Brussels and Ibiza and 12 more. Often billed alongside Heels & Souls, Charley and Apple B. Next up: Seaseaclub Barcelona, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ James Andrew is a house and techno artist based in United Kingdom, with 49 gigs 
 
 Heels & Souls, Charley, Apple B
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

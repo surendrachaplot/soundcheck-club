@@ -1,6 +1,6 @@
 # Gîn Bali
 
-Gîn Bali is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at JAKI, Cologne on Fri, 11 Dec 2026.
+Gîn Bali is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at JAKI, Cologne on Fri, 11 Dec 2026.
 
 Gîn Bali is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 2 more. Often billed alongside Aaro, no:elia and Andras_2020. Next up: JAKI, Cologne on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Gîn Bali is a house and techno artist based in Germany, with 26 gigs on soundch
 
 Aaro (3), no:elia, Andras_2020
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gînbali/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gînbali/)*

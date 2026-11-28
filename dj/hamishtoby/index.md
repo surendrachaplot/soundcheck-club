@@ -1,6 +1,6 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Loft, Manchester on Sat, 12 Dec 2026.
+Hamish & Toby is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Loft, Manchester on Sat, 12 Dec 2026.
 
 Hamish & Toby are a house and tech house duo based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside The Ghost, Dr Banana and Truly Madly. Next up: The Loft, Manchester on Sat 12 Dec.
 
@@ -29,4 +29,4 @@ Hamish & Toby are a house and tech house duo based in United Kingdom, with 146 g
 
 The Ghost, Dr Banana, Truly Madly
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

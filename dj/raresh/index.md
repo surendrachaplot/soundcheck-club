@@ -1,6 +1,6 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
+Raresh is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
 Raresh is a house and minimal artist based in Romania, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Mia Mao, Paris on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Raresh is a house and minimal artist based in Romania, with 220 gigs on soundche
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

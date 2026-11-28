@@ -1,14 +1,14 @@
 # LO'99
 
-LO'99 is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mudgeeraba Showground, Gold-coast on Sun, 27 Feb 2028.
+LO'99 is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mudgeeraba Showground, Gold-coast on Sat, 27 Feb 2027.
 
-LO'99 is a tech house and techno artist based in Australia, with 10 gigs on soundcheck across Auckland, Gold Coast, Melbourne and Sydney. Often billed alongside Taleena, AHJU and Aldonna. Next up: Mudgeeraba Showground, Gold Coast on Sun 27 Feb.
+LO'99 is a tech house and techno artist based in Australia, with 10 gigs on soundcheck across Auckland, Gold Coast, Melbourne and Sydney. Often billed alongside Taleena, AHJU and Aldonna. Next up: Mudgeeraba Showground, Gold Coast on Sat 27 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
+| Sat, 27 Feb 2027 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ LO'99 is a tech house and techno artist based in Australia, with 10 gigs on soun
 
 Taleena, AHJU, Aldonna
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lo99/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lo99/)*

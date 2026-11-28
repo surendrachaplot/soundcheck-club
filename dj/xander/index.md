@@ -1,6 +1,6 @@
 # XANDER
 
-XANDER is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
+XANDER is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at SASS Music Club, Vienna on Mon, 7 Dec 2026.
 
 XANDER is a house and garage artist based in United Kingdom, with 32 gigs on soundcheck across Brighton, Bristol, Dublin and Liverpool and 10 more. Often billed alongside Lampert, Silva Bumpa and Ben Zo. Next up: SASS Music Club, Vienna on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ XANDER is a house and garage artist based in United Kingdom, with 32 gigs on sou
 
 Lampert, Silva Bumpa, Ben Zo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xander/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xander/)*

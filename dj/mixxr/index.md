@@ -1,6 +1,6 @@
 # MIXXR
 
-MIXXR is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Thu, 31 Dec 2026.
+MIXXR is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bootshaus, Cologne on Thu, 31 Dec 2026.
 
 MIXXR is a techno and hard drum artist based in Germany, with 11 gigs on soundcheck across Cologne and Frankfurt. Often billed alongside 2nd Floor, ALLY and BabaBass3000. Next up: Bootshaus, Cologne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ MIXXR is a techno and hard drum artist based in Germany, with 11 gigs on soundch
 
 2nd Floor, ALLY, BabaBass3000
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixxr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mixxr/)*

@@ -1,6 +1,6 @@
 # Rosewater Daughter
 
-Rosewater Daughter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
+Rosewater Daughter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 88block, Tokyo on Sun, 29 Nov 2026.
 
 Rosewater Daughter is a house and tech house artist, with 5 gigs on soundcheck across New York City and Tokyo. Often billed alongside NIGELTHREETIMES, 063N13 and 999ADJ. Next up: 88block, Tokyo on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ Rosewater Daughter is a house and tech house artist, with 5 gigs on soundcheck a
 
 NIGELTHREETIMES, 063N13, 999ADJ
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosewaterdaughter/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosewaterdaughter/)*

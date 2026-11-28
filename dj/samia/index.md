@@ -1,6 +1,6 @@
 # SAMIA
 
-SAMIA is a Reggaeton and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Symphonie, Mexico City on Sat, 28 Nov 2026.
+SAMIA is a Reggaeton and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Symphonie, Mexico City on Sat, 28 Nov 2026.
 
 SAMIA is a reggaeton and afro house artist based in Canada, with 85 gigs on soundcheck across Berlin, Chicago, Detroit and Lisbon and 4 more. Often billed alongside Black Daria, IYE YIN DAE and Samia. Next up: Symphonie, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SAMIA is a reggaeton and afro house artist based in Canada, with 85 gigs on soun
 
 Black Daria, IYE YIN DAE, Samia
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samia/)*

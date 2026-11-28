@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Nice Tries invites: Valerio Vaudano, Eileeni, DJ Sanni b2b Max(imus)" on Fri, 27 Nov 2026.
+Bulbul Berlin is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Club Morena: Julien Josh, Gregor Rost, Ashbeat, ZYMT & fuxi" on Sat, 28 Nov 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Aggy, Alex Grebe, Ashbeat and DJ Fresh Garlic and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Aggy, Alex Grebe, Ashbeat and DJ Fresh Garlic and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Nice Tries invites: Valerio Vaudano, Eileeni, DJ Sanni b2b Max(imus) | DJ Sanni, Eileeni, Max(imus), Valerio Vaudano |
 | Sat, 28 Nov 2026 | Club Morena: Julien Josh, Gregor Rost, Ashbeat, ZYMT & fuxi | Ashbeat, Gregor Rost, Julien Josh, ZYMT, fuxi |
 | Thu, 3 Dec 2026 | TANZFLOOR: Gabriel, Evan Tail, Love Sensation b2b Karadi | Evan Tail, Love Sensation, ·gabriel· |
 | Fri, 4 Dec 2026 | Deep Fried: Marit, Lobo, Gabriele Congedo, Rune Steen | Gabriele Congedo, Lobo (DE), Marit, Rune Steen |
@@ -18,9 +17,10 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming gigs,
 | Sat, 12 Dec 2026 | Discoforbreakfast: Valeria, Mambi Dexter, Grenouillette, Lealaetitia b2b Reef92 | Grenouillette, Lealaetitia, Mambi Dexter, Valeria (DE) |
 | Thu, 17 Dec 2026 | House of Others (Vol.15): Natsu, La Schmock, materia hache | La Schmock, Natsu, materia hache |
 | Fri, 18 Dec 2026 | intaresu: Aggy, Isaac Elejalde, Kirill & Kernel | Aggy, Isaac Elejalde, Kirill. |
+| Sat, 19 Dec 2026 | Bulbul x Giselle: POLSCHI, Alex Grebe & More | Alex Grebe, POLSCHI (2) |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

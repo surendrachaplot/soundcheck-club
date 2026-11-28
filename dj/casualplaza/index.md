@@ -1,6 +1,6 @@
 # Casual Plaza
 
-Casual Plaza is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 19 Dec 2026.
+Casual Plaza is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Rotonde Stalingrad, Paris on Sat, 19 Dec 2026.
 
 Casual Plaza is a house and electro artist based in France, with 5 gigs on soundcheck across Paris. Often billed alongside Seabra, Alex Picone and Aérienne. Next up: La Rotonde Stalingrad, Paris on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Casual Plaza is a house and electro artist based in France, with 5 gigs on sound
 
 Seabra, Alex Picone, Aérienne
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualplaza/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casualplaza/)*

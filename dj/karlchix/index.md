@@ -1,6 +1,6 @@
 # Karl Chix
 
-Karl Chix is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 19 Dec 2026.
+Karl Chix is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 19 Dec 2026.
 
 Karl Chix is a house and minimal artist, with 8 gigs on soundcheck across Bali, Bangkok, Istanbul and Lisbon. Often billed alongside Latex, Cabanne and Karim T. Next up: Sunset Beach Bali, Bali on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Karl Chix is a house and minimal artist, with 8 gigs on soundcheck across Bali, 
 
 Latex (1), Cabanne, Karim T
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlchix/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlchix/)*

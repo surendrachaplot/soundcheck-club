@@ -1,6 +1,6 @@
 # Royale
 
-Royale is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Barely Alive, Dion Timmer" on Fri, 18 Dec 2026.
+Royale is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Barely Alive, Dion Timmer" on Fri, 18 Dec 2026.
 
 Royale is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with line-ups including Hoang, Liquid Stranger and Omar+. See dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
 
@@ -20,4 +20,4 @@ Royale is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with li
 
 279 Tremont Street; Boston, MA 02116; United States, Boston
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*

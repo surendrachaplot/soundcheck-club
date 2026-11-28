@@ -1,14 +1,13 @@
 # Chlär
 
-Chlär is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Chlär is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Chlär is a techno and house artist based in Switzerland, with 293 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Chlär is a techno and house artist based in Switzerland, with 293 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
@@ -20,9 +19,11 @@ Chlär is a techno and house artist based in Switzerland, with 293 gigs on sound
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 | Thu, 31 Dec 2026 | fabric | London |
 | Sat, 30 Jan 2027 | KALT | Strasbourg |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- Ace*Mission, Los Angeles · Fri, 27 Nov 2026
 - Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - Prince Charles, Berlin · Fri, 13 Nov 2026
@@ -30,10 +31,9 @@ Chlär is a techno and house artist based in Switzerland, with 293 gigs on sound
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - Café Katoen, Amsterdam · Sat, 24 Oct 2026
-- Bajes Amsterdam, Amsterdam · Fri, 23 Oct 2026
 
 ## Shares bills with
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

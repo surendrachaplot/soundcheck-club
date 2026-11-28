@@ -1,6 +1,6 @@
 # Nick Varon
 
-Nick Varon is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sala UNI Madrid, Madrid on Fri, 18 Dec 2026.
+Nick Varon is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sala UNI Madrid, Madrid on Fri, 18 Dec 2026.
 
 Nick Varon is a progressive house and house artist based in Spain, with 50 gigs on soundcheck across Amsterdam, Athens, Barcelona and Budapest and 7 more. Often billed alongside Hernan Cattaneo, Gespona and Panayotee. Next up: Sala UNI Madrid, Madrid on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Nick Varon is a progressive house and house artist based in Spain, with 50 gigs 
 
 Hernan Cattaneo, Gespona, Panayotee
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickvaron/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickvaron/)*

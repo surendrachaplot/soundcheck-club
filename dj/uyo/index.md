@@ -1,6 +1,6 @@
 # U YO
 
-U YO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Solfa, Tokyo on Sat, 28 Nov 2026.
+U YO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Solfa, Tokyo on Sat, 28 Nov 2026.
 
 U YO is a house and techno artist based in South Korea, with 8 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Gong, GLOW (KR) and Lonho. Next up: Solfa, Tokyo on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ U YO is a house and techno artist based in South Korea, with 8 gigs on soundchec
 
 Gong, GLOW (KR), Lonho
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uyo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uyo/)*

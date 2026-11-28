@@ -1,6 +1,6 @@
 # NTO
 
-NTO is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hive Club, Zurich on Sat, 5 Dec 2026.
+NTO is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hive Club, Zurich on Sat, 5 Dec 2026.
 
 NTO is a techno and house artist based in France, with 149 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Hive Club, Zurich on Sat 5 Dec.
 
@@ -32,4 +32,4 @@ NTO is a techno and house artist based in France, with 149 gigs on soundcheck ac
 
 Prismode, Solvane, Joachim Pastor
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

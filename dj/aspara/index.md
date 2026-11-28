@@ -1,6 +1,6 @@
 # Aspara
 
-Aspara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at West Harlem, Kyoto on Sat, 12 Dec 2026.
+Aspara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at West Harlem, Kyoto on Sat, 12 Dec 2026.
 
 Aspara is a techno and house artist based in Japan, with 41 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside imazutsubasa, Ryogo and ntank. Next up: West Harlem, Kyoto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Aspara is a techno and house artist based in Japan, with 41 gigs on soundcheck a
 
 imazutsubasa, Ryogo, ntank
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aspara/)*

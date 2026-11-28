@@ -1,6 +1,6 @@
 # Out of Orbit
 
-Out of Orbit is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Magma Club Budapest, Budapest on Tue, 29 Dec 2026.
+Out of Orbit is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Magma Club Budapest, Budapest on Tue, 29 Dec 2026.
 
 Out of Orbit is a trance and techno artist based in Israel, with 8 gigs on soundcheck across Budapest, Cologne, Ghent and Leeds and 4 more. Often billed alongside 999999999, Astrix and Funk Tribu. Next up: Magma Club Budapest, Budapest on Tue 29 Dec.
 
@@ -24,4 +24,4 @@ Out of Orbit is a trance and techno artist based in Israel, with 8 gigs on sound
 
 999999999, Astrix, Funk Tribu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outoforbit/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/outoforbit/)*

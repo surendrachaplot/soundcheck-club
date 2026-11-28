@@ -1,6 +1,6 @@
 # Yacube
 
-Yacube is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar v Krymský, Prague on Fri, 11 Dec 2026.
+Yacube is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bar v Krymský, Prague on Fri, 11 Dec 2026.
 
 Yacube is a minimal and deep house artist based in Czech Republic, with 6 gigs on soundcheck across Prague. Often billed alongside Adam Cloud, Lucas Hulan and Luke Nova. Next up: Bar v Krymský, Prague on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Yacube is a minimal and deep house artist based in Czech Republic, with 6 gigs o
 
 Adam Cloud, Lucas Hulan, Luke Nova
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yacube/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yacube/)*

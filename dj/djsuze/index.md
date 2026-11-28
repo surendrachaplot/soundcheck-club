@@ -1,6 +1,6 @@
 # DJ Suze
 
-DJ Suze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 4 Dec 2026.
+DJ Suze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 4 Dec 2026.
 
 DJ Suze is a techno and house artist based in France, with 12 gigs on soundcheck across Paris and Tokyo. Often billed alongside Ploum, Spicy Sofi and Chtak.. Next up: Circus Tokyo, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ Suze is a techno and house artist based in France, with 12 gigs on soundcheck
 
 Ploum, Spicy Sofi, Chtak.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsuze/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsuze/)*

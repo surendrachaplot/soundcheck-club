@@ -1,6 +1,6 @@
 # Ark
 
-Ark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
+Ark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
 
 Ark is a house and deep house artist based in France, with 12 gigs on soundcheck across Austria, Berlin, Leeds and Lyon and 2 more. Often billed alongside Pit Spector, Abdullah Miniawy and Adron_. Next up: Dom im Berg, Austria on Thu 4 Mar.
 
@@ -25,4 +25,4 @@ Ark is a house and deep house artist based in France, with 12 gigs on soundcheck
 
 Pit Spector, Abdullah Miniawy, Adron_
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ark/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ark/)*

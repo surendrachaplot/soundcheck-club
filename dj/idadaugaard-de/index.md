@@ -1,6 +1,6 @@
 # Ida Daugaard
 
-Ida Daugaard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
+Ida Daugaard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Renate, Berlin on Sat, 26 Dec 2026.
 
 Ida Daugaard is a house and techno artist based in Denmark, with 60 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Ana Karla, Markovela and Mira. Next up: Renate, Berlin on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Ida Daugaard is a house and techno artist based in Denmark, with 60 gigs on soun
 
 Ana Karla, Markovela, Mira
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idadaugaard-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idadaugaard-de/)*

@@ -1,6 +1,6 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Antidoto Club: Cherry Boys + Fallens" on Thu, 3 Dec 2026.
+Club Magno is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Antidoto Club: Cherry Boys + Fallens" on Thu, 3 Dec 2026.
 
 Club Magno is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Co.kr, Diego Armando, DISTORT (ES) and Ezekiel and 2 more. See dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
@@ -17,4 +17,4 @@ Club Magno is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, wit
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

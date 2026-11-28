@@ -1,6 +1,6 @@
 # ISA (UK)
 
-ISA (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Liquidate, Manchester on Fri, 11 Dec 2026.
+ISA (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Liquidate, Manchester on Fri, 11 Dec 2026.
 
 ISA (UK) is a techno and house artist based in Poland, with 11 gigs on soundcheck across London and Manchester. Often billed alongside Chernobyl Steve, Connor (UK) and Deventi. Next up: Liquidate, Manchester on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ ISA (UK) is a techno and house artist based in Poland, with 11 gigs on soundchec
 
 Chernobyl Steve, Connor (UK), Deventi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-uk/)*

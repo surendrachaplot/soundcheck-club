@@ -1,6 +1,6 @@
 # Billi
 
-Billi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 19 Dec 2026.
+Billi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 19 Dec 2026.
 
 Billi is a house and techno artist based in Portugal, with 22 gigs on soundcheck across Barcelona, Lisbon and Madrid. Often billed alongside Francisca Urbano, Pitcho and Guigas. Next up: TBA - Lisboa, Lisbon on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Billi is a house and techno artist based in Portugal, with 22 gigs on soundcheck
 
 Francisca Urbano, Pitcho, Guigas
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*

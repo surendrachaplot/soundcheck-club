@@ -1,6 +1,6 @@
 # OBLIVION (2)
 
-OBLIVION (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Oddity Club, Athens on Fri, 11 Dec 2026.
+OBLIVION (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Oddity Club, Athens on Fri, 11 Dec 2026.
 
 OBLIVION is a techno and trance artist based in Greece, with 8 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Imperium, KLD and ROSHI. Next up: Oddity Club, Athens on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ OBLIVION is a techno and trance artist based in Greece, with 8 gigs on soundchec
 
 Imperium, KLD (1), ROSHI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oblivion-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oblivion-2/)*

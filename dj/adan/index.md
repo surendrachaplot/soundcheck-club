@@ -1,18 +1,18 @@
 # ADAN
 
-ADAN is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rama Soundgarden, Medellin on Fri, 27 Nov 2026.
+ADAN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Adam Riese, Frankfurt on Sun, 6 Feb 2028.
 
-ADAN is a techno and industrial artist based in Germany, with 8 gigs on soundcheck across Frankfurt and Medellin. Often billed alongside Calamity, Philipp Wolf and RIKHTER. Next up: Rama Soundgarden, Medellin on Fri 27 Nov.
+ADAN is a techno and industrial artist based in Germany, with 8 gigs on soundcheck across Frankfurt and Medellin. Often billed alongside Calamity, Philipp Wolf and RIKHTER. Next up: Adam Riese, Frankfurt on Sun 6 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Rama Soundgarden | Medellin |
 | Sun, 6 Feb 2028 | Adam Riese | Frankfurt |
 
 ## Recently played
 
+- Rama Soundgarden, Medellin · Fri, 27 Nov 2026
 - Adam Riese, Frankfurt · Fri, 9 Oct 2026
 - Adam Riese, Frankfurt · Sat, 8 Aug 2026
 - Adam Riese, Frankfurt · Fri, 29 May 2026
@@ -24,4 +24,4 @@ ADAN is a techno and industrial artist based in Germany, with 8 gigs on soundche
 
 Calamity (2), Philipp Wolf, RIKHTER
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adan/)*

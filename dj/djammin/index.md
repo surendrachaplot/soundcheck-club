@@ -1,13 +1,14 @@
 # Djammin
 
-Djammin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministry Of Sound, London on Sat, 19 Dec 2026.
+Djammin is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at UNLOCKED, London on Thu, 3 Dec 2026.
 
-Djammin is a house and tech house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Bristol, Dubai and Ibiza and 7 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: Ministry Of Sound, London on Sat 19 Dec.
+Djammin is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Bristol, Dubai and Ibiza and 7 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: UNLOCKED, London on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Dec 2026 | UNLOCKED | London |
 | Sat, 19 Dec 2026 | Ministry Of Sound | London |
 | Fri, 29 Jan 2027 | fabric | London |
 
@@ -26,4 +27,4 @@ Djammin is a house and tech house artist based in United Kingdom, with 39 gigs o
 
 Meeshy, Ossie, Skepta
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*

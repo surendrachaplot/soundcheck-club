@@ -1,6 +1,6 @@
 # Jon Lee
 
-Jon Lee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+Jon Lee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 Jon Lee is a house and tech house artist based in United States of America, with 19 gigs on soundcheck across San Diego, Seattle and Vancouver. Often billed alongside Brian Lyons, LGSP and Mr. Linden. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Jon Lee is a house and tech house artist based in United States of America, with
 
 Brian Lyons, LGSP, Mr. Linden
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonlee/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonlee/)*

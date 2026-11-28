@@ -1,6 +1,6 @@
 # DUPØUY
 
-DUPØUY is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club 1, Santiago on Thu, 31 Dec 2026.
+DUPØUY is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club 1, Santiago on Thu, 31 Dec 2026.
 
 DUPØUY is an electronica and techno artist based in Chile, with 13 gigs on soundcheck across Santiago. Often billed alongside FRVNCCSCV, NPLNSSS and Urquiaga. Next up: Club 1, Santiago on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DUPØUY is an electronica and techno artist based in Chile, with 13 gigs on soun
 
 FRVNCCSCV, NPLNSSS, Urquiaga
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dupouy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dupouy/)*

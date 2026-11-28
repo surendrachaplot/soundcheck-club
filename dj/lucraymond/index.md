@@ -1,6 +1,6 @@
 # Luc Raymond
 
-Luc Raymond is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Sat, 5 Dec 2026.
+Luc Raymond is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Salon Daomé, Montreal on Sat, 5 Dec 2026.
 
 Luc Raymond is a house and disco artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside MightyKat, Soundshaper and DJ Michael Terzian. Next up: Salon Daomé, Montreal on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Luc Raymond is a house and disco artist based in Canada, with 11 gigs on soundch
 
 MightyKat, Soundshaper, DJ Michael Terzian
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucraymond/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucraymond/)*

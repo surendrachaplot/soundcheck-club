@@ -1,6 +1,6 @@
 # PANICWORKS
 
-PANICWORKS is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Chika-Ikkai, Osaka on Sat, 28 Nov 2026.
+PANICWORKS is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Chika-Ikkai, Osaka on Sat, 28 Nov 2026.
 
 PANICWORKS is a techno and bass artist based in Japan, with 46 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Seimei, VOX and M.I.O. Next up: Chika-Ikkai, Osaka on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ PANICWORKS is a techno and bass artist based in Japan, with 46 gigs on soundchec
 
 Seimei, VOX (1), M.I.O
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*

@@ -1,6 +1,6 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Me Me Me with Bradley Zero b2b Man Power" on Sat, 5 Dec 2026.
+Are You Affiliated is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Me Me Me with Bradley Zero b2b Man Power" on Sat, 5 Dec 2026.
 
 Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, with line-ups including 2ManyDJs, Ben Caldwell, Bradley Zero and Danilo Plessow and 2 more. See dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
@@ -17,4 +17,4 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcomin
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

@@ -1,6 +1,6 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Postkantine, Basel on Sat, 28 Nov 2026.
+Timnah is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Postkantine, Basel on Sat, 28 Nov 2026.
 
 Timnah is a techno and ambient artist based in Switzerland, with 59 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Postkantine, Basel on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Timnah is a techno and ambient artist based in Switzerland, with 59 gigs on soun
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

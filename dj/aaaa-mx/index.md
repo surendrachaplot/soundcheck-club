@@ -1,6 +1,6 @@
 # AAAA
 
-AAAA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at nueve cero nueve, Mexico City on Sat, 28 Nov 2026.
+AAAA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at nueve cero nueve, Mexico City on Sat, 28 Nov 2026.
 
 AAAA is a techno and house artist based in Mexico, with 81 gigs on soundcheck across Guadalajara, Los Angeles, Mexico City and Monterrey and 4 more. Often billed alongside MNTY, sadgal and Enya Botello. Next up: nueve cero nueve, Mexico City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ AAAA is a techno and house artist based in Mexico, with 81 gigs on soundcheck ac
 
 MNTY, sadgal, Enya Botello
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaaa-mx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaaa-mx/)*

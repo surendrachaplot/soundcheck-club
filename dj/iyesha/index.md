@@ -1,6 +1,6 @@
 # Iyesha
 
-Iyesha is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
+Iyesha is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Crypt at St. Matthews Church, London on Sat, 12 Dec 2026.
 
 Iyesha is a techno and club artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Brighton, Glasgow and Leeds and 4 more. Often billed alongside NSFW, TEDESCO and Kessie. Next up: The Crypt at St. Matthews Church, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Iyesha is a techno and club artist based in United Kingdom, with 48 gigs on soun
 
 NSFW, TEDESCO, Kessie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*

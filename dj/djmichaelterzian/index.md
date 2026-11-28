@@ -1,6 +1,6 @@
 # DJ Michael Terzian
 
-DJ Michael Terzian is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Sat, 5 Dec 2026.
+DJ Michael Terzian is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Salon Daomé, Montreal on Sat, 5 Dec 2026.
 
 DJ Michael Terzian is a hip-hop and house artist based in Canada, with 15 gigs on soundcheck across Montreal. Often billed alongside Don Barbarino, Kris Guilty and DJ Hidi. Next up: Salon Daomé, Montreal on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DJ Michael Terzian is a hip-hop and house artist based in Canada, with 15 gigs o
 
 Don Barbarino, Kris Guilty, DJ Hidi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmichaelterzian/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmichaelterzian/)*

@@ -1,6 +1,6 @@
 # 00rt
 
-00rt is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Groove Garden, Sri-lanka on Fri, 18 Dec 2026.
+00rt is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Groove Garden, Sri-lanka on Fri, 18 Dec 2026.
 
 00rt is a techno and acid artist based in Georgia, with 46 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 10 more. Often billed alongside Ancient Methods, Unhuman and Frequency Shifter. Next up: The Groove Garden, Sri Lanka on Fri 18 Dec.
 
@@ -25,4 +25,4 @@
 
 Ancient Methods, Unhuman, Frequency Shifter
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*

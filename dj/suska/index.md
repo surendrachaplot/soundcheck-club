@@ -1,6 +1,6 @@
 # SUSKA
 
-SUSKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Fri, 1 Jan 2027.
+SUSKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bootshaus, Cologne on Fri, 1 Jan 2027.
 
 SUSKA is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Bern, Cologne and Dortmund / Essen and 3 more. Often billed alongside Johannes Schuster, Vagabund and Cloudy. Next up: Bootshaus, Cologne on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ SUSKA is a techno and trance artist based in Germany, with 24 gigs on soundcheck
 
 Johannes Schuster, Vagabund, Cloudy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*

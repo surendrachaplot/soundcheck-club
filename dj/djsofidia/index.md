@@ -1,6 +1,6 @@
 # DJ SOFÍDIA
 
-DJ SOFÍDIA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
+DJ SOFÍDIA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
 
 DJ SOFÍDIA is a house and deep house artist based in Spain, with 18 gigs on soundcheck across Barcelona. Often billed alongside DJ Marchello, pumbum and Bill Hates. Next up: BUS Hexperience, Barcelona on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ DJ SOFÍDIA is a house and deep house artist based in Spain, with 18 gigs on sou
 
 DJ Marchello, pumbum, Bill Hates
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofidia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofidia/)*

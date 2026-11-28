@@ -1,6 +1,6 @@
 # Simon TK
 
-Simon TK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
+Simon TK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
 
 Simon TK is a house and techno artist based in Australia, with 42 gigs on soundcheck across Bangkok, Berlin, Hobart and Hong Kong and 3 more. Often billed alongside Hannah D, Edd Fisher and Miki. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
 
@@ -12,6 +12,7 @@ Simon TK is a house and techno artist based in Australia, with 42 gigs on soundc
 
 ## Recently played
 
+- Capers Thornbury, Melbourne · Fri, 27 Nov 2026
 - OneSixOne, Melbourne · Sun, 18 Oct 2026
 - Miscellania, Melbourne · Fri, 16 Oct 2026
 - Angel Music Bar, Melbourne · Sat, 10 Oct 2026
@@ -19,10 +20,9 @@ Simon TK is a house and techno artist based in Australia, with 42 gigs on soundc
 - Elsewhere, Bangkok · Thu, 27 Aug 2026
 - TBA - secret location - NEUKÖLLN, Berlin · Sat, 15 Aug 2026
 - Bar Temp., Bangkok · Fri, 31 Jul 2026
-- Miscellania, Melbourne · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Hannah D, Edd Fisher, Miki (3)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*

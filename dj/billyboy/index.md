@@ -1,6 +1,6 @@
 # Billy Boy
 
-Billy Boy is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paramour, Brussels on Sat, 28 Nov 2026.
+Billy Boy is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Paramour, Brussels on Sat, 28 Nov 2026.
 
 Billy Boy is a techno and minimal techno artist based in Belgium, with 20 gigs on soundcheck across Bangkok, Berlin and Brussels. Often billed alongside Giizmoo, Oxtazz and Amalie. Next up: Paramour, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Billy Boy is a techno and minimal techno artist based in Belgium, with 20 gigs o
 
 Giizmoo, Oxtazz, Amalie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billyboy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billyboy/)*

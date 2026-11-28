@@ -1,6 +1,6 @@
 # chlow333
 
-chlow333 is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M.O.T, London on Sat, 19 Dec 2026.
+chlow333 is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M.O.T, London on Sat, 19 Dec 2026.
 
 chlow333 is a techno and footwork artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Bristol, Leeds and London. Often billed alongside Rodney, PEPPA and Shirley Temper. Next up: M.O.T, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ chlow333 is a techno and footwork artist based in United Kingdom, with 13 gigs o
 
 Rodney, PEPPA (2), Shirley Temper
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chlow333/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chlow333/)*

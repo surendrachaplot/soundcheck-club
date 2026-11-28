@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Open Ground, Wuppertal on Sat, 5 Dec 2026.
+Christian AB is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Open Ground, Wuppertal on Sat, 5 Dec 2026.
 
 Christian AB is a techno and house artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 25 more. Often billed alongside Christian AB, Francesco Del Garda and Ryan Elliott. Next up: Open Ground, Wuppertal on Sat 5 Dec.
 
@@ -32,4 +32,4 @@ Christian AB is a techno and house artist based in United Kingdom, with 48 gigs 
 
 Christian AB, Francesco Del Garda, Ryan Elliott
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

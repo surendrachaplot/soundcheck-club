@@ -1,6 +1,6 @@
 # Alina (MTL)
 
-Alina (MTL) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
+Alina (MTL) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Stereo, Montreal on Sat, 5 Dec 2026.
 
 Alina (MTL) is a house and disco artist based in Canada, with 88 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Guthrie, Ferias and Lexis (Music Is My Sanctuary). Next up: Stereo, Montreal on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Alina (MTL) is a house and disco artist based in Canada, with 88 gigs on soundch
 
 Guthrie, Ferias, Lexis (Music Is My Sanctuary)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alina-mtl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alina-mtl/)*

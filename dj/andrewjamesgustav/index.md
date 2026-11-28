@@ -1,6 +1,6 @@
 # Andrew James Gustav
 
-Andrew James Gustav is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gaffe, London on Sat, 28 Nov 2026.
+Andrew James Gustav is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Gaffe, London on Sat, 28 Nov 2026.
 
 Andrew James Gustav is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 16 more. Often billed alongside Bruno Schmidt, Alien Communications and Jos. Next up: Gaffe, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Andrew James Gustav is a techno and house artist based in United Kingdom, with 7
 
 Bruno Schmidt, Alien Communications, Jos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*

@@ -1,6 +1,6 @@
 # TaoFu
 
-TaoFu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Factory 47, Hanoi on Sat, 28 Nov 2026.
+TaoFu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Factory 47, Hanoi on Sat, 28 Nov 2026.
 
 TaoFu is a techno and house artist based in Vietnam, with 81 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Seoul and 1 more. Often billed alongside Di Linh, AiLien and CONG. Next up: Factory 47, Hanoi on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ TaoFu is a techno and house artist based in Vietnam, with 81 gigs on soundcheck 
 
 Di Linh, AiLien, CONG
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*

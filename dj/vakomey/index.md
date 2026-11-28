@@ -1,6 +1,6 @@
 # Vakomey
 
-Vakomey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
+Vakomey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at KitKatClub, Berlin on Fri, 4 Dec 2026.
 
 Vakomey is a house and disco artist based in Georgia, with 17 gigs on soundcheck across Berlin, Lausanne, Lisbon and Tbilisi. Often billed alongside Haverdi, Tobako Tween and Adolpho & Franky. Next up: KitKatClub, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Vakomey is a house and disco artist based in Georgia, with 17 gigs on soundcheck
 
 Haverdi, Tobako Tween, Adolpho & Franky
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vakomey/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vakomey/)*

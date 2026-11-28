@@ -1,6 +1,6 @@
 # Mike Skinner
 
-Mike Skinner is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Black Pit Farm Estate, South-east on Fri, 30 Jul 2027.
+Mike Skinner is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Black Pit Farm Estate, South-east on Fri, 30 Jul 2027.
 
 Mike Skinner is a garage and bass artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, Bristol, Dublin and Leeds and 3 more. Often billed alongside Jaguar, Eliza Rose and Flava D. Next up: Black Pit Farm Estate, South East on Fri 30 Jul.
 
@@ -25,4 +25,4 @@ Mike Skinner is a garage and bass artist based in United Kingdom, with 17 gigs o
 
 Jaguar, Eliza Rose, Flava D
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeskinner/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeskinner/)*

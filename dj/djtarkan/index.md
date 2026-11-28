@@ -1,6 +1,6 @@
 # DJ Tarkan
 
-DJ Tarkan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 28 Nov 2026.
+DJ Tarkan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 28 Nov 2026.
 
 DJ Tarkan is a house and techno artist, with 14 gigs on soundcheck across Istanbul. Often billed alongside DJ Queto, Can Tecim and Eva. Next up: Yan Gastro, Istanbul on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Tarkan is a house and techno artist, with 14 gigs on soundcheck across Istanb
 
 DJ Queto, Can Tecim, Eva
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtarkan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtarkan/)*

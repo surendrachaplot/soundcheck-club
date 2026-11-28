@@ -1,6 +1,6 @@
 # Adolpho & Franky
 
-Adolpho & Franky is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Adolpho & Franky is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
 Adolpho & Franky are a house and techno duo based in Switzerland, with 98 gigs on soundcheck across Barcelona, Berlin, Bucharest and Copenhagen and 10 more. Often billed alongside Coco, TT and Empro. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ Adolpho & Franky are a house and techno duo based in Switzerland, with 98 gigs o
 
 ## Recently played
 
+- Hoppetosse, Berlin · Fri, 27 Nov 2026
 - Folklor, Lausanne · Sat, 21 Nov 2026
 - Folklor, Lausanne · Thu, 5 Nov 2026
 - Folklor, Lausanne · Sat, 24 Oct 2026
@@ -20,10 +21,9 @@ Adolpho & Franky are a house and techno duo based in Switzerland, with 98 gigs o
 - Folklor, Lausanne · Sat, 26 Sept 2026
 - Folklor, Lausanne · Thu, 24 Sept 2026
 - TBA - Les Arcades, Lausanne · Sat, 19 Sept 2026
-- Folklor, Lausanne · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Coco, TT (2), Empro
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adolphofranky/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adolphofranky/)*

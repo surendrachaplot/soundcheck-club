@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 2 Dec 2026.
+Cynthia Matisse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 2 Dec 2026.
 
 Cynthia Matisse is a techno and house artist, with 22 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 3 more. Often billed alongside Submod, Traxx Jr and BIGALKE. Next up: Tresor / Globus, Berlin on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ Cynthia Matisse is a techno and house artist, with 22 gigs on soundcheck across 
 
 Submod, Traxx Jr, BIGALKE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

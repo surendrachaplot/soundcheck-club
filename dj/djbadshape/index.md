@@ -1,6 +1,6 @@
 # DjBadshape
 
-DjBadshape is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fuchs2, Prague on Sat, 5 Dec 2026.
+DjBadshape is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fuchs2, Prague on Sat, 5 Dec 2026.
 
 DjBadshape is a bass and drum & bass artist, with 11 gigs on soundcheck across Berlin, Dortmund / Essen, Leipzig and Prague and 1 more. Often billed alongside Nadia Struiwigh, Orson and Shane Lizard. Next up: Fuchs2, Prague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DjBadshape is a bass and drum & bass artist, with 11 gigs on soundcheck across B
 
 Nadia Struiwigh, Orson, Shane Lizard
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadshape/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadshape/)*

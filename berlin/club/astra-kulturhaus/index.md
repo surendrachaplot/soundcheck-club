@@ -1,6 +1,6 @@
 # Astra Kulturhaus
 
-Astra Kulturhaus is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SHABJDEED & AL NATHER" on Sun, 6 Dec 2026.
+Astra Kulturhaus is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SHABJDEED & AL NATHER" on Sun, 6 Dec 2026.
 
 Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Bolis Pupul, Charlotte Adigéry and Sylvan Esso. See dates, start times and who's playing. Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 4 upcoming gig
 
 Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*

@@ -1,6 +1,6 @@
 # RIRIA presents FLOATING: Osaka at Circus Osaka
 
-RIRIA presents FLOATING: Osaka at Circus Osaka on Sat 19 Dec, Osaka. 2 artists: RIRIA and Saint Ludo. Garage and Dubstep. See the line-up on soundcheck.
+RIRIA presents FLOATING: Osaka at Circus Osaka on Sat 19 Dec, Osaka. 3 artists: kyo, RIRIA and Saint Ludo. Garage and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RIRIA presents FLOATING: Osaka at Circus Osaka on Sat 19 Dec, Osaka. 2 artists: 
 
 ## Line-up
 
+- kyo (3)
 - RIRIA
 - Saint Ludo
 

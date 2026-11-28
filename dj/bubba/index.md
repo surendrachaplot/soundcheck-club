@@ -1,6 +1,6 @@
 # Bubba
 
-Bubba is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Super Fourchette, Brussels on Tue, 1 Dec 2026.
+Bubba is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Super Fourchette, Brussels on Tue, 1 Dec 2026.
 
 Bubba is an electronic artist, with 57 gigs on soundcheck across Brussels and Ibiza. Often billed alongside Davina Moss, Drix and Sai. Next up: Super Fourchette, Brussels on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Bubba is an electronic artist, with 57 gigs on soundcheck across Brussels and Ib
 
 Davina Moss, Drix, Sai
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bubba/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bubba/)*

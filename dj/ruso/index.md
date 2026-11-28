@@ -1,6 +1,6 @@
 # RUSO
 
-RUSO is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Planet Wax, London on Fri, 4 Dec 2026.
+RUSO is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Planet Wax, London on Fri, 4 Dec 2026.
 
 RUSO is a grime and dubstep artist, with 9 gigs on soundcheck across London and Tokyo. Often billed alongside A.N.T, CITIZEN and Marky V. Next up: Planet Wax, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ RUSO is a grime and dubstep artist, with 9 gigs on soundcheck across London and 
 
 A.N.T, CITIZEN, Marky V
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruso/)*

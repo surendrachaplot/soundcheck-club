@@ -1,6 +1,6 @@
 # DJ DONUTS - Boston, Ma
 
-DJ DONUTS - Boston, Ma is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Middle East, Boston on Fri, 4 Dec 2026.
+DJ DONUTS - Boston, Ma is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Middle East, Boston on Fri, 4 Dec 2026.
 
 DJ DONUTS - Boston, Ma are a disco and house duo based in United States of America, with 19 gigs on soundcheck across Boston and New York City. Often billed alongside Louie Lanka, Sinhaus and Glass Guts. Next up: The Middle East, Boston on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ DONUTS - Boston, Ma are a disco and house duo based in United States of Ameri
 
 Louie Lanka, Sinhaus, Glass Guts
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdonuts-boston-ma/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdonuts-boston-ma/)*

@@ -1,6 +1,6 @@
 # MANTIS
 
-MANTIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
+MANTIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 5 Dec 2026.
 
 MANTIS is a techno and acid artist, with 29 gigs on soundcheck across Berlin, Hamburg, Milan and Prague and 3 more. Often billed alongside TZO, DJ Blockflöte 2000 and Frank Rayo. Next up: Beat Boutique, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MANTIS is a techno and acid artist, with 29 gigs on soundcheck across Berlin, Ha
 
 TZO (1), DJ Blockflöte 2000, Frank Rayo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*

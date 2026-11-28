@@ -1,6 +1,6 @@
 # Fleetmac Wood
 
-Fleetmac Wood is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Castro Theatre, San Francisco/Oakland on Fri, 5 Feb 2027.
+Fleetmac Wood is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Castro Theatre, San Francisco/Oakland on Fri, 5 Feb 2027.
 
 Fleetmac Wood is a disco and house artist based in United Kingdom, with 109 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 40 more. Often billed alongside Roxanne Roll, Alex Oxley and Basement Jaxx. Next up: The Castro Theatre, San Francisco/Oakland on Fri 5 Feb.
 
@@ -26,4 +26,4 @@ Fleetmac Wood is a disco and house artist based in United Kingdom, with 109 gigs
 
 Roxanne Roll, Alex Oxley, Basement Jaxx
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*

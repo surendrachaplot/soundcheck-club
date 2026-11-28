@@ -1,6 +1,6 @@
 # Mark Oliver
 
-Mark Oliver is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Rebel, Toronto on Sat, 28 Nov 2026.
+Mark Oliver is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rebel, Toronto on Sat, 28 Nov 2026.
 
 Mark Oliver is a techno and house artist, with 22 gigs on soundcheck across Toronto. Often billed alongside Jonathan Rosa, Kiki LeFreak and Milch. Next up: Rebel, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mark Oliver is a techno and house artist, with 22 gigs on soundcheck across Toro
 
 Jonathan Rosa, Kiki LeFreak, Milch (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*

@@ -1,14 +1,13 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at smartbar, Chicago on Fri, 27 Nov 2026.
+DVS1 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
-DVS1 is a techno and house artist based in United States of America, with 369 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Ogazón, Freddy K and Helena Hauff. Next up: smartbar, Chicago on Fri 27 Nov.
+DVS1 is a techno and house artist based in United States of America, with 369 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Ogazón, Freddy K and Helena Hauff. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | smartbar | Chicago |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Fri, 11 Dec 2026 | Sub Club | Glasgow |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
@@ -20,6 +19,7 @@ DVS1 is a techno and house artist based in United States of America, with 369 gi
 
 ## Recently played
 
+- smartbar, Chicago · Fri, 27 Nov 2026
 - Expo Santa Fe, Mexico City · Fri, 20 Nov 2026
 - Duggal Greenhouse, New York City · Fri, 20 Nov 2026
 - YuYu Cine Club, Mexico City · Fri, 20 Nov 2026
@@ -27,10 +27,9 @@ DVS1 is a techno and house artist based in United States of America, with 369 gi
 - Fuse, Brussels · Sat, 14 Nov 2026
 - Bassiani, Tbilisi · Fri, 13 Nov 2026
 - Masada, Milan · Sat, 7 Nov 2026
-- Circolo Amelia, Milan · Fri, 6 Nov 2026
 
 ## Shares bills with
 
 Ogazón, Freddy K, Helena Hauff
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

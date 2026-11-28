@@ -1,6 +1,6 @@
 # Charles Hawthorne
 
-Charles Hawthorne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at White Horse Inn, San Francisco/Oakland on Sat, 12 Dec 2026.
+Charles Hawthorne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at White Horse Inn, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 Charles Hawthorne is a house and disco artist based in United States of America, with 48 gigs on soundcheck across New York City, San Francisco/Oakland and Seattle. Often billed alongside nina sol, ALICE STRIBLING and David Harness. Next up: White Horse Inn, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Charles Hawthorne is a house and disco artist based in United States of America,
 
 nina sol, ALICE STRIBLING, David Harness
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*

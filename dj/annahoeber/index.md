@@ -1,6 +1,6 @@
 # Anna Hoeber
 
-Anna Hoeber is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Void Club, Berlin on Fri, 18 Dec 2026.
+Anna Hoeber is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Void Club, Berlin on Fri, 18 Dec 2026.
 
 Anna Hoeber is a techno and drum & bass artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside EVYA, Holywanderer and MixB. Next up: Void Club, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Anna Hoeber is a techno and drum & bass artist based in Germany, with 9 gigs on 
 
 EVYA, Holywanderer, MixB
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annahoeber/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annahoeber/)*

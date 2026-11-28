@@ -1,6 +1,6 @@
 # Dani Barbosa
 
-Dani Barbosa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 10 Dec 2026.
+Dani Barbosa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 10 Dec 2026.
 
 Dani Barbosa is a house and afro house artist, with 5 gigs on soundcheck across Mexico City. Often billed alongside TRIVEAT, ALX and Jasym. Next up: nueve cero nueve, Mexico City on Thu 10 Dec.
 
@@ -21,4 +21,4 @@ Dani Barbosa is a house and afro house artist, with 5 gigs on soundcheck across 
 
 TRIVEAT, ALX, Jasym
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danibarbosa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danibarbosa/)*

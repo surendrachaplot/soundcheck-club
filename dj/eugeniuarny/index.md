@@ -1,6 +1,6 @@
 # Eugeniu Arny
 
-Eugeniu Arny is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Casa Jako, London on Sat, 19 Dec 2026.
+Eugeniu Arny is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Casa Jako, London on Sat, 19 Dec 2026.
 
 Eugeniu Arny is a tech house and techno artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Duwat?, Diana Loredana and Simone Sim. Next up: Casa Jako, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Eugeniu Arny is a tech house and techno artist based in United Kingdom, with 11 
 
 Duwat?, Diana Loredana, Simone Sim
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eugeniuarny/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eugeniuarny/)*

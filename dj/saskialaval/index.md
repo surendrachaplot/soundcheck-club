@@ -1,13 +1,14 @@
 # saskia laval
 
-saskia laval is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BASIS, Utrecht on Fri, 29 Jan 2027.
+saskia laval is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at John Doe, Amsterdam on Sat, 12 Dec 2026.
 
-saskia laval is a techno and hardcore artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Gaya Carmeli, Alex Sharp and Amy Rymes. Next up: BASIS, Utrecht on Fri 29 Jan.
+saskia laval is a techno and hardcore artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Gaya Carmeli, Robin Hastings and SASHE. Next up: John Doe, Amsterdam on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | John Doe | Amsterdam |
 | Fri, 29 Jan 2027 | BASIS | Utrecht |
 
 ## Recently played
@@ -23,6 +24,6 @@ saskia laval is a techno and hardcore artist based in Netherlands, with 11 gigs 
 
 ## Shares bills with
 
-Gaya Carmeli, Alex Sharp, Amy Rymes
+Gaya Carmeli, Robin Hastings, SASHE (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saskialaval/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saskialaval/)*

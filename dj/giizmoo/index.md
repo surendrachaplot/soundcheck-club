@@ -1,6 +1,6 @@
 # Giizmoo
 
-Giizmoo is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paramour, Brussels on Sat, 28 Nov 2026.
+Giizmoo is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Paramour, Brussels on Sat, 28 Nov 2026.
 
 Giizmoo is a techno and minimal techno artist based in Belgium, with 12 gigs on soundcheck across Berlin and Brussels. Often billed alongside Billy Boy, ATARAXY and AYMEN. Next up: Paramour, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Giizmoo is a techno and minimal techno artist based in Belgium, with 12 gigs on 
 
 Billy Boy, ATARAXY, AYMEN (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giizmoo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giizmoo/)*

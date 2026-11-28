@@ -1,14 +1,15 @@
 # Kryptonicadjs
 
-Kryptonicadjs is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bridge 48, Barcelona on Sat, 5 Dec 2026.
+Kryptonicadjs is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bridge 48, Barcelona on Sat, 5 Dec 2026.
 
-Kryptonicadjs is a minimal and minimal techno artist based in Italy, with 11 gigs on soundcheck across Barcelona, Berlin and Milan. Often billed alongside Andrefabbrikk DJ and Rakel. Next up: Bridge 48, Barcelona on Sat 5 Dec.
+Kryptonicadjs is a minimal and minimal techno artist based in Italy, with 12 gigs on soundcheck across Barcelona, Berlin and Milan. Often billed alongside Andrefabbrikk DJ and Rakel. Next up: Bridge 48, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Bridge 48 | Barcelona |
+| Sat, 5 Dec 2026 | The Supermercat Gotico | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kryptonicadjs is a minimal and minimal techno artist based in Italy, with 11 gig
 
 Andrefabbrikk DJ, Rakel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kryptonicadjs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kryptonicadjs/)*

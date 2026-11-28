@@ -1,6 +1,6 @@
 # m.bience
 
-m.bience is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atdge Seoul, Seoul on Wed, 2 Dec 2026.
+m.bience is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Atdge Seoul, Seoul on Wed, 2 Dec 2026.
 
 m.bience is a techno and trance artist based in Kazakhstan, with 45 gigs on soundcheck across Seoul. Often billed alongside PhaseLead, Naturalhigh and ILLUMI. Next up: Atdge Seoul, Seoul on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ m.bience is a techno and trance artist based in Kazakhstan, with 45 gigs on soun
 
 PhaseLead, Naturalhigh, ILLUMI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.bience/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.bience/)*

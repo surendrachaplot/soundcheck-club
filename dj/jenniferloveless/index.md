@@ -1,16 +1,16 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
+Jennifer Loveless is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bonython Park, Adelaide on Sat, 26 Dec 2026.
 
-Jennifer Loveless is a house and techno artist based in Australia, with 265 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 64 more. Often billed alongside Fafi Abdel Nour, BASHKKA and ISAbella. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
+Jennifer Loveless is a house and techno artist based in Australia, with 266 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 64 more. Often billed alongside Fafi Abdel Nour, BASHKKA and ISAbella. Next up: Bonython Park, Adelaide on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 26 Dec 2026 | Bonython Park | Adelaide |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
+| Fri, 26 Feb 2027 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 | Thu, 26 Aug 2027 | Norton Disney | Midlands |
 
@@ -29,4 +29,4 @@ Jennifer Loveless is a house and techno artist based in Australia, with 265 gigs
 
 Fafi Abdel Nour, BASHKKA, ISAbella
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

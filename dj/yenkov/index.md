@@ -1,13 +1,14 @@
 # YENKOV
 
-YENKOV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Plage De Torcy, Paris on Sun, 16 May 2027.
+YENKOV is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Unité.22, Marseille on Fri, 11 Dec 2026.
 
-YENKOV is a techno and trance artist based in France, with 54 gigs on soundcheck across Berlin, Brussels, Buenos Aires and Copenhagen and 6 more. Often billed alongside Laze, VANROOSE and VOST. Next up: Plage De Torcy, Paris on Sun 16 May.
+YENKOV is a techno and trance artist based in France, with 55 gigs on soundcheck across Berlin, Brussels, Buenos Aires and Copenhagen and 6 more. Often billed alongside Laze, Etienne De Crecy and VANROOSE. Next up: Unité.22, Marseille on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Unité.22 | Marseille |
 | Sun, 16 May 2027 | Plage De Torcy | Paris |
 
 ## Recently played
@@ -23,6 +24,6 @@ YENKOV is a techno and trance artist based in France, with 54 gigs on soundcheck
 
 ## Shares bills with
 
-Laze, VANROOSE, VOST (3)
+Laze, Etienne De Crecy, VANROOSE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yenkov/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yenkov/)*

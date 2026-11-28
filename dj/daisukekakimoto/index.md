@@ -1,6 +1,6 @@
 # Daisuke Kakimoto
 
-Daisuke Kakimoto is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Daphnia, Osaka on Sat, 19 Dec 2026.
+Daisuke Kakimoto is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Daphnia, Osaka on Sat, 19 Dec 2026.
 
 Daisuke Kakimoto is a house and disco artist based in Japan, with 34 gigs on soundcheck across Osaka. Often billed alongside Norio, Mori Ra and Roy Comanchero. Next up: Club Daphnia, Osaka on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Daisuke Kakimoto is a house and disco artist based in Japan, with 34 gigs on sou
 
 Norio, Mori Ra, Roy Comanchero
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekakimoto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekakimoto/)*

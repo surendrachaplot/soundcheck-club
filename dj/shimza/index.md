@@ -1,6 +1,6 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+Shimza is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
 Shimza is an afro house and house artist based in South Africa, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Shimza is an afro house and house artist based in South Africa, with 168 gigs on
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

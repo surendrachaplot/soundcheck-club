@@ -1,6 +1,6 @@
 # Hexx
 
-Hexx is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
+Hexx is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Central Florida Fairgrounds, Florida on Fri, 23 Apr 2027.
 
 Hexx is a dubstep and techno artist based in Argentina, with 9 gigs on soundcheck across Boston, Buenos Aires, Denver and Detroit and 3 more. Often billed alongside Versa, A Hundred Drums and AG (NYC). Next up: Central Florida Fairgrounds, Florida on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Hexx is a dubstep and techno artist based in Argentina, with 9 gigs on soundchec
 
 Versa, A Hundred Drums, AG (NYC)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexx/)*

@@ -1,0 +1,28 @@
+# rebrånded
+
+rebrånded is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Toekomstmuziek, Amsterdam on Sat, 23 Jan 2027.
+
+rebrånded is a techno and tech house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, London and Utrecht. Often billed alongside Antonio Fevola, Inez Akker and Caelestis. Next up: Toekomstmuziek, Amsterdam on Sat 23 Jan.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 23 Jan 2027 | Toekomstmuziek | Amsterdam |
+
+## Recently played
+
+- Meet Berlage, Amsterdam · Sat, 24 Oct 2026
+- Club Church, Amsterdam · Sat, 24 Oct 2026
+- TBA, Amsterdam · Sat, 29 Aug 2026
+- Melkweg, Amsterdam · Fri, 17 Jul 2026
+- Basing House, London · Fri, 10 Jul 2026
+- Waterhouse Studios, Amsterdam · Fri, 5 Jun 2026
+- Club Church, Amsterdam · Sat, 11 Apr 2026
+- De Fik Garden, Amsterdam · Sat, 4 Apr 2026
+
+## Shares bills with
+
+Antonio Fevola, Inez Akker, Caelestis
+
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebranded/)*

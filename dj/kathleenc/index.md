@@ -1,6 +1,6 @@
 # Kathleen C
 
-Kathleen C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at UMI, Brussels on Sun, 20 Dec 2026.
+Kathleen C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at UMI, Brussels on Sun, 20 Dec 2026.
 
 Kathleen C is a house and techno artist based in Belgium, with 33 gigs on soundcheck across Antwerp, Brussels, Strasbourg and The Hague. Often billed alongside Vera Moro, Azo and Stanislawa. Next up: UMI, Brussels on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Kathleen C is a house and techno artist based in Belgium, with 33 gigs on soundc
 
 Vera Moro, Azo, Stanislawa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*

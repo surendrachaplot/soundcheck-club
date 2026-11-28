@@ -1,6 +1,6 @@
 # Amøn
 
-Amøn is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 5 Dec 2026.
+Amøn is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 5 Dec 2026.
 
 Amøn is a techno and trance artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside KLING&KLANG, DETOXX and Fronsi. Next up: Lokschuppen Berlin, Berlin on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Amøn is a techno and trance artist based in Germany, with 112 gigs on soundchec
 
 KLING&KLANG, DETOXX, Fronsi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*

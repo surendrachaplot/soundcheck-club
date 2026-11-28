@@ -1,6 +1,6 @@
 # KENDIR
 
-KENDIR is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Unit 58, London on Fri, 11 Dec 2026.
+KENDIR is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Unit 58, London on Fri, 11 Dec 2026.
 
 KENDIR is a techno and deep house artist based in Kazakhstan, with 4 gigs on soundcheck across London. Often billed alongside AALEX, Khoshekh and ALI RANA. Next up: Unit 58, London on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ KENDIR is a techno and deep house artist based in Kazakhstan, with 4 gigs on sou
 
 AALEX, Khoshekh, ALI RANA
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kendir/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kendir/)*

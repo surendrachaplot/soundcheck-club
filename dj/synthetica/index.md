@@ -1,6 +1,6 @@
 # Synthetica
 
-Synthetica is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - BRASOV, Romania on Sat, 5 Dec 2026.
+Synthetica is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - BRASOV, Romania on Sat, 5 Dec 2026.
 
 Synthetica is a techno and psytrance artist based in Romania, with 4 gigs on soundcheck across Bucharest and Romania. Often billed alongside FAUST, Dj Mediensis and Kanghu. Next up: TBA - BRASOV, Romania on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Synthetica is a techno and psytrance artist based in Romania, with 4 gigs on sou
 
 FAUST (1), Dj Mediensis, Kanghu
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synthetica/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synthetica/)*

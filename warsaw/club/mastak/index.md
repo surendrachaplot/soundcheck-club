@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 14 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "PMA all night long" on Fri, 27 Nov 2026.
+Mastak is a music venue in Warsaw with 13 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "DUST w/ Trippsy(LT), Tumosa(LT), Marijus Klimaitis(LT), Samogulov" on Sat, 28 Nov 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Skiba, beccs, Be.roo and Body Marcus and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 13 upcoming gigs, with line-ups including Adrian Skiba, beccs, Be.roo and Body Marcus and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | PMA all night long |  |
 | Sat, 28 Nov 2026 | DUST w/ Trippsy(LT), Tumosa(LT), Marijus Klimaitis(LT), Samogulov | Samogulov, Trippsy |
 | Sun, 29 Nov 2026 | SUNDAY: VIKKI / zeroday | VIKKI_, zeroday |
 | Fri, 4 Dec 2026 | Tiny, Little Party For Friends by Natur and Closer | Timur Basha |
@@ -18,9 +17,10 @@ Mastak is a music venue in Warsaw listed on soundcheck. 14 upcoming gigs, with l
 | Sat, 12 Dec 2026 | Label Night | Kacper Fronczak, NOSAL, koktelbel, zeroday |
 | Sun, 13 Dec 2026 | SUNDAY: PIØTR | PIØTR |
 | Fri, 18 Dec 2026 | Plastik / Be.roo / Alex S | Be.roo, Plastik (1) |
+| Sat, 19 Dec 2026 | II Years of Arya: Vertical Spectrum, Adrian Skiba, KOSAA | Adrian Skiba, KOSAA |
 
 ## Address
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

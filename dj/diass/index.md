@@ -1,6 +1,6 @@
 # Diass
 
-Diass is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Vertigo, Toronto on Fri, 27 Nov 2026.
+Diass is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Vertigo, Toronto on Fri, 27 Nov 2026.
 
 Diass is a house and afro house artist based in Bulgaria, with 11 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ibiza and 2 more. Often billed alongside DiMO (BG), Blathoven and Dj Diass. Next up: Vertigo, Toronto on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ Diass is a house and afro house artist based in Bulgaria, with 11 gigs on soundc
 
 ## Recently played
 
+- Vertigo, Toronto · Fri, 27 Nov 2026
 - WestWeelde, Amsterdam · Sat, 24 Oct 2026
 - Hï Ibiza, Ibiza · Sun, 6 Sept 2026
 - Pracht, Frankfurt · Sat, 5 Sept 2026
@@ -20,10 +21,9 @@ Diass is a house and afro house artist based in Bulgaria, with 11 gigs on soundc
 - Chinois Ibiza, Ibiza · Sun, 19 Jul 2026
 - Sofia Airport Park, Sofia · Fri, 19 Jun 2026
 - TBA - st. Vitoshko lale 16, Sofia · Sun, 8 Sept 2024
-- TBA - Morsko Casino Rooftop, Sofia · Fri, 17 May 2024
 
 ## Shares bills with
 
 DiMO (BG), Blathoven, Dj Diass
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*

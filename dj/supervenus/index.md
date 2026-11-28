@@ -1,6 +1,6 @@
 # Super Venus
 
-Super Venus is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
+Super Venus is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 1520, North on Fri, 27 Nov 2026.
 
 Super Venus is a techno and house artist, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside DJ Rino, Walrus and Alex Picone. Next up: 1520, North on Fri 27 Nov.
 
@@ -14,6 +14,7 @@ Super Venus is a techno and house artist, with 50 gigs on soundcheck across Amst
 
 ## Recently played
 
+- 1520, North · Fri, 27 Nov 2026
 - Nido Marseille, Marseille · Sat, 21 Nov 2026
 - TBA, Lyon · Sat, 31 Oct 2026
 - Paloma, Berlin · Fri, 2 Oct 2026
@@ -21,10 +22,9 @@ Super Venus is a techno and house artist, with 50 gigs on soundcheck across Amst
 - Village Underground Barcelona, Barcelona · Sat, 20 Jun 2026
 - Platforma Wolff, Bucharest · Fri, 12 Jun 2026
 - Macadam, Nantes · Sat, 30 May 2026
-- 90mil, Berlin · Fri, 15 May 2026
 
 ## Shares bills with
 
 DJ Rino, Walrus, Alex Picone
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supervenus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supervenus/)*

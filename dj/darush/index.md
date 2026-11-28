@@ -1,6 +1,6 @@
 # Darush
 
-Darush is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
+Darush is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 19 Dec 2026.
 
 Darush is a house and techno artist based in Iran, with 44 gigs on soundcheck across Barcelona, Glasgow, Lisbon and London. Often billed alongside Jos, KT and De La Reef. Next up: Starlane Pizza Bar, London on Sat 19 Dec.
 
@@ -28,4 +28,4 @@ Darush is a house and techno artist based in Iran, with 44 gigs on soundcheck ac
 
 Jos, KT, De La Reef
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*

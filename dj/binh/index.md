@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Robert Johnson, Hesse on Fri, 4 Dec 2026.
+Binh is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Robert Johnson, Hesse on Fri, 4 Dec 2026.
 
 Binh is a techno and house artist based in Germany, with 221 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Robert Johnson, Hesse on Fri 4 Dec.
 
@@ -31,4 +31,4 @@ Binh is a techno and house artist based in Germany, with 221 gigs on soundcheck 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

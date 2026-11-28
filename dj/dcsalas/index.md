@@ -1,8 +1,8 @@
 # DC Salas
 
-DC Salas is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Under Club, Buenos Aires on Sun, 6 Dec 2026.
+DC Salas is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Under Club, Buenos Aires on Sun, 6 Dec 2026.
 
-DC Salas is a house and techno artist based in Belgium, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Innershades, Sara Dziri and Phara. Next up: Under Club, Buenos Aires on Sun 6 Dec.
+DC Salas is a house and techno artist based in Belgium, with 122 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Innershades, Sara Dziri and Phara. Next up: Under Club, Buenos Aires on Sun 6 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DC Salas is a house and techno artist based in Belgium, with 121 gigs on soundch
 | Fri, 11 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 31 Dec 2026 | Fuse | Brussels |
 | Fri, 15 Jan 2027 | La Machine Du Moulin Rouge | Paris |
+| Sat, 20 Feb 2027 | TBA - Powered by: Void Acoustics | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DC Salas is a house and techno artist based in Belgium, with 121 gigs on soundch
 
 Innershades, Sara Dziri, Phara
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*

@@ -1,6 +1,6 @@
 # Nao(rural)
 
-Nao(rural) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ya Teng Homestay, Thailand on Fri, 12 Feb 2027.
+Nao(rural) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ya Teng Homestay, Thailand on Fri, 12 Feb 2027.
 
 Nao(rural) is a techno and house artist based in Japan, with 29 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Los Angeles and 9 more. Often billed alongside Atsushi Maeda, Toner(JP) and Amelia Holt. Next up: Ya Teng Homestay, Thailand on Fri 12 Feb.
 
@@ -25,4 +25,4 @@ Nao(rural) is a techno and house artist based in Japan, with 29 gigs on soundche
 
 Atsushi Maeda, Toner(JP), Amelia Holt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naorural/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naorural/)*

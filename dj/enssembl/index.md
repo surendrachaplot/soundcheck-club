@@ -1,6 +1,6 @@
 # Enssembl
 
-Enssembl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, New York City on Fri, 11 Dec 2026.
+Enssembl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, New York City on Fri, 11 Dec 2026.
 
 Enssembl is a techno and house artist based in France, with 26 gigs on soundcheck across New York City. Often billed alongside Dune, Alchemist Spider and Karina Anda. Next up: TBA, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Enssembl is a techno and house artist based in France, with 26 gigs on soundchec
 
 Dune, Alchemist Spider, Karina Anda
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enssembl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enssembl/)*

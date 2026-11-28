@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Adam X - Craig Gonzalez b2b Francois Dillinger - + more - Marble Bar" on Fri, 27 Nov 2026.
+Marble Bar is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "FIESTA RAVE" on Sat, 28 Nov 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Adam X, a jaske, Ashton Swinton and Casimir von Oettingen and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including a jaske, Ashton Swinton, Casimir von Oettingen and craftmatik and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Adam X - Craig Gonzalez b2b Francois Dillinger - + more - Marble Bar | Adam X, Craig Gonzalez, Francois Dillinger, Fusegrade, Kobe Dupree, mira (5) |
 | Sat, 28 Nov 2026 | FIESTA RAVE |  |
 | Fri, 4 Dec 2026 | FOG 19 | DJ Hyperactive, Father Dukes, MAEDON |
 | Thu, 10 Dec 2026 | The Occasional Thursday Party with S.P.Y and Friends | MagickTraxx, S.P.Y, The Chancellor |
@@ -21,4 +20,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

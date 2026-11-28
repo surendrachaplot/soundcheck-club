@@ -1,6 +1,6 @@
 # Otto Vlotto
 
-Otto Vlotto is a Jungle and Breakcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Blue Velvet, Berlin on Fri, 4 Dec 2026.
+Otto Vlotto is a Jungle and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Blue Velvet, Berlin on Fri, 4 Dec 2026.
 
 Otto Vlotto is a jungle and breakcore artist based in New Zealand, with 27 gigs on soundcheck across Auckland, Berlin, Ghent and London. Often billed alongside DJ STRAIGHT GIRL, DJ Fucks Himself and Jim Bean. Next up: Blue Velvet, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Otto Vlotto is a jungle and breakcore artist based in New Zealand, with 27 gigs 
 
 DJ STRAIGHT GIRL, DJ Fucks Himself, Jim Bean
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottovlotto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottovlotto/)*

@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at International Fair Plovdiv, Bulgaria on Sat, 28 Nov 2026.
+Innellea is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at International Fair Plovdiv, Bulgaria on Sat, 28 Nov 2026.
 
 Innellea is a techno and house artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside Colyn, Mind Against and Adriatique. Next up: International Fair Plovdiv, Bulgaria on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Innellea is a techno and house artist based in Germany, with 162 gigs on soundch
 
 Colyn, Mind Against, Adriatique
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

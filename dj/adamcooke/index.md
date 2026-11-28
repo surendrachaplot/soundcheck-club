@@ -1,6 +1,6 @@
 # Adam Cooke
 
-Adam Cooke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+Adam Cooke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 Adam Cooke is a house and techno artist based in Ireland, with 25 gigs on soundcheck across Amsterdam, Berlin and Dublin. Often billed alongside Meriem S, DJ Westfa and Flaaviø. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Adam Cooke is a house and techno artist based in Ireland, with 25 gigs on soundc
 
 Meriem S, DJ Westfa, Flaaviø
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcooke/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcooke/)*

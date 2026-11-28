@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Kompass Klub, Ghent on Fri, 11 Dec 2026.
+Vera Grace is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Kompass Klub, Ghent on Fri, 11 Dec 2026.
 
 Vera Grace is a techno and industrial artist based in Netherlands, with 139 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: Kompass Klub, Ghent on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Vera Grace is a techno and industrial artist based in Netherlands, with 139 gigs
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

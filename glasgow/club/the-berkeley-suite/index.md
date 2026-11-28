@@ -1,14 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sih-Lest presents: Jasper Tygner & DOREY" on Fri, 27 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "BREATHE: Crazy P : Early Doors 6PM -10PM " on Sat, 28 Nov 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including Al Kent, BEMZ, BETH and Bruce Sangster and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including Al Kent, Austin Ato, BEMZ and BETH and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Sih-Lest presents: Jasper Tygner & DOREY | DOREY, Jasper Tygner |
 | Sat, 28 Nov 2026 | BREATHE: Crazy P : Early Doors 6PM -10PM  | Crazy P, Jamie Gunn |
 | Thu, 3 Dec 2026 | Gig |  |
 | Fri, 4 Dec 2026 | Co-Accused with The Hacker | Co-Accused, The Hacker |
@@ -18,9 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming
 | Fri, 11 Dec 2026 | I Love Acid versus Attack Release | Chris Liberator, I am blip, Kairogen, Obakegaku お化け学, Posthuman, Ty Lumnus |
 | Sat, 12 Dec 2026 | Optimo (Espacio) - The Depths of Winter | Optimo (Espacio) |
 | Mon, 14 Dec 2026 | The Berkeley Suite presents: Ewan McVicar b2b Special Request | Ewan McVicar, Special Request |
+| Wed, 16 Dec 2026 | PILOT | Bruce Sangster |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

@@ -1,14 +1,13 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "404: Krl Mx" on Fri, 27 Nov 2026.
+The Comfort Zone is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "404: franck" on Fri, 4 Dec 2026.
 
-The Comfort Zone is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Asli, Burnii, Crusy and Farouki and 2 more. See dates, start times and who's playing. 1369 Queen St. West.
+The Comfort Zone is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including Asli, Crusy, Farouki and Flipside and 2 more. See dates, start times and who's playing. 1369 Queen St. West.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | 404: Krl Mx | Burnii, KILL 9 1, Krl Mx, Marzi (2), V (Toronto) |
 | Fri, 4 Dec 2026 | 404: franck | KILL 9 1, KVGE, MVCHE, NPCgroove, THREECARDMONTY, franck |
 | Sat, 5 Dec 2026 | Morning Mass pres. 30 Years Of Music: The Experience Continues with Crusy | Crusy, Jerome Robins, KVGE, Theta State |
 | Fri, 11 Dec 2026 | 404: Rebekah | KILL 9 1, Rebekah |
@@ -19,4 +18,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 6 upcoming gi
 
 1369 Queen St. West, Toronto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

@@ -1,6 +1,6 @@
 # Unbalance
 
-Unbalance is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+Unbalance is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 Unbalance is an industrial and techno artist based in Russia, with 5 gigs on soundcheck across Dubai, Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Unbalance is an industrial and techno artist based in Russia, with 5 gigs on sou
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unbalance/)*

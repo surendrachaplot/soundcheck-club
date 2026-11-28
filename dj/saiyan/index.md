@@ -1,6 +1,6 @@
 # Saiyan
 
-Saiyan is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Beaver Works, Leeds on Sat, 28 Nov 2026.
+Saiyan is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Beaver Works, Leeds on Sat, 28 Nov 2026.
 
 Saiyan is a drum & bass and hardcore artist, with 4 gigs on soundcheck across Hong Kong, Leeds and Toronto. Often billed alongside Changa, DAMO and ELS (UK). Next up: Beaver Works, Leeds on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Saiyan is a drum & bass and hardcore artist, with 4 gigs on soundcheck across Ho
 
 Changa, DAMO, ELS (UK)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saiyan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saiyan/)*

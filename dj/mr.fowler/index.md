@@ -1,6 +1,6 @@
 # Mr. Fowler
 
-Mr. Fowler is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
+Mr. Fowler is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
 
 Mr. Fowler is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Cleveland and Los Angeles. Often billed alongside Theo (CLE), Milo B and Smooth Talk. Next up: Say Yes, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mr. Fowler is a house and deep house artist based in United States of America, w
 
 Theo (CLE), Milo B, Smooth Talk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.fowler/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.fowler/)*

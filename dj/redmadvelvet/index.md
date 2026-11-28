@@ -1,6 +1,6 @@
 # Redmadvelvet
 
-Redmadvelvet is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Vondelbunker, Amsterdam on Sat, 28 Nov 2026.
+Redmadvelvet is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Vondelbunker, Amsterdam on Sat, 28 Nov 2026.
 
 Redmadvelvet is a techno and acid artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin and Cologne. Often billed alongside Daniel Englisch, Detune and DJ Roach. Next up: Vondelbunker, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Redmadvelvet is a techno and acid artist based in Germany, with 9 gigs on soundc
 
 Daniel Englisch, Detune, DJ Roach
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmadvelvet/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redmadvelvet/)*

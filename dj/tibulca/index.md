@@ -1,6 +1,6 @@
 # Tibulca
 
-Tibulca is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at TBA - secret location in Farringdon , London on Sat, 16 Jan 2027.
+Tibulca is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - secret location in Farringdon , London on Sat, 16 Jan 2027.
 
 Tibulca is a deep house and techno artist, with 4 gigs on soundcheck across London. Often billed alongside Binary Operator, nicky brown snout and Basement Maxx. Next up: TBA - secret location in Farringdon , London on Sat 16 Jan.
 
@@ -20,4 +20,4 @@ Tibulca is a deep house and techno artist, with 4 gigs on soundcheck across Lond
 
 Binary Operator, nicky brown snout, Basement Maxx
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibulca/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibulca/)*

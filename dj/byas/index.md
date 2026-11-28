@@ -1,6 +1,6 @@
 # BYAS
 
-BYAS is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Bangkok on Sat, 5 Dec 2026.
+BYAS is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Bangkok on Sat, 5 Dec 2026.
 
 BYAS is an afro house and techno artist based in Belgium, with 17 gigs on soundcheck across Bangkok. Often billed alongside Cameron Glasgow, JNJS and Berry (KR). Next up: TBA, Bangkok on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BYAS is an afro house and techno artist based in Belgium, with 17 gigs on soundc
 
 Cameron Glasgow, JNJS, Berry (KR)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byas/)*

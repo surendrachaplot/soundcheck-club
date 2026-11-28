@@ -1,6 +1,6 @@
 # Vali NME Click
 
-Vali NME Click is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 12 Dec 2026.
+Vali NME Click is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 12 Dec 2026.
 
 Vali NME Click is a jungle and drum & bass artist based in Germany, with 14 gigs on soundcheck across Berlin, Frankfurt and London. Often billed alongside DJ Chromz, KaraKara and Shifty Rogue. Next up: YAAM Berlin, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Vali NME Click is a jungle and drum & bass artist based in Germany, with 14 gigs
 
 DJ Chromz, KaraKara, Shifty Rogue
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valinmeclick/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valinmeclick/)*

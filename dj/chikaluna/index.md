@@ -1,18 +1,18 @@
 # Chika Luna
 
-Chika Luna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 27 Nov 2026.
+Chika Luna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at or, Tokyo on Sun, 27 Dec 2026.
 
-Chika Luna is a house and techno artist based in Japan, with 95 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SUETSUGU. Next up: Z Maruyama, Tokyo on Fri 27 Nov.
+Chika Luna is a house and techno artist based in Japan, with 95 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SUETSUGU. Next up: or, Tokyo on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Z Maruyama | Tokyo |
 | Sun, 27 Dec 2026 | or | Tokyo |
 
 ## Recently played
 
+- Z Maruyama, Tokyo · Fri, 27 Nov 2026
 - WOMB, Tokyo · Sat, 21 Nov 2026
 - Royal Lounge, Tokyo · Tue, 3 Nov 2026
 - COUNTER CLUB, Tokyo · Sun, 1 Nov 2026
@@ -20,10 +20,9 @@ Chika Luna is a house and techno artist based in Japan, with 95 gigs on soundche
 - VENT, Tokyo · Tue, 22 Sept 2026
 - Z Maruyama, Tokyo · Sat, 29 Aug 2026
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 23 Aug 2026
-- Oath, Tokyo · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Yamariki, PUNK N MATRIX, SUETSUGU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*

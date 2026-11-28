@@ -1,6 +1,6 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 28 Nov 2026.
+Crazy P is a Disco and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 28 Nov 2026.
 
 Crazy P is a disco and house artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 33 more. Often billed alongside Grace Sands, Luke Una and DJ Paulette. Next up: The Berkeley Suite, Glasgow on Sat 28 Nov.
 
@@ -31,4 +31,4 @@ Crazy P is a disco and house artist based in United Kingdom, with 142 gigs on so
 
 Grace Sands, Luke Una, DJ Paulette
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

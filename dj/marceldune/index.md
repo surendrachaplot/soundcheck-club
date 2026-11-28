@@ -1,6 +1,6 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
+MarcelDune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
 
 MarcelDune is a techno and house artist based in Greece, with 72 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 16 more. Often billed alongside Amphia, RayRay and ASHTREY. Next up: DRUMSHEDS, London on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ MarcelDune is a techno and house artist based in Greece, with 72 gigs on soundch
 
 Amphia, RayRay, ASHTREY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

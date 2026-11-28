@@ -1,14 +1,13 @@
 # Joey (2)
 
-Joey (2) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+Joey (2) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at OST, Berlin on Sat, 28 Nov 2026.
 
-Joey is a techno and trance artist based in Austria, with 129 gigs on soundcheck across Berlin, Leeds, Lisbon and Nürnberg and 2 more. Often billed alongside Crystal O, KILIÅN and YØNDER. Next up: KitKatClub, Berlin on Fri 27 Nov.
+Joey is a techno and trance artist based in Austria, with 129 gigs on soundcheck across Berlin, Leeds, Lisbon and Nürnberg and 2 more. Often billed alongside Crystal O, KILIÅN and YØNDER. Next up: OST, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | KitKatClub | Berlin |
 | Sat, 28 Nov 2026 | OST | Berlin |
 | Fri, 18 Dec 2026 | Das Werk | Vienna |
 | Sat, 19 Dec 2026 | Das Werk | Vienna |
@@ -16,6 +15,7 @@ Joey is a techno and trance artist based in Austria, with 129 gigs on soundcheck
 
 ## Recently played
 
+- KitKatClub, Berlin · Fri, 27 Nov 2026
 - Das Werk, Vienna · Sat, 14 Nov 2026
 - Das Werk, Vienna · Fri, 13 Nov 2026
 - Das Werk, Vienna · Sat, 31 Oct 2026
@@ -23,10 +23,9 @@ Joey is a techno and trance artist based in Austria, with 129 gigs on soundcheck
 - Gleis19, Vienna · Fri, 11 Sept 2026
 - Das Werk, Vienna · Fri, 28 Aug 2026
 - Das Werk, Vienna · Fri, 14 Aug 2026
-- Lokschuppen Berlin, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Crystal O, KILIÅN, YØNDER
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joey-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joey-2/)*

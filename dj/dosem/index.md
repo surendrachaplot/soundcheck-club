@@ -1,14 +1,13 @@
 # Dosem
 
-Dosem is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tumbalong Park, Sydney on Sat, 28 Nov 2026.
+Dosem is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 5 Dec 2026.
 
-Dosem is a progressive house and techno artist based in Spain, with 82 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 35 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: Tumbalong Park, Sydney on Sat 28 Nov.
+Dosem is a progressive house and techno artist based in Spain, with 82 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 35 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Tumbalong Park | Sydney |
 | Sat, 5 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Dosem is a progressive house and techno artist based in Spain, with 82 gigs on s
 
 Jody Wisternoff, Marsh, Nicky Elisabeth
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*

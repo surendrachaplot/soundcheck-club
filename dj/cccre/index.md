@@ -1,6 +1,6 @@
 # cccre
 
-cccre is a Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Company Club, Milan on Sat, 28 Nov 2026.
+cccre is a Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Company Club, Milan on Sat, 28 Nov 2026.
 
 cccre is a techno artist based in Italy, with 24 gigs on soundcheck across Milan. Often billed alongside Marthial, Kora Lyssa and Elisa Bee. Next up: Company Club, Milan on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ cccre is a techno artist based in Italy, with 24 gigs on soundcheck across Milan
 
 Marthial, Kora Lyssa, Elisa Bee
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cccre/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cccre/)*

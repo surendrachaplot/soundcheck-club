@@ -1,6 +1,6 @@
 # Mr.Ciao
 
-Mr.Ciao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
+Mr.Ciao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lieberscholli, Munich on Fri, 11 Dec 2026.
 
 Mr.Ciao is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Konfusia, Aio and Krawalle und Liebe. Next up: Lieberscholli, Munich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Mr.Ciao is a techno and house artist based in Germany, with 10 gigs on soundchec
 
 Konfusia, Aio, Krawalle und Liebe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ciao/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ciao/)*

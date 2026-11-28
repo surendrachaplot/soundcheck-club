@@ -1,6 +1,6 @@
 # Neg
 
-Neg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bagno Mundial, Bologna on Sat, 5 Dec 2026.
+Neg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bagno Mundial, Bologna on Sat, 5 Dec 2026.
 
 Neg is a house and techno artist based in Italy, with 11 gigs on soundcheck across Bologna. Often billed alongside Bruno Arcuri, Alessio Collina and Andrea Bassi. Next up: Bagno Mundial, Bologna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Neg is a house and techno artist based in Italy, with 11 gigs on soundcheck acro
 
 Bruno Arcuri, Alessio Collina, Andrea Bassi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neg/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neg/)*

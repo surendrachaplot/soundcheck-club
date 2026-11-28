@@ -1,6 +1,6 @@
 # Ana Hagen
 
-Ana Hagen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Delta Rica, Buenos Aires on Sat, 12 Dec 2026.
+Ana Hagen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Delta Rica, Buenos Aires on Sat, 12 Dec 2026.
 
 Ana Hagen is a house and techno artist based in Argentina, with 46 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Lisbon and 2 more. Often billed alongside Manu Oubiña, Bermani and Ian Puchetti. Next up: Delta Rica, Buenos Aires on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ana Hagen is a house and techno artist based in Argentina, with 46 gigs on sound
 
 Manu Oubiña, Bermani, Ian Puchetti
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anahagen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anahagen/)*

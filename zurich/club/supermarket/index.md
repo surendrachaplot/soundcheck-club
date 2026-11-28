@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ruhige" on Fri, 27 Nov 2026.
+Supermarket is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "9 Jahre Unique - 24 hours rave" on Sat, 28 Nov 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with line-ups including CEZAR, And Hazel, ARWIN AZIZ and Daughter In Law and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including CEZAR, And Hazel, ARWIN AZIZ and Daughter In Law and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ruhige | Locklead |
 | Sat, 28 Nov 2026 | 9 Jahre Unique - 24 hours rave | Juzz, Paul K, Petre Inspirescu |
 | Fri, 4 Dec 2026 | MYSTIKA with Kitty Amor | Kitty Amor, Niiomi |
 | Sat, 5 Dec 2026 | Playroom | ARWIN AZIZ, And Hazel, X:VI |
@@ -23,4 +22,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, w
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

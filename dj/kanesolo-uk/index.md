@@ -1,6 +1,6 @@
 # Kane Solo
 
-Kane Solo is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Secret location, East London, London on Sat, 28 Nov 2026.
+Kane Solo is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Secret location, East London, London on Sat, 28 Nov 2026.
 
 Kane Solo is a minimal and house artist based in United Kingdom, with 47 gigs on soundcheck across London and Malta. Often billed alongside Saf Mitchell, LUUD and Finn Eddy. Next up: TBA - Secret location, East London, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kane Solo is a minimal and house artist based in United Kingdom, with 47 gigs on
 
 Saf Mitchell, LUUD, Finn Eddy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanesolo-uk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanesolo-uk/)*

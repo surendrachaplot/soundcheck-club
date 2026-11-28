@@ -1,6 +1,6 @@
 # Love Machine
 
-Love Machine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Merchant, Liverpool on Thu, 31 Dec 2026.
+Love Machine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Merchant, Liverpool on Thu, 31 Dec 2026.
 
 Love Machine is a house and disco artist based in United Kingdom, with 19 gigs on soundcheck across Liverpool, Manchester and Riga. Often billed alongside Jacinta, AC Groove and Emmett G. Next up: The Merchant, Liverpool on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Love Machine is a house and disco artist based in United Kingdom, with 19 gigs o
 
 Jacinta, AC Groove, Emmett G
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovemachine/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovemachine/)*

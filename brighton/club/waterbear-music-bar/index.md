@@ -1,6 +1,6 @@
 # Waterbear Music Bar
 
-Waterbear Music Bar is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Confluencia 001: Global Club Music" on Sat, 28 Nov 2026.
+Waterbear Music Bar is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Confluencia 001: Global Club Music" on Sat, 28 Nov 2026.
 
 Waterbear Music Bar is a music venue in Brighton listed on soundcheck. 1 upcoming gig, with line-ups including Emma Rose. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Waterbear Music Bar is a music venue in Brighton listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Confluencia 001: Global Club Music | Emma Rose |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-music-bar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-music-bar/)*

@@ -1,6 +1,6 @@
 # Annakonda
 
-Annakonda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
+Annakonda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sensorium, Berlin on Fri, 4 Dec 2026.
 
 Annakonda is a techno and house artist based in Austria, with 14 gigs on soundcheck across Berlin and Vienna. Often billed alongside EVYA, Karolanne and Telicho. Next up: Sensorium, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Annakonda is a techno and house artist based in Austria, with 14 gigs on soundch
 
 EVYA, Karolanne, Telicho
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annakonda-at/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annakonda-at/)*

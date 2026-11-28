@@ -1,6 +1,6 @@
 # Insolence
 
-Insolence is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Barrio Cafe, Brussels on Fri, 11 Dec 2026.
+Insolence is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Barrio Cafe, Brussels on Fri, 11 Dec 2026.
 
 Insolence is a techno and acid artist based in France, with 19 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside ECH/O, Makoveev and Minopolska. Next up: Barrio Cafe, Brussels on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Insolence is a techno and acid artist based in France, with 19 gigs on soundchec
 
 ECH/O, Makoveev, Minopolska
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insolence/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insolence/)*

@@ -1,6 +1,6 @@
 # seja (1)
 
-seja (1) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Funke, Ghent on Thu, 3 Dec 2026.
+seja (1) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Funke, Ghent on Thu, 3 Dec 2026.
 
 seja is a house and acid artist, with 26 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 4 more. Often billed alongside Mowgli (NL), essi and Charlie. Next up: Funke, Ghent on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ seja is a house and acid artist, with 26 gigs on soundcheck across Amsterdam, An
 
 Mowgli (NL), essi, Charlie
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seja-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seja-1/)*

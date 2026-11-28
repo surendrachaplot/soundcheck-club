@@ -1,6 +1,6 @@
 # Lisandro Mustapic
 
-Lisandro Mustapic is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sun, 20 Dec 2026.
+Lisandro Mustapic is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Sun, 20 Dec 2026.
 
 Lisandro Mustapic is a house and minimal artist based in Spain, with 49 gigs on soundcheck across Barcelona and Madrid. Often billed alongside IVAN POSEIDON, MARYO and Derk. Next up: 303 Audiophile Bar, Barcelona on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Lisandro Mustapic is a house and minimal artist based in Spain, with 49 gigs on 
 
 IVAN POSEIDON, MARYO, Derk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisandromustapic/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisandromustapic/)*

@@ -1,14 +1,13 @@
 # Grow
 
-Grow is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Discothèque Tropicale 4th Birthday: JOSH FB, Caldo Verde, Beavs, Lena C, Fred Salt," on Fri, 27 Nov 2026.
+Grow is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "DeepDig: MarshmeLLo (NTS) // Kanem" on Sat, 28 Nov 2026.
 
-Grow is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alfie Panaiotis, Beavs, Charlie Dark and CSGRV and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Alfie Panaiotis, Charlie Dark, CSGRV and Furney > and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Discothèque Tropicale 4th Birthday: JOSH FB, Caldo Verde, Beavs, Lena C, Fred Salt, | Beavs, JOSH FB, Léna C |
 | Sat, 28 Nov 2026 | DeepDig: MarshmeLLo (NTS) // Kanem | Kanem, MarshmeLLo |
 | Sun, 29 Nov 2026 | Fresh Beats by London School of Electronic Music | Furney >, IUSTIN |
 | Sat, 5 Dec 2026 | Grow CHRISTMAS PARTY: CSGRV & DEMACQUE + SPECIAL GUEST | CSGRV |
@@ -20,4 +19,4 @@ Grow is a music venue in London listed on soundcheck. 7 upcoming gigs, with line
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

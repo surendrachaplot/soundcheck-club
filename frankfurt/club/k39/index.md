@@ -1,6 +1,6 @@
 # K39
 
-K39 is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "(Ver)Naschen" on Fri, 11 Dec 2026.
+K39 is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "(Ver)Naschen" on Fri, 11 Dec 2026.
 
 K39 is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including Chris Wood, Meat, Emil Bunker and Gregor Tresher and 2 more. See dates, start times and who's playing. Kaiserstraße 39, 60329 Frankfurt am Main.
 
@@ -19,4 +19,4 @@ K39 is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with li
 
 Kaiserstraße 39, 60329 Frankfurt am Main, Frankfurt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*

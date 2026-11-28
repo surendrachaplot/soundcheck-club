@@ -1,6 +1,6 @@
 # Labouts
 
-Labouts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 9 Jan 2027.
+Labouts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 9 Jan 2027.
 
 Labouts is a house and techno artist based in France, with 39 gigs on soundcheck across Amsterdam, Barcelona, Bordeaux and London and 3 more. Often billed alongside Woddd, Monile and Mari.te. Next up: Shelter Amsterdam, Amsterdam on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Labouts is a house and techno artist based in France, with 39 gigs on soundcheck
 
 Woddd, Monile, Mari.te
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*

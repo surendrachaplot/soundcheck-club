@@ -1,6 +1,6 @@
 # Caleb Laurenson
 
-Caleb Laurenson is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Madam, Amsterdam on Sun, 6 Dec 2026.
+Caleb Laurenson is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Madam, Amsterdam on Sun, 6 Dec 2026.
 
 Caleb Laurenson is a house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across Amsterdam, London and Mallorca. Often billed alongside Danny P, Kepler and Lily C-D. Next up: Madam, Amsterdam on Sun 6 Dec.
 
@@ -21,4 +21,4 @@ Caleb Laurenson is a house and tech house artist based in United Kingdom, with 5
 
 Danny P, Kepler, Lily C-D
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*

@@ -1,6 +1,6 @@
 # Galecta (2)
 
-Galecta (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Het Twiske, Amsterdam on Sat, 15 May 2027.
+Galecta (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Het Twiske, Amsterdam on Sat, 15 May 2027.
 
 Galecta is a baile funk and bass artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Sao Paulo and 1 more. Often billed alongside Shinshan Salazar, T.NO and Eris Drew. Next up: Het Twiske, Amsterdam on Sat 15 May.
 
@@ -25,4 +25,4 @@ Galecta is a baile funk and bass artist based in Netherlands, with 13 gigs on so
 
 Shinshan Salazar, T.NO, Eris Drew
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galecta-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galecta-2/)*

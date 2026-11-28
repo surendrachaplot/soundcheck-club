@@ -1,6 +1,6 @@
 # Brandon Benoit
 
-Brandon Benoit is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
+Brandon Benoit is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
 
 Brandon Benoit is a tech house and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside A Hard Day's Dance, Danny Marx and Inertia (uk). Next up: Rolling Stock, London on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Brandon Benoit is a tech house and house artist based in United Kingdom, with 5 
 
 A Hard Day's Dance, Danny Marx, Inertia (uk)
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonbenoit/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonbenoit/)*

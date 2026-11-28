@@ -1,6 +1,6 @@
 # fabric: Gabrielle Kwarteng, Daisy Moon, Amaliah + more at fabric
 
-fabric: Gabrielle Kwarteng, Daisy Moon, Amaliah + more on Sat 27 Feb, London. 4 artists: Amaliah, Daisy Moon, Gabrielle Kwarteng and Shanti Celeste. See the line-up on soundcheck.
+fabric: Gabrielle Kwarteng, Daisy Moon, Amaliah + more on Sat 27 Feb, London. 4 artists: Amaliah, Daisy Moon, Gabrielle Kwarteng and Shanti Celeste. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

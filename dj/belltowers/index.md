@@ -1,6 +1,6 @@
 # Bell Towers
 
-Bell Towers is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Sun, 13 Dec 2026.
+Bell Towers is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Sun, 13 Dec 2026.
 
 Bell Towers is a house and techno artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Bali, Berlin and Bucharest and 13 more. Often billed alongside Sound Metaphors Djs, David Fogarty and Public Possession. Next up: Hoppetosse, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Bell Towers is a house and techno artist based in Australia, with 43 gigs on sou
 
 Sound Metaphors Djs, David Fogarty, Public Possession
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*

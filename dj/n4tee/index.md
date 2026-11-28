@@ -1,6 +1,6 @@
 # n4tee
 
-n4tee is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 27 Mar 2027.
+n4tee is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 27 Mar 2027.
 
 n4tee is a garage and house artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Auramatic, Skeptic and Soul Mass Transit System. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 27 Mar.
 
@@ -25,4 +25,4 @@ n4tee is a garage and house artist based in United Kingdom, with 45 gigs on soun
 
 Auramatic, Skeptic, Soul Mass Transit System
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*

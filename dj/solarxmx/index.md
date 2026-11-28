@@ -1,6 +1,6 @@
 # SOLAR X (mx)
 
-SOLAR X (mx) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 28 Nov 2026.
+SOLAR X (mx) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 28 Nov 2026.
 
 SOLAR X (mx) are a techno and house duo based in Mexico, with 18 gigs on soundcheck across Mexico City. Often billed alongside LORENA (MX), Alejandro Veneno and Alexandthere. Next up: M.N.Roy, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SOLAR X (mx) are a techno and house duo based in Mexico, with 18 gigs on soundch
 
 LORENA (MX), Alejandro Veneno, Alexandthere
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarxmx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solarxmx/)*

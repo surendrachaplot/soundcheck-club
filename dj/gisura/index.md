@@ -1,6 +1,6 @@
 # Gisura
 
-Gisura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
+Gisura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lehmann Club, Stuttgart on Sat, 28 Nov 2026.
 
 Gisura is a techno and house artist based in Germany, with 12 gigs on soundcheck across Hamburg, Karlsruhe, Stuttgart and Vienna. Often billed alongside AHURA, Jannis Maxim and Nazz. Next up: Lehmann Club, Stuttgart on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gisura is a techno and house artist based in Germany, with 12 gigs on soundcheck
 
 AHURA, Jannis Maxim, Nazz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gisura/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gisura/)*

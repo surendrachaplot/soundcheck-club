@@ -1,6 +1,6 @@
 # whisper
 
-whisper is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Elektricity, Detroit on Sat, 28 Nov 2026.
+whisper is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Elektricity, Detroit on Sat, 28 Nov 2026.
 
 whisper is a dubstep and dub artist based in United States of America, with 2 gigs on soundcheck across Detroit. Often billed alongside Atlas and The General. Next up: Elektricity, Detroit on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ whisper is a dubstep and dub artist based in United States of America, with 2 gi
 
 Atlas (2), The General
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whisper/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whisper/)*

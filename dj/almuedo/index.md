@@ -1,6 +1,6 @@
 # Almuedo
 
-Almuedo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Macarena Club, Barcelona on Fri, 25 Dec 2026.
+Almuedo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Macarena Club, Barcelona on Fri, 25 Dec 2026.
 
 Almuedo is a house and electro artist based in Spain, with 26 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Vilalta, arnald and PAULA GM. Next up: Macarena Club, Barcelona on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Almuedo is a house and electro artist based in Spain, with 26 gigs on soundcheck
 
 Vilalta, arnald, PAULA GM
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almuedo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almuedo/)*

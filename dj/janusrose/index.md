@@ -1,6 +1,6 @@
 # Janus Rose
 
-Janus Rose is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Jupiter Disco, New York City on Sun, 6 Dec 2026.
+Janus Rose is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Jupiter Disco, New York City on Sun, 6 Dec 2026.
 
 Janus Rose is a techno and bass artist based in United States of America, with 57 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside Ben Zo, David Lunch and Ovid. Next up: Jupiter Disco, New York City on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Janus Rose is a techno and bass artist based in United States of America, with 5
 
 Ben Zo, David Lunch, Ovid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrose/)*

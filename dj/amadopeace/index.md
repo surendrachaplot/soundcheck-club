@@ -1,6 +1,6 @@
 # AmadoPeace
 
-AmadoPeace is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+AmadoPeace is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 AmadoPeace is a house and balearic artist based in Brazil, with 37 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Gabe Ortiz, UBUNTO and Discos Baratos. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ AmadoPeace is a house and balearic artist based in Brazil, with 37 gigs on sound
 
 Gabe Ortiz, UBUNTO, Discos Baratos
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amadopeace/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amadopeace/)*

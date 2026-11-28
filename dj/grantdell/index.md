@@ -1,6 +1,6 @@
 # Grant Dell
 
-Grant Dell is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 6 Dec 2026.
+Grant Dell is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 6 Dec 2026.
 
 Grant Dell is a house and tech house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Boston and 14 more. Often billed alongside 3 Minds, Adam Collins and Laurence. Next up: El Rio Hostel, Colombia on Sun 6 Dec.
 
@@ -27,4 +27,4 @@ Grant Dell is a house and tech house artist based in United Kingdom, with 36 gig
 
 3 Minds, Adam Collins, Laurence
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*

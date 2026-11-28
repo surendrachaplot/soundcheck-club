@@ -1,6 +1,6 @@
 # Torsten Kanzler
 
-Torsten Kanzler is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Die Rakete, Nürnberg on Sat, 28 Nov 2026.
+Torsten Kanzler is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Die Rakete, Nürnberg on Sat, 28 Nov 2026.
 
 Torsten Kanzler is a techno and tech house artist, with 22 gigs on soundcheck across Amsterdam, Berlin, Brandenburg and Cologne and 6 more. Often billed alongside MILAN MILANO, Felix Reichelt and Basstronauten. Next up: Die Rakete, Nürnberg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Torsten Kanzler is a techno and tech house artist, with 22 gigs on soundcheck ac
 
 MILAN MILANO, Felix Reichelt, Basstronauten
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torstenkanzler/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torstenkanzler/)*

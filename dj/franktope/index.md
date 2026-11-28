@@ -1,6 +1,6 @@
 # Frank Tope
 
-Frank Tope is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
+Frank Tope is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 40ft Brewery - Blackhorse Road, London on Fri, 1 Jan 2027.
 
 Frank Tope is a disco and house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Tayo, Bustin' Loose and Norman Jay. Next up: 40ft Brewery - Blackhorse Road, London on Fri 1 Jan.
 
@@ -26,4 +26,4 @@ Frank Tope is a disco and house artist based in United Kingdom, with 11 gigs on 
 
 Tayo, Bustin' Loose, Norman Jay
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franktope/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franktope/)*

@@ -1,6 +1,6 @@
 # Gunselx
 
-Gunselx is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Frankhan Selectist, Istanbul on Thu, 10 Dec 2026.
+Gunselx is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Frankhan Selectist, Istanbul on Thu, 10 Dec 2026.
 
 Gunselx is a psytrance and techno artist based in Turkey, with 4 gigs on soundcheck across Istanbul. Often billed alongside Ogimaru, BERENALP and Ezkiel. Next up: Frankhan Selectist, Istanbul on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ Gunselx is a psytrance and techno artist based in Turkey, with 4 gigs on soundch
 
 Ogimaru, BERENALP, Ezkiel
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunselx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunselx/)*

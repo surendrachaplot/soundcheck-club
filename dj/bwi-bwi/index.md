@@ -1,6 +1,6 @@
 # Bwi-Bwi
 
-Bwi-Bwi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Thu, 10 Dec 2026.
+Bwi-Bwi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Système, Montreal on Thu, 10 Dec 2026.
 
 Bwi-Bwi is a house and techno artist based in France, with 19 gigs on soundcheck across Lyon, Marseille, Montreal and Toronto. Often billed alongside Mok-T, Donotstealmyname and Rabzi. Next up: Système, Montreal on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Bwi-Bwi is a house and techno artist based in France, with 19 gigs on soundcheck
 
 Mok-T, Donotstealmyname, Rabzi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bwi-bwi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bwi-bwi/)*

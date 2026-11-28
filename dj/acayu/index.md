@@ -1,6 +1,6 @@
 # ACA (YU)
 
-ACA (YU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Egg London, London on Fri, 18 Dec 2026.
+ACA (YU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Fri, 18 Dec 2026.
 
 ACA (YU) is a house and tech house artist based in Spain, with 72 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Dublin and 6 more. Often billed alongside HARRIE SUMMERS, Ryan Connolly and Darius Syrossian. Next up: Egg London, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ ACA (YU) is a house and tech house artist based in Spain, with 72 gigs on soundc
 
 HARRIE SUMMERS, Ryan Connolly, Darius Syrossian
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*

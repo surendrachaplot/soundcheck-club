@@ -1,6 +1,6 @@
 # PIP.
 
-PIP. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 5 Dec 2026.
+PIP. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Lubber Fiend, Newcastle on Sat, 5 Dec 2026.
 
 PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 3 more. Often billed alongside Weston, FroD and Westy. Next up: The Lubber Fiend, Newcastle on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soun
 
 Weston, FroD, Westy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

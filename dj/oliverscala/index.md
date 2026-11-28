@@ -1,6 +1,6 @@
 # Oliver Scala
 
-Oliver Scala is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 11 Dec 2026.
+Oliver Scala is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 11 Dec 2026.
 
 Oliver Scala is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, London, Manchester and Tokyo and 1 more. Often billed alongside TEDESCO, Gloria Rose and Sob Story. Next up: NUMBER 90 LONDON, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Oliver Scala is a techno and house artist based in United Kingdom, with 23 gigs 
 
 TEDESCO, Gloria Rose, Sob Story
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverscala/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverscala/)*

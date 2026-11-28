@@ -1,14 +1,15 @@
 # MAURO
 
-MAURO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
+MAURO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
 
-MAURO is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside LSG, Th.is Fake and OXOPOHA. Next up: Artheater, Cologne on Sat 28 Nov.
+MAURO is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside LSG, Th.is Fake and OXOPOHA. Next up: Artheater, Cologne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Artheater | Cologne |
+| Thu, 31 Dec 2026 | Garagen | Cologne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MAURO is a techno and trance artist based in Germany, with 31 gigs on soundcheck
 
 LSG, Th.is Fake, OXOPOHA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*

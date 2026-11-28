@@ -1,6 +1,6 @@
 # Vesolo
 
-Vesolo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paragon, New York City on Sat, 19 Dec 2026.
+Vesolo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Paragon, New York City on Sat, 19 Dec 2026.
 
 Vesolo is a techno and club artist based in United States of America, with 66 gigs on soundcheck across Barcelona, Chicago, Detroit and London and 4 more. Often billed alongside Miss Twink USA, Flores Negras and Swan Drama. Next up: Paragon, New York City on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Vesolo is a techno and club artist based in United States of America, with 66 gi
 
 Miss Twink USA, Flores Negras, Swan Drama
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vesolo/)*

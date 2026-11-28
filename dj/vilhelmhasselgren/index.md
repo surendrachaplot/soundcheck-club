@@ -1,6 +1,6 @@
 # Vilhelm Hasselgren
 
-Vilhelm Hasselgren is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Under Bron, Stockholm on Sat, 5 Dec 2026.
+Vilhelm Hasselgren is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Under Bron, Stockholm on Sat, 5 Dec 2026.
 
 Vilhelm Hasselgren is a jungle and drum & bass artist based in Sweden, with 9 gigs on soundcheck across Gothenburg, Manchester and Stockholm. Often billed alongside Theomega, Aberrant Electro and DJ Seduce. Next up: Under Bron, Stockholm on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Vilhelm Hasselgren is a jungle and drum & bass artist based in Sweden, with 9 gi
 
 Theomega, Aberrant Electro, DJ Seduce
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilhelmhasselgren/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vilhelmhasselgren/)*

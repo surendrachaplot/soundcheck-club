@@ -1,6 +1,6 @@
 # DJ YUME
 
-DJ YUME is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - EX OPG, Naples on Sat, 28 Nov 2026.
+DJ YUME is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - EX OPG, Naples on Sat, 28 Nov 2026.
 
 DJ YUME is a techno and acid artist based in Italy, with 14 gigs on soundcheck across Naples. Often billed alongside Xqte, Conquasso and Bailey Ibbs. Next up: TBA - EX OPG, Naples on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ YUME is a techno and acid artist based in Italy, with 14 gigs on soundcheck a
 
 Xqte, Conquasso, Bailey Ibbs
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyume/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyume/)*

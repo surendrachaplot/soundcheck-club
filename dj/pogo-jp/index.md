@@ -1,6 +1,6 @@
 # POGO (JP)
 
-POGO (JP) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 11 Dec 2026.
+POGO (JP) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 11 Dec 2026.
 
 POGO (JP) is a bass and drum & bass artist based in Japan, with 16 gigs on soundcheck across Ibiza and Osaka. Often billed alongside kakepon, matres and DJ Strawberry. Next up: Chika-Ikkai, Osaka on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ POGO (JP) is a bass and drum & bass artist based in Japan, with 16 gigs on sound
 
 kakepon, matres, DJ Strawberry
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pogo-jp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pogo-jp/)*

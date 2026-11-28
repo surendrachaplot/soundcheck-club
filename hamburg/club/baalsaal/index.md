@@ -1,14 +1,13 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Antonia's Birthday meets 2HARD4U" on Fri, 27 Nov 2026.
+Baalsaal is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "STCTRS w/ Larook (Geheimclub/Magdeburg),URSUS,RØØB " on Sat, 28 Nov 2026.
 
-Baalsaal is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including Andra (DE), DIE ACID KIDS, Julean and Larook and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
+Baalsaal is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Andra (DE), DIE ACID KIDS, Julean and Larook and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Antonia's Birthday meets 2HARD4U |  |
 | Sat, 28 Nov 2026 | STCTRS w/ Larook (Geheimclub/Magdeburg),URSUS,RØØB  | Larook, ROOB |
 | Fri, 4 Dec 2026 | Porzellan Bar mit Sofia Kourtesis, Die Acid Kids (Live), Julean, Andra  | Andra (DE), DIE ACID KIDS, Julean, Sofia Kourtesis |
 | Sat, 5 Dec 2026 | GROOVE with: Steven Shade (Berlin) & Strathy (Subspace / Hamburg) | Steven Shade, Strathy |
@@ -22,4 +21,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

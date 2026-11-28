@@ -1,6 +1,6 @@
 # SAM Futura.
 
-SAM Futura. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at OMA, Hong Kong on Sat, 28 Nov 2026.
+SAM Futura. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at OMA, Hong Kong on Sat, 28 Nov 2026.
 
 SAM Futura. is a house and techno artist based in France, with 27 gigs on soundcheck across Berlin, Chengdu, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside Sunsiaré, Di Linh and Xiaolin. Next up: OMA, Hong Kong on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SAM Futura. is a house and techno artist based in France, with 27 gigs on soundc
 
 Sunsiaré, Di Linh, Xiaolin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samfutura/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samfutura/)*

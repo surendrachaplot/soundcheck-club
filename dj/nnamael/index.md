@@ -1,6 +1,6 @@
 # Nnamael
 
-Nnamael is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zur Klappe, Berlin on Sat, 12 Dec 2026.
+Nnamael is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zur Klappe, Berlin on Sat, 12 Dec 2026.
 
 Nnamael is a techno and industrial artist based in Switzerland, with 35 gigs on soundcheck across Amsterdam, Berlin, Hannover and Lausanne and 1 more. Often billed alongside Fluid, hybral and Inverse Element. Next up: Zur Klappe, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Nnamael is a techno and industrial artist based in Switzerland, with 35 gigs on 
 
 Fluid, hybral, Inverse Element
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nnamael/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nnamael/)*

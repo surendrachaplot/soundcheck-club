@@ -1,6 +1,6 @@
 # Antigone (all night long) at KALT
 
-Antigone (all night long) at KALT on Sat 26 Dec, Strasbourg. 1 artist: Antigone. See the line-up on soundcheck.
+Antigone (all night long) at KALT on Sat 26 Dec, Strasbourg. 3 artists: Antigone, Dimë and Seedreak. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Antigone (all night long) at KALT on Sat 26 Dec, Strasbourg. 1 artist: Antigone.
 ## Line-up
 
 - Antigone
+- Dimë
+- Seedreak
 
 *Source: [soundcheck](https://soundcheck.club/e/2518455-antigone-all-night-long-at-kalt/)*

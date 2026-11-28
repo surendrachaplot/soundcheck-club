@@ -1,6 +1,6 @@
 # Mari Corolla
 
-Mari Corolla is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Fri, 4 Dec 2026.
+Mari Corolla is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fitzroy, Berlin on Fri, 4 Dec 2026.
 
 Mari Corolla is a house and reggaeton artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside BLEACH.LIVE, Nancy Nutter and materia hache. Next up: Fitzroy, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mari Corolla is a house and reggaeton artist based in Germany, with 13 gigs on s
 
 BLEACH.LIVE, Nancy Nutter, materia hache
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maricorolla/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maricorolla/)*

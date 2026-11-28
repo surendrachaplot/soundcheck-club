@@ -1,6 +1,6 @@
 # Sport Mode
 
-Sport Mode is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elektricity, Detroit on Sat, 16 Jan 2027.
+Sport Mode is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Elektricity, Detroit on Sat, 16 Jan 2027.
 
 Sport Mode is a house and garage artist based in United Kingdom, with 10 gigs on soundcheck across Detroit, Houston, London and Mexico City. Often billed alongside Rebekah Abdeen, DJ Love UK and Trudy Knight. Next up: Elektricity, Detroit on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Sport Mode is a house and garage artist based in United Kingdom, with 10 gigs on
 
 Rebekah Abdeen, DJ Love UK, Trudy Knight
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmode/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmode/)*

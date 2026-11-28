@@ -1,6 +1,6 @@
 # Culture
 
-Culture is a music venue in Washington DC with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Nü Androids presents: Bryce Alakai" on Sat, 28 Nov 2026.
+Culture is a music venue in Washington DC with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Nü Androids presents: Bryce Alakai" on Sat, 28 Nov 2026.
 
 Culture is a music venue in Washington DC listed on soundcheck. 9 upcoming gigs, with line-ups including Amtrac, Chriz Javey, Damian Lazarus and Darling Cool and 2 more. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
@@ -22,4 +22,4 @@ Culture is a music venue in Washington DC listed on soundcheck. 9 upcoming gigs,
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

@@ -1,13 +1,14 @@
 # La Scène Saigon
 
-La Scène Saigon is a music venue in Ho Chi Minh City with 1 upcoming gig listed on soundcheck as of Fri, 20 Nov 2026. The next is "Jonathan Will (Pink Mammoth) b2b with DJ Dreunicorn (Ashram Galactica)" on Fri, 20 Nov 2026.
+La Scène Saigon is a music venue in Ho Chi Minh City with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Goi Cuon & Ross" on Sat, 28 Nov 2026.
 
-La Scène Saigon is a music venue in Ho Chi Minh City listed on soundcheck. 1 upcoming gig, with line-ups including Jonathan Will. See dates, start times and who's playing.
+La Scène Saigon is a music venue in Ho Chi Minh City listed on soundcheck. 2 upcoming gigs, with line-ups including Gỏi Cuốn, Wata Igarashi and Youss. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Jonathan Will (Pink Mammoth) b2b with DJ Dreunicorn (Ashram Galactica) | Jonathan Will |
+| Sat, 28 Nov 2026 | Goi Cuon & Ross | Gỏi Cuốn |
+| Sun, 6 Dec 2026 | Liminal Dreams | Wata Igarashi, Youss |
 
-*Updated Fri, 20 Nov 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/la-sc-ne-saigon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/la-sc-ne-saigon/)*

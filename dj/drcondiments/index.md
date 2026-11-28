@@ -1,14 +1,13 @@
 # Dr. Condiments
 
-Dr. Condiments is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dr Morse, Melbourne on Sat, 28 Nov 2026.
+Dr. Condiments is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Capers Thornbury, Melbourne on Sat, 5 Dec 2026.
 
-Dr. Condiments is a house and balearic artist based in Australia, with 25 gigs on soundcheck across Melbourne. Often billed alongside Floss Dogg, Kgomotso and Ones/Casual Dance. Next up: Dr Morse, Melbourne on Sat 28 Nov.
+Dr. Condiments is a house and balearic artist based in Australia, with 25 gigs on soundcheck across Melbourne. Often billed alongside Floss Dogg, Kgomotso and Ones/Casual Dance. Next up: Capers Thornbury, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Dr Morse | Melbourne |
 | Sat, 5 Dec 2026 | Capers Thornbury | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Dr. Condiments is a house and balearic artist based in Australia, with 25 gigs o
 
 Floss Dogg, Kgomotso, Ones/Casual Dance
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drcondiments/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drcondiments/)*

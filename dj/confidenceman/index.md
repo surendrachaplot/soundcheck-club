@@ -1,6 +1,6 @@
 # Confidence Man
 
-Confidence Man is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Norton Disney, Midlands on Thu, 26 Aug 2027.
+Confidence Man is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Norton Disney, Midlands on Thu, 26 Aug 2027.
 
 Confidence Man is a house and techno artist based in Australia, with 52 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 23 more. Often billed alongside Chloé Caillet, Bicep and DJ Gigola. Next up: Norton Disney, Midlands on Thu 26 Aug.
 
@@ -25,4 +25,4 @@ Confidence Man is a house and techno artist based in Australia, with 52 gigs on 
 
 Chloé Caillet, Bicep, DJ Gigola
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*

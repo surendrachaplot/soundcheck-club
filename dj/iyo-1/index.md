@@ -1,6 +1,6 @@
 # IYO (1)
 
-IYO (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at club asia, Tokyo on Sat, 5 Dec 2026.
+IYO (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at club asia, Tokyo on Sat, 5 Dec 2026.
 
 IYO is a house and garage artist based in Japan, with 6 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside SAKO, Yess and BANANA-CHAN. Next up: club asia, Tokyo on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ IYO is a house and garage artist based in Japan, with 6 gigs on soundcheck acros
 
 SAKO, Yess, BANANA-CHAN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyo-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyo-1/)*

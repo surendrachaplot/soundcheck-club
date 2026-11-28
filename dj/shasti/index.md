@@ -1,6 +1,6 @@
 # shasti
 
-shasti is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Apotheka, Manila on Thu, 3 Dec 2026.
+shasti is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Apotheka, Manila on Thu, 3 Dec 2026.
 
 shasti is an experimental and club artist, with 14 gigs on soundcheck across Berlin, Copenhagen and Manila. Often billed alongside yimo yivil, Wanton Witch and sailormenx. Next up: Apotheka, Manila on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ shasti is an experimental and club artist, with 14 gigs on soundcheck across Ber
 
 yimo yivil, Wanton Witch, sailormenx
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shasti/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shasti/)*

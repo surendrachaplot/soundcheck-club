@@ -1,14 +1,13 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass" on Fri, 27 Nov 2026.
+Dalston Den is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "FunkYouUp - Danger In The Den" on Sat, 28 Nov 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Agility, Amy Kisnorbo, Blake (UK) and Bryn Brax and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Agility, Amy Kisnorbo, Blake (UK) and Bryn Brax and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass |  |
 | Sat, 28 Nov 2026 | FunkYouUp - Danger In The Den |  |
 | Fri, 4 Dec 2026 | EYG x D2S: Baltimore 2 Jersey 2 Dalston  | Amy Kisnorbo, CalvoMusic, Carma, Tah (1) |
 | Sat, 5 Dec 2026 | TINYLAND |  |
@@ -22,4 +21,4 @@ Dalston Den is a music venue in London listed on soundcheck. 9 upcoming gigs, wi
 
 91-93 Kingsland High Street, London
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

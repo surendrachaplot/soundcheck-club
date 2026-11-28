@@ -1,6 +1,6 @@
 # Lena Brysch
 
-Lena Brysch is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Die Rakete, Nürnberg on Sat, 12 Dec 2026.
+Lena Brysch is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Die Rakete, Nürnberg on Sat, 12 Dec 2026.
 
 Lena Brysch is a techno and tech house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Munich and 1 more. Often billed alongside Bernhard Groeger, MILAN MILANO and DJ FM & DJ FREUND. Next up: Die Rakete, Nürnberg on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lena Brysch is a techno and tech house artist based in Germany, with 32 gigs on 
 
 Bernhard Groeger, MILAN MILANO, DJ FM & DJ FREUND
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrysch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrysch/)*

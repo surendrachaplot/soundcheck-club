@@ -1,6 +1,6 @@
 # Lily FM
 
-Lily FM is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Lily FM is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Lily FM is a house and techno artist based in Australia, with 41 gigs on soundcheck across Sydney. Often billed alongside Jane Decks, Bouki and DAUG. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -13,6 +13,7 @@ Lily FM is a house and techno artist based in Australia, with 41 gigs on soundch
 
 ## Recently played
 
+- The Grifter Brewing Co., Sydney · Fri, 27 Nov 2026
 - TBA - INNER WEST, Sydney · Sat, 21 Nov 2026
 - Studio Presence, Sydney · Fri, 30 Oct 2026
 - TBA, Sydney · Thu, 29 Oct 2026
@@ -20,10 +21,9 @@ Lily FM is a house and techno artist based in Australia, with 41 gigs on soundch
 - The Red Rattler, Sydney · Sat, 24 Oct 2026
 - TBA, Sydney · Sat, 10 Oct 2026
 - Heaps Normal Health Club, Sydney · Fri, 25 Sept 2026
-- The Ivy, Sydney · Sun, 7 Jun 2026
 
 ## Shares bills with
 
 Jane Decks, Bouki, DAUG
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyfm/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyfm/)*

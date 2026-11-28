@@ -1,6 +1,6 @@
 # Joseph Tunde
 
-Joseph Tunde is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Soup, Manchester on Thu, 3 Dec 2026.
+Joseph Tunde is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Soup, Manchester on Thu, 3 Dec 2026.
 
 Joseph Tunde is a house and disco artist based in United Kingdom, with 38 gigs on soundcheck across London and Manchester. Often billed alongside Levi Love, lola:de and Dainty. Next up: Soup, Manchester on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Joseph Tunde is a house and disco artist based in United Kingdom, with 38 gigs o
 
 Levi Love, lola:de, Dainty
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephtunde/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephtunde/)*

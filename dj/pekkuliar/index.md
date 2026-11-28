@@ -1,6 +1,6 @@
 # pekkuliar
 
-pekkuliar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
+pekkuliar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 1 Jan 2027.
 
 pekkuliar is a house and electro artist based in Spain, with 58 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Adria (ES) and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ pekkuliar is a house and electro artist based in Spain, with 58 gigs on soundche
 
 CMYK, Adria (ES), Pau Rosés
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*

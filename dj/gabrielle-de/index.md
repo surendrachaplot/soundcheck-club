@@ -1,6 +1,6 @@
 # Gabrielle (DE)
 
-Gabrielle (DE) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
+Gabrielle (DE) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ÆDEN, Berlin on Fri, 18 Dec 2026.
 
 Gabrielle (DE) is a techno and drum & bass artist based in Germany, with 60 gigs on soundcheck across Bangkok, Berlin, London and Prague. Often billed alongside ATR DJ-TEAM, JOTAno and GLASSBASS. Next up: ÆDEN, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Gabrielle (DE) is a techno and drum & bass artist based in Germany, with 60 gigs
 
 ATR DJ-TEAM, JOTAno, GLASSBASS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*

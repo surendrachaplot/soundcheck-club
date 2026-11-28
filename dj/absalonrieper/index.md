@@ -1,6 +1,6 @@
 # Absalon Rieper
 
-Absalon Rieper is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at RUST, Copenhagen on Wed, 13 Jan 2027.
+Absalon Rieper is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at RUST, Copenhagen on Wed, 13 Jan 2027.
 
 Absalon Rieper is an electronic artist based in Denmark, with 4 gigs on soundcheck across Copenhagen. Often billed alongside AVI.avi, Maxi Mo and vazkez. Next up: RUST, Copenhagen on Wed 13 Jan.
 
@@ -20,4 +20,4 @@ Absalon Rieper is an electronic artist based in Denmark, with 4 gigs on soundche
 
 AVI.avi, Maxi Mo, vazkez
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/absalonrieper/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/absalonrieper/)*

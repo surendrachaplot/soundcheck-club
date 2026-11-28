@@ -1,6 +1,6 @@
 # Museum of Contemporary Art Australia
 
-Museum of Contemporary Art Australia is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "MCA Late: Funktinental Club" on Thu, 3 Dec 2026.
+Museum of Contemporary Art Australia is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "MCA Late: Funktinental Club" on Thu, 3 Dec 2026.
 
 Museum of Contemporary Art Australia is a music venue in Sydney listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 140 George Street, The Rocks NSW 2000, Australia.
 
@@ -16,4 +16,4 @@ Museum of Contemporary Art Australia is a music venue in Sydney listed on soundc
 
 140 George Street, The Rocks NSW 2000, Australia, Sydney
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/museum-of-contemporary-art-australia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/museum-of-contemporary-art-australia/)*

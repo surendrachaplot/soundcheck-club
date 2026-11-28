@@ -1,8 +1,8 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Eerste Communie: MARRØN / AMORAL / Hitam / Gabrielle Kwarteng / Matas / Still Agua" on Fri, 4 Dec 2026.
+BASEMENT is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Eerste Communie: MARRØN / AMORAL / Hitam / Gabrielle Kwarteng / Matas / Still Agua" on Fri, 4 Dec 2026.
 
-BASEMENT is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including AMORAL, D. Tiffany, D.Dan and Dee Diggs and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including AMORAL, D. Tiffany, D.Dan and Dee Diggs and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
@@ -12,6 +12,7 @@ BASEMENT is a music venue in New York City listed on soundcheck. 6 upcoming gigs
 | Sat, 5 Dec 2026 | WRECKED: Shaun J. Wright / Dee Diggs / Mx. Blaire / Ron Like Hell b2b Ryan Smith | Dee Diggs, Mx. Blaire, Ron Like Hell, Ryan Smith, Shaun J. Wright |
 | Fri, 11 Dec 2026 | BOUND 10 Year Anniversary | DJ Gigola, Jorkes, Juana, Katie Rex, Maara, Physical Therapy |
 | Sat, 12 Dec 2026 | 14 Years of Hot Mass: Derek Plaslaiko / Lauren Flax / Gusto & Naeem / Honcho / Scotia / S4M23 | Derek Plaslaiko, Honcho, Lauren Flax, Naeem, Ondo / Gusto, S4M23, Scotia |
+| Sat, 12 Dec 2026 | Basement |  |
 | Fri, 18 Dec 2026 | SEASON CLOSING: D.Dan / Vera Logdanidi / Volvox / D. Tiffany / x3butterfly / Manu Miran | D. Tiffany, D.Dan, Manu Miran, Vera Logdanidi, Volvox, x3butterfly |
 | Sat, 19 Dec 2026 | SEASON CLOSING: Freddy K / Rødhåd / Juliana Huxtable / Massimiliano Pagliara /  | Freddy K, JADALAREIGN, James Newmarch, Juliana Huxtable, KYRUH, Karim Olen Ash, Kim Anh, Mari Sakurai, Massimiliano Pagliara, Ryan Smith, Rødhåd, Sterling Juan Diaz, Tommy Hart, Voicedrone |
 
@@ -19,4 +20,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 6 upcoming gigs
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

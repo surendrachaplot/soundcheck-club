@@ -1,14 +1,13 @@
 # Système
 
-Système is a music venue in Montreal with 23 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Festival Triste x Humidex Records" on Fri, 27 Nov 2026.
+Système is a music venue in Montreal with 22 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sugar + CPR Annie + wetdogg + DJ Frog" on Sat, 28 Nov 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 23 upcoming gigs, with line-ups including Akpossoul, Alina (MTL), Aram and Asha and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 22 upcoming gigs, with line-ups including Akpossoul, Alina (MTL), Aram and Bwi-Bwi and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Festival Triste x Humidex Records | Asha (4), Esse Ran, Fate (2), Lou Celsius |
 | Sat, 28 Nov 2026 | Sugar + CPR Annie + wetdogg + DJ Frog | CPR Annie, DJ Frog, Sugar, wetdogg |
 | Sun, 29 Nov 2026 | Tupi Collective |  |
 | Thu, 3 Dec 2026 | Festival De La House | G L O W Z I, Lexis (Music Is My Sanctuary), Lost Heroes |
@@ -18,9 +17,10 @@ Système is a music venue in Montreal listed on soundcheck. 23 upcoming gigs, wi
 | Sat, 5 Dec 2026 | Akpossoul, MINZI ROBERTA, Gone Deville | Akpossoul, Gone Deville |
 | Sun, 6 Dec 2026 | Les Soirées Système | GrandHuit, Ruby Jane |
 | Thu, 10 Dec 2026 | Drink n Draw |  |
+| Thu, 10 Dec 2026 | Bwi-Bwi + Xia | Bwi-Bwi, Xia (2) |
 
 ## Address
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

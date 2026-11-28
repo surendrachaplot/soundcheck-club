@@ -1,6 +1,6 @@
 # Ezy Konbini
 
-Ezy Konbini is a Breakcore and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Radio Bar, Melbourne on Fri, 18 Dec 2026.
+Ezy Konbini is a Breakcore and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Radio Bar, Melbourne on Fri, 18 Dec 2026.
 
 Ezy Konbini is a breakcore and dubstep artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside File Explorer. Next up: Radio Bar, Melbourne on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Ezy Konbini is a breakcore and dubstep artist based in Australia, with 3 gigs on
 
 File Explorer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezykonbini/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezykonbini/)*

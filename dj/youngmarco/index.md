@@ -1,6 +1,6 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
+Young Marco is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
 Young Marco is a house and techno artist based in Netherlands, with 240 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 74 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: FVTVR, Paris on Fri 4 Dec.
 
@@ -29,4 +29,4 @@ Young Marco is a house and techno artist based in Netherlands, with 240 gigs on 
 
 Job Jobse, DJ Gigola, Narciss
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*

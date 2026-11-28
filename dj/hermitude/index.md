@@ -1,6 +1,6 @@
 # Hermitude
 
-Hermitude is a Electronica and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 27 Mar 2027.
+Hermitude is a Electronica and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 27 Mar 2027.
 
 Hermitude is an electronica and hip-hop artist based in Australia, with 14 gigs on soundcheck across Auckland, Chicago, Dallas/Fort Worth and Denver and 10 more. Often billed alongside Big Ang, DJ Cosworth and Danny P. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 27 Mar.
 
@@ -25,4 +25,4 @@ Hermitude is an electronica and hip-hop artist based in Australia, with 14 gigs 
 
 Big Ang, DJ Cosworth, Danny P
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermitude/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermitude/)*

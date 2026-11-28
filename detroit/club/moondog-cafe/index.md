@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Minimal Detroit presents: GAS TAX" on Fri, 4 Dec 2026.
+Moondog Cafe is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Minimal Detroit presents: GAS TAX" on Fri, 4 Dec 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including AIDEL, Cody Hammer, Human Robot and joycxi and 1 more. See dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -15,4 +15,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, 
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

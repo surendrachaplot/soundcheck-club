@@ -1,6 +1,6 @@
 # POM (1)
 
-POM (1) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Daomé, Montreal on Thu, 3 Dec 2026.
+POM (1) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Salon Daomé, Montreal on Thu, 3 Dec 2026.
 
 POM is a techno and breakbeat artist based in Canada, with 7 gigs on soundcheck across Montreal and Tokyo. Often billed alongside nastygloss, Boomy and CrisseMarqueur. Next up: Salon Daomé, Montreal on Thu 3 Dec.
 
@@ -23,4 +23,4 @@ POM is a techno and breakbeat artist based in Canada, with 7 gigs on soundcheck 
 
 nastygloss, Boomy, CrisseMarqueur
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pom-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pom-1/)*

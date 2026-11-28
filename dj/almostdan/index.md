@@ -1,6 +1,6 @@
 # almostDan
 
-almostDan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Waterhouse Studios, Amsterdam on Thu, 31 Dec 2026.
+almostDan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Waterhouse Studios, Amsterdam on Thu, 31 Dec 2026.
 
 almostDan is a house and techno artist based in Italy, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Munay, Skettemblau and Aron Friedman. Next up: Waterhouse Studios, Amsterdam on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ almostDan is a house and techno artist based in Italy, with 7 gigs on soundcheck
 
 Munay, Skettemblau, Aron Friedman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almostdan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almostdan/)*

@@ -1,6 +1,6 @@
 # Alinka
 
-Alinka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Polifonic.MX, Guadalajara on Fri, 4 Dec 2026.
+Alinka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Polifonic.MX, Guadalajara on Fri, 4 Dec 2026.
 
 Alinka is a house and techno artist based in Ukraine, with 126 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Polifonic.MX, Guadalajara on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Alinka is a house and techno artist based in Ukraine, with 126 gigs on soundchec
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

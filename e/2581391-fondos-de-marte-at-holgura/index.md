@@ -1,6 +1,6 @@
 # FONDOS DE MARTE at Holgura
 
-FONDOS DE MARTE at Holgura on Fri 11 Dec, Madrid. 1 artist: Josephine. Experimental. See the line-up on soundcheck.
+FONDOS DE MARTE at Holgura on Fri 11 Dec, Madrid. 1 artist: Josephine (ES). Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ FONDOS DE MARTE at Holgura on Fri 11 Dec, Madrid. 1 artist: Josephine. Experimen
 
 ## Line-up
 
-- Josephine
+- Josephine (ES)
 
 *Source: [soundcheck](https://soundcheck.club/e/2581391-fondos-de-marte-at-holgura/)*

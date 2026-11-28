@@ -1,6 +1,6 @@
 # GCOD
 
-GCOD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Fabrik, Zurich on Sat, 5 Dec 2026.
+GCOD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Rote Fabrik, Zurich on Sat, 5 Dec 2026.
 
 GCOD is a techno and trance artist, with 41 gigs on soundcheck across Basel, Berlin, Tokyo and Zurich. Often billed alongside kso12, MARCISM and KYLIE. Next up: Rote Fabrik, Zurich on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ GCOD is a techno and trance artist, with 41 gigs on soundcheck across Basel, Ber
 
 kso12, MARCISM, KYLIE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gcod/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gcod/)*

@@ -1,6 +1,6 @@
 # AK SPORTS
 
-AK SPORTS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Langley Park, Perth on Mon, 28 Dec 2026.
+AK SPORTS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Langley Park, Perth on Mon, 28 Dec 2026.
 
 AK SPORTS is a techno and house artist based in Australia, with 10 gigs on soundcheck across Amsterdam, Brisbane, Chengdu and Hong Kong and 6 more. Often billed alongside Riordan, salute and Bella Claxton. Next up: Langley Park, Perth on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ AK SPORTS is a techno and house artist based in Australia, with 10 gigs on sound
 
 Riordan, salute, Bella Claxton
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*

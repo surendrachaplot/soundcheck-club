@@ -1,6 +1,6 @@
 # Hex Hector
 
-Hex Hector is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Good Room, New York City on Fri, 1 Jan 2027.
+Hex Hector is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Good Room, New York City on Fri, 1 Jan 2027.
 
 Hex Hector is a house and disco artist based in United States of America, with 29 gigs on soundcheck across Montreal and New York City. Often billed alongside Danny Krivit, The Carry Nation and Benny Soto. Next up: Good Room, New York City on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Hex Hector is a house and disco artist based in United States of America, with 2
 
 Danny Krivit, The Carry Nation, Benny Soto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexhector/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexhector/)*

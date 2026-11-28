@@ -1,14 +1,13 @@
 # Blindspot*
 
-Blindspot* is a music venue in Bucharest with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SSS x TDIB with MAX DURANTE, FILTRACK, Árni, NTHR" on Fri, 27 Nov 2026.
+Blindspot* is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "TEKNOW" on Sat, 28 Nov 2026.
 
-Blindspot* is a music venue in Bucharest listed on soundcheck. 9 upcoming gigs, with line-ups including AgainstMe, Árni, Dalek and DEBBIE (IT) and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
+Blindspot* is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including AgainstMe, Dalek, DEBBIE (IT) and ESCU and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | SSS x TDIB with MAX DURANTE, FILTRACK, Árni, NTHR | FILTRACK, MAX DURANTE, NTHR, Árni |
 | Sat, 28 Nov 2026 | TEKNOW | ESCU |
 | Sat, 5 Dec 2026 | ALPHA SPECTRUM: BONUS LEVEL | Dalek, JÜLLS, Meiremax, Neotroxian, Project Morpheus |
 | Fri, 11 Dec 2026 | Function |  |
@@ -22,4 +21,4 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 9 upcoming gigs, 
 
 Bulevardul Energeticienilor 13-15, Bucharest
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*

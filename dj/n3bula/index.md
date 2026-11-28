@@ -1,6 +1,6 @@
 # N3BULA
 
-N3BULA is a Techno and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Fri, 11 Dec 2026.
+N3BULA is a Techno and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Sydney on Fri, 11 Dec 2026.
 
 N3BULA is a techno and dubstep artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Shepz, Jun Wan and Mozz. Next up: TBA, Sydney on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ N3BULA is a techno and dubstep artist based in Australia, with 11 gigs on soundc
 
 Shepz, Jun Wan, Mozz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n3bula/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n3bula/)*

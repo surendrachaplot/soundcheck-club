@@ -1,6 +1,6 @@
 # Calamidades Lola
 
-Calamidades Lola is a Disco and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Salon Palomilla, Mexico City on Tue, 24 Nov 2026.
+Calamidades Lola is a Disco and Pop artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Salon Palomilla, Mexico City on Tue, 24 Nov 2026.
 
 Calamidades Lola is a disco and pop artist based in Colombia, with 31 gigs on soundcheck across Amsterdam, Berlin, Colombia and Leipzig and 1 more. Often billed alongside Amuleto Manuela, Coco Maria and D'Monk. Next up: Salon Palomilla, Mexico City on Tue 24 Nov.
 
@@ -27,4 +27,4 @@ Calamidades Lola is a disco and pop artist based in Colombia, with 31 gigs on so
 
 Amuleto Manuela, Coco Maria, D'Monk
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*

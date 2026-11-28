@@ -1,6 +1,6 @@
 # Lovin Duo
 
-Lovin Duo is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bluesquare, Milan on Sat, 12 Dec 2026.
+Lovin Duo is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bluesquare, Milan on Sat, 12 Dec 2026.
 
 Lovin Duo is an acid and house artist based in Italy, with 37 gigs on soundcheck across Milan and New York City. Often billed alongside Lvca, Erika Gueli and Sunrush. Next up: Bluesquare, Milan on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lovin Duo is an acid and house artist based in Italy, with 37 gigs on soundcheck
 
 Lvca, Erika Gueli, Sunrush
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovinduo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovinduo/)*

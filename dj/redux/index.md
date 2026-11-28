@@ -1,6 +1,6 @@
 # Redux (1)
 
-Redux (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Decibel, Chicago on Sat, 19 Dec 2026.
+Redux (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Decibel, Chicago on Sat, 19 Dec 2026.
 
 Redux is a house and tech house artist, with 7 gigs on soundcheck across Chicago. Often billed alongside iamBrandon, ARVI MALA and DJ Heather. Next up: Decibel, Chicago on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Redux is a house and tech house artist, with 7 gigs on soundcheck across Chicago
 
 iamBrandon, ARVI MALA, DJ Heather
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redux/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redux/)*

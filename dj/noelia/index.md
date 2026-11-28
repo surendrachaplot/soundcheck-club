@@ -1,6 +1,6 @@
 # no:elia
 
-no:elia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at JAKI, Cologne on Fri, 11 Dec 2026.
+no:elia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at JAKI, Cologne on Fri, 11 Dec 2026.
 
 no:elia is a tech house and house artist, with 24 gigs on soundcheck across Berlin, Cologne, Frankfurt and Wuppertal. Often billed alongside Aino DJ, Gîn Bali and Philo_. Next up: JAKI, Cologne on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ no:elia is a tech house and house artist, with 24 gigs on soundcheck across Berl
 
 Aino DJ, Gîn Bali, Philo_
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*

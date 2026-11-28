@@ -1,6 +1,6 @@
 # Dark Zenith
 
-Dark Zenith is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
+Dark Zenith is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ://about blank, Berlin on Sat, 9 Jan 2027.
 
 Dark Zenith is a drum & bass and jungle artist based in Germany, with 12 gigs on soundcheck across Berlin and Dresden. Often billed alongside Agem, CP4C and Diaz-Soto. Next up: ://about blank, Berlin on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Dark Zenith is a drum & bass and jungle artist based in Germany, with 12 gigs on
 
 Agem, CP4C, Diaz-Soto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkzenith/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkzenith/)*

@@ -1,6 +1,6 @@
 # Crucial Roots
 
-Crucial Roots is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 16 Jan 2027.
+Crucial Roots is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 16 Jan 2027.
 
 Crucial Roots is a dub and bass artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Hometown Sound, James Hometown and Haseeb Iqbal. Next up: EXIT Glasgow, Glasgow on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Crucial Roots is a dub and bass artist based in United Kingdom, with 15 gigs on 
 
 Hometown Sound, James Hometown, Haseeb Iqbal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crucialroots/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crucialroots/)*

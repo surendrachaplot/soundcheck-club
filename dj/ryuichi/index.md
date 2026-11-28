@@ -1,6 +1,6 @@
 # Ryuichi
 
-Ryuichi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at DJ Bar Bridge, Tokyo on Tue, 15 Dec 2026.
+Ryuichi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DJ Bar Bridge, Tokyo on Tue, 15 Dec 2026.
 
 Ryuichi is a house and disco artist based in Japan, with 36 gigs on soundcheck across Los Angeles, Okinawa, Taipei and Tokyo. Often billed alongside KDT, TOYO and sui_rex. Next up: DJ Bar Bridge, Tokyo on Tue 15 Dec.
 
@@ -26,4 +26,4 @@ Ryuichi is a house and disco artist based in Japan, with 36 gigs on soundcheck a
 
 KDT, TOYO, sui_rex
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryuichi/)*

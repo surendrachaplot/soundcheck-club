@@ -1,6 +1,6 @@
 # P Money
 
-P Money is a Drum & Bass and Grime artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
+P Money is a Drum & Bass and Grime artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
 P Money is a drum & bass and grime artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 24 more. Often billed alongside Whiney, Flava D and Camo & Krooked. Next up: Lab11, Birmingham on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ P Money is a drum & bass and grime artist based in United Kingdom, with 75 gigs 
 
 Whiney, Flava D, Camo & Krooked
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*

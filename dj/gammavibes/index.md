@@ -1,6 +1,6 @@
 # Gamma Vibes
 
-Gamma Vibes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 5 Dec 2026.
+Gamma Vibes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 5 Dec 2026.
 
 Gamma Vibes is a techno and house artist, with 26 gigs on soundcheck across New York City, Philadelphia and Seoul. Often billed alongside AL.P0, Lauren Yoon and ntrllite. Next up: Atdge Seoul, Seoul on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Gamma Vibes is a techno and house artist, with 26 gigs on soundcheck across New 
 
 AL.P0, Lauren Yoon, ntrllite
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gammavibes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gammavibes/)*

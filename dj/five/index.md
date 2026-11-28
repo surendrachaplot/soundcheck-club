@@ -1,6 +1,6 @@
 # Five
 
-Five is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Dec 2026.
+Five is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Dec 2026.
 
 Five is a house and club artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, New York City, Pittsburgh and San Francisco/Oakland. Often billed alongside Vin Sol, Charles Hawthorne and Just Another Bitch. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Five is a house and club artist based in United States of America, with 16 gigs 
 
 Vin Sol, Charles Hawthorne, Just Another Bitch
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/five/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/five/)*

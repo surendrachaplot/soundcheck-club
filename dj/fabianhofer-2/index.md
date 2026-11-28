@@ -1,6 +1,6 @@
 # Fabian Hofer (2)
 
-Fabian Hofer (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 11 Dec 2026.
+Fabian Hofer (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 11 Dec 2026.
 
 Fabian Hofer is a techno and house artist based in Austria, with 15 gigs on soundcheck across Vienna. Often billed alongside Crazy Sonic, Mize Hetner and SNDR_Xone. Next up: Grelle Forelle, Vienna on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Fabian Hofer is a techno and house artist based in Austria, with 15 gigs on soun
 
 Crazy Sonic, Mize Hetner, SNDR_Xone
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhofer-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhofer-2/)*

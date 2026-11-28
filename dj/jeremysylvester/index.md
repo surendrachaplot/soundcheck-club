@@ -1,6 +1,6 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Sat, 28 Nov 2026.
+Jeremy Sylvester is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Sat, 28 Nov 2026.
 
 Jeremy Sylvester is a garage and house artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 22 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: Port of Leith Distillery, Edinburgh on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Jeremy Sylvester is a garage and house artist based in United Kingdom, with 122 
 
 DJ Perception, Lady Passion, Mikey DJ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

@@ -1,6 +1,6 @@
 # Stagnat
 
-Stagnat is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 18 Dec 2026.
+Stagnat is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 18 Dec 2026.
 
 Stagnat is a techno and broken beat artist, with 14 gigs on soundcheck across Belgrade, Ljubljana and Vienna. Often billed alongside Adriatica, Adryan and Age of Revolt. Next up: Channel Zero, Ljubljana on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Stagnat is a techno and broken beat artist, with 14 gigs on soundcheck across Be
 
 Adriatica, Adryan, Age of Revolt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*

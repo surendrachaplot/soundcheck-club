@@ -1,19 +1,19 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
+Kode9 is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Monk Club, Rome on Sun, 29 Nov 2026.
 
-Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 53 more. Often billed alongside Tim Reaper, Mala and Skee Mask. Next up: Ormside Projects, London on Fri 27 Nov.
+Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 53 more. Often billed alongside Tim Reaper, Mala and Skee Mask. Next up: Monk Club, Rome on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ormside Projects | London |
 | Sun, 29 Nov 2026 | Monk Club | Rome |
 | Thu, 31 Dec 2026 | Colour Factory | London |
 
 ## Recently played
 
+- Ormside Projects, London · Fri, 27 Nov 2026
 - TBA - Brussels, Brussels · Sat, 21 Nov 2026
 - Paavli Kultuurivabrik, Tallinn · Fri, 13 Nov 2026
 - TBA - Eesti Kunstiakadeemia, Tallinn · Fri, 13 Nov 2026
@@ -21,10 +21,9 @@ Kode9 is a bass and experimental artist based in United Kingdom, with 143 gigs o
 - The White Hotel, Manchester · Sat, 24 Oct 2026
 - The Globe, Glossop, Manchester · Fri, 23 Oct 2026
 - Karlstorbahnhof, Heidelberg · Fri, 16 Oct 2026
-- Hotel Forum, Krakow · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Tim Reaper, Mala, Skee Mask
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

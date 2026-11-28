@@ -1,6 +1,6 @@
 # Rafa Aleman
 
-Rafa Aleman is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 11 Dec 2026.
+Rafa Aleman is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 11 Dec 2026.
 
 Rafa Aleman is a tech house and house artist based in Venezuela, with 45 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Bill Hates, Klency and MACKINLAY. Next up: NIX Barcelona, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Rafa Aleman is a tech house and house artist based in Venezuela, with 45 gigs on
 
 Bill Hates, Klency, MACKINLAY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaaleman/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaaleman/)*

@@ -1,6 +1,6 @@
 # Meibi
 
-Meibi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 11 Dec 2026.
+Meibi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ministerium Club, Lisbon on Fri, 11 Dec 2026.
 
 Meibi is a techno and electro artist based in Portugal, with 46 gigs on soundcheck across Berlin, Hamburg, Lisbon and London and 1 more. Often billed alongside Catarina Silva, Dexter Lux and Afonso Peixoto. Next up: Ministerium Club, Lisbon on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Meibi is a techno and electro artist based in Portugal, with 46 gigs on soundche
 
 Catarina Silva, Dexter Lux, Afonso Peixoto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*

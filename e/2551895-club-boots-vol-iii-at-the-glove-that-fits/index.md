@@ -1,6 +1,6 @@
 # CLUB BOOTS VOL III at The Glove That Fits
 
-CLUB BOOTS VOL III at The Glove That Fits on Sat 28 Nov, London. 6 artists: Harry Gay, Jess Hands, Katie Baxter and Meg Ward and 2 more. Techno and House. See the line-up on soundcheck.
+CLUB BOOTS VOL III at The Glove That Fits on Sat 28 Nov, London. 5 artists: Harry Gay, Jess Hands, Katie Baxter and Meg Ward and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,5 @@ CLUB BOOTS VOL III at The Glove That Fits on Sat 28 Nov, London. 6 artists: Harr
 - Katie Baxter
 - Meg Ward
 - miniMel
-- Sita Shah
 
 *Source: [soundcheck](https://soundcheck.club/e/2551895-club-boots-vol-iii-at-the-glove-that-fits/)*

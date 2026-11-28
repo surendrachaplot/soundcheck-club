@@ -1,6 +1,6 @@
 # CYBER RUI
 
-CYBER RUI is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 19 Dec 2026.
+CYBER RUI is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 19 Dec 2026.
 
 CYBER RUI is a techno and hip-hop artist based in Japan, with 23 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YUVIE, Samo and kengotaki. Next up: Circus Tokyo, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ CYBER RUI is a techno and hip-hop artist based in Japan, with 23 gigs on soundch
 
 YUVIE, Samo, kengotaki
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberrui/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberrui/)*

@@ -1,6 +1,6 @@
 # The Resistance
 
-The Resistance is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Fri, 11 Dec 2026.
+The Resistance is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bootshaus, Cologne on Fri, 11 Dec 2026.
 
 The Resistance is a dubstep and drum & bass artist based in Netherlands, with 6 gigs on soundcheck across Budapest, Cologne, Detroit and Florida and 2 more. Often billed alongside A Hundred Drums, AG (NYC) and BARK. Next up: Bootshaus, Cologne on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ The Resistance is a dubstep and drum & bass artist based in Netherlands, with 6 
 
 A Hundred Drums, AG (NYC), BARK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*

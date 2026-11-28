@@ -1,14 +1,15 @@
 # Tom Ries
 
-Tom Ries is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
+Tom Ries is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoppetosse, Berlin on Sat, 5 Dec 2026.
 
-Tom Ries is a house and techno artist based in Germany, with 24 gigs on soundcheck across Berlin, Frankfurt, London and Seoul and 1 more. Often billed alongside Markus Sommer, Klix and Klix (DE). Next up: Hoppetosse, Berlin on Sat 5 Dec.
+Tom Ries is a house and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Frankfurt, London and Seoul and 1 more. Often billed alongside Markus Sommer, Klix and Klix (DE). Next up: Hoppetosse, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Hoppetosse | Berlin |
+| Fri, 18 Dec 2026 | Golden Gate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tom Ries is a house and techno artist based in Germany, with 24 gigs on soundche
 
 Markus Sommer, Klix (3), Klix (DE)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomries/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomries/)*

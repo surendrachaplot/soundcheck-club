@@ -1,6 +1,6 @@
 # Natsuki
 
-Natsuki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Circus Osaka, Osaka on Fri, 18 Dec 2026.
+Natsuki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Circus Osaka, Osaka on Fri, 18 Dec 2026.
 
 Natsuki is a house and techno artist based in Japan, with 16 gigs on soundcheck across Kansai, Kyoto and Osaka. Often billed alongside KOTSU, YAMA(JP/OSK) and ALUCA. Next up: Circus Osaka, Osaka on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Natsuki is a house and techno artist based in Japan, with 16 gigs on soundcheck 
 
 KOTSU, YAMA(JP/OSK), ALUCA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuki/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuki/)*

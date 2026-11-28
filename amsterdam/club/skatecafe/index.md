@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "ZWART LICHT CLUB NIGHT " on Fri, 27 Nov 2026.
+Skatecafe is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "RUSH HOUR STORE CREW ALL NIGHT LONG" on Sat, 28 Nov 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Abstract (US), Amaliah, baby ganoush and Cadeem LaMarr and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Amaliah, baby ganoush, Cadeem LaMarr and De Schuurman and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | ZWART LICHT CLUB NIGHT  | Abstract (US), Itz3bby, WaxFiend, Zed Bias |
 | Sat, 28 Nov 2026 | RUSH HOUR STORE CREW ALL NIGHT LONG |  |
 | Fri, 4 Dec 2026 | GROTE NAMEN KLEINE BOOTH |  |
 | Sat, 5 Dec 2026 | ECHOBOX 5,5 JAAR |  |
@@ -22,4 +21,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, w
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

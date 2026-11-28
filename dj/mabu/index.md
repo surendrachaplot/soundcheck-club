@@ -1,6 +1,6 @@
 # Mabu
 
-Mabu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Luzztro, Warsaw on Sat, 12 Dec 2026.
+Mabu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Luzztro, Warsaw on Sat, 12 Dec 2026.
 
 Mabu is a house and tech house artist based in Poland, with 79 gigs on soundcheck across Berlin, Tokyo, Warsaw and Wroclaw. Often billed alongside HANICZ, KEVS and KoZa. Next up: Luzztro, Warsaw on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mabu is a house and tech house artist based in Poland, with 79 gigs on soundchec
 
 HANICZ, KEVS, KoZa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mabu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mabu/)*

@@ -1,6 +1,6 @@
 # Dirty Doering
 
-Dirty Doering is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 28 Nov 2026.
+Dirty Doering is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 28 Nov 2026.
 
 Dirty Doering is a techno and deep house artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Niconé, AVA Irandoost and Miyagi. Next up: Slow Club- Other Side of Tama, Poznan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dirty Doering is a techno and deep house artist based in Germany, with 89 gigs o
 
 Niconé, AVA Irandoost, Miyagi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydoering/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydoering/)*

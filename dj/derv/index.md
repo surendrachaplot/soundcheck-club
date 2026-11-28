@@ -1,6 +1,6 @@
 # Derv
 
-Derv is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Belfast on Sat, 19 Dec 2026.
+Derv is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Belfast on Sat, 19 Dec 2026.
 
 Derv is a techno and house artist based in Ireland, with 72 gigs on soundcheck across Belfast, Dublin, Galway and Limerick and 2 more. Often billed alongside Puzzy Wrangler, Mode_1 and Collie. Next up: TBA, Belfast on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Derv is a techno and house artist based in Ireland, with 72 gigs on soundcheck a
 
 Puzzy Wrangler, Mode_1, Collie (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derv/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derv/)*

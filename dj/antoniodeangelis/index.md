@@ -1,20 +1,20 @@
 # Antonio De Angelis
 
-Antonio De Angelis is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Glove That Fits, London on Fri, 27 Nov 2026.
+Antonio De Angelis is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
 
-Antonio De Angelis is a techno and industrial artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 4 more. Often billed alongside Pre Silent, Laure Croft and Polanski. Next up: The Glove That Fits, London on Fri 27 Nov.
+Antonio De Angelis is a techno and industrial artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 4 more. Often billed alongside Pre Silent, Laure Croft and Polanski. Next up: Distillery N17, London on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Glove That Fits | London |
 | Thu, 31 Dec 2026 | Distillery N17 | London |
 | Fri, 29 Jan 2027 | E1 | London |
 | Fri, 19 Feb 2027 | Gate Milano | Milan |
 
 ## Recently played
 
+- The Glove That Fits, London · Fri, 27 Nov 2026
 - Cieloterra, Rome · Fri, 13 Nov 2026
 - Inguz Club, Portugal · Sat, 31 Oct 2026
 - Distillery N17, London · Sat, 24 Oct 2026
@@ -22,10 +22,9 @@ Antonio De Angelis is a techno and industrial artist based in United Kingdom, wi
 - Gaffe, London · Sat, 15 Aug 2026
 - Hï Ibiza, Ibiza · Sun, 7 Jun 2026
 - fabric, London · Sat, 6 Jun 2026
-- Starlane Pizza Bar, London · Sun, 10 May 2026
 
 ## Shares bills with
 
 Pre Silent, Laure Croft, Polanski
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*

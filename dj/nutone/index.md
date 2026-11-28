@@ -1,6 +1,6 @@
 # Nu:Tone
 
-Nu:Tone is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Riviera, Madrid on Sat, 5 Dec 2026.
+Nu:Tone is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Riviera, Madrid on Sat, 5 Dec 2026.
 
 Nu:Tone is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 12 more. Often billed alongside London Elektricity, Metrik and Fred V. Next up: La Riviera, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Nu:Tone is a drum & bass and jungle artist based in United Kingdom, with 32 gigs
 
 London Elektricity, Metrik, Fred V
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nutone/)*

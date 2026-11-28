@@ -1,14 +1,15 @@
 # Sydney Blu
 
-Sydney Blu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sound, Los Angeles on Thu, 10 Dec 2026.
+Sydney Blu is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Sound, Los Angeles on Thu, 10 Dec 2026.
 
-Sydney Blu is a house and tech house artist based in Canada, with 47 gigs on soundcheck across Amsterdam, Berlin, Detroit and Ibiza and 10 more. Often billed alongside SHERA, Videri and RUDEE NIK. Next up: Sound, Los Angeles on Thu 10 Dec.
+Sydney Blu is a house and tech house artist based in Canada, with 48 gigs on soundcheck across Amsterdam, Berlin, Detroit and Ibiza and 10 more. Often billed alongside SHERA, Videri and RUDEE NIK. Next up: Sound, Los Angeles on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | Sound | Los Angeles |
+| Sun, 13 Dec 2026 | Rebel | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sydney Blu is a house and tech house artist based in Canada, with 47 gigs on sou
 
 SHERA, Videri, RUDEE NIK
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*

@@ -1,6 +1,6 @@
 # Sami Dilla
 
-Sami Dilla is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bonnefooi, Brussels on Fri, 18 Dec 2026.
+Sami Dilla is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bonnefooi, Brussels on Fri, 18 Dec 2026.
 
 Sami Dilla is a house and techno artist based in Luxembourg, with 22 gigs on soundcheck across Berlin, Brussels, Lisbon and London and 2 more. Often billed alongside Laimonas, Neb Spook and Dani Casarano. Next up: Bonnefooi, Brussels on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sami Dilla is a house and techno artist based in Luxembourg, with 22 gigs on sou
 
 Laimonas, Neb Spook, Dani Casarano
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samidilla/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samidilla/)*

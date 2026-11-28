@@ -1,6 +1,6 @@
 # Burna
 
-Burna is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Bird, Perth on Mon, 28 Dec 2026.
+Burna is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Bird, Perth on Mon, 28 Dec 2026.
 
 Burna is a techno and bass artist based in Australia, with 54 gigs on soundcheck across Adelaide, Auckland, Belgrade and Bristol and 18 more. Often billed alongside Hally, Girl Tool and Elbarto. Next up: The Bird, Perth on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Burna is a techno and bass artist based in Australia, with 54 gigs on soundcheck
 
 Hally, Girl Tool, Elbarto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burna/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burna/)*

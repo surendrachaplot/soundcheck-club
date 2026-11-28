@@ -1,6 +1,6 @@
 # ZweiE
 
-ZweiE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sandy Beach Paphos, Cyprus on Sat, 28 Nov 2026.
+ZweiE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sandy Beach Paphos, Cyprus on Sat, 28 Nov 2026.
 
 ZweiE is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Cyprus and Warsaw. Often billed alongside Maurice Mino, Sin:port and Martin Ka. Next up: Sandy Beach Paphos, Cyprus on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ZweiE is a techno and house artist based in Germany, with 26 gigs on soundcheck 
 
 Maurice Mino, Sin:port, Martin Ka
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*

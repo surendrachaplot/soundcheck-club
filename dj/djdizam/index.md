@@ -1,19 +1,19 @@
 # Dj Dizam
 
-Dj Dizam is a Hip-Hop and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Revo Rooftop, Mexico City on Fri, 27 Nov 2026.
+Dj Dizam is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Salón Obregón (Alvaro Obregón 291, Roma Norte), Mexico City on Fri, 4 Dec 2026.
 
-Dj Dizam is a hip-hop and house artist based in United States of America, with 78 gigs on soundcheck across Mexico City and New York City. Often billed alongside Black Daria, LOVERGRL and Tchakomi. Next up: Revo Rooftop, Mexico City on Fri 27 Nov.
+Dj Dizam is a hip-hop and house artist based in United States of America, with 78 gigs on soundcheck across Mexico City and New York City. Often billed alongside Black Daria, LOVERGRL and Tchakomi. Next up: TBA - Salón Obregón (Alvaro Obregón 291, Roma Norte), Mexico City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Revo Rooftop | Mexico City |
 | Fri, 4 Dec 2026 | TBA - Salón Obregón (Alvaro Obregón 291, Roma Norte) | Mexico City |
 | Sat, 2 Jan 2027 | Revo Rooftop | Mexico City |
 
 ## Recently played
 
+- Revo Rooftop, Mexico City · Fri, 27 Nov 2026
 - TBA - Petra Hi Fi - Cordoba 27, Mexico City · Sun, 8 Nov 2026
 - TBA - Álvaro Obregón 291 (Salon Obregón), Mexico City · Fri, 6 Nov 2026
 - Revo Rooftop, Mexico City · Sun, 1 Nov 2026
@@ -21,10 +21,9 @@ Dj Dizam is a hip-hop and house artist based in United States of America, with 7
 - Maison Artemisia, Mexico City · Sun, 27 Sept 2026
 - TBA - Mimi´s Disco - Reforma 333 8th Floor, Mexico City · Fri, 18 Sept 2026
 - Carmelita Club, Mexico City · Fri, 11 Sept 2026
-- un club bonito, Mexico City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Black Daria, LOVERGRL, Tchakomi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*

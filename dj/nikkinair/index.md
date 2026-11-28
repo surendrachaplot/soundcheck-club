@@ -1,14 +1,13 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 27 Nov 2026.
+Nikki Nair is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 28 Nov 2026.
 
-Nikki Nair is a techno and bass artist based in United States of America, with 188 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 59 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: The Ground at Club Space, Miami on Fri 27 Nov.
+Nikki Nair is a techno and bass artist based in United States of America, with 188 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 59 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: TBA - DTLA, Los Angeles on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 28 Nov 2026 | TBA - DTLA | Los Angeles |
 | Sat, 12 Dec 2026 | The Castle | Tampa Bay |
 | Fri, 18 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -18,6 +17,7 @@ Nikki Nair is a techno and bass artist based in United States of America, with 1
 
 ## Recently played
 
+- The Ground at Club Space, Miami · Fri, 27 Nov 2026
 - Le Confort Moderne, West · Sat, 14 Nov 2026
 - Hidden, Manchester · Fri, 13 Nov 2026
 - Badaboum, Paris · Thu, 5 Nov 2026
@@ -25,10 +25,9 @@ Nikki Nair is a techno and bass artist based in United States of America, with 1
 - TBA - Various Venues, Guimarães, PT, Portugal · Thu, 29 Oct 2026
 - Hotel Forum, Krakow · Sat, 10 Oct 2026
 - Wigwam, Dublin · Fri, 9 Oct 2026
-- Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

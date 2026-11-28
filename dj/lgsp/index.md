@@ -1,6 +1,6 @@
 # LGSP
 
-LGSP is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+LGSP is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 LGSP is a deep house and tech house artist based in United States of America, with 12 gigs on soundcheck across Seattle. Often billed alongside Jon Lee, Julie Herrera and Ramiro Uniting Souls. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ LGSP is a deep house and tech house artist based in United States of America, wi
 
 Jon Lee, Julie Herrera, Ramiro Uniting Souls
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lgsp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lgsp/)*

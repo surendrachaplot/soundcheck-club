@@ -1,6 +1,6 @@
 # The Lobby at Ace Hotel Toronto
 
-The Lobby at Ace Hotel Toronto is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Room Tones with Dre Thompson" on Sat, 28 Nov 2026.
+The Lobby at Ace Hotel Toronto is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Room Tones with Dre Thompson" on Sat, 28 Nov 2026.
 
 The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Dre Thompson. See dates, start times and who's playing. 51 Camden St..
 
@@ -15,4 +15,4 @@ The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck.
 
 51 Camden St., Toronto
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*

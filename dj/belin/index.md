@@ -1,6 +1,6 @@
 # Belin
 
-Belin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
+Belin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
 
 Belin is a techno and industrial artist based in Turkey, with 31 gigs on soundcheck across Buenos Aires, Istanbul, London and Osaka. Often billed alongside Jehra, Brojski and MATT.. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Belin is a techno and industrial artist based in Turkey, with 31 gigs on soundch
 
 Jehra, Brojski, MATT.
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belin/)*

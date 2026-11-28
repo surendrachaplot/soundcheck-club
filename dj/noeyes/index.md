@@ -1,13 +1,14 @@
 # NO EYES
 
-NO EYES is a Breakcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cafe la Siesta, Kyoto on Sun, 13 Dec 2026.
+NO EYES is a Breakcore and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at club asia, Tokyo on Thu, 10 Dec 2026.
 
-NO EYES is a breakcore and techno artist based in United States of America, with 7 gigs on soundcheck across Atlanta, Kyoto and New York City. Often billed alongside Thien Dragon, AYLAK and Aanandi. Next up: Cafe la Siesta, Kyoto on Sun 13 Dec.
+NO EYES is a breakcore and electronica artist based in United States of America, with 8 gigs on soundcheck across Atlanta, Kyoto, New York City and Tokyo. Often billed alongside Thien Dragon, AYLAK and Aanandi. Next up: club asia, Tokyo on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Dec 2026 | club asia | Tokyo |
 | Sun, 13 Dec 2026 | Cafe la Siesta | Kyoto |
 
 ## Recently played
@@ -23,4 +24,4 @@ NO EYES is a breakcore and techno artist based in United States of America, with
 
 Thien Dragon, AYLAK, Aanandi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noeyes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noeyes/)*

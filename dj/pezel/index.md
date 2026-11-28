@@ -1,6 +1,6 @@
 # pezel
 
-pezel is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Lucia, Vienna on Fri, 18 Dec 2026.
+pezel is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Lucia, Vienna on Fri, 18 Dec 2026.
 
 pezel is a techno and electronica artist based in Austria, with 30 gigs on soundcheck across Vienna. Often billed alongside PAUNA, Dcascallana and Angiko. Next up: Club Lucia, Vienna on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ pezel is a techno and electronica artist based in Austria, with 30 gigs on sound
 
 PAUNA, Dcascallana, Angiko (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pezel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pezel/)*

@@ -1,13 +1,14 @@
 # KDT
 
-KDT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at DJ Bar Bridge, Tokyo on Tue, 15 Dec 2026.
+KDT is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 12 Dec 2026.
 
-KDT is a house and techno artist based in Japan, with 159 gigs on soundcheck across Tokyo. Often billed alongside TOYO, Ryuichi and Issyo. Next up: DJ Bar Bridge, Tokyo on Tue 15 Dec.
+KDT is a house and techno artist based in Japan, with 160 gigs on soundcheck across Tokyo. Often billed alongside TOYO, Ryuichi and Issyo. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Tue, 15 Dec 2026 | DJ Bar Bridge | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ KDT is a house and techno artist based in Japan, with 159 gigs on soundcheck acr
 
 TOYO, Ryuichi, Issyo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*

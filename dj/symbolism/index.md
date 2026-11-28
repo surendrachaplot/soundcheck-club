@@ -1,8 +1,8 @@
 # Symbolism
 
-Symbolism is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Paloma, Berlin on Fri, 4 Dec 2026.
+Symbolism is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Paloma, Berlin on Fri, 4 Dec 2026.
 
-Symbolism is a ghetto tech and techno artist, with 5 gigs on soundcheck across Berlin and Istanbul. Often billed alongside Stamina (DE), DJ Regret and 4meter. Next up: Paloma, Berlin on Fri 4 Dec.
+Symbolism is a ghetto tech and techno artist based in Germany, with 5 gigs on soundcheck across Berlin and Istanbul. Often billed alongside Stamina (DE), DJ Regret and 4meter. Next up: Paloma, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Symbolism is a ghetto tech and techno artist, with 5 gigs on soundcheck across B
 
 Stamina (DE), DJ Regret, 4meter
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/symbolism/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/symbolism/)*

@@ -1,6 +1,6 @@
 # 1983
 
-1983 is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "klik klak" on Sat, 5 Dec 2026.
+1983 is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "klik klak" on Sat, 5 Dec 2026.
 
 1983 is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including 2B, EKVA, Gretjane and LJO HA and 2 more. See dates, start times and who's playing. Vagonu 21, Riga, Latvia LV-1009.
 
@@ -15,4 +15,4 @@
 
 Vagonu 21, Riga, Latvia LV-1009, Riga
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/1983/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/1983/)*

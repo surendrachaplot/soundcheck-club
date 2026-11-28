@@ -1,14 +1,13 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Vino Disco Fridays: MilSif & Friends" on Fri, 27 Nov 2026.
+Vino Disco is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Vino Disco Saturdays: Ultreme, Tali Rose, YVNNI, Giuliano (EXTENDED 6AM)" on Sat, 28 Nov 2026.
 
-Vino Disco is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Akpossoul, Atlas Heir, Benji and Don Barbarino and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
+Vino Disco is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Akpossoul, Atlas Heir, Benji and Don Barbarino and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Vino Disco Fridays: MilSif & Friends | MilSif |
 | Sat, 28 Nov 2026 | Vino Disco Saturdays: Ultreme, Tali Rose, YVNNI, Giuliano (EXTENDED 6AM) | Tali Rose, Ultreme, YVNNI |
 | Fri, 4 Dec 2026 | ANDIE & COOLDAD |  |
 | Sat, 5 Dec 2026 | Groovy Castle: JP Groove & Guests (EXTENDED 6AM) | Groovy Castle |
@@ -23,4 +22,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, 
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

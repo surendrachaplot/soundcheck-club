@@ -1,6 +1,6 @@
 # VÏVÏ
 
-VÏVÏ is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 4 Dec 2026.
+VÏVÏ is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 4 Dec 2026.
 
 VÏVÏ is a techno and breakbeat artist based in Japan, with 46 gigs on soundcheck across Okinawa, Osaka, Taipei and Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and EMILIO. Next up: ZEROTOKYO, Tokyo on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ VÏVÏ is a techno and breakbeat artist based in Japan, with 46 gigs on soundche
 
 DØLLHAUS, FrEaKyNoRiKy, EMILIO (3)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*

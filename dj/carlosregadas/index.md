@@ -1,14 +1,15 @@
 # Carlos Regadas
 
-Carlos Regadas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Maria Pistolas, Porto on Sat, 5 Dec 2026.
+Carlos Regadas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Maria Pistolas, Porto on Sat, 5 Dec 2026.
 
-Carlos Regadas is a house and tech house artist based in Portugal, with 40 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Pedro Tabuada, DJ Nox and 9T2. Next up: Maria Pistolas, Porto on Sat 5 Dec.
+Carlos Regadas is a house and techno artist based in Portugal, with 41 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Pedro Tabuada, DJ Nox and 9T2. Next up: Maria Pistolas, Porto on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Maria Pistolas | Porto |
+| Wed, 9 Dec 2026 | Era uma vez no Porto | Porto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Carlos Regadas is a house and tech house artist based in Portugal, with 40 gigs 
 
 Pedro Tabuada, DJ Nox, 9T2
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*

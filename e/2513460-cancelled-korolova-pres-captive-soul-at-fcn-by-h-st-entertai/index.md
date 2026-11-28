@@ -1,0 +1,15 @@
+# CANCELLED - Korolova pres. Captive Soul at FCN by Hïst Entertainment at Foro Costanera Norte (FCN)
+
+CANCELLED - Korolova pres. Captive Soul at FCN by Hïst Entertainment at Foro Costanera Norte (FCN) on Sun 6 Dec, Buenos Aires. 1 artist: Korolova. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 6 Dec 2026 |
+| Venue | Foro Costanera Norte (FCN) |
+| City | Buenos Aires |
+
+## Line-up
+
+- Korolova
+
+*Source: [soundcheck](https://soundcheck.club/e/2513460-cancelled-korolova-pres-captive-soul-at-fcn-by-h-st-entertai/)*

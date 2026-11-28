@@ -1,6 +1,6 @@
 # Paul Popa
 
-Paul Popa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 1 Jan 2027.
+Paul Popa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 1 Jan 2027.
 
 Paul Popa is a techno and electro artist based in Romania, with 29 gigs on soundcheck across Barcelona and Bucharest. Often billed alongside Mianda, Teodor Ghita and Syntelman. Next up: Platforma Wolff, Bucharest on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Paul Popa is a techno and electro artist based in Romania, with 29 gigs on sound
 
 Mianda, Teodor Ghita, Syntelman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpopa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpopa/)*

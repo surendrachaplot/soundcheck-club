@@ -1,6 +1,6 @@
 # TOSHI
 
-TOSHI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 28 Nov 2026.
+TOSHI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 28 Nov 2026.
 
 TOSHI is a house and techno artist based in Japan, with 34 gigs on soundcheck across Osaka and Tokyo. Often billed alongside GReY, ALEXANDER M and RYOHEI. Next up: Enter Shibuya, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ TOSHI is a house and techno artist based in Japan, with 34 gigs on soundcheck ac
 
 GReY (1), ALEXANDER M, RYOHEI
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toshi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toshi/)*

@@ -1,6 +1,6 @@
 # 1tbsp at Substation
 
-1tbsp at Substation on Fri 26 Feb, Seattle. 1 artist: 1tbsp. See the line-up on soundcheck.
+1tbsp at Substation on Fri 26 Feb, Seattle. 1 artist: 1tbsp. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

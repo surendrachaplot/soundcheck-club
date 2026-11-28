@@ -1,6 +1,6 @@
 # Jaylan
 
-Jaylan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Soho, Mannheim on Fri, 4 Dec 2026.
+Jaylan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Soho, Mannheim on Fri, 4 Dec 2026.
 
 Jaylan is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Hesse, Karlsruhe, Mannheim and Stuttgart. Often billed alongside LUIGI323, Stella Muriel and Yuuara. Next up: Soho, Mannheim on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Jaylan is a techno and trance artist based in Germany, with 7 gigs on soundcheck
 
 LUIGI323, Stella Muriel, Yuuara
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylan/)*

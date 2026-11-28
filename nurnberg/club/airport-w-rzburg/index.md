@@ -1,14 +1,13 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Airport pres. Alfred Heinrichs with Greb Levah" on Fri, 27 Nov 2026.
+Airport Würzburg is a music venue in Nürnberg with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "ZERO SIX NINE GOES AIRPORT PART II" on Fri, 4 Dec 2026.
 
-Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 7 upcoming gigs, with line-ups including 333CXT, Alfred Heinrichs, AMBAM and ANN-LUX and 2 more. See dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
+Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 6 upcoming gigs, with line-ups including 333CXT, AMBAM, ANN-LUX and Ben Techy and 2 more. See dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Airport pres. Alfred Heinrichs with Greb Levah | Alfred Heinrichs, Cassa Cristano, Mario Angelo |
 | Fri, 4 Dec 2026 | ZERO SIX NINE GOES AIRPORT PART II | AMBAM, ANN-LUX, Cassa Cristano, DeGuzman, Kacy, Karamustan, LILLIVEE, Paranormila, The Belgian Stallion |
 | Fri, 11 Dec 2026 | AIRPORT X 808 STUDIOS | Billy Currie, CLAESSENS, Dexphase, LILLIVEE, OGUZ |
 | Sat, 19 Dec 2026 | 17 YEARS ABFAHRT WÜRZBURG | Ben Techy, Cassa Cristano, FAROUT, IGDA, KX CHR, Klanglos, LILLIVEE, Mario Angelo, NeO, Niotech, Vendex |
@@ -20,4 +19,4 @@ Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 7 upcoming
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

@@ -1,6 +1,6 @@
 # Ross Anderson
 
-Ross Anderson is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fire, London on Sun, 6 Dec 2026.
+Ross Anderson is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fire, London on Sun, 6 Dec 2026.
 
 Ross Anderson is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Cardiff and London. Often billed alongside Raul Botella, Jake Reed and Bradley Skeng. Next up: Fire, London on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ Ross Anderson is a house and tech house artist based in United Kingdom, with 37 
 
 Raul Botella, Jake Reed, Bradley Skeng
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossanderson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossanderson/)*

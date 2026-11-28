@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Cristi Cons & Vlad Caia (SIT), Mera, Xiaolin" on Sat, 28 Nov 2026.
+Club Guesthouse is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Cristi Cons & Vlad Caia (SIT), Mera, Xiaolin" on Sat, 28 Nov 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, with line-ups including Andrey Pushkarev, Calibre, Cap and Celine Roman and 2 more. See dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -19,4 +19,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 6 upcoming g
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

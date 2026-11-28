@@ -1,6 +1,6 @@
 # floor length skirts
 
-floor length skirts is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+floor length skirts is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 floor length skirts is a house and balearic artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Bologna, Leeds and London and 5 more. Often billed alongside babyschön, off supply and DJ Subaru. Next up: fabric, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ floor length skirts is a house and balearic artist based in United Kingdom, with
 
 babyschön, off supply, DJ Subaru
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*

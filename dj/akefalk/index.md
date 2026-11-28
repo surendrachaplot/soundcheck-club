@@ -1,6 +1,6 @@
 # Åke Falk
 
-Åke Falk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 28 Nov 2026.
+Åke Falk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 28 Nov 2026.
 
 Åke Falk is a house and techno artist based in Sweden, with 13 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside Prescott, Bella Sarris and Mount Liberation Unlimited. Next up: Ivans Pilsnerbar, Gothenburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@
 
 Prescott, Bella Sarris, Mount Liberation Unlimited
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akefalk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akefalk/)*

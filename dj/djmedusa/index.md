@@ -1,6 +1,6 @@
 # DJ Medusa
 
-DJ Medusa is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Trumbullplex, Detroit on Sat, 28 Nov 2026.
+DJ Medusa is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Trumbullplex, Detroit on Sat, 28 Nov 2026.
 
 DJ Medusa is a ghetto tech and techno artist based in United States of America, with 10 gigs on soundcheck across Detroit and New York City. Often billed alongside Ember LaFiamma, AK (US) and Auntie Chanel. Next up: Trumbullplex, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Medusa is a ghetto tech and techno artist based in United States of America, 
 
 Ember LaFiamma, AK (US), Auntie Chanel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmedusa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmedusa/)*

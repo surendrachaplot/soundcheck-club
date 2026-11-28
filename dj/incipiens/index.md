@@ -1,6 +1,6 @@
 # incipiens
 
-incipiens is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
+incipiens is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Yolo Hostel, Medellin on Sun, 29 Nov 2026.
 
 incipiens is a house and minimal artist based in Colombia, with 32 gigs on soundcheck across Bogotá, Medellin and Tokyo. Often billed alongside Salvador Hören, Hören and Lefel. Next up: Yolo Hostel, Medellin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ incipiens is a house and minimal artist based in Colombia, with 32 gigs on sound
 
 Salvador Hören, Hören, Lefel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/incipiens/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/incipiens/)*

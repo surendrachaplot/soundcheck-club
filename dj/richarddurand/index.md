@@ -1,13 +1,14 @@
 # Richard Durand
 
-Richard Durand is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
+Richard Durand is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Next Clubbing, Madrid on Sun, 6 Dec 2026.
 
-Richard Durand is a trance and techno artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Bangkok, London and Los Angeles and 10 more. Often billed alongside Ferry Corsten, Giuseppe Ottaviani and John O'Callaghan. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
+Richard Durand is a trance and techno artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Bangkok, London and Los Angeles and 11 more. Often billed alongside Ferry Corsten, Giuseppe Ottaviani and John O'Callaghan. Next up: Next Clubbing, Madrid on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Next Clubbing | Madrid |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 | Sat, 30 Jan 2027 | Outernet Live | London |
 | Sat, 12 Jun 2027 | Steelyard Kelham | Sheffield |
@@ -27,4 +28,4 @@ Richard Durand is a trance and techno artist based in Netherlands, with 16 gigs 
 
 Ferry Corsten, Giuseppe Ottaviani, John O'Callaghan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richarddurand/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richarddurand/)*

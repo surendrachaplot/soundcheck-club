@@ -1,14 +1,14 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Mondo Ritmo presents MiNNA (UK)" on Sat, 28 Nov 2026.
+The Night Cat is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Spritz! ft Mikaelah Watego, with Ess, Ruby Lou" on Thu, 3 Dec 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Bellaire, Elsie, Flamingo Pier and MiNNA and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Bellaire, Elsie, Flamingo Pier and Mikalah Watego and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Mondo Ritmo presents MiNNA (UK) | MiNNA, NALIITA, pHinioUS |
+| Thu, 3 Dec 2026 | Spritz! ft Mikaelah Watego, with Ess, Ruby Lou | Mikalah Watego, Ruby Lou, With Ess |
 | Sat, 5 Dec 2026 | Now Always Fades 'Coalesce' Album Launch | Elsie |
 | Sat, 9 Jan 2027 | Soul Mass Transit System | Soul Mass Transit System |
 | Sat, 16 Jan 2027 | DANIEL ALLAN |  |
@@ -20,4 +20,4 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 7 upcoming gig
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

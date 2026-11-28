@@ -1,6 +1,6 @@
 # Jou Nielsen
 
-Jou Nielsen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
+Jou Nielsen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 12 Dec 2026.
 
 Jou Nielsen is a house and deep house artist based in Spain, with 18 gigs on soundcheck across Barcelona and Rio de Janeiro. Often billed alongside Bill Hates, Moa (VA) and Paul Ikky. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jou Nielsen is a house and deep house artist based in Spain, with 18 gigs on sou
 
 Bill Hates, Moa (VA), Paul Ikky
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jounielsen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jounielsen/)*

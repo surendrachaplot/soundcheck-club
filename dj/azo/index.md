@@ -1,6 +1,6 @@
 # Azo
 
-Azo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Glazart, Paris on Sun, 6 Dec 2026.
+Azo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Glazart, Paris on Sun, 6 Dec 2026.
 
 Azo is a techno and house artist based in France, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Vera Moro, Clara D and Fais Le Beau. Next up: Glazart, Paris on Sun 6 Dec.
 
@@ -27,4 +27,4 @@ Azo is a techno and house artist based in France, with 94 gigs on soundcheck acr
 
 Vera Moro, Clara D, Fais Le Beau
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*

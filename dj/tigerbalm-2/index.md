@@ -1,6 +1,6 @@
 # Tigerbalm
 
-Tigerbalm is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Night Tales, London on Sat, 12 Dec 2026.
+Tigerbalm is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Night Tales, London on Sat, 12 Dec 2026.
 
 Tigerbalm is a house and disco artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, Bristol, Edinburgh and Guadalajara and 11 more. Often billed alongside JKriv, Bill Brewster and Crazy P. Next up: Night Tales, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Tigerbalm is a house and disco artist based in United Kingdom, with 62 gigs on s
 
 JKriv, Bill Brewster, Crazy P
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*

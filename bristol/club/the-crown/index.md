@@ -1,18 +1,17 @@
 # The Crown
 
-The Crown is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "TRUTH HERTZ: HEADROOM (NOVEMBER 2026) - D&B SECRET LINE UP" on Fri, 27 Nov 2026.
+The Crown is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "LowEndLaw: Frazer Ray + Support" on Sat, 28 Nov 2026.
 
-The Crown is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including Frazer Ray, JC, Neev and Wray. See dates, start times and who's playing. 10, All Saints Lane, Bristol. BS1 1JH.
+The Crown is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Frazer Ray, JC, Neev and Wray. See dates, start times and who's playing. 10, All Saints Lane, Bristol. BS1 1JH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | TRUTH HERTZ: HEADROOM (NOVEMBER 2026) - D&B SECRET LINE UP |  |
 | Sat, 28 Nov 2026 | LowEndLaw: Frazer Ray + Support | Frazer Ray, JC (1), Neev, Wray |
 
 ## Address
 
 10, All Saints Lane, Bristol. BS1 1JH, Bristol
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*

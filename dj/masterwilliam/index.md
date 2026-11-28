@@ -1,6 +1,6 @@
 # Master William
 
-Master William is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Charlatan, Ghent on Sat, 19 Dec 2026.
+Master William is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Charlatan, Ghent on Sat, 19 Dec 2026.
 
 Master William is a house and deep house artist based in Belgium, with 9 gigs on soundcheck across Antwerp, Barcelona and Ghent. Often billed alongside Mona Lee, EKIM and Jensen. Next up: Charlatan, Ghent on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Master William is a house and deep house artist based in Belgium, with 9 gigs on
 
 Mona Lee, EKIM, Jensen
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masterwilliam/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masterwilliam/)*

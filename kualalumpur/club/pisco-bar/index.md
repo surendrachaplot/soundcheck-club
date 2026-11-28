@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "LessIsMore & NWHR present: Kohra (IN)" on Sat, 28 Nov 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "LessIsMore & NWHR present: Kohra (IN)" on Sat, 28 Nov 2026.
 
 Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including Alam, Greystick, Heuremin (MY) and Kohra and 2 more. See dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -15,4 +15,4 @@ Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

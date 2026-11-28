@@ -1,14 +1,13 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "allnighter: DJ MARIA. & Konduku" on Fri, 27 Nov 2026.
+Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Soft Limits: su:zy, Feenicks, Pyjama Heat, Jesse, patricccio, Tatomed" on Sat, 28 Nov 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Adelia, Arton (CZ), Atch22 and Axis Alpha and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Adelia, Arton (CZ), Atch22 and Axis Alpha and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | allnighter: DJ MARIA. & Konduku | DJ MARIA., Konduku |
 | Sat, 28 Nov 2026 | Soft Limits: su:zy, Feenicks, Pyjama Heat, Jesse, patricccio, Tatomed | Feenicks, Tatomed (2), patricccio, su:zy, too many Jesses |
 | Fri, 4 Dec 2026 | hereandthere | Fake Agent, Fireground, Koruth, Marie Pravda, Pink Concrete, Richard Akingbehin, Schwa, Valley Dolly, White Aura, nthng |
 | Sat, 5 Dec 2026 | Threeesome  | Paradiso Rhythm, Wuss, Yo Eva, duboisi, uber_acid, xinchao |
@@ -22,4 +21,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming 
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

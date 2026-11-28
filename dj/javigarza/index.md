@@ -1,6 +1,6 @@
 # Javi Garza
 
-Javi Garza is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 19 Dec 2026.
+Javi Garza is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 19 Dec 2026.
 
 Javi Garza is a progressive house and house artist based in Spain, with 37 gigs on soundcheck across Madrid. Often billed alongside Starni, Vico Deep and Unai García. Next up: Hangar48 Club, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Javi Garza is a progressive house and house artist based in Spain, with 37 gigs 
 
 Starni, Vico Deep, Unai García
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javigarza/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javigarza/)*

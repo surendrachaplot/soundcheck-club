@@ -1,6 +1,6 @@
 # Karaoke
 
-Karaoke is a Hip-Hop and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fibber Magees, Dublin on Sun, 6 Dec 2026.
+Karaoke is a Hip-Hop and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fibber Magees, Dublin on Sun, 6 Dec 2026.
 
 Karaoke is a hip-hop and pop artist based in Greece, with 7 gigs on soundcheck across Bangkok, Berlin, Dublin and Utrecht and 2 more. Often billed alongside Afrobeat, Alphonsine Koh and Dave Nunes. Next up: Fibber Magees, Dublin on Sun 6 Dec.
 
@@ -23,4 +23,4 @@ Karaoke is a hip-hop and pop artist based in Greece, with 7 gigs on soundcheck a
 
 Afrobeat, Alphonsine Koh, Dave Nunes
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaoke/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karaoke/)*

@@ -1,6 +1,6 @@
 # YAKA
 
-YAKA is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Peel, Pittsburgh on Fri, 11 Dec 2026.
+YAKA is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Peel, Pittsburgh on Fri, 11 Dec 2026.
 
 YAKA is an ambient and experimental artist based in Mexico, with 14 gigs on soundcheck across Berlin, Chengdu, London and Mexico City and 4 more. Often billed alongside DJ Strawberry, AMANDA SZE and Aircode. Next up: TBA - Peel, Pittsburgh on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ YAKA is an ambient and experimental artist based in Mexico, with 14 gigs on soun
 
 DJ Strawberry, AMANDA SZE, Aircode
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaka/)*

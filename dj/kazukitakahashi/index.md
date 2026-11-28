@@ -1,6 +1,6 @@
 # Kazuki Takahashi
 
-Kazuki Takahashi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 45 London, London on Sat, 28 Nov 2026.
+Kazuki Takahashi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 45 London, London on Sat, 28 Nov 2026.
 
 Kazuki Takahashi is a house and techno artist based in Japan, with 26 gigs on soundcheck across Berlin and London. Often billed alongside Emilion Dollar Baby, Yukari and Tina Technotic. Next up: 45 London, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Kazuki Takahashi is a house and techno artist based in Japan, with 26 gigs on so
 
 Emilion Dollar Baby, Yukari, Tina Technotic
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*

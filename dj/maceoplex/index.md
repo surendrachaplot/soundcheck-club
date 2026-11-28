@@ -1,6 +1,6 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 28 Nov 2026.
+Maceo Plex is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 28 Nov 2026.
 
 Maceo Plex is a techno and house artist based in United States of America, with 213 gigs on soundcheck across Amsterdam, Andorra, Athens and Austin and 62 more. Often billed alongside Seth Troxler, Adam Beyer and Raxon. Next up: Óbuda Bay, Budapest on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Maceo Plex is a techno and house artist based in United States of America, with 
 
 Seth Troxler, Adam Beyer, Raxon
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

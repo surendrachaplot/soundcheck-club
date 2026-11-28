@@ -1,6 +1,6 @@
 # Luciio
 
-Luciio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at feedbk, New York City on Sat, 5 Dec 2026.
+Luciio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at feedbk, New York City on Sat, 5 Dec 2026.
 
 Luciio is a house and tech house artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Daniel Dutts, La Vega and Felix Lücke. Next up: feedbk, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Luciio is a house and tech house artist based in United States of America, with 
 
 Daniel Dutts, La Vega, Felix Lücke
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciio/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciio/)*

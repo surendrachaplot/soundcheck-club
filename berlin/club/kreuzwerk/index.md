@@ -1,14 +1,13 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Power Dance Club" on Fri, 27 Nov 2026.
+KREUZWERK is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "M.Á.S" on Fri, 4 Dec 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 131bpm, Aaron Blau, acidheaven and ADAM MUNNINGS and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 131bpm, Aaron Blau, acidheaven and ADAM MUNNINGS and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Power Dance Club | Amanda Mussi, Byron Yeates, E-Talking, Luigi Di Venere, Majdolen, Maria Politi, Stathis (GR) |
 | Fri, 4 Dec 2026 | M.Á.S | Jana Falcon, KUSS, Mohajer, Rachel Noon, Rachel de Moncuit, Volpe |
 | Sat, 5 Dec 2026 | Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga | ALP (DE), Aunty Nora, CLEO, Huamaniser, KVKN, Lixi, Mama Yha Yha, Nycky Estrella, Ojos de miel, Sub Sahara, VRTL |
 | Sat, 19 Dec 2026 | OVERLOAD #5 | AS90, BOYCA, Barbad, Buday, David Asko, Mar/us, Metaraph |
@@ -18,9 +17,10 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 | Fri, 29 Jan 2027 | In Balance |  |
 | Sat, 6 Feb 2027 | Rave 'n' Cruise 2027 | Bennet (DE), Call Super, Craig Richards, Darcy Mahady, Gene On Earth, Laura Fiore, Midland, OK Williams, Stevo Bajski, acidheaven, e/tape, livwutang |
 | Sun, 7 Mar 2027 | BCCO x ÜBERKIKZ International Women's Day | DJ ANGEL (fr), Daria Kolosova, Ketarina, SAIKA, ÜBERKIKZ |
+| Thu, 25 Mar 2027 | BCCO x FENIM0RE All Night Long | FENIM0RE |
 
 ## Address
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

@@ -1,6 +1,6 @@
 # InsideInfo
 
-InsideInfo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
+InsideInfo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Cause, London on Sat, 6 Feb 2027.
 
 InsideInfo is a drum & bass and jungle artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, London, Prague and Utrecht. Often billed alongside Black Sun Empire, Calyx and Ed Rush. Next up: The Cause, London on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ InsideInfo is a drum & bass and jungle artist based in United Kingdom, with 10 g
 
 Black Sun Empire, Calyx, Ed Rush
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insideinfo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insideinfo/)*

@@ -1,14 +1,15 @@
 # BEYBLADE SHAWTY
 
-BEYBLADE SHAWTY is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 30 Nov 2026.
+BEYBLADE SHAWTY is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 30 Nov 2026.
 
-BEYBLADE SHAWTY is a club and ghetto tech artist based in United States of America, with 50 gigs on soundcheck across Detroit and New York City. Often billed alongside Petal, LeCamille and BABEITSPURR. Next up: Bossa Nova Civic Club, New York City on Mon 30 Nov.
+BEYBLADE SHAWTY is a club and ghetto tech artist based in United States of America, with 51 gigs on soundcheck across Detroit and New York City. Often billed alongside Petal, LeCamille and BABEITSPURR. Next up: Bossa Nova Civic Club, New York City on Mon 30 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 30 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Thu, 10 Dec 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ BEYBLADE SHAWTY is a club and ghetto tech artist based in United States of Ameri
 
 Petal, LeCamille, BABEITSPURR
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beybladeshawty/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beybladeshawty/)*

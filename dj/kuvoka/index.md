@@ -1,6 +1,6 @@
 # KUVOKA
 
-KUVOKA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
+KUVOKA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zorlu Performans Sanatları Merkezi, Istanbul on Wed, 9 Dec 2026.
 
 KUVOKA is a techno and house artist, with 10 gigs on soundcheck across Istanbul and Vancouver. Often billed alongside Ferhat Albayrak, Avangart Tabldot and Carl Cox. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ KUVOKA is a techno and house artist, with 10 gigs on soundcheck across Istanbul 
 
 Ferhat Albayrak, Avangart Tabldot, Carl Cox
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvoka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvoka/)*

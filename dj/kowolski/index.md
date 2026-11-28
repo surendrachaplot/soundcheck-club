@@ -1,6 +1,6 @@
 # KOWOLSKI
 
-KOWOLSKI is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Stollen 134, Dortmund / Essen on Sat, 28 Nov 2026.
+KOWOLSKI is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Stollen 134, Dortmund / Essen on Sat, 28 Nov 2026.
 
 KOWOLSKI is a techno and industrial artist based in Poland, with 27 gigs on soundcheck across Dortmund / Essen, Hannover and Münster. Often billed alongside Mansist, IXOS and pytrak_. Next up: Stollen 134, Dortmund / Essen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KOWOLSKI is a techno and industrial artist based in Poland, with 27 gigs on soun
 
 Mansist, IXOS, pytrak_
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kowolski/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kowolski/)*

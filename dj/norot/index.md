@@ -1,6 +1,6 @@
 # NORO$T
 
-NORO$T is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - CLUB K , Madrid on Sat, 28 Nov 2026.
+NORO$T is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - CLUB K , Madrid on Sat, 28 Nov 2026.
 
 NORO$T is a techno and trance artist based in Spain, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 6 more. Often billed alongside BZZHOUND, Fenrick and Linapary. Next up: TBA - CLUB K , Madrid on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ NORO$T is a techno and trance artist based in Spain, with 15 gigs on soundcheck 
 
 BZZHOUND, Fenrick, Linapary
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*

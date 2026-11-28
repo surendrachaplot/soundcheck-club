@@ -1,6 +1,6 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 4 Dec 2026.
+Garrett David is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 4 Dec 2026.
 
 Garrett David is a house and disco artist based in United States of America, with 219 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 43 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Tokonoma Club, Frankfurt on Fri 4 Dec.
 
@@ -14,7 +14,7 @@ Garrett David is a house and disco artist based in United States of America, wit
 | Sun, 20 Dec 2026 | Sub Club | Glasgow |
 | Thu, 14 Jan 2027 | Zanzibar - Various Venues | Tanzania |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
-| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
+| Sat, 27 Feb 2027 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -31,4 +31,4 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

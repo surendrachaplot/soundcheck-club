@@ -1,18 +1,18 @@
 # Sebastian Ledher
 
-Sebastian Ledher is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 27 Nov 2026.
+Sebastian Ledher is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at LAB theCLUB, Madrid on Sat, 5 Dec 2026.
 
-Sebastian Ledher is a tech house and house artist based in Spain, with 31 gigs on soundcheck across Barcelona, Boston, Buenos Aires and Ibiza and 5 more. Often billed alongside DH Moon, Freddy Bello and Shahar. Next up: NIX Barcelona, Barcelona on Fri 27 Nov.
+Sebastian Ledher is a tech house and house artist based in Spain, with 31 gigs on soundcheck across Barcelona, Boston, Buenos Aires and Ibiza and 5 more. Often billed alongside DH Moon, Freddy Bello and Shahar. Next up: LAB theCLUB, Madrid on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | NIX Barcelona | Barcelona |
 | Sat, 5 Dec 2026 | LAB theCLUB | Madrid |
 
 ## Recently played
 
+- NIX Barcelona, Barcelona · Fri, 27 Nov 2026
 - Viuz, Medellin · Sat, 7 Nov 2026
 - Eden, Ibiza · Sat, 1 Aug 2026
 - LAB theCLUB, Madrid · Sat, 18 Jul 2026
@@ -20,10 +20,9 @@ Sebastian Ledher is a tech house and house artist based in Spain, with 31 gigs o
 - Ku Barcelona, Barcelona · Sun, 18 Jan 2026
 - Viuz, Medellin · Sat, 27 Dec 2025
 - Ku Barcelona, Barcelona · Sun, 26 Oct 2025
-- Ku Barcelona, Barcelona · Sun, 26 Oct 2025
 
 ## Shares bills with
 
 DH Moon, Freddy Bello, Shahar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianledher/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianledher/)*

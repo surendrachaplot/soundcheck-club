@@ -1,6 +1,6 @@
 # Day 1 Special-K Open air at Spook Club
 
-Day 1 Special-K Open air at Spook Club on Fri 1 Jan, Valencia. 11 artists: Blanch, Caballeri, Felipe Valenzuela and KATIA (ES) and 7 more. Deep House and Minimal Techno. See the line-up on soundcheck.
+Day 1 Special-K Open air at Spook Club on Fri 1 Jan, Valencia. 12 artists: Blanch, Caballeri, Felipe Valenzuela and KATIA (ES) and 8 more. Deep House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Day 1 Special-K Open air at Spook Club on Fri 1 Jan, Valencia. 11 artists: Blanc
 - Caballeri
 - Felipe Valenzuela
 - KATIA (ES)
+- Koseki
 - Ladrillovitz
 - Not A Headliner
 - Olga Korol

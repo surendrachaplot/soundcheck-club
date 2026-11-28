@@ -1,6 +1,6 @@
 # RHYTHMICK
 
-RHYTHMICK is a Progressive House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Fade Street Studios, Dublin on Sat, 19 Dec 2026.
+RHYTHMICK is a Progressive House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fade Street Studios, Dublin on Sat, 19 Dec 2026.
 
 RHYTHMICK is a progressive house and bass artist based in Ireland, with 14 gigs on soundcheck across Dublin. Often billed alongside Surka, ACKERMAN and Collie. Next up: Fade Street Studios, Dublin on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ RHYTHMICK is a progressive house and bass artist based in Ireland, with 14 gigs 
 
 Surka (1), ACKERMAN, Collie (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmick/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmick/)*

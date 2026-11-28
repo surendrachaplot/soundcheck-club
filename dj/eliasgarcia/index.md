@@ -1,6 +1,6 @@
 # Elias Garcia
 
-Elias Garcia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Domicile, Miami on Thu, 3 Dec 2026.
+Elias Garcia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Domicile, Miami on Thu, 3 Dec 2026.
 
 Elias Garcia is a techno and minimal techno artist, with 44 gigs on soundcheck across Boston, Buenos Aires, Chicago and Denver and 8 more. Often billed alongside Ultrathem, Sister System and Winter Wrong. Next up: Domicile, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Elias Garcia is a techno and minimal techno artist, with 44 gigs on soundcheck a
 
 Ultrathem, Sister System, Winter Wrong
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgarcia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgarcia/)*

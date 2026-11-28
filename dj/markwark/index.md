@@ -1,6 +1,6 @@
 # Mark Wark
 
-Mark Wark is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Company Club, Milan on Sat, 28 Nov 2026.
+Mark Wark is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Company Club, Milan on Sat, 28 Nov 2026.
 
 Mark Wark is a techno and downtempo artist based in Italy, with 48 gigs on soundcheck across Bologna, Houston and Milan. Often billed alongside Zirko, Re Pigi and AllaDerivaLontano. Next up: Company Club, Milan on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Mark Wark is a techno and downtempo artist based in Italy, with 48 gigs on sound
 
 Zirko, Re Pigi, AllaDerivaLontano
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markwark/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markwark/)*

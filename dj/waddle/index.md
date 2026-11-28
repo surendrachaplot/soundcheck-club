@@ -1,19 +1,19 @@
 # WADDLE
 
-WADDLE is a Techno and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mood Ring, New York City on Fri, 27 Nov 2026.
+WADDLE is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 28 Nov 2026.
 
-WADDLE is a techno and ghetto tech artist based in United States of America, with 71 gigs on soundcheck across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, y2aura and NIJEII. Next up: Mood Ring, New York City on Fri 27 Nov.
+WADDLE is a techno and ghetto tech artist based in United States of America, with 71 gigs on soundcheck across New York City, San Francisco/Oakland and Seoul. Often billed alongside duco, y2aura and NIJEII. Next up: Bossa Nova Civic Club, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Mood Ring | New York City |
 | Sat, 28 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 3 Dec 2026 | Le Bain | New York City |
 
 ## Recently played
 
+- Mood Ring, New York City · Fri, 27 Nov 2026
 - Elsewhere, New York City · Sat, 14 Nov 2026
 - Mood Ring, New York City · Sat, 17 Oct 2026
 - H0L0, New York City · Thu, 15 Oct 2026
@@ -21,10 +21,9 @@ WADDLE is a techno and ghetto tech artist based in United States of America, wit
 - Bolero, Seoul · Thu, 8 Oct 2026
 - Hart Bar, New York City · Sat, 19 Sept 2026
 - Amma Cafe, New York City · Sat, 12 Sept 2026
-- Signal, New York City · Thu, 13 Aug 2026
 
 ## Shares bills with
 
 duco, y2aura, NIJEII
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waddle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waddle/)*

@@ -1,6 +1,6 @@
 # baseHEAD
 
-baseHEAD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Débris, Tokyo on Fri, 27 Nov 2026.
+baseHEAD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Débris, Tokyo on Fri, 27 Nov 2026.
 
 baseHEAD is a house and techno artist, with 5 gigs on soundcheck across Hanoi and Tokyo. Often billed alongside Akim, CD HATA and Galcid. Next up: Débris, Tokyo on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ baseHEAD is a house and techno artist, with 5 gigs on soundcheck across Hanoi an
 
 ## Recently played
 
+- Débris, Tokyo · Fri, 27 Nov 2026
 - Sasazuka Bowl, Tokyo · Sun, 7 Dec 2025
 - Nakano Heavysick Zero, Tokyo · Sun, 6 Oct 2024
 - Shibuya Oiran, Tokyo · Sun, 9 Jun 2024
@@ -21,4 +22,4 @@ baseHEAD is a house and techno artist, with 5 gigs on soundcheck across Hanoi an
 
 Akim, CD HATA, Galcid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basehead/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basehead/)*

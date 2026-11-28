@@ -1,6 +1,6 @@
 # Daisy Weweh
 
-Daisy Weweh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
+Daisy Weweh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
 
 Daisy Weweh is a house and techno artist based in Ukraine, with 86 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brussels and 8 more. Often billed alongside Anton Jonathan, Jean Mauj and Aimé You. Next up: Südpol, Hamburg on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Daisy Weweh is a house and techno artist based in Ukraine, with 86 gigs on sound
 
 Anton Jonathan, Jean Mauj, Aimé You
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*

@@ -1,6 +1,6 @@
 # Fher Uribe
 
-Fher Uribe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Salas Roma, Mexico City on Sat, 5 Dec 2026.
+Fher Uribe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Salas Roma, Mexico City on Sat, 5 Dec 2026.
 
 Fher Uribe is a house and deep house artist based in Mexico, with 20 gigs on soundcheck across Mexico City. Often billed alongside Irena Stanisic, Awa (ARG) and DJ Milka. Next up: Salas Roma, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fher Uribe is a house and deep house artist based in Mexico, with 20 gigs on sou
 
 Irena Stanisic, Awa (ARG), DJ Milka
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fheruribe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fheruribe/)*

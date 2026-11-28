@@ -1,6 +1,6 @@
 # Phil Smart
 
-Phil Smart is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fraser Park, Sydney on Sat, 19 Dec 2026.
+Phil Smart is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fraser Park, Sydney on Sat, 19 Dec 2026.
 
 Phil Smart is a house and downtempo artist based in Australia, with 101 gigs on soundcheck across Brisbane, Byron Bay, Dubai and Melbourne and 1 more. Often billed alongside Francis Xavier, Aidan Beiers and Squidgenini. Next up: Fraser Park, Sydney on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Phil Smart is a house and downtempo artist based in Australia, with 101 gigs on 
 
 Francis Xavier, Aidan Beiers, Squidgenini
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*

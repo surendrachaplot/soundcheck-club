@@ -1,6 +1,6 @@
 # Priscilla
 
-Priscilla is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Priscilla is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Priscilla is a house and jungle artist based in Canada, with 15 gigs on soundcheck across London, New York City, San Francisco/Oakland and Zurich. Often billed alongside Chinese Daughter, Darkstepper and H3L3NA. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Priscilla is a house and jungle artist based in Canada, with 15 gigs on soundche
 
 Chinese Daughter, Darkstepper, H3L3NA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priscilla/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priscilla/)*

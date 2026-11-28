@@ -1,6 +1,6 @@
 # Miller
 
-Miller is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tomodachi, Ibiza on Sat, 28 Nov 2026.
+Miller is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tomodachi, Ibiza on Sat, 28 Nov 2026.
 
 Miller is a house and minimal artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Nicolau, Hugo Martinez and Ion Ludwig. Next up: Tomodachi, Ibiza on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Miller is a house and minimal artist based in United Kingdom, with 36 gigs on so
 
 Nicolau, Hugo Martinez, Ion Ludwig
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miller/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miller/)*

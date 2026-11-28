@@ -1,6 +1,6 @@
 # Kafe Hærverk
 
-Kafe Hærverk is a music venue in Oslo with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Pure Ecstasy #52" on Sat, 28 Nov 2026.
+Kafe Hærverk is a music venue in Oslo with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Pure Ecstasy #52" on Sat, 28 Nov 2026.
 
 Kafe Hærverk is a music venue in Oslo listed on soundcheck. 2 upcoming gigs, with line-ups including Detroit In Effect and Krass. See dates, start times and who's playing. Hausmanns gate 34 0182 Oslo, Norway.
 
@@ -15,4 +15,4 @@ Kafe Hærverk is a music venue in Oslo listed on soundcheck. 2 upcoming gigs, wi
 
 Hausmanns gate 34 0182 Oslo, Norway, Oslo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*

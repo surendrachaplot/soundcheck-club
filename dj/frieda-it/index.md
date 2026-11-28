@@ -1,6 +1,6 @@
 # frieda (IT)
 
-frieda (IT) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Electronic Music Division Rome, Rome on Sat, 26 Dec 2026.
+frieda (IT) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Electronic Music Division Rome, Rome on Sat, 26 Dec 2026.
 
 frieda (IT) is an electro and techno artist based in Italy, with 9 gigs on soundcheck across London, Milan and Rome. Often billed alongside Uabos, Anthea and CEM3340. Next up: Electronic Music Division Rome, Rome on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ frieda (IT) is an electro and techno artist based in Italy, with 9 gigs on sound
 
 Uabos, Anthea, CEM3340
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frieda-it/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frieda-it/)*

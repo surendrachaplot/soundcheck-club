@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Little River Studios, Miami on Sat, 5 Dec 2026.
+Adriatique is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Little River Studios, Miami on Sat, 5 Dec 2026.
 
 Adriatique is a techno and house artist based in Switzerland, with 189 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Mind Against, Colyn and DJ Tennis. Next up: Little River Studios, Miami on Sat 5 Dec.
 
@@ -29,4 +29,4 @@ Adriatique is a techno and house artist based in Switzerland, with 189 gigs on s
 
 Mind Against, Colyn, DJ Tennis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

@@ -1,6 +1,6 @@
 # maqui
 
-maqui is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Forestlimit, Tokyo on Thu, 10 Dec 2026.
+maqui is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Forestlimit, Tokyo on Thu, 10 Dec 2026.
 
 maqui is an experimental and electronica artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside VALON, Xamd and meweta. Next up: Forestlimit, Tokyo on Thu 10 Dec.
 
@@ -22,4 +22,4 @@ maqui is an experimental and electronica artist based in Japan, with 6 gigs on s
 
 VALON, Xamd, meweta
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maqui/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maqui/)*

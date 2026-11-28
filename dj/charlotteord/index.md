@@ -1,14 +1,15 @@
 # Charlotte Ord
 
-Charlotte Ord is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Warehouse, Leeds on Sat, 28 Nov 2026.
+Charlotte Ord is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Warehouse, Leeds on Sat, 28 Nov 2026.
 
-Charlotte Ord is a house and garage artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Edinburgh, Leeds and London and 2 more. Often billed alongside Reeshy, Locky and Josh Demello. Next up: The Warehouse, Leeds on Sat 28 Nov.
+Charlotte Ord is a house and garage artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Edinburgh, Leeds and London and 2 more. Often billed alongside Reeshy, Locky and Captain Wallop. Next up: The Warehouse, Leeds on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Warehouse | Leeds |
+| Thu, 31 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Charlotte Ord is a house and garage artist based in United Kingdom, with 48 gigs
 
 ## Shares bills with
 
-Reeshy, Locky, Josh Demello
+Reeshy, Locky, Captain Wallop
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteord/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteord/)*

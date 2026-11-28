@@ -1,6 +1,6 @@
 # Adiel at KALT
 
-Adiel at KALT on Sat 12 Dec, Strasbourg. 1 artist: Adiel. See the line-up on soundcheck.
+Adiel at KALT on Sat 12 Dec, Strasbourg. 2 artists: Adiel and Mute.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Adiel at KALT on Sat 12 Dec, Strasbourg. 1 artist: Adiel. See the line-up on sou
 ## Line-up
 
 - Adiel
+- Mute.
 
 *Source: [soundcheck](https://soundcheck.club/e/2457241-adiel-at-kalt/)*

@@ -1,6 +1,6 @@
 # Hyde Park Book Club
 
-Hyde Park Book Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Rootikal Expression Session" on Sat, 12 Dec 2026.
+Hyde Park Book Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Rootikal Expression Session" on Sat, 12 Dec 2026.
 
 Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Another Country $$$$ and Being One. See dates, start times and who's playing. 27-29 Headingley Ln, Leeds LS6 1BL.
 
@@ -16,4 +16,4 @@ Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 3 upcoming g
 
 27-29 Headingley Ln, Leeds LS6 1BL, Leeds
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hyde-park-book-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hyde-park-book-club/)*

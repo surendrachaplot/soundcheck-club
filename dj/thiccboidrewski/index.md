@@ -1,6 +1,6 @@
 # Thiccboi Drewski
 
-Thiccboi Drewski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The House, New York City on Fri, 4 Dec 2026.
+Thiccboi Drewski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The House, New York City on Fri, 4 Dec 2026.
 
 Thiccboi Drewski is a house and techno artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside M33CH, Sam Valle and Sarindipity. Next up: The House, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Thiccboi Drewski is a house and techno artist based in United States of America,
 
 M33CH, Sam Valle, Sarindipity
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thiccboidrewski/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thiccboidrewski/)*

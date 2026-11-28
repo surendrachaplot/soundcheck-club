@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at vurt., Seoul on Sat, 5 Dec 2026.
+Marco Shuttle is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at vurt., Seoul on Sat, 5 Dec 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, with 180 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 48 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: vurt., Seoul on Sat 5 Dec.
 
@@ -30,4 +30,4 @@ Marco Shuttle is a techno and house artist based in Italy, with 180 gigs on soun
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

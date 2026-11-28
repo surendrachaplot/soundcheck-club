@@ -1,6 +1,6 @@
 # Dominetrix
 
-Dominetrix is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 10 Dec 2026.
+Dominetrix is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 10 Dec 2026.
 
 Dominetrix is an electro and ebm artist based in Spain, with 4 gigs on soundcheck across Barcelona and Vilnius. Often billed alongside shiritaki, Alice Caroline and Bruno (ES). Next up: 303 Audiophile Bar, Barcelona on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ Dominetrix is an electro and ebm artist based in Spain, with 4 gigs on soundchec
 
 shiritaki, Alice Caroline, Bruno (ES)
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*

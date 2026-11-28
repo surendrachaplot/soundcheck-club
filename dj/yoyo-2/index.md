@@ -1,6 +1,6 @@
 # YOYO (UK)
 
-YOYO (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Glove That Fits, London on Sun, 20 Dec 2026.
+YOYO (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Glove That Fits, London on Sun, 20 Dec 2026.
 
 YOYO (UK) is a techno and trance artist based in United Kingdom, with 7 gigs on soundcheck across Brighton and London. Often billed alongside Sissy Cinnamon, Amor Ante and Atoxyl. Next up: The Glove That Fits, London on Sun 20 Dec.
 
@@ -23,4 +23,4 @@ YOYO (UK) is a techno and trance artist based in United Kingdom, with 7 gigs on 
 
 Sissy Cinnamon, Amor Ante, Atoxyl
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyo-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyo-2/)*

@@ -1,6 +1,6 @@
 # Spice Crime
 
-Spice Crime is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Boombox, Miami on Sat, 28 Nov 2026.
+Spice Crime is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Boombox, Miami on Sat, 28 Nov 2026.
 
 Spice Crime is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Miami and New York City. Often billed alongside Violeta, KUJO (US) and DomnRob. Next up: The Boombox, Miami on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Spice Crime is a techno and house artist based in United States of America, with
 
 Violeta, KUJO (US), DomnRob
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*

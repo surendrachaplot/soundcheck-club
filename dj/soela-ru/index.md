@@ -1,6 +1,6 @@
 # Soela
 
-Soela is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Distillery, Leipzig on Sat, 16 Jan 2027.
+Soela is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Distillery, Leipzig on Sat, 16 Jan 2027.
 
 Soela is a house and techno artist, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Black Loops, Carlo and Marie Lung. Next up: Distillery, Leipzig on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Soela is a house and techno artist, with 61 gigs on soundcheck across Amsterdam,
 
 Black Loops, Carlo, Marie Lung
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soela-ru/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soela-ru/)*

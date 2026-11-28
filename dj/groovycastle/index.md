@@ -1,6 +1,6 @@
 # Groovy Castle
 
-Groovy Castle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vino Disco, Montreal on Sat, 5 Dec 2026.
+Groovy Castle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vino Disco, Montreal on Sat, 5 Dec 2026.
 
 Groovy Castle is a house and disco artist based in Canada, with 17 gigs on soundcheck across Montreal. Often billed alongside Jean Pascal Groove, Le Rotary Club and Juju le Moko. Next up: Vino Disco, Montreal on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Groovy Castle is a house and disco artist based in Canada, with 17 gigs on sound
 
 Jean Pascal Groove, Le Rotary Club, Juju le Moko
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovycastle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovycastle/)*

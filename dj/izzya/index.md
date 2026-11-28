@@ -1,6 +1,6 @@
 # IZZYA
 
-IZZYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
+IZZYA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Rote Sonne, Munich on Sat, 28 Nov 2026.
 
 IZZYA is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin, Karlsruhe, Munich and Nürnberg. Often billed alongside Melchiorr, Nepōmuk and Punktmidi. Next up: Rote Sonne, Munich on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ IZZYA is a techno and house artist based in Germany, with 19 gigs on soundcheck 
 
 Melchiorr, Nepōmuk, Punktmidi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzya/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzya/)*

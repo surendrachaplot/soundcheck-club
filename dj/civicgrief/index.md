@@ -1,6 +1,6 @@
 # Civic Grief
 
-Civic Grief is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at La Textil Collective, Barcelona on Thu, 26 Nov 2026.
+Civic Grief is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at La Textil Collective, Barcelona on Thu, 26 Nov 2026.
 
 Civic Grief is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Barcelona, Berlin, Edinburgh and London. Often billed alongside caro.aki, K A I and Sloan. Next up: La Textil Collective, Barcelona on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Civic Grief is a house and techno artist based in United Kingdom, with 51 gigs o
 
 caro.aki, K A I, Sloan (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/civicgrief/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/civicgrief/)*

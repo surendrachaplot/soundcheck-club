@@ -1,6 +1,6 @@
 # Buddy. (2)
 
-Buddy. (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 2 Dec 2026.
+Buddy. (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 2 Dec 2026.
 
 Buddy. is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh, London and Manchester. Often billed alongside Sunny D, Theo G (UK) and AJC (UK). Next up: Sneaky Pete's, Edinburgh on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Buddy. is a house and tech house artist based in United Kingdom, with 18 gigs on
 
 Sunny D, Theo G (UK), AJC (UK)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buddy.-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buddy.-2/)*

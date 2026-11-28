@@ -1,6 +1,6 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
+Deejay Energy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Drama Radio Bar, Mexico City on Tue, 24 Nov 2026.
 
 Deejay Energy is a techno and house artist based in Mexico, with 91 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 10 more. Often billed alongside Enya Botello, Bluecommand and Fig (DYN). Next up: Drama Radio Bar, Mexico City on Tue 24 Nov.
 
@@ -26,4 +26,4 @@ Deejay Energy is a techno and house artist based in Mexico, with 91 gigs on soun
 
 Enya Botello, Bluecommand, Fig (DYN)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*

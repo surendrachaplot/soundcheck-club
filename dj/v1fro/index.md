@@ -1,6 +1,6 @@
 # v1fro
 
-v1fro is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 28 Nov 2026.
+v1fro is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 28 Nov 2026.
 
 v1fro is a techno and reggaeton artist based in Venezuela, with 48 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, Berrakka and Pressure Point (US). Next up: The Ground at Club Space, Miami on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ v1fro is a techno and reggaeton artist based in Venezuela, with 48 gigs on sound
 
 SATURNSARii, Berrakka, Pressure Point (US)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*

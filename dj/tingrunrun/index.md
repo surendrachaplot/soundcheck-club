@@ -1,6 +1,6 @@
 # Ting Run Run
 
-Ting Run Run is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Autumn Three, London on Sun, 29 Nov 2026.
+Ting Run Run is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Autumn Three, London on Sun, 29 Nov 2026.
 
 Ting Run Run is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across London and Toronto. Often billed alongside ADRIAN LECA, Deejay Nye and LaAng. Next up: Autumn Three, London on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Ting Run Run is a house and techno artist based in United Kingdom, with 46 gigs 
 
 ADRIAN LECA, Deejay Nye, LaAng
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tingrunrun/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tingrunrun/)*

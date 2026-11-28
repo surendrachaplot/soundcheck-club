@@ -1,6 +1,6 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 29 Nov 2026.
+Sevyn Love is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 29 Nov 2026.
 
 Sevyn Love is a techno and house artist based in United States of America, with 83 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJPT, Will Jack and DJ DEADNAME. Next up: Bossa Nova Civic Club, New York City on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Sevyn Love is a techno and house artist based in United States of America, with 
 
 DJPT, Will Jack, DJ DEADNAME
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

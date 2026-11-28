@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 13 Jan, Berlin. 2 artists: nixmoon and NYCTO. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 13 Jan, Berlin. 3 artists: Bokaric, nixmoon and NYCTO. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TECHNO MITTWOCH at Sensorium on Wed 13 Jan, Berlin. 2 artists: nixmoon and NYCTO
 
 ## Line-up
 
+- Bokaric
 - nixmoon
 - NYCTO
 

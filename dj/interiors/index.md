@@ -1,6 +1,6 @@
 # Interiors
 
-Interiors is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elastica, Vilnius on Fri, 22 Jan 2027.
+Interiors is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Elastica, Vilnius on Fri, 22 Jan 2027.
 
 Interiors is a techno and ebm artist based in Lithuania, with 35 gigs on soundcheck across Vilnius. Often billed alongside Mirror Slave, Valdagger and Mario Moretti. Next up: Elastica, Vilnius on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Interiors is a techno and ebm artist based in Lithuania, with 35 gigs on soundch
 
 Mirror Slave, Valdagger, Mario Moretti
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interiors/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interiors/)*

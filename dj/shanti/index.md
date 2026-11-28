@@ -1,6 +1,6 @@
 # Shanti
 
-Shanti is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Shanti is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Shanti is a techno and acid artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 6 more. Often billed alongside Josh Tong, Scum.ee and JS Alvarez. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -14,6 +14,7 @@ Shanti is a techno and acid artist based in United States of America, with 78 gi
 
 ## Recently played
 
+- Lardner Park, Melbourne · Fri, 27 Nov 2026
 - Chicago Eagle, Chicago · Sat, 21 Nov 2026
 - Podlasie Club, Chicago · Fri, 30 Oct 2026
 - The California Clipper, Chicago · Thu, 29 Oct 2026
@@ -21,10 +22,9 @@ Shanti is a techno and acid artist based in United States of America, with 78 gi
 - smartbar, Chicago · Sat, 10 Oct 2026
 - public records, New York City · Fri, 7 Aug 2026
 - TBA - The Vault 313, Detroit · Sat, 18 Jul 2026
-- Cassiopeia, Berlin · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Josh Tong, Scum.ee, JS Alvarez
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*

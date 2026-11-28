@@ -1,19 +1,19 @@
 # Paranormila
 
-Paranormila is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
+Paranormila is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Artheater, Cologne on Sat, 28 Nov 2026.
 
-Paranormila is a techno and trance artist based in Germany, with 80 gigs on soundcheck across Belgrade, Berlin, Cologne and Düsseldorf and 6 more. Often billed alongside DeGuzman, The Belgian Stallion and SANDRA ROMINA. Next up: OST, Berlin on Fri 27 Nov.
+Paranormila is a techno and trance artist based in Germany, with 80 gigs on soundcheck across Belgrade, Berlin, Cologne and Düsseldorf and 6 more. Often billed alongside DeGuzman, The Belgian Stallion and SANDRA ROMINA. Next up: Artheater, Cologne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | OST | Berlin |
 | Sat, 28 Nov 2026 | Artheater | Cologne |
 | Fri, 4 Dec 2026 | Airport Würzburg | Nürnberg |
 
 ## Recently played
 
+- OST, Berlin · Fri, 27 Nov 2026
 - OST, Berlin · Sat, 14 Nov 2026
 - MTW, Frankfurt · Sat, 7 Nov 2026
 - Tanzhaus West, Frankfurt · Fri, 30 Oct 2026
@@ -21,10 +21,9 @@ Paranormila is a techno and trance artist based in Germany, with 80 gigs on soun
 - Airport Würzburg, Nürnberg · Fri, 2 Oct 2026
 - Tanzhaus West, Frankfurt · Fri, 7 Aug 2026
 - Garagen Club, Cologne · Fri, 31 Jul 2026
-- Odonien, Cologne · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 DeGuzman, The Belgian Stallion, SANDRA ROMINA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranormila/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paranormila/)*

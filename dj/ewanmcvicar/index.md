@@ -1,6 +1,6 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Berkeley Suite, Glasgow on Mon, 14 Dec 2026.
+Ewan McVicar is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Berkeley Suite, Glasgow on Mon, 14 Dec 2026.
 
 Ewan McVicar is a house and techno artist based in United Kingdom, with 192 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austria and 44 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: The Berkeley Suite, Glasgow on Mon 14 Dec.
 
@@ -35,4 +35,4 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 192 gigs
 
 Special Request, Dom Dolla, Overmono
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

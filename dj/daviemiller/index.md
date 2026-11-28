@@ -1,8 +1,8 @@
 # Davie Miller
 
-Davie Miller is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at West Port Oracle, Edinburgh on Sat, 28 Nov 2026.
+Davie Miller is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at West Port Oracle, Edinburgh on Sat, 28 Nov 2026.
 
-Davie Miller is an acid and house artist, with 5 gigs on soundcheck across Edinburgh. Often billed alongside Jacuzzi General, Zoe from Finance and Buckfast Barbie. Next up: West Port Oracle, Edinburgh on Sat 28 Nov.
+Davie Miller is an acid and house artist, with 5 gigs on soundcheck across Edinburgh. Often billed alongside Jacuzzi General, Lara Sinclair and Zoe from Finance. Next up: West Port Oracle, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Davie Miller is an acid and house artist, with 5 gigs on soundcheck across Edinb
 
 ## Shares bills with
 
-Jacuzzi General, Zoe from Finance, Buckfast Barbie
+Jacuzzi General, Lara Sinclair, Zoe from Finance
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daviemiller/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daviemiller/)*

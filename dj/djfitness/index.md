@@ -1,6 +1,6 @@
 # DJ Fitness
 
-DJ Fitness is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 11 Dec 2026.
+DJ Fitness is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 11 Dec 2026.
 
 DJ Fitness is a house and techno artist based in Mexico, with 26 gigs on soundcheck across Berlin, Denver, Miami and New York City. Often billed alongside Brother Dan, EZ Dee and Girlcop. Next up: Bossa Nova Civic Club, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DJ Fitness is a house and techno artist based in Mexico, with 26 gigs on soundch
 
 Brother Dan, EZ Dee, Girlcop
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfitness/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfitness/)*

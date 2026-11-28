@@ -1,6 +1,6 @@
 # Nez
 
-Nez is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Titanic Distillers, Belfast on Sat, 28 Nov 2026.
+Nez is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Titanic Distillers, Belfast on Sat, 28 Nov 2026.
 
 Nez is a techno and acid artist based in United Kingdom, with 21 gigs on soundcheck across Belfast, Cork, Dublin and Mexico City and 2 more. Often billed alongside Blark, Cricky Lyttle and Ryan Dallas. Next up: Titanic Distillers, Belfast on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nez is a techno and acid artist based in United Kingdom, with 21 gigs on soundch
 
 Blark, Cricky Lyttle, Ryan Dallas
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nez/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nez/)*

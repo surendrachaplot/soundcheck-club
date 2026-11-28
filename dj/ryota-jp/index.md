@@ -1,8 +1,8 @@
 # Ryota (JP)
 
-Ryota (JP) is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Saloon, Tokyo on Sat, 28 Nov 2026.
+Ryota (JP) is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Saloon, Tokyo on Sat, 28 Nov 2026.
 
-Ryota (JP) is a bass and garage artist based in Japan, with 41 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 10 more. Often billed alongside Ryota, SAMO (JP) and YUVIE. Next up: Saloon, Tokyo on Sat 28 Nov.
+Ryota (JP) is a bass and garage artist based in Japan, with 42 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 10 more. Often billed alongside Ryota, SAMO (JP) and YUVIE. Next up: Saloon, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ryota (JP) is a bass and garage artist based in Japan, with 41 gigs on soundchec
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Saloon | Tokyo |
 | Thu, 31 Dec 2026 | Unit | Tokyo |
+| Thu, 31 Dec 2026 | Saloon | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ryota (JP) is a bass and garage artist based in Japan, with 41 gigs on soundchec
 
 Ryota, SAMO (JP), YUVIE
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota-jp/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota-jp/)*

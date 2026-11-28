@@ -1,6 +1,6 @@
 # DJ Wolle
 
-DJ Wolle is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at PRST, Vienna on Sat, 5 Dec 2026.
+DJ Wolle is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at PRST, Vienna on Sat, 5 Dec 2026.
 
 DJ Wolle is a techno and trance artist based in Austria, with 42 gigs on soundcheck across Austria, Munich, Prague and Vienna. Often billed alongside Farbod, Dimitrios and presso. Next up: PRST, Vienna on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DJ Wolle is a techno and trance artist based in Austria, with 42 gigs on soundch
 
 Farbod, Dimitrios (2), presso
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwolle/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwolle/)*

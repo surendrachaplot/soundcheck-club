@@ -1,6 +1,6 @@
 # KABOCANA
 
-KABOCANA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 4 Dec 2026.
+KABOCANA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 4 Dec 2026.
 
 KABOCANA is a garage and bass artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside FXCKBOUT, BUTCHABOI and LUMIINA. Next up: Cupra City Garage Manchester, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ KABOCANA is a garage and bass artist based in United Kingdom, with 16 gigs on so
 
 FXCKBOUT, BUTCHABOI, LUMIINA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabocana/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabocana/)*

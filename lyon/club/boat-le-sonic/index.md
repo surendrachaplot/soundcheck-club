@@ -1,6 +1,6 @@
 # Boat - Le Sonic
 
-Boat - Le Sonic is a music venue in Lyon with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "SIGIL ENGINE" on Sat, 28 Nov 2026.
+Boat - Le Sonic is a music venue in Lyon with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SIGIL ENGINE" on Sat, 28 Nov 2026.
 
 Boat - Le Sonic is a music venue in Lyon listed on soundcheck. 2 upcoming gigs, with line-ups including laurele2n, Rivda and SPLT. See dates, start times and who's playing. 4 Quai des Étroits; 69005 Lyon; France.
 
@@ -15,4 +15,4 @@ Boat - Le Sonic is a music venue in Lyon listed on soundcheck. 2 upcoming gigs, 
 
 4 Quai des Étroits; 69005 Lyon; France, Lyon
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/boat-le-sonic/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/boat-le-sonic/)*

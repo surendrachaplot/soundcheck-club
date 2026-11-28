@@ -1,14 +1,15 @@
 # Luzinka
 
-Luzinka is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fusion Club, Münster on Sat, 12 Dec 2026.
+Luzinka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Fusion Club, Münster on Sat, 12 Dec 2026.
 
-Luzinka is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Kassel and Münster. Often billed alongside snoritz, M.A.S.C and Valeby. Next up: Fusion Club, Münster on Sat 12 Dec.
+Luzinka is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Kassel and Münster. Often billed alongside snoritz, Valeby and M.A.S.C. Next up: Fusion Club, Münster on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Fusion Club | Münster |
+| Sat, 19 Dec 2026 | Amp | Münster |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Luzinka is a techno and trance artist based in Germany, with 15 gigs on soundche
 
 ## Shares bills with
 
-snoritz, M.A.S.C, Valeby
+snoritz, Valeby, M.A.S.C
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzinka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luzinka/)*

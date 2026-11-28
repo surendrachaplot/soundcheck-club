@@ -1,6 +1,6 @@
 # Lex Ferenda
 
-Lex Ferenda is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Sat, 12 Dec 2026.
+Lex Ferenda is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Système, Montreal on Sat, 12 Dec 2026.
 
 Lex Ferenda is a house and techno artist based in Canada, with 40 gigs on soundcheck across Montreal, New York City and Quebec City. Often billed alongside Donotstealmyname, Jadd and MIC ROB!. Next up: Système, Montreal on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Lex Ferenda is a house and techno artist based in Canada, with 40 gigs on soundc
 
 Donotstealmyname, Jadd (2), MIC ROB!
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexferenda/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexferenda/)*

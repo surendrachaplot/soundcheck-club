@@ -1,6 +1,6 @@
 # Bal Chavaux
 
-Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "jazzcore #2: Mackwood, Carmen Sea, I Don't Clean The House" on Fri, 4 Dec 2026.
+Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "jazzcore #2: Mackwood, Carmen Sea, I Don't Clean The House" on Fri, 4 Dec 2026.
 
 Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including bambinodj, Ernesto Chahoud, Golce and Natalie Shooter and 2 more. See dates, start times and who's playing. 1 Av. de la Résistance, 93100 Montreuil.
 
@@ -17,4 +17,4 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, wit
 
 1 Av. de la Résistance, 93100 Montreuil, Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*

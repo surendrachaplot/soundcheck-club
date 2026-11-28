@@ -1,0 +1,28 @@
+# MORSURE
+
+MORSURE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at KALT, Strasbourg on Sat, 19 Dec 2026.
+
+MORSURE is a techno and industrial artist based in France, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 17 more. Often billed alongside 6EJOU, Afem Syko and Don Woezik. Next up: KALT, Strasbourg on Sat 19 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 19 Dec 2026 | KALT | Strasbourg |
+
+## Recently played
+
+- KALT, Strasbourg · Fri, 18 Sept 2026
+- KALT, Strasbourg · Sat, 25 Jul 2026
+- KALT, Strasbourg · Sat, 30 May 2026
+- KALT, Strasbourg · Sat, 28 Jun 2025
+- Mia Mao, Paris · Fri, 18 Apr 2025
+- KALT, Strasbourg · Thu, 17 Apr 2025
+- Glazart, Paris · Sat, 1 Feb 2025
+- Glazart, Paris · Fri, 29 Nov 2024
+
+## Shares bills with
+
+6EJOU, Afem Syko, Don Woezik
+
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morsure/)*

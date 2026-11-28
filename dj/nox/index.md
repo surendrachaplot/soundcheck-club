@@ -1,6 +1,6 @@
 # nox
 
-nox is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Throw Social DC, Washington DC on Sat, 28 Nov 2026.
+nox is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Throw Social DC, Washington DC on Sat, 28 Nov 2026.
 
 nox is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin, Chicago, Lisbon and Malaga and 6 more. Often billed alongside Akuma, 9LALEY and ACE [DE]. Next up: Throw Social DC, Washington DC on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ nox is a techno and tech house artist based in Germany, with 18 gigs on soundche
 
 Akuma, 9LALEY, ACE [DE]
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nox/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nox/)*

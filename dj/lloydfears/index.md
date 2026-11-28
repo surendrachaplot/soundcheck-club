@@ -1,6 +1,6 @@
 # lloydfears
 
-lloydfears is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fitzroy, Berlin on Thu, 3 Dec 2026.
+lloydfears is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fitzroy, Berlin on Thu, 3 Dec 2026.
 
 lloydfears is a bass and ambient artist based in United Kingdom, with 28 gigs on soundcheck across Berlin, Brussels, Chicago and Cologne and 5 more. Often billed alongside Bonebroth, m50 and Azemad. Next up: Fitzroy, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ lloydfears is a bass and ambient artist based in United Kingdom, with 28 gigs on
 
 Bonebroth, m50, Azemad
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydfears/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydfears/)*

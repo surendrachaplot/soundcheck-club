@@ -1,6 +1,6 @@
 # Interference
 
-Interference is a music venue in Toulouse with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "23:59 - Lekkerfaces, ROOLER, Dimitri K feat. MC ROBS, ØNERA, GLASKEEN" on Sat, 19 Dec 2026.
+Interference is a music venue in Toulouse with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "23:59 - Lekkerfaces, ROOLER, Dimitri K feat. MC ROBS, ØNERA, GLASKEEN" on Sat, 19 Dec 2026.
 
 Interference is a music venue in Toulouse listed on soundcheck. 4 upcoming gigs, with line-ups including Dimitri K, KLOFAMA and Lekkerfaces. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Interference is a music venue in Toulouse listed on soundcheck. 4 upcoming gigs,
 | Sat, 16 Jan 2027 | 23:59 - KLOFAMA - All Night Long | KLOFAMA |
 | Sat, 16 Jan 2027 | KLOFAMA ALL NIGHT LONG |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/toulouse/club/interference/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/toulouse/club/interference/)*

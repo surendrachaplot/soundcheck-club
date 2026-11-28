@@ -1,6 +1,6 @@
 # Habgud
 
-Habgud is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at VENT, Tokyo on Fri, 4 Dec 2026.
+Habgud is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at VENT, Tokyo on Fri, 4 Dec 2026.
 
 Habgud is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Galway, Leeds and London and 7 more. Often billed alongside Cleric, INLIMEN and Arkane. Next up: VENT, Tokyo on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Habgud is a techno and house artist based in United Kingdom, with 21 gigs on sou
 
 Cleric, INLIMEN, Arkane
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/habgud/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/habgud/)*

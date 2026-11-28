@@ -1,6 +1,6 @@
 # Smerz
 
-Smerz is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+Smerz is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 Smerz is a pop and experimental artist based in Norway, with 50 gigs on soundcheck across Atlanta, Austin, Bergen and Berlin and 31 more. Often billed alongside YHWH Nailgun, Blood Orange and DjRUM. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Smerz is a pop and experimental artist based in Norway, with 50 gigs on soundche
 
 YHWH Nailgun, Blood Orange, DjRUM
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*

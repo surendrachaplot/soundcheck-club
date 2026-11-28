@@ -1,6 +1,6 @@
 # ZZ (4)
 
-ZZ (4) is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Driftwood, San Francisco/Oakland on Fri, 11 Dec 2026.
+ZZ (4) is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Driftwood, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 ZZ is a club and techno artist based in United States of America, with 33 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside jmo corleone, ek:) and Just Another Bitch. Next up: Driftwood, San Francisco/Oakland on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ ZZ is a club and techno artist based in United States of America, with 33 gigs o
 
 jmo corleone, ek:), Just Another Bitch
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*

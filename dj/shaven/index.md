@@ -1,6 +1,6 @@
 # Shaven
 
-Shaven is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Berlin on Sat, 12 Dec 2026.
+Shaven is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Berlin on Sat, 12 Dec 2026.
 
 Shaven is a techno and trance artist based in Italy, with 20 gigs on soundcheck across Bangkok, Berlin, Budapest and Copenhagen and 3 more. Often billed alongside Shugo Noss, VEL (MA) and Aveen. Next up: TBA, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Shaven is a techno and trance artist based in Italy, with 20 gigs on soundcheck 
 
 Shugo Noss, VEL (MA), Aveen
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaven/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaven/)*

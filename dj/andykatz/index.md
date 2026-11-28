@@ -1,6 +1,6 @@
 # Andy Katz
 
-Andy Katz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 15 Jan 2027.
+Andy Katz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Sous Soul, Bern on Fri, 15 Jan 2027.
 
 Andy Katz is a techno and trance artist based in Switzerland, with 24 gigs on soundcheck across Basel, Bern and Zurich. Often billed alongside MARCISM, Galopp and Pelin Vedis. Next up: TBA - Sous Soul, Bern on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Andy Katz is a techno and trance artist based in Switzerland, with 24 gigs on so
 
 MARCISM, Galopp, Pelin Vedis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andykatz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andykatz/)*

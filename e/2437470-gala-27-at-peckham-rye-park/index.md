@@ -1,6 +1,6 @@
 # GALA '27 at Peckham Rye Park
 
-GALA '27 at Peckham Rye Park on Fri 28 May, London. 27 artists: Angel D'lite, Antal, Benji B and Blawan and 23 more. See the line-up on soundcheck.
+GALA '27 at Peckham Rye Park on Fri 28 May, London. 26 artists: Angel D'lite, Antal, Benji B and Blawan and 22 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ GALA '27 at Peckham Rye Park on Fri 28 May, London. 27 artists: Angel D'lite, An
 - Benji B
 - Blawan
 - Chez Damier
-- Deviation
 - DJ Harvey
 - Egyptian Lover
 - Four Tet

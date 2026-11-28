@@ -1,6 +1,6 @@
 # Earl Grey (2)
 
-Earl Grey (2) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bruk, Manchester on Sat, 28 Nov 2026.
+Earl Grey (2) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bruk, Manchester on Sat, 28 Nov 2026.
 
 Earl Grey is a jungle and drum & bass artist based in United Kingdom, with 10 gigs on soundcheck across London, Manchester, Sheffield and South East. Often billed alongside Tommy Badman, mark andrew and Bop. Next up: Bruk, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Earl Grey is a jungle and drum & bass artist based in United Kingdom, with 10 gi
 
 Tommy Badman, mark andrew (2), Bop
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-2/)*

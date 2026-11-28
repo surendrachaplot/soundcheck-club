@@ -1,6 +1,6 @@
 # Ewelina Koll
 
-Ewelina Koll is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
+Ewelina Koll is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bernsteinsee Velten, Brandenburg on Sat, 26 Jun 2027.
 
 Ewelina Koll is a trance and techno artist based in Poland, with 5 gigs on soundcheck across Berlin, Brandenburg and Prague. Often billed alongside DJ Jordan, GHOST DE and Marc van Linden. Next up: Bernsteinsee Velten, Brandenburg on Sat 26 Jun.
 
@@ -21,4 +21,4 @@ Ewelina Koll is a trance and techno artist based in Poland, with 5 gigs on sound
 
 DJ Jordan, GHOST DE, Marc van Linden
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewelinakoll/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ewelinakoll/)*

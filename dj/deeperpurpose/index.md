@@ -1,6 +1,6 @@
 # Deeper Purpose
 
-Deeper Purpose is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bauhaus, Houston on Fri, 18 Dec 2026.
+Deeper Purpose is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bauhaus, Houston on Fri, 18 Dec 2026.
 
 Deeper Purpose is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Austin, Chicago, Dallas/Fort Worth and Denver and 13 more. Often billed alongside Lee Foss, Eli Brown and Joshwa. Next up: Bauhaus, Houston on Fri 18 Dec.
 
@@ -28,4 +28,4 @@ Deeper Purpose is a house and tech house artist based in United Kingdom, with 52
 
 Lee Foss, Eli Brown, Joshwa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperpurpose/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperpurpose/)*

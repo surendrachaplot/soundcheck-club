@@ -1,6 +1,6 @@
 # Switch Angel
 
-Switch Angel is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Sound House, Dublin on Thu, 10 Dec 2026.
+Switch Angel is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Sound House, Dublin on Thu, 10 Dec 2026.
 
 Switch Angel is an electronica and trance artist based in United States of America, with 12 gigs on soundcheck across Austin, Boston, Dublin and London and 5 more. Often billed alongside Wolf Cutt, Alice Longyu Gao and Ava Blank. Next up: The Sound House, Dublin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Switch Angel is an electronica and trance artist based in United States of Ameri
 
 Wolf Cutt, Alice Longyu Gao, Ava Blank
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/switchangel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/switchangel/)*

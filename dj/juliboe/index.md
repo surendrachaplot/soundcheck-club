@@ -1,6 +1,6 @@
 # juliboe
 
-juliboe is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
+juliboe is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 29 Nov 2026.
 
 juliboe is a house and ebm artist based in Spain, with 22 gigs on soundcheck across Barcelona and Vienna. Often billed alongside Mganz, DC81 and Santi Gonzalez. Next up: BUS Hexperience, Barcelona on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ juliboe is a house and ebm artist based in Spain, with 22 gigs on soundcheck acr
 
 Mganz, DC81, Santi Gonzalez
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliboe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliboe/)*

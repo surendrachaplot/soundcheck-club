@@ -1,6 +1,6 @@
 # Aquiles Navarro
 
-Aquiles Navarro is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Paramour, Brussels on Fri, 4 Dec 2026.
+Aquiles Navarro is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Paramour, Brussels on Fri, 4 Dec 2026.
 
 Aquiles Navarro is a house and funk / soul artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 3 more. Often billed alongside Moor Mother, NewYorkKnick and 33EMYBW. Next up: Paramour, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Aquiles Navarro is a house and funk / soul artist based in United States of Amer
 
 Moor Mother, NewYorkKnick, 33EMYBW
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquilesnavarro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aquilesnavarro/)*

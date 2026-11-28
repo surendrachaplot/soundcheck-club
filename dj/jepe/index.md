@@ -1,6 +1,6 @@
 # Jepe
 
-Jepe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pimpernel, Munich on Sat, 28 Nov 2026.
+Jepe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Pimpernel, Munich on Sat, 28 Nov 2026.
 
 Jepe is a house and techno artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cyprus and 10 more. Often billed alongside Alexander Maier, Berny and Manu Strasse. Next up: Pimpernel, Munich on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Jepe is a house and techno artist based in Germany, with 45 gigs on soundcheck a
 
 Alexander Maier, Berny, Manu Strasse
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*

@@ -1,6 +1,6 @@
 # Red Rey
 
-Red Rey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Trough X Sydney, New-south-wales on Sat, 28 Nov 2026.
+Red Rey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Trough X Sydney, New-south-wales on Sat, 28 Nov 2026.
 
 Red Rey is a techno and house artist, with 21 gigs on soundcheck across Amsterdam, Auckland, Manila and Melbourne and 6 more. Often billed alongside Annabelle Gaspar, Ben Manson and Jennifer Loveless. Next up: Trough X Sydney, New South Wales on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Red Rey is a techno and house artist, with 21 gigs on soundcheck across Amsterda
 
 Annabelle Gaspar, Ben Manson, Jennifer Loveless
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redrey/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redrey/)*

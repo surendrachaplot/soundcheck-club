@@ -1,6 +1,6 @@
 # Ephigenia
 
-Ephigenia is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Retrofuture convida Kasino @ Ephigenia" on Sat, 5 Dec 2026.
+Ephigenia is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Retrofuture convida Kasino @ Ephigenia" on Sat, 5 Dec 2026.
 
 Ephigenia is a music venue in Sao Paulo listed on soundcheck. 3 upcoming gigs, with line-ups including Paula Tape, BADSISTA, Carol Ueno and Felipe Gordon and 2 more. See dates, start times and who's playing. Viaduto Santa Ifigênia, 66 - Centro Histórico de São PauloSão Paulo - SP, 01033-050.
 
@@ -16,4 +16,4 @@ Ephigenia is a music venue in Sao Paulo listed on soundcheck. 3 upcoming gigs, w
 
 Viaduto Santa Ifigênia, 66 - Centro Histórico de São PauloSão Paulo - SP, 01033-050, Sao Paulo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/ephigenia/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/ephigenia/)*

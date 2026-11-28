@@ -1,6 +1,6 @@
 # Lee Brown
 
-Lee Brown is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
+Lee Brown is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Saints of Ingram, Glasgow on Tue, 29 Dec 2026.
 
 Lee Brown is a house and garage artist based in United Kingdom, with 13 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Thomas + James, Babyccino and McCart. Next up: Saints of Ingram, Glasgow on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Lee Brown is a house and garage artist based in United Kingdom, with 13 gigs on 
 
 Thomas + James, Babyccino, McCart
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leebrown/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leebrown/)*

@@ -1,6 +1,6 @@
 # Neibiss
 
-Neibiss is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at club asia, Tokyo on Fri, 4 Dec 2026.
+Neibiss is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at club asia, Tokyo on Fri, 4 Dec 2026.
 
 Neibiss is a hip-hop and house artist based in Japan, with 13 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, CYBERHACKSYSTEM and KOTSU. Next up: club asia, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Neibiss is a hip-hop and house artist based in Japan, with 13 gigs on soundcheck
 
 kengotaki, CYBERHACKSYSTEM, KOTSU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neibiss/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neibiss/)*

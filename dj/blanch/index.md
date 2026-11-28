@@ -1,6 +1,6 @@
 # Blanch
 
-Blanch is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
+Blanch is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
 
 Blanch is a house and tech house artist based in Spain, with 70 gigs on soundcheck across Barcelona, Berlin, Brussels and Lisbon and 5 more. Often billed alongside blan.trrs, Pau Pérez and Ladrillovitz. Next up: Spook Club, Valencia on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Blanch is a house and tech house artist based in Spain, with 70 gigs on soundche
 
 blan.trrs, Pau Pérez, Ladrillovitz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blanch/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blanch/)*

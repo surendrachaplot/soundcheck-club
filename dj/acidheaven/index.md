@@ -1,6 +1,6 @@
 # acidheaven
 
-acidheaven is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
+acidheaven is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at KREUZWERK, Berlin on Sat, 6 Feb 2027.
 
 acidheaven is a house and techno artist based in Spain, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside ISAbella, Chico Blanco and Albal. Next up: KREUZWERK, Berlin on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ acidheaven is a house and techno artist based in Spain, with 89 gigs on soundche
 
 ISAbella, Chico Blanco, Albal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*

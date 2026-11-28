@@ -1,6 +1,6 @@
 # Aili
 
-Aili is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Hasard Ludique, Paris on Thu, 10 Dec 2026.
+Aili is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Hasard Ludique, Paris on Thu, 10 Dec 2026.
 
 Aili is an experimental and electro artist based in Belgium, with 8 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Nantes and 2 more. Often billed alongside gaiko, AJNA and Ampe. Next up: Le Hasard Ludique, Paris on Thu 10 Dec.
 
@@ -24,4 +24,4 @@ Aili is an experimental and electro artist based in Belgium, with 8 gigs on soun
 
 gaiko, AJNA, Ampe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aili/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aili/)*

@@ -1,6 +1,6 @@
 # Sala Groove
 
-Sala Groove is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "OVERDRIVE 28N" on Sat, 28 Nov 2026.
+Sala Groove is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "OVERDRIVE 28N" on Sat, 28 Nov 2026.
 
 Sala Groove is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Abel Ramos, Cristian Varela, Dj Pepo and Ian Ludvig and 2 more. See dates, start times and who's playing. A4 - Ctra. Andalucia Km 20,900 Salida 20 Pinto, Madrid.
 
@@ -16,4 +16,4 @@ Sala Groove is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, wi
 
 A4 - Ctra. Andalucia Km 20,900 Salida 20 Pinto, Madrid, Madrid
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-groove/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-groove/)*

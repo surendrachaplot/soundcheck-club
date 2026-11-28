@@ -1,6 +1,6 @@
 # Slipstream
 
-Slipstream is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Egg London, London on Sat, 12 Dec 2026.
+Slipstream is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Sat, 12 Dec 2026.
 
 Slipstream is a tech house and house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside BENXTAN, HangryRacoon and choose1. Next up: Egg London, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Slipstream is a tech house and house artist based in United Kingdom, with 12 gig
 
 BENXTAN, HangryRacoon, choose1
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slipstream/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slipstream/)*

@@ -1,6 +1,6 @@
 # belizenotbrazil
 
-belizenotbrazil is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TRANSMISSION DC, Washington DC on Sat, 28 Nov 2026.
+belizenotbrazil is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TRANSMISSION DC, Washington DC on Sat, 28 Nov 2026.
 
 belizenotbrazil is a club and house artist based in United States of America, with 21 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Mooncrumb, JACKIECHANSDOG and Sküp. Next up: TRANSMISSION DC, Washington DC on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ belizenotbrazil is a club and house artist based in United States of America, wi
 
 Mooncrumb, JACKIECHANSDOG, Sküp
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belizenotbrazil/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/belizenotbrazil/)*

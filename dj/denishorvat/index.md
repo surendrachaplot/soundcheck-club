@@ -1,6 +1,6 @@
 # Denis Horvat
 
-Denis Horvat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Culture Box, Copenhagen on Sat, 28 Nov 2026.
+Denis Horvat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Culture Box, Copenhagen on Sat, 28 Nov 2026.
 
 Denis Horvat is a techno and house artist based in Denmark, with 115 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Lehar, Colyn and Echonomist. Next up: Culture Box, Copenhagen on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Denis Horvat is a techno and house artist based in Denmark, with 115 gigs on sou
 
 Lehar, Colyn, Echonomist
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*

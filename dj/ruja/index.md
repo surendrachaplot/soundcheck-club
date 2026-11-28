@@ -1,8 +1,8 @@
 # RUJA
 
-RUJA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 25 Nov 2026.
+RUJA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 25 Nov 2026.
 
-RUJA is a house and deep house artist, with 48 gigs on soundcheck across Barcelona, Berlin, Mexico City and Prague. Often billed alongside Irena Stanisic, Barreto and Dimaio. Next up: ROCA HIFI, Mexico City on Wed 25 Nov.
+RUJA is a house and deep house artist based in Mexico, with 48 gigs on soundcheck across Barcelona, Berlin, Mexico City and Prague. Often billed alongside Irena Stanisic, Barreto and Dimaio. Next up: ROCA HIFI, Mexico City on Wed 25 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ RUJA is a house and deep house artist, with 48 gigs on soundcheck across Barcelo
 
 Irena Stanisic, Barreto, Dimaio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruja/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruja/)*

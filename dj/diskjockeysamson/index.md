@@ -1,6 +1,6 @@
 # Disk jockey samson
 
-Disk jockey samson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
+Disk jockey samson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 18 Dec 2026.
 
 Disk jockey samson is a techno and house artist, with 14 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside Baime, Kardinal Bertram and Karl August. Next up: Den Anden Side, Copenhagen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Disk jockey samson is a techno and house artist, with 14 gigs on soundcheck acro
 
 Baime, Kardinal Bertram, Karl August
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskjockeysamson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskjockeysamson/)*

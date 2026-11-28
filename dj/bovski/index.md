@@ -1,6 +1,6 @@
 # BOVSKI
 
-BOVSKI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
+BOVSKI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
 
 BOVSKI is a techno and house artist based in Germany, with 27 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dublin and 12 more. Often billed alongside A.N.I., Charleen Herzig and Johannes Schuster. Next up: Uebel & Gefährlich, Hamburg on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ BOVSKI is a techno and house artist based in Germany, with 27 gigs on soundcheck
 
 A.N.I., Charleen Herzig, Johannes Schuster
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*

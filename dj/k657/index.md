@@ -1,6 +1,6 @@
 # K657
 
-K657 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Toronto on Fri, 11 Dec 2026.
+K657 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Toronto on Fri, 11 Dec 2026.
 
 K657 is a techno and hardcore artist based in Canada, with 40 gigs on soundcheck across Calgary, Montreal and Toronto. Often billed alongside Meen Moreen, Katamina and Xaviera. Next up: TBA, Toronto on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ K657 is a techno and hardcore artist based in Canada, with 40 gigs on soundcheck
 
 Meen Moreen, Katamina, Xaviera
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k657/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k657/)*

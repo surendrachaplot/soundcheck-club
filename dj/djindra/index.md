@@ -1,6 +1,6 @@
 # DJ INDRA
 
-DJ INDRA is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 12 Dec 2026.
+DJ INDRA is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Heavy Sick Zero, Tokyo on Sat, 12 Dec 2026.
 
 DJ INDRA is a drum & bass and jungle artist based in Japan, with 2 gigs on soundcheck across Chubu and Tokyo. Often billed alongside DJ SOUL SLINGER, DJ U-2 and L?K?O. Next up: Heavy Sick Zero, Tokyo on Sat 12 Dec.
 
@@ -15,4 +15,4 @@ DJ INDRA is a drum & bass and jungle artist based in Japan, with 2 gigs on sound
 
 DJ SOUL SLINGER, DJ U-2, L?K?O
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djindra/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djindra/)*

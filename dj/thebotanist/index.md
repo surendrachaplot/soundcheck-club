@@ -1,6 +1,6 @@
 # The Botanist
 
-The Botanist is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Prysm Nightclub, Chicago on Sat, 28 Nov 2026.
+The Botanist is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Prysm Nightclub, Chicago on Sat, 28 Nov 2026.
 
 The Botanist is a house and tech house artist based in United States of America, with 12 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 4 more. Often billed alongside Adam Ten, OMRI. and Yamagucci. Next up: Prysm Nightclub, Chicago on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ The Botanist is a house and tech house artist based in United States of America,
 
 Adam Ten, OMRI., Yamagucci
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*

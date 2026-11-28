@@ -1,6 +1,6 @@
 # Port of Leith Distillery
 
-Port of Leith Distillery is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "EzStreet" on Sat, 28 Nov 2026.
+Port of Leith Distillery is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "EzStreet" on Sat, 28 Nov 2026.
 
 Port of Leith Distillery is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including Babs Flow, David Holmes, Grant Nelson and Jeremy Sylvester and 2 more. See dates, start times and who's playing. 11 Whisky Quay, Edinburgh, EH6 6FH.
 
@@ -18,4 +18,4 @@ Port of Leith Distillery is a music venue in Edinburgh listed on soundcheck. 5 u
 
 11 Whisky Quay, Edinburgh, EH6 6FH, Edinburgh
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/port-of-leith-distillery/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/port-of-leith-distillery/)*

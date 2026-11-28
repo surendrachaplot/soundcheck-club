@@ -1,14 +1,15 @@
 # Cleo AD
 
-Cleo AD is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Panke, Berlin on Sat, 5 Dec 2026.
+Cleo AD is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Panke, Berlin on Sat, 5 Dec 2026.
 
-Cleo AD is an electro and bass artist based in Germany, with 4 gigs on soundcheck across Berlin and Prague. Often billed alongside Monibi, DUKU and Debba. Next up: Panke, Berlin on Sat 5 Dec.
+Cleo AD is a bass and electro artist based in Germany, with 5 gigs on soundcheck across Berlin, Leipzig and Prague. Often billed alongside Monibi, Amy Dabbs and BUKEZ FINEZT. Next up: Panke, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Panke | Berlin |
+| Tue, 29 Dec 2026 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Cleo AD is an electro and bass artist based in Germany, with 4 gigs on soundchec
 
 ## Shares bills with
 
-Monibi, DUKU, Debba
+Monibi, Amy Dabbs, BUKEZ FINEZT
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleoad/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleoad/)*

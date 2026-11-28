@@ -1,6 +1,6 @@
 # nish.
 
-nish. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
+nish. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Say Yes, Los Angeles on Sat, 28 Nov 2026.
 
 nish. is a house and deep house artist based in United States of America, with 9 gigs on soundcheck across Los Angeles and New York City. Often billed alongside BL SUEDE, Mana Moves and Shaun Ross. Next up: Say Yes, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ nish. is a house and deep house artist based in United States of America, with 9
 
 BL SUEDE, Mana Moves, Shaun Ross
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nish./)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nish./)*

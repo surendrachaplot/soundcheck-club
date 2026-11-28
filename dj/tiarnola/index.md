@@ -1,6 +1,6 @@
 # Tiarnola
 
-Tiarnola is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Savoy, Cork on Mon, 28 Dec 2026.
+Tiarnola is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Savoy, Cork on Mon, 28 Dec 2026.
 
 Tiarnola is a techno and trance artist based in Ireland, with 17 gigs on soundcheck across Amsterdam, Cork and Dublin. Often billed alongside RiaStartha, DECADANCE and Ashes. Next up: Savoy, Cork on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Tiarnola is a techno and trance artist based in Ireland, with 17 gigs on soundch
 
 RiaStartha, DECADANCE, Ashes (2)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiarnola/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiarnola/)*

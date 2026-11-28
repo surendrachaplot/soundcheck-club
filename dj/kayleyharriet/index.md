@@ -1,6 +1,6 @@
 # Kayley Harriet
 
-Kayley Harriet is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Egg London, London on Sat, 19 Dec 2026.
+Kayley Harriet is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Sat, 19 Dec 2026.
 
 Kayley Harriet is a tech house and house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Ibiza, London and Malta. Often billed alongside CONR, JAYDAA and Sammy Porter. Next up: Egg London, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Kayley Harriet is a tech house and house artist based in United Kingdom, with 20
 
 CONR, JAYDAA, Sammy Porter
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleyharriet/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleyharriet/)*

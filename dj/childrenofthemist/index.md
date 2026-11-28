@@ -1,6 +1,6 @@
 # Children of The Mist
 
-Children of The Mist is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 11 Dec 2026.
+Children of The Mist is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 11 Dec 2026.
 
 Children of The Mist is a trance and techno artist based in Australia, with 8 gigs on soundcheck across Sydney. Often billed alongside Accelerationism, Andy Garvey and Drifters. Next up: Carousel Bar & Ballroom, Sydney on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Children of The Mist is a trance and techno artist based in Australia, with 8 gi
 
 Accelerationism, Andy Garvey, Drifters
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofthemist/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofthemist/)*

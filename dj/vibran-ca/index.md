@@ -1,6 +1,6 @@
 # VIBRAN
 
-VIBRAN is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vino Disco, Montreal on Sat, 19 Dec 2026.
+VIBRAN is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vino Disco, Montreal on Sat, 19 Dec 2026.
 
 VIBRAN is a house and disco artist based in Canada, with 32 gigs on soundcheck across Montreal. Often billed alongside Jino K, Deneb and MilSif. Next up: Vino Disco, Montreal on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ VIBRAN is a house and disco artist based in Canada, with 32 gigs on soundcheck a
 
 Jino K, Deneb, MilSif
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vibran-ca/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vibran-ca/)*

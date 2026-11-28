@@ -1,14 +1,13 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Fatima Hajji for OVER PARTY // LAB with REBOUND" on Fri, 27 Nov 2026.
+Audiodrome is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "ECZODIA + relajadita for OVER PARTY // LAB with ECLIPSE" on Sat, 28 Nov 2026.
 
-Audiodrome is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including A.N.I., ECZODIA, Fatima Hajji and Luca Agnelli and 2 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
+Audiodrome is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with line-ups including A.N.I., ECZODIA, Luca Agnelli and relajadita and 1 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Fatima Hajji for OVER PARTY // LAB with REBOUND | Fatima Hajji |
 | Sat, 28 Nov 2026 | ECZODIA + relajadita for OVER PARTY // LAB with ECLIPSE | ECZODIA, relajadita |
 | Mon, 7 Dec 2026 | NATTE VISSTICK 'Round 2' for OVER PARTY |  |
 | Fri, 18 Dec 2026 | JOWI for OVER PARTY |  |
@@ -21,4 +20,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

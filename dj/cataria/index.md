@@ -1,6 +1,6 @@
 # Cataria
 
-Cataria is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+Cataria is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
 Cataria is a techno and house artist based in Colombia, with 48 gigs on soundcheck across Vancouver. Often billed alongside C-Star, Behrad Tehrani and DK PAU. Next up: TBA, Vancouver on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Cataria is a techno and house artist based in Colombia, with 48 gigs on soundche
 
 C-Star, Behrad Tehrani, DK PAU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cataria/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cataria/)*

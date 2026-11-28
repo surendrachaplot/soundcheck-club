@@ -1,6 +1,6 @@
 # Acrocanthosaurus
 
-Acrocanthosaurus is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
+Acrocanthosaurus is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Live Haus, Tokyo on Fri, 4 Dec 2026.
 
 Acrocanthosaurus is a bass and dubstep artist based in Japan, with 76 gigs on soundcheck across Tokyo. Often billed alongside Genick, Aki Dolanikov and Lowki. Next up: Live Haus, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Acrocanthosaurus is a bass and dubstep artist based in Japan, with 76 gigs on so
 
 Genick, Aki Dolanikov, Lowki
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acrocanthosaurus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acrocanthosaurus/)*

@@ -1,14 +1,13 @@
 # Ciało
 
-Ciało is a music venue in Wroclaw with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Ciało: Ellen Allien" on Fri, 27 Nov 2026.
+Ciało is a music venue in Wroclaw with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SPLOT x Ciało with DjRUM" on Fri, 4 Dec 2026.
 
-Ciało is a music venue in Wroclaw listed on soundcheck. 8 upcoming gigs, with line-ups including Franczesko, Alarico, Blazej Malinowski and Bliss Kiss and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
+Ciało is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs, with line-ups including Franczesko, Alarico, Blazej Malinowski and Bliss Kiss and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ciało: Ellen Allien | Dizzy, Ellen Allien, Jules, Vi (PL) |
 | Fri, 4 Dec 2026 | SPLOT x Ciało with DjRUM | DjRUM, Glassz, Guiltee, Loskop, dadan karambolo, dobrawka |
 | Sat, 5 Dec 2026 | Ciało: Błażej Malinowski – wstęp FREE* | Blazej Malinowski, Bliss Kiss, Brussi, Michal Macewicz, RPR (PL), kEczuP |
 | Fri, 11 Dec 2026 | Ciało: Alarico | Alarico, Fideshi, Franczesko, Jellin, KinkyOutsider, Kovvalsky, MKO (PL), Nowosad, Spectribe |
@@ -21,4 +20,4 @@ Ciało is a music venue in Wroclaw listed on soundcheck. 8 upcoming gigs, with l
 
 Joannitów 13, 50-086 Wrocław, Wroclaw
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*

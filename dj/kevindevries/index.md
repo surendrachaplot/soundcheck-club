@@ -1,6 +1,6 @@
 # Kevin de Vries
 
-Kevin de Vries is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Kevin de Vries is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 Kevin de Vries is a techno and house artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Tale Of Us, Chris Avantgarde and Adam Beyer. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Kevin de Vries is a techno and house artist based in Germany, with 193 gigs on s
 
 Tale Of Us, Chris Avantgarde, Adam Beyer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*

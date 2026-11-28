@@ -1,6 +1,6 @@
 # Lucid Feel
 
-Lucid Feel is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Garage Noord, Amsterdam on Thu, 3 Dec 2026.
+Lucid Feel is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Garage Noord, Amsterdam on Thu, 3 Dec 2026.
 
 Lucid Feel is a techno and tech house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Athens and Berlin. Often billed alongside Jayzo, Compound Rhythm and Delguero. Next up: Garage Noord, Amsterdam on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Lucid Feel is a techno and tech house artist based in Netherlands, with 22 gigs 
 
 Jayzo, Compound Rhythm, Delguero
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidfeel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidfeel/)*

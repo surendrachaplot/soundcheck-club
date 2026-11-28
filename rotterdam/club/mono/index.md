@@ -1,14 +1,13 @@
 # Mono
 
-Mono is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Fugazii x Rinse" on Fri, 27 Nov 2026.
+Mono is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Bungkus Friendsgiving Dinner" on Sat, 28 Nov 2026.
 
-Mono is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Cheff The Boy, Franky Sticks, Gyatso and Hypershe and 2 more. See dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
+Mono is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Cheff The Boy, Gyatso, Hypershe and Mahabe and 2 more. See dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Fugazii x Rinse | Franky Sticks, Turk Turkelton, YENTZYZ |
 | Sat, 28 Nov 2026 | Bungkus Friendsgiving Dinner |  |
 | Sat, 28 Nov 2026 | THE COUCH - baddies united |  |
 | Fri, 4 Dec 2026 | Link Up | yusu selectors |
@@ -23,4 +22,4 @@ Mono is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with 
 
 Vijverhofstraat 15, 3032 SB Rotterdam, Rotterdam
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*

@@ -1,6 +1,6 @@
 # roztok
 
-roztok is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
+roztok is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at SCHRON, Poznan on Fri, 4 Dec 2026.
 
 roztok is a bass and experimental artist based in Poland, with 5 gigs on soundcheck across Poznan and Warsaw. Often billed alongside DJ SHOUT, Bambi Uzi and K3RZC. Next up: SCHRON, Poznan on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ roztok is a bass and experimental artist based in Poland, with 5 gigs on soundch
 
 DJ SHOUT, Bambi Uzi, K3RZC
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roztok/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roztok/)*

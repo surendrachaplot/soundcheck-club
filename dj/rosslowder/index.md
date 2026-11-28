@@ -1,6 +1,6 @@
 # Ross Lowder
 
-Ross Lowder is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
+Ross Lowder is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 18 Dec 2026.
 
 Ross Lowder is a techno and bass artist based in United States of America, with 19 gigs on soundcheck across Seattle. Often billed alongside Jason Code, N SO and KJ3 (US). Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ross Lowder is a techno and bass artist based in United States of America, with 
 
 Jason Code, N SO, KJ3 (US)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosslowder/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosslowder/)*

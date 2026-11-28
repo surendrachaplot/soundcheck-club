@@ -1,6 +1,6 @@
 # Xanopticon
 
-Xanopticon is a Breakcore and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Collapse, Pittsburgh on Sat, 12 Dec 2026.
+Xanopticon is a Breakcore and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Collapse, Pittsburgh on Sat, 12 Dec 2026.
 
 Xanopticon is a breakcore and hardcore artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Denver, Detroit and Mexico City and 5 more. Often billed alongside Baseck, Cutups and Lil Kevo 303. Next up: Collapse, Pittsburgh on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Xanopticon is a breakcore and hardcore artist based in United States of America,
 
 Baseck, Cutups, Lil Kevo 303
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xanopticon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xanopticon/)*

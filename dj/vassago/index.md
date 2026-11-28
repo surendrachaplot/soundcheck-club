@@ -1,6 +1,6 @@
 # Vasago
 
-Vasago is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Groove Garden, Sri-lanka on Fri, 18 Dec 2026.
+Vasago is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Groove Garden, Sri-lanka on Fri, 18 Dec 2026.
 
 Vasago is a techno and house artist based in Georgia, with 8 gigs on soundcheck across Bangkok, Singapore, Sri Lanka and Tbilisi. Often billed alongside 00rt, Billy Boy and Boyd Schidt. Next up: The Groove Garden, Sri Lanka on Fri 18 Dec.
 
@@ -24,4 +24,4 @@ Vasago is a techno and house artist based in Georgia, with 8 gigs on soundcheck 
 
 00rt, Billy Boy, Boyd Schidt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vassago/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vassago/)*

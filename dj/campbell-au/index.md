@@ -1,6 +1,6 @@
 # Campbell
 
-Campbell is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
+Campbell is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Revolver Upstairs, Melbourne on Sat, 5 Dec 2026.
 
 Campbell is a bass and dubstep artist based in Australia, with 17 gigs on soundcheck across Amsterdam, Berlin, Istanbul and London and 3 more. Often billed alongside Emelyne, Hally and MELTA. Next up: Revolver Upstairs, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Campbell is a bass and dubstep artist based in Australia, with 17 gigs on soundc
 
 Emelyne, Hally, MELTA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*

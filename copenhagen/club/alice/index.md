@@ -1,6 +1,6 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "raster. 30 years anniversary at ALICE" on Sat, 28 Nov 2026.
+ALICE is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "raster. 30 years anniversary at ALICE" on Sat, 28 Nov 2026.
 
 ALICE is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including Byetone, Dengue Dengue Dengue, Gábor Lázár and John Cleworth and 1 more. See dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
@@ -15,4 +15,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

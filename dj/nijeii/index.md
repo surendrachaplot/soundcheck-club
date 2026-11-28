@@ -1,6 +1,6 @@
 # NIJEII
 
-NIJEII is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 28 Nov 2026.
+NIJEII is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 28 Nov 2026.
 
 NIJEII is a techno and ghetto tech artist based in United States of America, with 31 gigs on soundcheck across New York City and Seoul. Often billed alongside WADDLE, y2aura and duco. Next up: Bossa Nova Civic Club, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ NIJEII is a techno and ghetto tech artist based in United States of America, wit
 
 WADDLE, y2aura, duco
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nijeii/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nijeii/)*

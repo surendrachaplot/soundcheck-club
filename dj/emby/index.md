@@ -1,6 +1,6 @@
 # Emby
 
-Emby is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Skateschule München - Spaceforskate, Munich on Sat, 12 Dec 2026.
+Emby is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Skateschule München - Spaceforskate, Munich on Sat, 12 Dec 2026.
 
 Emby is a techno and bass artist based in Ireland, with 36 gigs on soundcheck across Belfast, Berlin, Dortmund / Essen and Dublin and 3 more. Often billed alongside Charlie Boy Manson, Kessler and EMA. Next up: Skateschule München - Spaceforskate, Munich on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Emby is a techno and bass artist based in Ireland, with 36 gigs on soundcheck ac
 
 Charlie Boy Manson, Kessler, EMA (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emby/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emby/)*

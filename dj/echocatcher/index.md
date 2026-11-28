@@ -1,13 +1,14 @@
 # echocatcher
 
-echocatcher is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ILLUM, Shanghai on Sat, 5 Dec 2026.
+echocatcher is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at ILLUM, Shanghai on Sat, 5 Dec 2026.
 
-echocatcher is a techno and bass artist based in China, with 89 gigs on soundcheck across Chengdu, Hanoi, Ho Chi Minh City and Kyoto and 6 more. Often billed alongside Knopha, YKK (CN) and chuan. Next up: ILLUM, Shanghai on Sat 5 Dec.
+echocatcher is a techno and bass artist based in China, with 90 gigs on soundcheck across Chengdu, Hanoi, Ho Chi Minh City and Kyoto and 6 more. Often billed alongside Knopha, YKK (CN) and chuan. Next up: ILLUM, Shanghai on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | ILLUM | Shanghai |
 | Sat, 5 Dec 2026 | ILLUM | Shanghai |
 
 ## Recently played
@@ -25,4 +26,4 @@ echocatcher is a techno and bass artist based in China, with 89 gigs on soundche
 
 Knopha, YKK (CN), chuan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*

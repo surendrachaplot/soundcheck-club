@@ -1,6 +1,6 @@
 # Diogo Strausz
 
-Diogo Strausz is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
+Diogo Strausz is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tikal Praia Bar, Brazil on Sat, 26 Dec 2026.
 
 Diogo Strausz is a house and balearic artist based in Brazil, with 17 gigs on soundcheck across Barcelona, Berlin, Brazil and Lisbon and 5 more. Often billed alongside UBUNTO, Vitor Kurc and Gaspar Muniz. Next up: Tikal Praia Bar, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Diogo Strausz is a house and balearic artist based in Brazil, with 17 gigs on so
 
 UBUNTO, Vitor Kurc, Gaspar Muniz
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diogostrausz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diogostrausz/)*

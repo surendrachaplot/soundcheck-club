@@ -1,6 +1,6 @@
 # Amorpho
 
-Amorpho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Sofy Boom, Jalisco on Sat, 28 Nov 2026.
+Amorpho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Sofy Boom, Jalisco on Sat, 28 Nov 2026.
 
 Amorpho is a house and techno artist based in Mexico, with 12 gigs on soundcheck across Guadalajara, Jalisco, Mexico City and Monterrey. Often billed alongside espejoviejo, Gandara and Ander Race. Next up: Sofy Boom, Jalisco on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Amorpho is a house and techno artist based in Mexico, with 12 gigs on soundcheck
 
 espejoviejo, Gandara, Ander Race
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amorpho/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amorpho/)*

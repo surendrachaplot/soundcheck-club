@@ -1,14 +1,13 @@
 # Oscar Osorio
 
-Oscar Osorio is a Hip-Hop and R&B artist with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Leidse, Amsterdam on Fri, 27 Nov 2026.
+Oscar Osorio is a Hip-Hop and R&B artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Leidse, Amsterdam on Sat, 28 Nov 2026.
 
-Oscar Osorio is a hip-hop and r&b artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Los Angeles, Orange County and San Diego. Often billed alongside Rishi Romero, DJ LIGMA and Laura Angeles. Next up: Club Leidse, Amsterdam on Fri 27 Nov.
+Oscar Osorio is a hip-hop and r&b artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Los Angeles, Orange County and San Diego. Often billed alongside Rishi Romero, DJ LIGMA and Laura Angeles. Next up: Club Leidse, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Club Leidse | Amsterdam |
 | Sat, 28 Nov 2026 | Club Leidse | Amsterdam |
 | Fri, 4 Dec 2026 | Club Leidse | Amsterdam |
 | Sat, 5 Dec 2026 | Club Leidse | Amsterdam |
@@ -19,6 +18,7 @@ Oscar Osorio is a hip-hop and r&b artist based in United States of America, with
 
 ## Recently played
 
+- Club Leidse, Amsterdam · Fri, 27 Nov 2026
 - Club Leidse, Amsterdam · Sat, 21 Nov 2026
 - Club Leidse, Amsterdam · Fri, 20 Nov 2026
 - Club Leidse, Amsterdam · Sat, 14 Nov 2026
@@ -26,10 +26,9 @@ Oscar Osorio is a hip-hop and r&b artist based in United States of America, with
 - Club Leidse, Amsterdam · Sat, 7 Nov 2026
 - Club Leidse, Amsterdam · Fri, 6 Nov 2026
 - Club Leidse, Amsterdam · Sat, 31 Oct 2026
-- Club Leidse, Amsterdam · Fri, 30 Oct 2026
 
 ## Shares bills with
 
 Rishi Romero, DJ LIGMA, Laura Angeles
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*

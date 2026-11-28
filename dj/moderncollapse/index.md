@@ -1,14 +1,15 @@
 # Modern Collapse
 
-Modern Collapse is a Dancehall and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
+Modern Collapse is a Dancehall and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at La Station - Gare des Mines, Paris on Wed, 2 Dec 2026.
 
-Modern Collapse is a dancehall and dubstep artist based in France, with 6 gigs on soundcheck across Krakow, Nantes and Paris. Often billed alongside Toma Kami, ojoo and Amor Satyr. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
+Modern Collapse is a dancehall and dubstep artist based in France, with 7 gigs on soundcheck across Krakow, Nantes and Paris. Often billed alongside Hajj, Ronce and Toma Kami. Next up: La Station - Gare des Mines, Paris on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | La Station - Gare des Mines | Paris |
+| Sat, 19 Dec 2026 | Le Zeralda | Paris |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Modern Collapse is a dancehall and dubstep artist based in France, with 6 gigs o
 
 ## Shares bills with
 
-Toma Kami, ojoo, Amor Satyr
+Hajj, Ronce, Toma Kami
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moderncollapse/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moderncollapse/)*

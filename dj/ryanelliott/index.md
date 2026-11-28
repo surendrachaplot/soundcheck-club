@@ -1,14 +1,13 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Ryan Elliott is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 28 Nov 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, with 278 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Ryan Elliott is a house and techno artist based in United States of America, with 278 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 70 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Jolene Downtown Miami, Miami on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 28 Nov 2026 | Jolene Downtown Miami | Miami |
 | Sat, 5 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Sub Club | Glasgow |
@@ -22,6 +21,7 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- Ace*Mission, Los Angeles · Fri, 27 Nov 2026
 - Nowadays, New York City · Wed, 25 Nov 2026
 - essaim, Paris · Sun, 22 Nov 2026
 - Carpa & Picnic of El Poble Espanyol, Barcelona · Sat, 21 Nov 2026
@@ -29,10 +29,9 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 - Supermarket, Zurich · Sat, 14 Nov 2026
 - Folklor, Lausanne · Fri, 13 Nov 2026
 - Lofi, Amsterdam · Sat, 7 Nov 2026
-- Invisible Wind Factory, Liverpool · Sat, 31 Oct 2026
 
 ## Shares bills with
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

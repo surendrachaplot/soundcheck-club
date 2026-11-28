@@ -1,6 +1,6 @@
 # Decius
 
-Decius is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Decius is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Decius is a house and acid artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Bristol, Bucharest and Dublin and 12 more. Often billed alongside babyschön, Chez de Milo and Ellie Stokes. Next up: The Cause, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Decius is a house and acid artist based in United Kingdom, with 34 gigs on sound
 
 babyschön, Chez de Milo, Ellie Stokes
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*

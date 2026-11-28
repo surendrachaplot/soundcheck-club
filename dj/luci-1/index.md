@@ -1,6 +1,6 @@
 # luci.
 
-luci. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Q Nightclub, Seattle on Thu, 14 Jan 2027.
+luci. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Q Nightclub, Seattle on Thu, 14 Jan 2027.
 
 luci. is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Berlin, Lyon and Seattle. Often billed alongside arbër, Al Aslan and Amo (IT). Next up: Q Nightclub, Seattle on Thu 14 Jan.
 
@@ -25,4 +25,4 @@ luci. is a techno and house artist based in United States of America, with 9 gig
 
 arbër, Al Aslan, Amo (IT)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*

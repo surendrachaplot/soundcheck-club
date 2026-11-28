@@ -1,6 +1,6 @@
 # HangryRacoon
 
-HangryRacoon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Egg London, London on Sat, 12 Dec 2026.
+HangryRacoon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Egg London, London on Sat, 12 Dec 2026.
 
 HangryRacoon is a house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Slipstream, BENXTAN and choose1. Next up: Egg London, London on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ HangryRacoon is a house and tech house artist based in United Kingdom, with 5 gi
 
 Slipstream, BENXTAN, choose1
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hangryracoon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hangryracoon/)*

@@ -1,6 +1,6 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at O2 Academy Leeds, Leeds on Sat, 28 Nov 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at O2 Academy Leeds, Leeds on Sat, 28 Nov 2026.
 
 Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 130 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 42 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: O2 Academy Leeds, Leeds on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 130 
 
 Tempza, K Motionz, Andy C
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

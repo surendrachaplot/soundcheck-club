@@ -1,0 +1,28 @@
+# By Dusk
+
+By Dusk is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 93 Feet East, London on Fri, 11 Dec 2026.
+
+By Dusk is a deep house and progressive house artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Underground Tribe, Dj Clark Gabble and Fernweh. Next up: 93 Feet East, London on Fri 11 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 11 Dec 2026 | 93 Feet East | London |
+
+## Recently played
+
+- HQI, London · Fri, 30 Oct 2026
+- The Observatory Sky Bar, London · Fri, 4 Sept 2026
+- Onyx (E1), London · Fri, 8 May 2026
+- Brixton Jamm, London · Sat, 17 Jan 2026
+- Ladybird / Basement Club, London · Thu, 15 Jan 2026
+- Folklore, London · Sat, 22 Nov 2025
+- Gallery, London · Sat, 30 Aug 2025
+- Alaska Waterloo, London · Fri, 30 May 2025
+
+## Shares bills with
+
+Underground Tribe, Dj Clark Gabble, Fernweh (2)
+
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bydusk/)*

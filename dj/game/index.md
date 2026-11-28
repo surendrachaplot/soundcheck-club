@@ -1,6 +1,6 @@
 # Gáme
 
-Gáme is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Edison, Monterrey on Sat, 12 Dec 2026.
+Gáme is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Edison, Monterrey on Sat, 12 Dec 2026.
 
 Gáme is a progressive house and house artist based in Mexico, with 12 gigs on soundcheck across Barcelona, Guadalajara, Mexico City and Monterrey. Often billed alongside Colossio, Cabizbajo and Cano (MX). Next up: Club Edison, Monterrey on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Gáme is a progressive house and house artist based in Mexico, with 12 gigs on s
 
 Colossio, Cabizbajo, Cano (MX)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/game/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/game/)*

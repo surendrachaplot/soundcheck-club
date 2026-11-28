@@ -1,6 +1,6 @@
 # Empat
 
-Empat is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 5 Dec 2026.
+Empat is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 5 Dec 2026.
 
 Empat is a minimal and minimal techno artist based in Romania, with 6 gigs on soundcheck across Bucharest, Hamburg and Vienna. Often billed alongside Erhardt Schuster, Nacho Carbajal and AKVA. Next up: the inner circle vienna / wien, Vienna on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Empat is a minimal and minimal techno artist based in Romania, with 6 gigs on so
 
 Erhardt Schuster, Nacho Carbajal, AKVA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/empat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/empat/)*

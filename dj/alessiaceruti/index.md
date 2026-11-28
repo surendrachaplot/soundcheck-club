@@ -1,6 +1,6 @@
 # Alessia Ceruti
 
-Alessia Ceruti is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Alessia Ceruti is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 Alessia Ceruti is a house and techno artist based in Italy, with 52 gigs on soundcheck across Barcelona, Berlin, Brussels and Dresden and 6 more. Often billed alongside Dana Ruh, L&F and David Jach. Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ Alessia Ceruti is a house and techno artist based in Italy, with 52 gigs on soun
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 27 Nov 2026
 - Giselle, Düsseldorf · Fri, 23 Oct 2026
 - Kater, Berlin · Sat, 17 Oct 2026
 - Golden Gate, Berlin · Fri, 16 Oct 2026
@@ -20,10 +21,9 @@ Alessia Ceruti is a house and techno artist based in Italy, with 52 gigs on soun
 - Club der Visionaere, Berlin · Thu, 16 Jul 2026
 - Legal, Munich · Fri, 15 May 2026
 - Riviera Records Store, Munich · Fri, 15 May 2026
-- Jonny Knüppel, Berlin · Sun, 26 Apr 2026
 
 ## Shares bills with
 
 Dana Ruh, L&F, David Jach
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiaceruti/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiaceruti/)*

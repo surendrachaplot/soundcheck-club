@@ -1,6 +1,6 @@
 # Story DC
 
-Story DC is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "UNDR DC presents: NOX           a PLUR Rave experience " on Sat, 28 Nov 2026.
+Story DC is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "UNDR DC presents: NOX           a PLUR Rave experience " on Sat, 28 Nov 2026.
 
 Story DC is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including Beezer Barone and Skippper. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Story DC is a music venue in Washington DC listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | UNDR DC presents: NOX           a PLUR Rave experience  | Beezer Barone, Skippper |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/story-dc/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/story-dc/)*

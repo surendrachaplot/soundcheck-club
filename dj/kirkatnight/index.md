@@ -1,6 +1,6 @@
 # KirkatNight
 
-KirkatNight is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Gabriela, New York City on Sun, 13 Dec 2026.
+KirkatNight is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gabriela, New York City on Sun, 13 Dec 2026.
 
 KirkatNight is a house and techno artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside DJ Sauci Soni, King Tutt and Ludwig van Mix. Next up: Gabriela, New York City on Sun 13 Dec.
 
@@ -20,4 +20,4 @@ KirkatNight is a house and techno artist based in United States of America, with
 
 DJ Sauci Soni, King Tutt, Ludwig van Mix
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirkatnight/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirkatnight/)*

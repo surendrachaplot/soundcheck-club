@@ -1,14 +1,13 @@
 # fi
 
-fi is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "fi x Marten Lou & Jonathan Kaspar & Kölleidoscope" on Fri, 27 Nov 2026.
+fi is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "fi x Dr Banana & avontuur & Kontur" on Sat, 28 Nov 2026.
 
-fi is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line-ups including Acid Pauli, Ada Luvv, Alalkih and AMSL and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
+fi is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Pauli, Ada Luvv, AMSL and Anna Cainelli and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | fi x Marten Lou & Jonathan Kaspar & Kölleidoscope | Alalkih, Eva Lakritz, Jonathan Kaspar, Marten Lou |
 | Sat, 28 Nov 2026 | fi x Dr Banana & avontuur & Kontur | DJ Flatbeat, Dr Banana, Kribs, Mariami, Soft Force |
 | Fri, 4 Dec 2026 | Aura at fi with SHDW all night long | SHDW |
 | Sat, 5 Dec 2026 | fi x 3000 Grad | Bonnie Spacey, Corios, Maria Theresia von Eberg, Mollono.Bass |
@@ -18,9 +17,10 @@ fi is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line
 | Sat, 19 Dec 2026 | fi x Acid Pauli & Jonathan Kaspar & Plasma | Acid Pauli, Egna, Elisen, Jonathan Kaspar |
 | Sat, 26 Dec 2026 | fi x Pan-Pot & Etage147 | Ada Luvv, LALENA, Pan-Pot |
 | Thu, 31 Dec 2026 | fi x NEU 2027 | Julien Charles |
+| Sat, 23 Jan 2027 | fi x John Talabot & Jonathan Kaspar & friendly Connections | John Talabot, Jonathan Kaspar |
 
 ## Address
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

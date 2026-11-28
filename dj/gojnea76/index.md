@@ -1,6 +1,6 @@
 # Gojnea76
 
-Gojnea76 is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 11 Dec 2026.
+Gojnea76 is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 11 Dec 2026.
 
 Gojnea76 is a house and minimal artist, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside G76, Alexander Skancke and BILA. Next up: Platforma Wolff, Bucharest on Fri 11 Dec.
 
@@ -9,7 +9,7 @@ Gojnea76 is a house and minimal artist, with 31 gigs on soundcheck across Amster
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Platforma Wolff | Bucharest |
-| Sun, 27 Feb 2028 | Mudgeeraba Showground | Gold-coast |
+| Sat, 27 Feb 2027 | Mudgeeraba Showground | Gold-coast |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Gojnea76 is a house and minimal artist, with 31 gigs on soundcheck across Amster
 
 G76, Alexander Skancke, BILA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*

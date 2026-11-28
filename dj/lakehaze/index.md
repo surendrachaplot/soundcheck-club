@@ -1,6 +1,6 @@
 # Lake Haze
 
-Lake Haze is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 26 Dec 2026.
+Lake Haze is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Lux Fragil, Lisbon on Sat, 26 Dec 2026.
 
 Lake Haze is a techno and electro artist based in Portugal, with 28 gigs on soundcheck across Berlin, Bologna, Lisbon and London and 5 more. Often billed alongside Catarina Silva, Asymptote and Helena Hauff. Next up: Lux Fragil, Lisbon on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Lake Haze is a techno and electro artist based in Portugal, with 28 gigs on soun
 
 Catarina Silva, Asymptote, Helena Hauff
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*

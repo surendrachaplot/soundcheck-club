@@ -1,14 +1,15 @@
 # Nahum Korm
 
-Nahum Korm is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Laboratorio Octogon, Madrid on Sat, 28 Nov 2026.
+Nahum Korm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Laboratorio Octogon, Madrid on Sat, 28 Nov 2026.
 
-Nahum Korm is a techno and trance artist based in Spain, with 41 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside CRONEKIA, ZÉ ALMONACID and H1pnos1s. Next up: Laboratorio Octogon, Madrid on Sat 28 Nov.
+Nahum Korm is a techno and trance artist based in Spain, with 42 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside CRONEKIA, ZÉ ALMONACID and H1pnos1s. Next up: Laboratorio Octogon, Madrid on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Laboratorio Octogon | Madrid |
+| Sat, 12 Dec 2026 | M7 Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nahum Korm is a techno and trance artist based in Spain, with 41 gigs on soundch
 
 CRONEKIA, ZÉ ALMONACID, H1pnos1s
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahumkorm/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nahumkorm/)*

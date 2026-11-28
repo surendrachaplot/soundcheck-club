@@ -1,6 +1,6 @@
 # Green (IT)
 
-Green (IT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
+Green (IT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Rome on Sat, 5 Dec 2026.
 
 Green (IT) is a techno and house artist based in Italy, with 9 gigs on soundcheck across Berlin, Bologna, Rome and Tokyo. Often billed alongside Fernando Costantini, Domenico Rosa and Inthenino. Next up: TBA, Rome on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Green (IT) is a techno and house artist based in Italy, with 9 gigs on soundchec
 
 Fernando Costantini, Domenico Rosa, Inthenino
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/green-it/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/green-it/)*

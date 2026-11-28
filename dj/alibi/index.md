@@ -1,6 +1,6 @@
 # ALIBI
 
-ALIBI is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
+ALIBI is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
 
 ALIBI is a drum & bass and techno artist based in Australia, with 16 gigs on soundcheck across Bratislava, Brighton, Brisbane and Bristol and 6 more. Often billed alongside Bryan Gee, Bladerunner and Jumping Jack Frost. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ ALIBI is a drum & bass and techno artist based in Australia, with 16 gigs on sou
 
 Bryan Gee, Bladerunner, Jumping Jack Frost
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alibi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alibi/)*

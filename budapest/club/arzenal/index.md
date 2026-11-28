@@ -1,14 +1,13 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NRG Budapest - Arzenál" on Fri, 27 Nov 2026.
+Arzenal is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Arzenal X Shangri-La with Hot Since 82" on Fri, 4 Dec 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Afterlife, Alive, Daniel Moritz and Davko and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including Afterlife, Alive, Daniel Moritz and Davko and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | NRG Budapest - Arzenál | Jezza & Jod, KLOFAMA, Vieze Asbak, Winson, Yoshiko |
 | Fri, 4 Dec 2026 | Arzenal X Shangri-La with Hot Since 82 | Hot Since 82 |
 | Fri, 4 Dec 2026 | BASE - Build the Party | Technokool |
 | Sat, 5 Dec 2026 | TKWT pres. Hard Sessions / Fernanda Martins & Lukas | Fernanda Martins, KALMIKVCS, Lukas (HK), Sikztah |
@@ -21,4 +20,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

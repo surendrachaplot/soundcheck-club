@@ -1,14 +1,13 @@
 # AceMo
 
-AceMo is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Nowadays, New York City on Fri, 27 Nov 2026.
+AceMo is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Signal, New York City on Sat, 28 Nov 2026.
 
-AceMo is a techno and house artist based in United States of America, with 150 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 33 more. Often billed alongside DJ SWISHA, Swami Sound and MoMA Ready. Next up: Nowadays, New York City on Fri 27 Nov.
+AceMo is a techno and house artist based in United States of America, with 150 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 33 more. Often billed alongside DJ SWISHA, Swami Sound and MoMA Ready. Next up: Signal, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Nowadays | New York City |
 | Sat, 28 Nov 2026 | Signal | New York City |
 | Fri, 4 Dec 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 12 Dec 2026 | Nowadays | New York City |
@@ -16,6 +15,7 @@ AceMo is a techno and house artist based in United States of America, with 150 g
 
 ## Recently played
 
+- Nowadays, New York City · Fri, 27 Nov 2026
 - Mooi Space, Toronto · Sat, 14 Nov 2026
 - Bar  Milagro, New York City · Thu, 12 Nov 2026
 - public records, New York City · Sun, 1 Nov 2026
@@ -23,10 +23,9 @@ AceMo is a techno and house artist based in United States of America, with 150 g
 - Dublab, Los Angeles · Fri, 30 Oct 2026
 - Homage Brewing, Los Angeles · Thu, 29 Oct 2026
 - Marble Bar, Detroit · Sat, 24 Oct 2026
-- Barn Radio, Portland · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 DJ SWISHA, Swami Sound, MoMA Ready
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*

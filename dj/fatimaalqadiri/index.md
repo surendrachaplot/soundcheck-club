@@ -1,6 +1,6 @@
 # Fatima Al Qadiri
 
-Fatima Al Qadiri is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
+Fatima Al Qadiri is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Bourse de Commerce — Pinault Collection, Paris on Fri, 4 Dec 2026.
 
 Fatima Al Qadiri is an electronic artist based in United States of America, with 4 gigs on soundcheck across Austria, Ljubljana, Paris and Utrecht. Often billed alongside DjRUM, 33EMYBW and ARN4L2. Next up: Bourse de Commerce — Pinault Collection, Paris on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Fatima Al Qadiri is an electronic artist based in United States of America, with
 
 DjRUM, 33EMYBW, ARN4L2
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimaalqadiri/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimaalqadiri/)*

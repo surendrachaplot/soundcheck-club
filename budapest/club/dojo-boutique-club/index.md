@@ -1,14 +1,13 @@
 # Dojo Boutique Club
 
-Dojo Boutique Club is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "DISCOTECA by Budai House Clique" on Fri, 27 Nov 2026.
+Dojo Boutique Club is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "SECTOR with Echonomist I DOJO" on Sat, 28 Nov 2026.
 
-Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including Budai House Clique, Echonomist, Freespirit and Hoffmann and 2 more. See dates, start times and who's playing. Budapest, Zrínyi u. 4/a, 1051, Hungary.
+Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Budai House Clique, Echonomist, Freespirit and KENZA KAYATI and 2 more. See dates, start times and who's playing. Budapest, Zrínyi u. 4/a, 1051, Hungary.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | DISCOTECA by Budai House Clique | Budai House Clique, Hoffmann |
 | Sat, 28 Nov 2026 | SECTOR with Echonomist I DOJO | Echonomist, LERM |
 | Fri, 4 Dec 2026 | GROOVE GENERATION & FRIENDS I 12.04. I DOJO | Freespirit |
 | Sat, 5 Dec 2026 | Kenza Kayati (TN) - Dojo 4th Bday | KENZA KAYATI |
@@ -20,4 +19,4 @@ Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 7 upcoming
 
 Budapest, Zrínyi u. 4/a, 1051, Hungary, Budapest
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*

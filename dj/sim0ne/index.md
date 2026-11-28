@@ -1,6 +1,6 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+sim0ne is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 sim0ne is a techno and house artist based in United Kingdom, with 127 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 47 more. Often billed alongside Juicy Romance, DJ Heartstring and Mischluft. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -18,6 +18,7 @@ sim0ne is a techno and house artist based in United Kingdom, with 127 gigs on so
 
 ## Recently played
 
+- Lardner Park, Melbourne · Fri, 27 Nov 2026
 - Pier 48's Shed A, San Francisco/Oakland · Sat, 14 Nov 2026
 - The Cause, London · Fri, 13 Nov 2026
 - NX Newcastle, Newcastle · Sat, 7 Nov 2026
@@ -25,10 +26,9 @@ sim0ne is a techno and house artist based in United Kingdom, with 127 gigs on so
 - Melkweg, Amsterdam · Fri, 23 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
-- Aria Complex, Malta · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Juicy Romance, DJ Heartstring, Mischluft
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

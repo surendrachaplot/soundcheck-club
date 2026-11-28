@@ -1,6 +1,6 @@
 # Jawnino
 
-Jawnino is a Grime and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The White Hotel, Manchester on Thu, 3 Dec 2026.
+Jawnino is a Grime and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The White Hotel, Manchester on Thu, 3 Dec 2026.
 
 Jawnino is a grime and electronica artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bologna, Bristol and Brussels and 18 more. Often billed alongside KAVARI, Batu and Blawan. Next up: The White Hotel, Manchester on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Jawnino is a grime and electronica artist based in United Kingdom, with 45 gigs 
 
 KAVARI, Batu, Blawan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*

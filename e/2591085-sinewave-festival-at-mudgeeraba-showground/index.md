@@ -1,10 +1,10 @@
 # Sinewave Festival at Mudgeeraba Showground
 
-Sinewave Festival at Mudgeeraba Showground on Sun 27 Feb, Gold Coast. 17 artists: Aldonna, Clara Cuvé, dj sweet6teen and Elijah Something and 13 more. See the line-up on soundcheck.
+Sinewave Festival at Mudgeeraba Showground on Sat 27 Feb, Gold Coast. 17 artists: Aldonna, Clara Cuvé, dj sweet6teen and Elijah Something and 13 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 27 Feb 2028 |
+| Date | Sat, 27 Feb 2027 |
 | Venue | Mudgeeraba Showground |
 | City | Gold-coast |
 

@@ -1,8 +1,8 @@
 # MOTOKA
 
-MOTOKA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Dogenzaka Church, Tokyo on Wed, 2 Dec 2026.
+MOTOKA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Dogenzaka Church, Tokyo on Wed, 2 Dec 2026.
 
-MOTOKA is a techno and house artist based in Japan, with 146 gigs on soundcheck across Rio de Janeiro and Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: Dogenzaka Church, Tokyo on Wed 2 Dec.
+MOTOKA is a techno and house artist based in Japan, with 147 gigs on soundcheck across Rio de Janeiro and Tokyo. Often billed alongside SIGNAL (JP), Junya and BERLINER KINDL. Next up: Dogenzaka Church, Tokyo on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ MOTOKA is a techno and house artist based in Japan, with 146 gigs on soundcheck 
 | Mon, 7 Dec 2026 | Royal Lounge | Tokyo |
 | Wed, 9 Dec 2026 | Azumaya | Tokyo |
 | Sat, 12 Dec 2026 | UTOPIA / DYSTOPIA | Tokyo |
+| Wed, 16 Dec 2026 | Azumaya | Tokyo |
 | Sat, 26 Dec 2026 | vek Tokyo | Tokyo |
 
 ## Recently played
@@ -29,4 +30,4 @@ MOTOKA is a techno and house artist based in Japan, with 146 gigs on soundcheck 
 
 SIGNAL (JP), Junya, BERLINER KINDL
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motoka/)*

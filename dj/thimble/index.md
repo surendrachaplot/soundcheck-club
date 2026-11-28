@@ -1,6 +1,6 @@
 # Thimble
 
-Thimble is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 1 Jan 2027.
+Thimble is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 1 Jan 2027.
 
 Thimble is a techno and afro house artist based in Spain, with 40 gigs on soundcheck across Barcelona, Istanbul, Madrid and Malaga and 3 more. Often billed alongside Felipe Bravo, Carlo and Auggië. Next up: Studio Club Malaga, Malaga on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Thimble is a techno and afro house artist based in Spain, with 40 gigs on soundc
 
 Felipe Bravo, Carlo, Auggië
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thimble/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thimble/)*

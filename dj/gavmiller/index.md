@@ -1,6 +1,6 @@
 # Gav Miller
 
-Gav Miller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 4042, Edinburgh on Sat, 28 Nov 2026.
+Gav Miller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 4042, Edinburgh on Sat, 28 Nov 2026.
 
 Gav Miller is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Edinburgh. Often billed alongside Jezz Simpson, OUTSET and DISCO TITS. Next up: 4042, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gav Miller is a house and techno artist based in United Kingdom, with 23 gigs on
 
 Jezz Simpson, OUTSET, DISCO TITS
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavmiller/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavmiller/)*

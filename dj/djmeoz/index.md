@@ -1,6 +1,6 @@
 # DJ MEOZ
 
-DJ MEOZ is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 16 Jan 2027.
+DJ MEOZ is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 16 Jan 2027.
 
 DJ MEOZ is a progressive house artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Edinburgh, London and Manchester. Often billed alongside ALIAS-V, AVANTIME and Analog Jungs. Next up: People's Leisure Club, Edinburgh on Sat 16 Jan.
 
@@ -22,4 +22,4 @@ DJ MEOZ is a progressive house artist based in United Kingdom, with 6 gigs on so
 
 ALIAS-V, AVANTIME, Analog Jungs
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeoz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeoz/)*

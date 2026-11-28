@@ -1,6 +1,6 @@
 # Fer BR
 
-Fer BR is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
+Fer BR is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
 
 Fer BR is a tech house and minimal artist based in Spain, with 16 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Paco Osuna, Melanie Ribbe and Chelina Manuhutu. Next up: Fabrik, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Fer BR is a tech house and minimal artist based in Spain, with 16 gigs on soundc
 
 Paco Osuna, Melanie Ribbe, Chelina Manuhutu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferbr/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferbr/)*

@@ -1,6 +1,6 @@
 # Afroasis
 
-Afroasis is a R&B and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Village Underground, London on Thu, 3 Dec 2026.
+Afroasis is a R&B and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Village Underground, London on Thu, 3 Dec 2026.
 
 Afroasis is a r&b and afrobeats artist based in Germany, with 8 gigs on soundcheck across London. Often billed alongside BABY JACKZ, ABIMBOLA and AKAYCANTDJAY. Next up: Village Underground, London on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ Afroasis is a r&b and afrobeats artist based in Germany, with 8 gigs on soundche
 
 BABY JACKZ, ABIMBOLA, AKAYCANTDJAY
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afroasis/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afroasis/)*

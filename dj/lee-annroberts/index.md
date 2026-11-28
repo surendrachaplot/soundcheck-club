@@ -1,6 +1,6 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Afer HTX, Houston on Sat, 28 Nov 2026.
+Lee Ann Roberts is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Afer HTX, Houston on Sat, 28 Nov 2026.
 
 Lee Ann Roberts is a techno and industrial artist based in South Africa, with 190 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: TBA - Afer HTX, Houston on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lee Ann Roberts is a techno and industrial artist based in South Africa, with 19
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

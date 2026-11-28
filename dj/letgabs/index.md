@@ -1,6 +1,6 @@
 # LETGABS
 
-LETGABS is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Kza Sal, Rio de Janeiro on Sat, 28 Nov 2026.
+LETGABS is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Kza Sal, Rio de Janeiro on Sat, 28 Nov 2026.
 
 LETGABS is a baile funk and reggaeton artist based in Brazil, with 37 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Bia Marques, LARINHX and Dj Nepal. Next up: Kza Sal, Rio de Janeiro on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LETGABS is a baile funk and reggaeton artist based in Brazil, with 37 gigs on so
 
 Bia Marques, LARINHX, Dj Nepal
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/letgabs/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/letgabs/)*

@@ -1,6 +1,6 @@
 # Mario DV
 
-Mario DV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
+Mario DV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Vancouver on Sat, 26 Dec 2026.
 
 Mario DV is a techno and house artist, with 20 gigs on soundcheck across Vancouver. Often billed alongside POPU, Behrad Tehrani and C-Star. Next up: TBA, Vancouver on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Mario DV is a techno and house artist, with 20 gigs on soundcheck across Vancouv
 
 POPU, Behrad Tehrani, C-Star
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariodv/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariodv/)*

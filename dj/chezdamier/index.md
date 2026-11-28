@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lion's Den, Miami on Thu, 3 Dec 2026.
+Chez Damier is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lion's Den, Miami on Thu, 3 Dec 2026.
 
 Chez Damier is a house and deep house artist based in United States of America, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 54 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Lion's Den, Miami on Thu 3 Dec.
 
@@ -30,4 +30,4 @@ Chez Damier is a house and deep house artist based in United States of America, 
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

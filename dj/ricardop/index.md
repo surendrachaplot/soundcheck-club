@@ -1,6 +1,6 @@
 # Ricardo P.
 
-Ricardo P. is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gare Porto, Porto on Sat, 12 Dec 2026.
+Ricardo P. is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gare Porto, Porto on Sat, 12 Dec 2026.
 
 Ricardo P. is a techno and electronica artist based in Brazil, with 17 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Saag, Marcal and Giuseppe Wilkinson. Next up: Gare Porto, Porto on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ricardo P. is a techno and electronica artist based in Brazil, with 17 gigs on s
 
 Saag, Marcal, Giuseppe Wilkinson
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardop/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardop/)*

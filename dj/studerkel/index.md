@@ -1,6 +1,6 @@
 # Studerkel
 
-Studerkel is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Chinois, Paris on Mon, 15 Feb 2027.
+Studerkel is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Le Chinois, Paris on Mon, 15 Feb 2027.
 
 Studerkel is an ebm and electro artist, with 14 gigs on soundcheck across Brussels and Paris. Often billed alongside cfds, Kalyug Citizen and Mascarpone. Next up: Le Chinois, Paris on Mon 15 Feb.
 
@@ -25,4 +25,4 @@ Studerkel is an ebm and electro artist, with 14 gigs on soundcheck across Brusse
 
 cfds, Kalyug Citizen, Mascarpone
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/studerkel/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/studerkel/)*

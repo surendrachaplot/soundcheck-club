@@ -1,6 +1,6 @@
 # Jovak
 
-Jovak is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
+Jovak is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bar Shrimp, Manchester on Thu, 31 Dec 2026.
 
 Jovak is a progressive house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across London and Manchester. Often billed alongside Birrell, Slim Shae and Allius. Next up: Bar Shrimp, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jovak is a progressive house and tech house artist based in United Kingdom, with
 
 Birrell, Slim Shae, Allius
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jovak/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jovak/)*

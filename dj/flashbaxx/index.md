@@ -1,6 +1,6 @@
 # Flashbaxx
 
-Flashbaxx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tausend, Berlin on Wed, 2 Dec 2026.
+Flashbaxx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tausend, Berlin on Wed, 2 Dec 2026.
 
 Flashbaxx is a house and disco artist based in Germany, with 10 gigs on soundcheck across Berlin, Düsseldorf, Ibiza and Leipzig. Often billed alongside Allynx, Alma Linda and Andy Baxter. Next up: Tausend, Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Flashbaxx is a house and disco artist based in Germany, with 10 gigs on soundche
 
 Allynx, Alma Linda, Andy Baxter
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashbaxx/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashbaxx/)*

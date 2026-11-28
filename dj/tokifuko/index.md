@@ -1,6 +1,6 @@
 # Toki Fuko
 
-Toki Fuko is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Fundación Cajagranada, South on Fri, 19 Mar 2027.
+Toki Fuko is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fundación Cajagranada, South on Fri, 19 Mar 2027.
 
 Toki Fuko is a techno and experimental artist based in Russia, with 11 gigs on soundcheck across Barcelona, Berlin, Moscow and Paris and 5 more. Often billed alongside Cobahn, Marco Shuttle and Nathalia. Next up: Fundación Cajagranada, South on Fri 19 Mar.
 
@@ -25,4 +25,4 @@ Toki Fuko is a techno and experimental artist based in Russia, with 11 gigs on s
 
 Cobahn, Marco Shuttle, Nathalia
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokifuko/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokifuko/)*

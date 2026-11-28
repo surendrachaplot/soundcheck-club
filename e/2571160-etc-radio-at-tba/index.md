@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Fri 25 Dec, Chicago. 1 artist: m50. Ambient and Acid. See the line-up on soundcheck.
+etc radio at TBA on Fri 25 Dec, Chicago. 3 artists: Conoley Ospovat, m50 and Mesak. Ambient and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ etc radio at TBA on Fri 25 Dec, Chicago. 1 artist: m50. Ambient and Acid. See th
 
 ## Line-up
 
+- Conoley Ospovat
 - m50
+- Mesak
 
 *Source: [soundcheck](https://soundcheck.club/e/2571160-etc-radio-at-tba/)*

@@ -1,6 +1,6 @@
 # JSPRV35
 
-JSPRV35 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
+JSPRV35 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 27 Nov 2026.
 
 JSPRV35 is a techno and house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 15 more. Often billed alongside Beau Didier, Beste Hira and Grace Dahl. Next up: Tokonoma Club, Frankfurt on Fri 27 Nov.
 
@@ -16,6 +16,7 @@ JSPRV35 is a techno and house artist based in Netherlands, with 58 gigs on sound
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt · Fri, 27 Nov 2026
 - nachbar, Amsterdam · Fri, 20 Nov 2026
 - nachbar, Amsterdam · Thu, 22 Oct 2026
 - Skatecafe, Amsterdam · Sat, 26 Sept 2026
@@ -23,10 +24,9 @@ JSPRV35 is a techno and house artist based in Netherlands, with 58 gigs on sound
 - Else, Berlin · Fri, 22 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
 - TILLATEC, Amsterdam · Sun, 29 Mar 2026
-- nachbar, Amsterdam · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Beau Didier, Beste Hira, Grace Dahl
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jsprv35/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jsprv35/)*

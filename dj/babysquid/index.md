@@ -1,6 +1,6 @@
 # babysquid
 
-babysquid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at MODULE, Copenhagen on Sat, 28 Nov 2026.
+babysquid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at MODULE, Copenhagen on Sat, 28 Nov 2026.
 
 babysquid is a techno and house artist based in Romania, with 42 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside DJ BENDER, DJ Greatfruit Grapefruit and DJ Spice. Next up: MODULE, Copenhagen on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ babysquid is a techno and house artist based in Romania, with 42 gigs on soundch
 
 DJ BENDER, DJ Greatfruit Grapefruit, DJ Spice
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babysquid/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babysquid/)*

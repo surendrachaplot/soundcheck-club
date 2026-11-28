@@ -1,6 +1,6 @@
 # MC Fox
 
-MC Fox is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
+MC Fox is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 13 Feb 2027.
 
 MC Fox is a drum & bass and jungle artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Hannover, Leeds and Lisbon and 5 more. Often billed alongside Lenzman, T-Man (UK) and Chimpo. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ MC Fox is a drum & bass and jungle artist based in United Kingdom, with 50 gigs 
 
 Lenzman, T-Man (UK), Chimpo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfox/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfox/)*

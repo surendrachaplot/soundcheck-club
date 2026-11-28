@@ -1,6 +1,6 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Area_osaka, Osaka on Sat, 12 Dec 2026.
+DJ HI-C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Area_osaka, Osaka on Sat, 12 Dec 2026.
 
 DJ HI-C is a techno and house artist based in Japan, with 85 gigs on soundcheck across Amsterdam, Athens, Beijing and Dortmund / Essen and 12 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: Area_osaka, Osaka on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ DJ HI-C is a techno and house artist based in Japan, with 85 gigs on soundcheck 
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*

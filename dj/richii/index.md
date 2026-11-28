@@ -1,6 +1,6 @@
 # Richii
 
-Richii is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Südpol, Hamburg on Sat, 5 Dec 2026.
+Richii is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Südpol, Hamburg on Sat, 5 Dec 2026.
 
 Richii is a house and techno artist based in Japan, with 68 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 11 more. Often billed alongside Luigi Di Venere, Sound Metaphors Djs and FFAN. Next up: Südpol, Hamburg on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Richii is a house and techno artist based in Japan, with 68 gigs on soundcheck a
 
 Luigi Di Venere, Sound Metaphors Djs, FFAN
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*

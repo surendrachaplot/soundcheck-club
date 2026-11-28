@@ -1,6 +1,6 @@
 # DJ Frog
 
-DJ Frog is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Sat, 28 Nov 2026.
+DJ Frog is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Système, Montreal on Sat, 28 Nov 2026.
 
 DJ Frog is a techno and house artist based in Canada, with 53 gigs on soundcheck across Barcelona, Brussels, London and Montreal and 4 more. Often billed alongside DJ Spence, Excalibur and PLO Man. Next up: Système, Montreal on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ DJ Frog is a techno and house artist based in Canada, with 53 gigs on soundcheck
 
 DJ Spence, Excalibur, PLO Man
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrog/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrog/)*

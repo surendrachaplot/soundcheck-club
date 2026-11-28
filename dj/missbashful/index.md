@@ -1,6 +1,6 @@
 # Miss Bashful
 
-Miss Bashful is a Techno and Ghetto Tech artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
+Miss Bashful is a Techno and Ghetto Tech artist with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Electric Brixton, London on Sat, 5 Dec 2026.
 
 Miss Bashful is a techno and ghetto tech artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 49 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: Electric Brixton, London on Sat 5 Dec.
 
@@ -34,4 +34,4 @@ Miss Bashful is a techno and ghetto tech artist based in Germany, with 120 gigs 
 
 DBBD, Miss Bashful x DBBD, MCR-T
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*

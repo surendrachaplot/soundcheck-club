@@ -1,6 +1,6 @@
 # Skunkrock
 
-Skunkrock is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at The Vinyl Whistle, Leeds on Fri, 11 Dec 2026.
+Skunkrock is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Vinyl Whistle, Leeds on Fri, 11 Dec 2026.
 
 Skunkrock is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across Leeds and London. Often billed alongside Ancient Methods, Andrew Devine and Balrog. Next up: The Vinyl Whistle, Leeds on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Skunkrock is a techno and house artist based in United Kingdom, with 4 gigs on s
 
 Ancient Methods, Andrew Devine, Balrog
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skunkrock/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skunkrock/)*

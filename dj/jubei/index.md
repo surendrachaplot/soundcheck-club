@@ -1,6 +1,6 @@
 # Jubei
 
-Jubei is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Notting Hill Arts Club, London on Sat, 12 Dec 2026.
+Jubei is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Notting Hill Arts Club, London on Sat, 12 Dec 2026.
 
 Jubei is a drum & bass and jungle artist based in United Kingdom, with 35 gigs on soundcheck across Basel, Berlin, Bogotá and Brighton and 8 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Notting Hill Arts Club, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jubei is a drum & bass and jungle artist based in United Kingdom, with 35 gigs o
 
 SP:MC, DJ Flight, Breakage
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*

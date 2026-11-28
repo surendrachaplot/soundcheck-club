@@ -1,6 +1,6 @@
 # Enamour
 
-Enamour is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Pandora Café & House Music, Richmond on Sat, 28 Nov 2026.
+Enamour is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Pandora Café & House Music, Richmond on Sat, 28 Nov 2026.
 
 Enamour is a house and progressive house artist based in United States of America, with 91 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Bogotá and 25 more. Often billed alongside Cassian, Dastan and Lee Burridge. Next up: Pandora Café & House Music, Richmond on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Enamour is a house and progressive house artist based in United States of Americ
 
 Cassian, Dastan, Lee Burridge
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*

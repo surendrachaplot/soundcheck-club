@@ -1,6 +1,6 @@
 # S FLY
 
-S FLY is a Afro House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at fabric, London on Fri, 29 Jan 2027.
+S FLY is a Afro House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at fabric, London on Fri, 29 Jan 2027.
 
 S FLY is an afro house and drum & bass artist based in United Kingdom, with 41 gigs on soundcheck across Hong Kong, London, Melbourne and New York City and 2 more. Often billed alongside Beezo, Shenin Amara and Supa D. Next up: fabric, London on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ S FLY is an afro house and drum & bass artist based in United Kingdom, with 41 g
 
 Beezo, Shenin Amara, Supa D
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*

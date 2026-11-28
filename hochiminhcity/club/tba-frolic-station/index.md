@@ -1,6 +1,6 @@
 # TBA - Frolic Station
 
-TBA - Frolic Station is a music venue in Ho Chi Minh City with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. The next is "Frolic Station • CHROME CIRCUIT with guest DJ ISAAC ROLDAN (MEX)" on Fri, 27 Nov 2026.
+TBA - Frolic Station is a music venue in Ho Chi Minh City with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. The next is "Frolic Station • CHROME CIRCUIT with guest DJ ISAAC ROLDAN (MEX)" on Fri, 27 Nov 2026.
 
 TBA - Frolic Station is a music venue in Ho Chi Minh City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Frolic Station is a music venue in Ho Chi Minh City listed on soundcheck. 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Frolic Station • CHROME CIRCUIT with guest DJ ISAAC ROLDAN (MEX) |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/tba-frolic-station/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/tba-frolic-station/)*

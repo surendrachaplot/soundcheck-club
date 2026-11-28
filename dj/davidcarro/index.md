@@ -1,6 +1,6 @@
 # David Carro
 
-David Carro is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Barco Sound House, Madrid on Sat, 28 Nov 2026.
+David Carro is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Barco Sound House, Madrid on Sat, 28 Nov 2026.
 
 David Carro is a house and tech house artist based in Spain, with 18 gigs on soundcheck across Ibiza and Madrid. Often billed alongside Bianca, D. Cortés and Cley Rox. Next up: Barco Sound House, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ David Carro is a house and tech house artist based in Spain, with 18 gigs on sou
 
 Bianca, D. Cortés, Cley Rox
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarro/)*

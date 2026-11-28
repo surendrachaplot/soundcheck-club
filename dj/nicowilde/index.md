@@ -1,6 +1,6 @@
 # Nico Wilde
 
-Nico Wilde is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elysia, Basel on Sat, 19 Dec 2026.
+Nico Wilde is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Elysia, Basel on Sat, 19 Dec 2026.
 
 Nico Wilde is a techno artist based in Switzerland, with 8 gigs on soundcheck across Basel and Zurich. Often billed alongside Alissa, fabulus and Arutani. Next up: Elysia, Basel on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Nico Wilde is a techno artist based in Switzerland, with 8 gigs on soundcheck ac
 
 Alissa, fabulus, Arutani
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicowilde/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicowilde/)*

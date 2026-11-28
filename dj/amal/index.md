@@ -1,6 +1,6 @@
 # Amal
 
-Amal is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Compound, Baltimore on Sat, 12 Dec 2026.
+Amal is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Compound, Baltimore on Sat, 12 Dec 2026.
 
 Amal is a club and techno artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 13 more. Often billed alongside Nativesun, Black Rave Culture and James Bangura. Next up: The Compound, Baltimore on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Amal is a club and techno artist based in United States of America, with 71 gigs
 
 Nativesun, Black Rave Culture, James Bangura
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*

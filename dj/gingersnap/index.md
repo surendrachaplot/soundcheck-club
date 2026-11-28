@@ -1,0 +1,28 @@
+# Ginger Snap
+
+Ginger Snap is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Temple Bar, Detroit on Sat, 5 Dec 2026.
+
+Ginger Snap is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Detroit. Often billed alongside Hardin, Adriel Fantastique! and Mr. Twista. Next up: Temple Bar, Detroit on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Temple Bar | Detroit |
+
+## Recently played
+
+- Temple Bar, Detroit · Sat, 7 Nov 2026
+- Temple Bar, Detroit · Sat, 3 Oct 2026
+- TBA - Cass Corridor, Detroit · Sat, 12 Sept 2026
+- Temple Bar, Detroit · Sat, 1 Aug 2026
+- Temple Bar, Detroit · Sat, 1 Aug 2026
+- Temple Bar, Detroit · Sat, 6 Jun 2026
+- Firebird Tavern-Detroit, Detroit · Sat, 23 May 2026
+- Third Street Bar, Detroit · Fri, 22 May 2026
+
+## Shares bills with
+
+Hardin, Adriel Fantastique!, Mr. Twista
+
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gingersnap/)*

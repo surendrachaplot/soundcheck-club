@@ -1,6 +1,6 @@
 # Wrong Party!
 
-Wrong Party! is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 5 Dec 2026.
+Wrong Party! is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 5 Dec 2026.
 
 Wrong Party! is an acid and electro artist based in United Kingdom, with 22 gigs on soundcheck across Aberdeen and Glasgow. Often billed alongside GK Machine, Illogical Operator and Ravelston. Next up: La Cheetah Club, Glasgow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Wrong Party! is an acid and electro artist based in United Kingdom, with 22 gigs
 
 GK Machine, Illogical Operator, Ravelston
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*

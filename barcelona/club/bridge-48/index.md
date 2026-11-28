@@ -1,14 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Poblenou Open Night x BRIDGE 48" on Fri, 27 Nov 2026.
+Bridge 48 is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Unpredictable Sound Celebration of Life" on Sat, 28 Nov 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Angie (CY), Burial, CAPITANA and Cristaless and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Angie (CY), Burial, Cristaless and Freeka and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Poblenou Open Night x BRIDGE 48 | CAPITANA, JOCHI, MEMBRILLA, Mila Morr, Nadia Boulif, Narima Satori, TBA, XOA |
 | Sat, 28 Nov 2026 | Unpredictable Sound Celebration of Life | Angie (CY), JOCHI, Matteo Bigliardi |
 | Sun, 29 Nov 2026 | El Living de Bridge |  |
 | Mon, 30 Nov 2026 | AUDE Listening Session: Ryūichi Sakamoto, 1996 |  |
@@ -23,4 +22,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

@@ -1,6 +1,6 @@
 # Ylenia Evangelista
 
-Ylenia Evangelista is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at komunal, Birmingham on Sat, 5 Dec 2026.
+Ylenia Evangelista is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at komunal, Birmingham on Sat, 5 Dec 2026.
 
 Ylenia Evangelista is a minimal and house artist, with 8 gigs on soundcheck across Bangkok, Barcelona, Birmingham and Istanbul and 3 more. Often billed alongside Marlò, Adam Mclean and Beniso. Next up: komunal, Birmingham on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Ylenia Evangelista is a minimal and house artist, with 8 gigs on soundcheck acro
 
 Marlò, Adam Mclean, Beniso
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yleniaevangelista/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yleniaevangelista/)*

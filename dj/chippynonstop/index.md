@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Rex Club, Paris on Sat, 5 Dec 2026.
+Chippy Nonstop is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Rex Club, Paris on Sat, 5 Dec 2026.
 
 Chippy Nonstop is a techno and house artist based in Canada, with 184 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 53 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: Rex Club, Paris on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Chippy Nonstop is a techno and house artist based in Canada, with 184 gigs on so
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

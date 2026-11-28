@@ -1,6 +1,6 @@
 # Gabriel & Dresden
 
-Gabriel & Dresden is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 4 Dec 2026.
+Gabriel & Dresden is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 4 Dec 2026.
 
 Gabriel & Dresden are a trance and progressive house duo based in United States of America, with 57 gigs on soundcheck across Austin, Bristol, Chicago and Dallas/Fort Worth and 17 more. Often billed alongside Luccio, Amy Wiles and Mat Zo. Next up: The XOX Arena Arch Galeries, Kuala Lumpur on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Gabriel & Dresden are a trance and progressive house duo based in United States 
 
 Luccio, Amy Wiles, Mat Zo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*

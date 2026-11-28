@@ -1,6 +1,6 @@
 # Marc Anthony Bowen
 
-Marc Anthony Bowen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
+Marc Anthony Bowen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
 
 Marc Anthony Bowen is a techno and house artist based in Italy, with 52 gigs on soundcheck across Barcelona, Berlin, Milan and Naples and 4 more. Often billed alongside IRIDE, Marcolino and GNMR. Next up: REC Napoli, Naples on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Marc Anthony Bowen is a techno and house artist based in Italy, with 52 gigs on 
 
 IRIDE, Marcolino, GNMR
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcanthonybowen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcanthonybowen/)*

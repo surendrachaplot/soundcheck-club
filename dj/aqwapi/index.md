@@ -1,13 +1,14 @@
 # aqwapi
 
-aqwapi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Sensorium, Berlin on Wed, 30 Dec 2026.
+aqwapi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Prisma, Berlin on Tue, 29 Dec 2026.
 
-aqwapi is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside ALICA RØUGH, André Skuda and Ankit. Next up: Sensorium, Berlin on Wed 30 Dec.
+aqwapi is a techno and house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside ALICA RØUGH, André Skuda and Ankit. Next up: Prisma, Berlin on Tue 29 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 29 Dec 2026 | Prisma | Berlin |
 | Wed, 30 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -19,4 +20,4 @@ aqwapi is a techno and tech house artist based in Germany, with 3 gigs on soundc
 
 ALICA RØUGH, André Skuda, Ankit
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwapi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwapi/)*

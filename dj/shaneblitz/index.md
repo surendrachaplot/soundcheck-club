@@ -1,6 +1,6 @@
 # Shane Blitz
 
-Shane Blitz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
+Shane Blitz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
 Shane Blitz is a garage and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Lawrence Anthony, Munchie MC and Daniel Ward. Next up: The City Pride, London on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Shane Blitz is a garage and house artist based in United Kingdom, with 6 gigs on
 
 Lawrence Anthony, Munchie MC, Daniel Ward
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*

@@ -1,6 +1,6 @@
 # Lil Farm
 
-Lil Farm is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Studio Freedom, Tokyo on Sat, 5 Dec 2026.
+Lil Farm is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Studio Freedom, Tokyo on Sat, 5 Dec 2026.
 
 Lil Farm is a trance and electro artist based in Japan, with 12 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Azrel, illequal and m i m i (US). Next up: Studio Freedom, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Lil Farm is a trance and electro artist based in Japan, with 12 gigs on soundche
 
 Azrel, illequal, m i m i (US)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilfarm/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilfarm/)*

@@ -1,6 +1,6 @@
 # Baset
 
-Baset is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bootshaus, Cologne on Sat, 12 Dec 2026.
+Baset is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bootshaus, Cologne on Sat, 12 Dec 2026.
 
 Baset is a techno and house artist based in Egypt, with 18 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 7 more. Often billed alongside AMARE, Abstraal and Anyma. Next up: Bootshaus, Cologne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Baset is a techno and house artist based in Egypt, with 18 gigs on soundcheck ac
 
 AMARE, Abstraal, Anyma
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baset/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baset/)*

@@ -1,6 +1,6 @@
 # Oskar Offermann
 
-Oskar Offermann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mckr, Leipzig on Fri, 11 Dec 2026.
+Oskar Offermann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mckr, Leipzig on Fri, 11 Dec 2026.
 
 Oskar Offermann is a house and techno artist based in Germany, with 19 gigs on soundcheck across Bangkok, Barcelona, Belgrade and Berlin and 12 more. Often billed alongside Ryoma Sasaki, Teodora Van Context and Alex Neivel. Next up: Mckr, Leipzig on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Oskar Offermann is a house and techno artist based in Germany, with 19 gigs on s
 
 Ryoma Sasaki, Teodora Van Context, Alex Neivel
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskaroffermann/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskaroffermann/)*

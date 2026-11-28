@@ -1,6 +1,6 @@
 # Vlad Zinn
 
-Vlad Zinn is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Hoxton Cabin, London on Fri, 4 Dec 2026.
+Vlad Zinn is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Hoxton Cabin, London on Fri, 4 Dec 2026.
 
 Vlad Zinn is an electronica and club artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside acidhousewife3000, dbeater and ttttttttt. Next up: Hoxton Cabin, London on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Vlad Zinn is an electronica and club artist based in United Kingdom, with 7 gigs
 
 acidhousewife3000, dbeater, ttttttttt
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladzinn/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladzinn/)*

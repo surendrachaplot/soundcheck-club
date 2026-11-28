@@ -1,6 +1,6 @@
 # Motel Paraiso
 
-Motel Paraiso is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Teranoma Tidepool, Osaka on Sat, 9 Jan 2027.
+Motel Paraiso is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Teranoma Tidepool, Osaka on Sat, 9 Jan 2027.
 
 Motel Paraiso is a house and deep house artist based in Japan, with 27 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Mercy., NAGATA and sumi’. Next up: Teranoma Tidepool, Osaka on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Motel Paraiso is a house and deep house artist based in Japan, with 27 gigs on s
 
 Mercy., NAGATA, sumi’
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motelparaiso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motelparaiso/)*

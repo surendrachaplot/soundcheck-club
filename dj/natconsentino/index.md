@@ -1,6 +1,6 @@
 # nat consentino
 
-nat consentino is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at A.Tela, Sao-paulo on Thu, 4 Nov 2027.
+nat consentino is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at A.Tela, Sao-paulo on Thu, 4 Nov 2027.
 
 nat consentino is a house and balearic artist based in Brazil, with 28 gigs on soundcheck across Sao Paulo. Often billed alongside Swam, Romina (BR) and Bida Sarô. Next up: A.Tela, Sao Paulo on Thu 4 Nov.
 
@@ -25,4 +25,4 @@ nat consentino is a house and balearic artist based in Brazil, with 28 gigs on s
 
 Swam, Romina (BR), Bida Sarô
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natconsentino/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natconsentino/)*

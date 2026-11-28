@@ -1,14 +1,13 @@
 # P-YAN
 
-P-YAN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Mipama ES SU Casa 宮古島, Okinawa on Sat, 28 Nov 2026.
+P-YAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Numm, Tokyo on Tue, 8 Dec 2026.
 
-P-YAN is a house and techno artist based in Japan, with 123 gigs on soundcheck across Hanoi, Okinawa, Osaka and Seoul and 1 more. Often billed alongside RYOKEI, YAMARCHY and Celter. Next up: Mipama ES SU Casa 宮古島, Okinawa on Sat 28 Nov.
+P-YAN is a house and techno artist based in Japan, with 123 gigs on soundcheck across Hanoi, Okinawa, Osaka and Seoul and 1 more. Often billed alongside RYOKEI, YAMARCHY and Celter. Next up: Numm, Tokyo on Tue 8 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Mipama ES SU Casa 宮古島 | Okinawa |
 | Tue, 8 Dec 2026 | Numm | Tokyo |
 | Fri, 18 Dec 2026 | Daikanyama ORD. | Tokyo |
 
@@ -27,4 +26,4 @@ P-YAN is a house and techno artist based in Japan, with 123 gigs on soundcheck a
 
 RYOKEI, YAMARCHY, Celter
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-yan/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-yan/)*

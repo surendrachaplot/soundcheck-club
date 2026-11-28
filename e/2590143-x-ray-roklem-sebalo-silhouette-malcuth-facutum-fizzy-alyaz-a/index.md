@@ -1,6 +1,6 @@
 # X-RAY: Roklem ☆ Sebalo ☆ Silhouette ☆ Malcuth ☆ Facutum ☆ Fizzy ☆ Alyaz at Fuchs2
 
-X-RAY: Roklem ☆ Sebalo ☆ Silhouette ☆ Malcuth ☆ Facutum ☆ Fizzy ☆ Alyaz at Fuchs2 on Sat 19 Dec, Prague. 4 artists: Dj Alyaz, Roklem, Sebalo and Silhouette. Grime. See the line-up on soundcheck.
+X-RAY: Roklem ☆ Sebalo ☆ Silhouette ☆ Malcuth ☆ Facutum ☆ Fizzy ☆ Alyaz at Fuchs2 on Sat 19 Dec, Prague. 4 artists: Dj Alyaz, Roklem, Sebalo and Silhouette. Dubstep and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

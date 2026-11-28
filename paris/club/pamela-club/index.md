@@ -1,14 +1,13 @@
 # Pamela Club
 
-Pamela Club is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NO PARKING ON THE DANCEFLOOR" on Fri, 27 Nov 2026.
+Pamela Club is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Father / Son - Théo Wizman B2b Ariel Wizman, D. Aime" on Sat, 28 Nov 2026.
 
-Pamela Club is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Spielman, Aleqs Notal, Alex From Tokyo and Elsa Bernini and 2 more. See dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
+Pamela Club is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Aleqs Notal, Alex From Tokyo, Elsa Bernini and Jim Nights and 2 more. See dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | NO PARKING ON THE DANCEFLOOR | Adam Spielman, WarrenKo |
 | Sat, 28 Nov 2026 | Father / Son - Théo Wizman B2b Ariel Wizman, D. Aime |  |
 | Sat, 28 Nov 2026 | FATHER/SON |  |
 | Fri, 4 Dec 2026 | Studio B - Nightchou, Jim Nights, Annabella | Jim Nights, Nightchou |
@@ -23,4 +22,4 @@ Pamela Club is a music venue in Paris listed on soundcheck. 10 upcoming gigs, wi
 
 62 Rue Mazarine, 75006 Paris, France, Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*

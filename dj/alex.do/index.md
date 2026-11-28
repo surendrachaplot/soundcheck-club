@@ -1,6 +1,6 @@
 # Alex.Do
 
-Alex.Do is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 30 Nov 2026.
+Alex.Do is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 30 Nov 2026.
 
 Alex.Do is a techno and house artist based in Germany, with 41 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Hang Aoki, Sylvie Maziarz and Jessamine. Next up: Tresor / Globus, Berlin on Mon 30 Nov.
 
@@ -26,4 +26,4 @@ Alex.Do is a techno and house artist based in Germany, with 41 gigs on soundchec
 
 Hang Aoki, Sylvie Maziarz, Jessamine
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.do/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.do/)*

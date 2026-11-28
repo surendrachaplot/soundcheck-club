@@ -1,6 +1,6 @@
 # YUNI
 
-YUNI is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - MING HONGDAE, Seoul on Sat, 12 Dec 2026.
+YUNI is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - MING HONGDAE, Seoul on Sat, 12 Dec 2026.
 
 YUNI is a drum & bass and jungle artist based in South Korea, with 13 gigs on soundcheck across Los Angeles, New York City, San Diego and Seoul and 1 more. Often billed alongside Deletable, Xeomi and Jamjari. Next up: TBA - MING HONGDAE, Seoul on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ YUNI is a drum & bass and jungle artist based in South Korea, with 13 gigs on so
 
 Deletable, Xeomi, Jamjari
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuni/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuni/)*

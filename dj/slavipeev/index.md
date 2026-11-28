@@ -1,6 +1,6 @@
 # Slavi Peev
 
-Slavi Peev is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Toplocentrala, Sofia on Sat, 19 Dec 2026.
+Slavi Peev is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Toplocentrala, Sofia on Sat, 19 Dec 2026.
 
 Slavi Peev is a house and techno artist, with 5 gigs on soundcheck across Sofia. Often billed alongside Alexandar Kyosev, Factuaw and Frykk. Next up: Toplocentrala, Sofia on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Slavi Peev is a house and techno artist, with 5 gigs on soundcheck across Sofia.
 
 Alexandar Kyosev, Factuaw, Frykk
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slavipeev/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slavipeev/)*

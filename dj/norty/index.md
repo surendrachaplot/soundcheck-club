@@ -1,6 +1,6 @@
 # Norty
 
-Norty is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Nottingham Secret Garden, Nottingham on Sat, 12 Dec 2026.
+Norty is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Nottingham Secret Garden, Nottingham on Sat, 12 Dec 2026.
 
 Norty is a drum & bass and jungle artist based in United Kingdom, with 25 gigs on soundcheck across Bristol, Liverpool, London and Manchester and 2 more. Often billed alongside Charlie Power, Gullyteen and Amber Rose. Next up: Nottingham Secret Garden, Nottingham on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Norty is a drum & bass and jungle artist based in United Kingdom, with 25 gigs o
 
 Charlie Power, Gullyteen, Amber Rose
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norty/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norty/)*

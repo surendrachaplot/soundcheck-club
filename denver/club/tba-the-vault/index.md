@@ -1,6 +1,6 @@
 # TBA - The Vault
 
-TBA - The Vault is a music venue in Denver with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "The Vault pres. Decta, Movid 19, Hector Grunt, J.Gómez" on Sun, 29 Nov 2026.
+TBA - The Vault is a music venue in Denver with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "The Vault pres. Decta, Movid 19, Hector Grunt, J.Gómez" on Sun, 29 Nov 2026.
 
 TBA - The Vault is a music venue in Denver listed on soundcheck. 4 upcoming gigs, with line-ups including Dhanimal, Oscar Palacios, Rabent and Unreal. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - The Vault is a music venue in Denver listed on soundcheck. 4 upcoming gigs
 | Sun, 20 Dec 2026 | The Vault pres. Oscar Palacios, Unreal, J. Gómez, Hector Grunt | Oscar Palacios, Unreal |
 | Fri, 1 Jan 2027 | The Vault pres. DAY ONE |  |
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-the-vault/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-the-vault/)*

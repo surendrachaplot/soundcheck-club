@@ -1,6 +1,6 @@
 # Nine One
 
-Nine One is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
+Nine One is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 5 Dec 2026.
 
 Nine One is an electronic artist, with 5 gigs on soundcheck across Hamburg. Often billed alongside UNZHA, AEREA and Billy Bam. Next up: Fabrique im Gängeviertel, Hamburg on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Nine One is an electronic artist, with 5 gigs on soundcheck across Hamburg. Ofte
 
 UNZHA, AEREA, Billy Bam
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nineone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nineone/)*

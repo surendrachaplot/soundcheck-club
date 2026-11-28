@@ -1,6 +1,6 @@
 # Probl3ma
 
-Probl3ma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elastica, Vilnius on Fri, 18 Dec 2026.
+Probl3ma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Elastica, Vilnius on Fri, 18 Dec 2026.
 
 Probl3ma is a techno and house artist based in Lithuania, with 9 gigs on soundcheck across Vilnius. Often billed alongside JPSC, Luqule and Mario Moretti. Next up: Elastica, Vilnius on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Probl3ma is a techno and house artist based in Lithuania, with 9 gigs on soundch
 
 JPSC, Luqule, Mario Moretti
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/probl3ma/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/probl3ma/)*

@@ -1,6 +1,6 @@
 # Juany Bravo
 
-Juany Bravo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Zumana Bali, Bali on Wed, 2 Dec 2026.
+Juany Bravo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zumana Bali, Bali on Wed, 2 Dec 2026.
 
 Juany Bravo is an afro house and house artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 19 more. Often billed alongside Hugel, Eran Hersh and Miss Monique. Next up: Zumana Bali, Bali on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Juany Bravo is an afro house and house artist based in United States of America,
 
 Hugel, Eran Hersh, Miss Monique
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*

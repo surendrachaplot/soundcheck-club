@@ -1,6 +1,6 @@
 # Jamê
 
-Jamê is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Ticcle, Hobart on Sat, 2 Jan 2027.
+Jamê is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Ticcle, Hobart on Sat, 2 Jan 2027.
 
 Jamê is a house and deep house artist based in Australia, with 8 gigs on soundcheck across Hobart and Melbourne. Often billed alongside Anaya, Anaya (AU) and Bronze Savage. Next up: Ticcle, Hobart on Sat 2 Jan.
 
@@ -24,4 +24,4 @@ Jamê is a house and deep house artist based in Australia, with 8 gigs on soundc
 
 Anaya (2), Anaya (AU), Bronze Savage
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamê/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamê/)*

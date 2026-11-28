@@ -1,6 +1,6 @@
 # Ant TC1
 
-Ant TC1 is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Jaeger, Oslo on Fri, 15 Jan 2027.
+Ant TC1 is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Jaeger, Oslo on Fri, 15 Jan 2027.
 
 Ant TC1 is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 28 more. Often billed alongside Goldie, Doc Scott and DJ Storm. Next up: Jaeger, Oslo on Fri 15 Jan.
 
@@ -30,4 +30,4 @@ Ant TC1 is a drum & bass and jungle artist based in United Kingdom, with 67 gigs
 
 Goldie, Doc Scott, DJ Storm
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antdc1/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antdc1/)*

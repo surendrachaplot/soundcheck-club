@@ -1,6 +1,6 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at St Leonards Church - St Leonards, South-east on Sat, 28 Nov 2026.
+Dillinja is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at St Leonards Church - St Leonards, South-east on Sat, 28 Nov 2026.
 
 Dillinja is a drum & bass and jungle artist based in United Kingdom, with 140 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 41 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: St Leonards Church - St Leonards, South East on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Dillinja is a drum & bass and jungle artist based in United Kingdom, with 140 gi
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

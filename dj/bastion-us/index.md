@@ -1,6 +1,6 @@
 # Bastion (US)
 
-Bastion (US) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at EQ San Diego, San Diego on Thu, 10 Dec 2026.
+Bastion (US) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at EQ San Diego, San Diego on Thu, 10 Dec 2026.
 
 Bastion (US) is a house and club artist, with 7 gigs on soundcheck across New York City and San Diego. Often billed alongside CRSPY, M33CH and sixsix. Next up: EQ San Diego, San Diego on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ Bastion (US) is a house and club artist, with 7 gigs on soundcheck across New Yo
 
 CRSPY, M33CH, sixsix
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastion-us/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastion-us/)*

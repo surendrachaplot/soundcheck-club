@@ -1,6 +1,6 @@
 # Slot
 
-Slot is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "QUOKKAS ONLY" on Sat, 28 Nov 2026.
+Slot is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "QUOKKAS ONLY" on Sat, 28 Nov 2026.
 
 Slot is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including ASEC, AZB (allzeitbereit), Barbaros and Danya (DE) and 2 more. See dates, start times and who's playing. Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ Slot is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with lin
 
 Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany, Hamburg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*

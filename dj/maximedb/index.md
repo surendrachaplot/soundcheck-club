@@ -1,6 +1,6 @@
 # Maxime dB
 
-Maxime dB is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Club Bizarre, Naples on Sat, 28 Nov 2026.
+Maxime dB is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Club Bizarre, Naples on Sat, 28 Nov 2026.
 
 Maxime dB is a house and techno artist, with 129 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: Club Bizarre, Naples on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Maxime dB is a house and techno artist, with 129 gigs on soundcheck across Amste
 
 Aline Umber, Aline Brooklyn, Krol
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*

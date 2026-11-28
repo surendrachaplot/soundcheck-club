@@ -1,6 +1,6 @@
 # Fiesta Sintonía at Lalalá
 
-Fiesta Sintonía at Lalalá on Sun 6 Dec, Buenos Aires. Baile Funk and Disco. See the line-up on soundcheck.
+Fiesta Sintonía at Lalalá on Sun 6 Dec, Buenos Aires. Disco and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,16 +1,16 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT -" on Fri, 27 Nov 2026.
+ZEROTOKYO is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Locker Room feat. DAISY - HARD TECHNO / TECHNO -" on Sat, 28 Nov 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including æ-chan, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including ACHIRI, AEMI, Aiobahn and Anfisa Letyago and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | NEON STARS Vol.04 - BASS / TECHNO / OPEN FORMAT - | Carpainter, HATSUYUKI, RION, RYO2, SLEEPY HEVD, Seimei, TRID3NT, VECSILLE, knell, æ-chan |
 | Sat, 28 Nov 2026 | Locker Room feat. DAISY - HARD TECHNO / TECHNO - | Calavera, DALJAE, Daisy-it, HATSUYUKI, KATSU (2), O.Goo, SHIGEKI NISHIKAWA, STRATAH, Soluna, YOXIKI, kyuuu |
 | Sun, 29 Nov 2026 | REIMEI - HIPHOP / R&B / LATIN / TRAP / DUBSTEP / HARD TECHNO / TECHNO / HOUSE - |  |
+| Thu, 3 Dec 2026 | PAXPROJECT - TECHNO / HOUSE / HIPHOP - | ACHIRI, MYUMA, YUUGOH |
 | Fri, 4 Dec 2026 | Marlon Hoffstadt - TRANCE / RAVE / HARD TECHNO / TECHNO - | HATSUYUKI, KAZBONGO, Marlon Hoffstadt, More (3), NOIA, O.Goo, Rikk (2), STRATAH, VÏVÏ, YURI VALEN, ecec, omeme_gangimari |
 | Sat, 5 Dec 2026 | TRANCE ESSENTIALS presents Ⅶ X TOKYO 10th BIRTHDAY WEEKENDER | AEMI, AVALON, BEPPU, DJ 34, DJ NECO, Greg Downey, HATSUYUKI, John Askew, Remo-con, Simon Patterson, YOSHIMASA, ndk (2) |
 | Sun, 6 Dec 2026 | SYNC | RYO2 |
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

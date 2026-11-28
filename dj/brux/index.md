@@ -1,6 +1,6 @@
 # Brux
 
-Brux is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Knockdown Center, New York City on Sat, 5 Dec 2026.
+Brux is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Knockdown Center, New York City on Sat, 5 Dec 2026.
 
 Brux is a house and garage artist, with 18 gigs on soundcheck across Denver, Ibiza, London and Los Angeles and 2 more. Often billed alongside lau.ra, Swami Sound and Villager. Next up: Knockdown Center, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Brux is a house and garage artist, with 18 gigs on soundcheck across Denver, Ibi
 
 lau.ra, Swami Sound, Villager
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brux/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brux/)*

@@ -1,6 +1,6 @@
 # Ash Scholem
 
-Ash Scholem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 28 Nov 2026.
+Ash Scholem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 28 Nov 2026.
 
 Ash Scholem is a techno and house artist based in Georgia, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Gacha, Kraumur and Dali (GE). Next up: Mtkvarze, Tbilisi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ash Scholem is a techno and house artist based in Georgia, with 91 gigs on sound
 
 Gacha, Kraumur, Dali (GE)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/AshScholem/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/AshScholem/)*

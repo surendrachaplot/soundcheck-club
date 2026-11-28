@@ -1,6 +1,6 @@
 # oscargvz
 
-oscargvz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 5 Dec 2026.
+oscargvz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at YAAM Berlin, Berlin on Sat, 5 Dec 2026.
 
 oscargvz is a house and tech house artist based in Mexico, with 8 gigs on soundcheck across Berlin. Often billed alongside JefeDiego, Lo Stine and Edwin Cervants. Next up: YAAM Berlin, Berlin on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ oscargvz is a house and tech house artist based in Mexico, with 8 gigs on soundc
 
 JefeDiego, Lo Stine, Edwin Cervants
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscargvz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscargvz/)*

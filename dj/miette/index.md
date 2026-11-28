@@ -1,6 +1,6 @@
 # Miette
 
-Miette is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Système, Montreal on Fri, 18 Dec 2026.
+Miette is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Système, Montreal on Fri, 18 Dec 2026.
 
 Miette is a techno and dub techno artist based in Canada, with 17 gigs on soundcheck across Montreal. Often billed alongside Sloppy, s.talbot and Safia Nihil. Next up: Système, Montreal on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Miette is a techno and dub techno artist based in Canada, with 17 gigs on soundc
 
 Sloppy, s.talbot, Safia Nihil
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miette/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miette/)*

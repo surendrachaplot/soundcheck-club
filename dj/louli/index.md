@@ -1,6 +1,6 @@
 # Louli
 
-Louli is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Sun, 6 Dec 2026.
+Louli is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Sydney on Sun, 6 Dec 2026.
 
 Louli is a bass and club artist based in Australia, with 12 gigs on soundcheck across Melbourne, Paris, Sydney and Taipei. Often billed alongside Rydeen (AU), sovblkpssy and AHJU. Next up: TBA, Sydney on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Louli is a bass and club artist based in Australia, with 12 gigs on soundcheck a
 
 Rydeen (AU), sovblkpssy, AHJU
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louli/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louli/)*

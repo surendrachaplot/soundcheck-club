@@ -1,10 +1,10 @@
 # BLENDERBENDR at Mahjong Bar
 
-BLENDERBENDR at Mahjong Bar on Wed 2 Dec, Toronto. 2 artists: 999ADJ and LUVBUG. See the line-up on soundcheck.
+BLENDERBENDR at Mahjong Bar on Thu 3 Dec, Toronto. 2 artists: 999ADJ and LUVBUG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 2 Dec 2026 |
+| Date | Thu, 3 Dec 2026 |
 | Venue | Mahjong Bar |
 | City | Toronto |
 

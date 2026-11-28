@@ -1,14 +1,13 @@
 # inner quiet
 
-inner quiet is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 26 Nov 2026. Next at Switch Bar, Barcelona on Wed, 25 Nov 2026.
+inner quiet is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Switch Bar, Barcelona on Wed, 3 Mar 2027.
 
-inner quiet is a house and disco artist based in Philippines, with 4 gigs on soundcheck across Barcelona and Manila. Often billed alongside Baldo, Brennan and Ferg. Next up: Switch Bar, Barcelona on Wed 25 Nov.
+inner quiet is a house and disco artist based in Philippines, with 4 gigs on soundcheck across Barcelona and Manila. Often billed alongside Baldo, Brennan and Ferg. Next up: Switch Bar, Barcelona on Wed 3 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 25 Nov 2026 | Switch Bar | Barcelona |
 | Wed, 3 Mar 2027 | Switch Bar | Barcelona |
 
 ## Recently played
@@ -21,4 +20,4 @@ inner quiet is a house and disco artist based in Philippines, with 4 gigs on sou
 
 Baldo, Brennan, Ferg
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innerquiet/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innerquiet/)*

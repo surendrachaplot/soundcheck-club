@@ -1,6 +1,6 @@
 # Vince Watson
 
-Vince Watson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Tide Nightclub, Brighton on Sat, 28 Nov 2026.
+Vince Watson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tide Nightclub, Brighton on Sat, 28 Nov 2026.
 
 Vince Watson is a techno and house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Berlin, Brighton and Edinburgh and 6 more. Often billed alongside Bastienne, Dimitri Kneppers and STERAC. Next up: Tide Nightclub, Brighton on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Vince Watson is a techno and house artist based in United Kingdom, with 22 gigs 
 
 Bastienne, Dimitri Kneppers, STERAC
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincewatson/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincewatson/)*

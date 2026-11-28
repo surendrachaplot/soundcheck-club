@@ -1,6 +1,6 @@
 # Crystal Distortion
 
-Crystal Distortion is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
+Crystal Distortion is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Near Jannowitzbrücke, Berlin on Fri, 27 Nov 2026.
 
 Crystal Distortion is an acid and techno artist based in France, with 9 gigs on soundcheck across Berlin, Milan, Nantes and Rome and 2 more. Often billed alongside 69DB, R-Zac and fivequestionmarks. Next up: TBA - Near Jannowitzbrücke, Berlin on Fri 27 Nov.
 
@@ -12,6 +12,7 @@ Crystal Distortion is an acid and techno artist based in France, with 9 gigs on 
 
 ## Recently played
 
+- TBA - Near Jannowitzbrücke, Berlin · Fri, 27 Nov 2026
 - Tempio del Futuro Perduto, Milan · Sat, 7 Nov 2026
 - Rote Fabrik, Zurich · Fri, 7 Aug 2026
 - Humboldthain Club, Berlin · Sat, 17 May 2025
@@ -19,10 +20,9 @@ Crystal Distortion is an acid and techno artist based in France, with 9 gigs on 
 - Warehouse, Nantes · Fri, 5 Jan 2024
 - Cieloterra, Rome · Sun, 31 Dec 2023
 - FLUCC, Vienna · Sat, 2 Sept 2023
-- Cieloterra, Rome · Sat, 28 Jan 2023
 
 ## Shares bills with
 
 69DB, R-Zac, fivequestionmarks
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaldistortion/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaldistortion/)*

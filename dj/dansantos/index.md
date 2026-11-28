@@ -1,6 +1,6 @@
 # Dan Santos
 
-Dan Santos is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at 93 Feet East, London on Thu, 31 Dec 2026.
+Dan Santos is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at 93 Feet East, London on Thu, 31 Dec 2026.
 
 Dan Santos is a tech house and deep house artist based in United Kingdom, with 13 gigs on soundcheck across London and Mexico City. Often billed alongside ACAPULCO, Tommy Marcel and Casey Lockhart and Alfie Binet. Next up: 93 Feet East, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dan Santos is a tech house and deep house artist based in United Kingdom, with 1
 
 ACAPULCO, Tommy Marcel, Casey Lockhart and Alfie Binet
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dansantos/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dansantos/)*

@@ -1,6 +1,6 @@
 # Casey Club
 
-Casey Club is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Echostage, Washington DC on Sat, 2 Jan 2027.
+Casey Club is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Echostage, Washington DC on Sat, 2 Jan 2027.
 
 Casey Club is a dubstep and bass artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Bristol, Charlotte and Detroit and 7 more. Often billed alongside Flava D, HerShe and A Little Sound. Next up: Echostage, Washington DC on Sat 2 Jan.
 
@@ -27,4 +27,4 @@ Casey Club is a dubstep and bass artist based in United Kingdom, with 20 gigs on
 
 Flava D, HerShe, A Little Sound
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*

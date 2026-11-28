@@ -1,14 +1,15 @@
 # Salvador Ricardo
 
-Salvador Ricardo is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dr Morse, Melbourne on Sat, 5 Dec 2026.
+Salvador Ricardo is a Disco and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Dr Morse, Melbourne on Sat, 5 Dec 2026.
 
-Salvador Ricardo is a disco and balearic artist based in Australia, with 9 gigs on soundcheck across Melbourne. Often billed alongside Bell Towers, Berkay Mete and DJ Luv You. Next up: Dr Morse, Melbourne on Sat 5 Dec.
+Salvador Ricardo is a disco and balearic artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Bell Towers, Berkay Mete and DJ Luv You. Next up: Dr Morse, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Dr Morse | Melbourne |
+| Thu, 31 Dec 2026 | Dr Morse | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Salvador Ricardo is a disco and balearic artist based in Australia, with 9 gigs 
 
 Bell Towers, Berkay Mete, DJ Luv You
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorricardo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorricardo/)*

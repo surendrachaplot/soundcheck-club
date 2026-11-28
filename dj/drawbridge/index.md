@@ -1,6 +1,6 @@
 # Drawbridge
 
-Drawbridge is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Poush, Paris on Sat, 12 Dec 2026.
+Drawbridge is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Poush, Paris on Sat, 12 Dec 2026.
 
 Drawbridge is a techno and trance artist based in France, with 23 gigs on soundcheck across Bordeaux, Brussels, Geneva and Melbourne and 6 more. Often billed alongside Khey Mysterio, Forest and Jan Loup. Next up: Poush, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Drawbridge is a techno and trance artist based in France, with 23 gigs on soundc
 
 Khey Mysterio, Forest, Jan Loup
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbridge/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbridge/)*

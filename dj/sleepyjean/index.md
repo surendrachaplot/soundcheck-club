@@ -1,6 +1,6 @@
 # Sleepy Jean
 
-Sleepy Jean is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at radial, London on Sun, 29 Nov 2026.
+Sleepy Jean is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at radial, London on Sun, 29 Nov 2026.
 
 Sleepy Jean is a house and electro artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, Touré and A For Alpha. Next up: radial, London on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Sleepy Jean is a house and electro artist based in United Kingdom, with 41 gigs 
 
 TSUNIMAN, Touré, A For Alpha
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*

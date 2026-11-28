@@ -1,6 +1,6 @@
 # AZA
 
-AZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Podlasie Club, Chicago on Fri, 4 Dec 2026.
+AZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Podlasie Club, Chicago on Fri, 4 Dec 2026.
 
 AZA is a techno and house artist based in United States of America, with 30 gigs on soundcheck across Amsterdam, Bali, Berlin and Brussels and 9 more. Often billed alongside Daniel Bell, Huey Mnemonic and BMG. Next up: Podlasie Club, Chicago on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ AZA is a techno and house artist based in United States of America, with 30 gigs
 
 Daniel Bell, Huey Mnemonic, BMG
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*

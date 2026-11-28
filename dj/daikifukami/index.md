@@ -1,6 +1,6 @@
 # Daiki Fukami
 
-Daiki Fukami is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 10 Dec 2026.
+Daiki Fukami is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 10 Dec 2026.
 
 Daiki Fukami is a house and disco artist based in Japan, with 10 gigs on soundcheck across Amsterdam, Tokyo and Utrecht. Often billed alongside Jiminal, Meniac and Diggy Doug. Next up: Radio Radio, Amsterdam on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Daiki Fukami is a house and disco artist based in Japan, with 10 gigs on soundch
 
 Jiminal (2), Meniac, Diggy Doug
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daikifukami/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daikifukami/)*

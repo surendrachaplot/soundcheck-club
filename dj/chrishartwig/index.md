@@ -1,6 +1,6 @@
 # Chris Hartwig
 
-Chris Hartwig is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 25 Dec 2026.
+Chris Hartwig is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 25 Dec 2026.
 
 Chris Hartwig is a tech house and techno artist based in Germany, with 5 gigs on soundcheck across Darmstadt and Frankfurt. Often billed alongside MRCL, Alicia Hahn and Anahit Vardanyan. Next up: Tanzhaus West, Frankfurt on Fri 25 Dec.
 
@@ -21,4 +21,4 @@ Chris Hartwig is a tech house and techno artist based in Germany, with 5 gigs on
 
 MRCL, Alicia Hahn, Anahit Vardanyan
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishartwig/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishartwig/)*

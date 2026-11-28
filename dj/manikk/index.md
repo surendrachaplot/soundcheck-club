@@ -1,6 +1,6 @@
 # Manikk
 
-Manikk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Unmute, Hanoi on Fri, 4 Dec 2026.
+Manikk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Unmute, Hanoi on Fri, 4 Dec 2026.
 
 Manikk is a techno and house artist based in Vietnam, with 78 gigs on soundcheck across Bangkok, Beijing, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside Di Linh, CONG and TaoFu. Next up: Unmute, Hanoi on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Manikk is a techno and house artist based in Vietnam, with 78 gigs on soundcheck
 
 Di Linh, CONG, TaoFu
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manikk/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manikk/)*

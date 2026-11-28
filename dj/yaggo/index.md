@@ -1,6 +1,6 @@
 # Yaggo
 
-Yaggo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bar Bodega, Liverpool on Fri, 4 Dec 2026.
+Yaggo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bar Bodega, Liverpool on Fri, 4 Dec 2026.
 
 Yaggo is a tech house and house artist based in Spain, with 9 gigs on soundcheck across Amsterdam, Liverpool, London and Manchester and 1 more. Often billed alongside Chapter 47, Abel Ramos and Blasterjaxx. Next up: Bar Bodega, Liverpool on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Yaggo is a tech house and house artist based in Spain, with 9 gigs on soundcheck
 
 Chapter 47, Abel Ramos, Blasterjaxx
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaggo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaggo/)*

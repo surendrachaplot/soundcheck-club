@@ -1,15 +1,14 @@
 # Pandora (1)
 
-Pandora (1) is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 4 Dec 2026.
+Pandora (1) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 4 Dec 2026.
 
-Pandora is a house and acid artist based in United Kingdom, with 13 gigs on soundcheck across Athens, Berlin, Leipzig and London and 1 more. Often billed alongside Juan Diego Drouet, bad_dubs and Aras. Next up: Zum Böhmischen Dorf, Berlin on Fri 4 Dec.
+Pandora is a house and acid artist based in United Kingdom, with 12 gigs on soundcheck across Athens, Berlin, London and Vienna. Often billed alongside Juan Diego Drouet, bad_dubs and Aras. Next up: Zum Böhmischen Dorf, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Zum Böhmischen Dorf | Berlin |
-| Sat, 16 Jan 2027 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Pandora is a house and acid artist based in United Kingdom, with 13 gigs on soun
 
 Juan Diego Drouet, bad_dubs, Aras
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pandora/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pandora/)*

@@ -1,6 +1,6 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at LOU, Rotterdam on Sat, 28 Nov 2026.
+DJ Tjizza is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at LOU, Rotterdam on Sat, 28 Nov 2026.
 
 DJ Tjizza is a house and tech house artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 29 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: LOU, Rotterdam on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ DJ Tjizza is a house and tech house artist based in Germany, with 89 gigs on sou
 
 Helly, SHAQUE, Velasco
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*

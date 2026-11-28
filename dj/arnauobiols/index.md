@@ -1,6 +1,6 @@
 # Arnau Obiols
 
-Arnau Obiols is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 4 Dec 2026.
+Arnau Obiols is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 4 Dec 2026.
 
 Arnau Obiols is a house and electronica artist based in Spain, with 106 gigs on soundcheck across Barcelona, Ibiza, London and Madrid. Often billed alongside Cucut, Arnau and Toni Aparisi. Next up: Say No More Madrid, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Arnau Obiols is a house and electronica artist based in Spain, with 106 gigs on 
 
 Cucut, Arnau, Toni Aparisi
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*

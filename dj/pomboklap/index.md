@@ -1,6 +1,6 @@
 # Pomboklap
 
-Pomboklap is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Lula Club, Madrid on Fri, 11 Dec 2026.
+Pomboklap is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lula Club, Madrid on Fri, 11 Dec 2026.
 
 Pomboklap is a house and afro house artist based in Spain, with 71 gigs on soundcheck across Barcelona, Ibiza, Lisbon and London and 2 more. Often billed alongside MËSTIZA, Maik Miroux and Torrione. Next up: Lula Club, Madrid on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Pomboklap is a house and afro house artist based in Spain, with 71 gigs on sound
 
 MËSTIZA, Maik Miroux, Torrione
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pomboklap/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pomboklap/)*

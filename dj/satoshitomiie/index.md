@@ -1,6 +1,6 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Modeci, Seoul on Sat, 28 Nov 2026.
+Satoshi Tomiie is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Modeci, Seoul on Sat, 28 Nov 2026.
 
 Satoshi Tomiie is a house and techno artist based in Japan, with 154 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 49 more. Often billed alongside Doudou MD, Tomoki Tamura and Kuniyuki. Next up: Modeci, Seoul on Sat 28 Nov.
 
@@ -33,4 +33,4 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 154 gigs on sou
 
 Doudou MD, Tomoki Tamura, Kuniyuki
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

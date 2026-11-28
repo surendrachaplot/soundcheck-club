@@ -1,6 +1,6 @@
 # Malesa
 
-Malesa is a Dub and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 28 Nov 2026.
+Malesa is a Dub and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mains D'œuvres, Paris on Sat, 28 Nov 2026.
 
 Malesa is a dub and trance artist based in France, with 9 gigs on soundcheck across Barcelona, Brussels, Nantes and Paris. Often billed alongside Akira Yamagata, Andrae Durden and Autumns. Next up: Mains D'œuvres, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Malesa is a dub and trance artist based in France, with 9 gigs on soundcheck acr
 
 Akira Yamagata, Andrae Durden, Autumns
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malesa/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malesa/)*

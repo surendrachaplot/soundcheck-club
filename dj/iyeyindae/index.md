@@ -1,6 +1,6 @@
 # IYE YIN DAE
 
-IYE YIN DAE is a Classical and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Salón Obregón (Alvaro Obregón 291, Roma Norte), Mexico City on Fri, 4 Dec 2026.
+IYE YIN DAE is a Classical and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Salón Obregón (Alvaro Obregón 291, Roma Norte), Mexico City on Fri, 4 Dec 2026.
 
 IYE YIN DAE is a classical and dancehall artist based in Mexico, with 48 gigs on soundcheck across Mexico City. Often billed alongside Black Daria, Dr. ADO and SAMIA. Next up: TBA - Salón Obregón (Alvaro Obregón 291, Roma Norte), Mexico City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ IYE YIN DAE is a classical and dancehall artist based in Mexico, with 48 gigs on
 
 Black Daria, Dr. ADO, SAMIA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyeyindae/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iyeyindae/)*

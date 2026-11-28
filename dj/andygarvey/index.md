@@ -1,6 +1,6 @@
 # Andy Garvey
 
-Andy Garvey is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Ancient World, Adelaide on Fri, 4 Dec 2026.
+Andy Garvey is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Ancient World, Adelaide on Fri, 4 Dec 2026.
 
 Andy Garvey is a techno and trance artist based in Australia, with 111 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 28 more. Often billed alongside DJ Scorpion, Konduku and Hasvat Informant. Next up: Ancient World, Adelaide on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Andy Garvey is a techno and trance artist based in Australia, with 111 gigs on s
 
 DJ Scorpion, Konduku, Hasvat Informant
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andygarvey/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andygarvey/)*

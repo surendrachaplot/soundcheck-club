@@ -1,6 +1,6 @@
 # Frucula
 
-Frucula is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BORIS CLUB, Barcelona on Mon, 7 Dec 2026.
+Frucula is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at BORIS CLUB, Barcelona on Mon, 7 Dec 2026.
 
 Frucula is a house and techno artist based in Spain, with 48 gigs on soundcheck across Barcelona. Often billed alongside MoonkiZa, Lupe Republic and Lea Corio. Next up: BORIS CLUB, Barcelona on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Frucula is a house and techno artist based in Spain, with 48 gigs on soundcheck 
 
 MoonkiZa, Lupe Republic, Lea Corio
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frucula/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frucula/)*

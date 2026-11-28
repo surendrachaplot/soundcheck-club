@@ -1,6 +1,6 @@
 # Map.ache
 
-Map.ache is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Neue Welle, Leipzig on Sat, 12 Dec 2026.
+Map.ache is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Neue Welle, Leipzig on Sat, 12 Dec 2026.
 
 Map.ache is a house and techno artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 28 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Neue Welle, Leipzig on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Map.ache is a house and techno artist based in Germany, with 107 gigs on soundch
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*

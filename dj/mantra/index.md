@@ -1,6 +1,6 @@
 # Mantra
 
-Mantra is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
+Mantra is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
 
 Mantra is a jungle and drum & bass artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 33 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: 26 Leake Street, London on Sat 28 Nov.
 
@@ -34,4 +34,4 @@ Mantra is a jungle and drum & bass artist based in United Kingdom, with 168 gigs
 
 Double O, Blackeye MC, Tim Reaper
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantra/)*

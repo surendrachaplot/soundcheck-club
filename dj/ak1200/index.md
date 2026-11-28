@@ -1,6 +1,6 @@
 # AK1200
 
-AK1200 is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Numbers, Houston on Sat, 5 Dec 2026.
+AK1200 is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Numbers, Houston on Sat, 5 Dec 2026.
 
 AK1200 is a drum & bass and jungle artist based in United States of America, with 9 gigs on soundcheck across Chicago, Detroit, Houston and Orlando and 2 more. Often billed alongside Dieselboy, Roni Size and DJ DARA. Next up: Numbers, Houston on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ AK1200 is a drum & bass and jungle artist based in United States of America, wit
 
 Dieselboy, Roni Size, DJ DARA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ak1200/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ak1200/)*

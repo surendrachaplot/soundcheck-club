@@ -1,11 +1,11 @@
-# SALÓN POSTCLUB - ANIVERSARIO #1 PORTAL SUR at TBA - Bodega 17 (Cll. 17 # 60B-48)
+# SALÓN POSTCLUB - ANIVERSARIO #1 PORTAL SUR at TBA - Bodega 17 (Cll. 17 # 68B-48)
 
-SALÓN POSTCLUB - ANIVERSARIO #1 PORTAL SUR at TBA - Bodega 17 (Cll. 17 # 60B-48) on Sat 5 Dec, Bogotá. 2 artists: Mística and Sonique. Ambient. See the line-up on soundcheck.
+SALÓN POSTCLUB - ANIVERSARIO #1 PORTAL SUR at TBA - Bodega 17 (Cll. 17 # 68B-48) on Sat 5 Dec, Bogotá. 2 artists: Mística and Sonique. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 5 Dec 2026 |
-| Venue | TBA - Bodega 17 (Cll. 17 # 60B-48) |
+| Venue | TBA - Bodega 17 (Cll. 17 # 68B-48) |
 | City | Bogotá |
 
 ## Line-up

@@ -1,14 +1,13 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "RUSH" on Fri, 27 Nov 2026.
+MS Stubnitz is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "STUDIO 69 w/ Plattenlieferant, Sophti, Roof, HiHat, CHIEF QUEEF, Cufme, Wall Ra, DJ Business" on Sat, 28 Nov 2026.
 
-MS Stubnitz is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including AMRTUM, AFAR, Alex Benz and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
+MS Stubnitz is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including AFAR, CHIEF QUEEF, Cufme and Dis Fig and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | RUSH | AMRTUM, Alex Benz, VOICEX, co:co, unjani |
 | Sat, 28 Nov 2026 | STUDIO 69 w/ Plattenlieferant, Sophti, Roof, HiHat, CHIEF QUEEF, Cufme, Wall Ra, DJ Business | CHIEF QUEEF, Cufme, DJ Business (2), HiHat, Plattenlieferant, Roof (2), Sophti, Wall Ra |
 | Sun, 29 Nov 2026 | Blanco Teta (ar), Blowjobs are Realjobs |  |
 | Tue, 1 Dec 2026 | AFAR, Anadol | AFAR |
@@ -22,4 +21,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, w
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

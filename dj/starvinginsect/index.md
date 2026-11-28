@@ -1,6 +1,6 @@
 # Starving Insect
 
-Starving Insect is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Mia Mao, Paris on Fri, 15 Jan 2027.
+Starving Insect is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mia Mao, Paris on Fri, 15 Jan 2027.
 
 Starving Insect is a techno and hardcore artist based in Sweden, with 8 gigs on soundcheck across Montreal, Paris, Rotterdam and Stockholm and 2 more. Often billed alongside Miyuki Omura, Ophidian and SOVA_. Next up: Mia Mao, Paris on Fri 15 Jan.
 
@@ -24,4 +24,4 @@ Starving Insect is a techno and hardcore artist based in Sweden, with 8 gigs on 
 
 Miyuki Omura, Ophidian, SOVA_
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starvinginsect/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starvinginsect/)*

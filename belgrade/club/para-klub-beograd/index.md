@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Sunday with KRШ" on Sun, 29 Nov 2026.
+Para Klub Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Sunday with KRШ" on Sun, 29 Nov 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming gigs, with line-ups including Alek S, aleksssa, Ali Guney and Asarri and 2 more. See dates, start times and who's playing. Cetinjska 15.
 
@@ -17,4 +17,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

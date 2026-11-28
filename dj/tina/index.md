@@ -1,8 +1,8 @@
 # tina
 
-tina is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at BMX Warehouse, Malta on Sat, 12 Dec 2026.
+tina is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at BMX Warehouse, Malta on Sat, 12 Dec 2026.
 
-tina is a techno and experimental artist, with 13 gigs on soundcheck across Malta. Often billed alongside Joshua Calleja, OBLX and Spork. Next up: BMX Warehouse, Malta on Sat 12 Dec.
+tina is a techno and experimental artist based in Malta, with 13 gigs on soundcheck across Malta. Often billed alongside Joshua Calleja, OBLX and Spork. Next up: BMX Warehouse, Malta on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ tina is a techno and experimental artist, with 13 gigs on soundcheck across Malt
 
 Joshua Calleja, OBLX, Spork
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tina/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tina/)*

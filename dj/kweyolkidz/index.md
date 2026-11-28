@@ -1,6 +1,6 @@
 # kwèyólkidz
 
-kwèyólkidz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Exley, New York City on Sat, 28 Nov 2026.
+kwèyólkidz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Exley, New York City on Sat, 28 Nov 2026.
 
 kwèyólkidz is a house and disco artist based in United States of America, with 9 gigs on soundcheck across Berlin, London and New York City. Often billed alongside Stevo Blaque, Analog Soul and Brian Rojas. Next up: The Exley, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ kwèyólkidz is a house and disco artist based in United States of America, with
 
 Stevo Blaque, Analog Soul, Brian Rojas
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kweyolkidz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kweyolkidz/)*

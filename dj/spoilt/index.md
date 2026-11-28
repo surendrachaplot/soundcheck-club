@@ -1,6 +1,6 @@
 # SPOILT
 
-SPOILT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 25 Nov 2026. Next at Mansions Potts Point, Sydney on Fri, 11 Dec 2026.
+SPOILT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Mansions Potts Point, Sydney on Fri, 11 Dec 2026.
 
 SPOILT is a techno and hardcore artist based in Australia, with 5 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside ONARSÉ, <777> and Bleach. Next up: Mansions Potts Point, Sydney on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ SPOILT is a techno and hardcore artist based in Australia, with 5 gigs on soundc
 
 ONARSÉ, <777>, Bleach
 
-*Updated Wed, 25 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spoilt/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spoilt/)*

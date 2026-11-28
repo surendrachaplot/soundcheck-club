@@ -1,6 +1,6 @@
 # RRUDEGIRLLL
 
-RRUDEGIRLLL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat, 19 Dec 2026.
+RRUDEGIRLLL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat, 19 Dec 2026.
 
 RRUDEGIRLLL is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Nina Pixina, Iyesha and LOVECAT. Next up: TBA - Algha Works: Living Womb, Not For Sale Gallery, Rhizomatic, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ RRUDEGIRLLL is a techno and house artist based in United Kingdom, with 14 gigs o
 
 Nina Pixina, Iyesha, LOVECAT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrudegirlll/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rrudegirlll/)*

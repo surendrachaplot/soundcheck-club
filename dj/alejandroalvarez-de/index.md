@@ -1,6 +1,6 @@
 # Alejandro Alvarez
 
-Alejandro Alvarez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Bollwerk Cologne, Cologne on Sat, 19 Dec 2026.
+Alejandro Alvarez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Bollwerk Cologne, Cologne on Sat, 19 Dec 2026.
 
 Alejandro Alvarez is a techno and house artist based in Portugal, with 21 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 1 more. Often billed alongside DJ MANU (MUNICH), Alalkih and Ezekiel (DE). Next up: Bollwerk Cologne, Cologne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Alejandro Alvarez is a techno and house artist based in Portugal, with 21 gigs o
 
 DJ MANU (MUNICH), Alalkih, Ezekiel (DE)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroalvarez-de/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroalvarez-de/)*

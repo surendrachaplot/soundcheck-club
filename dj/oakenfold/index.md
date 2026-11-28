@@ -1,14 +1,15 @@
 # Paul Oakenfold
 
-Paul Oakenfold is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Gallery, London on Fri, 4 Dec 2026.
+Paul Oakenfold is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Gallery, London on Fri, 4 Dec 2026.
 
-Paul Oakenfold is a trance and house artist based in United Kingdom, with 52 gigs on soundcheck across Athens, Atlanta, Bali and Baltimore and 24 more. Often billed alongside The Crystal Method, Jason Bye and Infected Mushroom. Next up: Gallery, London on Fri 4 Dec.
+Paul Oakenfold is a trance and house artist based in United Kingdom, with 53 gigs on soundcheck across Athens, Atlanta, Bali and Baltimore and 25 more. Often billed alongside The Crystal Method, Jason Bye and Infected Mushroom. Next up: Gallery, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Gallery | London |
+| Fri, 18 Dec 2026 | Index | Dublin |
 | Fri, 5 Feb 2027 | The Bellwether | Los-angeles |
 | Sat, 6 Mar 2027 | Port Beach Brewery | Perth |
 
@@ -27,4 +28,4 @@ Paul Oakenfold is a trance and house artist based in United Kingdom, with 52 gig
 
 The Crystal Method, Jason Bye, Infected Mushroom
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*

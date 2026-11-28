@@ -1,6 +1,6 @@
 # Bodin
 
-Bodin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 1 Jan 2027.
+Bodin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 1 Jan 2027.
 
 Bodin is a techno and house artist, with 20 gigs on soundcheck across Belgrade, Berlin, Bucharest and Frankfurt and 4 more. Often billed alongside Philipp Fritz, GERKE and Alice (AT). Next up: Platforma Wolff, Bucharest on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Bodin is a techno and house artist, with 20 gigs on soundcheck across Belgrade, 
 
 Philipp Fritz, GERKE, Alice (AT)
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodin/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodin/)*

@@ -1,6 +1,6 @@
 # Mystic Bill
 
-Mystic Bill is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Mystic Bill is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Mystic Bill is a house and disco artist based in United States of America, with 53 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Danny Daze, Terence Tabeau and Sister System. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Mystic Bill is a house and disco artist based in United States of America, with 
 
 Danny Daze, Terence Tabeau, Sister System
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*

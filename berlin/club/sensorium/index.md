@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Senso Nacht" on Fri, 27 Nov 2026.
+Sensorium is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "TECHNO MITTWOCH" on Wed, 2 Dec 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including ALICA RØUGH, Alina Viktoria, André Skuda and Angel Cat and 2 more. See dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -8,9 +8,9 @@ Sensorium is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Senso Nacht | Camilla Tarantino, Loco (IT), NORA (BR), Stallo, Viktor Kampf, Zokiren |
 | Wed, 2 Dec 2026 | TECHNO MITTWOCH | April the pink, Fran Lezaun, JORDVN PRINCE, Lars Löffler, Michael Marchi, Pablo Cantuarias, Thyrse, VivaLaDustin, d4ia, shakesbiier |
 | Fri, 4 Dec 2026 | Heißcreme by BBTD | Alina Viktoria, Annakonda, ChéRebel, Dudulina, EVYA, Julka (2), KIVII, Karolanne, MAXIMUS., VEGANICECREAM |
+| Sat, 5 Dec 2026 | FIRE & WATER NIGHT: Cocreativerse × Oriental Nights |  |
 | Sun, 6 Dec 2026 | TRIG |  |
 | Wed, 9 Dec 2026 | TECHNO MITTWOCH | ASTRANA, Bloodkedelic, Dudulina, Grippe, J.A.S, Julka (2), KIVII, Pozzy, Røsenwasser, Timoka |
 | Sat, 12 Dec 2026 | SENSO NACHT |  |
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, wit
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

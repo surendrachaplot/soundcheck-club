@@ -1,6 +1,6 @@
 # SOLTERA
 
-SOLTERA is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
+SOLTERA is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
 
 SOLTERA is a house and club artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Barcelona, Brisbane and Denver and 11 more. Often billed alongside 1tbsp, Killian and Bitter Babe. Next up: TBA - DTLA, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SOLTERA is a house and club artist based in United States of America, with 35 gi
 
 1tbsp, Killian, Bitter Babe
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*

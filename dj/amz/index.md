@@ -1,6 +1,6 @@
 # Amz
 
-Amz is a Dubstep and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Amz is a Dubstep and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Amz is a dubstep and garage artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Bristol, Croatia and Utrecht. Often billed alongside Lily Huu, IZZIT and Dorpy. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Amz is a dubstep and garage artist based in United Kingdom, with 23 gigs on soun
 
 Lily Huu, IZZIT, Dorpy
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amz/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amz/)*

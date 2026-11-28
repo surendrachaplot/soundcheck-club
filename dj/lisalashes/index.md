@@ -1,6 +1,6 @@
 # Lisa Lashes
 
-Lisa Lashes is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Charlies Loft, Glasgow on Sun, 27 Dec 2026.
+Lisa Lashes is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Charlies Loft, Glasgow on Sun, 27 Dec 2026.
 
 Lisa Lashes is a trance and house artist based in United Kingdom, with 9 gigs on soundcheck across Aberdeen, Birmingham, Dublin and Glasgow and 4 more. Often billed alongside Judge Jules, Lange and Anne Savage. Next up: Charlies Loft, Glasgow on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Lisa Lashes is a trance and house artist based in United Kingdom, with 9 gigs on
 
 Judge Jules, Lange, Anne Savage
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisalashes/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisalashes/)*

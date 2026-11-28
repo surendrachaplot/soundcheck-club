@@ -1,6 +1,6 @@
 # Picnic x Les Enfants Brilliants at BRET
 
-Picnic x Les Enfants Brilliants at BRET on Sat 28 Nov, Amsterdam. 5 artists: Alex Dima, Alexia Glensy, Andy Luff and Gabbs and 1 more. House and Electro. See the line-up on soundcheck.
+Picnic x Les Enfants Brilliants at BRET on Sat 28 Nov, Amsterdam. 6 artists: Alex (ES), Alex Dima, Alexia Glensy and Andy Luff and 2 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Picnic x Les Enfants Brilliants at BRET on Sat 28 Nov, Amsterdam. 5 artists: Ale
 
 ## Line-up
 
+- Alex (ES)
 - Alex Dima
 - Alexia Glensy
 - Andy Luff

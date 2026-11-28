@@ -1,6 +1,6 @@
 # Discotchari
 
-Discotchari is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Airliner, Los Angeles on Fri, 4 Dec 2026.
+Discotchari is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Airliner, Los Angeles on Fri, 4 Dec 2026.
 
 Discotchari is a disco and electro artist, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Resurrêction, CFCF and Colloboh. Next up: The Airliner, Los Angeles on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Discotchari is a disco and electro artist, with 9 gigs on soundcheck across Los 
 
 Resurrêction, CFCF, Colloboh
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discotchari/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/discotchari/)*

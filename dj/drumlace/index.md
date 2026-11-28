@@ -1,6 +1,6 @@
 # Drum & Lace
 
-Drum & Lace is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Vittoria Wharf Studio, London on Mon, 14 Dec 2026.
+Drum & Lace is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Vittoria Wharf Studio, London on Mon, 14 Dec 2026.
 
 Drum & Lace are an ambient and electronica duo based in Italy, with 10 gigs on soundcheck across London and New York City. Often billed alongside elisa, Tommy Value and Giulia Tess. Next up: Vittoria Wharf Studio, London on Mon 14 Dec.
 
@@ -25,4 +25,4 @@ Drum & Lace are an ambient and electronica duo based in Italy, with 10 gigs on s
 
 elisa (3), Tommy Value, Giulia Tess
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drumlace/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drumlace/)*

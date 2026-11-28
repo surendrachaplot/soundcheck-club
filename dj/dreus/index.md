@@ -1,6 +1,6 @@
 # Dreus
 
-Dreus is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Maze Venue, Cyprus on Sat, 26 Dec 2026.
+Dreus is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Maze Venue, Cyprus on Sat, 26 Dec 2026.
 
 Dreus is a hardcore and techno artist based in Cyprus, with 8 gigs on soundcheck across Cyprus, Moscow, Sofia and Wroclaw. Often billed alongside Penny K, Rakoto and SKORPINA. Next up: Maze Venue, Cyprus on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ Dreus is a hardcore and techno artist based in Cyprus, with 8 gigs on soundcheck
 
 Penny K, Rakoto, SKORPINA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreus/)*

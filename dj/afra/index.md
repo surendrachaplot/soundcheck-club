@@ -1,6 +1,6 @@
 # Afra
 
-Afra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 28 Nov 2026.
+Afra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 28 Nov 2026.
 
 Afra is a techno and house artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: Reactor Shanghai, Shanghai on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Afra is a techno and house artist based in Netherlands, with 126 gigs on soundch
 
 Serge, Mary Lake, TWIENA
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*

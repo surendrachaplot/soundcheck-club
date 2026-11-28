@@ -1,6 +1,6 @@
 # La Mala Noche
 
-La Mala Noche is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
+La Mala Noche is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Monkey Loft, Seattle on Fri, 1 Jan 2027.
 
 La Mala Noche is a techno and house artist, with 44 gigs on soundcheck across Los Angeles, Portland and Seattle. Often billed alongside Tony H, ACHAMA and Claudia LB. Next up: The Monkey Loft, Seattle on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ La Mala Noche is a techno and house artist, with 44 gigs on soundcheck across Lo
 
 Tony H, ACHAMA, Claudia LB
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalanoche/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalanoche/)*

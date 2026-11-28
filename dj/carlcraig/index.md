@@ -1,15 +1,13 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Carl Craig is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Lincoln Factory, Detroit on Sat, 28 Nov 2026.
 
-Carl Craig is a house and techno artist based in United States of America, with 306 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Verbier, Switzerland on Fri 20 Nov.
+Carl Craig is a house and techno artist based in United States of America, with 306 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Lincoln Factory, Detroit on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Verbier | Switzerland |
-| Fri, 27 Nov 2026 | BERHTA | Washington DC |
 | Sat, 28 Nov 2026 | Lincoln Factory | Detroit |
 | Fri, 4 Dec 2026 | Night Tales | London |
 | Fri, 11 Dec 2026 | Kult | Belgrade |
@@ -21,6 +19,7 @@ Carl Craig is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- BERHTA, Washington DC · Fri, 27 Nov 2026
 - Verbier, Switzerland · Fri, 20 Nov 2026
 - Parque Fundidora, Monterrey · Fri, 13 Nov 2026
 - Topazdeluxe, Monterrey · Fri, 13 Nov 2026
@@ -28,10 +27,9 @@ Carl Craig is a house and techno artist based in United States of America, with 
 - Madam, Amsterdam · Sat, 24 Oct 2026
 - Thuishaven, Amsterdam · Thu, 22 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
-- TBA, Los Angeles · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

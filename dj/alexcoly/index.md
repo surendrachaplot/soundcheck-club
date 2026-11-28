@@ -1,6 +1,6 @@
 # Alex Coly
 
-Alex Coly is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 17 Dec 2026.
+Alex Coly is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Radio Radio, Amsterdam on Thu, 17 Dec 2026.
 
 Alex Coly is a house and deep house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Travis Allen, Rob Black and Raven Karijo. Next up: Radio Radio, Amsterdam on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Alex Coly is a house and deep house artist based in Netherlands, with 10 gigs on
 
 Travis Allen, Rob Black, Raven Karijo
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcoly/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcoly/)*

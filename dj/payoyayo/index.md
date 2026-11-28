@@ -1,6 +1,6 @@
 # PayoYayo
 
-PayoYayo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
+PayoYayo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at K-Bar Powiśle, Warsaw on Sat, 28 Nov 2026.
 
 PayoYayo is a techno and bass artist based in Poland, with 50 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, bolo and Kobayashkn. Next up: K-Bar Powiśle, Warsaw on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ PayoYayo is a techno and bass artist based in Poland, with 50 gigs on soundcheck
 
 Abrew, bolo, Kobayashkn
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/payoyayo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/payoyayo/)*

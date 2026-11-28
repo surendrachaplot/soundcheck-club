@@ -1,6 +1,6 @@
 # elle xxo
 
-elle xxo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Newtown Radio, New York City on Fri, 4 Dec 2026.
+elle xxo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Newtown Radio, New York City on Fri, 4 Dec 2026.
 
 elle xxo is a techno and house artist based in United States of America, with 36 gigs on soundcheck across New York City. Often billed alongside Aleska, Crush Club and Cowgrrrl. Next up: Newtown Radio, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ elle xxo is a techno and house artist based in United States of America, with 36
 
 Aleska, Crush Club, Cowgrrrl
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*

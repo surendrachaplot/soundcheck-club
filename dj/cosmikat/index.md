@@ -1,6 +1,6 @@
 # CosmiKat
 
-CosmiKat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
+CosmiKat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Void Club, Berlin on Sat, 19 Dec 2026.
 
 CosmiKat is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nat SuPrise, ZweiE and Andrea Marino. Next up: Void Club, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ CosmiKat is a techno and house artist based in Germany, with 28 gigs on soundche
 
 Nat SuPrise, ZweiE, Andrea Marino
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*

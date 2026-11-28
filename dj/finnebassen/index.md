@@ -1,6 +1,6 @@
 # Finnebassen
 
-Finnebassen is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Villa, Oslo on Sat, 19 Dec 2026.
+Finnebassen is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Villa, Oslo on Sat, 19 Dec 2026.
 
 Finnebassen is a house and deep house artist based in Norway, with 24 gigs on soundcheck across London, Malta, Manchester and Melbourne and 1 more. Often billed alongside G-HA, Olanskii and George Mensah. Next up: The Villa, Oslo on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Finnebassen is a house and deep house artist based in Norway, with 24 gigs on so
 
 G-HA, Olanskii, George Mensah
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnebassen/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finnebassen/)*

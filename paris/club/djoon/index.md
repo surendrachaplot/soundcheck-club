@@ -1,14 +1,13 @@
 # Djoon
 
-Djoon is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "Laila Amira, WheelUP, Yambow" on Fri, 27 Nov 2026.
+Djoon is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "Make House Deep Again: Saint Lukez & Max Sinàl" on Sat, 28 Nov 2026.
 
-Djoon is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Chris Thomas, CTRLZORA, Groove Boys Project and Kapela and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
+Djoon is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Chris Thomas, CTRLZORA, Groove Boys Project and Kapela and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Laila Amira, WheelUP, Yambow | Laila Amira, WheelUP, Yambow |
 | Sat, 28 Nov 2026 | Make House Deep Again: Saint Lukez & Max Sinàl | Max Sinàl, Saint Lukez |
 | Fri, 4 Dec 2026 | Groove Boys Project: 9 YEARS ANNIVERSARY | Groove Boys Project |
 | Sat, 5 Dec 2026 | DJ Miche & Santa Leticia ALL NIGHT LONG | Miche, Santa Leticia |
@@ -19,4 +18,4 @@ Djoon is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

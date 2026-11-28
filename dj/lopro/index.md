@@ -1,6 +1,6 @@
 # Lopro
 
-Lopro is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+Lopro is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 Lopro is a techno and psytrance artist based in Australia, with 5 gigs on soundcheck across Sydney. Often billed alongside Quakes, I.C.Y and Autogenesis. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Lopro is a techno and psytrance artist based in Australia, with 5 gigs on soundc
 
 Quakes, I.C.Y, Autogenesis
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lopro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lopro/)*

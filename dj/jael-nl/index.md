@@ -1,6 +1,6 @@
 # JAEL
 
-JAEL is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Unit, Tokyo on Thu, 31 Dec 2026.
+JAEL is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Unit, Tokyo on Thu, 31 Dec 2026.
 
 JAEL is a house and bass artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 37 more. Often billed alongside p-rallel, Champion and Chloé Caillet. Next up: Unit, Tokyo on Thu 31 Dec.
 
@@ -27,4 +27,4 @@ JAEL is a house and bass artist based in Netherlands, with 104 gigs on soundchec
 
 p-rallel, Champion, Chloé Caillet
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*

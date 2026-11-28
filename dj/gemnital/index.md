@@ -1,6 +1,6 @@
 # Gemnital
 
-Gemnital is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Elsewhere, Bangkok on Tue, 29 Dec 2026.
+Gemnital is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Elsewhere, Bangkok on Tue, 29 Dec 2026.
 
 Gemnital is a techno and house artist based in Taiwan, with 112 gigs on soundcheck across Bangkok, Beijing, Berlin and Hanoi and 6 more. Often billed alongside Jesse Chen, L-CC and Tsui. Next up: Elsewhere, Bangkok on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Gemnital is a techno and house artist based in Taiwan, with 112 gigs on soundche
 
 Jesse Chen, L-CC, Tsui
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemnital/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gemnital/)*

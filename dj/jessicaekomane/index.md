@@ -1,6 +1,6 @@
 # Jessica Ekomane
 
-Jessica Ekomane is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
+Jessica Ekomane is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
 
 Jessica Ekomane is an experimental and techno artist based in France, with 16 gigs on soundcheck across Austria, Basel, Bergen and Berlin and 5 more. Often billed alongside KMRU, AFRORACK and Zoë Mc Pherson. Next up: Dom im Berg, Austria on Thu 4 Mar.
 
@@ -25,4 +25,4 @@ Jessica Ekomane is an experimental and techno artist based in France, with 16 gi
 
 KMRU, AFRORACK, Zoë Mc Pherson
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicaekomane/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicaekomane/)*

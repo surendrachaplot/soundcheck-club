@@ -1,14 +1,13 @@
 # Laze
 
-Laze is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Le Sucre, Lyon on Fri, 27 Nov 2026.
+Laze is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-Laze is a techno and trance artist based in France, with 101 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 21 more. Often billed alongside Faster Horses, Azyr and LB aka LABAT. Next up: Le Sucre, Lyon on Fri 27 Nov.
+Laze is a techno and trance artist based in France, with 101 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 21 more. Often billed alongside Faster Horses, Azyr and LB aka LABAT. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Le Sucre | Lyon |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | Le Trabendo | Paris |
 | Fri, 4 Dec 2026 | Le Trabendo | Paris |
@@ -18,6 +17,7 @@ Laze is a techno and trance artist based in France, with 101 gigs on soundcheck 
 
 ## Recently played
 
+- Le Sucre, Lyon · Fri, 27 Nov 2026
 - FVTVR, Paris · Sat, 21 Nov 2026
 - FVTVR, Paris · Sat, 21 Nov 2026
 - La Gravière, Geneva · Fri, 20 Nov 2026
@@ -25,10 +25,9 @@ Laze is a techno and trance artist based in France, with 101 gigs on soundcheck 
 - La Belle Électrique, South-east · Sat, 17 Oct 2026
 - Hidden, Manchester · Fri, 18 Sept 2026
 - Virage, Paris · Thu, 9 Jul 2026
-- Virage, Paris · Thu, 9 Jul 2026
 
 ## Shares bills with
 
 Faster Horses, Azyr, LB aka LABAT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*

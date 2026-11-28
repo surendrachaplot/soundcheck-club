@@ -1,6 +1,6 @@
 # Ascalypso
 
-Ascalypso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Upsidedown, Osaka on Fri, 18 Dec 2026.
+Ascalypso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Upsidedown, Osaka on Fri, 18 Dec 2026.
 
 Ascalypso is a techno and house artist based in Japan, with 54 gigs on soundcheck across Chengdu, Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Limited Toss and Lomax. Next up: Upsidedown, Osaka on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ascalypso is a techno and house artist based in Japan, with 54 gigs on soundchec
 
 KA4U, Limited Toss, Lomax
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ascalypso/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ascalypso/)*

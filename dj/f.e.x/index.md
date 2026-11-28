@@ -1,6 +1,6 @@
 # F.E.X
 
-F.E.X is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at Underclub, Alicante on Fri, 4 Dec 2026.
+F.E.X is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Underclub, Alicante on Fri, 4 Dec 2026.
 
 F.E.X is a tech house and house artist based in France, with 5 gigs on soundcheck across Alicante, Madrid and Paris. Often billed alongside Giorgio Robles, Human Halo and Nemec. Next up: Underclub, Alicante on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ F.E.X is a tech house and house artist based in France, with 5 gigs on soundchec
 
 Giorgio Robles, Human Halo, Nemec
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f.e.x/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/f.e.x/)*

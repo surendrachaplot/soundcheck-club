@@ -1,6 +1,6 @@
 # Sweetpea
 
-Sweetpea is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+Sweetpea is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
 
 Sweetpea is a drum & bass and jungle artist based in United Kingdom, with 61 gigs on soundcheck across Berlin, Brighton, Bristol and Edinburgh and 10 more. Often billed alongside Decibella, Mantra and DJ Flight. Next up: The Prospect Building, Bristol on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Sweetpea is a drum & bass and jungle artist based in United Kingdom, with 61 gig
 
 Decibella, Mantra, DJ Flight
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*

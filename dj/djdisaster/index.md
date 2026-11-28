@@ -1,6 +1,6 @@
 # DJ Disaster
 
-DJ Disaster is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Prisma, Berlin on Sun, 13 Dec 2026.
+DJ Disaster is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Prisma, Berlin on Sun, 13 Dec 2026.
 
 DJ Disaster is a house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside DOLTER, Egress and High Protocol. Next up: Prisma, Berlin on Sun 13 Dec.
 
@@ -22,4 +22,4 @@ DJ Disaster is a house artist based in Germany, with 6 gigs on soundcheck across
 
 DOLTER, Egress, High Protocol
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisaster/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisaster/)*

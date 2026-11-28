@@ -1,6 +1,6 @@
 # briandemodulated
 
-briandemodulated is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 26 Nov 2026. Next at The Wych, Toronto on Sat, 28 Nov 2026.
+briandemodulated is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at The Wych, Toronto on Sat, 28 Nov 2026.
 
 briandemodulated is a drum & bass and techno artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside 25ohms, Audi Étoffe and FizzX. Next up: The Wych, Toronto on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ briandemodulated is a drum & bass and techno artist based in Canada, with 5 gigs
 
 25ohms, Audi Étoffe, FizzX
 
-*Updated Thu, 26 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briandemodulated/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briandemodulated/)*

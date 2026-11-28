@@ -1,6 +1,6 @@
 # Videocentro
 
-Videocentro is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
+Videocentro is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Departamento, Mexico City on Wed, 25 Nov 2026.
 
 Videocentro is a house and deep house artist based in Mexico, with 19 gigs on soundcheck across Mexico City. Often billed alongside Barreto, Alejandro Veneno and Disco 86. Next up: Departamento, Mexico City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Videocentro is a house and deep house artist based in Mexico, with 19 gigs on so
 
 Barreto, Alejandro Veneno, Disco 86
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/videocentro/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/videocentro/)*

@@ -1,14 +1,15 @@
 # DJ P€gga$u$
 
-DJ P€gga$u$ is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Big Table, Athens on Fri, 11 Dec 2026.
+DJ P€gga$u$ is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Big Table, Athens on Fri, 11 Dec 2026.
 
-DJ P€gga$u$ is a club and bass artist based in Greece, with 9 gigs on soundcheck across Athens. Often billed alongside Nicol Bolas, GORO and Onarrivenow. Next up: Big Table, Athens on Fri 11 Dec.
+DJ P€gga$u$ is an experimental and electronica artist based in Greece, with 10 gigs on soundcheck across Athens and Bucharest. Often billed alongside Nicol Bolas, GORO and Onarrivenow. Next up: Big Table, Athens on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Big Table | Athens |
+| Sat, 19 Dec 2026 | control | Bucharest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ P€gga$u$ is a club and bass artist based in Greece, with 9 gigs on soundche
 
 Nicol Bolas, GORO, Onarrivenow
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeggassus/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeggassus/)*

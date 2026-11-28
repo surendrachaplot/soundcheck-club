@@ -1,6 +1,6 @@
 # Ugo Leone
 
-Ugo Leone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Millenium Club, Bologna on Sat, 19 Dec 2026.
+Ugo Leone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Millenium Club, Bologna on Sat, 19 Dec 2026.
 
 Ugo Leone is a house and techno artist based in Italy, with 15 gigs on soundcheck across Barcelona, Bologna and Brussels. Often billed alongside Goodjacobbe, DJ Rou and Matisa. Next up: Millenium Club, Bologna on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Ugo Leone is a house and techno artist based in Italy, with 15 gigs on soundchec
 
 Goodjacobbe, DJ Rou, Matisa
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugoleone/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ugoleone/)*

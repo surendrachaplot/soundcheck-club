@@ -1,6 +1,6 @@
 # Emel
 
-Emel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Emel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Emel is a house and techno artist based in Philippines, with 54 gigs on soundcheck across Bangkok, Bangladesh, Beijing and Berlin and 14 more. Often billed alongside Ouissam, Saint Guel and DOTT. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Emel is a house and techno artist based in Philippines, with 54 gigs on soundche
 
 Ouissam, Saint Guel, DOTT
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*

@@ -1,6 +1,6 @@
 # Anikha
 
-Anikha is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
+Anikha is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at M7 Club, Barcelona on Fri, 11 Dec 2026.
 
 Anikha is a techno and tech house artist based in Spain, with 35 gigs on soundcheck across Barcelona. Often billed alongside Jazz K, NIIXII and in:control. Next up: M7 Club, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Anikha is a techno and tech house artist based in Spain, with 35 gigs on soundch
 
 Jazz K, NIIXII, in:control
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anikha/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anikha/)*

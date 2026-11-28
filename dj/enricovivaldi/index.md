@@ -1,18 +1,19 @@
 # Enrico Vivaldi
 
-Enrico Vivaldi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at The DBA, Manchester on Fri, 27 Nov 2026.
+Enrico Vivaldi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Sun, 6 Dec 2026.
 
-Enrico Vivaldi is a techno and house artist based in Italy, with 96 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 11 more. Often billed alongside Psycho Mind Transmission, Inner Lakes and Dario Lem. Next up: The DBA, Manchester on Fri 27 Nov.
+Enrico Vivaldi is a techno and house artist based in Italy, with 97 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 11 more. Often billed alongside Psycho Mind Transmission, Inner Lakes and Dario Lem. Next up: CGM - Club Giovanile Milano, Milan on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | The DBA | Manchester |
+| Sun, 6 Dec 2026 | CGM - Club Giovanile Milano | Milan |
 | Sun, 6 Dec 2026 | CGM - Club Giovanile Milano | Milan |
 
 ## Recently played
 
+- The DBA, Manchester · Fri, 27 Nov 2026
 - DURO, Milan · Sat, 14 Nov 2026
 - Luma, Milan · Sat, 31 Oct 2026
 - 303 Audiophile Bar, Barcelona · Fri, 23 Oct 2026
@@ -20,10 +21,9 @@ Enrico Vivaldi is a techno and house artist based in Italy, with 96 gigs on soun
 - Lanificio 159, Rome · Fri, 9 Oct 2026
 - DURO, Milan · Fri, 11 Sept 2026
 - DURO, Milan · Fri, 11 Sept 2026
-- Asd Laghi Carcana, Milan · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Psycho Mind Transmission, Inner Lakes, Dario Lem
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricovivaldi/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricovivaldi/)*

@@ -1,6 +1,6 @@
 # DJ Suzy
 
-DJ Suzy is a Jungle and R&B artist with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+DJ Suzy is a Jungle and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 DJ Suzy is a jungle and r&b artist based in Sweden, with 2 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside Antony Szmierek, Bella Sarris and Bogeyman. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -11,8 +11,12 @@ DJ Suzy is a jungle and r&b artist based in Sweden, with 2 gigs on soundcheck ac
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Fri, 11 Dec 2026 | Pustervik | Gothenburg |
 
+## Recently played
+
+- Stinsen, Stockholm · Fri, 27 Nov 2026
+
 ## Shares bills with
 
 Antony Szmierek, Bella Sarris, Bogeyman
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsuzy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsuzy/)*

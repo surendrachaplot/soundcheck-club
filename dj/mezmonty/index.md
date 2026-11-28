@@ -1,6 +1,6 @@
 # Mez Monty
 
-Mez Monty is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 4 Dec 2026.
+Mez Monty is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 4 Dec 2026.
 
 Mez Monty is a house and techno artist based in United States of America, with 106 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Chicago and 18 more. Often billed alongside Shane Thomas, Sevyn and Eli Escobar. Next up: TBA - Los Angeles, Los Angeles on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Mez Monty is a house and techno artist based in United States of America, with 1
 
 Shane Thomas, Sevyn, Eli Escobar
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*

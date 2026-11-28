@@ -1,13 +1,14 @@
 # Toolate Groove
 
-Toolate Groove is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Shelter Antwerp, Antwerp on Fri, 18 Dec 2026.
+Toolate Groove is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Village Underground, London on Sat, 28 Nov 2026.
 
-Toolate Groove is a house and deep house artist based in Belgium, with 38 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 4 more. Often billed alongside Bass Toast, EG and Fiona Zanetti. Next up: Shelter Antwerp, Antwerp on Fri 18 Dec.
+Toolate Groove is a house and deep house artist based in Belgium, with 39 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 5 more. Often billed alongside Bass Toast, EG and Fiona Zanetti. Next up: Village Underground, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Village Underground | London |
 | Fri, 18 Dec 2026 | Shelter Antwerp | Antwerp |
 
 ## Recently played
@@ -25,4 +26,4 @@ Toolate Groove is a house and deep house artist based in Belgium, with 38 gigs o
 
 Bass Toast, EG (1), Fiona Zanetti
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toolategroove/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toolategroove/)*

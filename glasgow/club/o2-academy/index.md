@@ -1,6 +1,6 @@
 # O2 Academy
 
-O2 Academy is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Fri, 27 Nov 2026. The next is "JAZZY + MR. POLSKA" on Fri, 11 Dec 2026.
+O2 Academy is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. The next is "JAZZY + MR. POLSKA" on Fri, 11 Dec 2026.
 
 O2 Academy is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including Bmberjck and Sickmode. See dates, start times and who's playing. 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ O2 Academy is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, wi
 
 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*

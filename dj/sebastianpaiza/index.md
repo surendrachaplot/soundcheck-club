@@ -1,6 +1,6 @@
 # Sebastian Paiza
 
-Sebastian Paiza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
+Sebastian Paiza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 28 Nov 2026. Next at Gabriel Loci, Prague on Thu, 31 Dec 2026.
 
 Sebastian Paiza is a house and tech house artist based in United States of America, with 52 gigs on soundcheck across Berlin, Medellin and Prague. Often billed alongside Sam Gittis, Chad Andrew and Lucas Hulan. Next up: Gabriel Loci, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Sebastian Paiza is a house and tech house artist based in United States of Ameri
 
 Sam Gittis, Chad Andrew, Lucas Hulan
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpaiza/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpaiza/)*

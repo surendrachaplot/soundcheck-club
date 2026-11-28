@@ -1,13 +1,14 @@
 # Anahita Shamsaei
 
-Anahita Shamsaei is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 27 Nov 2026. Next at ÆDEN, Berlin on Sat, 19 Dec 2026.
+Anahita Shamsaei is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 28 Nov 2026. Next at Algha's Plantroom, London on Sun, 29 Nov 2026.
 
-Anahita Shamsaei is a techno and electro artist based in Iran, with 59 gigs on soundcheck across Berlin, Copenhagen, Istanbul and Karlsruhe and 3 more. Often billed alongside ANAHITA, Tafkanik and Milli. Next up: ÆDEN, Berlin on Sat 19 Dec.
+Anahita Shamsaei is a techno and electro artist based in Iran, with 60 gigs on soundcheck across Berlin, Copenhagen, Istanbul and Karlsruhe and 3 more. Often billed alongside ANAHITA, Tafkanik and Milli. Next up: Algha's Plantroom, London on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 29 Nov 2026 | Algha's Plantroom | London |
 | Sat, 19 Dec 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Anahita Shamsaei is a techno and electro artist based in Iran, with 59 gigs on s
 
 ANAHITA, Tafkanik, Milli
 
-*Updated Fri, 27 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitashamsaei/)*
+*Updated Sat, 28 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitashamsaei/)*
